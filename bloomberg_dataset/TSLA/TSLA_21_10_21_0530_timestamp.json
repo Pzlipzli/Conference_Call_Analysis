@@ -1,0 +1,938 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Afternoon, everyone, and welcome to Tesla's Third Quarter twenty twenty one Q and A Webcast. My name is Martin Vieja, Senior Director of Investor Relations, and I'm joined today by our CFO, Zachary Kirkhorn and our Senior VP, Drew Pagleno as well as other executives. Our Q3 results were announced at about three p. M. Central Time in the update deck we published at the same link as this webcast.",
+    "start": 3.84,
+    "end": 25.585
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "During this call, we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question and answers portion of today's call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue.",
+    "start": 26.305,
+    "end": 55.045002
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But before we jump into the Q and A, Zach has some opening remarks. Zach?",
+    "start": 55.125,
+    "end": 59.67
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Thanks, Martin. We're continuing to make great progress as a company, setting new records on each of the most important financial metrics for q three. Overall, we delivered just over two hundred and forty thousand cars, twenty percent higher than last quarter and seventy percent higher than the same quarter last year. We were also able to achieve an annualized production run rate of over one million cars towards the end of the quarter.",
+    "start": 60.79,
+    "end": 85.884995
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "The increase in production rate has primarily been driven by further ramping of the Model Y at our Shanghai factory. Additionally, we have made great progress increasing production volumes of Model S and have recently started the ramp and deliveries of Model X. It will take a bit more time to get this program back to prior volumes, but based on demand, we are targeting to exceed historical production levels. We have also completed the transition of our Shanghai factory as our main export hub. This has enabled us to supply more vehicles to the North America market and to introduce Model Y to Europe.",
+    "start": 86.7,
+    "end": 121.93
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Due to part shortages and logistics variability, we have not been able to run our factories at full capacity. It's important to note that while we have roughly doubled deliveries year to date, this has been exceptionally difficult to achieve. I want to thank our supply chain team for their incredible work and our production teams for showing impressive flexibility as we make adjustments real time. This team's expertise in the chip industry across all tiers has made a huge difference when managing through these challenges. Additionally, we never reduced our production forecast with our suppliers as we're adding capacity as quickly as possible.",
+    "start": 122.97,
+    "end": 157.8
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "I also wanna thank our suppliers for their dedication and partnership to Tesla. Despite these increases in production and generally higher prices, our backlogs are continuing to grow and average customer wait times are extending. The only practical way to address this in the immediate term is to do everything we can to build more cars on our existing production lines, which is where we are focused. Similar dynamics are also playing out in our storage business as we are working to expand Powerwall and Megapack production as quickly as parts and cells allow us to do so. Additionally, we have made good progress on the in house battery manufacturing program, and we're excited to have expanded the full self driving beta program to more customers.",
+    "start": 158.655,
+    "end": 199.705
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Financially, our auto gross margins reached thirty point five percent on a GAAP basis and just under twenty nine percent excluding regulatory credits, which is our strongest yet. This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the Model y as we and we have made good progress increasing Model s volumes. The Model s has now returned to positive gross margin, and we expect this to increase with higher production and the ramp of Model X. As was the case in Q2, there was some net benefit from pricing actions. However, this remains small in the context of other contributors.",
+    "start": 201.28,
+    "end": 237.86002
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Please keep in mind that given backlog, it will take time for the impact of recent changes to flow through our financials. Note that we are also not yet recognizing additional revenue from the FSD beta program. Supply chain challenges, including expedites, continue to provide cost headwinds as was also the case with FX this quarter. While we are seeing an impact from the rising commodity and labor costs, we have also been adjusting pricing, which should help to compensate. Overall, as I mentioned in our last call, our P and L continues to benefit from the marginal profitability of each incremental unit with higher fixed cost absorption.",
+    "start": 238.42001,
+    "end": 274.885
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "As a result of the great progress on margins, volume and appropriate management of overhead costs, we were able to achieve an operating margin of just under fifteen percent, exceeding the long term guidance we've laid out previously. On cash, we generated record operating cash flows of three point one billion and continue to invest heavily in the build out of manufacturing, supercharging, and service capacity. We also continue to retire high interest rate debt, including the early settlement of our twenty twenty five senior notes of one point eight billion dollars during the quarter. As we look forward, we are clearly quite a bit ahead of the pacing required to achieve our target annual growth rate of fifty percent this year. Q four production will depend heavily on availability of parts, but we are driving for continued growth.",
+    "start": 275.925,
+    "end": 324.15
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "We are also nearing assembly of our first production cars in Austin and Berlin. It's important to stress, while the first production car is an important milestone, the hardest work lies ahead in the ramp. Please keep in mind that we are pushing the boundaries on new product and manufacturing technologies at these factories, which makes it difficult to predict the exact pace of the ramp. These factories will also partially weigh on our margins as we work towards volume production. Overall, I'm very proud of what the team has accomplished, and I'm excited for our next phase of growth into q four and into twenty twenty two.",
+    "start": 324.965,
+    "end": 359.255
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "The team has done a tremendous job improving our financial health in a short period of time while also continuing to pursue improve our precision and pace of execution. Thank you.",
+    "start": 359.495,
+    "end": 369.735
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And we will now take questions from institutional and retail shareholders, that we posted on our website. The first question is, when should we expect the first vehicles to be delivered with forty six eighty cells?",
+    "start": 370.92,
+    "end": 385.4
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Yeah. Thanks, Martin. Early next year, from a non cell perspective, structural battery crash, range, and reliability testing are on track to be complete this quarter. Testing is to date has gone well, and the Fremont manufacturing line is on track to support. However, similar to what Zach said before, this is a new architecture and unknown unknowns may exist still.",
+    "start": 387.00497,
+    "end": 413.22
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Our top priority is ensuring quality in what we deliver. And from a sell perspective, we are comfortable with the design maturity and manufacturing readiness matching the pack timeline I just mentioned.",
+    "start": 414.515,
+    "end": 424.435
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The second question, from institutional investor comes, do you still expect to start production of the twenty five thousand dollars model in twenty twenty three? What are the biggest hurdles from now until then?",
+    "start": 426.57,
+    "end": 440.65
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Thanks, Martin. We're working on a strategy to increase our production rates as quickly as possible. I think Zach spoke to that well. And we're doing this well, trying to add the least amount of incremental complexity to the business. We don't wanna add any new vehicles to our lineup when we're generally in a cell constrained world while there is still more runway to grow these existing products.",
+    "start": 442.805,
+    "end": 466.84
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "We are focused on model y expansion in Austin, Berlin, ramping s and x further in Fremont to restore to past levels while also growing three and y production in Fremont and Shanghai. As we've mentioned before, after Model y in Austin, our next product launch will be Cybertruck, And that timing course depends on increasing cell capacity both from our suppliers and through our in house cell as well as many other headwinds we face in the supply chain and completing our currently full plate of products on the table.",
+    "start": 467.16,
+    "end": 495.18
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The third question is, with FSD beta training datasets set to explode exponentially as software is released to a wider and wider audience, are there any early takeaways with regards to how quickly versions can iterate and be pushed out from biweekly to weekly or even daily?",
+    "start": 496.745,
+    "end": 514.32
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "At this point, it's not so much about how much data can we collect, but how quickly can we process the data we've collected. This is where Dojo comes in, as we mentioned on AI day. With substantially faster training computer in Dojo, we will be able to iterate more often than we do now. If, for instance, say the training, the NAT takes one day instead of one week, makes a huge difference in our ability to push out more updates. But, realistically, there's a whole lot more that comes into play when iterating software updates.",
+    "start": 516.0,
+    "end": 548.73004
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "The whole infrastructure from top to bottom, including testing and validation, needs to be set up for faster iteration. So daily updates are not really realistic for now.",
+    "start": 548.81,
+    "end": 558.005
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The the next question is, can you provide an update on future model development and how much diversity in your fleet will be necessary to achieve twenty million in annual volumes? The best selling cars in the world today only sell slightly over one million units. So is it possible to achieve twenty million units with just s x three y truck and the twenty five thousand dollar car?",
+    "start": 558.565,
+    "end": 581.22
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Thanks, Martin. Yeah. As we've mentioned before, we've seen record growth in both Model three and Model y segments where Model three is currently the best selling luxury sedan worldwide. And as we mentioned at our shareholders meeting, Model y is poised to be the best selling vehicle in the world. Tesla continues to break molds, in these vehicle segments, and we hope to do so with each new product.",
+    "start": 582.305,
+    "end": 603.08997
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "As we've said publicly, we'll eventually expand the vehicle lineup to get to larger volumes, and we believe that we will need to be in all major segments across small, midsize, large sedans, SUVs, and trucks to do so, along with, of course, the massive space of robotaxi.",
+    "start": 603.49,
+    "end": 616.645
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The the next question, question from retail shareholder is, what is Tesla's goal for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin, and Berlin by twenty twenty four?",
+    "start": 618.085,
+    "end": 631.81
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Yeah. Thanks, Martin. You know, our our goal as a company here is to grow on an average pace of fifty percent per year. And, and so you can extrapolate that out. You know, there there may be some periods of time in which we're well ahead of that.",
+    "start": 635.41,
+    "end": 652.745
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "There could be some periods of time despite f effort best efforts where we're slightly lower than that. But that that remains the long term goal of the company. In in Fremont, you know, we're we're continuing to push the boundaries of what's possible there. Know, over the last twelve months, we've done about four hundred thirty thousand cars of production. And, you know, based upon everything that we know in the factory, where the bottlenecks are, what the potential is, we're we're targeting to increase that another fifty percent.",
+    "start": 652.745,
+    "end": 686.72
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "I think that will be a difficult goal, but that's the goal that the internal team has, and they're gonna continue to push on that. You you know, as we look towards Shanghai, we're continuing to push the boundaries there, and we continue to ramp production there as well. So most recently, the ramp of the Model y, which was our biggest contributor of volume in q three, we'll continue to ramp that factory. And, you know, and and our plans there with time are to to keep growing the capacity in that factory. Austin and Berlin are are interesting factories because know, our first iterations of capacity there are on Model y.",
+    "start": 687.6,
+    "end": 731.05505
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "But we've intentionally, set these factories in locations in which they have a quite significant amount of land and ability to expand. And so, you know, we'll take model y at these factories. You know, we're trying to get to five thousand cars a week as soon as we can, and then we'll continue to push beyond that, potentially even getting to ten thousand cars per week at those factories. And then we'll add Cybertruck here in Austin, and continue to grow from there. So, you know, our goal is to get to millions of cars per year over the next couple of years, and then ultimately, in the long term, be able to achieve twenty million cars per year.",
+    "start": 731.29504,
+    "end": 769.805
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "We're gonna grow as as quickly as is feasibly possible with an eye towards a fifty percent annual growth rate.",
+    "start": 770.47003,
+    "end": 776.95
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Great. Thank you very much. The next question is, what is your view on the tightening regulatory environment for FSD in the investigation and broad data request by NHTSA? Some of the recent nominees to NHTSA have been publicly critical of FSD, including engaging with short sellers online. How will you manage this environment?",
+    "start": 778.47003,
+    "end": 797.645
+  },
+  {
+    "speaker": "Lars Moravy",
+    "text": "Thanks, Martin. Yeah. As we have been for years, we always engage with NHTSA and other worldwide regulatory bodies to share our knowledge and to work with them on our approaches on both active and passive safety. There are ongoing regulatory inquiries taking place all the time and especially on the subjects like FSD that are at the cutting edge of technology development. During these investigations, my team, myself are always cooperative as much as possible.",
+    "start": 799.42,
+    "end": 825.18005
+  },
+  {
+    "speaker": "Lars Moravy",
+    "text": "We expect and embrace the scrutiny of these products and know that the truth about, their performance and the innovations our products have will ultimately be all that matters. In the end, and as I've said on previous calls, we take safety as a top priority in all our designs. This is because our primary motivation is from from a team of incredible engineers designing software and hardware that saves lives and prevents injuries. In doing so, we'll continue to be transparent to the public on how our technology is both developing from an autopilot safety data, the latest of which we just shared, in the in the shareholder, update. And you can also see and review a wide variety of customer post FSD videos on social media.",
+    "start": 825.26,
+    "end": 868.275
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Thank you. Right?",
+    "start": 870.59503,
+    "end": 873.075
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Yeah. Just to add to that, I mean, as Lars said, safety is extremely important for Tesla. It it's the right thing to do. And, you know, if you look at various independent testing and regulatory testing of our products, you can see the work of the incredibly talented engineers and the results of those tests. And, you know, our our goal in developing safety oriented software around the car is to to continue to go beyond what the hardware is able to provide.",
+    "start": 873.075,
+    "end": 903.525
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "If you can prevent a crash from happening, that's the safest way to manage this. And and I think at a macro level here, what we're seeing, and and this is entirely understandable and expected, is that, you know, the automotive industry is going through a transition from, the traditional car as we know it to more of a computer software oriented, sensor suites around them that can manage, things beyond just what the driver manages. And, and regulatory bodies are understandably so, are are interested in understanding how to regulate in this environment. And it's a it's no exception to that. So as Lars mentioned here, I think this is a great thing.",
+    "start": 904.56,
+    "end": 946.72
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "We're excited to partner, and we'll work collaboratively with all regulatory bodies, who who wanna to go on the journey to the transition to a software oriented vehicle.",
+    "start": 948.055,
+    "end": 958.855
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The next question is service remains an issue with appointments available weeks or even months out. Likewise, supercharger wait times have become an become an untenable at some locations. What concrete steps is Tesla taking to improve the customer experience in these two key areas?",
+    "start": 960.13495,
+    "end": 977.875
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Yeah. I'll I'll take the service part of this question. Drew, you can take the supercharging part. You know, we have seen an increase in service wait times throughout the summer. And, there's a couple of things that have contributed to that based upon the information that we have.",
+    "start": 980.115,
+    "end": 999.27
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "The the first is that, and I I think this is kind of not this is not unique to us, is that the the return to some sense of normalcy in a post pandemic world has happened, I think, more quickly than most people expected. And, and what we're seeing here is that that the number of miles that people are driving has increased. There may have been some demand for service during twenty twenty or in the early parts of twenty twenty one that customers put off, and so there's a bit of a catch up that's occurring that that has increased demand for service. At the same time, in the macro environment here, logistics, moving parts, sourcing parts, has become increasingly more difficult, which is well known issue in the world right now, as well as as, challenges in the labor market. And so there's kind of this simultaneous increase in demand for service, where the ability to supply that service, has been impacted for the reasons I mentioned.",
+    "start": 999.75,
+    "end": 1061.65
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "And so, you know, we saw an uptick primarily in Europe and North America in service wait times over the course of the summer, and we've been working extremely hard since then to address this. And we've seen our wait times come down. So this is not the case in every location, but if you think about it from regional average perspectives, we are seeing improvements there. We remain super focused on adding, adding locations. And so over the last year, we've grown our physical footprint of service centers by thirty five percent.",
+    "start": 1062.655,
+    "end": 1095.4849
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "We've grown our footprint of mobile repair by over forty percent. We're also adding staffing as quickly as we can in the areas that are most impacted by the imbalance of supply and demand for service. But I I think the most important part about all of this is, and we've said this on calls before, where the best service is no service. And so, we have been incredibly focused as a company both on, the initial quality of our vehicles and reliability of our vehicles. And we've seen pretty substantial improvements in both of those metrics, over the long term and over the last couple of quarters.",
+    "start": 1095.885,
+    "end": 1136.965
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "So it it is something that remains on our minds. We monitor this very closely, but hopefully, that's a helpful explanation into the context and what we're doing.",
+    "start": 1137.71,
+    "end": 1146.35
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. And on the supercharger side, the supercharging team monitors congestion and plans expansion to ensure customer experience met with minimal wait times alongside the growth in our vehicle fleet. While we certainly have work to do in expanding capacity in some congested areas, average congestion on the network has decreased over the past eighteen months. Nonetheless, we're not standing still. We are executing accelerating expansion plans globally.",
+    "start": 1148.99,
+    "end": 1178.82
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "The network has doubled in the last eighteen months, and we are planning to triple it over the next two years. And and even so, on an individual site basis, to combat existing congestion more quickly where it is isolated and problematic, We expedite local relief sites, deploy mobile superchargers, and we try to introduce pricing strategies that encourage more off peak usage to avoid the waiting.",
+    "start": 1179.525,
+    "end": 1204.22
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much.",
+    "start": 1205.5,
+    "end": 1206.5399
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "And one just one thing to add on supercharging. You know, if you haven't experienced, our latest iteration of battery packs that can handle fast charge rates in combination with, our two hundred fifty watt kilowatt charging stations is pretty incredible. And this is a really important component to supercharging capacity because, the faster you can charge, the more charged sessions that you can have on an individual post, the better the customer experience is as you're going on a long term journey because your supercharging times are lower. Yeah. So this is a really important part of the strategy.",
+    "start": 1207.26,
+    "end": 1245.4451
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Supercharging team has done a great job rolling these out, but, it requires a combination of both the two hundred fifty kilowatt charging and our latest iteration of battery packs.",
+    "start": 1245.4451,
+    "end": 1254.965
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "And we've we've also maintained, an ongoing road map on software improvements, dynamic routing to avoid busy superchargers. That that's actually really helpful. We take the real time busyness of the stations into account when choosing where where to navigate people on their on their road trip. And beyond that, we're also continuing to improve the trip planner itself and how it estimates how much energy people use so it's not too conservative in asking people to charge more than they need to, which is another thing that can delay a a total trip. Great.",
+    "start": 1255.55,
+    "end": 1288.7999
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The next question is, is Tesla considering any other ideas other than FSD with real world AI that can bring additional software revenue to Tesla? If not, can Tesla consider building interesting games around FSD beta?",
+    "start": 1288.7999,
+    "end": 1303.195
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Sure. At AI I at AI Day, we did talk about potential future, where Dojo could be used as a neural net training platform for other companies. It's not a focus of ours today as we're fully subscribed on Dojo with our internal uses. We do expect to continue to improve the in car experience in the context of FSD.",
+    "start": 1308.075,
+    "end": 1328.1449
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Great. Thank you. And maybe last question from shareholders is how does FSD take rate, how has FSD take rate changed since introduction of monthly subscription? Are there any plans to increase the FSD pricing as why the release becomes imminent?",
+    "start": 1329.025,
+    "end": 1343.93
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "I'll take the second part of the question first. You know, we won't be providing any forward looking commentary on our pricing strategy or what may happen here, over the near term. With respect to the first part of the question, it has been an interesting thing for us to unpack within the company. I mean, what what I'll say just as a general statement before I make a couple specific comments is that, you know, the things that we learn on FSD subscription today are are not necessarily all that relevant. This is really more of a platform, for when FSD beta goes into wide release and the features and functionality become more accessible to more customers.",
+    "start": 1345.6901,
+    "end": 1389.255
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "The the second thing that I'll note is that, you know, if you if you look at the pricing, the monthly pricing of FSD subscription, and then you compare that to the cost of, you know, rolling FSD option into your lease or your loan, you know, on a monthly basis, the most economical way for a customer to enjoy the features of full self driving, is through purchasing it upfront and and rolling it through their financing. And, you know, as a result of that, what we've seen in the data is is not we're we're unable to detect a change in the upfront take rate of FSD when people purchase cars. We have seen quite a bit of activity of folks curious to experience what the software has to offer and subscribing to it and enjoying it through that route. But, again, as I said at the beginning, you know, I I think what we've seen so far on FSD subscription is not terribly relevant. You know, we'll we'll see how that plays out in the future as we continue to release more features.",
+    "start": 1389.895,
+    "end": 1447.875
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And, now let's go to analyst questions. I just wanted to remind everyone to, click on, raise hand button if you want to ask a question. The next question comes from Pierre Ferragu from, New Street Research. Pierre, feel free to unmute your mic and go ahead.",
+    "start": 1449.45,
+    "end": 1468.715
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Pierre, I think your mic is muted. Okay. While, Pierre works on that, let's go to the next, analyst. The next question comes from Joseph Spak from RBC. Joke, we cannot hear you.",
+    "start": 1477.32,
+    "end": 1519.685
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Can you click unmute? Okay. While, while the, the team is working on that, let's just go back to, say dot com questions. So the next say dot com question is, can Tesla allow for FSD to be transferred to another vehicle at a fee, something less than ten k? Early adopters are paying the price if they want to upgrade their vehicle.",
+    "start": 1519.685,
+    "end": 1562.9899
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You lose the value on the trade in, and now you have to buy in at a higher cost.",
+    "start": 1563.23,
+    "end": 1568.945
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "I don't think that this is widely known, but we're already actually doing the sentiment of what this question is asking. If you trade in your Tesla, to Tesla, we there's a a difference in price that we pay for a trade in that has FSD compared to one that doesn't. And, and so there's there's that premium that we pay to repurchase the FSD. That money can then be applied towards the purchase of a new car. So I I just you know, I we hear this feedback quite a bit.",
+    "start": 1573.105,
+    "end": 1605.495
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "We see it on social media. We see it in the forums, etcetera. And, and so this already does exist. Not not directly in the form here, and and we don't call it out explicitly in the trade in potentially that we have increased the price of your trade in as a result. And, hopefully, this clears this up because we do actually do that.",
+    "start": 1605.495,
+    "end": 1625.2849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. And the next question is, Elon, we Elon said that we get an update on Cyber truck in November a year ago, but it hasn't happened, and we know there are a lot of updates. Will you show off the new and improved cyber truck? Yeah.",
+    "start": 1627.5249,
+    "end": 1645.14
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Thanks, Martin. We get a lot of questions on cyber truck. We've been busy detailing the Cybertruck to to achieve the the prototype version we shared with customers a while back. As you may have seen recently on social media, we've built a number of alphas and are currently testing those to further mature the design. And while those point out a few key additions like rear steer, there are also a number of smaller or less visible improvements, though the product is largely true to the initial vision.",
+    "start": 1645.14,
+    "end": 1675.4099
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We'll continue to through the product in the beta stages that we're in now, and and look to launch that, lately next year.",
+    "start": 1676.05,
+    "end": 1683.5049
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you very much. We just promoted Pierre to a presenter.",
+    "start": 1685.105,
+    "end": 1690.465
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Can you",
+    "start": 1690.465,
+    "end": 1690.705
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "hear us?",
+    "start": 1690.705,
+    "end": 1691.025
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Can you hear me, guys?",
+    "start": 1691.67,
+    "end": 1693.51
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes, we can hear you.",
+    "start": 1693.5901,
+    "end": 1694.87
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "Amazing. I'm very impressed that you managed to feel that I was",
+    "start": 1694.87,
+    "end": 1698.71
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "loud. We",
+    "start": 1699.3501,
+    "end": 1700.87
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "have, too. Thank you, Pierre.",
+    "start": 1700.87,
+    "end": 1702.55
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "I would have panicked. Anyway, let me ask you my question. I actually I'm very intrigued by what you guys are doing on the insurance front. And so you have now in the market in Texas an insurance product for which the premium varies as a function of the safety score of the driver. And so I'd love to hear you about that.",
+    "start": 1703.1901,
+    "end": 1726.84
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "You know, you must have some initial data points of that market reaction. You know, what's the uptake? And from there, can you tell us about how you think you're going to distribute that? Is that going to go through your installed base very easily, or is it going to be like a heavy marketing push? And then maybe tell us about your expansion plans.",
+    "start": 1726.84,
+    "end": 1747.6849
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "You know, what are the next geographies? What's the timing? How fast is that business line likely to grow in the next few years?",
+    "start": 1747.6849,
+    "end": 1755.3999
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Thank you, Pierre. I'm I'm extremely passionate about our insurance product. We have a terrific team here at Tesla of folks who have been spending a lot of time developing this and probably listening to the call. So, we're we're pretty excited so far, Pierre.",
+    "start": 1756.6,
+    "end": 1773.6149
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So, I mean, at the highest level here, you know, we entered the insurance market kind of unintentionally, I would say. You know, our customers were coming to us complaining that the price of traditional insurance was too high, and it was reducing the affordability of a Tesla. And part of our journey here at Tesla is we want as many people as possible to be able to afford our products. That's extremely important to achieving the mission of the company. And if you look at the price of insurance as a percentage of what somebody's monthly payment is, it's quite high.",
+    "start": 1774.015,
+    "end": 1809.69
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And we spend extreme amounts of effort in manufacturing to take five dollars of BOM cost out here or ten dollars out somewhere else. If we can get, you know, five, ten, twenty, thirty dollars out on a monthly payment, you can calculate what that means in terms of reduction of of the price of the car if you finance it. And the leverage of improving insurance cost is huge in terms of affordability. And so that's kind of the context by which we stepped into this. As we started to do more research, you know, essentially, the tools by which the, insurance is traditionally calculated, are optimized based upon the existing data, but the existing data is limited.",
+    "start": 1810.25,
+    "end": 1857.805
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So they there's a focus on things like marital status or age or, other attributes like that. You know, accident history is a good one, etcetera. What what what essentially happens here is customers who are low risk, and and don't actually file many claims end up overpaying on their insurance relative to their cost. That overpayment then goes to riskier customers who are essentially being subsidized. And, you know, as we looked at this and we looked at the data, we thought this this just doesn't seem like it's fair.",
+    "start": 1858.5,
+    "end": 1894.8298
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "You know, at Tesla, because our cars are connected, because they are essentially computers on wheels, There's enormous amounts of data that we have available to us to be able to assess, the attributes of a driver who's operating that car and whether those attributes correlate with safety. Because we do get a signal when a car has been in an accident. So we've been spending our time looking looking at, you know, hundreds of different variables, and also looking at billions of miles of driving history. And we've been able to fit a model that that is able to predict with decent accuracy the probability of collision over a period of time. And and the model is not perfect.",
+    "start": 1896.11,
+    "end": 1943.1749
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Right? The model is a function of the data that we have available. That dataset continues to grow. We continue to experiment with with new variables, but we do have a model that, that that works pretty well so far. And and from that model, being able to predict frequency of collision, we can then align that against a price curve.",
+    "start": 1943.1749,
+    "end": 1964.705
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And we can have into individualized pricing, integrated into the car, integrated into the app, integrated into that customer's experience with a feedback loop back to the customer on how they are driving after every drive, the attributes that they were successful on or unsuccessful on, and the tips of things that they can do to improve their safety. So that's what we've developed. We then included the safety score as a part of the FSD beta enrollment program where, you know, we have almost a hundred fifty thousand cars currently using the safety score, and I believe the latest data is over a hundred million miles of driving. So we've been able to go back and analyze that data, and we've learned two things coming from that. The first is that, the probability of collision for a customer using a safety score versus not is thirty percent lower.",
+    "start": 1965.105,
+    "end": 2021.785
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "It's a pretty big difference. It means that the product is working and customers are responding to it. The second thing that we've looked at is what is the probability of collision based upon actual data as a function of a driver safety score? And that is aligning with our models. Most notably, you know, if you're in the top tier of safety compared to lower tiers, you know, there's multiple x difference in probability of collision based upon actual data.",
+    "start": 2022.1051,
+    "end": 2051.5652
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So, you know, this is a a very new and very exciting frontier for us. I I know that was long winded, but I I we spent a lot of time on this, and we put a lot of thought into it. Specifically with respect to the rollout, the insurance industry in the US is intensely regulated, and it's regulated on a state by state level. That means that we require regulatory approvals from each individual department of insurance at each individual state. Texas is the first state that we launched in.",
+    "start": 2052.205,
+    "end": 2083.2249
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "I do wanna thank the the Texas insurance regulate regulators here. You have been great to work with. We have a road map of of additional states. We will launch the product in those states as we receive regulatory approvals, and our goal is to be in every major market in which we have cars in. The the we we did a soft launch in Texas.",
+    "start": 2083.785,
+    "end": 2104.68
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Was it last week? Mhmm. Yeah. And, you know, what we're seeing in initial take rate data is that, you know, if you compare that to what we're seeing in California, we're we're off to a good start here. So we're very excited about it.",
+    "start": 2107.005,
+    "end": 2124.79
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "We're excited about individual risk based pricing. We're excited about the ability for folks to become safer and, as a result, save money. And it feeds into our priority of a company of of building the safest products in the world.",
+    "start": 2124.79,
+    "end": 2139.0051
+  },
+  {
+    "speaker": "Lars Moravy",
+    "text": "Yeah. If I can add to that, just it's really exciting for the engineering team to see the finance team, and and taking on, you know, safety in into their, world too. It's it's pervasive. So thanks for that, guys.",
+    "start": 2140.605,
+    "end": 2152.5
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thank you, Lars.",
+    "start": 2152.58,
+    "end": 2153.62
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thank you. Pierre, do you have a follow-up question?",
+    "start": 2154.82,
+    "end": 2157.2202
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "No. I I think I'm fine, Zach. Thanks for taking the time to answer. It's fascinating and very interesting. Yes.",
+    "start": 2160.58,
+    "end": 2166.065
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "I look forward to looking into that.",
+    "start": 2166.065,
+    "end": 2167.745
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The next question comes from Joseph Spak from RBC.",
+    "start": 2168.7048,
+    "end": 2173.265
+  },
+  {
+    "speaker": "Joseph Spak",
+    "text": "Thanks. Can you hear me?",
+    "start": 2179.55,
+    "end": 2180.9102
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah, we can hear you.",
+    "start": 2181.07,
+    "end": 2182.59
+  },
+  {
+    "speaker": "Joseph Spak",
+    "text": "Perfect. Zach, you know, as you noticed or as you noted, you know, you hit low teens operating margins. That was your medium term target. You're there now despite the number of challenges and, you know, not full utilization of some of the plants. So, you know, how are you thinking about that target now?",
+    "start": 2182.59,
+    "end": 2200.6648
+  },
+  {
+    "speaker": "Joseph Spak",
+    "text": "Does it allow you to either drive price down further to unlock more demand, invest in other initiatives, or does that target need to need to change? And then longer term, do you have an aspirational gross margin target as the mix of software and hardware changes?",
+    "start": 2200.6648,
+    "end": 2217.59
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. We we have achieved we've actually exceeded our long term guidance on, on our operating margin target. So we're very pleased to see that. You know, as we look out over the next quarter and the next year, there's kind of there's a number of of puts and takes financially for the company. You know, the the launch of Austin and Berlin will have ramp inefficiencies there for some period of time until we get those factories up and running.",
+    "start": 2219.8298,
+    "end": 2252.925
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And so that's likely to put some downward pressure on our margins as those factories ramp. Our goals are to ramp those as quickly as possible. But as Drew mentioned earlier, there are a number of unknown unknowns that we'll need to work through. We we are kind of also in this, uncertain environment with respect to cost structure. So we are seeing costs increase on the commodity side.",
+    "start": 2253.405,
+    "end": 2278.44
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "We're getting feedback from our suppliers as we are seeing ourselves, you know, the impact of labor shortage. And then logistics and expedite costs just continue to be a part of our story here. And it's uncertain how that will unfold. You know, it's our hope that these things stabilize. Exactly when that happens is difficult to predict.",
+    "start": 2279.975,
+    "end": 2300.27
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And, you know, we have been adjusting pricing in line with those changes in cost. And so, you know, we'll we'll see we'll see how that unfolds over the course of the next year. So it's difficult on gross margin to say where that will go, you know, for those reasons. With respect to operating margin, we've been very focused as a company on managing our overhead expenses and operating expenses. And,",
+    "start": 2300.91,
+    "end": 2329.15
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "you",
+    "start": 2329.15,
+    "end": 2329.39
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "know, operating expenses as a percentage of revenue has been declining, and I expect that trend to continue to happen. And and I think the net of all of this is is hopefully that we continue to make progress in operating margin over the next four or five quarters. As we think kind of forward, you know, the business up until this point has kind of largely been a hardware automotive business with a little bit of software on top of that. As full self driving matures, as take rates increase, you know, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware based company and a software based company. So, you know, we feel optimistic about the journey, very optimistic about the journey as we look over into the long term.",
+    "start": 2329.39,
+    "end": 2382.4602
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Just a little bit difficult over the next four to five quarters. You know, we'll continue to update on earnings calls as we learn more information. There's just a lot of uncertainty in the world right now.",
+    "start": 2382.7,
+    "end": 2392.595
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Joe, do you have a follow-up question?",
+    "start": 2394.515,
+    "end": 2396.835
+  },
+  {
+    "speaker": "Joseph Spak",
+    "text": "Yeah. The second question is just, you know, you mentioned LFP packs globally for for standard range models. You know, my understanding is that all comes from from China. Is that the continued go forward plan, or do you wanna do wanna develop LFP capabilities in other REIT factories around the world?",
+    "start": 2396.835,
+    "end": 2417.23
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. Certainly, goal is to localize all key, you know, parts of the vehicles, on the continent, at least the continent, if not closer, to where the vehicles are produced. So, that that is our goal. We're working with you know, internally and with our suppliers to accomplish that goal, and not just at the end assembly level, but, you know, as far upstream as possible.",
+    "start": 2419.085,
+    "end": 2441.48
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And the next question comes from Colin Langham, from Wells Fargo. Colin, are you able to unmute? Okay. While we're waiting for that, let's go to the next one.",
+    "start": 2443.48,
+    "end": 2478.0798
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Do Yes, we can hear you now.",
+    "start": 2478.0798,
+    "end": 2480.245
+  },
+  {
+    "speaker": "Colin Langham",
+    "text": "Perfect. Sorry about that. Okay.",
+    "start": 2480.245,
+    "end": 2481.925
+  },
+  {
+    "speaker": "Colin Langham",
+    "text": "Yeah, just actually kind of following up on the question before. You had mentioned commodities are rising and when I look at a lot of the key raw materials in the battery, cobalt, nickel, lithium, all up forty percent. And I know you guys have done a good job of getting long term contracts to sort of mitigate that impact. I mean, have you seen so far any impact from that spike? And if not, I mean, any sense of of when that raw material headwind might actually show up or or has shown up?",
+    "start": 2482.645,
+    "end": 2513.425
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. We we have seen an impact. Our primary exposure right now is around nickel and aluminum, nickel in the cell, aluminum in non cell. And, you know, we have a mixture of contracts with various suppliers. You know, some materials we contract directly, and we have full exposure to price fluctuations.",
+    "start": 2515.585,
+    "end": 2534.36
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "We do have a number of long term commitments, long term contracts in place. We also have contracts where there's some amount of cost sharing based upon the movement of indexes. And and so, you know, as as these have been moving, some of those costs have been flowing through to us. It's not a substantial amount of cost, but it's not small. As as we look towards the next year, you know, I certainly hope it doesn't play out this way, but it's possible that that we continue to see more, of cost headwind as a result of these movements.",
+    "start": 2535.345,
+    "end": 2570.325
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "It it's difficult to say precisely, but, you know, the volatility and and the increases are just substantial so substantial. And and there are certain suppliers that, maybe up to a certain point, have been absorbing some of the increase. And as as contracts expire there or we have to renew and extend them, we'll have to return to negotiations. And so, you know, what what we have to do as a company and what we are intensely focused on is we need to be continuing to drive down the cost of our products, which we have been doing, and we have to overcome cost increases that are outside of our control. So whether that's, resourcing components or redesigning components or finding ways to be more efficient in manufacturing, we have no choice but to continue on that path and be even more aggressive in the light of the macroeconomics here.",
+    "start": 2571.9248,
+    "end": 2624.665
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "And diversification. Right? Like, you know, it doesn't need to be nickel or cobalt or I mean, there's there's there's always another option.",
+    "start": 2624.665,
+    "end": 2634.1802
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And, Colin, do you have a follow-up question? Okay. Let's go to the next one. The next question comes from Colin Rusch from Oppenheimer.",
+    "start": 2636.5,
+    "end": 2654.835
+  },
+  {
+    "speaker": "Colin Rusch",
+    "text": "Hey, guys. Can you hear me okay?",
+    "start": 2656.98,
+    "end": 2658.66
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah, we can hear you.",
+    "start": 2658.66,
+    "end": 2660.1
+  },
+  {
+    "speaker": "Colin Rusch",
+    "text": "Perfect. Can you talk a little bit about your strategy around anode materials and your ability to leverage that into a reduction on the cathode side and performance from the LFO?",
+    "start": 2660.1,
+    "end": 2669.62
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Sure. I I don't know that I'm gonna get into too many specifics, but, I guess, one thing I would say is unlike the commodities discussion we we just had, like, the anode materials are are not really in the same situation just in terms of what their constituent components are. So there's there's less of a a focus on, like, rapidly changing them one way or the other, because they're generally stable, commodities. There isn't exactly, like, a tit for tat where, like, get a better anode, use less cathode. Like, the the the there's a fundamental ratio that you need to maintain for the cell to function.",
+    "start": 2675.2751,
+    "end": 2718.1
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "So our I guess, zooming out, the primary focus on the anode side that we have is just ensuring that it doesn't in any way that we are able to continue to reduce the cost of the anode without impeding on the long term cycle cyclability of the product. It can also help with energy density. You know, as you, like, sort of improve the energy density of the anode, you improve the energy density of the cell, not not directly one to one because you have to pack more cathode in as the anode gets better. And that that's a focus as well, but but the the trade space is is just sort of cycling versus versus day one cost.",
+    "start": 2719.46,
+    "end": 2758.145
+  },
+  {
+    "speaker": "Colin Rusch",
+    "text": "That's super helpful. And then just around the vehicle pricing strategy, obviously, there's a lot of flexibility there for some customers and not. Can you just talk a little bit about the process around vehicle pricing and how quickly you expect to change that and adjust as you see some of these commodity prices flow through the cost structure and you look at the demand dynamics for vehicles?",
+    "start": 2759.825,
+    "end": 2782.705
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Pricing has been a really difficult thing for us, over the last couple of quarters. And, you know, we're part of the part of the challenge is well, I mean, the great thing that we're seeing in the space right now is, you know, there there appears to just be quite a profound awakening of the desirability for electric vehicles. And, I mean, to be totally frank, it's caught us a little bit off guard. And,",
+    "start": 2784.465,
+    "end": 2817.205
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "you",
+    "start": 2817.205,
+    "end": 2817.365
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "know, that that kind of awakening and and changing consumer sentiment, I'm sure there's lots of reasons that go into it, but, folks wanna buy an electric car and folks wanna buy a Tesla right now. It's very exciting for us. You know, at the same time, we have installed capacity to build more cars, but we're constrained by a number of dynamics as we've talked about in great detail. And we are putting in extreme effort to build as many cars as we possibly can. It's it's hard to overstate how extreme the efforts are.",
+    "start": 2817.365,
+    "end": 2852.94
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "It's quite the grind. We're trying as hard as we can to to maximize that capacity and to be able to meet the demand that we're receiving. But, you know, the net net of all of this is that we're not able to increase production capacity fast enough. So, you know, the the at the same time, we we are seeing macroeconomic cost impacts on our structure as we've discussed previously on the call. So we're trying to think through, you know, if somebody orders a car now, it'll it could be delivered in some cases, and depending upon the car in which factory, could be couple of months, could be a couple of quarters.",
+    "start": 2853.0999,
+    "end": 2896.0752
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And the timing in which we build that car will be just, you know, just before that car gets delivered. And, you know, what will the world look like at that point? And so we're we're trying to think through how the cost structure is evolving, how does how does pricing need to change with that, what are the supply dynamics in the space. The the other thing that I'll just note on pricing is that, you know, companies change pricing all the time. The the difference is that when Tesla changes pricing, it's extremely transparent, where that's not always the case otherwise.",
+    "start": 2896.715,
+    "end": 2929.4648
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And, you know, sometimes our pricing will increase. Sometimes our pricing will reduce. Sometimes to the public, our pricing changes may not seem to make logical sense. But, you know, there is a strategy that we work behind the scenes as we're balancing supply and demand, as we're, also trying to balance various shortages on parts, as we're trying to manage wait times. All of that goes into the optimization here.",
+    "start": 2930.44,
+    "end": 2954.495
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you very much. The next question is from Brian Johnson from Barclays. And, Brian, please go ahead and you can unmute.",
+    "start": 2957.22,
+    "end": 2965.06
+  },
+  {
+    "speaker": "Brian Johnson",
+    "text": "Tesla team?",
+    "start": 2975.775,
+    "end": 2976.895
+  },
+  {
+    "speaker": "Brian Johnson",
+    "text": "We can hear Yeah, no, it's, by the way, great to hear there's a team at Tesla, not just a one person show. I wanna drill down a bit more on FSD. You know, in December of twenty twenty in a business insider interview in Germany, your leader said that he expected level five autonomy by December within a year, so that would be now. Yet, you know, we look at the progress in FSD and, you know, some of the issues you see on YouTube, and it looks very much like a level two two plus system that requires, vigilance is in fact your disclaimers say. So I guess three questions.",
+    "start": 2978.255,
+    "end": 3020.26
+  },
+  {
+    "speaker": "Brian Johnson",
+    "text": "Kind of one, what is the timetable to get to level four, at least capability? We can deal with the regulatory stuff later. Two, you know, what is the criteria for Zach for you to release revenue deferred revenue around FSD, and is having a level two system that needs monitoring enough to release that deferred revenue? And then three, you know, maybe you could talk a little bit more about how you plan to work with the new, with the folks at NHTSA who appear to be, you know, asking some questions. They have three requests out to you regarding information around the level two around the capabilities of FSD.",
+    "start": 3020.26,
+    "end": 3062.215
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yes. I guess we'll take them in order. You know, it's difficult to be specific on the timelines. The Autopilot team is working extremely hard iterating on every version. We are being extremely transparent, you know, through the release of this to public customers who are posting information online.",
+    "start": 3066.9102,
+    "end": 3088.375
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So, you know, when you're using full self driving and you're going through the iterations, you can feel the progress. And, for those who don't have it in their cars, you know, social media is excellent at getting a sense for how that's progressing. And the team is moving quickly, with every iteration, with every update, and they're working very hard on that. On your second question about the criteria to release deferred revenue, the the way that this works is, you know, we we have made certain commitments as, as to what this this product can offer at the time that a customer has purchased that. And so what we have to assess is, you know, have we met those commitments, and is, the software, widely available to the folks that we've made those commitments to within a certain geography.",
+    "start": 3088.935,
+    "end": 3140.905
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And, you know, given that FSD is still currently in the beta phase, it's invitation only and it's limited, we have not deemed that to be appropriate for recognition of deferred revenue. And we'll continue to evolve this. We'll continue to monitor it within the finance team, to see when we get to the milestones in which we're comfortable releasing. On the NHTSA question, Lars, do you wanna take that?",
+    "start": 3141.545,
+    "end": 3167.485
+  },
+  {
+    "speaker": "Lars Moravy",
+    "text": "Sure. I mean, as I said earlier, we always cooperate fully with with with NHTSA and other regulatory bodies in in any sort of investigation they may have, particularly related to, you know, ADAS systems when they came out with the standing general order in July. We we we were quick to respond to that and and one of the first and only companies capable of actually meeting the the needs of of that report. We continue to send that information to them as required, you know, weekly and as incidents occur. And with the additional investigations, as I said, we meet that with great sincerity and we'll work through them one by one to make sure that all the facts come out and and and that NHTSA is well informed about our strategies for both active safety in this case, but also passive safety.",
+    "start": 3167.485,
+    "end": 3214.84
+  },
+  {
+    "speaker": "Lars Moravy",
+    "text": "As you guys may know, we released updates to our airbag and restraint system last week to model y using our fleet data. We worked closely with Netsa on that, and and they were fully in the loop before we did it. So, I I think these kinds of things will continue to to to happen in the the new regulatory space that Zach discussed, as we move towards a software based vehicle, and we're happy to be a part of that journey.",
+    "start": 3215.88,
+    "end": 3240.1602
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And the next question comes from Trip Chaudhry.",
+    "start": 3241.6,
+    "end": 3245.68
+  },
+  {
+    "speaker": "Trip Chaudhry",
+    "text": "Thank you. Very good quarter. I had two quick questions. So first is regarding the two upcoming factories in Berlin and Austin. Who are the two factories different from each other, maybe in the layout, design, assembly lines?",
+    "start": 3249.2952,
+    "end": 3265.3398
+  },
+  {
+    "speaker": "Trip Chaudhry",
+    "text": "And the second question is related to Cybertruck. Who is the supplier looking at if you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, say, in twenty three, twenty four time for Cybertruck? That's all for me.",
+    "start": 3265.5798,
+    "end": 3286.4153
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. Sure. So, obviously, as as we've noted in the past, we developed, you know, our own our own stainless steel grade for the exterior Cybertruck to meet both the durability and corrosive requirements required for an automotive world. With this raw material and others, as Drew mentioned, we continue to look at multiple sources. We have made some early sourcing decisions in that, but I think we'll keep that one, internal, and we've already began, the first casting of that.",
+    "start": 3288.0952,
+    "end": 3315.8052
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "You know, rolling stainless isn't so different from from pulling any other, material. It's just about how hard the rollers are to get to that hardness level. And, you know, just like every manufacturing process we put in for every new vehicle, we'll work with our suppliers and vendors to make sure those timelines and and supply meet the need and demand of our customers.",
+    "start": 3316.1301,
+    "end": 3333.0552
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "And on the differences between Austin and, Berlin, there are some. They're largely associated with the the different sort of building architectural choices that were you know, happen to occur, in collaboration with, like, local codes and and and other sort of governing requirements that drive the differences in the architecture between the locations. In general, though, like, we're trying to progress the manufacturing system as a system and make sort of logical, like, path defined improvements from factory to factory. And in some cases, there was an improvement identified between, like, decisions for one Austin, the other Berlin, or vice versa. And so there might be a slightly newer iteration of one part of the factory in one place than the other, but they're it's all part of a, like, a path forward in the factory that builds the machine the machine that builds the machine.",
+    "start": 3335.935,
+    "end": 3394.955
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Sorry.",
+    "start": 3394.955,
+    "end": 3395.5151
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And the last question comes from, Jett Dorsheimer from Canaccord.",
+    "start": 3396.715,
+    "end": 3402.555
+  },
+  {
+    "speaker": "Jed Dorsheimer",
+    "text": "Can you hear me?",
+    "start": 3405.47,
+    "end": 3406.75
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yes. We can hear you.",
+    "start": 3406.99,
+    "end": 3408.3499
+  },
+  {
+    "speaker": "Jed Dorsheimer",
+    "text": "Hey. Thanks for taking my question. So, so, Brandenburg, I'm just wondering, Zach, if you could, if you could estimate the carry cost from a margin perspective, or, I guess, in two parts. So when do you when do you expect do you still expect, production coming on in twenty one, so, you know, a couple months left in December. And how do you see that, margin impact as a function of the, carry cost?",
+    "start": 3408.3499,
+    "end": 3442.51
+  },
+  {
+    "speaker": "Jed Dorsheimer",
+    "text": "And I do have a follow-up question.",
+    "start": 3442.51,
+    "end": 3444.11
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Sure. So it it remains our target, in both Austin and Berlin to be able to build our first production cars before the end of the year. You know, we've talked about this a bit, you know, the unknown unknowns, new factories, new vehicle designs, new technologies, new locations, new re new teams. So, you know, there's, quite an execution journey ahead of us, but that remains our target, and all of our plans are oriented around that. We, you know, for, we we should not expect for for us to deliver cars by the end of twenty twenty one from these factories even if we do produce some.",
+    "start": 3445.7751,
+    "end": 3487.6648
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So, homologation, regulatory reasons, and we'll want to make sure that we build up some number of cars that, that we're confident in the quality and the customer experience around them. The the second thing that I'll say, and I mentioned this in my opening remarks, is be because of the newness here, it's extremely difficult for us to be precise in what the ramp will look like. And it's possible things things the stars align and things move quickly. It's possible that we're spending the bulk of next year working on ramping these factories. It it's just very hard to say, and we'll continue to update you all through these calls and through other forums.",
+    "start": 3488.49,
+    "end": 3530.03
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "As to how that then impacts our margins, that is also difficult because that is a function of the ramp, which is uncertain. So the the benefit here, which is different in the ramp of these factories compared to other factories, is if you think about the percentage of our total cost structure in any given quarter that is associated with new ramps, we have the Fremont factory that's running, generating stable and growing margins there. The same is also true in Shanghai. So, I I expect we'll see some amount of headwind on margin from these ramps. It's just entirely dependent on how quickly we're able to ramp and what uncertainties come up during the process.",
+    "start": 3530.905,
+    "end": 3574.135
+  },
+  {
+    "speaker": "Jed Dorsheimer",
+    "text": "Sure. So on a margin per car, but I would I would suspect, though, if your carry cost is full right now on the that as you start producing vehicles, it's going to be a margin lifter from where you're at right now. No?",
+    "start": 3575.65,
+    "end": 3593.865
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "I mean, we are carrying some amount of cost associated with the factories today. And so the the incremental cost associated with turning the factories, you know, it's not a hundred percent of the factory, if that's what you're getting at in your question.",
+    "start": 3595.705,
+    "end": 3609.96
+  },
+  {
+    "speaker": "Jed Dorsheimer",
+    "text": "Yep. That's what I was getting at.",
+    "start": 3609.96,
+    "end": 3611.96
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. We also actually saw a very similar dynamic to this when we were launching, Model s earlier in the year. So, you know, when when fact when a product starts launching, and then cost cost of goods sold starts to activate, depreciation starts to activate, you know, there's there's a bit of a a movement in the p and l as to where that cost resides. So, yes, I mean, to some extent, Brandenburg and Austin costs are already flowing through our p and l, but we still need to continue staffing and ramping and incurring all the operating costs associated with the factory that we're not spending right now.",
+    "start": 3612.555,
+    "end": 3646.595
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Fantastic. Thank you very much, everyone, for all your questions, and, we'll see you again in three months. Thank you very much, and goodbye.",
+    "start": 3647.8787,
+    "end": 3656.1987
+  }
+]

@@ -1,0 +1,332 @@
+Q2 2022 Earnings Call
+Company Participants
+Farhan Ahmad, Vice President of Investor Relations
+Sanjay Mehrotra, President and Chief Executive Officer
+Sumit Sadana, Executive Vice President, Chief Business Officer
+Other Participants
+Ambrish Srivastava, Analyst, BMO
+CJ Muse, Analyst, Evercore
+Chris Danely, Analyst, Citi
+Joe Moore, Analyst, Morgan Stanley
+John Pitzer, Analyst, Credit Suisse.
+Mehdi Hosseini, Analyst, SFG
+Pierre Ferragu, Analyst, New Street Research
+Timothy Arcuri, Analyst, UBS
+Toshiya Hari, Analyst, Goldman Sachs
+Vivek Arya, Analyst, Bank of America Securities
+Presentation
+Operator
+Thank you for standing by and welcome to Micron Technology's Fiscal Second Quarter 2022 financial conference call
+
+At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. (Operator Instructions). I would now like to hand the call over to Farhan Ahmad, Head of Investor Relations
+
+Farhan Ahmad{BIO 20748275 <GO>}
+Thank you and welcome to Micron Technology's Fiscal Second Quarter 2022 financial conference call on the call with me today are Sanjay Mehrotra, President and CEO and Sumit Sadana, our Chief Business Officer and Interim CFO. Today's call is approximately 60 minutes in length and is being webcast from our Investor Relations site at investors.micron.com including audio and slides.
+
+In addition, the press release detailing our quarterly results has been posted on the website along with the prepared remarks for this call, today's discussion of financial results is presented on a non-GAAP financial basis unless otherwise specified a reconciliation of GAAP to non-GAAP financial measures may be found on our website.
+
+We encourage you to visit our website at micron.com throughout the quarter, for the most current information on the Company including information on the financial conferences that we will be attending. You can also follow us on Twitter at microntech as a reminder, the matters we are discussing today include forward-looking statements.
+
+These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from the statements made today. We refer you to the documents we filed with the SEC, specifically our most recent Form 10-K, and 10-Q for a discussion of risks that may affect our future results. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results. Levels of activity, performance or achievements.
+
+We are under no duty to update any of the forward-looking statements after today's date to conform these statements to actual results I'll now turn the call over to Sanjay
+
+Sanjay Mehrotra{BIO 1977912 <GO>}
+Thank you. Farhan. Good afternoon, everyone. Micron delivered an excellent performance in fiscal Q2 with results above the high end of our guidance. We grew revenue and margins sequentially while driving favorable mix and cost reductions and ongoing global supply chain challenges we saw broad-based demand for our products with our SSD products achieving record revenue and our auto market revenue also reaching an all time high
+
+Execution was outstanding with our industry-leading one-alpha DRAM and 176-layer NAND technology node ramps delivering strong cost reductions, our portfolio transformation continues to gain momentum as we lead the industry on the DDR5 transition and grow our mix up NVME datacenter SSDs
+
+Following the solid first half we are on track to deliver record revenue and robust profitability in fiscal 2022 and remain well positioned to create significant shareholder value in fiscal 2022 and beyond. In fiscal Q2 1z and 1 alpha DRAM combined represented the majority of our DRAM bit shipments while 176-layer NAND represented the majority of our NAND bit shipments,
+
+Our 1-alpha DRAM and 176-layer NAND products are achieving excellent yields, providing us with solid front-end cost reductions and contributing meaningful revenue. We qualified additional products on these advanced nodes with a broad set of customers, which sets us for continued strong revenue ramp in the second half of the fiscal year.
+
+We are tracking several quarters ahead of the industry in ramping products based on these leading-edge process technologies. We are also investing to maintain technology leadership for the next decade and making good progress in the development of future technology nodes.
+
+Micron is not only a technology leader, but also the industry leaders in quality with the majority of our customers ranking us number one. Our leadership in quality is an important differentiator for Micron, particularly in fast growing data center and automotive markets where our quality scores are excellent. We have also strengthened our position as a strategic supplier to our customers as demonstrated by our commitment to supply continuity amid ongoing semiconductor supply chain challenges this past quarter.
+
+In late December, a government mandated COVID-19 lockdown impacted production output at our backend facility in Xi'an, China. The Micron team executed with tenacity to return the Xi'an side back to normal output levels post lockdown. As a result of this outstanding effort, we mitigated the lost output from Xi'an and delivered on our customer commitments for the quarter by leveraging our global manufacturing network. Additional COVID-19 related lockdowns in the region present a risk to the global electronics supply chain and we continue to monitor the situation closely.
+
+The global semiconductor supply chain is experiencing pressure due to impact of Russia's invasion of Ukraine. The region is an important source for the global supply of noble gases and other critical minerals that are used in semiconductor manufacturing. We have strategically diversified our supply chain over the last several years and maintain the appropriate inventories of materials and noble gases.
+
+We currently do not expect any negative impact to our near-term production volumes because of the Russia Ukraine war, but we do expect an increase in our costs as we secure supply of certain raw materials that could be at risk. We also remain vigilant in this dynamic situation and are engaged with our key suppliers to ensure continuous availability of materials to support our operations.
+
+Now, let's review our end markets. Demand for memory and storage is broad, extending from the data center to the intelligent edge and to a growing diversity of user devices. Memory and storage revenue has outpaced the rest of the semiconductor industry over the last two decades and we expect this trends to continue over the next decade, thanks to ongoing advancement of AI, 5G and EV adoption. Our team's execution on strengthening our product portfolio has been outstanding with several new product launches and customer qualifications in fiscal Q2, achievements that we are very proud of.
+
+Last year, data became the largest market for memory and storage, eclipsing the mobile market. Looking ahead, we expect data center demand growth to outpace the broader memory and storage market over the next decade, fueled by secular drivers in cloud and healthy enterprise IT investment.
+
+Memory and storage share of server BOM costs already exceeds 40% and this number is even higher for servers optimized for AI and ML workloads. This growth is supported by new heterogeneous computing architectures, the increase in data-intensive workloads and ongoing displacement of HDDs by SSDs.
+
+In the fiscal second quarter, data center revenue grew more than 60% year-over-year, supported by robust demand across our DRAM and SSD portfolio. We have broaden the qualifications for our 1 alpha DRAM products and are well positioned to support the data center DDR5 transition driven by new CPU platforms, which are targeted to begin ramping later this calendar year and gain momentum in 2023.
+
+Following the introduction of our 7400 SSD, in fiscal Q2, we introduced the 7450, which is the industry's first 176-layer vertically integrated data center NVME SSD. These Gen4 NVME datacenter drives are generating an enthusiastic response from our customers. We are making robust progress in our qualifications of these drives with data center customers, which has contributed to a doubling of our fiscal Q2 data center SSD revenues year-over-year. We expect strong growth of data center SSD revenues to continue for the remainder of this fiscal year.
+
+In fiscal Q2, we saw a recovery in our clients' revenue driven by strength and enterprise PCs, which more than offset softer consumer and Chromebook demand. We expect that calendar 2022 PC unit sales will be flattish versus last year sales, but we expect solid growth in DRAM and NAND content, driven in part by increasing mix of content-rich enterprise desktops and laptops.
+
+We are leading the industry's client to DDR5 transition and our DDR5 revenue continues to increase as multiple PC customers launched next-generation notebooks. Client's DDR5 demand continues to outstrip supply and we are seeing meaningful price premiums over DDR4 alternatives. Building on our QLC leadership, in fiscal Q2, we also launched our 2400 NVME SSD, the world's first client SSD built on 176 layer QLC NAND.
+
+Micron maintains a leading position in the fast growing graphics market. We have a broad product portfolio featuring industry-leading product performance and deep partnerships with leading GPU suppliers. In fiscal Q2, revenues grew year-over-year, driven by strong demand for the latest generation of gaming consoles and graphics cards. Our GDDR6X continues to lead the industry in performance and in fiscal Q2, we began revenue shipments of our next-generation GDDR6X solutions.
+
+Fiscal Q2 mobile revenue grew slightly year-over-year as the 5G transition continues in smartphones. We see some weakness in the China market as the local economy slows, smartphone market share shifts and some customers take a more prudent approach to inventory management. Mobile memory and storage demand continues to be supported by content-hungry applications and the ongoing transition from 4G to 5G, which is driving 50% higher DRAM content and the doubling of NAND content.
+
+5G smartphone sales are expected to grow to 700 million units in calendar year 2022. In fiscal Q2, we achieved the first qualification of our 1 alpha LP5 DRAM, which delivers more than a 15% power improvement over the previous generation, enabling our customers to offer an improved 5G experience with better battery life. We are also seeing a very strong revenue ramp for our 176-layer NAND UFS products, which are now qualified in nearly 50 different OEM platforms.
+
+The automotive and industrial segments are expected to be the fastest growing memory and storage markets over the next decade. Today, more than 10% of our revenue comes from these end markets and we are exceptionally well positioned as the market share leader. In fiscal Q2, our auto revenues set a new record, driven by robust demand for memory and storage. Auto unit production remains below demand constrained by numerous supply chain challenges, including logic and then loss semiconductor component shortages the Russian invasion of Ukraine has also impacted auto bills. Nevertheless, the demand for memory and storage demand strong driven by auto content growth, new EVs are becoming like data centers on wheels and we expect over 100 new EV models to launch worldwide in this calendar year alone.
+
+These new EVs include advanced ADAS and in vehicle infotainment features that have significantly higher memory and storage requirements. In fact, some of these Level three autonomous EVs have about $750 in memory and storage content, which is 15 times higher than the average car
+
+In industrial IoT we saw approximately 60% year-over-year revenue growth fueled by the continued ramp in applications such as factory automation and security systems. Turning to the market outlook. Our expectation for calendar 22 industry demand is largely unchanged from our last earnings call, we expect calendar 22 industry bit demand growth to be in the mid to high teens for DRAM and if approximately 30% for NAND.
+
+We anticipate underlying demand in calendar 22 to be led by data center ongoing adoption of 5G smartphones and continued strength in automotive and industrial markets. Currently, we see a healthy supply demand balance across both DRAM and NAND given these demand trends supply discipline across the memory industry long semiconductor manufacturing equipment lead times and reduced NAND supply from some of our competitors that experienced a contamination issue in the fab.
+
+Non-memory component shortages are improving and we expect that further improvements should support memory and storage demand growth for the rest of this year. However, there are some pockets where semiconductor shortages have not improved as fast as we had expected and these shortages are likely to continue into calendar year 2023, we are mindful of increased macroeconomic uncertainty and remain vigilant of any changes in market conditions
+
+Turning now to Micron bit supply growth expectations for the year, consistent with the rest of the industry, we are experiencing a challenging environment for equipment and material suppliers. However, due to strong execution by microns operations team. Our calendar year 22-bit supply growth for DRAM and NAND remains unchanged from prior expectations and will be in line with the industry demand.
+
+We are on track to deliver record revenue with solid profitability in fiscal year 22 and we continue to expect strong bit shipment growth in the second half of the fiscal year, we expect our cost reductions to outpace that of the industry this year, driven by the exceptionally well executed ramp of our world-class 1-alpha DRAM and 176-layer NAND nodes however across the industry, there are cost challenges stemming from supply chain and inflationary pressures which will limit cost reductions this year for the industry. We remain confident in our long-term technology roadmap and our ability to drive competitive cost reductions for the years to come.
+
+I will now turn it over to Sumit.
+
+Sumit Sadana{BIO 7009258 <GO>}
+Thanks, Sanjay. Micron delivered excellent fiscal Q2 results marked by record revenues across multiple products and markets, strong profitability and generation of over $1 billion and free cash flow. I'm particularly excited by the execution of our industry leading 1-alpha DRAM and 176-layer NAND technology ramp and the accelerating momentum of our product portfolio transformation
+
+Fiscal Q2 revenue was approximately $7.8 billion, up 1% quarter-over-quarter and up 25% year-over-year revenue was particularly strong in client and cloud markets fiscal Q2 DRAM revenue was $5.7 billion representing 73% of total revenue. DRAM revenue increased 2% quarter-over-quarter and was up 29% year-over-year sequentially bit shipments increased in the high single-digit percentage range. While ASPs declined in the mid single-digit percentage range.
+
+Fiscal Q2 NAND revenue was $2 billion representing 25% of Micron total revenue NAND revenue increased 4% quarter-over-quarter and was up 19% year-over-year. Sequential bit shipments were flat and ASPs increased in the mid single-digit percentage range due to stronger mix of SSDs more than offsetting like for like price declines.
+
+Our ongoing portfolio transformation and a solid front-end cost reduction drove sequential gains in gross margin in NAND despite sequential price declines in most products. Now turning to our fiscal Q2 revenue trends by business unit. Revenue for the Compute and Networking Business Unit, was $3.5 billion, up 2% sequentially and up 31% year-over-year cloud generated record DRAM revenue and client DRAM revenues also performed well in the quarter.
+
+Revenue for the Mobile Business Unit, was $1.9 billion, down 2% sequentially and up 4% year-over-year. Mobile business continues to perform well. Building on our leadership in managed NAND MCPs as well as our strong relationships with all smartphone customers. Revenue for the Storage Business Unit, was $1.2 billion, up 2% sequentially and up 38% year-over-year, we achieved record SSD revenues, which were up approximately 80% year-over-year our storage business is gaining momentum, growing revenue as well as profitability as we become the first in the industry to ramp several 176-layer NAND SSDs from QLC and TLC client products to vertically integrated data center SSDs
+
+Finally, revenue from the Embedded Business Unit, was $1.3 billion, up 5% sequentially and up 37% year-over-year, our embedded business units saw strong demand across automotive and industrial markets with auto revenue, hitting a new record, the consolidated gross margin for fiscal Q2 was 47.8%, up approximately 80 basis points quarter-over-quarter gross margins benefited from improvements in our portfolio mix as we ramped several high value solutions and from manufacturing cost reduction operating expenses in fiscal Q2 were $974 million near the midpoint of our guidance range.
+
+Fiscal Q2 operating income was strong at $2.8 billion resulting in an operating margin of 35% flat quarter-over-quarter and up from 20% in the prior year fiscal Q2 adjusted EBITDA was $4.5 billion resulting in an EBITDA margin of 58% up from 57% in the prior quarter and up from 45% in the prior year.
+
+Non-GAAP earnings per share in fiscal Q2 were $2.14, down slightly from $2.16 in fiscal Q1 and up more than 100% from the $0.98 in the year ago quarter. The sequential increase in fiscal Q2 tax rate impacted Q2 EPS by $0.04 per share. Turning to cash flows, and capital spending. We generated $3.6 billion in cash from operations in fiscal Q2 representing 47% of revenue. Net capital spending was $2.6 billion during the quarter we continue to expect fiscal 2022 CapEx to be in the range of $11 billion to $12 billion with the CapEx being roughly even between the first and second half of the fiscal year.
+
+Our free cash flow for fiscal Q2 was strong at slightly over $1 billion. We remain confident in our ability to generate significant free cash flow in the second half of the fiscal year, substantially higher than that in the first half we completed share repurchases of $408 million or approximately 4.8 million shares in the quarter, including our dividend payment, we returned around $520 million to shareholders in fiscal Q2 from the inception of the share repurchase program in fiscal 2019.
+
+We have deployed $4.7 billion towards repurchasing 94 million shares at an average price of $50 per share. In addition, we have deployed approximately $800 million towards settling convert premiums, which reduced our diluted share count by 19 million shares. Combining the share repurchases convert premiums and dividends, we have returned to shareholders $5.8 billion or 64% of our cumulative free cash flow in this time frame. We remain committed to returning more than 50% of the cross-cycle free cash flow through a combination of dividends and buybacks, as we have mentioned before, we will be opportunistic in share repurchases and more aggressive and the shares are trading at a larger discount to intrinsic value, our Board of Directors approved a quarterly dividend of $0.10 to be paid on April, 26 to shareholders of record on April, 11
+
+Our ending fiscal Q2 inventory was $5.4 billion and average days of inventory for the quarter was 113 days. Our fiscal Q2 DIO increased sequentially due to an increase in raw materials and WIP to support demand for the second fiscal half. Finished goods inventory declined quarter over quarter in both DRAM and NAND
+
+We ended the quarter with $11.9 billion of total cash and investments and $14.4 billion of total liquidity our fiscal Q2 total debt was $7.1 billion now turning to our outlook for the fiscal third quarter. Our overall business is tracking ahead of our plans, a quarter ago and demand is strong across most end markets with some regional challenges that Sanjay referenced earlier near term supply and pricing trends are constructive our improved fiscal year financial outlook is increasing our variable compensation expenses, which will impact our costs in fiscal Q3.
+
+We are also seeing cost impacts from continuing inflationary pressures and from supply chain mitigation resulting related to industry wide shortages additionally, due to the pull in of cost reductions in Q2, we expect more modest front-end cost reductions in Q3 on a sequential basis.
+
+We do expect both DRAM and NAND gross margins to increase sequentially in fiscal Q3 a higher mix of NAND revenue in our consolidated total will affect our consolidated gross margin as our DRAM gross margins are substantially higher than on NAND gross margins
+
+With all these factors in mind, our non-GAAP guidance for fiscal Q3 is as follows. we expect revenue to be $8.7 billion plus or minus $200 million, which will represent a new record for quarterly revenues, gross margin to be in the range of 48% plus or minus 100 basis points and operating expenses to be approximately $1.05 billion plus or minus $25 million.
+
+We expect our non-GAAP tax rate to be approximately 10% for fiscal Q3 based on a share count of approximately $1.14 billion. Fully diluted shares. We expect EPS to be $2.46 plus or minus $0.10. We remain on track to deliver record revenue and solid profitability and free cash flow in fiscal 2022.
+
+In closing Micron continues to deliver strong cross cycle performance revenue growth has significantly outpaced the broader semiconductor industry gross margins have averaged over 40% and operating margins have averaged around 30% Microns financial foundation and outlook have never been stronger as we build on the momentum created by our portfolio transformation leadership technology roadmap and manufacturing excellence.
+
+I will now turn it back to Sanjay.
+
+Sanjay Mehrotra{BIO 1977912 <GO>}
+Thank you, Sumit, I'm proud to note that earlier this month Micron was named one of the World's Most Ethical Companies by Ethisphere Institute. This recognition reflects our global teams dedication to holding ourselves with the highest ethical standards, both in how we operate and how we pursue, environmental and social responsibility. We continue to manage our business with the discipline and foresight that is driving industry-leading technology ramps, improving our product portfolio and strengthening our customer relationships, a strong first half performance and our guidance for an all-time record quarter. show Our continued progress toward delivering record fiscal 2022 revenues and robust profitability
+
+Given our technology leadership Micron is in an excellent position to capitalize on the broad trends that are driving demand for DRAM and NAND solutions solutions that transform data into better customer experiences and greater business value. I look forward to seeing you at our Investor Day presentation on May 12 in San Francisco where we will discuss the technology drivers behind these trends in greater depth and detail Micron strategy is to seize the opportunity ahead. T
+
+Hanks for joining us today and we'll now open for questions.
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question comes from the line of CJ Muse of Evercore. Your line is open.
+
+Q - CJ Muse
+Yeah, thank you for taking the question. I guess first question, as I look at your results mix and operational performance is excellent and as you look ahead to the second half you did talk about a pull-in of costs in the February quarter but would be curious to hear how you're thinking about mix both like for like in DRAM and NAND into the second half of the fiscal year and how we should think about kind of the gross margin trajectory from here.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+All right. So in terms of the gross margins and the mix I'll just point out that for Q2 for example we had exceptionally strong performance in gross margin due to the ramp of 1 alpha and 176-layer NAND and our portfolio mix and our NAND gross margins actually improved due to mix effects alone.
+
+And of course we have good cost reductions in 176-layer NAND so that momentum is continuing. So as I look forward to FQ3 you have seen that the gross margin guidance at the midpoint is sequentially higher. So we are very positive on our gross margin trajectory going forward I want to point out a couple of things that are important here.
+
+So both NAND and DRAM gross margins are expected to improve sequentially in FQ3 and as you highlighted, we have spoken about some cost improvements that got pulled into FQ2 So that's going to have a little bit of a dampening effect on the cost improvements we will see sequentially but. There are a couple of important factors that are going to affect our FQ3 gross margin by about 100 basis points.
+
+The first one is that our variable compensation accrual is increasing sequentially from FQ2 to FQ3 because our overall profitability forecast for the year. For the fiscal year is quite a bit higher than we were expecting originally so that is increasing our bonus accrual that impacts costs in the following quarter. We have already taken that impact in the OpEx for FQ2, but it will impact costs in FQ3.So that's an impact on our gross margin sequentially in FQ3 and the other aspect is that on NAND business in FQ3 will grow faster than our DRAM business in FQ3 so that has a little bit of an impact on the consolidated gross margin. So both NAND and DRAM businesses will have sequential improvement, but NAND will grow faster, so mathematically. It will just have a little bit of an impact. So two of these issues between the bonus accrual and the NAND mix has about just over 100 basis point impact on gross margin going from FQ2 to FQ3
+
+And in spite of that 100 basis point impact, we are forecasting improvement in gross margin going from FQ2 to FQ3. So overall, really strong margin performance. I feel and you asked the question about mix. You see that our data center SSD revenue is improving substantially Sanjay mentioned in his prepared remarks that in FQ2 our revenue doubled year-on-year in the data center.
+
+We expect continued growth in the data center in the next couple of quarters as well. So that's a positive for our gross margins. We also have leadership in DDR5 that kind of mix improvement is also good for us because we do have good gross margins there. So overall we feel positive about the trajectory into FQ3 and very constructive about FQ4 profitability as well. Of course, we are not going to guide for FQ4, so we leave it at that for now.
+
+Q - CJ Muse
+Thank you, so much.
+
+Operator
+Thank you. Our next question comes from Vivek Arya of Bank of America Securities. Please go ahead.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+So, thanks for taking my question. Interesting to see that the strong outlook and you're maintaining the full year kind of industry view unchanged also even though there have been some recent kind of software data points and deceleration in PC and smartphone demand. Is this just a case of data trend overpowering those headwinds and what you're doing to make sure that you don't oversupply to the data center
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+So certainly, let me take this question regarding PC, but I would like to point out is that in PC enterprise and desktops. Our strong Chromebooks and consumer PCs have had some weakness as is well known but enterprise and desktops are strong and that's a favorable mix for us because enterprise and desktops take higher content of both DRAM and NAND.
+
+So while we look at PC unit growth and on a year-over-year basis to be flattish. The enterprise and desktop mix is favorable in terms of DRAM and flash content requirements there and data center, certainly a strong market for us, second half of calendar year 22 should be strong for datacenter because of new CPUs that are expected to be launched, which will be driving greater content in the servers, so and you have heard about various hyperscalers talking about their investments their CapEx investments in data centers as well.
+
+And again, all the workloads related to AI ML I just driving greater content within the datacenter space, but it's not just about data center or the aspects of PC that we just discussed Of course 5G smartphones, continuing to drive strong DRAM and NAND content. As we mentioned and automotive market, strong growth driver as well. So the point is that the demand is broad-based and demand. We expect to be strong going forward as well.
+
+And of course on the aspect of supply of course the supply is contained in the industry, because of the discipline on CapEx that has been exercised by the various players. And of course on the NAND side. The aspect of the contamination issue that impacted a competitor's fab and impacted the supply and NAND in a big way there too, so overall healthy environment that we see for in terms of DRAM and NAND supply and demand balance through the year.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from John Pitzer of Credit Suisse. Please go ahead.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Yeah, good afternoon guys. Congratulations on the strong results and thanks for. Let me ask the question. Sanjay you spent the last several years trying to reposition the NAND portfolio to higher value products. I'm kind of curious, relative to the May guide of NAND growing faster. Sequentially, the DRAM. Can you help us better understand what products and end markets are really driving that and is this really the fruits of some of your qualification labors and as you answer the question I'd be curious when you think about NAND gross margins, what's the impact as the mix continues to improve, how much of the gap between NAND and DRAM, do you think you can close over time or how much more upside. Do you think there is in the NAND gross margin business over time as you optimize the portfolio
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+So, certainly in NAND, I think our team has done a great job and leading the industry by several quarters, we had 176 layer NAND technology and now deploying it into various products. We talked about in our prepared remarks. Some of the SSDs that we have introduced now for data center as well being the first ones to introduce datacenter NVME SSDs with 176-layer NAND technology with vertically integrated solutions including our own controllers, our manufacturing ramp has been excellent as well. We are really exceptionally executed in terms of our yields in terms of production ramp in terms of quality and all the work that we have been putting in over the course of last several years, absolutely is coming to fruition here, We have enjoyed already the gains and share with respect to mobile managed NAND solutions in both on the MCP site that contain DRAM and NAND solutions as well as on the discrete NAND side
+
+And you have seen how we have grown our share from low-single digits. Few years ago to now in the high teens in terms of our share in the markets a strong performance already enjoyed on the mobile NAND side of the business and now SSD is getting absolutely into high gear. Here our client SSDs our introduction of QLC 176-layer SSD, our data NVME SSDs all the work that vertically integrated solutions with our own controllers all this work that we have been doing for quite some time is hitting the market now and we are well positioned to gain share in the SSD space in the client as well as on the datacenter side
+
+And all of this being built on the foundation of leading, highly cost effective 176-layer NAND technology positions as well for improvements in our revenue outlook for NAND, as well as for our profitability outlook for NAND. And in terms of the differences between DRAM and NAND, of course there has Sumit was just earlier highlighting that there are significant differences in the industry margins of DRAM as well as NAND and certainly for Micron as well, but the point is that our margins and NAND are improving given the accelerating portfolio momentum we have and our ability to really address a wide range of end-market applications from smartphone to client, SSDs to datacenter SSDs, as well as strong position in the channel markets as well.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from Timothy Arcuri of UBS, please go ahead.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. I just had a quick question on costs as well. So if I look at the slide Sanjay where you're talking about the current outlook. the verbiage change to basically reflect the fact that your costing down better this year than the industry. And of course there are headwinds on cost for the industry. This year, but I'm wondering whether your ability to outpace the industries cost down will also extend into next year, because if I look at the verbiage on the slide. Last quarter you, said that you think that you'll be competitive with the industry over the longer term. So I'm just wondering, what do you think that this is a one-year thing where you're costing down better than the industry or is this can this be sustained into next year. Thanks.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+We feel really good about our technology roadmap. And just like we have led the industry with our 1-alpha DRAM as well as with our 176-layer NAND we certainly plan to lead the industry with our future generation nodes as well and we are making good progress on those and those nodes will be introduced sometime in calendar year 23 timeframe as well. So really it's our technology leadership position and our ability to successfully ramp it into production across a broad range of products is key to our strength and continuing our cost position in the industry. So we feel very good about our cost position versus our competitors going forward as well.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Got it, Sanjay. Thank you so much
+
+Operator
+Thank you. Our next question comes from Pierre Ferragu of New Street Research. Your line is open.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+Hey, thanks very much for taking my question. I like very quick simple one on the mobile market. So it's slowing sequentially now. What kind of visibility do you have there? Do you think we are reaching like a kind of like plateau in content increase and the kind of growth at 5G generated in that market or is that something different and more temporary? And then I have like a broader question for you guys. Your peers in logic are very active on, I would say, in the geopolitical front, investing in the US, investing in Europe to create a more balanced manufacturing footprint in the world and we don't hear much about that in the memory market and so I was wondering if that could be topic there, if there are conversations and is that something that benefits Micron at some points?
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+So it's a great position to be in today that we have Sumit here as Interim CFO, as well as our Chief Business Officer. So I will actually let him answer the first question of yours. And then, I will take the second question. Sumit, go ahead with the first one.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Sure Sanjay. So, Pierre, thanks for that question. So in terms of the model average capacities. Now, we don't see this anywhere close to a plateau of any kind. We are very positive on average content growth in mobile. The 5G transformation in the industry continues and the handset portfolio. So if you think about and industry of about 1.4 billion smartphones approximately being sold on an annual basis about 500 million or so in calendar 2021 was sold as 5G, we expect a 40% growth, 700 million being sold as 5G handsets this year and a 5G handset has typically 50% more DRAM content, more than double the NAND content for 4G handset so that trend has a lot to run fill
+
+And I think on the even beyond that, we do expect applications to come up that take advantage of 5G in ways that are going to continue to drive the average capacities for both DRAM and NAND higher. So there is plenty of room to run there. Yes. The smartphone business. We do expect low single digit sort of unit volume growth in this calendar year. Overall for the smartphone volumes consolidated volumes overall and average capacities.
+
+Then on top of that. So the overall growth is going to still be robust and keep in mind, we are going to enter a seasonally stronger period when new handset get introduced in the fall for the Mobile business. So that's going to be another catalyst as well. So with that I will pass it over to Sanjay
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Thank you, Sumit. And [ph]. Regarding your second question. So of course as you know Micron has made investments over the course of last few years in our clean rooms in the US in Taiwan in Singapore, as well as Japan. In terms of cleanroom expansions in these locations again leveraging our globally well diversified manufacturing footprint. These cleanroom expansions position us to implement the technology transitions and our production and we have not added new wafer capacity, but we have invested really prudently over the course of last few years
+
+And cleanroom expansion positioning us well to deliver on technology transitions, which is what is positioning us to drive our cost reductions, as well as bit growth in line with the demand growth. As we look ahead, we have announced in October of last year that we would be looking at investing more than $150 billion over 10 years in leading edge memory manufacturing and R&D on a global basis.
+
+So of course we have also as part of that highlighted that in 25 26 timeframe, we would be needing to add new wafer capacity for DRAM in order to continue to meet the increase in demand for the later half of this decade through the 2030 timeframe. In that regard, of course, we are evaluating the new expansion on a global basis and certainly in the US. The discussions that have been proceeding related to Chips and the fab Zacks, which has about upfront support for investments if you manufacturing capacity, as well as ongoing investment tax credits.
+
+These are important aspects to help the US bridge the gap with Asia operations. And these are the things that we will of course continue to monitor and we will be making our decisions regarding future expansions once again that is more about the second half of this decade, because until then. We are well positioned with our clean room situation in our diversified footprint in various countries, including the US today. And in this regard, we are very much engaged with the US government-related to passage of chips and investment tax credits
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+Thanks, that's very clear. Thank you very much.
+
+Operator
+Thank you. Our next question comes from Mehdi Hosseini of SFG, your question please.
+
+Q - Mehdi Hosseini{BIO 4362002 <GO>}
+Yes, thanks for taking my question. One follow-up for Sanjay, how should I think about DDR5 contribution especially to the operating profit this year which it seems to me most driven by the PC end market versus next year where the server application picks up
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+So I think we mentioned in our prepared remarks that DDR5 Of course, it is a bigger die because of the aspects of DDR5 by the way, that as an effect in terms of moderating the supply bit growth in the industry, as well as DDR5 continues to ramp in client and in the future in the datacenter space as well. So DDR5 we noted in our remarks that has pricing premium in the industry as well and Micron actually is leading in terms of DDR5 supply capability in the industry today as well.
+
+So it is a positive contribution to our overall DRAM margins DDR5 and certainly we are getting pricing premium for DDR5 in the industry and as new processors get deployed widely in the datacenter space that can make use of DDR5 which are expected to begin later this year, you will see DDR5 continuing to ramp rapidly during calendar year 23 as well. We are well positioned with our DDR5 roadmap for client as well as for data center market.
+
+Q - Mehdi Hosseini{BIO 4362002 <GO>}
+But there will be a pricing premium for server application versus desktop. Correct.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+DDR5. As we noted has pricing premium. yes.
+
+Q - Mehdi Hosseini{BIO 4362002 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from Chris Danely of Citi. Please go ahead.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Thanks guys. So just specifically to DRAM, can you just talk about how the three main end markets did relative to your expectations. And then on the guidance, how they did, or how you expect them to do relative to the expectations as far as PC server data center and mobile?
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+All right. So, Chris. Yeah, I can take that. So in terms of our end markets FQ2 was really good quarter. When we think about PCs performed well mobile performed well data center continues to be strong and in fact, a lot of the gross margin upside that we experienced and FQ2 came from pricing improvements that were driven out of actually both DRAM and NAND, but definitely in DRAM as well versus our expectations.
+
+So those markets have been strong in FQ2 and as we look ahead in FQ3 on most of our sequential growth in FQ3 is being driven out of the compute market, which is mostly DRAM. And then the storage market, which is mostly NAND. So our Storage Business unit and our Compute and Networking Business Unit, these two business units are going to be the primary drivers of growth. All four business units are likely to grow well, but these two are going to be exceptional growth drivers sequentially in FQ3.
+
+So we do expect continued strength in BC that Sanjay mentioned the average capacities are increasing because of the mix improvements in PCs. Due to the shift towards corporate PCs and laptops away from lower end consumer. So that's helping their data center continues to be robust. We expect the rest of calendar 22 to be robust for data center because lot of demand growth there at our customers who are allocating significant CapEx increase and the mobile 5G shift continues to be positive for average capacities and even though mobile is not going to be a big driver of growth sequentially in FQ3.
+
+We do expect it to pick up sequentially in FQ4 because of seasonality and these continued trends.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Great, thanks guys.
+
+Operator
+Thanks. Our next question comes from Joe Moore of Morgan Stanley. Your line is open.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great, thank you. You touched on the impact of the contamination issue and NAND that your competitor. Can you talk about how much of a change that was how tight you think the NAND market maybe because of that. And do you expect that the impact of that to be durable beyond the current period.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Certainly brought down the year year-over-year supply growth for the industry. It is brought down based on some of the estimates that are out there by couple of percentage points in terms of again, the year-over-year industry supply growth and certainly that's in terms of the demand supply dynamic in the industry that's favorable because the demand for all the reasons that we have just discussed, whether it's in data center and-or in the client applications or on the mobile phones or even in the automotive market, the demand for NAND along with demand for DRAM continues to increase and we fully expect a healthy demand supply balance for the NAND industry as we look ahead thank you
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Thank you your next question comes from Toshiya Hari of Goldman Sachs. Your line is open.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Great, thank you so much. I had a question on NAND ASPs and how to think about the evolution. Going forward, I think in the February quarter your ASPs were up mid single digits sequentially despite the industry environment still being relatively soft from a pricing perspective, and Sanjay, just given your comments around your success in datacenter SSDs and winning some of those important designs. Is it fair to assume that your sequential ASP expansion going forward should outperform the industry throughout the year, is that a fair assumption to be making.
+
+And then separately, Sumit, you talked about the, the headwinds associated with inflationary pressures and the supply chain mitigation actions. I think you said 100 basis points. At what point, could that reverse. I know that's a hard question to answer, but should we expect those headwinds to persist for a couple of quarters or could those headwinds turned into tailwinds eventually. Thank you.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Sumit, go ahead.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah, in terms of our cost pressures. Certainly, if you look at the overall environment out there, things are continuing to be challenging. And this is an industry wide statement. So whether you look at the price of oil and natural gas that are important commodities that impact even in the price of electricity to a lot of the other raw materials and commodities that we purchase noble gases. A lot of these things Even the pricing of OSAT external subcon services and of course seeing inflation and even foundry, logic prices.
+
+So there are lots of vectors. And then of course we are also seeing wage inflation happening. So there are lots of vectors through which inflation is getting transmitted into, the business and of course we are I believe doing a really extraordinary job of containing our costs, but of course these inflationary pressures are there. So we are planning for these pressures to persist for several quarters, we are not thinking that these will let up anytime soon.
+
+And so our work is focused on continuing to find efficiencies continuing to ramp our new technology as fast as we have been doing in an excellent way. So the rest of it comes from Of course considering these costs as we think about how we price our products and of course driving stronger mix of products, so we can get not only good ASPs, but also have positive gross margin benefit of products that have higher ASP better high value mix in our portfolio and that mix improvement is happening on the NAND side. It's also happening on the DRAM side with examples like DDR5. So with that, I'll turn it over Sanjay.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Thank you Sumit touched on the mix aspect, which was the first part of your question. And as I think Sumit highlighted in his prepared remarks that for NAND, even though there was a like for like price decline. Our overall due to the mix. Our pricing went up in FQ2 and again this is just highlighting that how mix is playing an important role, the new product that we are launching with SSDs as well as our mobile managed NAND solutions and shifting away from components into greater and greater mix of high value solutions positions us well for continuing to improve the profitability of the business here.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Very helpful, thank you.
+
+Operator
+Thank you. Our next question comes from Ambrish Srivastava of BMO. Your line is open.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Hi, thank you for squeezing me in. Sumit, I'm a bit confused. I just wanted to make sure I understood the headwind that in the prior question, I thought the cost have been 100 bps you called out that was from the variable comp and had nothing to do with the, with all the mitigation costs that are going, going on which should continue for the next several quarters is that the case.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yes, it's been. so your understanding is correct. Yeah. Your understanding is correct. The 100 basis points impact to sequential gross margin in FQ3 versus FQ2 stemmed from the variable comp increase that I mentioned. That's going to impact FQ3 as well as the NAND revenue mix that is going to increase in FQ3 and cause an impact to the consolidated gross margin just mathematically. So the sum of the two is all 100 basis points and the gross margin side. That's right.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Got it, So then the question is, then just starting on because you talked about inflationary costs we all understand that we're feeling it in our own homes. But as you look at the business. You also said that some of the component availability is improving and that has been a headwind as well to the back-end costs. So I'm just trying to unpack these comments. So on the one hand, you have and then you also having to secure raw materials and I'm assuming as part of that. So can you just help us understand kind of what's the right way to think about these costs that could sustain for the next several quarters. So that was my first question.
+
+The second one is, thanks for providing that commentary on the inventory that was very helpful. We have to wait for the Q, the finished goods being down quarter-over-quarter for both DRAM and NAND. That was very helpful. The question is, is that seasonal or is there something going on that finished goods. Thank you, Sumit.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Sure. So in terms of the first question about costs. Yes, we do expect that the availability of components is going to improve the overall shortages that we have been experiencing quite significantly over the last several quarters. The situation is improving. And as Sanjay said in the prepared remarks, it's not improving to an extent that all of those issues will be gone. This year we expect continuous improvement through the course of calendar 22 and we expect that because of those improvements in availability the full demand will be experienced in terms of memory and storage because our customers can now order matched sets of products, they can get their hands on all of the components that are sure we can get our hands on more components to build our products.
+
+And so that is improving, through the calendar year, but there is going to be some components that will shift into in calendar 23 in terms of when we expect further improvement there'll be still some shortages and even though the availability of some of these components is improving. There is a level of cost pressure across the supply chain and these cost pressures are coming across range of commodities that we buy a range of input costs in the way we operate our fabs and back-end facility. So it's industry wide pressure across the range of issues, and they will continue. Despite the improvements of availability of some components and now switching to your question about inventory
+
+We have been managing our inventory tightly. So our finished goods inventory is down quarter-on-quarter by design. We have higher levels of mainly staging for a pretty robust growth in FQ3 sequentially and you can see that in our guidance, we are growing very robustly in FQ3 compared to FQ2. So we do expect inventory to come down in FQ3 and to end up in pretty much the normal range that we have for the year at the end of FQ4. So we do still have that expectation that we would, as we had mentioned last quarter as well. We would build inventory ending FQ2 and then reduce inventory in FQ3 FQ4, so that that is continuing to be the plan and that's the set of numbers that you see. just one last point, I will make there. Yeah, just one last point is part of the inventory increases to just ensure supply continuity, right. I mean this has been a challenge in terms of getting our hands on all the components. We need some part of it is just ensuring that we have adequate supply on hand to meet our customer demand, as we ramp revenue.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+And so WIP has been going up consistently in the last two, three quarters as a result of that, right?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yes, exactly.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Yes. Got it. Thank you. That's very helpful.
+
+Operator
+Thank you. Ladies and gentlemen, this does conclude today's conference call. Thank you for participating, you may disconnect.

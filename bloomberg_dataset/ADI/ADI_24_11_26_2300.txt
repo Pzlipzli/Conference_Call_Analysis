@@ -1,0 +1,237 @@
+Q4 2024 Earnings Call
+Company Participants
+Michael Lucarelli, Vice President, Investor Relations and FP&A
+Richard Puccio, Executive Vice President and Chief Financial Officer
+Vincent Roche, Chief Executive Officer and Chairman
+Other Participants
+Christopher Danely, Analyst, Citigroup
+Christopher James Muse, Analyst, Cantor Fitzgerald
+Joshua Buchalter, Analyst, TD Cowen
+Ross Seymore, Analyst, Deutsche Bank
+Stacy Rasgon, Analyst, Bernstein Research
+Timothy Arcuri, Analyst, UBS
+Tore Svanberg, Analyst, Stifel Nicolaus
+Unidentified Participant
+Vivek Arya, Analyst, Bank of America Securities
+William Stein, Analyst, Truist Securities
+Presentation
+Operator
+Good morning, and welcome to the Analog Devices Fourth Quarter Fiscal Year 2024 Earnings Conference Call, which is being audio webcast via telephone and over the web. After the speaker's presentation, there will be a question-and-answer session. (Operator Instructions) Please be advised that today's conference is being recorded.
+
+I'd like to now introduce your host for today's call, Mr. Michael Lucarelli, Vice President of Investor Relations and FP&A. Sir, the floor is yours.
+
+Michael Lucarelli{BIO 16382485 <GO>}
+Thank you, and good morning, everybody. Thank you for joining our Fourth Quarter Fiscal 2024 Conference Call. With me on the call today are ADI's CEO and Chair, Vincent Roche; and ADI's CFO, Rich Puccio. For anyone who missed the release, you can find it relating financial schedules at investor.analog.com.
+
+On to the disclosures. The information we're about to discuss includes forward-looking statements, which are subject to certain risks and uncertainties as further described in our earnings release, and our periodic reports, and other materials filed with the SEC. Actual results could differ materially from the forward-looking information as these statements reflect our expectations only as of this call. We undertake no obligation to update these statements, except as required by law.
+
+Revenues to gross margin, operating and non-operating expenses, operating margin, tax rate, EPS and free cash flow in our comments today will be on a non-GAAP basis, which excludes special items. When comparing our results to historical performance, special items are also excluded from prior periods. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release. Please note references to EPS are on a fully-diluted basis.
+
+And with that, I'll turn it over to ADI's CEO and Chair, Vincent Roche.
+
+Vincent Roche{BIO 4759894 <GO>}
+Thanks very much, Mike, and a very good morning to you all. So our fourth quarter results reflected the continued steady recovery from our second quarter cyclical bottom with revenue, operating margin, and earnings per share, all finishing above the midpoint of our outlook. For the full fiscal year '24 revenue finished at $9.4 billion with earnings per share of $6.38. The headwinds we faced in fiscal '24, most notably pronounced post-pandemic inventory digestion and the challenging macro backdrop muted demand recovery.
+
+Despite the external challenges, however, our business model and disciplined execution delivered an impressive 41% operating margin for the year and a free-cash flow margin of 33%, up from 29% in fiscal '23. Importantly, we continued investing in key value generation and capture initiatives to better position ADI to solve our customers' most difficult challenges at the intelligent edge.
+
+In R&D, which is our first call in capital, we continue to strengthen our world-class analog foundation while extending the scope of our innovation capabilities with investments in digital, software, and AI. Those investments resulted in, for example, last month's launch of ADI's new CodeFusion Studio software development platform, creating a resource-rich hub and intuitive programming environment for embedded co-development in support of our analog, mixed-signal power, and digital franchises.
+
+And to better secure the increasingly connected intelligent edge, we also launched the ADI Assure Trusted Edge Security Architecture, which will enable cybersecurity capabilities on ADI products. The addition of new tech stack capabilities to our tremendous analog foundation enables us to deliver ever more sophisticated innovations for our customers. Our intense focus on R&D is reflected in the double-digit growth of our design-win pipeline during fiscal '24. That growth was enhanced by momentum in our Maxim revenue synergies pipeline across such areas as GMSL, healthcare, and data center power, putting us firmly on a path to achieving our goal of $1 billion in revenue synergies by 2027.
+
+Now to accelerate pipeline growth and conversion, we continue to evolve our digital customer engagement platforms to support a greater range of technical expertise and customer needs. We also expanded our cadre of field engineering experts to provide world-class support and service to our global customer base. Our customers value our thought leadership, the breadth and depth of our cutting-edge technology stack, the strength and resilience of our supply chain, and our service and support integrity.
+
+And let me share a few examples with you now. In Industry 4.0, semiconductor content as a percentage of CapEx investments continues to expand rapidly. And as factories integrate IT and OT to connect and software to find the factory floor. This is creating tremendous growth for ADI sensor to cloud automation solutions with a large number of customers leveraging our sensing, power control, and deterministic Ethernet technologies.
+
+On the factory floor, our intelligent motion and positioning solutions are being designed into robotic systems by several large customers, expanding our content per robot [ph] by three times. In our instrumentation and test business, ADI's cutting-edge analog mixed-signal and power capabilities are the foundation for the leadership position we've established in the AI-related SOC and high-bandwidth memory test market where our content per tester stretches into the hundreds of thousands of dollars.
+
+Now looking ahead, we're developing additional mixed-signal and digital capabilities to further reduce test time and power requirements, which we believe will result in more than 20% additional ADI content per tester. Within the healthcare sector, our precision signal processing and real-time connectivity solutions are critical to the rapidly expanding surgical robotics market. And in the fast-growing continuous glucose monitoring space, we have won multiple opportunities across several customers. Our unique digitally-enabled analog front-end solutions increase the accuracy and power efficiency of sensors, and enable a better patient experience by extending battery life from days to weeks.
+
+Aerospace and defense has remained our most resilient industrial segment during this downturn with stellar design-win pipeline growth. We expect revenue growth to accelerate to a double-digit level next year. Due to increasing global defense budgets and the proliferation of space communication systems that rely on our higher-value integrated RF modules and subsystems. Within automotive, the performance advantages of our battery management systems are driving substantial pipeline growth among OEMs.
+
+In addition, we're also seeing momentum for these solutions in electrical grid storage systems. These trends, combined with recent wins give us confidence that our BMS revenues should return to growth in fiscal '25 with meaningful contributions from our higher value wireless solution. The proliferation of higher content vehicles that use more power management, connectivity, and an increasing number of sensor platforms is expanding our content across all vehicle types, combustion engines, hybrids, and indeed full EVs. This trend drove our GMSL and A2B connectivity and functionally safe car franchises to new high watermarks in fiscal '24. And with a record design-win pipeline, we expect this growth to persist.
+
+Notably, we added to our portfolio of connectivity solutions by launching our Ethernet to the Edge bus solution or E2B, which is an enabler of the software-defined vehicle vision. And out of the gate we have design wins with several major OEMs, including (inaudible).
+
+In communications, we've seen a positive inflection in the wireline market and expect that growth to continue in FY25 and beyond. Our confidence is based on significant new wins, including a high-precision controller for the optical module and the high-performance compute leaders AI systems, and our next-gen power solutions, which will begin shipping later in '25. We're also experiencing tremendous demand across leading data center customers for our new innovative hot swap solution, which significantly extends power and control capabilities for AI-based servers.
+
+In consumer, new wins coming to market are driving strong growth. We expect this momentum to continue in the years ahead, given new wins across power, audio, optical, and touch in portable applications at multiple key customers. We've also seen growth in wearable. For example, our VSM platform's superior accuracy at lower power is becoming ever more critical for customers seeking to differentiate by capturing and processing more biomarkers. We've seen design momentum accelerate and content opportunities expand at wearable market leaders as well as in disruptors bringing miniaturized form factors to market. In wearable acoustic systems, our combination of ultra-low power and neural processing with application-specific audio processing algorithms is enabling next-generation noise cancellation and hearing augmentation. We're leveraging these technology innovations in several B2B markets in addition.
+
+Turning now to manufacturing, we've invested $2.7 billion in CapEx since acquiring Maxim to increase our capacity and enhance resiliency. We also expanded our foundry partnership with TSMC earlier this year to secure additional 300-millimeter fine-pitch technology capacity at their Japan subsidiary [ph]. These investments enable a more flexible hybrid manufacturing model, further insulating our supply from regional shocks and increasing our swing capacity to around 70% of revenue in the coming years. This unique ability helps us to capture the upside in strong demand backdrops and better protect our gross margins during more challenging times.
+
+So in closing, I'm very proud of how ADI has managed through one of the worst inventory digestion cycles our industry has ever seen. While the macro backdrop presents challenges, I'm confident in our continued recovery in fiscal '25.
+
+And with that, now I'll pass it over to Rich.
+
+Richard Puccio{BIO 23811091 <GO>}
+Thank you, Vince, and let me add my welcome to our fourth-quarter earnings call. I'll start with a brief recap of fiscal '24 results. Revenue of more than $9.4 billion, down from a record fiscal '23, driven by a broad-based inventory digestion and sluggish end demand. Gross margin of 67.9% reflects lower revenue, factory utilization, and mix headwinds. Declines in revenue and gross margins were partially offset by lower operating expenses, which resulted in an operating margin of 40.9% and EPS of $6.38.
+
+Moving to fourth-quarter results, revenue of $2.44 billion came in above the midpoint of our outlook for a 6% sequential increase and a 10% decline year-over-year. Industrial represented 44% of our fourth-quarter revenue, finishing up 2% sequentially and down 21% year-over-year. Continued strength in AI-related tests, aerospace, and defense and a return to sequential growth in automation more than offset slower end demand driven by a weaker macro backdrop. For the full year, industrial decreased 35% from a record 2023 with every major application declining double-digits except aerospace and defense, which significantly outperformed the rest of industrial.
+
+Automotive represented 29% of quarterly revenue, finishing up 4% sequentially and down 2% year-over-year. This was notably better than our original expectation due to steadily improving demand from China throughout the quarter. For the year, automotive declined 2% from a record fiscal '23 as double-digit growth across our functionally safe power and leading A2B and GMSL connectivity franchises were offset by broad-based inventory digestion and production headwinds.
+
+Communications represented 11% of our quarterly revenue, finishing up 4% sequentially and down 18% year-over-year. Stronger demand from data center customers for our optical solutions drove low double-digit sequential growth in our wireline business, which was more than offset primarily by the decline -- which more than offset the decline in wireless. For the year, communications decreased 33% and similar to the fourth quarter we saw relative outperformance in our wireline business over wireless.
+
+And lastly, consumer represented 16% of quarterly revenue, finishing up 22% sequentially and 31% year-over-year, driven by higher share in wearables, premium handsets, and gaming applications. For the year, consumer decreased just 1% with double-digit growth in portable applications, balancing double-digit declines in our prosumer business, which is more industrial-like in nature.
+
+Now on to the rest of the P&L. Fourth quarter, gross margin was 67.9%, flat sequentially as product mix headwinds offset modestly higher utilization rates. OpEx in the quarter was $655 million, up approximately $35 million sequentially, driven primarily by merit increases, which resulted in an operating margin of 41.1%. Non-operating expenses finished at $55 million and the tax rate for the quarter was 12.1%.
+
+All told, EPS was $1.67, which finished above the midpoint of our outlook. Despite a tough year, we took decisive action to strengthen our financial position and I'd like to call out a few results from our balance sheet and cash flow statement. We ended the quarter with approximately $2.4 billion in cash and short-term investments and a net leverage ratio of 1.2. Inventory finished approximately $20 million higher than the third quarter, while days of inventory decreased a 11 to 167.
+
+Channel inventory finished slightly below the low end of our seven to eight-week target as we continue to prudently manage our supply. Operating cash flow for the quarter was more than $1 billion and more than $3.8 billion for fiscal '24. CapEx was $165 million for the quarter and $730 million for the year, resulting in fiscal '24 free cash flow of more than $3.1 billion or 33% of revenue. During the year, we returned $2.4 billion to shareholders via [ph] $1.8 billion in dividends and $600 million in repurchases.
+
+Now moving on to guidance for the first quarter. Revenue is expected to be $2.35 billion, plus or minus $100 million. Notably, this implies year-over-year growth when compared to a normalized 13-week first-quarter of fiscal '24, a good indication that we're past the trough and in gradual recovery. We expect sell-through to be roughly equal to sell-in in this quarter. At the midpoint, we are expecting a seasonal decline on a sequential basis as noted last quarter.
+
+Industrial, automotive and communications are each expected to decline by low-single digits with consumer down around 15%. The operating margin is expected to be approximately 40% plus or minus 100 basis points. Our tax rate is expected to be 12% to 14% and based on these inputs, EPS is expected to be $1.53, plus or minus $0.10.
+
+I'll conclude by noting a few items as we begin the new fiscal year. As Vince mentioned, we made great progress building a more agile and resilient hybrid manufacturing model. As such, we expect our CapEx spend will moderate back to our long-term model of 4% to 6% of revenue in fiscal 2025. We expect this normalized CapEx level and planned receipt of investment tax credits tied to both the U.S. and European Chips Act will provide tailwinds to fiscal '25s free cash flow.
+
+Importantly, while we have delivered on our commitment to return 100% free cash flow since our Maxim acquisition, fiscal '24s return was lower due to our decision to increase balance sheet cash during this period of macroeconomic uncertainty and to help us extinguish $400 million of debt coming due in fiscal '25. That said, investors can expect us to revert to our targeted return of 100% free cash flow in fiscal '25.
+
+I'll now give it back to Mike for Q&A.
+
+Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Rich. Let's get to the Q&A session. We ask that you limit yourself to one question in order to allow for additional participants on the call this morning. If you have follow-up questions, please requeue, we'll take questions if time allows.
+
+With that, we have our first question, please.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) And I show our first question comes from the line of Chris Danely from Citi. Please go ahead.
+
+Q - Christopher Danely{BIO 3509857 <GO>}
+Hey, thanks, guys. Just a little color on the auto strength. Can you talk about how big China is as a percent of your auto business? And then within that, how much of the strength was from say EV versus ICE or all these EV startups that we're hearing about from China? Thanks.
+
+A - Richard Puccio{BIO 23811091 <GO>}
+So I'll give you a little bit of the perspective, Chris, on the auto near-term. So on the last call, we had expected a sequential decline in Q4, given the drop we talked about in bookings during Q3, an adjustment to production from multiple of our OEMs. However, towards the end of Q3 bookings started to improve and that continued throughout our Q4 with stronger demand in China reflecting EV volume growth, share gains, and content growth. As for the other GEOs [ph], we saw broad weakness but upside in the U.S., which returned to sequential growth, driven mainly by our BMS and wireless BMS portfolio.
+
+Secular demand for ADAS and NextGen infotainment continues to drive strength globally for our functionally safe power, audio, and video connectivity solutions. Content and share growth in these areas have helped offset broad inventory headwinds, resulting in a shallower correction in other end markets. And I'd also note that while BMS is still facing inventory headwinds broadly, we saw a strong uptick in China, reflecting the expanded share we talked about on our Q2 call compounded by volume growth in the region. BMS also improved in the U.S., including growth for our higher content wireless solution, which is now 10% of total BMS.
+
+And as Vince mentioned, design-win activity was strong in 2024, giving us confidence that BMS will return to growth in fiscal year '25.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+A little more color, Chris, to what Rich has just said. So we've got a really high-performance portfolio. We got many, many different SKUs, if you like, in that portfolio. And we're playing the high-performance game with the big players in (inaudible). So that's the -- that's the state of the business there.
+
+A - Richard Puccio{BIO 23811091 <GO>}
+And I think some context on the U.S.-China kind of relative what's the mix of China. Our China mix [ph] looks a lot like ADI enterprise where industrial and automotive are the two biggest percent of our revenue in China, they make about 80% of the China business. Comms is in the teens and consumers below 5%.
+
+Operator
+Thank you. And I show our next question comes from the line of CJ Muse from Cantor Fitzgerald. Please go ahead.
+
+Q - Christopher James Muse{BIO 18608702 <GO>}
+Yeah. Good morning. Thank you for taking the question. Vince, you talked about a number of company-specific drivers that should allow you to outperform in calendar '25. So I was hoping you could kind of use that as a backdrop and then maybe layer in kind of your thoughts on how the cycle will kind of emerge from today's trough and what your kind of thoughts are in terms of pushing your business through '25 and '26. Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. Thanks, CJ. So, yeah, obviously, we've already stated our first quarter will be down, so we expect to start getting back to a positive growth trajectory in the second quarter. I think during '25, if I were to kind of rank the market recovery, I think it will be led by industrial. We have very healthy customer inventories. The channel is below seven weeks, and that's a big part of the supply chain into the industrial sector.
+
+You couple that with the green shoots that we've mentioned already in areas like AI tests and aerospace and defense, which I called out in the script. So I think the compare is easier overall. And as a result, I think, industrial, given the signs we see will recover briskly in '25. I think in consumer, we have a much more diversified business than we've ever had. We've better portfolio than we've ever had. Inventory has normalized. And we're already seeing the benefits we saw it in our 4Q results, 3Q and 4Q results, the strength of our consumer business.
+
+I think next is the comms business. It declined by over 30% in 2024. And I think that was really an inventory digestion issue. So we feel at this point that we're through the worst of the supply normalization. And as we talked about in the scripts, we're beginning to see steady demand improvement, particularly in wireline, driven by the build-out of these new externalized intelligence systems. And the AI infrastructure, so we're not seeing much on the wireless side. We've -- I think at a low point in wireless during '24. So I think it will all depend on carrier CapEx investments in 5G moving ahead.
+
+Last but not least, the automotive sector. We expect to see continued momentum in areas of functionally safe [ph] power, the connectivity things that I spoke about. And essentially we expect globally to be driving share and penetration across all the different types of platforms. So we've had a tough year in '24 in BMS, '25 we expect to see that get back to a better shape, get back to a growth pattern. And given that auto was down just 2% in 2024, it's a tough compare moving ahead. But overall, we feel that we'll be on a solid roadmap there as well. So that's the ranking, CJ. It's a long answer to a simple question.
+
+Q - Christopher James Muse{BIO 18608702 <GO>}
+Thank you.
+
+Operator
+Thank you. And I show our next question comes from the line of Vivek Arya from Bank of America Securities. Please go ahead.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. My question is on Q4 industrial and then how it sort of shapes fiscal '25. I think for Q4 industrial, if I'm not mistaken, you had expected sales to grow high-single-digit. I think they went up only modestly. And then you're guiding Q1 industrial down again sequentially. So Vince, my question is industrial really out of the woods, what helps it grow above seasonal because just assuming seasonal growth for the rest of fiscal '25 may not be sufficient, right, to really grow fiscal '25 at a strong pace. So just maybe help us understanding what's happening in the industrial market and when do you expect it to start growing above seasonal trends next year.
+
+A - Richard Puccio{BIO 23811091 <GO>}
+So, Vivek, I'll take that one. So, 4Q as you mentioned was a bit lower than we expected, driven largely by weakness in the broad market and our decision to reduce channel inventory during the quarter. As you know, reducing channel inventory has an outsized impact on our industrial business. At the same time, we did see continued strength in ADAS instrumentation and test and a return to sequential growth in automation. If you remember, in the prior two quarters, we had seen significant declines in automation. So to see that return to sequential growth was a very positive sign.
+
+Taking a step back, we've grown industrial sequentially now for two-quarters of what we said was our trough in Q2 of '24. So we feel pretty good that the recovery is still unfolding for us. And now we're in a waiting game a bit to see what the macros do. But if I look to 2025, one of the important signals for us continues to be, we have been undershipping demand for the better part of 18 months. And if you just normalize that for even our historical patterns or the market patterns, it would indicate we've under-shipped something like 20%, which is how we get confidence in coming out of Q1s seasonal down, we will start to see growth again in industrial in the remainder of '25. Obviously, the slope of that recovery will be governed a bit by the macro backdrop.
+
+Operator
+Thank you. And I show our next question comes from the line of Joe Moore from Morgan Stanley. Please go ahead.
+
+Q - Unidentified Participant
+Hi. Thank you for letting me ask a question. This is Shane from Morgan Stanley on behalf of Joe Moore. Just on your automotive business, how are customer orders and pricing discussions tracked for the growth areas of your portfolio such as A2B, GMSL, and functional safe power? And then how have they progressed for the sort of other half of the automotive business? Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+So I don't break that into two pieces. I guess, I'll talk about pricing first. So from a pricing perspective, so far with customers, it's been largely as expected and continuing to exhibit the stability that we've talked about previously, right? We continue to focus on the high-end where our customers value performance versus price. We can continue to command ASPs 4x the industry average and that has continued to grow over the cycle. Particularly as we look across our broad large customers, we're becoming more and more important moving from essentially a Tier 2 contracting with Tier 1s to actually partnering with the OEMs at the early stages of design.
+
+And we've talked about before, prices (inaudible) design-in tend to stay pretty fixed throughout a long period of time, sometimes over a decade on average, although there is some volume discounts that come through. So we trade off incremental volume for small decreases in price. And then we do look to mitigate those discounts with our vintage increases on our older products. And the other thing that's helping on the pricing stability is we are clearly broadly across costs in our business experiencing inflationary environments, which supports continued stability on the pricing side.
+
+A - Richard Puccio{BIO 23811091 <GO>}
+Yeah. And your comment (inaudible) little about the pieces of the automotive business, you're right, we break it down into kind of two halves. One, we call segment growth areas, Vince outlined a bunch of those, GMSL, A2B function safe power, and BMS. They make up about half our revenue in auto. Those grew in '24 over 10%. The other part of the business, the other 50% is really more standard product portfolio that goes across all OEMs, all customers and really goes up and down in production. That piece was down about 10% in '24. And you fast forward to '25, we think it will be more of the same where we see a lot of the growth come from those GMSL, A2B function safe portfolio. And as we said a couple of times in the call, BMS will return to growth as well. Go to the next question, please.
+
+Operator
+Thank you. And I show our next question comes from the line of Tore Svanberg from Stifel. Please go ahead.
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Yes. Thank you. Vince, I had a sort of bigger-picture question, especially as we embark on this new cycle. So as I navigate your website, I just see so much software products. And I'm just wondering as AI continues to move to the edge, what do you see as a differentiation here for Analog Devices, especially in relation to some of your other Analog mix signal peers?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. Thanks, Tore. Well, software is not particularly new to ADI in the sense that for many decades now, we've had a vibrant DSP franchise with a lot of toolchain capability, a lot of algorithmic capability. But we've begun really, I think over the last decade, taking a more application view to the world across all our core markets, industrial, automotive, communications, et cetera, et cetera. And yeah, we've begun moving up the stack from the core base of analog, mixed-signal power technologies.
+
+So we use, I would say, more algorithmic technology to kind of as a co-pilot, so to speak, with the core analog franchise. So everything we do in software essentially supports the cutting-edge strength that we have in the analog, mixed-signal, and power solutions. And it's increasingly important for ADI to present our solutions to our customers in a way that makes it easier and more enjoyable for them to use our solutions, the complexity and sophistication of what we bring to them. So over the last couple of months, we announced two new parts to our software story. One is what we call CodeFusion Studio. And essentially what that is an open-source software development environment that includes software development kits, tools, debuggers and so on and so forth. And that enables our customers to get access to be able to embed ADI's analog and digital technologies into their end system solutions.
+
+And the second piece is it goes without saying cyber security is top of mind for everybody. So we've released what we call the ADI Assure platform and essentially what it is, it's a new security architecture, that enables us to provide a route of trust from the hardware right into the cloud, so to speak, and to understand the movement, the creation and movement of data across that spectrum. So we are spending more on software than we've done, but we're taking a very holistic view. And I'd say using software to drive the innovation system of the company, the innovation within our products, around our products, and making it easier for our customers to access our solutions. That's it in a nutshell, I think.
+
+Operator
+Thank you. And I show our next question comes from the line of Stacy Rasgon from Bernstein. Please go ahead.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi, guys. Thanks for taking my question. I wanted to ask about gross margins. What are your thoughts on gross margins into Q1 as revenue declines? And do you think that Q1 is the bottom as it does seem like you do think revenue grows off of there? Like how do we think about the trajectory off of that for gross margins in the next year? And what does it take to get them back into the 60% plus range?
+
+A - Richard Puccio{BIO 23811091 <GO>}
+Stacy, I'll take that one. So gross -- Q4 gross margin was lower than we had expected due to mix. So with consumer and auto being so much stronger, while industrial was weaker, that created some downward pressure because we had talked about a slight sequential increase, which we didn't see. For Q1, we expected slower -- slightly lower gross margin given sort of normal factory shutdowns around the holidays as well as the seasonally lower revenue. If we think about the -- when will we see sort of the 70%, this is going to continue to be driven by mix and utilization as we grow revenue. Right now, industrial is pretty low mix, and utilization while no longer decreasing and coming off of our low points back in Q2 remain sort of well below optimal levels.
+
+If you want to think about it from a longer-term perspective, from a revenue view, we'd likely need revenue in the $2.7 billion-plus to start seeing 70%. From a 2025 sort of sequential perspective, as we do -- as we mentioned, expect revenue to recover to growth coming out of the Q1 seasonality, we would expect to see gross margin improvement as we work through the back half of the year. And then obviously, as we've talked about the back half macros will determine how much revenue growth we get and how much incremental margin we see.
+
+Operator
+Thank you. And I show our next question comes from the line of Timothy Arcuri from UBS. Please go ahead.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. Rich, you just mentioned that fiscal Q2 is going to be up. I'm wondering what you consider normal seasonal to be in fiscal Q2. It seems like it's up about 3% to 4%. So that's the first part of my question. And then the second part is, if you sort of strip out autos, I wonder like -- like how was book-to-bill if you could sort of strip out autos versus normal? Is it trending pretty much as you would think?
+
+A - Richard Puccio{BIO 23811091 <GO>}
+I'll go with the first question and then go to the book-to-bill question. (inaudible) lost a bet to myself. I thought the 2Q question be with the top three questions but number seven. So that's what that the algo [ph] go sometimes. But you're right, we keep a kind of seasonal [ph] strength. What does seasonal mean in 2Q? It's been a while from seasonality. Usually, you see industrial and auto up about mid-single digits in 2Q. Communications up some, not as much, maybe flat to up slightly, while consumer is down a little bit. So overall, you're up about low to mid-single digits in the total company level. Again, that's seasonal trends. There's a wide band on that. That's typically how we think about 2Q from a seasonal perspective.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. On the bookings side, so as we talked about after the decline in Q3 in auto, total bookings returned to growth driven by continued growth in industrial and a rebound in auto. Overall book-to-bill was slightly below one, which we would say is pretty normal at this point, reflecting our seasonally lower 1Q outlook. Regionally, bookings were up everywhere, excluding the Americas, and that largely reflects the seasonal decline in consumer.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Tim.
+
+Operator
+Thank you. And I show our next question comes from the line of Ross Seymore from Deutsche Bank. Please go ahead.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Hi, guys. Thanks for letting me ask the question. Vince, a bit of a longer-term question for you. Cycle to cycle, the good news is it sounds like you found the bottom especially on the industrial side and you mentioned that it was kind of the worst downturn from an inventory perspective in a long, long time. I guess, my question is, the prior peak, I guess, in your fiscal '23, is that attainable? And what are the puts and takes to get to that? Because I guess, from a big picture question, was that overinflated, or was that a realistic target that we should look forward to? And if so, at what time?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. Thanks, Ross. Well, I think first and foremost, I think our portfolio is in better position than it's ever been. I would say ADI's connection with our customers, big and small is better than it's ever been. And you know, we're investing, I believe in the right areas in the R&D sector. Our pipeline coming out of '24, it grew double-digits year-over-year opportunity pipeline. So I think the company is well positioned. We've also been very, very, I would say, taking a very almost purest view to how we flush inventories, enable our customers to flush inventories off their balance sheets.
+
+So my sense is we've got a supply chain that is well capable of meeting what we believe will be good demand during '24. To get back to the kind of the '23 levels, we believe that our business is capable of growing double-digits. So through the rest of the decade here, given the position we've got, the demand that we see, the opportunity pipeline. So -- and I think, we will see good down payments on that future prospects during '25.
+
+Operator
+Thank you. And I show our next question comes from the line of William Stein from Truist Securities. Please go ahead.
+
+Q - William Stein{BIO 15106707 <GO>}
+Hi, great. Thanks for taking my question. Vince, I think you mentioned data center power management in the prepared remarks, but I'm hoping you can dig into this a little bit. There's been quite a bit of volatility there. There are some very --what some people call, charismatic design win opportunities in that end market. I know that at least one of the companies who acquired Maxim had a significant effort in 48-volt PMIC, and I suspect Linear had something there as well. I wonder if you can comment as to the medium-term opportunity as you all see it and maybe any comment on design-win traction there? Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. Thanks, Will. So first off, if you just put the entire data center business ADI in perspective, we have really two elements to our power story. I think one is the power solutions that go around the computing chips and the rest of the server infrastructure. The second piece is the control units, things like hot swapping, supervisory, so on and so forth. We've had good traction of that business for a long, long time. We've got some new products coming to market that will continue to boost that in terms of ASP share and so on and so forth.
+
+We're also gaining good traction with our optical control solutions right up to 1.6 terabits. So that's kind of the landscape of products and technologies that we have. If you're going to win anything in this data center business, you've got to play an ecosystem game. So we play with the processor companies. We're playing with the data center companies themselves. And again we're picking our places very, very carefully. We're going for the highest-end solutions where we can make a big difference in the energy space. And by the way, we're even attaching energy solutions at kind of the more -- between the grid and the data center. So we view this power is just merely part of an energy solution and we're looking at that from the intersection of the grid right down to the chip.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Will. Can we go to our last question, please?
+
+Operator
+Thank you. And I show our last question comes from the line of Joshua Buchalter from TD Cowen. Please go ahead.
+
+Q - Joshua Buchalter{BIO 19890074 <GO>}
+Hey, guys. Thanks for squeezing me in. I wanted to ask about utilization rates. I think you might be the only company in broad-based semis that called out higher utilization rates this quarter. How should we think about how you're thinking about that trending into fiscal 2025? It sounds like sell-in is matching sell-through. So should we just think about that ramping basically directionally and linearly with your revenue or any other puts and takes we should keep in mind as we think about the impact to margins? Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yes. So, I guess, I would start with from a utilization perspective, we've talked about our agile manufacturing. One of the reasons where we've been able to bring utilization levels up is our ability to swing capacity back into our internal fabs. So I think as I mentioned, we're still not at a -- anywhere near a normalized utilization rate, but our ability to swing during the downturn has allowed us to continue to grow off the trough that we talked about in Q2. So we have seen two quarters of sequential, modest, I would say, modest sequential increases in utilization. And as the revenue picks up as we work our way through fiscal year '25, I expect that utilization to continue -- increase to continue.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+All right. Thank you, Josh, and thanks everyone for joining us this morning. A copy of the transcript will be available on our website. Thanks again for joining the call and have a great Thanksgiving.
+
+Operator
+Thank you. This concludes today's Analog Devices Conference Call. You may now disconnect.

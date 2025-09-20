@@ -1,0 +1,322 @@
+Q1 2023 Earnings Call
+Company Participants
+Aart de Geus, Chairman and Chief Executive Officer
+Phil Lee, Investor Relations Director
+Shelagh Glaser, Chief Financial Officer
+Other Participants
+Blair Abernethy, Analyst, Rosenblatt Securities
+Charles Shi, Analyst, Needham & Company
+Gary Mobley, Analyst, Wells Fargo Securities
+Gianmarco P. Conti, Analyst, Deutsche Bank
+Jason Celino, Analyst, Keybanc
+Jay Vleeschhouwer, Analyst, Griffin Securities
+Joe Vruwink, Analyst, Baird
+Ruben Roy, Analyst, Stifel
+Vivek Arya, Analyst, Bank of America Securities
+Presentation
+Operator
+Ladies and gentlemen, welcome to the Synopsys Earnings Conference Call for the First Quarter of Fiscal Year 2023. At this time, all participants are in a listen-only mode. (Operator Instructions) Today's call will last one hour, and as a reminder, today's call is being recorded.
+
+At this time, I would like to turn the conference over to Phil Lee, Director of Investor Relations. Please go ahead.
+
+Phil Lee{BIO 18793085 <GO>}
+Good afternoon, everybody. With us today are Aart de Geus, Chair and CEO of Synopsys, and Shelagh Glaser, Chief Financial Officer.
+
+Before we begin, I'd like to remind everyone that, during the course of this conference call, Synopsys will discuss forecasts, targets, and other forward-looking information regarding the Company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+
+In addition to any risks that we highlight during this call, important risk factors that may affect our future results and performance are described in our most recent filings with the SEC, including our most recent Annual Report on Form 10-K and subsequently filed quarterly reports on Form 10-Q. In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to certain of these non-GAAP financial measures to their most directly comparable GAAP financial measures, a discussion of certain non-GAAP financial measures that we are not able to reconcile without unreasonable efforts, and supplemental financial information can be found in the earnings press release, financial supplement, and 8-K that we released earlier today. All of these items, plus the most recent investor presentation are readily available on our website at www.synopsys.com. In addition, the prepared remarks will be posted on our website at the conclusion of the call.
+
+With that, I'll turn the call over to Aart de Geus.
+
+Aart de Geus{BIO 1431475 <GO>}
+Good afternoon. Q1 delivered a very solid start to the year. Building on our strength and momentum from 2022, we met or exceeded all our guidance targets. Revenue was $1.36 billion with non-GAAP operating margin at 35.2% resulting in GAAP earnings per share of $1.75, and non-GAAP earnings above the high-end of our target range at $2.62. Based on the continued robust design activity, we remain confident in our business. We are reaffirming our full year guidance for revenue and non-GAAP ops margin improvement while raising guidance for non-GAAP EPS.
+
+In the last few years, Synopsys has grown and evolved substantially. Commensurately, we are evolving our financial reporting. Starting in Q1, we are reporting our business in three segments: Design Automation, which includes design software, verification software and hardware, and other EDA products; Design IP, a broad portfolio, including libraries, embedded memories, connectivity solutions, processor cores, and security devices; and Software Integrity, which remains unchanged from previous reporting and deliver solutions to improve software quality and security. To give you a relative sense of proportion, Design Automation is about 65% of our revenue, Design IP is approximately 25%, and Software Integrity is about 10%. While these numbers are approximate, the 65%, 25%,10% split is easy to remember and represents well how we think of our present business.
+
+We have leadership positions and excellent outlooks in all three segments. As the market leader in design automation, we see continued technical innovation towards still much, much more complex silicon and system designs. As a company with the broadest portfolio of IP, we see a continuation of designs, needing more communication bandwidth, processing, storage and security, and still more advanced silicon technologies. And for our Software Integrity business, we are a key enabler of modern software security with a leading portfolio of products for developers, the DevOps groups, and the corporate security teams.
+
+Shelagh will discuss the financials in more detail. Looking at the overall market picture, already 12 years ago, we identified the intersection of big data and machine-learning as leading us into the age of Smart Everything. Today's Smart Everything is in full swing. You may have seen the fantastic new capabilities showcased recently by applications, such as ChatGPT. It clearly shows how far Smart Everything has come and also how much further the opportunity space reaches. Indeed, this is playing out as every vertical market is now driving towards more and more sophisticated solutions with an insatiable need for compute.
+
+While some present market undercurrents drive many companies to strive for efficiency, our semiconductor and systems customers continue to prioritize investments in the design of complex chips and software to make all of this possible. Synopsys is in the midst of this quest, and we see our purpose to be a key catalyst enabling the Smart Everything world. With our customers and partners, our role is to make this all work through the state-of-the-art solutions ranging from the deep physics of silicon to the heights of performance, power, and security of complex hardware, software systems.
+
+Over the past several years, we have successfully invested in groundbreaking innovations that radically advance how silicon and system design is done. So let me begin with the Design Automation segment, which accounts for about 65% of our revenue and share some highlights around our groundbreaking DSO.ai artificial intelligence design solution. With already well over 100 commercial production designs, DSO.ai continues to deliver amazing results for our customers. Applied simultaneously to multiple steps of the design flow, it reduces effort from month to now weeks while simultaneously delivering higher-performance and lower-power.
+
+Customer adoption continues to accelerate across a wide range of process nodes and market verticals. Already put in production design by nine of the top 10 semiconductor leaders, customers such as Samsung, Intel, MediaTek, STMicroelectronics, and many others are reporting impressive achievements. In Q1, we saw multiple additional deployments across verticals, including mobile, data center, and memory designs. Meanwhile, we have extended our machine learning capabilities to other EDA workloads, ranging from verification to test to custom design. These new solutions are already in customer hands, showing excellent impact and promise.
+
+Critical to the success of DSO.ai are the powerful design engines that sit underneath. DSO.ai is also driving significant cross-selling and accelerated growth across our EDA products. Specifically, our Fusion Compiler momentum is manifest across a wide spectrum of market verticals and manufacturing processes. During the quarter, we achieved multiple advanced node design wins, including a key win at a large hyperscaler and a three-nanometer node design at a leading mobile provider. Fusion Compiler is used in 95% of advanced node designs at three-nanometer and below with the majority exclusively using Synopsys flows.
+
+Stimulated by a wave of high-value innovations, customers from high-performance computing to hyperscalers continue to expand their reliance on Synopsys throughout our portfolio. Our custom solutions, for example, saw continued market momentum in Q1 as we added nine new logos in the quarter with a robust market pipeline. All these highly complex designs need to work both correctly and work on the multiple conditions and scenarios, like temperature, voltage, manufacturing variability, and so on. That's where our verification tools come in.
+
+While verification is fundamentally an unbounded problem, our state-of-the-art simulation, emulation, and prototyping products tackle these tough challenges at unparalleled speed, with the fastest engines, highest capacity, and lowest cost of ownership. Building on another record year in 2022, we continue to see excellent growth in hardware with both our ZeBu emulation and HAPS prototyping products.
+
+This quarter, we achieved major expansions with our ZeBu EP1 and HAPS 100 hardware at several of the largest semiconductor systems and hyperscaler companies in the world. Meanwhile, multi-die system design, sometimes also called chiplet-based design, is opening a whole new era of silicon complexity. In Q1, our differentiated multi-die solution around 3D IC Compiler continued its strong momentum deployed on production tape-outs at the top high-performance computing chip supplier and a large networking systems company.
+
+Let me move to Design IP, which is, as I mentioned, about 25% of our business. Third-party IP, think of it as the LEGO blocks of chip design continues to grow in complexity and importance. Our market-leading IP portfolio by far the broadest in the industry, continues to grow with high demand in high performance compute, automotive, and mobile markets, fueled by Smart Everything, multi-die systems, and high speed and secure connectivity. While maintaining technical leadership, we've broadened our portfolio with new high-speed interfaces in three- and four-nanometer processes to serve HPC and mobile applications at the leading-edge.
+
+In the automotive market, we see strong adoption of automotive-grade IP solutions by OEMs and Tier 1 suppliers, now developing their own chips. Meanwhile multi-die systems require a whole new portfolio of state-of-the-art die-to-die interface IP. The recently introduced UCIe protocol, short for Universal Chiplet Interconnect Express, has become the standard of choice. Synopsys is leading in this area with an industry milestone. The tape-out of the first UCIe test chip on a major foundry's three-nanometer process node.
+
+The increased silicon multi-chip and high-speed computation push enables enormous advances in the software world.
+
+This brings me to our Software Integrity segment, which, as mentioned, accounts for about 10% of our revenue. As every vertical market is developing highly complex big data driven systems, their requirements for security and safety continue to expand. Our Software Integrity solutions enable organizations to improve and manage the security and quality of software across a wide range of industry verticals from semiconductors and systems to financial services, automotive, industrial, health, and more. While this continues to be one area where we see some caution from the macroenvironment, we had a good start to the year with several multi-year multi-product transactions and sustained momentum in our indirect channel.
+
+We continue to evolve and strengthen our multi-product platform to help companies gain more comprehensive insight and drive increasingly robust top-down software risk management. Customers who purchase two or more solutions now account for the majority of our Software Integrity revenue, as we drive cross-selling opportunities and continue to scale our application security testing platform.
+
+In summary, Q1 was a very solid start to the year, delivering strong financial results. We are reiterating our fiscal '23 revenue growth at 14% to 15%, as well as non-GAAP operating margin expansion of more than 100 basis points. We are raising guidance for fiscal '23 non-GAAP EPS growth to 18% to 19%. Notwithstanding continued macroeconomic choppiness, our customers continue to prioritize their investments in chips and systems. In addition, our resilient business model provides a level of stability, uncommon in most software companies. Meanwhile, our high-impact innovation pipeline across our entire portfolio is driving technical differentiation, while solidifying our foundation for continued business growth.
+
+With that, I'd like to welcome Shelagh Glaser to her first Synopsys earnings call. We're thrilled to have her onboard as her financial, operational, and scaling experience as well as a deep understanding of the semiconductor industry are a great asset to Synopsys as we drive exciting growth ambitions. With that, I'll turn it over to Shelagh.
+
+Shelagh Glaser{BIO 22254750 <GO>}
+Great. Thank you, Aart, and thank you to the Synopsys team for such a warm welcome. It's an honor to join a company with a long heritage of innovation and market leadership. I look forward and taking part to drive Synopsys into the next phase of growth in the era of Smart Everything as well as meeting all of you in the investment community.
+
+We delivered a very solid start to the year with revenue above the midpoint of our guided range, non-GAAP operating margin of 35.2% and non-GAAP earnings above the high-end of our target range. Our Q1 results were driven by our execution and strong technology portfolio that is expanding customer commitments. Robust chip and system design activity despite lower semiconductor industry revenue growth, and our resilient, stable, time-based business model with $6.9 billion in non-cancelable backlog. We remain confident in our business, and as a result, we are reaffirming our full year 2023 targets for revenue and non-GAAP operating margin improvement and raising our full year outlook for non-GAAP EPS due to a lower tax rate.
+
+I'll now review our first quarter results. All comparisons are year-over-year, unless otherwise stated. We generated total revenue of $1.36 billion. Total GAAP costs and expenses were $1.11 billion, which includes approximately $41 million in restructuring cost. Total non-GAAP costs and expenses were $882 million, resulting in non-GAAP operating margin of 35.2%. GAAP earnings per share were $1.75. Non-GAAP earnings per share were $2.62.
+
+As Aart mentioned, we are expanding our segment reporting to align with how we're managing the business. Starting in Q1, we are now reporting three segments, Design Automation, Design IP, and Software Integrity. Design Automation segment revenue was $890 million with both EDA software and hardware performing well. Design Automation adjusted operating margin was 38.9%. Design IP segment revenue was $344 million and adjusted operating margin was 34.2%. Software Integrity revenue was $128 million and adjusted operating margin was 12.1%. We are on track to reach our 15% to 20% revenue growth objective for Software Integrity with increase adjusted operating margin in 2023.
+
+Turning to cash, we generated $115 million in operating cash flow. We used $306 million of our cash for stock buybacks. We ended the quarter with cash and short-term investments of $1.3 billion and total debt of $21 million.
+
+Target. Now, to guidance. For fiscal year 2023, the full year target are: revenue of $5.775 billion to $5.825 billion; total GAAP costs and expenses between $4.54 billion and $4.59 billion; total non-GAAP costs and expenses between $3.81 billion and $3.84 billion, resulting in non-GAAP operating margin improvement of more than 100 basis points; non-GAAP tax rate of 16%. GAAP earnings of $7.12 to $7.30 per share; non-GAAP earnings of $10.53 to $10.60 per share. Cash flow of operations of approximately $1.65 billion, which includes approximately $40 million to $50 million in restructuring costs. Now, to targets for the second quarter. Revenue between $1.36 billion and $1.39 billion. Total GAAP costs and expenses between $1.085 billion and $1.105 billion. Total non-GAAP costs and expenses between $917 million and $927 million. GAAP earnings of $1.62 to $1.72 per share. And non-GAAP earnings of $2.45 to $2.50 per share.
+
+In conclusion, we delivered a very solid start to the year. While the underlying macro economic environment is choppy, we continue to execute, and for the year, expect 14% to 15% revenue growth, non-GAAP operating margin improvement of more than 100 basis points, and 18% to 19% non-GAAP EPS growth. Our confidence reflects our innovative technology portfolio, ongoing design activity by our customers who continue to invest through semiconductor cycles, and the stability and resiliency of our time-based business model.
+
+With that, I'll turn it over to the operator for questions.
+
+Questions And Answers
+Operator
+Thank you. Before we begin the Q&A session, I would like to ask everyone to please limit yourself to one question and one brief follow-up to allow us to accommodate all participants. If you have additional questions, please re-enter the queue and we'll take as many as time permits. (Operator Instructions) We'll take our first question from Joe Vruwink with Baird.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Great. Thanks, everyone. Wanted to begin maybe with how the nature of your relationship with customers is changing as they adopt DSO.ai. How does this alter the share of project wallet you're able to achieve? And then how close might we be to this product receiving maybe more of an enterprise-wide buy-in as opposed to project-specific buy-ins? I guess at the heart of this question, when you next entered the period of big enterprise renewals, when we would typically expect your backlog to inflect higher? Do you think tools like DSO drive a pretty meaningful and visible step-up in total contract values?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, going backward on your question, yes, I think it will drive positive growth for Synopsys. And starting at the beginning of your question, which was, how does it change your relationship, it's been actually quite remarkable, as we started to travel again this year, that after a number of years of being at least physically distant, the relationship with many of our customers have evolved substantially. And I think a big piece of that comes from the fact that they all realize that the technology is becoming way more complex. And actually in a good way, meaning that mostly it's continuation on the traditional Moore's Law, but there's also a whole set of systems interactions, be it when you have multiple dies or if you have hardware and software interactions that all demand a degree of automation that is way more sophisticated.
+
+And so in the midst of that comes the entry now for us, a little bit over two years ago, of capabilities that really changed how design is done. And moreover, it changes them in a very similar fashion, like synthesis literally many decades ago, it automate things that previously were thought to not be automatable. And it does this in a fraction of the time and with better results. And so the engagements have been extremely fast. And the very fact that we can point at so many production designs, we're not talking people trying stuff out, many tried it out, and then in the midst of the trial, they said, well, here I want to review these results because they're better than what I had before and that project is not finished yet. And so the adoption is fast. At the same time, you would say, well, what would slow it down. Well, what slows it down is, are they sure that the tools don't make mistakes that it's actually proven technology. And the answer has been a resounding yes. That's why all these production designs are using it.
+
+So I see extremely high opportunity space for us there. And moreover, I think that we just touching the tip of the iceberg. Now, how that turns into contract evolutions? Well, that's the negotiation scale that we will need to bring to bear and they will need to bring to bear, but fundamentally, I think we add a lot of value to what they can do, and I think we will be certainly rewarded in some way from that.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Okay, that's great. Thanks Aart. Just in terms of the forecast here presenting for the April quarter, how much different is this than maybe what you internally were planning for a quarter ago? I guess, has anything changed in terms of design starts influencing the IP business. And obviously, you're reiterating the full year. So do you still see the volumes unchanged, but maybe a bit more in the second half than you were originally assuming?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+So this year, we are more back-half weighted, and not actually is traditionally what we were in 2020 and 2021. 2022 was a bit unusual and that was quite balanced between the first half and the second half. So I would say, we're not seeing any change in designs. We're not seeing projects be canceled or projects shifted out. We're seeing robust design activity. And as you note, I mean, really the timing of revenue and the timing for us is aligned with when we signed the big deals and when the customers have pulled down things for their own product schedules.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Okay, thank you very much.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thank you
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome.
+
+Operator
+We'll take our next question from Jason Celino with KeyBanc Capital Markets.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Great. Thanks for taking my question. I think, first of all, thanks for breaking out the Design Automation margins and the IP margins, it's interesting to see that. When I think about the improvement potential for both, what are the levers that you have or how should we think about the improvement one versus the other? Thanks.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, I think, first thing to think about it is, while it was not visible individually for these pieces, over the last four, five years, we have substantially improved the margin throughout the Company. And by disclosing some of the numbers, specifically on the IP, which you probably haven't seen before, I hope that you realize that this was probably better than we're expecting because, as you know, developing IP is actually a very sophisticated and somewhat labor-intense job.
+
+Having said that, I think we have improved steadily largely because we're actually getting better at what we do and we do more of it, and so there is the benefit of scaling and the benefit of improving our processes. And hopefully, from our preambles, you understood that we will continue to improve the Company from a profitability point of view. And in IP, we see actually a very fertile horizon because, with the increasing complexity that I mentioned earlier, there are a lot of companies that are coming into doing chips that have never done it before and they have no history, no reason to start doing a lot of IP themselves. Actually, they move very quickly by acquiring IP and then taking it from there.
+
+In many ways, the same is true on the Software Integrity side, but from a different perspective, which is the perspective that as you grow as a software company, you get leverage out of the sheer business model and the leverage on the work that you have to do. And so we had said all along that, by the time, Software Integrity would be around the 10% of our business, which it is, we will continue now to push on the ops margin, while continuing to push on growth and there's opportunity on both sides.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay. Maybe just as my quick one follow-up. Do you feel that the margin profile on the core Design Automation side still has some room (Multiple Speakers)
+
+A - Aart de Geus{BIO 1431475 <GO>}
+There is always room, right? And when you look at yourself, you always say, wow, there's so many things we could do better, and then the key is how to implement it and move it forward. And so, yeah, I do think that there is opportunity there as well. But all three cylinders or three segments here of the engine have to all push themselves forward in the same direction in order to improve the Company, and I think we are well on track with that.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Yeah, and I would just reiterate that our goal, that we have for the year, is to improve greater than 100 basis points in op margin, so we're very committed to driving that.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Perfect, perfect. Thank you, both.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you, Jason.
+
+Operator
+We'll take our next question from Charles Shi with Needham & Company.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Hi, good afternoon, and thank you for taking my questions. Hey, Aart, I really wanted to come back and ask you around, well, AI and the ChatGPT. I'm just using that as an example. I think some people are thinking about this is the competition between -- really between Microsoft and Google, but there are some other people think this is actually a competition between GPU and TPU, I mean, Tensor Processing Unit that Google internally develop. But what is your view there? The reason why I tried to ask this is that, as everybody knows, TPU is kind of like the in-house designs from hyperscalers, and while in-house designs by these systems companies, they benefit companies like Synopsys, right? So I just want to check, because I don't exactly want you to comment on your customer, but just hopefully you can provide your vision on this trend on AI. Is that going to lead to more of the custom chip designs or what's your thought there? Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, I want to agree with every statement you made, meaning the race is on in every dimension, because whenever in our field -- and this is true for history, there's some major breakthrough, suddenly everybody realize, wow, this is possible, therefore, other things must be possible. And so the fact that the usual suspect, so to speak, that you mentioned will suddenly put a major emphasis on trying to all catch-up with each other or outdo each other. It's also true that we had said for I want to say at least half a decade that, from our perspective, chip design is increasingly driven by verticals down, meaning that every end market has, by now, realize that they need to do something smart and that their domain can benefit by doing it specifically for their problem. And so optimizing for agriculture is just not the same as for automotive, and it's not the same for finance and so on. And of course, people want to win and they can win with better algorithms, but they can also win with better algorithms multiplied by much better chips. And so that's why we see -- we will see a continuation of new chips, derivatives of chips, and I think a very fertile ground for the semiconductor industry, and therefore, for us.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Thank you, Aart. And maybe a follow-up question, back to the question another analyst that just asked on the operating margin side. Very pleasantly surprised by the 41% operating margin of the Design IP business in Q1 '22. I just wanted to really come back to the point. I think there is the premise that the IP maybe structurally lower-margin than EDA, well, partly because it's more labor-intensive, Aart, as you mentioned. But it looks like it's probably not always the case at least on quarterly basis. But on an annual basis going forward, shall we be thinking about IP operating margin is kind of in line with the Design Automation or there is may still be some gap despite there may be some quarter-to-quarter fluctuations from here? Thank you.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+So two things I want to make sure. There are really quarterly fluctuations in IP. There is the natural ebb and flow when customers pull down and they've got design that we're supporting, and that is a bit more labor-intensive because we're building out IPs, just as Aart even talked about for multiple nodes, multiple IP standards, so we're always moving to the next domain. And there is a lumpiness -- just an inherent lumpiness with the customers pull down. And over time, we think about that margin is slightly lower than the overall corporate margin and EDA as being slightly higher.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Thank you, Shelagh. Thank you, Aart.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you Charles.
+
+Operator
+We'll take our next question from Gary Mobley with Wells Fargo Securities.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Good afternoon, everybody. Thanks for taking my questions, and welcome to the call, Shelagh. Regarding the assumption that second half fiscal year '23 revenue is 12% higher than the first half. I'm curious, if this assumption is based on higher upfront licensing, and I guess, more specifically, maybe some lumpiness related to the hardware verification business or is this fully supported by the remaining performance obligations, or in general, the backlog?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+It's a combination really of all those things. So as we think about our business, our Design IP business has a lumpiness to it just in terms of aligning with customers' product starts, our schedules align with that. We do, as you mentioned, have significant backlog that we balanced through the year, and then hardware does have some lumpiness with customers, depending on when their schedules to take possession of (inaudible).
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yeah, by the way, just building on the comment that Shelagh made earlier. If you look at our revenue quarter-by-quarter over, I'd say, four, five, six, seven years, you would see that 2022 was actually an anomaly with a particularly high push early in the year. And you may recall that, at that point in time, there was also euphoria in the markets. Actually, the much more normal form is essentially a gradual slope moving up, and of course, there is some sales phenomena that the first quarter tends to be weaker than the last one because everybody works hard on the last one. But having said that, I think this is, in many ways, the profile of a normal year.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Got it. Okay. Aart, I haven't heard you mentioned Silicon Lifecycle Management recently or maybe I missed it. I apologize if I did. So maybe if you can just give us an update on where that new product set stands in terms of customer adoption.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Sure. Actually recently must be the last 30 minutes because it's actually a topic I love to talk about because we're making actually excellent advances in there and we're finding that the domains of applicability are broader than what initially motivated us. And the initial motivation came somewhat from the automotive field, which is clearly going into a very deep redo of what a car is all about. And I'm not thinking here of the electrification, which is also happening, but the whole notion of essentially a software-driven device literally. And with that comes the question, when you have very sophisticated chips in there, how do you know they still work? And that is where the lifecycle management is essentially a set of steps that start at the very development of the chip of putting certain sensors inside of the chip, having the ability to query them in a smart way about potential failures or anomalies[ph], I should say. And then do that through the manufacturing, through the installation through the early years, but also over lifecycle literally of the car. And so that was a key driver.
+
+It turns out that other fields that have lifecycle stresses that are in a different way just as high, such as compute centers that are really very sensitive about some servers going down and wanting to hide that from their customers or I should say protect their customers from that, and so the opportunities are broad, and this fits very well I think the Synopsys profile because one of our skill set is that we have skills in many different phases of the whole system design, development, and utilization. And there are things that are truly close to silicon physics here all the way to very sophisticated test techniques and AI utilization to assess the results. And so we see excellent growth here and see that this will be a long-term broad project for us.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Thank you, Aart.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you, Gary.
+
+Operator
+Our next question comes from Jay Vleeschhouwer with Griffin Securities.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Yeah, thank you. Good evening. Aart, one of the interesting phenomena in your organic headcount growth over the last number of years has been the seemingly large investments you've made in AE capacity. And so the question is, could you speak generally about the utilization that you're seeing of that AE capacity investment. And specifically, what kind of AE resources are being called upon for DSO.ai, SLM, which you just mentioned or any other newer product areas to which AE capacity is being directed. Then I'll ask my follow-up.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, it's a great question, because whenever you introduce new technology, you have two or three different steps. The first thing is, obviously, how quickly can one make it useful for a customer given their flows, their ways of doing things and adapted essentially to their situation. Well, at the same time, teaching them the basics of how to run it to get good results. Once you have done that, it never ends, because once you get good results, they want great results. And of course, there's a lot we can do by optimizing things for their circumstances.
+
+And this is going to be somewhat different for different types of products, of course. By the time you were talking about something like SLM, it goes in many different directions because now you have the intersection of testing techniques, built-in sensor techniques, all the way to how ultimately does this get designed into the system with learning capabilities and fast interpretation on chip. And so in general, I think we are going to broaden the skill set to be more and more multi-disciplinary as we have some people that, obviously, are very deep in different areas, and the people that can handle a broader swath of the design flow for the customer or with the customer, I should say, is important.
+
+The last two comments is, with some of the newer entrants into chip design, they really are looking for a lot of automation as much as possible upfront, and sometimes that's helpful because there are also now preconceived notions of how "things should be done", and one can start right away with brand-new flows, reuse of IP, and so on. So in general, it's a multiplier on our business and the quality of our people and the trust relationship becomes more and more important as we are working deep in the production designs of our customers.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Okay. So with regard to segment reporting, once upon a time, which is to say back in the primordial of 2018, one of the segments you used to report was DFM, which was reasonably sizable at the time and I imagine it's grown as a whole, physical verification category has grown. But with all of the new fab construction activity that's underway, particularly here in the US, could you perhaps talk about the progress of that business or how are you looking at the growth of that DFM business. Since you've last talked about it, at which time, it was already over $0.25 billion.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, so while we don't disclose in detail what the size is of this, it is part of our Design Automation segment. And as you can imagine, the technology has become dramatically more complex as we also go to much smaller device sizes, but that very complexity is also the reason why we have more and more involved in the development of advanced technologies with the customer and there's absolutely great return for the customer in doing that, because more and more are doing experimentation in the fab is extremely expensive, but it also takes a long-time before you have results.
+
+And so the more you can essentially build what today would be called digital twins of how things are manufactured and model this electrically the better, so this is an area that we see good growth in and certainly very high strength for Synopsys. And again, I'll use the word trust because this -- we are really very much inside of the silicon kitchen here.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Thank you. Aart.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you, Jay.
+
+Operator
+We'll take our next question from Vivek Arya with Bank of America Securities.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. I'm probably nitpicking here. But if I go with the last few years, you were able to raise full year sales outlook almost consistently every quarter, and even when I go to the last call, there was a statement about steady growth throughout the year. That's why I find it surprising you are not raising your outlook for the year. I mean, 14%, 15% is obviously still very impressive. But what is different, Aart, do you think between this year versus the last few years in terms of how you saw steady upside throughout the year, but you're not seeing it so far this year?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, let me just remind you that, last quarter, many of you commented that they were surprised that we do 14% to 15% given the uncertainty in the market. I think where we stand right now is that we have a solid understanding of what our customers are doing. We all understand that there's still some open questions on the market, but it feels, at least in our domain, that we were relatively correct in estimating what would be reasonable to shoot for, for this year. And so at this point in time, we don't see a need to change those numbers. And it's almost impossible to compare one year to another, because all the years are so different. And -- but right now, I think we are on a really good track.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Got it. And then, Aart, as the cost to move to more advanced nodes becomes expensive, is that a positive or a headwind to your sales growth? Does it mean fewer design starts, because it's very expensive to do three-nanometer or two-nanometer design, but then maybe they become more tool-intensive? So I'm just curious, how is that netting out for Synopsys?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, for starters, I don't think that there are fewer design starts. I think the race is very much on. Secondly, we've always believed that complexity is a good thing for us because we are an enabler, and I stand in all of the people developing the new technologies, but hopefully, they stand at least a little bit of all of us to the fact that we have learned how to use massive number of transistors. And I think we have now a fabulous new horizon, which is going from one to multiple chips that are in very close proximity, is actually technology feat in itself, and we're in the midst of that. And it is really exciting that a number of the top leaders in this field are doing production design with us already, and so this is active learning. And so I'm not worried that it's going to get in the way. On the contrary, I think -- and I'm on record of having said many times now that a whole new age of systemic complexity has opened up and it retains one characteristic from the past, which is, there's unbelievable exponential ambition formulated by Gordon Moore many years ago, now in a completely different context, absolutely continues. The race is on, there's new opportunities. So yeah, I want to almost say, bring it on, yeah.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you.
+
+Operator
+We'll take our next question from Ruben Roy with Stifel.
+
+Q - Ruben Roy{BIO 6556442 <GO>}
+Thank you. Aart, I had a follow-up on the DSO.ai question that was asked at the beginning part of the Q&A. And I guess, the first part of my question is, in terms of the implementation of the tool, can you talk a little bit about how your customers -- it's great to see the 100 commercial (inaudible), but I'm wondering about how customers are using the tool. Is it more a cloud-based implementation that your customers are asking for? Is it -- or is it on-prem? Would love to understand kind of so far how that's working. And then I have a quick follow-up following that answer. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Great question. Actually, it's both. Remember, though, that the most advanced customers, the biggest ones have themselves enormous clouds. But it's interesting even there we see a number of people that say, well, you know, what it had way more compute for a couple of weeks, could you just still. better? And the very fact that they are experimenting with that is very exciting because, yeah, you can still do better. And so -- but we have also a number of customers that are now really driving towards wanting to move their company to more cloud-based computation and we are completely capable and on top of running it in those circumstances. So I think we'll continue to see both. But overall, it's going to be spreading among more and more customers, there's no doubt about that.
+
+Q - Ruben Roy{BIO 6556442 <GO>}
+Right. Okay. And the follow-up to that is, the beauty of AI and generative AI -- we've been hearing a lot about it, obviously, over the last few weeks and months, is the concept of learning as the systems get more information. And so I would think that that would tend to mean that, as we move forward here and the system gets better on learning, whether it's physical layout or improving some of the verification[ph] that you talked about that it should accelerate use cases. Is that the right way to think about DSO.ai?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+It's absolutely a good way to think about it, because you're absolutely right, when when the product can essentially improve itself over time, what is there to find negative about that, that is great, the results do get better. But generally, it's not only the product that's getting better, it is also the product understanding of the specific design it's working on getting better. And we often forget that, well, a lot of people talk about, oh, is this new design we're doing, a new design we're doing, the fact is, many of these designs are derivatives of already-existing designs. And we have fantastic evidence of demonstrating that when DSO.ai was used on an earlier version that it has a lot of stuff that it can learn from that version and directly apply to the next incarnation of the chip and that includes, by the way, if that chip needs to go to a different silicon technology or if that chip gets a few other additional blocks to, let's say, personalize it to a different customer of the customer. And I think there is a lot of potential in all of these things to still do way, way, way better, but the advances are remarkable and we're tracking this, and we see quarter-by-quarter new breakthroughs in many things. And that's absolutely exciting.
+
+Q - Ruben Roy{BIO 6556442 <GO>}
+Appreciate that detail, Aart. Thanks.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome. Thank you.
+
+Operator
+We'll take our next question from Gianni[ph] Conti with Deutsche Bank.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Yeah, hi, there. And thank you for taking my question. So maybe starting with SIG. Could you maybe share some more color on its performance this quarter and whether you've seen any new wins versus backdrop from clients pushing away maybe some projects that were in the pipeline previously. I'd imagine the professional services arm and maybe some of those initial surveys would be those are suffering a little bit more. However, I mean, it's still great to see that growth is higher from a breakdown as well as margin improvement. So maybe just give me a little sense of how's that development in terms of projects. And then I'll ask the follow-up after. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Sure. Well, in any case, there are always a couple of dimensions to the progress, because what has been interesting we have invested now for a few years in a platform that brings multiple tools together. And the reason this is important is that security problems are not simple to diagnose and there are many different types of problems, and increasingly, what the people would want to have that are in-charge of security, so more top-down in the company has an overview of which -- what gets caught where and how do you bring these diagnostics together to have a better assessment of the risks that they have to manage. And so the indirect impact on us who is doing this better and better is the fact that we're also seeing that our customers are starting to increasingly buy multiple products from us rather than initially buying one that they may use for a while. So that is the side effect essentially of ourselves, providing more systemic complexity assessment than before.
+
+At the same time, the normal business continues. As mentioned, in the economics surroundings, what we see essentially is that the levels of signatures needed to close deals takes a little bit longer, but overall there is no doubt that this is an area that continues to grow and has still a lot of potential, because a lot of customers are barely at stage one of automating this, and our technology progress is actually quite strong. And so we are looking at growing between 15% and 20% this year, which is exactly on the target that we had told you before. And -- well, it's exciting. It's close to 10% of Synopsys, and with a little luck, we'll pass the $0.5[ph] billion mark pretty soon.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Great. That was really helpful. And my follow-up would be, maybe on DSO.ai. Could you maybe talk a little bit about the training time for existing engineers using the new tool that are undergoing a new design. Is it time-consuming or are they using pretty much the same GUI? And also maybe if you could just share a little bit on how does that compare to competition, such as (inaudible) to say. It seems like you guys are both doing sort of like a race towards capturing the most amount of the market and it seems to be a great growth opportunity. So maybe, yeah, it's basically two questions in one about training time and using same interface GUI versus competition as well. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Sure. Well, on training, of course, there are two types of training, right? There's training of the tool and there's training of the user. And I must say, I have personally been surprised because initially when we had these fantastic results in early 2020, I thought, okay, well, that's great, but it's going to take a while before they adopted. But the results were so good that people actually couldn't resist adopting it even not having fully appreciated what it would take to do things.
+
+And of course, our own AEs, as Jay mentioned earlier, we are well-trained to help them, but initially we didn't do it with too many customers. And so that first year, year-and-a-half, we had a limited set of really advanced customers and we followed the same recipe whoever runs fast is with us, we will run fast with them. And so the training has never made it to be a real issue in the discussions we've had. Now, that doesn't mean that this is just super easy. It means that I think we are well-equipped to take the design processes that our customers have, which we, by the way, know very well and adapt the tool to it and modify slightly the process for the tool. So I think we've done well.
+
+It's hard for me to compare to competition and it always feels like difficult to be objective about that. But I would say that we had the benefit of getting fantastic results already a number of years ago, and we are very, very rapidly moving to next generations of our tool and solution. And the very fact that we are now well over 100 production designs should tell you that this is not driving with training wheels, so to speak. This bike is going down the hill at high speeds as only kids would dare to do. And the -- I think we will continue to see excellent results. And I think I had also mentioned in the preamble that we've broadened substantially the applicability, not only in the digital space, but some of the the parallel spaces of test and verification and also our mixed-signal. And so these are broad open areas of opportunity for us.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Great. Thank you. Appreciate it.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome.
+
+Operator
+We'll take our next question from Blair Abernethy with Rosenblatt Securities.
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+Thank you, and nice results. I just wanted to follow up with --
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you.
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+-- DSO.ai question. Aart, from a Synopsys perspective, is the margin opportunity, is it similar to your core EDA tools, do you have to put more resources to get this product in the market and ramp it? Or is it on the line -- along the same lines as your core business?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+It may be somewhat simplistic terms, I would say, when you suddenly have a step that does work in a third of the time and gets you another 10% or so better speed and low-power, margin issues are not really the driver, it's more like, okay, can they find the budget to keep moving here. And I don't want to be too light about a statement like that because we work with people for many, many years and it is very important that we further in the ability for our customers to adopt, be successful themselves in good and tougher times, but overall, I think there's no question. These are technical advances of extremely high-value and they directly multiply the opportunity space that our customers have. So I think we will be okay.
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+Okay, great. And just one quick one for you, Shelagh. You had mentioned, $40 million to $50 million in restructuring costs. Can you just tell us what areas are impacted and is that coming through in Q1, Q2, Q3[ph], when those expenses get recognized?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+It will come through over the first three quarters of the year. A portion of it is sitting in Q1 -- about $41 million of that is in Q1. And what we're really doing is we're doing a small reduction and then we're taking that investment and shifting it into some of the growth areas that we've talked about today. So we're using this as a way to rebalance and set ourselves up for that future growth trajectory.
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+Got it. Thanks very much.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thank you.
+
+Operator
+And that concludes the question-and-answer session. I would like to turn the call back over to our Chair and CEO, Aart de Geus.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, thank you very much for participating in the call. if nothing else, you probably heard in our voice some degree of enthusiasm for the advances that we're making. And as you know, we will be looking forward to speaking to some of you later on today. With that, stay safe, and have a great day. Bye-bye.
+
+Operator
+And that concludes today's presentation. Thank you for your participation. You may now disconnect.

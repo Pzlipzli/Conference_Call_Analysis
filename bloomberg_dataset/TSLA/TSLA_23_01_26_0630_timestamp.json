@@ -1,0 +1,962 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Afternoon, everyone, and welcome to Tesla's Fourth Quarter twenty twenty two Q and A Webcast. My name is Martin Vieka, VP of Investor Relations, and I'm joined today by Elon Musk, Zachary Kirkhorn, and a number of other executives. Our Q4 results were announced at about three pm Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations as of today.",
+    "start": 1.8399999,
+    "end": 29.99
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question and answer portion of today's call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue. But before we jump into Q and A, Elon has some opening remarks.",
+    "start": 30.39,
+    "end": 51.704998
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Elon? Thank you, Martin. So just going through a twenty two, twenty two recap. It was a fantastic year for Tesla. It was our best year ever on every level.",
+    "start": 51.93,
+    "end": 65.29
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Our team did an amazing job. It's an honor, of course, to work with such such an incredibly talented group of people.",
+    "start": 65.69,
+    "end": 72.325005
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So in twenty twenty two,",
+    "start": 73.925,
+    "end": 75.125
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "we delivered over one point three million cars and achieved a seventeen percent operating margin, the highest among, any volume carmaker. I think may maybe among any carmaker. We while doing so, we generated twelve and a half billion dollars in net income and seven and a half billion in free cash flow. Importantly, the Tesla team achieved these records while twenty despite the fact that twenty twenty two was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges. So it's, you know, it's worth noting that, you know, all these records were in the face of massive difficulties.",
+    "start": 75.125,
+    "end": 119.009995
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Accredited to the a credit to the team for achieving that. The most common question we've been getting from investors is about demand. Thus far so so so I wanna put that concern to rest. Thus far in January, we've we've seen the strongest orders year to date than ever in our history. We currently are seeing orders at almost twice the rate of production.",
+    "start": 119.97,
+    "end": 147.44
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So I mean, it's hard to say whether that will continue at twice the rate of production, but the orders are high and and we've actually raised the model at y price a little bit in response to that. So we do not we we we think demand will be good despite probably a contraction in the automotive market as a whole. So basically price really matters. I think there's just a vast number of people that want to buy a Tesla car but can't afford it. And so these price changes really make a difference for the average consumer.",
+    "start": 147.51999,
+    "end": 193.295
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's sometimes, know, for those people who are well, you know, have a lot of money, sort of forget about how important affordability is. And it's always been our goal at Tesla to make cars that are affordable to as many people as possible. So I'm glad that we're able to do so. And yeah. So I think it's a good thing, all things considered.",
+    "start": 193.855,
+    "end": 217.505
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We're we're also making very good progress on cost control, and we're seeing the the costs of production in Berlin and Austin drop commensurate with the growth in in production, so as as you'd expect. So yeah. With respect to Autopilot, as of now, we deployed full self driving beta, to in on four city streets, to roughly four hundred thousand customers in North America. This is a huge milestone for autonomy as FSD beta is the only way any consumer can actually test the latest AI powered autonomy. And we're currently at about a hundred million miles of FSD outside of highways.",
+    "start": 219.58499,
+    "end": 271.25
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And our published data shows that improvement in safety statistics is very clear. So, we would not have released a clear FSD Bet if these safety statistics were not excellent. Regarding batteries, production rate of four thousand six hundred and eighty cells reached one thousand cars a week at the end of last year. And we're increasing capacity for four thousand six hundred eighty cells by another a hundred gigawatt hours as announced at Giga Nevada yesterday. Our long term goal is to get to well in excess of a thousand gigawatt hours of cells produced internally, and continue to to use other cell cell providers.",
+    "start": 272.065,
+    "end": 323.78998
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So to be clear, we we will continue to use other cell providers just that the demand for, lithium ion batteries, is quasi infinite or and will be for quite some time. So we we feel we can scale a lot faster, using both suppliers and internally produced, cells. And we've we've got a I think an amazing plan for making the forty six eighty cell low cost and and high energy density. So energy storage also see a record growth, and we that that is continuing to accelerate. It's always worth remembering that the the three pillars of a sustainable energy future are, obviously, electric vehicles, solar and wind.",
+    "start": 323.78998,
+    "end": 381.765
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And then the third key item is stationary storage to store the energy from solar and wind because obviously the sun doesn't shine all the time and the wind doesn't blow all the time. So if you have those three things, you can you can convert all of us to a fully sustainable situation, many times over actually. So I would like to just, you know, make it clear that there there is a path to a a fully sustainable future for humanity, and we our goal at Tesla is to accelerate progress on that path as much as humanly possible. So, yeah, so we were obviously ramping up mega pack production, and we expect to it to grow at a rate quite a bit faster than our vehicle output. So in conclusion, we are taking a view that we want to keep making and selling as many cars as we can.",
+    "start": 382.165,
+    "end": 445.45502
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We believe we can keep pushing for strong volume growth while retaining the industry's best operating margins. As we mentioned many times before, we want to be the best manufacturer. Really manufacturing technology will be our most important long term strength. So, and we'll talk more about our upcoming plans at the March first Investor Day. And what and lastly, I want you once again, all of our employees for delivering another record breaking year.",
+    "start": 445.855,
+    "end": 474.475
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Congratulations, guys.",
+    "start": 474.475,
+    "end": 475.435
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thanks, Elon. And I think Zach has some opening remarks as well.",
+    "start": 477.06,
+    "end": 480.66
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Thanks, Martin. So as Elon mentioned, twenty twenty two was a terrific year for Tesla. I also wanna congratulate the Tesla team and also say a thank you to our suppliers for your support during quite a volatile year. On a full year basis, revenue increased over fifty percent, operating income doubled, free cash flows increased over fifty percent, and our margins remained industry leading.",
+    "start": 481.62,
+    "end": 506.285
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Additionally, we continue to make progress on overhead efficiencies as non GAAP OpEx as a percentage of revenue improved further. For q four specifically, sequential and annual margin was impacted by ASP reductions as we are managing through COVID impacts in China, uncertainty around the consumer tax credit in the US, and a rising interest rate environment. Note that in twenty twenty two, rising interest rates alone had effectively increased the price of our cars in the US by nearly ten percent. Additionally, COGS per unit has increased on a year over year basis driven primarily by three factors. First is raw materials and inflation led by lithium prices and discussed at length in previous calls.",
+    "start": 507.02002,
+    "end": 549.72
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Second, we are working through the early ramp of inefficiencies of our Austin and Berlin and in house cell production factories. Third, our vehicle mix over the last year has moved more heavily towards Model Y, which carries a slight cost premium to Model three. Partially offsetting these impacts, we've continued to execute on Tesla controllable cost reductions in line with the progress we've made in prior years. These improvements include our continued work to gradually move towards a regionally balanced build of vehicles. The energy business had its strongest year yet across all metrics, led by steady improvement in both retail and commercial storage.",
+    "start": 550.595,
+    "end": 587.015
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "While much work remains to grow this business and improve cost, we believe we are on a good trajectory. As we look towards twenty twenty three, we're moving forward aggressively leveraging our strength in cost. There are three key points I wanted to make here. First, on demand, as Elon mentioned, customer interest in our products remains high. Second, on cost reduction, we're holding steady on our plans to rapidly increase volume while improving overhead efficiency, which is the most effective method to retain strength in our operating margins.",
+    "start": 587.255,
+    "end": 617.545
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "In particular, we're accelerating improvements in our new factories in Austin, Berlin, and in house cells where inefficiencies are the highest. But we are attacking every other area of cost and unwinding cost increases created from multiple years of COVID related instability. This includes logistics, expedites, accumulation of material buffers, part premiums, productivity, and overheads as an example. As the world transitions from an inflationary to deflationary environment, we expect a strong partnership with our suppliers on this journey as well. In net, we've priced our products with a view towards a longer term cost structure.",
+    "start": 618.025,
+    "end": 654.25
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thus, there will be an impact on operating margin in the near term. However, we believe our margins will remain healthy and industry leading over the course of the year. Third, we are continuing to ensure funding is prioritized for our long term road map. This includes expanding in house cell production, bringing Cybertruck to market, development of our next generation vehicle platform, expansion of our manufacturing footprint, and growth of the energy business. We're looking forward to discussing these plans in more detail on our investor day in a month.",
+    "start": 654.41003,
+    "end": 683.65
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thank you.",
+    "start": 684.05,
+    "end": 684.77
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much, Saq. Let's now go to investor questions. The first question is, some analysts are claiming that Tesla orders net of cancellations came in at a rate less than half of production in the fourth quarter. This has raised demand concerns. Can you elaborate on order trends so far this year and how they compare to current production rates?",
+    "start": 685.97003,
+    "end": 707.07996
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I think we've already answered that question.",
+    "start": 707.88,
+    "end": 710.04
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Exactly. The demand far exceeds production, and we actually are making some small price increases as a result.",
+    "start": 710.04,
+    "end": 721.345
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The second question is in similar vein. What is the initial reaction been to global price reductions in early 1Q twenty twenty three, specifically in terms of order intake levels? We've answered that one as So, let's go to the next one. The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for battery cells packs?",
+    "start": 721.90497,
+    "end": 746.33
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So three thousand seven hundred dollars per long range Model three and Model Y, that's forty five dollars a kilowatt hour. For autos and energy products, and how much does Tesla expect to earn in the coming year from these credits?",
+    "start": 746.725,
+    "end": 760.085
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I'll I'll say a little bit about it then. I think Zach will will add some. Long term, we expect these the value of these credits to be very significant. You can do the math if we were to get anywhere near a thousand gigawatt hours a year of production or even a few hundred, gigawatt hours. It's, it's it's very significant.",
+    "start": 761.82,
+    "end": 785.645
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So but but the the the credits do rely upon domestic manufacturing. And, you know, in the case of Panasonic was domestic manufacturing where, you know, splitting the the value of the credits. So it'll the the value of the credits this year will will not be, gigantic, but I think it could be gigantic in the it would we think it probably will be very significant in the future.",
+    "start": 785.80505,
+    "end": 813.58496
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Just to add and, and put some, boundaries on what we're expecting in terms of impact to Tesla for this year. You know, so different products, we think, will get different amounts of credit. You know, the the regulations here are still in flux, and there continues to be updates. So this is just our best understanding at the moment.",
+    "start": 816.77,
+    "end": 836.185
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "But, you know, we think on the order of a hundred fifty million to two hundred fifty million per quarter this year and growing over the course of the year as of as our volumes grow. And, you know, part of the part of the work we're doing here, which is a part of what this, incentive package is is trying to incentivize is is, as Elon mentioned, to move more manufacturing onshore in the United States, which is Tesla's plans anyways. And so I I think we're pretty well positioned over the coming years to take advantage of this. But then also, you know, part of what the goal of of this incentive package is is to improve adoption from our customers. And so we also wanna use these incentives to improve affordability as we think about, you know, what the price points are in our products going forward.",
+    "start": 836.745,
+    "end": 881.14
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And so as we were thinking about our pricing changes in the US a couple of weeks ago that we announced, you know, we were looking at, you know, what the credit benefit to Tesla would be, to make sure that customers are able to to receive the benefit not only from this that we're receiving to some extent, but also on the consumer facing side, which is currently seven thousand five hundred per car of tax credit, assuming that, you know, subject to the MSRP caps and the income caps. So, you know, we want to use this to to accelerate sustainable energy, which is our mission and also the goal of this bill.",
+    "start": 882.215,
+    "end": 921.685
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The next question from investors, is after recent price cuts, analysts released expectations that Tesla automotive gross margin, excluding leasing and credits, will drop below twenty percent and average selling price around forty seven thousand across all models. Where do you see average selling price and gross margins after the price cuts?",
+    "start": 923.72003,
+    "end": 946.295
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah, go ahead.",
+    "start": 948.77997,
+    "end": 949.58
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Yeah. I'll jump in on this. So, you know, there's certainly a lot of uncertainty about how the year will unfold, but I'll share what's in our current forecast for the moment. So, you know, based upon these metrics here, we believe that we'll be above, you know, both of the metrics that are stated in the question.",
+    "start": 949.58,
+    "end": 966.885
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So twenty percent automotive gross margin, excluding leases and red credits, and then forty seven k ASP across all models. And so, you know, two other comments I wanna make on this. Just tactically on sequential ASP changes from q four to q one, and just as a reminder, you know, the the ASP reduction is is not as large as the reduction in configurator prices. As in q four, we had backlog customers that we're delivering cars to at a lower price book given that, backlogs had been so long for so much of twenty twenty two. But then also there are various programs in place that we used in q four that lowered ASPs.",
+    "start": 967.205,
+    "end": 1004.395
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "The second comment I wanted to make here is that, you know, as a management team here, we're most focused on, on what our operating margin is. And so, you know, as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business, and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right the right metric for us to be focused on is operating margin. And so I I wanted to make sure that I shared that with the investor community as well because that is what we're primarily managing to know.",
+    "start": 1007.8,
+    "end": 1040.75
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. Something that, I think some of the smart retail investors understand, but I but but I think a lot of others, maybe don't, is that the every time every time we sell a car, it has the ability, just from just from up uploading software to have, full self driving enabled, and the full self driving is obviously getting, better very rapidly. So that's that's actually a tremendous upside potential because all of those cars with with a few exceptions I mean, only only a small percentage of cars don't have hardware three. So that means that there's millions of cars where full self driving can be sold where that essentially got a hundred percent gross margin. And and the value of it of FSD grows, as it the autonomous capability grows.",
+    "start": 1042.735,
+    "end": 1105.055
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And then when it becomes fully autonomous, that that is a value increase in the fleet that might be the biggest asset value increase of anything in history. Yeah. Thank",
+    "start": 1105.055,
+    "end": 1120.95
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "you. Let's go to the next investor question. Since Elon started political influencing, polls from Morning Consult and EUGO show Tesla brand EUGOV.",
+    "start": 1120.95,
+    "end": 1130.7649
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "You crushed them with your laugh.",
+    "start": 1131.885,
+    "end": 1133.4849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Show Tesla brand favorability declining in twenty twenty two and division among parties and lines. Such brand damage can impact demand. Does Tesla track favorability and how will any brand image be mitigated?",
+    "start": 1134.2849,
+    "end": 1146.98
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, let me check my Twitter account. K. So I've got a hundred and twenty seven million followers. It continues to grow very rapidly. That suggests that I'm, you know, reasonably popular.",
+    "start": 1147.62,
+    "end": 1162.345
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It might might not be popular by some people, but for the vast majority of people, my follow account speaks for itself. I'm the most interactive account, social media accounts, I think, maybe in the world, certainly on Twitter. And that's, actually predated the Twitter acquisition. So, I think Twitter is actually an incredibly powerful tool for driving demand for Tesla. And I really encourage companies out there of all kinds, automotive or otherwise, to make, more more use of Twitter, and to to use their Twitter accounts in ways that are interesting and informative, entertaining, and it will help them drive sales just as it has with with Tesla.",
+    "start": 1163.73,
+    "end": 1213.915
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, the the net value of Twitter apart from, you know, a few people are complaining is gigantic, obviously.",
+    "start": 1214.795,
+    "end": 1227.2799
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Let's go to the next question. Please provide a detailed explanation of where you are on the four thousand six hundred eighty Ram. What are the current roadblocks? And when do you expect to scale to ten thousand vehicles a year a week?",
+    "start": 1229.52,
+    "end": 1243.0149
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "Yeah.",
+    "start": 1244.135,
+    "end": 1244.7749
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "Thanks, Martin. First, I just wanna say congrats and thanks to the Tesla four thousand six hundred eighty team for achieving, one k a week in q four. It was no small feat. Definitely a result of, you know, cup more than a couple years of hard work. As far as where we stand in Texas, one of four lines are in production with the remaining three in stages of commissioning and install.",
+    "start": 1245.095,
+    "end": 1267.7201
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "Really, our twenty twenty three goal as a forty six eighty team is to deliver a cost effective ramp of forty six eighties well ahead of Cybertruck. Focus areas are dialing in and improving the quality of the high volume supply of mechanical parts and driving factory process yields up as much as possible. Between the two of those things, if we achieve, those those key goals, we'll be well set up to, for a major forty six k a year in twenty twenty four.",
+    "start": 1268.895,
+    "end": 1295.01
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Next investor question is Elon said previously that FSD hardware four will most likely come first in Cybertruck. Is that still the current plan? Do you expect there to be an upgrade path for hardware three cars to hardware four?",
+    "start": 1297.3849,
+    "end": 1311.625
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. CyberTrack will have hardware four. And, you know, for twenty twenty three, CyberTrack will not be, you know, a significant contributor to the bottom line, but but it will be into next year. So it's an incredible product. I can't can't wait to drive it personally.",
+    "start": 1315.26,
+    "end": 1338.555
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It will be the car that I drive, every day. Actually, just I'm wearing the T shirt with the smashed glass. And it's just it's just one of those products that only comes along once in a while, it's really special. So, yeah, I'm doing it. So with respect to upgrading cars on that have hardware three, I I don't think that will be needed.",
+    "start": 1338.555,
+    "end": 1364.325
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Hardware three will not be as as good as hardware four, but I'm confident that hardware three will so far exceed the average the safety of the average human. So what we're what we're aiming for is, like, well, how do we get ultimately to, you know, let's say, for argument's sake, hardware three can be, say, two or three hundred percent safer than human, hardware four might be, you know, five or six hundred percent. It'll be a hardware five beyond that. But, what what really matters is is are we improving the average safety on the road. So but but but it it is it is with the cost and difficulty of retrofitting hardware three with hardware four is is quite is quite significant.",
+    "start": 1365.365,
+    "end": 1414.5
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So it it would not be, I think, economically feasible to do so. Thank you. The next question is for Zach. Zach, when do you think",
+    "start": 1414.5,
+    "end": 1424.515
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Tesla Insurance will become big enough revenue source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies.",
+    "start": 1424.515,
+    "end": 1433.5199
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. I think it's probably gonna take some time before this business is large enough for specific financial disclosures, but I I'm happy to provide an update on where we stand in the business. So we're currently at a a three hundred million dollar annual premium run rate as of the end of last year. We're growing twenty percent a quarter, so it's growing faster than the growth in our our vehicle business. And in the states in which we're operating, on average, seventeen percent of the customers in those states are using a Tesla insurance product.",
+    "start": 1436.08,
+    "end": 1472.5199
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So and that and that number continues to tick up as we spend more time in markets. And we see most of the adoption occurring when folks take delivery of a new car as they're setting up insurance for the first time as opposed to going back and switching when they already have insurance set up. So there's an an inherent stickiness in the insurance business.",
+    "start": 1473.08,
+    "end": 1491.39
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But Yeah. Sorry. Go ahead.",
+    "start": 1492.75,
+    "end": 1494.6699
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "No. I was just gonna say, just as a broader reminder on kind of the motivation for starting this business, It was to improve and still is to improve the total cost of ownership of our cars, given that we're seeing high premiums of insurance from third party companies. And and that remains our priority here. We'll obviously run this as a healthy business, but we wanna make sure we keep our costs low and insurance stays affordable to our customers.",
+    "start": 1494.67,
+    "end": 1521.29
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. And so there there are two, really, important side benefits for Tesla insurance that are worth mentioning, one of which, Zach alluded to, which is that just by Tesla offering, insurance for our cars at a competitive rate, that makes the other car insurance companies, offer better rates for Teslas. So it has a bigger effect than you think because it improves total cost ownership or insurance costs even when they don't use Tesla insurance because now, you know, the the gaggers of the world have to compete with with Tesla and cannot, charge outrageous insurance for Teslas. So it's great. So so it has a a amplified effect.",
+    "start": 1522.3301,
+    "end": 1564.1349
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Very important. Then it it is also giving us a good feedback loop into minimizing the cost of repair of Teslas for all Teslas worldwide because we we obviously wanna minimize the cost of preparing a a Tesla, if it's in a in a collision and, for for Tesla insurance. And previously, we didn't actually have a good insight into that because the the other insurance companies would cover the cost. And, actually, the cost in some cases were, unreasonably high. So we've actually adjusted the design of the car, and made changes in the software of the car to minimize the cost of repair.",
+    "start": 1564.1349,
+    "end": 1605.5499
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I obviously, minimize the first the best repair is no repair. Avoid the accident, entirely, which, since every Tesla comes with most advanced active safety, in the world, whether or not you buy full self driving, you you you still get, the intelligence of full self driving for, active safety, active collared collision prevention. So it's giving us this really good feedback loop for, again, reducing cost total cost of ownership, and, also just, figuring out how to get if if somebody's car is in a in an accident. Most accidents are actually small. They're like, you know, a broken fender or scratched the side of the car or something like that.",
+    "start": 1605.63,
+    "end": 1649.815
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "They're not that's the vast majority of accidents. But we were we were actually solving how to get somebody's car repaired very quickly and efficiently and back in their hands. And and like I said, those those improvements actually apply then, to old cars and and and we're we're making, just to emphasize another key point because some of these points might be less, so I apologize for being repetitive. But it's it's remarkable how small changes in design of the bumper and and improving of the obviously, improving the logistics of spare part or providing spare parts needed for collision repair have an enormous effect on the repair cost. So if if you're waiting for a part to get repaired and that part takes a month, now you've got a month of having to rent another car.",
+    "start": 1649.815,
+    "end": 1708.4049
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's extremely expensive. And and, of course, you're missing the car that you love and won't actually wanna drive. So this this is a actually a very significant effect on total cost of ownership and and customer happiness.",
+    "start": 1708.405,
+    "end": 1723.72
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question from investors is, is CyberTrek production still on track for mid year?",
+    "start": 1726.2949,
+    "end": 1732.2949
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We do expect production to start, you know, I don't know, maybe sometime this summer. But it's I always like try to downplay at the start of production because the start of production is always very slow. But it it increases exponentially, but it's always very slow at first. So I wouldn't put too much stock in starter production. It's kinda when when does volume production actually happen, and that's that's next year.",
+    "start": 1733.815,
+    "end": 1761.985
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you.",
+    "start": 1763.87,
+    "end": 1764.5901
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "That's that's riding on. Like, just to emphasize on that, we've started installation all the production equipment here in Giga, Texas, castings, GA, internal assembly, body shops. We built all our beta vehicles, some more coming still in the next months. But as you said, the ramp will really come twenty twenty twenty four.",
+    "start": 1764.5901,
+    "end": 1781.345
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah.",
+    "start": 1782.0651,
+    "end": 1782.625
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Exactly.",
+    "start": 1782.625,
+    "end": 1783.4249
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the last investor question is, with with near infinite global demand for energy storage.",
+    "start": 1784.545,
+    "end": 1789.985
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Seriously. Where should",
+    "start": 1790.24,
+    "end": 1791.28
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Tesla build the next mega pack factories? How many are needed on each continent?",
+    "start": 1791.28,
+    "end": 1796.4
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's a it's a good question. It's not something we I think we'll provide an update about that in the future, but it's something we're thinking about very carefully. Really kinda like what is the fastest path to a thousand gigawatt hours a year of production. And you'll see announcements come out later this year and next that answer that question.",
+    "start": 1797.92,
+    "end": 1823.6799
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Okay. And now let's go to analyst questions. The first analyst question comes from Rod Lache from Wolfe Research. Rod, feel free to unmute your mic.",
+    "start": 1825.44,
+    "end": 1837.415
+  },
+  {
+    "speaker": "Rod Lache",
+    "text": "I think I'm unmuted. Can you hear me? Yes, we can.",
+    "start": 1837.5751,
+    "end": 1840.695
+  },
+  {
+    "speaker": "Rod Lache",
+    "text": "Okay. Thank you. Just firstly, it sounds like your, one point eight Million unit volume indication for this year is somewhat more supply constrained and demand constrained. Then I have a follow-up on on cost. Is that is that an",
+    "start": 1840.6951,
+    "end": 1857.41
+  },
+  {
+    "speaker": "Rod Lache",
+    "text": "accurate statement?",
+    "start": 1857.41,
+    "end": 1858.05
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, okay. I mean, our our internal production potential is actually closer to two million vehicles, but we, you know, we're saying one point eight because I don't know. There just always seems to be some freaking force majeure thing that happens somewhere on Earth. And, you know, we we don't control if there's like earthquake, tsunamis, wars, you know, pandemics, etcetera. So, if if if if it's if it's a smooth year, actually, you know, without some big supply chain interruption or massive problem.",
+    "start": 1861.5349,
+    "end": 1903.44
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We actually have the potential to do two million cars this year. We're not committing to that, I'm just saying that's the potential. So and and I think there's there would be demand for that too.",
+    "start": 1903.44,
+    "end": 1913.84
+  },
+  {
+    "speaker": "Rod Lache",
+    "text": "Yeah, thanks for clarifying that. And on the cost side, the numbers that we just saw from you, as you pointed out, were weighed down by the four thousand eight and sixty ramp, the Berlin, Austin, GigaCast things, processes not at rate. Can you give us a bit of an indication of the headwind that you're absorbing from those things like you did last quarter? And then lastly on cost, do you think that we can tease out an interesting data point from, on where battery costs are headed from this announcement that you just made last night? If I'm, correct, it looks like the investment cost per kilowatt hour is less than half of what I've seen anywhere else, maybe thirty dollars a kilowatt hour for that capacity.",
+    "start": 1915.165,
+    "end": 1962.65
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I don't think I want to say the specific number, but it's interesting if you look at the size of the of of Giga Nevada that is allocated to make a hundred gigawatt hours is a small fraction of the size that currently makes about thirty five.",
+    "start": 1965.4501,
+    "end": 1981.7251
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "Yeah. I mean, the the goals we outlaid at Battery Day on reducing the investment required to deploy cell manufacturing, I mean, that's been a key focus of ours, and the team is doing a good job hitting hitting the marks on that on that focus.",
+    "start": 1984.09,
+    "end": 2001.715
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. And it goes back to the point I was making, and, you know, I said this several years ago. I think Tesla's, really that this the competitive strength that will be by far the hardest for other companies to replicate is Tesla being just damn good at manufacturing and having the most advanced manufacturing technology in the world. And if you've got that sort of advanced manufacturing toolbox, you can apply it to many things. And we're applying it now to battery cells.",
+    "start": 2002.4349,
+    "end": 2029.5249
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I shall say that there we have other products in development. We're we're not gonna announce them, obviously, but but they're very exciting. And I think we'll blow blow people's minds when, you know, when they when we reveal them. Tesla has the most exciting product roadmap of any company on earth by by a long shot. And, you know, we'll continue to, I think, be in that position.",
+    "start": 2030.485,
+    "end": 2062.5051
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We we we got more great ideas. I mean, we know what to do with here. So future is very exciting. As I said in the last call, there's gonna be bumps along the way and I think we'll probably have a pretty difficult recession this year, probably. I hope not, but probably.",
+    "start": 2062.905,
+    "end": 2084.03
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And so one can't predict the short term sort of stock value because when there's a recession and people panic in the stock market, prices of stocks, both value of stocks can drop sometimes to surprisingly low levels. But long term, I am convinced that Tesla will be the most valuable company on earth.",
+    "start": 2086.5251,
+    "end": 2110.85
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And I think Zach, there was a question on, cost headwind in in q q four.",
+    "start": 2112.7148,
+    "end": 2118.155
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. I mean, our our weighted average COGS for the company, you know, if if you were to assume Austin and Berlin were at the cost structure of our other factories, it was on the order of two thousand to twenty five hundred of headwinds. So I think from there, you come back into margin impact of those factories as of end of Q4.",
+    "start": 2120.875,
+    "end": 2142.5251
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And let's go to the next question from Pierre Ferragu from New Street Research. Pierre, please go ahead.",
+    "start": 2144.7651,
+    "end": 2151.725
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "Thanks, Martin. Can you hear me well?",
+    "start": 2152.38,
+    "end": 2154.38
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Excellent.",
+    "start": 2154.38,
+    "end": 2155.42
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "Zach, actually, I'd like to follow-up on the data point you just gave on cost. If I look back at the COGS per car, you guys put on close to thirty six thousand dollars in the middle of twenty twenty one. And then the number went up as you had to face with inflation in input costs and the ramp of Berlin and Texas. And this quarter, I think we are close to forty ks and we peaked maybe close to forty two thousand dollars at some point last year. And so my question from here is, how much time do you think it takes you to get back to this kind of thirty six ks, which would mean Berlin and Texas and the input cost, all that stuff is normalizing.",
+    "start": 2156.8599,
+    "end": 2202.485
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "That like and that would be kind of like a ten percent decline in the COGS per car. Is that something we we can hope to see this year, or is that too too optimistic?",
+    "start": 2203.685,
+    "end": 2212.68
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "You know, the Austin and Berlin ramp inefficiencies in forty six eighty will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control. You know, we're doing a lot of work on cost reduction outside of that, and we talked about supply chain costs, expedites, logistics, attacking everything. You know, on the raw materials and inflation side, where lithium is the large driver there and this was a meaningful source of cost increase for us, you know, we'll have to see where lithium prices go. And, you know, we're not fully exposed to lithium prices, but I think in general, it's what we've seen from our forecast here. Cost per car of lithium in twenty twenty three will be higher than twenty twenty two.",
+    "start": 2215.48,
+    "end": 2258.8552
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "So, you know, that's that's a headwind that would have to be overcome to return back to those levels. So I I don't think we'll get there this year, but I think we'll make progress. And we'll continue to find ways to offset these raw material costs that we don't have control over. And is there any anything on that?",
+    "start": 2259.415,
+    "end": 2278.67
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "Yeah. Like, on the on the non sales raw material, we begin to capture, you know, benefits of indexes, tapering out. But due to the length of various supply chains, it does take time before this is reflected in our financials. And while aluminum is down, like, twenty percent year over year, steel is about thirty percent down year over year. The global non sales raw materials market continues to be influenced by geopolitical situations in Europe, high production costs due to labor cost increases and energy spikes, and disruptions due to natural disasters like typhoon in Korea four months ago, pandemic lockdowns.",
+    "start": 2278.925,
+    "end": 2315.675
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "So we believe that meaningful price corrections will ultimately come, but it remains uncertain exactly when. In the meantime, we continue to redesign supply chain to make it more efficient and work with our supplier partners to find more efficiencies, streamline logistics and transportation to reduce costs.",
+    "start": 2316.075,
+    "end": 2334.85
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "Excellent. Thank you. And I have a quick Sorry.",
+    "start": 2336.395,
+    "end": 2339.7551
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Do you wanna go say something?",
+    "start": 2340.635,
+    "end": 2341.9153
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "I was just gonna say, we're also you know, our fleet is starting to mature, the the three y fleet, and we're gathering a lot of data out of that fleet to understand how we can sort of bring some margin that we didn't know we had out of the product. So over the course of twenty twenty three on the powertrain side, we're actually gonna go act after sort of some materials where we're paying for more performance than we need or we have more content than we need without impacting reliability at all. And and that that will actually add up to a pretty significant cost reduction on the powertrain side over the course of twenty twenty three. So So we're not we're not just sort of relying on supply. We're also doing design actions to to bring cost up.",
+    "start": 2342.0752,
+    "end": 2383.09
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. And my guess my guess is if if there is a risk if if the recession is is a serious one, and I think it probably will be, but I hope it isn't, that then that would lead to meaningful decreases in, almost all of our input costs. So are we expecting to see deflation in our input costs most likely, which would then lead to, yeah, better margins? I'm just guessing here. So this is but that that that that would be my guess.",
+    "start": 2383.49,
+    "end": 2418.1199
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "Excellent. Thank you so much.",
+    "start": 2420.545,
+    "end": 2422.705
+  },
+  {
+    "speaker": "Pierre Ferragu",
+    "text": "So as a quick follow-up, Elon, I was thinking about like FSD and when you look at like the situation today compared to a year ago, it's like the progress has been like amazing in the quality of the product, but also it's it's roll out. And so I was wondering how much is this like impacting the take rate of FSD today? So do you already see that people are getting more excited by FSD because they see it around them on four hundred thousand cars and they see the the value of the service already? Or is that too early to really see like a to to to expect like an uptick in in the tech rate?",
+    "start": 2422.705,
+    "end": 2459.545
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The the the trend is very strong towards use of FSD. And, as you alluded to, the with each incremental improvement, the enthusiasm obviously increases. And so, you know, I think something that still a lot of people out there don't quite appreciate is that Tesla would I've always said, like, Tesla is much a software company as a hardware company, but but Tesla is really, one of the world's leading AI companies. This is kind of a big deal, both AI on the software side and on the hardware side. With the hardware three inference computer, still the most efficient inference computer in the world despite know, being at this point, five years old from the design point.",
+    "start": 2461.2249,
+    "end": 2513.3452
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And with hardware four coming and then hardware five beyond that with where there are significant leaps. And the Dojo computer, we expect to, be using that operationally at at Tesla later this year. So and and we're we're seeing just a lot of world class AI talent join the company. There's also the the long term potential of Optimus where we're able to, use our expertise in electric motors and, power electronics, batteries, and advanced manufacturing to be able to make a humanoid robot that is actually useful and can be made at high volume with, with exceptional capabilities because of the, Autopilot AI that you know, where where we take the because the the car is like a robot on four wheels, and the Optimus is a robot on legs. But the, as we get closer and closer to solving real world AI, and we don't see anyone even close to us in in in achieving this, You know, the the the value Pierre, think you I think you appreciate this and and a few others do, but, most that that don't know what I'm talking about.",
+    "start": 2514.625,
+    "end": 2606.4849
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, but it's it's this is the thing that has order of magnitude potential, market cap, improvement for Tesla.",
+    "start": 2607.4448,
+    "end": 2620.6501
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the next question comes from Alex Potter from Piper Sandler.",
+    "start": 2621.85,
+    "end": 2625.77
+  },
+  {
+    "speaker": "Alex Potter",
+    "text": "Can you hear me guys?",
+    "start": 2628.865,
+    "end": 2629.9849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes.",
+    "start": 2630.305,
+    "end": 2630.945
+  },
+  {
+    "speaker": "Alex Potter",
+    "text": "Great. So quick one on FSD, this I guess for Zach, obviously you unlocked some deferred revenue in the quarter that'll translate presumably into higher margins on every incremental sale going forward so long as people opt in for FSD. But was wondering if you're able to disclose the percentage of the fifteen thousand dollars price, that you're not gonna be able to recognize as revenue upfront rather than deferred.",
+    "start": 2631.825,
+    "end": 2655.1301
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. I mean, the way that we've structured this is a full self driving package is two components. There's enhanced autopilot, the price of which is listed on the website. We fully recognize that. Then there's an incremental, which is, for the additional features that full self driving offers, and, we've released a portion of that.",
+    "start": 2658.9448,
+    "end": 2679.55
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And then there's a a minority of the total package that's remaining that will be released over time as software updates are there. And, you know, in our shareholder letter, in addition to disclosing the dollar amount of the deferred revenue release, we also included in there the dollar value of the balance of unreleased deferred revenue, that will be released over time with future software updates.",
+    "start": 2679.6301,
+    "end": 2703.8
+  },
+  {
+    "speaker": "Alex Potter",
+    "text": "Okay. Great. And then maybe one additional additional question here on the incremental capacity in Nevada, the 4680s that you're planning. It's a lot of batteries, and presumably you won't be putting all of those in Tesla Semi. So I guess two questions about that incremental capacity.",
+    "start": 2706.2,
+    "end": 2724.635
+  },
+  {
+    "speaker": "Alex Potter",
+    "text": "First, is it correct to assume that all of those 4680s are going to be more or less fungible and usable in your entire range of products? And if the answer is yes, then if you had to guess, how do you think that one hundred gigawatt hours would be allocated between your various end markets?",
+    "start": 2724.635,
+    "end": 2740.09
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I don't know.",
+    "start": 2742.695,
+    "end": 2743.175
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This is a bit too much guessing at this point. Yeah. But yes. The yeah. Yeah.",
+    "start": 2743.175,
+    "end": 2749.2551
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "I mean, you're you're right. Not all of the hundred gigawatt hours are gonna go into the semi trucks. That is correct. Right. That we can",
+    "start": 2752.7751,
+    "end": 2758.7102
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Just say, like, we we you know, I alluded to, you know, a number of future products. Those future products would use the forty six eighty.",
+    "start": 2759.19,
+    "end": 2767.03
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the next question comes from George from Canaccord Research.",
+    "start": 2770.155,
+    "end": 2775.5952
+  },
+  {
+    "speaker": "George",
+    "text": "Hi, everyone. Thanks for taking my question. So you recently adjusted prices and that may have put many of your competitors in the back foot. In addition to that, your capital markets have recently gotten a lot tougher. So with those factors in mind, I'm curious how you see the current competitive landscape changing over the next few years?",
+    "start": 2776.955,
+    "end": 2796.47
+  },
+  {
+    "speaker": "George",
+    "text": "And who you see as your chief competitors five years from now?",
+    "start": 2797.085,
+    "end": 2801.2449
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "About five years. Five years is a long time. You know, as as with the, Tesla AutoPart AI team, late until late late last night, and just we're we're just asking you guys just like, so who do we think is close to Tesla with for a general solution for self driving? And and we still don't don't even know really who would even be the distant second. So, yeah, we we it it it really seems like we're, I mean, you don't right now, I don't think you could see second place with a telescope.",
+    "start": 2802.605,
+    "end": 2849.53
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, or at least we can't. So, that won't last forever. So in five years, I don't know that probably somebody has figured it out. I don't think it's any of the car companies that we're aware of, but I I I I'm just guessing that someone might figure it out eventually. So yeah.",
+    "start": 2851.7048,
+    "end": 2880.5952
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "I mean, beyond that, Elon, like, in the in the vehicle space, even though the market's shrinking, we're growing and EVs have doubled almost year over year. So, like, it it whoever keeps up with the the the trend of EVs is is gonna be a competitor. You know, the Chinese are scary. We always say that. But but, like, you know, a lot of people always look at the, know, EV market share, but we always look at it as how much of the total vehicle space do we have, and we're just gonna keep growing in that space.",
+    "start": 2881.235,
+    "end": 2909.21
+  },
+  {
+    "speaker": "Andrew D. Baglino",
+    "text": "It's not there's ninety five percent for us to go get. Yeah.",
+    "start": 2909.21,
+    "end": 2913.105
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And I I I don't wanna say, like, you know, I think, we have a lot of respect for the car companies in China. They are the most competitive in the world. That is our experience, and the Chinese market is the most competitive. They work the hardest, and they work the smartest. That's so a lot of respect for the China car companies that we're competing against.",
+    "start": 2913.105,
+    "end": 2933.1
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And so if I if I were to guess, there were probably some company out of China that's most likely, you know, to to to be second, you know, to Tesla. And but we we are the Tesla China China team is winning in China. We you know? And I think we actually are able to attract the the best talent in China. So, hopefully, that continues.",
+    "start": 2935.02,
+    "end": 2962.76
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, yeah, super fired up about the future and, yeah, it's gonna be great.",
+    "start": 2963.32,
+    "end": 2970.2449
+  },
+  {
+    "speaker": "George",
+    "text": "Just as a follow-up, the Inflation Reduction Act has created huge tax incentives for commercial vehicles. You mentioned an incredibly interesting product pipeline. Are there maybe some plans to accelerate commercial vehicle form factors outside of the Tesla Semi to help accelerate EV adoption?",
+    "start": 2971.525,
+    "end": 2991.6199
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, I was basically saying that yes, but I'm not gonna give you details because this is nice try. Nice try. Yeah. Of course. Of course.",
+    "start": 2992.8198,
+    "end": 3002.225
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, you know, we're we're to always look at, like, what is the limiting factor for new vehicles because if if if the you know, for the longest time, we've been constrained on total cell lithium ion production output. And so people said, like, why, why not bring this other car to market or that other car to market? Well, it doesn't really help if all you're doing is shuffling around the batteries from one car to another. In fact, it hurts because you add complexity, but you don't add incremental volume. So it's sort of pointless.",
+    "start": 3003.265,
+    "end": 3033.815
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "In fact, counterproductive to add model complexity without solving the availability of lithium ion batteries. So as we saw, as as we get, so we want we want a new product new product introduction to match where the cells are available for that new product to use those cells without cannibalizing the cells of the other cars. That's the actual limiting factor for new models, not anything else really.",
+    "start": 3033.815,
+    "end": 3066.505
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Let's go to the next question. The next question comes from William Stein from Truist.",
+    "start": 3069.59,
+    "end": 3074.79
+  },
+  {
+    "speaker": "William Stein",
+    "text": "Great. Thanks for taking my question. You started to answer this earlier, but I like to ask this question about the AI elements of your business and ask if you could comment on progress around Dojo and Optimus and your anticipation for the likelihood, for example, for, for the company to disconnect the GPU cluster in favor of Dojo and to have some market achievement in Optimus?",
+    "start": 3078.3901,
+    "end": 3110.51
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah, I mean, obviously with, since we're still at the early stages, there are big error bars in any predictions. It's like easy, I think easy to predict the long term, but hard to predict the time in between now and then. But it's we think Dojo will be competitive with the NVIDIA H1 at the end of this year and then hopefully surpass it next year. And, the the key there is is, like, I think I think the is is what's what's the energy usage required for a given amount of for for if you're training, you know, a frame of video, how, how, you know, what's energy cost required to do that training? And we we think probably we we we said this already actually at I AI day too, so it's not new information.",
+    "start": 3112.905,
+    "end": 3180.845
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But we do see potential for an order of magnitude improvement relative to GPU, what what GPUs can do for Dojo, which is obviously very specialized for AI training. It's it's hyper specialized for AI training. So it's not it's not wouldn't be great for other things, but we it should be extremely good for AI training. So just just like if you do an ASIC for something that's gonna be better than a CPU, you this is sort of, in some ways, like a like a giant ASIC. And and we're able to since we're operating one of biggest GPU clusters in the world already, the you know, we've got a good sense of how efficient the GPU clusters operate and what Roger needs to do in order to be competitive.",
+    "start": 3181.2449,
+    "end": 3237.3853
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But we think that it does have a fundamental architectural advantage because because it's designed not not to be you know, the GPU is trying to do many many things many people. They're trying to do graphics, video games. It's, you know, doing crypto mining. It's doing a lot of things. They're just doing one thing, and that is, training.",
+    "start": 3239.145,
+    "end": 3265.615
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And we're also optimizing the low level software to so it it at a very sort of bare metal level. So it's just insanely good at efficient training. And the intercommunication between the do modules is extremely high. It's not, you know, going across an Ethernet cable. It's like so, anyway, the the the you know, there's we see a path to an order of magnitude improvement, in the energy efficiency for you for given unit of training.",
+    "start": 3267.935,
+    "end": 3303.87
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But we also have to achieve that and so that when it will be achieved, it's hard to say, but, we we do see a path to to get there. And and then also in an inference, like, once you've got something trained, well, if you wanna have a product, that's that's a consequence of that training. And that product may not be anything to do with cars, then the efficiency of inference is extremely important. And we also have by far the most efficient inference computer in the with the, FSD computer in the car. This has potential for products that makes it on part even really in automotive.",
+    "start": 3304.51,
+    "end": 3354.145
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And William, do you have a follow-up?",
+    "start": 3356.545,
+    "end": 3358.625
+  },
+  {
+    "speaker": "William Stein",
+    "text": "Yeah, it sounds like the one point eight million units you expect this year is supply, not demand limited supply, it sounds like by the lithium batteries. If you were to become demand limited, can you talk to us about your propensity to use price your relatively high industry margins to grow units and share?",
+    "start": 3359.72,
+    "end": 3386.5352
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. To be clear, the one point eight million is not cell supply limited.",
+    "start": 3390.67,
+    "end": 3394.27
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "That, yeah, I mean,",
+    "start": 3395.0698,
+    "end": 3396.3499
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "we did address that number earlier in the call. Don't know",
+    "start": 3396.67,
+    "end": 3399.7898
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "if you want to answer. Yeah, it's roughly, you know, a cell supply is roughly matched with with with that. And this is what you know, one point eight million cars, you know, if we get lucky, it could be more. And then the the rest would go into stationary storage, the Powerwall and MegaPack. So, yeah, so true.",
+    "start": 3399.7898,
+    "end": 3424.4502
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay, let's have the final question from Adam Jonas.",
+    "start": 3427.6501,
+    "end": 3430.85
+  },
+  {
+    "speaker": "Adam Jonas",
+    "text": "Elon. First question is, is it time for Tesla to significantly expand the captive finco? I mean, you only have like four point five billion dollars of these receivables, it's basically nothing compared to other big auto companies? Then I have a follow-up.",
+    "start": 3434.6848,
+    "end": 3450.07
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Oh, Zach, maybe just press the chance to that. Yeah.",
+    "start": 3452.15,
+    "end": 3455.19
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. I mean, the way that we've been using, captive financing so far is to plug, what we believe to be gaps in the market of existing third party products. And, so we have a couple of offerings in Europe. We do loans for energy business, retail energy business here in the US. We do leasing, and we do a small amount of US loans that are very targeted.",
+    "start": 3455.19,
+    "end": 3482.28
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And and so we're we're using captives to support market caps, as I mentioned. So, basically, it's vehicle to support, vehicle sales, make sure customers have access. I I do think there's opportunity here to continue to grow this. We are growing it slowly here. It is a consumer of cash, so we're being cautious on how we do that.",
+    "start": 3483.48,
+    "end": 3507.05
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "But, you know, the the plumbing is in place to to do a lot more here. And and I think we'll have to see how things unfold over the course of the year and and make decisions real time as to how much we ramp it up versus ramp it back.",
+    "start": 3507.6902,
+    "end": 3520.33
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I think if if we see a we if we see a severe recession this year, which, like I said, hopefully, we don't, in in in severe recessions, cash is king big time because it's in such short supply. So we wanna be cautious about, using cash for loans and and that sort of thing for for cars. You know, feel we're in a very strong position, to get through a recession because we really don't have any debt, and we've got over twenty billion dollars of cash, which is great. Imagine the cat the cash is earning a ridiculous return. Oh, good.",
+    "start": 3522.145,
+    "end": 3560.475
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Not a good return. So it's like non non trivial in the interest rate. So that actually means the twenty billion is earning like quite a good amount. So and I've made this point on Twitter a few times. I'm I'm sure a lot of people on this call understand the the basic value of a security is a function of the risk free rate or we'll see how risk free it really is, but the of the table rate.",
+    "start": 3560.475,
+    "end": 3594.07
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So if you've got you know, I think the if I recall correctly, the S and P five hundred has a long term rate of return of of roughly six percent. And so I think the Fed needs to be very cautious about having a Fed rate that potentially exceeds six percent. If you like, if if we see deflation, and I think we I think we are seeing deflation, then you would add the deflation number to the the the, in quotes, risk free rate from the Fed. And as that starts to exceed six percent, now you're starting to exceed the long term return of the S and P five hundred and starts to become questionable as to why why why not just put your money in, TEBOSA or a savings account essentially, instead of, in the S and P five hundred, if the S and P five hundred is is variable and the and the bank interest rate is not. So basically, the Fed is at risk of crushing the value of all equities.",
+    "start": 3594.07,
+    "end": 3656.7002
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Quite a serious danger.",
+    "start": 3658.3,
+    "end": 3660.3801
+  },
+  {
+    "speaker": "Adam Jonas",
+    "text": "Thanks, Elon. And just a follow-up. I don't want to steal thunder from March first down in Austin, but how close are we to that step change improvement in BOM cost where you can sell an EV for under twenty five thousand or thirty thousand dollars and actually generate a profit that kind of real moving assembly line moment in manufacturing. Again, I don't want to steal the thunder, but just if you wanted to kind of wrap up with thoughts there, that'd be helpful. I",
+    "start": 3662.1548,
+    "end": 3690.195
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "mean, I'd love to answer, if I were you probably asking the same question, but, we would be jumping the gun on future announcements.",
+    "start": 3691.315,
+    "end": 3700.435
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Fantastic. Thank you very much everyone for all your good questions and we will see you again in three months time. Thank you. Thank you. Bye bye.",
+    "start": 3703.51,
+    "end": 3710.55
+  }
+]

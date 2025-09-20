@@ -1,0 +1,602 @@
+[
+  {
+    "speaker": "Sarah Wood",
+    "text": "Good morning. This is Sarah Wood, Senior Director, Investor Relations for Johnson and Johnson. Welcome to our company's review of business results for the third quarter and our updated financial outlook for twenty twenty one. On today's call is Joe Walk, Executive Vice President, Chief Financial Officer. And during the Q and A portion of the call, Joe will be joined by Ashley McEvoy, Executive Vice President and Worldwide Chair, Medical Devices Thibault Mangon, Executive Vice President and Worldwide Chair Consumer Health and Jennifer Talbert, Executive Vice President and Worldwide Chair Pharmaceuticals.",
+    "start": 80.045,
+    "end": 121.259995
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "A few logistics before we get into the details. This review is being made available via webcast, accessible through the Investor Relations section of the Johnson and Johnson website at investor. Jnj dot com, where you can also find additional materials, including today's presentation and associated schedules. Please note that today's presentation includes forward looking statements. We encourage you to review the cautionary statements included in today's presentation, which identify certain risks and factors that may cause the company's actual results to differ materially from those projected.",
+    "start": 121.5,
+    "end": 160.595
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "In particular, there is uncertainty about the duration and contemplated impact of the COVID-nineteen pandemic and other marketplace dynamics. This means that results could change at any time, and the contemplated impact of COVID-nineteen on the company's business results and outlook is a best estimate based on the information available as of today's date. A further description of these risks, uncertainties and other factors can be found in our SEC filings, including our twenty twenty Form ten ks and subsequent Form ten Qs, along with reconciliations of the non GAAP financial measures utilized for today's discussion to the most comparable GAAP measures. These materials are also available at investor. Jnj dot com.",
+    "start": 160.915,
+    "end": 208.45
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Several of the products and compounds discussed today are being developed in collaboration with strategic partners or licensed from other companies. This slide acknowledges those relationships. Moving to today's agenda, I will review the third quarter sales and P and L results for the corporation and the three segments. Joe will provide some additional business and financial commentary before providing an overview of our cash position and capital allocation and then conclude with updated guidance on twenty twenty one results. The remaining time will be available for your questions.",
+    "start": 209.40999,
+    "end": 245.295
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "We anticipate the webcast will last up to sixty minutes. Now let's move to the third quarter results. Worldwide sales were twenty three point three billion dollars for the third quarter of twenty twenty one, an increase of ten point seven percent versus the third quarter of twenty twenty. Operational sales growth, which excludes the effect of translational currency, increased nine point nine percent as currency had a positive impact of zero point eight points. In the U.",
+    "start": 245.375,
+    "end": 274.515
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S, sales increased seven point nine percent. In regions outside the U. S, our reported growth was thirteen point eight percent. Operational sales growth outside the U. S.",
+    "start": 274.515,
+    "end": 285.635
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Was twelve point one percent with currency positively impacting our reported OUS results by one point seven points. Excluding the net impact of acquisitions and divestitures, adjusted operational sales growth was ten point six percent worldwide, eight percent in the U. S. And thirteen point five percent outside the U. S.",
+    "start": 285.635,
+    "end": 307.095
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Turning now to earnings. For the quarter, net earnings were three point seven billion dollars and diluted earnings per share was one point three seven dollars versus diluted earnings per share of one point three three dollars a year ago. Excluding after tax intangible asset amortization expense and special items for both periods, adjusted net earnings for the quarter were seven billion dollars and adjusted diluted earnings per share was two point six zero dollars representing increases of eighteen point seven percent and eighteen point two percent, respectively, compared to the third quarter of twenty twenty. On an operational basis, adjusted diluted earnings per share increased sixteen point four percent. I will now comment on business segment sales performance, highlighting items that build upon the slide you have in front of you.",
+    "start": 308.055,
+    "end": 363.005
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Unless otherwise stated, percentages quoted represent the operational sales change in comparison to the third quarter of twenty twenty and therefore exclude the impact of currency translation. Beginning with Consumer Health, worldwide Consumer Health sales of three point seven billion dollars increased four point one percent with growth of four point five percent in the U. S. And growth of three point seven percent outside of the U. S.",
+    "start": 363.245,
+    "end": 391.695
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Excluding the impact of divestitures, worldwide growth was five point seven percent. Although there is variability across the franchises due to the impact of COVID-nineteen, the overall portfolio is performing well. When comparing to twenty nineteen, the consumer health business grew approximately eight percent operationally in the quarter. Over the counter medicines saw strong growth of eighteen point two percent globally due to share gains in the U. S.",
+    "start": 392.01498,
+    "end": 421.375
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Along with an increase of pediatric fever incidences and demand for vaccination symptom relief that drove increased sales of Tylenol and Motrin globally. Additionally, category recovery increased demand for cough, cold, flu, and digestive health brands such as Imodium. Sales outside the U. S. Benefited from prior year comparisons, specifically prior year reduction in consumption in China.",
+    "start": 421.45502,
+    "end": 448.02502
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Our skin health beauty franchise declined by three percent globally, largely due to the three thirty basis point impact of the divestiture of Sedona, the salon based portion of Doctor. Salabo in Asia Pacific. Excluding this impact, the franchise experienced modest growth driven by strong performance in Aveeno and Neutrogena facial moisturizing and body care driven by COVID-nineteen market recovery and e commerce growth, partially offset by external supply constraints and lost sales from the Sun aerosol recall. Oral care declined four point five percent globally, largely due to the impact of divestitures worth approximately three hundred basis points. Excluding this impact, the franchise declined due to external supply constraints for Listerine in the U.",
+    "start": 448.665,
+    "end": 498.755
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S. And negative comparisons to prior year COVID-nineteen related impacts in EMEA, partially offset by strong performance in Asia Pacific, driven by strong promotions and brand building behind Listerine's germ fighting ability. The Baby Care franchise declined one point two percent globally resulting from Asia Pacific COVID-nineteen lockdowns and competitive pressure, mostly offset by strong Avino performance along with category and e commerce growth in the U. S. Our women's health franchise grew zero point eight percent globally, primarily due to lapping prior year COVID-nineteen impact.",
+    "start": 498.755,
+    "end": 538.505
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "And finally, our wound care franchise declined four point eight percent globally driven by unfavorable comparisons to prior year stocking in the U. S. And competitive pressure in Asia Pacific. Moving on to our Pharmaceutical segment. Worldwide Pharmaceutical sales of thirteen billion dollars increased thirteen point two percent with growth of twelve point two percent in the U.",
+    "start": 539.3,
+    "end": 564.965
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S. And growth of fourteen point six percent outside of the U. S. Excluding the net impact of acquisitions and divestitures, worldwide growth was thirteen point eight percent. Additionally, as a reminder for comparison purposes, Q3 of twenty twenty was negatively impacted by access related constraints due to COVID-nineteen resulting in a decrease of roughly two hundred basis points in total across key brands.",
+    "start": 564.965,
+    "end": 594.10504
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Our strong portfolio of products and commercial capabilities continue to enable us to deliver adjusted operational growth at above market levels. The immunology portfolio delivered strong global sales growth of eleven point seven percent, driven by double digit performance of STELARA and TREMFYA, offset by declines in REMICADE due to biosimilar competition. STELARA continued to show strength in all regions, growing at twenty one point seven percent driven by market growth and share gains of roughly four points in Crohn's disease and nearly seven points in ulcerative colitis in the U. S. TREMFYA was up sixty three point five percent with strong double digit growth worldwide due to continued positive share growth and additional penetration into the psoriatic arthritis indication.",
+    "start": 594.91003,
+    "end": 647.125
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "U. S. Share increased over two points in psoriasis and over three points in psoriatic arthritis. Oncology also delivered another strong quarter with global sales growth of sixteen point five percent. DARZALEX continued its double digit performance with forty two point nine percent growth in the quarter, driven by share gains, increased penetration of the subcutaneous formulation in the U.",
+    "start": 647.605,
+    "end": 673.855
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S. And EU and continued launches globally. DARZALEX grew share across all lines of therapy with nearly five points of share growth in the U. S. This quarter as an example.",
+    "start": 673.855,
+    "end": 685.61
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "ERLEADA also continued its global uptake with growth of sixty five point eight percent in the quarter driven by global market share gains, which increased in the U. S. Alone by nearly two points across all indications led by the metastatic indication. IMBRUVICA grew two point five percent globally due to the brand's market leading share position, but was partially offset by modest share losses in the U. S.",
+    "start": 686.49,
+    "end": 713.41003
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "And a market that remains constrained due to temporary COVID-nineteen impact on new patient starts. In addition, growth was negatively impacted by a prior period adjustment in the U. S. That was worth nearly three fifty basis points on worldwide Imbrovica growth. Neuroscience grew four point six percent globally, driven by paliperidone long acting portfolio posting market and share growth due to increased new patient starts and strong persistency in the U.",
+    "start": 713.65,
+    "end": 744.43
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S. The cardiovascular, metabolism and other business declined twelve point four percent globally due to competitive pressures in Invokana and biosimilar competition for Procrit. Pulmonary hypertension achieved strong growth of sixteen point one percent driven by OBSOMIT growth of seventeen point one percent and UPTRAVI growth of eighteen point eight percent, both driven by market penetration and share gains. And lastly, global sales in the quarter included a five zero two million dollars contribution from the COVID-nineteen vaccine, bringing the year to date total to seven sixty six million dollars Through the first nine months of the year, revenue has been recorded at a not for profit price of seven point five zero dollars I'll now turn your attention to the Medical Devices segment. Worldwide Medical Devices sales of six point six billion dollars increased seven percent with growth of zero point eight percent in the U.",
+    "start": 744.43,
+    "end": 806.78
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S. And growth of thirteen point three percent outside of the U. S. Excluding the impact of divestitures, worldwide growth was seven point six percent. In the Medical Devices segment, we have seen mixed mixed marketplace recovery as the COVID-nineteen Delta variant and related factors impacted our sales across most of the categories in which we participate within the quarter, with certain procedures such as spine and knees within orthopedics deemed to be more elective in nature, continuing to lag in terms of recovery.",
+    "start": 806.78,
+    "end": 840.155
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "The Interventional Solutions franchise delivered another quarter of worldwide double digit growth at thirteen point two percent, driven by market recovery, success of new products in both electrophysiology and neurovascular and strong commercial execution. Worldwide Surgery grew ten point two percent, primarily driven by recovering procedure volumes and market expansion in Asia Pacific. Advanced Surgery grew twelve point six percent globally, driven by the positive impact of procedure recovery, new product introductions and China Tier two and three hospital market expansion across endocutters, biosurgical and energy, partially offset by continued competitive pressure in endocutters and energy in the U. S. Building on the Monarch robotic milestone communicated last quarter, we reached another significant commercial achievement now enabling over ten thousand bronchoscopy procedures.",
+    "start": 841.03503,
+    "end": 900.365
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "General surgery grew eight point one percent globally. Wound closure is the largest contributor with growth driven by procedure recovery, China Tier two and three hospital market expansion and continued competitive growth in both traditional and barbed suture markets. The worldwide orthopedics franchise declined zero point three percent with U. S. Declines of four point five percent reflecting the impact of COVID-nineteen on procedures within the quarter, partially offset by six point eight percent OUS growth.",
+    "start": 901.245,
+    "end": 934.36
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Trauma grew three point seven percent globally, five point three percent increase in the U. S. And a zero point nine percent increase outside the U. S. Results reflect global market recovery dynamics and the success of recent product introductions like our cannulated compression headless screws, advanced nailing systems and Fibulink.",
+    "start": 935.0,
+    "end": 956.955
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Hips grew two point three percent globally driven by recovery and procedures primarily outside the U. S. And continued leadership in the anterior approach supported by our robust portfolio of new products such as Ectis Femoral Stem, Pinnacle Dual Mobility, and Vellis Hip Navigation. In Q3, we introduced new image guidance capability for Vellis Hip Navigation, which supports surgeons who prefer the posterior approach in addition to the anterior approach. Needs grew two point one percent this quarter, reflecting recovery of procedures, especially in markets outside of the U.",
+    "start": 957.435,
+    "end": 997.38
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "S. Growth in the U. S. Outpatient surgery channel and continued momentum from recently launched products, including the Velis robotic assisted solution and our Atumi portfolio. Results in the quarter also benefited from the timing of international tender orders worth approximately three fifty basis points of global growth.",
+    "start": 997.38,
+    "end": 1017.995
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Lastly, within orthopedics, spine declined eleven percent globally, driven primarily by a deceleration in procedure volume related to COVID-nineteen. The worldwide vision franchise grew ten percent this quarter, primarily driven by market recovery, commercial initiatives and new products driving enhanced competitiveness. Contact lens global growth of six point four percent reflects continued positive momentum for our market leading portfolio, success of commercial initiatives and recently launched products such as AccuVue Oasis Multifocal and AccuVue Define Fresh. The decline of four point three percent in the U. S.",
+    "start": 1019.49,
+    "end": 1063.24
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Includes a negative impact of prior year stocking worth about ten points. Surgical Vision delivered global growth of twenty two point one percent driven by market recovery across all regions and success of recently launched products continuing to enhance competitiveness, including Technis iHands and Technis Synergy. Now regarding our consolidated statement of earnings for the third quarter of twenty twenty one, I'd like to highlight a few noteworthy items that have changed compared to the same quarter of last year. Cost of products sold improved by two hundred basis points, driven by recovery from prior year COVID-nineteen related impacts and favorable enterprise mix from growth in Pharmaceuticals. We continue to invest strategically in research and development at competitive levels, investing fourteen point seven percent of sales this quarter.",
+    "start": 1063.495,
+    "end": 1118.03
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "The three point four billion dollars investment was a twenty point five percent increase versus the prior year due to portfolio progression. In process research and development reflects a partial impairment expense of nine hundred million dollars for assets associated with the acquisition of Auris. The other income and expense line changed from a net expense of one point two billion dollars in the third quarter of twenty twenty to net expense of one point nine billion dollars in the third quarter of twenty twenty one, primarily due to an increase in litigation related charges. Joe will provide more details on both the IP R and D and litigation related charges. Regarding taxes in the quarter, on a GAAP basis, our effective tax rate was four point seven percent in the third quarter of twenty twenty one compared to nineteen point two percent in the third quarter of twenty twenty, mostly driven by unfavorable tax reserves and positions from the prior year, which did not reoccur, along with lower income in higher tax jurisdictions driven by onetime current quarter special items.",
+    "start": 1118.595,
+    "end": 1187.985
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Excluding special items, the effective tax rate was thirteen point five percent versus nineteen percent in the same period last year. I encourage you to review our upcoming third quarter ten Q filing for additional details on specific tax matters. Lastly, I'll direct your attention to the boxed section of the slide where we have also provided our income before tax, net earnings and earnings per share adjusted exclude the impact of intangible amortization expense and special items. Now let's look at adjusted income before tax by segment. In the third quarter of twenty twenty one, our adjusted income before tax for the enterprise as a percentage of sales remained fairly consistent to the prior year with some changes between our three segments.",
+    "start": 1188.6799,
+    "end": 1239.1349
+  },
+  {
+    "speaker": "Sarah Wood",
+    "text": "Pharmaceutical margins declined from forty six point four percent to forty three point nine percent, driven by research and development investment to enable portfolio progression. Medical Devices margin improved from twenty one point six percent to twenty five point five percent, driven by recovery from prior year COVID-nineteen related impacts and overall expense leveraging resulting from sales recovery. Finally, Consumer Health margins declined from twenty four point four percent to twenty three point three percent, driven by a twenty twenty onetime item and increased brand marketing expenses, partially offset by COGS improvement. That concludes the sales and earnings portion of the Johnson and Johnson third quarter results. I'm now pleased to turn the call over to Joe Wolk.",
+    "start": 1239.615,
+    "end": 1291.075
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Thank you, Sarah, and good morning, everyone. We appreciate you joining us to discuss our third quarter results, which reflect the continued strength in our Pharmaceutical and Consumer Health businesses and solid growth in Medical Devices despite COVID-nineteen variability across geographies. How do we see the current medical device landscape? In the U. S, surgical procedures across most specialties in which we compete decelerated in late July and August with the highest impacts consistently in those procedures deemed to be more elective such as knees and spine.",
+    "start": 1291.715,
+    "end": 1327.1099
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Globally, new cases of COVID-nineteen and hospitalizations related to the Delta variant have gradually declined in recent weeks, and we are encouraged by more positive procedure trends in many Western European markets where restrictions are beginning to ease. Some hotspots still remain in parts of the U. S, the U. K, Eastern Europe and Southeast Asia, and the growing impact from reduced medical staffing are constraining procedure volumes. We continue to believe these variables are more short term in nature and the medical devices market remains attractive as the long term factors leading to the need for medical and surgical intervention have not changed due to COVID-nineteen.",
+    "start": 1327.6699,
+    "end": 1370.43
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "The segment leaders on the call will provide more insights into each of their businesses during the Q and A, but let me briefly touch upon some pipeline updates for the quarter. We continue to advance our strong pipeline of innovative medicines and products. This progress is supported by our commitment to investments in R and D that have increased one point nine billion dollars or twenty three percent on a year to date basis. In the quarter, we received U. S.",
+    "start": 1371.375,
+    "end": 1400.9451
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Approval for INVEGA Hefeiro, the first and only twice yearly treatment for adults with schizophrenia. And we announced the start of a Phase III study of our investigational RSV vaccine in older adults. Subsequent to the quarter, the FDA granted orphan drug designation for nipocalimab in chronic inflammatory demyelinating polyneuropathy, or CIDP, a rare neurological disorder of the peripheral nerves characterized by gradually increasing sensory loss and weakness associated with loss of reflexes. This represents nipocalimab's fourth orphan drug designation. We also anticipate U.",
+    "start": 1400.9451,
+    "end": 1442.2849
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "S. Approval for our BCMA CAR T later this year, which will represent a third new product approval in twenty twenty one. However, we are stopping further investigation in the Fontan Paleated population of massotentin ten milligram in pulmonary hypertension as results from the Roboto Phase three trial did not yield sufficient clinical benefit. Regarding our COVID-nineteen vaccine, we are pleased that on Friday the FDA's Vaccines and Related Biological Products Advisory Committee voted unanimously to recommend emergency use authorization for a booster dose of the Johnson and Johnson COVID-nineteen vaccine for adults aged eighteen and older at least two months following initial single shot vaccine. The recommendation is based on the totality of evidence, with clinical and real world data showing that while a single shot offers strong and lasting protection, a booster increases protection, particularly against symptomatic COVID-nineteen.",
+    "start": 1442.2849,
+    "end": 1505.59
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "We are very excited to share more about the entirety of our robust pharmaceutical pipeline and long term growth outlook at our business review on November eighteen. In our Medical Device business, we built upon a record number of seventeen significant product introductions in the first half of twenty twenty one by introducing the Enhance shoulder system in the third quarter, a first to market fully integrated shoulder arthroplasty system designed to treat a broad range of cases in hospital or outpatient settings where economic value and operational efficiency are important considerations. We also announced results from a real world study showing that the ECHELON Circular Powered Stapler is associated with a major reduction in serious complications following colorectal surgery when compared with manual staplers, reinforcing clinical evidence as a meaningful differentiator in product selection. Let's transition to financials, starting with commentary on special items for the quarter. Other income and expense in the third quarter includes a two point one billion dollars charge of litigation expenses, primarily driven by an incremental one point four billion dollars charge associated with the recently announced qualified settlement fund for current and future CALC claims.",
+    "start": 1506.47,
+    "end": 1586.515
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "The qualified settlement fund is intended to facilitate a final equitable resolution of all talc litigation in a structured manner through established bankruptcy law precedent. Additionally, there is another eight hundred million dollars legal expense in the quarter representing final resolution of outstanding claims related to Risperdal. Another special item worth noting is on the in process research and development line. We have a broad offering across the digital robotic surgery landscape and continue to make meaningful progress in advancing differentiated solutions across our portfolio. We are very pleased with the adoption of our Monarch platform for lung bronchoscopy and are well on our way to expanding Monarch indications, including initiating a clinical trial exploring the potential for localized drug delivery for the treatment of lung cancer and submitting an application to the FDA for Monarch to be used in the treatment of kidney stones.",
+    "start": 1587.0499,
+    "end": 1644.98
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Our Vellus robotic assisted solution for total knee replacement is commercialized in the U. S, has received several OUS approvals, and we are experiencing higher utilization on the systems placed to date than we projected. We continue to be committed to the development of a general surgery offering with Otrava. But as Sarah mentioned, we recorded a partial in process R and D charge for nine hundred million dollars in the third quarter. The accounting for this charge contemplates a first in human delay of approximately two years from our earlier projections of the second half of twenty twenty two, reflecting technical development challenges and COVID-nineteen related disruptions, including supply chain constraints being experienced broadly across all industries.",
+    "start": 1646.26,
+    "end": 1693.3049
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Clearly, we realize the importance that a differentiated digital robotic platform can have for patient outcomes and the market. We continue to invest in and be committed to the platform, and we'll provide updates to the external community as warranted. Let's transition to a few comments on our cash position. We continue to generate strong free cash flow with fifteen billion dollars year to date. We ended the third quarter with thirty one billion dollars of cash and marketable securities and approximately thirty four billion dollars of debt, resulting in three billion dollars of net debt.",
+    "start": 1694.105,
+    "end": 1729.1499
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Our financial position and balance sheet remains strong, and we are well positioned to continue to deploy capital in a strategic, value creating way consistent with our priorities that will benefit stakeholders over the long term. Moving to our full year twenty twenty one guidance. Given where we are in the year, our current assumptions around continued recovery in medical device markets and confidence in the business, we are tightening our adjusted operational sales range to twelve point nine percent to thirteen point five percent. This adjusted operational sales growth is on a constant currency basis, consistent with how we assess our business performance. This guidance also incorporates the estimated two point five billion dollars of COVID-nineteen vaccine sales consistent with our July guidance.",
+    "start": 1729.71,
+    "end": 1780.2299
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "We are maintaining our estimate for the net impact of acquisitions and divestitures of approximately fifty basis points, resulting in an operational sales range of twelve point four percent to thirteen point zero percent or ninety two point eight billion dollars to ninety three point three billion dollars for a midpoint of twelve point seven percent or ninety three point one billion As you know, we do not predict the impact of currency movements, but utilizing the euro spot rate relative to the U. S. Dollar as of last week at one point one six, there's an estimated positive impact of foreign currency translation of approximately one hundred and fifty basis points, consistent with our July guidance, resulting in estimated reported sales growth between thirteen point nine percent and fourteen point five percent compared to twenty twenty or ninety four point one billion dollars to ninety four point six billion dollars Moving to other items of the P and L. Consistent with our previous guidance, you can expect our operating margins to be nearly a two hundred basis point improvement over last year. Given year to date trends, we are modestly increasing and tightening our other income estimate to be a range of nine hundred million dollars to nine fifty million dollars Regarding interest expense, again, based on our year to date experience, we are also tightening the range of our estimate to one hundred million dollars to one hundred and fifty million dollars And finally, we are lowering our effective tax rate estimate to a range of fourteen point five percent to fifteen point five percent based on the occurrence of certain one time favorable tax positions and settlements both in the U.",
+    "start": 1781.11,
+    "end": 1887.045
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "S. And abroad. Considering those updates, we are comfortable with adjusted earnings per share guidance ranging from nine point six five dollars to nine point seven zero dollars on a constant currency basis, a guidance increase of zero one three dollars at the midpoint. While not predicting currency movements, but to provide some insights on the potential impact on EPS, our reported adjusted EPS would be positively impacted by approximately zero one two dollars per share. Accounting for that, we would be comfortable with your models reflecting reported adjusted EPS ranging from nine point seven seven dollars to nine point eight two dollars an increase versus twenty twenty of twenty two percent at the midpoint.",
+    "start": 1887.045,
+    "end": 1933.905
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Consistent with what we shared before, given the not for profit nature of the vaccine, there is no significant EPS contribution in twenty twenty one, and therefore, the EPS guidance I provided is inclusive of the vaccine revenue. As always, none of our achievements are possible without the hard work of our world class team of employees around the globe whose dedication ensures that we deliver for all our stakeholders. We continue to make significant strides towards our mission of improving human health and well-being of everyone, everywhere. And I am grateful for their efforts and commitment. I'd like to close my prepared remarks by briefly commenting on the CEO transition that was announced earlier in the third quarter.",
+    "start": 1935.025,
+    "end": 1979.5
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "First, I want to acknowledge Alex for his leadership and contributions to Johnson and Johnson during his tenure. It has been my pleasure to work alongside him, particularly over the last three years, and to observe and to learn from him both professionally and personally. I am also pleased to congratulate Joaquin on his new role starting this January. I know firsthand that he shares the same commitment to patients, employees, and society that Alex considered core. Joaquin similarly values innovation that underscores our strategy for long term success.",
+    "start": 1980.06,
+    "end": 2014.0399
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Both gentlemen will be featured at the previously mentioned November eighteenth Analyst Day, sharing their thoughts on our business and plans for the future. I am pleased our worldwide chairs, Ashley McEvoy, Thibaut Mongan and Jennifer Talbert are here with me today to address your questions. Jen McEntire from our Investor Relations team will facilitate the Q and A portion of the call. So I will now turn it over to her to begin the Q and A. Jen?",
+    "start": 2014.9851,
+    "end": 2041.1749
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Thank you, Joe. Good morning, everyone. Rob, can you please provide instructions for those on the line wishing to ask a question?",
+    "start": 2041.735,
+    "end": 2047.575
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Your first question comes from Chris Schott with JPMorgan. Please proceed with your question.",
+    "start": 2061.6199,
+    "end": 2066.26
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Yes, Chris. So this is Joe Wolk. Let me answer some of it quantitatively, and then maybe I'll hand it over to Ashley and Jennifer to discuss their outlook for their particular segments. In terms of the guidance for the balance of the year as it relates to where we ended the third quarter, if you look at what, I guess, has been labeled early morning here as a miss, I would say, I think about it in two categories: vaccine, quite frankly. And as you saw, we did not change the full year guidance.",
+    "start": 2116.31,
+    "end": 2144.5
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "So that is simply timing. We expect that to be fulfilled in the fourth quarter, and we're still very much committed to the two point five billion dollars of revenue supply that is correlated to that. With respect to Medical Devices, I think we're very pleased that we had above seven percent growth in the quarter given the different dynamics of Delta variant and hospital shortages. And we do anticipate that those procedures will be recovered. It's hard to say whether they'll be recovered in the fourth quarter or early next year.",
+    "start": 2144.5,
+    "end": 2175.68
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "So that could provide some tailwind as you think about twenty twenty two. But let me turn it over first to Ashley to comment on Medical Devices and then to Jennifer to discuss Pharmaceuticals.",
+    "start": 2175.8398,
+    "end": 2186.085
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Sure. Thanks, Joe. And thanks for the question, Chris. I would when I look at quarter three, as we shared procedures across most categories in which we participated did decelerate through the quarter, primarily due to obviously the delta. So if I take you a little bit around the world, Asia Pacific in aggregate continues to operate above pre COVID levels.",
+    "start": 2186.325,
+    "end": 2207.71
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "However, COVID does continue to be a challenge with like mobility restrictions being reinstated or remaining in places like Japan, Australia, Southeast Asia. China clearly is setting a new pace for the world. When we look in the United States, we saw procedure trends decelerate in quarter three. You'll recall on our quarter two call, we were feeling pretty good around five percent growth procedures in May. We saw a stabilization in June and July.",
+    "start": 2208.5898,
+    "end": 2234.08
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "In August, we saw the numbers of procedures dip around mid single digit and we saw that continue into the early part of September. We are starting to see qualitatively recovery from hospital systems the past four weeks. When we look at early indicators of really filling the patient funnel, we look at diagnostic procedures. In the past four weeks, we're seeing diagnostic procedures in the United States flat relative to pre COVID numbers. And as we talked about, we do expect some microsurges in areas like the Northwest as well as the Midwest.",
+    "start": 2234.32,
+    "end": 2270.285
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "And then in EMEA rounding it out, are encouraged that countries are beginning to ease the strict mobility restrictions and are really starting to resume procedures given the vaccine deployment acceleration, the decreasing rates of new cases and hospitalizations and overall procedure volumes are gradually improving like Spain, Italy, Germany are all above pre COVID. The UK where I was just there two weeks ago, clearly below twenty nineteen, long waiting list, really working to go make progress on that patient funnel. I'll turn it to Jennifer for any other commentary.",
+    "start": 2270.285,
+    "end": 2304.7449
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "Thanks, Ashley. And hi, Chris. Yes, so we've got a real positive outlook on the Pharmaceutical business.",
+    "start": 2304.7449,
+    "end": 2310.265
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "I think if you take a",
+    "start": 2310.265,
+    "end": 2311.225
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "look at our third quarter results, we had clear double digit growth across a number of our key brands, including DARZALEX and ERLEADA in oncology, TREMFYANCE, DELARA in immunology and Upsummit and Uptravi in pulmonary hypertension. Those areas we have seen strong recovery and we believe that the trajectory on those assets is really going to continue. So continued trajectory in twenty twenty one and into twenty twenty two. On the area part of the market where we're still seeing a bit of a slower recovery, but we're starting to see it tick back is really in chronic lymphocytic leukemia and mantle cell lymphoma, the market where IMBRUVICA is. Right now for IMBRUVICA, we've just achieved double digit growth ex U.",
+    "start": 2311.225,
+    "end": 2358.335
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "S, but in the U. S, it's actually been a little bit lower than that. And so I think that's one that as you take a look and we move into twenty twenty two, we're anticipating to see some positive recovery there. But really strong results in 3Q and we anticipate continued strong trajectory through the rest of the year",
+    "start": 2358.335,
+    "end": 2375.81
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "and into twenty twenty two.",
+    "start": 2375.81,
+    "end": 2376.85
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Great. Thanks, Ashley and Jennifer. And Chris, I know you asked about Medical Devices and Pharmaceuticals, but to be complete, Thibault, I know you had great success in the quarter, six percent, almost nine percent when you compare it to Q3 of twenty nineteen. Maybe give a little bit of an outlook as to what you're seeing for the balance of the year and into next?",
+    "start": 2377.1702,
+    "end": 2394.485
+  },
+  {
+    "speaker": "Thibaut Mongon",
+    "text": "Yes. Certainly, Joe. As you",
+    "start": 2394.485,
+    "end": 2396.645
+  },
+  {
+    "speaker": "Thibaut Mongon",
+    "text": "just said, the consumer segment continues to experience very strong momentum. So we are very pleased with how the portfolio continues to perform around the world. Clearly, this quarter, the star is our OTC segment growing double digit with continued strong demand for trusted brands in analgesics, but also digestive health, continued demand in smoking cessation as well. So across all categories and around the world, continued strong demand for our products. As we get into Q4 and into twenty twenty two, we expect our portfolio of brands to continue to be very well positioned in the markets and categories in which we compete.",
+    "start": 2396.99,
+    "end": 2445.165
+  },
+  {
+    "speaker": "Thibaut Mongon",
+    "text": "Brand many of our brands are iconic, and we would expect continued growth",
+    "start": 2446.125,
+    "end": 2453.5
+  },
+  {
+    "speaker": "Thibaut Mongon",
+    "text": "for these brands around the world. Great. Thanks, Thibault. And back to Thank",
+    "start": 2453.58,
+    "end": 2457.74
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "you for your question, Chris. Rob, next question please.",
+    "start": 2459.02,
+    "end": 2461.26
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Thanks, Josh. Rob, next question please.",
+    "start": 2577.845,
+    "end": 2580.4053
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Thanks for the question, Larry. Before I get to quarter four, let me just give a quick frame for quarter three just at a macro level. First is really the market. And while COVID-nineteen has temporarily disrupted the medtech markets, we absolutely believe that the underlining foundation of these end state markets continue to remain attractive really due to what we say are oodles of clinical unmet need and quite frankly, overall state of the technology on the S curve. A quick refresh is our standing and our competitiveness.",
+    "start": 2634.565,
+    "end": 2666.475
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "As the second largest med tech company with eleven platforms delivering at least one billion dollars in annual sales, we are very much focused on competitiveness and innovation. In quarter two, almost all of our priority platforms held or gained share. Some notables include continuing to enhance our global market position in electrophysiology, biosurgery, gaining share in hips, seeing the impact of recent innovation in surgical vision, now seeing several sequential quarters of share gains and even seeing stabilization in knees year to date. So this is really about our focus on commercial effectiveness and our ability to deliver innovation. As Joe mentioned earlier, twenty twenty one, we had seventeen new product launches year to date, and this is a significant amount over last year.",
+    "start": 2666.475,
+    "end": 2714.24
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "So year to date through twenty twenty one, Larry, we are tracking to five percent growth versus twenty nineteen. We did achieve four percent growth in quarter three. Obviously, that's an improvement of how we exited twenty nineteen the full year. And then last, I would just say, you heard us talk a lot about digital surgery. We're absolutely committed to leading in the future of surgery and making our medical innovation smarter, less invasive and more personalized.",
+    "start": 2714.24,
+    "end": 2742.86
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Joe talked a little bit about our Monarch reaching ten thousand patients this year has a very rich pipeline. Velis Knees is now approved in five countries. Our smart digital tools continue to scale. And lastly, Ottava, our soft tissue offering, you heard us share we're experiencing a temporary setback in its development. Transformational innovation is all kinds of fun.",
+    "start": 2743.1,
+    "end": 2764.8499
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Will tell you, it's highly complex, but sometimes we do experience technical challenges. But we are absolutely committed to resolving our challenges, continuing to invest and bringing to market a competitive differentiated offering as soon as possible. When we look at quarter four, we do expect to see continued improvement. We do expect hospitals are going to have to continue to manage through labor shortages. I don't expect that to get better in quarter four nor in twenty twenty two, But they've been quite masterful in how to manage patient flows.",
+    "start": 2764.8499,
+    "end": 2796.35
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "We are when I talk",
+    "start": 2796.5898,
+    "end": 2797.47
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "to hospital systems over the past three weeks in particular in the United States, they are ramping up again and resuming elective procedures. We're keeping our eye on vaccination rates, patient sentiment, the cold weather. But we do we are planning for a strong recovery in quarter four, you know, versus how we exited quarter three.",
+    "start": 2797.47,
+    "end": 2819.085
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Thanks for your question, Larry. Rob, next question please.",
+    "start": 2819.64,
+    "end": 2823.16
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Louise, thanks for your question. Rob, next question, please.",
+    "start": 2985.875,
+    "end": 2989.075
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "Sure. Hi, it's Jennifer. So we are really looking forward to our upcoming PDUFA date in the fourth quarter for our BCMA CAR T. This is going to be our first entry into cell therapy. And so the team, the total team from R and D to supply chain to commercial has been really, really invested in this asset over the past couple of years preparing to launch.",
+    "start": 3013.495,
+    "end": 3034.45
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "I think the results that you've all seen and the really deep and durable responses that have been proven through our clinical programs really highlight that this is going to be a really meaningful and transformational asset for patients. As we have been planning the launch, we're really taking a thoughtful approach to scaling our global manufacturing, making sure that we're learning from those who come before us and that we're really going to plan to deliver an optimal patient experience and a patient treatment or provider treatment center experience as well as we scale up. So the team has been working very heavily on this, and we're gearing up for what we believe will be a very successful launch for patients hopefully later this year. I also want to call out the very strong partnership that we have with Legend Biotech, where we've been attached at the hip throughout and we're so excited to be working in partnership with them to be bringing that to market. So I'm looking forward to a good launch later this year.",
+    "start": 3034.9148,
+    "end": 3094.055
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Thanks, Jennifer. Matt, thanks for your question. Rob, next question please.",
+    "start": 3094.055,
+    "end": 3098.375
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Yes. No, thank you for the question, Matt. As Sarah shared, in quarter three, your knees grew two percent versus twenty twenty. And a lot of that was due to really twofold. One is, the state of innovation.",
+    "start": 3151.1848,
+    "end": 3167.81
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "So the Velis knee robot is obviously getting some nice traction. As Joe shared earlier, the utilization rates are very encouraging, from hospital systems that have, adopted this new technology. That coupled with a very proven differentiated Attune knee implant with a revision offering as well as a cementless rotating platform have all really helped shore up, I would say, our portfolio in knees. And then you mentioned the channel and we are seeing really healthy growth in the ASC channel. We continue to be encouraged by our market share gains predominantly in joints in ASCs.",
+    "start": 3167.81,
+    "end": 3206.0852
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "And really, we started to deploy what we call an advanced case management, which is really how you simplify the pre op planning in ASCs. That new advanced case management service is starting to really take effect. And we expect to have these new sites of care start to really improve, not just in the U. S. But even in areas of Europe and really moving joints to more of a day surgery.",
+    "start": 3206.965,
+    "end": 3232.9749
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Thank you for the question.",
+    "start": 3232.9749,
+    "end": 3234.015
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Thanks, Ashley. Matt, do you want to ask your vaccine follow-up?",
+    "start": 3234.095,
+    "end": 3237.615
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Yes. So hi. So we're really proud of the role that our vaccine is playing in really helping address the global COVID pandemic throughout the world. And hopefully you saw last week that the FDA advisory panel unanimously recommended a booster for our COVID vaccine. We are in the process right now of continuing under emergency use authorization to roll out our vaccine across the globe in both in developed markets as well as developing markets.",
+    "start": 3257.565,
+    "end": 3287.15
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "I think as the pandemic, as we continue to work through and fulfill our existing contracts that we have throughout the globe and as we move into more of a booster market in later twenty twenty two, potentially into twenty twenty three, we'd be looking at moving into more of a commercial market. I know our R and D team is gearing up and getting ready to file for full approval. I think we want to be moving into a full approval market for that switch over to commercial.",
+    "start": 3287.615,
+    "end": 3319.0051
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "And Matt, this is Joe. Just thanks for raising the point because I do think that underscores in that question just the strength of our core business, right? So vaccines in and of itself this year is not for profit. As Jennifer said, we'll rely on the science and the data to guide us how we proceed commercially. But you should all consider that as upside to our base plan.",
+    "start": 3319.405,
+    "end": 3340.3352
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "We're so proud of the results that we've been able to accomplish, the investment in R and D and just the strength of the portfolio, not just this year, but how it really sets up for the balance of this decade, I think, is something that people should take away from the call. I always smile a little bit whenever there's vaccine news because it seems to be overly pronounced impact on our stock, good or bad. And it always just makes me chuckle a little bit because the strength of our business is really in our pharmaceutical medical device and consumer strength these days.",
+    "start": 3340.3352,
+    "end": 3371.685
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "Yes. And if I can jump in as well and just put in a commercial for our upcoming pharmaceutical business review. On November eighteen, we're really looking forward to having a comprehensive overview of the business, plus our robust pipeline, featuring our therapeutic area leaders and also really outlining our long term growth outlook. So we're really excited. I think at that meeting, we're planning for a great day, and we'll be highlighting a number not only our key therapeutic areas and delving deep in the pipelines, but also having a chance to feature a number of the key assets that folks I know have really, really interested in learning more about.",
+    "start": 3371.685,
+    "end": 3409.675
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "So everything from CarVictee, our BCMA CAR T to nipocalimab that we got through our Momenta acquisition last year, our new treatment for lung cancer and what we hope will be expanding into a much broader market, Ribrovant plus lisertinib, our retina portfolio, also things like our RSV vaccine and our TERIS drug delivery platform for bladder cancer, and then I could go on and on. But nonetheless, we're really planning for a very exciting day on November eighteen and look forward to having you all join us.",
+    "start": 3409.74,
+    "end": 3439.9348
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "That was the sixty second spot, Jennifer. T was going to tell you about the rates on that one.",
+    "start": 3440.91,
+    "end": 3444.99
+  },
+  {
+    "speaker": "Jennifer Taubert",
+    "text": "Weire really looking forward to a great day. Couldnit pass on this opportunity to not highlight it.",
+    "start": 3445.47,
+    "end": 3451.31
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Matt, for your question. Rob, last question please.",
+    "start": 3451.95,
+    "end": 3454.3499
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "Thanks for the question, Danielle. I think what we're planning for quarter four is I think we'll still continue to see micro surges in cases. There will always be little hotspots. Hospitals are still going to experience some labor challenges. We don't see that getting better in the near term immediately.",
+    "start": 3494.3499,
+    "end": 3513.885
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "I will qualify that though to say that they have been quite frankly masters at understanding how to manage patient flow and procedure flow. When we look at diagnostic and routine screenings and surgical procedures, we expect the trends will continue to recover globally, similar to the trends we saw in quarter two, where surgical procedures grew low single digit above twenty nineteen baselines. As we've referenced, there are more procedural backlogs in the highly elective procedures like knees and spine. We expect those to recover, although maybe not as in terms of hospital capacity at levels significantly above twenty nineteen in the near term. But I would just say, going into November relative to where we were entering November last year, we are encouraged to look at the worldwide case data, to look at the worldwide hospitalization data, and the freeing up of mobility restrictions.",
+    "start": 3514.205,
+    "end": 3573.005
+  },
+  {
+    "speaker": "Ashley McEvoy",
+    "text": "So we are encouraged by quarter over quarter performance from twenty twenty one Q4 versus last year. You'll recall we ended around one point five percent Medical Device did in revenue versus twenty nineteen. So we are anticipating a healthier recovery.",
+    "start": 3573.005,
+    "end": 3590.06
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "And Danielle, maybe just to clarify too, it's a recovery no matter what. It's just the intensity of the recovery. So I would not expect based on what we know today any backward step with respect to medical device performance going forward across the industry.",
+    "start": 3590.7249,
+    "end": 3605.605
+  },
+  {
+    "speaker": "Jennifer McIntyre",
+    "text": "Thanks, Danielle, for your question. And thanks to everyone for your questions and your continued interest in our company. Our apologies to those we couldn't get to today because of time, but please don't hesitate to reach out to Investor Relations as needed. I'll now turn the call back to Joe for some brief closing remarks.",
+    "start": 3607.1301,
+    "end": 3622.1702
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Great. Thanks, Jen. So I hope you take away from the third quarter results as well as this call just how broad our financial strength is, setting us up very well to close out twenty twenty one, but more importantly, twenty twenty two and beyond. We certainly do look forward to seeing many of you in New Brunswick on November eighteen, where Jennifer, Mattai and a number of the pharmaceutical leaders will be featuring our product portfolio and just how optimistic we are about the future. With that, I'll close the call and wish everyone a great day.",
+    "start": 3622.855,
+    "end": 3657.8052
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Good afternoon, everyone, and welcome to Tesla's second quarter twenty twenty two q and a webcast. My name is Martin Vieka, VP of Investor Relations, and I'm joined today by Elon Musk, Zachary Kirkhorn, and a number of other executives. Our Q2 results were announced at about three pm Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations as of today.",
+    "start": 42.255,
+    "end": 70.23
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question and answer portion of today's call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue. But before we jump into q",
+    "start": 71.245,
+    "end": 92.31
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "and a, Elon has some opening remarks. Elon? Thank you, Martin. So just as q two recap, Q2 was a unique quarter for Tesla due to a prolonged shutdown of our Shanghai factory. But in spite of all these challenges, it was one of the strongest quarters in our history.",
+    "start": 92.31,
+    "end": 108.725006
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Most importantly, in June, we achieved production records in both Fremont and Shanghai. And as a result, we have the potential for a record breaking second half of the year. I do want to emphasize this is obviously subject to force majeure, things outside of our control. The past few years have been quite a few force measures, and it's kind of supply chain hell for several years. Credit to our awesome Tesla supply chain team for overcoming and saving difficult challenges.",
+    "start": 108.805,
+    "end": 141.675
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Huge thanks to the Tesla Shanghai factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output. So also making good progress with production ramp with Berlin. We achieved an important milestone of a thousand cars a week in June and we're expecting our Giga Texas to exceed the thousand vehicle per week milestone in hopefully the next few months. To be clear, we're currently making the CARs with the two thousand one hundred seventy cells and Drew Veclino will address some of the four thousand six and eighty questions later in this call. But it is worth emphasizing that we have enough twenty one seventy cells to satisfy oil vehicle production for the remainder of the year.",
+    "start": 143.86,
+    "end": 203.1
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So we're not dependent on four thousand six hundred eighty. Four thousand hundred eighty will be important next year, but it is not important this year. That said, we have installed the second generation of manufacturing equipment for forty six eighty cells in Texas. And and even at our established factories like Fremont and Shanghai, continue to expand capacity. Regarding Autopilot, we have now deployed FSD beta with City Street's driving capability to over one hundred thousand owners.",
+    "start": 203.1,
+    "end": 232.76001
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "They're very happy with the capability system and will continue to improve it every week. We've now driven over thirty five million miles with the FSD beta. That's more autonomous miles than any company company we're aware of. I think probably more than it might be more than any or all other companies combined. So and and that mileage is growing exponentially.",
+    "start": 233.4,
+    "end": 255.01001
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "With regard to manufacturing and technology, about five or six years ago we said we wanted to become the best manufacturer in the world and that that is somewhat counter intuitively to some people what will actually be I think our strongest competitive advantage. We're super pro manufacturing here at Tesla and in general we want to encourage other companies to be super pro manufacturing and general I think it is a very important thing to do. We need to make stuff and make it efficiently and that's manufacturing. So we've made a lot of advancements in manufacturing processes. As we now show in the shareholder deck, thanks to the large castings, make the world's largest castings.",
+    "start": 256.05,
+    "end": 313.81003
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We reduced body welding robot count by seventy percent per unit of capacity in Ostner and Berlin. So that's, call it roughly a body shop that is roughly three times smaller than would normally be the case. And I should say it's also lighter, cheaper and has superior noise vibration harshness. So it's good on every level. But this journey is not over, we'll bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we're not quite ready to talk about now, but I think will be very exciting to unveil in the future.",
+    "start": 314.13,
+    "end": 359.805
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Our safety team also introduced a feature that tension seat belts if the vision system detects imminent collision, which has never been done before. So you can imagine that if you have a seat belt that only tensions upon impact, you have very little time to tension the seat belt. If you've got to be the car has literally got be crunching to trigger the seat belt tensioner. But because we have vision, we can actually see that a collision is about to occur with one hundred percent probability before it actually happens. And so we can tension the seat belts and we can even adjust the airbag deployment because we can see, not just feel.",
+    "start": 361.78,
+    "end": 405.165
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This is a fundamental safety advantage that Teslas are now able to offer. And then there's also an over the air update. So this is something that will be in place in all cars that have at least AP3 hardware. In conclusion, we exited Q2 with a stronger price rate than ever before. Our team continues to focus on Cybertruck production readiness and some future platform design.",
+    "start": 405.565,
+    "end": 434.54498
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We are expecting to be still expecting to be in production with the Cybertruck in the middle of next year and we're excited about that product. I think it might it might actually be our best product ever. Let's see. FSD beta is on track to be released for all of North American customers before the end of this year. And hopefully, if we get regulatory approval, we'll also be releasing it hopefully in Europe and some other parts of the world.",
+    "start": 435.025,
+    "end": 464.60498
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We're hosting our AI Day in a few months. I think people will be amazed at what we're able to show off in AI Day. So basically, there's a tremendous amount to look forward to in the second half of this year, and I want to thank all of our employees and suppliers for their super hard work during these challenging times.",
+    "start": 465.86,
+    "end": 482.70502
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Super appreciated. Thank you. Thank you very much, and Zakka, some opening remarks as well.",
+    "start": 483.505,
+    "end": 488.385
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. Thanks, Martin. I want to start by congratulating the Tesla team on excellent execution during the second quarter. Although our production volume reduced sequentially due to COVID related shutdowns in Shanghai, we made substantial progress in nearly every area of the business and in particular, our global vehicle production rate as we exited the quarter. Our Fremont factory supported by our Reno team reached new production records.",
+    "start": 488.70502,
+    "end": 513.965
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "The Shanghai factory resumed full production, and our new factories in Austin and Berlin are progressing well through their initial ramps. Additionally, our energy business achieved record gross profit with the highest solar volumes in many years. I wanna personally thank the entire Tesla team as I know many of you are listening. You've embodied a remarkable and relentless pursuit of excellence in support of our mission. I also wanna thank our suppliers for their support during another complicated quarter.",
+    "start": 514.125,
+    "end": 541.425
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "On GAAP automotive gross margin, it declined sequentially to twenty seven point nine percent. The temporary decline in Shanghai production volume meaningfully impacted margin, including idle capacity and factory restart costs and also had implications on the mix of regional deliveries. Additionally, as discussed on previous calls, we are working through the ramp efficiencies of our factories, which are progressing well, but have had an impact on margin as those factories come online. While we continue to see a benefit from higher pricing flowing through, which experienced some foreign exchange related headwinds, our cost structure continues to experience cost increases from inflation, commodities, and logistics. The energy business progressed well in q two aided by alternate solar supply coming online and progress on unit economics.",
+    "start": 542.465,
+    "end": 592.145
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Our storage business remains component constrained on both Powerwall and Megapack, which we hope will alleviate to some extent in the second half of the year. We are greatly appreciative of the patience and flexibility shown by our customers while we work through these challenges. Within operating expenses, Boston and Berlin related startup costs have gone down as these factories have moved into production and their costs are now reflected in automotive COGS. Additionally, we converted a majority of our Bitcoin holdings to Fiat for a realized gain offset by impairment charges on the remainder of our holdings, netting a one hundred six million dollar cost to the p and l included within restructuring and other. We also incurred restructuring charges related to targeted staffing reductions.",
+    "start": 592.54504,
+    "end": 636.97
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Actually, it should",
+    "start": 636.97,
+    "end": 638.01
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "be mentioned that the reason we sold a bunch of Bitcoin holdings was that we were uncertain as to when the COVID lockdowns in China would alleviate. So it was important for us to maximize our cash position given the uncertainty of the COVID lockdowns in China. We are certainly open to increasing our Bitcoin holdings in future. So this should not be taken as some verdict on Bitcoin. It's just that we were concerned about overall liquidity for the company given COVID shutdowns in China.",
+    "start": 638.01,
+    "end": 674.6
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And we have not sold any of our Dogecoin.",
+    "start": 674.675,
+    "end": 676.83496
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "But we still have it.",
+    "start": 678.27496,
+    "end": 679.39496
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We still have our Dogecoin. Despite",
+    "start": 679.39496,
+    "end": 681.71497
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "these challenges, we were still able to achieve one of our strongest operating margins of fourteen point six percent. Our free cash flows were impacted by working capital related to the Shanghai factory shutdown. However, we expect this will show as a benefit in q three as our working capital related cash flows restabilize. As we look ahead and as Ivan mentioned, we are positioned for a record breaking second half of the year. We're quite excited about this.",
+    "start": 684.83496,
+    "end": 712.695
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "A couple of things to keep in mind as we progress. Austin and Berlin ramp inefficiencies will continue to weigh on our margins for the balance of the year. However, the impact should reduce as we increase ramp. Second, as we've mentioned before, we expect to continue to see recognized global pricing to increase as our backlog flows through. However, macroeconomic related cost increases will also continue to be part of our story.",
+    "start": 713.095,
+    "end": 740.24506
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "And finally, despite losing more builds in q three than expected, we're still pushing to reach fifty percent growth this year. This target has become more difficult, but it remains possible with strong execution and as Elon mentioned, no more force majeure events for the balance of the year.",
+    "start": 741.28503,
+    "end": 757.63
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Are a lot of force majeure in the last several years. I think that's for sure.",
+    "start": 757.63,
+    "end": 761.14996
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thank you.",
+    "start": 762.705,
+    "end": 763.505
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And now let's go to the questions from investors. And the first question is, Chinese EV manufacturers seem to be doing a better job than their Western competitors, excluding Tesla, at innovating in software and design. How can Tesla make sure the company is staying ahead of those manufacturers both within China and outside of China?",
+    "start": 764.065,
+    "end": 784.52
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, the right now, the the best Chinese EV manufacturer is Tesla China. We are we're actually doing the best. Thanks to our incredible team in China. But I have a lot of respect for the Chinese manufacturers and EV manufacturers in particular. I think they will be a force to be reckoned with worldwide.",
+    "start": 785.88,
+    "end": 808.61005
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "They're very hard they're smart and they're hardworking, and I think anyone who is not any company that's not as competitive as them will obviously suffer a a market share decline. So we obviously we have a lot of respect for the current companies in China and then their capabilities. Yeah.",
+    "start": 809.97003,
+    "end": 832.0
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is, when will Tesla have a unified vector space for both static and moving object network? Will this be a a v eleven or later version? If the latter, can you explain what makes it a difficult problem in layman terms?",
+    "start": 834.48,
+    "end": 848.605
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Okay. This this this answer will be understood by point zero zero one percent of of the audience, I think. Most people don't know what a unified subtractive space would would actually mean. It essentially would be if you can take if instead of knitting together static and dynamic objects in c plus plus if they can be knit together at the neural net level, then you you don't need to reconcile them within c plus plus heuristics. That is that that is an architecturally better way to that's that's that's the most that's the most desirable outcome.",
+    "start": 851.245,
+    "end": 893.26
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's I think it's it's probably not necessary to achieve full self driving, but it would be a slight improvement in the efficiency of the self driving. And that's certainly something we wanna get to. Yeah. This this sort of Nirvana situation is you you have the surround video auto labeling of all static and dynamic objects, and you have then surround video inference with with spatial memory as well. I and that's I mean, I think we're almost certainly there before the end of the year.",
+    "start": 894.86005,
+    "end": 939.97
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Not sure how many do we want to understand that,",
+    "start": 942.37,
+    "end": 946.12994
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Sounds good.",
+    "start": 947.56995,
+    "end": 948.44995
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I should say also we we we we are also confident of improving the frame rate as we as we delete some of the legacy neural nets. We we think we we might be able to get to the frame rate of of the eight o eight cameras maybe up to thirty six FPS, which is actually a lot of frames considering, say, cameras. It's only comfortably above twenty four frames, which is basically the movie frame rate of movies.",
+    "start": 948.61,
+    "end": 985.185
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is, Elon recently tweeted about lowering prices once inflation cools down. Can you elaborate on what do you mean by cooling down and how aggressively the company will lower prices? More broadly, how do you think about the auto pricing long term?",
+    "start": 987.665,
+    "end": 1004.08997
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. So since we have there is quite a long wait when somebody orders a car, it's okay, six months, in some cases it could be up to a year. We have to anticipate what the probable inflation rate is over that period of time. So that's that's what we're trying to do. When we see when or if we see indications that the inflation rate is declining, then we would not need to increase our car prices.",
+    "start": 1007.425,
+    "end": 1038.5651
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's possible that there could be a slight decrease in in car prices, but this is fundamentally dependent on, you know, macroeconomic inflation. It's not something we control. If if I were to guess and I wouldn't, you know, take take this with a grain of salt, I I think inflation will decline towards the end of this year. We're certainly seeing prices of commodities trending lower, you know, but take it with a grain of salt. This is making economic prognostication is fought with error.",
+    "start": 1038.5651,
+    "end": 1077.915
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I don't if you guys wanna if if know, do wanna say anything about",
+    "start": 1078.795,
+    "end": 1082.98
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yeah. We're certainly saying I mean,",
+    "start": 1083.46,
+    "end": 1085.22
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "it's kind of a whole spectrum.",
+    "start": 1085.22,
+    "end": 1086.74
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "On the battery metal side, for example, the price of lithium has really shot up. We used to be eleven dollars a kilogram to more than eighty dollars a kilogram. But, you know, it's not every situation is that bad, so it's kind of a spectrum.",
+    "start": 1086.74,
+    "end": 1098.4349
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Yeah. Like, carbon steel, aluminum, up to spectrum. So we took less than carbon.",
+    "start": 1098.515,
+    "end": 1102.6749
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Carbon steel and and aluminum has started trending down. We will see the benefits of it's only probably later part",
+    "start": 1102.6749,
+    "end": 1108.755
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "of this year or early next year. Yeah. But I think that's just like we would for for most commodities, we're seeing a downward trend towards the end of this year or or next year. Some commodities, the processing of lithium is insane. I'd like to once again urge entrepreneurs to enter the lithium refining business.",
+    "start": 1108.755,
+    "end": 1130.365
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The the mining is relatively easy. The the refining is much harder. So the lithium is actually a very common it's for a very it is like lithium pretty much everywhere, but you have to refine the lithium into battery grade lithium carbonate and lithium hydroxide, which has the extremely high purity. So it the it's it's basically, like, maintaining money right now. It it pure you know, there's, like, software margins in lithium processing right now.",
+    "start": 1131.005,
+    "end": 1162.325
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So I I would really like to encourage once again entrepreneurs to enter the lithium refining business. You can't lose. It's license to print money.",
+    "start": 1162.5651,
+    "end": 1177.42
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is, you made the right economic call before most on inflation when you diversified into Bitcoin. It has since shown it's not much of a hedge in the real world test the last in the last few months. How do you think about it as an asset over long term, and what do you need to see to change your view?",
+    "start": 1180.015,
+    "end": 1199.03
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, you know, Tesla is Tesla's goal is to accelerate the advent of sustainable energy. You know, we're we're not really cryptocurrency is a sideshow to the sideshow. So it's you know, we're not a cryptocurrency is not something we think about a lot. We think a lot about scaling production and accelerating the advent of sustainable energy which the record heat waves around earth serve to emphasize the urgency of that transition. So that is what we're trying to do is make electric vehicles and solar and stationary storage battery packs, the three pillars of a sustainable energy future, which is like solar and wind for energy generation, stationary battery packs for storage of the solar and wind energy because of its intermittency, and then electric vehicles, the third pillar.",
+    "start": 1201.8301,
+    "end": 1262.75
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And if if those three things are solved, we have a sustainable future for civilization. And the fundamental good of Tesla and the reason we're doing this, so which certainly my primary motivation here is to to have the day of sustainable energy come sooner. That's our goal. Renew here and there on cryptocurrency.",
+    "start": 1263.2301,
+    "end": 1285.2899
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question on four thousand six hundred eighty. Elon noted that four thousand six hundred eighty plus structural pack is not yet optimized. Can you please share the general path of four thousand six hundred eighty and structural packs in terms of cost efficiencies and compared to the traditional two thousand one hundred seventy pack? Will cost improvements be mostly due to scale, or do we need to solve some technical issues?",
+    "start": 1286.49,
+    "end": 1306.645
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah.",
+    "start": 1307.9501,
+    "end": 1309.23
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Do you wanna do the architecture? Yeah. So",
+    "start": 1309.79,
+    "end": 1312.27
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "so structural pack where we get dual use of the battery cells as structure and as as energy storage in the same way that an aircraft gets dual use of the wing as a fuel tank and as a wing is, I think, unequivocally from a physics standpoint, the superior architecture. It's the a architecture. Now because it is new, we will start off getting aspirationally a C within an A architecture, but the potential is there for it to get radically better and then unequivocally better than a battery pack which is carried like a sack of potatoes. So",
+    "start": 1313.79,
+    "end": 1357.895
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. And and and we've gained the perspective through putting our first structural pack in production that that it is actually the AI architecture. Yeah. Like, before we did that, it was a hypothesis that was back with I got a lot of modeling and first principles analysis, and now we've actually built in a more confident in that assertion.",
+    "start": 1358.215,
+    "end": 1375.69
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. So exactly. So the the the structural pack, even the the c and a architecture is beating the nonstructural pack. And so over time, it will, with further refinement, be substantially superior to a car that is carrying a battery pack as though it is cargo. And this is like so it's it's very, very much very analogous to the early days of aviation where where fuel tanks were initially carried like cargo until they realized, actually, you should get dual use of the fuel tank as a wing and as as fuel tank.",
+    "start": 1376.01,
+    "end": 1416.595
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And that makes the planes lighter and better. And the the same is true of of electric vehicles. And",
+    "start": 1417.1549,
+    "end": 1426.4199
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "on cost improvements, are they due to scale or about solving technical issues?",
+    "start": 1427.38,
+    "end": 1432.0199
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Both. Yeah. It's always both. Yeah. I mean, but really, the the the two things that that improve cost are economies of scale and tech and and core and core technology.",
+    "start": 1433.7799,
+    "end": 1446.095
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "So I think technical issues may not be right.",
+    "start": 1446.095,
+    "end": 1448.095
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "It's not technical issues.",
+    "start": 1448.095,
+    "end": 1449.055
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Like, technology the optimal design. Right? Like, you always start with some excess. Some people might call it fat, but that's not really what you think it is initially. It's that you don't know how lean you can get it",
+    "start": 1449.055,
+    "end": 1460.68
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "until you've done it a couple times.",
+    "start": 1460.68,
+    "end": 1462.84
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. I mean, there's there's some platonic ideal with the perfect product where the atom is you have exactly the right atoms and they're in exactly the right position, and you asymptotically approach this platonic ideal. And but it takes a lot of effort over time to figure out actually what is what what is the cosmic ideal and and then to actually, you know, gradually approach that.",
+    "start": 1463.0801,
+    "end": 1487.16
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. I mean, you might need to create a new alloy. They need to figure out how to cast it. Then then you need to ramp the cast machine of the new alloy. That's great example.",
+    "start": 1487.16,
+    "end": 1493.4801
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We did.",
+    "start": 1493.4801,
+    "end": 1493.7201
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We've done it for rotors.",
+    "start": 1494.965,
+    "end": 1496.005
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We've done it for, like, passing. So, like yeah. But but it doesn't take time.",
+    "start": 1496.005,
+    "end": 1499.045
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Constant improvement is something we're used to here, and it's something, like, we've done with our vehicles and our designs since the beginning. I mean, even, you know, you know, we were talking a couple weeks ago, like, the first version of the front casting that we made that went into the early vehicles is like Model made in model s days? No. No. I'm talking about, like, our first model wise.",
+    "start": 1499.045,
+    "end": 1515.34
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Oh, yeah. We've since we've ordered more dies because we need more dies from our production, we've saved, like, four or five kilos of mass just in die iteration, and and that's something we do at Tesla, like, quite regularly. We'll continue to do. So, like, we're not happy with the c. Like, maybe we're at a c plus now because Yeah.",
+    "start": 1515.34,
+    "end": 1532.375
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "But, like, we gotta keep",
+    "start": 1532.375,
+    "end": 1533.335
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "going to take a b minus on the rear casting. But this will transfer for improvement with the casting. So the the casting is already way better than you know, the the rear body casting is already way better than the the way it was was done in the past where you've got, you know, one hundred and twenty different parts that are welded together or bonded together with different alloys and and then you have to put sealant in between all the the the various parts for water ingress and noise. So we're way better than that with current casting, but there's still a lot of opportunities to reduce the mass of the casting and also extend the casting to include more parts as well as adapt the rest of the vehicle for the fact that there's a casting.",
+    "start": 1533.335,
+    "end": 1588.985
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. I was gonna say say the same thing. Right? Like, we're not just evaluating the pack in isolation either. Yeah.",
+    "start": 1589.785,
+    "end": 1594.88
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "It's the pack plus the body, the integration. You know, do we have mass in the",
+    "start": 1594.88,
+    "end": 1598.7201
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "right places? Do we have",
+    "start": 1598.7201,
+    "end": 1599.36
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "the cost in the right places and only just the right amount? And and I think, you know, we've gone through one iteration of we're going we're doing another one with Cybertruck. I mean, we're taking the learnings and and and doing, you know, the next version, hopefully, is the b b plus. Yeah. Yeah.",
+    "start": 1599.36,
+    "end": 1614.975
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Exactly. In the AI architecture. That's certainly the target.",
+    "start": 1614.975,
+    "end": 1618.095
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is, how do you feel the progress of FSD is going, and does Andrei Karpathy's leaving have any significant impact on timelines or potential progress?",
+    "start": 1619.29,
+    "end": 1630.1699
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, since Andrei was writing all the code by himself, you know, naturally, things have come to a grinding halt. It's an irony. So Andre is obviously Andre is also a member of the rest of our respect bond. Andre, you know, he's decided to I think he he he wants to contribute more to, I think, core AI at an academic level and get back to coding individually. So but we've got a team of about a hundred and twenty people in our software AI group that are extremely talented.",
+    "start": 1630.81,
+    "end": 1672.755
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And I think we will have I'm highly confident we will solve full self driving, and it still seems to be this year. I know people feel like, you know, it always says that, but it does seem to be I'd like it It does seem as though we're converging on solving full stop driving this year. Thank",
+    "start": 1673.155,
+    "end": 1695.1449
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "you. The next question is, how is the forty six forty six eighty ramp going, and is Giga Texas producing cells yet?",
+    "start": 1695.1449,
+    "end": 1703.1449
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Yeah. So we are making progress on forty six eighty, but, right now, as Yuan mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin. We expect to ramp total forty six eighty production to exceed one k per week by the end of the year, hopefully before, well before. In q two at Cato, we fully automated power conveyance for the dry anode electrode tool there, unlocking major increases in production and improvements in yields. Since March, because of that, Cato output has grown thirty five percent month over month each month since, and yields throughout the factory are already at targets in most areas and trending in that direction and a few others.",
+    "start": 1704.01,
+    "end": 1747.63
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "We did feed learnings from Fremont, sell impact lines to Texas and Berlin. They aren't a carbon copy. Dell design was revved to unlock higher performance and manufacturing simplicity. Manufacturing lines were further integrated and we in sourced additional content. For these reasons, there are some new ramp challenges to overcome in Texas, and Berlin.",
+    "start": 1749.2749,
+    "end": 1770.37
+  },
+  {
+    "speaker": "Andrew Baglino",
+    "text": "Specific to Texas last quarter, cell equipment was fully installed and commissioned, we produced our first commissioning CAR sets of cells through the end of the line. Our target for Texas is to begin production this quarter and aim for Texas to be capable of exceeding weekly output for the end of this year.",
+    "start": 1770.61,
+    "end": 1788.1849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. The next question is on forty six eighty as well, but I think Drew has covered everything that was in the in the next question. So the following question is, with regards to the ramp of production in Austin and Berlin, how is the situation with regards to supply of semiconductors, battery cells, and other components? How about cost inflation impacting profitability of these other plants?",
+    "start": 1793.36,
+    "end": 1819.005
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Smart. I'd say that. So, Tesla procures about sixteen hundred unique pieces of silicon from forty three semiconductor companies. So with a portfolio of that size, there are always challenges. Things are more stable on the latest generation chips.",
+    "start": 1821.22,
+    "end": 1834.66
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "We still see some tightness in the older generation semiconductors, especially in the analog and mixed signal space, but we have line of sight to solve for the volumes being contemplated for both Austin and Berlin. And on the self front, like Elon mentioned, we have a comfortable margin, thanks to record output from our partners and have line of sight that matches the planned output from both factories. We've grown self production significantly on a twelve month rolling basis and have long term contracts with all our partners for key battery metals. So we don't see any major problems for the components, of course, barring unforeseen COVID related shutdowns.",
+    "start": 1835.075,
+    "end": 1868.615
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Okay. I'll just add on the profitability part of the question. Q two was our largest increase yet over the last handful of quarters on inflation and commodity related increases for our to our cars. You know, it it's fairly evenly spread across the factories given, you know, common suppliers or common issues that impact the broad supply chain. So, you know, I I think I had mentioned before that we have been seeing increases over the course of last year.",
+    "start": 1871.5751,
+    "end": 1902.6449
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "It ticked up in q one, and then it ticked up again, and the rate of increase was more in q two. So, you know, as we look through to the end of the year, what we're seeing is is we don't think the inflation related increases in q three will be as big as as q two. But as Elon had mentioned, there's uncertainty on on pricing here. And we don't have full exposure as what Karn had just mentioned on every component of cost because we do have some contracts in place, but there are some spot buys as well and some contracts being renegotiated. So, you know, we're managing it with pricing and in partnership with our suppliers, but it does continue to be something that is impacting our financials.",
+    "start": 1902.84,
+    "end": 1944.51
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "K. Thank you very much. And the last question is when will the cyber truck be officially available?",
+    "start": 1946.7351,
+    "end": 1952.735
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We're we're hoping to start blurring them in the middle the middle of next year.",
+    "start": 1954.3351,
+    "end": 1959.055
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Great. Thank you very much. And now let's go to analyst questions. The first question comes from Pierre Ferragu from New Street Research. Pierre, feel free to unmute yourself.",
+    "start": 1960.89,
+    "end": 1970.8099
+  }
+]

@@ -1,0 +1,273 @@
+Q3 2022 Earnings Call
+Company Participants
+Michael Lucarelli, Investor Relations FP&A
+Prashanth Mahendra-Rajah, Chief Financial Officer
+Vincent Roche, Chief Executive Officer
+Other Participants
+Ambrish Srivastava, Analyst, BMO Capital
+Blayne Curtis, Analyst, Barclays
+Harlan Sur, Analyst, JPMorgan
+Ross Seymore, Analyst, Deutsche Bank
+Stacy Rasgon, Analyst, Bernstein Research
+Tore Svanberg, Analyst, Stifel Nicolaus
+Toshiya Hari, Analyst, Goldman Sachs
+Vijay Muse, Analyst, Evercore
+Vivek Arya, Analyst, Bank of America Securities
+Presentation
+Operator
+Good morning and welcome to the Analog Devices Third Quarter Fiscal Year 2022 Earnings Conference Call, which is being audio webcast via telephone and over the web.
+
+I'd like now to introduce your host for today's call, Mr. Michael Lucarelli, Vice President, Investor Relations and FP&A. Sir, the floor is yours.
+
+Michael Lucarelli{BIO 16382485 <GO>}
+Thank you, Matt, and good morning, everybody. Thanks for joining our third quarter fiscal '22 call. With me on the call today are ADI's CEO and Chair Vincent Roche; and ADI's CFO Prashanth Mahendra Rajah. For anyone who missed the release, you can find it and relating financial schedules at investor.analog.com.
+
+Now to the disclosures. The information we're about to discuss includes forward-looking statements, which are subject to certain risks and uncertainties as further described in our earnings release and our periodic reports and other materials filed with the SEC. Actual results could differ materially from the forward-looking information as these statements reflect our expectations only at the date of this call. We undertake no obligation to update these statements except as required by law.
+
+Our comments today will also include non-GAAP financial measures, which exclude special items. When comparing our results to our historical performance, special items are also excluded from prior periods. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release. Please note we've also published our annual ESG report last quarter titled future forward. You can be found it on the IR webpage.
+
+And with that, I'll turn the call over to ADI's CEO and Chair, Vince. Vince?
+
+Vincent Roche{BIO 4759894 <GO>}
+Thank you, Mike, and good morning to you all. While I'm pleased to share that we executed very well amidst a dynamic macro backdrop. We delivered another quarter of record results driven by continued operational excellence, strong financial discipline, and resilient demand for our diverse portfolio of innovation-rich products. Revenue is $3.1 billion, up 24% year-over-year on a combined basis, and above the midpoint of our outlook. Strength was broad-based with double-digit growth in every end market.
+
+Our third quarter profitability reflects ADI's innovation premium and strong operating leverage with gross and operating margins of 74% and 50% respectively. Adjusted earnings per share of 252 finished at the high end of our outlook marking another new high. I'm exceptionally pleased with our results and I want to thank our employees for their continued hard work and dedication to our success and importantly to the success of our customers.
+
+Our ADI innovation is ingrained in our culture fueled by an unwavering commitment to robust R&D investments. Over the last 12 months, we've invested over $1.7 billion in R&D. A key facet to our innovation-driven success is our dedication to extensive and deep customer engagements, which enables us to collaborate with them in solving their toughest problems.
+
+I'd like to share some recent customer highlights. In automotive, we reinforced our market leading position in BMS with wins at two premium European auto manufacturers. One of these wins was with our wireless BMS solution. This marks the fourth OEM to adopt wireless BMS as customer interest continues to build for this unique technology. In sustainable energy, we announced a design win with another group on the quantum edge device used to digitally monitor electric grids. ADI's unmatched precision measurement capabilities are critical to creating a more resilient and flexible grid to help advance efficient electrification globally.
+
+In health care, the recently released wireless hospital monitoring system by GE Healthcare in Europe uses ADI's solutions across signal chain power, RF MCUs, and sensors. This wearable system enables wireless continuous monitoring to detect patient deterioration earlier helping to improve outcomes.
+
+Today, I'd like to profile our $1.5 billion-plus consumer franchise, a business that plays an important role in our long-term profitable growth strategy. Given the recent negative data points surrounding the consumer end market, one may wonder why highlight this market now, but that's just the reason our consumer business is built differently. In the third quarter, we posted our seventh consecutive growth quarter, and while we are not immune to macro slowdown we have aligned this business to the high end of the market where performance really matters, and into applications, where our differentiation is truly valued. The composition of our consumer franchise is indeed unique, approximately 30% of our revenue comes from long lifecycle prosumer applications, including next-generation conferencing systems, professional audio, video, and home theater. The remaining revenue in consumer relates to portables including fast-growing wearables and hearables as well as premium smartphones.
+
+Taking a step back over the last five years, plus we have reconfigured our consumer business to increase diversity across customers, products and applications to better drive growth and limit volatility while enhancing profitability. The addition of Maxim further enhances our diversity and expanded our portfolio. Over this time, we've increased our product SKUs to just over 10,000 and expanded our customer count to more than 3,000. Importantly, the composition of this business is quite similar to our B2B markets with no single product contributing more than a couple of percentage points to total ADI sales.
+
+The velocity of innovation in the consumer market is appealing. It allows us to accelerate technology developments and commercialize solutions quickly at scale. Over time, we take these breakthrough solutions into other markets to create new waves of growth and drive strong profitability and cash flow. For example, we have leveraged our consumer audio expertise into the automotive market. This capability was demonstrated at our Investor Day, where we showcased an electric vehicle with Dolby Atmos that uses our sharp DSP and software that was first proven in the consumer business.
+
+Additionally, we've also leveraged R&D investments from our core franchises into the consumer market. To that end, our high-precision converters and industrial instrumentation, for example, have been repurposed to solve similar challenges for stabilization in smartphone campers and pressure sensing in wearables. Not only have we created a highly diverse and profitable business, but also one that is aimed at key growth drivers that position us to grow at a high-single-digit rate over the long term. For example, our prosumer growth has been revitalized as companies implement future work plans that encompass more immersive enterprise video conferencing. Here the breadth of our portfolio across DSP analog-mixed-signal and power management enabled us to solve the entire customer challenge from high bandwidth connectivity to video resolution and sound quality.
+
+And turning now a moment to the portables market. In hearables, we ship into the majority of premium wireless stereo earbuds. Our newest offerings include software augmented hearing algorithms and optimized power that reduces size and improve audio fidelity while increasing our value per system by over three times.
+
+In wearables, we're a leader in personal wellness products with our sensing solutions designed into over 50% of products today. There is a convergence of these personal wellness products and clinical grid vital signs monitoring solutions that could unlock new opportunities for ADI.
+
+And then premium smartphones, we're expanding our share and content of key customers, which is providing us additional diversification and stimulating new growth vectors. An emerging opportunity is the metaverse, ADI's breadth of hardware, software algorithms, and domain expertise gives us an ability to provide complete subsystem solutions. While we're still in the early days, of course, momentum is building and we have design wins in multiple next-generation AR, VR headsets.
+
+Across all these consumer applications power management is becoming ever more critical. Customers are adding more features into smaller spaces, while consumers are demanding longer battery life. Maxim doubled the size of our low power portfolio and increased our consumer power some by over $1 billion. We're already beginning to see the cross-sell benefits of our complementary customer bases and synergistic portfolios with wins in both wearables and conferencing systems.
+
+So in summary, I'm very encouraged with the strides, we've taken to reignite growth in our consumer business and with a record opportunity pipeline and significant synergy potential, I believe we're in a position to deliver consistent growth over the long term.
+
+Now before passing over to Prashanth, I'd like to make some comments on the current business environment. Obviously, the macro backdrop is dynamic and it's clear that we're at an inflection point. Economic conditions are beginning to impact demand with order showing -- order slowing later in the quarter and cancellations increasing slightly. Prashanth will provide additional details on these dynamics in his remarks.
+
+ADI successfully navigated macro challenges many, many times before in our 57-year history. We've created the premier Analog franchise with an unmatched diversity of products, customers, and applications, and we've invested in a hybrid manufacturing model that better adapts to demand fluctuations. These characteristics instill a resiliency into our business to mitigate market weaknesses, sustain profitability, and enable investments in our business through economic cycles to focus on playing our long game.
+
+And with that, I'll hand it over to Prashanth.
+
+Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Thank you, Vince. Let me add my welcome to our third quarter earnings call. My comments today with the exception of revenue will be on an adjusted basis, which excludes special items outlined in today's press release. Third quarter revenue of $3.1 billion finished above the midpoint of our outlook and marked our sixth consecutive quarterly record.
+
+We look at third quarter end market performance, industrial, our most diverse and profitable end market hit another all-time high and represented 50% of growth, excuse me, 50% of revenue. Growth was broad-based with each of our major applications increasing sequentially. Industrial revenue has now grown more than 20% year-over-year for seven straight quarters underscoring ADI's strong position and secular content growth across applications.
+
+Automotive, which represented 21% of revenue achieved another record increasing 28% year-over-year. The better mix of higher content premium vehicles combined with our growth engines a BMS, GMSL, A2B and better value capture is driving our outsized growth versus SAR. Communications, which represented 16% of revenue achieved a quarterly record with strong year-over-year growth in both wireless and wireline. Sequentially wireline outpaced wireless with growing demand for our optical and power portfolios as carriers and hyperscalers invest to meet the ever-growing demand for data.
+
+And lastly, consumer represented 13% of revenue and has now grown year-over-year for seven consecutive quarters. As Vince highlighted, the diversity and growing design momentum across portables and prosumer is enabling us to grow despite the consumer market slowdown.
+
+Now on to the rest of the P&L. Gross margin was 74.1%, up 250 basis points year-over-year driven by higher utilization, favorable mix, and synergy capture. OpEx in the quarter was $747 million, which reflects a full quarter of higher than normal merit increases. Operating margin increased 650 basis points year-over-year finishing at 50.1% towards the high end of our outlook. Non-op was $48 million and the tax rate for the quarter was 13.2%. All told, EPS came in at a record $2.52, up 47% versus the third quarter of 2021.
+
+On the balance sheet, we ended the quarter with over $1.5 billion of cash and equivalents. Days of inventory increased to 129 while channel inventory remains below the low end of our target range of seven to eight weeks.
+
+For cash flow, CapEx for the quarter was $165 million and $526 million over the trailing 12 months, just under 5% of revenue. We continue to expect elevated CapEx investments through 2023 to support the strategic expansion of our hybrid manufacturing model and these investments will strengthen our resiliency and support our long-term growth outlook of 7% to 10% CAGR.
+
+Over the trailing 12 months, we generated over $3.7 billion of free cash flow or 34% of revenue. Included in our free cash flow are one-time deal-related costs, which amount to about 3% of revenue. With the intra-quarter volatility, we opportunistically increased repo activity to $906 million and after approximately one year post the close of Maxim we've repurchased $4.4 billion worth of shares, putting us on track to exceed our $5 billion commitment by the end of fiscal '22.
+
+Including dividend payments, we've returned approximately $6 billion to shareholders over the last 12 months, or more than 6% of our market cap. As a reminder, we target 100% free cash flow return. We target to allocate 40% to 60% of our free cash flow to support a 10% dividend CAGR through the cycle with the remaining cash used for share count production.
+
+Now before we move to the outlook, I want to provide some additional details around demand. In third quarter, our order book remained strong and backlog increased to a new record stretching well into mid-2023. However, orders moderated later in the quarter and as a result, book-to-bill was down from a quarter ago, but still well above one.
+
+By market, we are seeing strength persist in both industrial and automotive, which together represent over two-thirds of our sales, while consumer and comps were a bit softer. We also saw a modest increase in cancellations and that not specific to any end market, or geography. Given these dynamics, coupled with the macro backdrop, we believe it's prudent to take a more cautious stance. As such we are only forecasting slight sequential revenue growth to $3.15 billion plus or minus $100 million despite bookings, backlog, and higher supply that would also suggest stronger growth.
+
+At the midpoint, we expect all end markets to grow quarter-over-quarter. Op margin is expected to be 50.3% plus or minus 70 bps. Our tax rate is expected to be 13% to 14%, and based on these inputs adjusted EPS is expected to be $2.57 plus or minus $0.10. More broadly, while the macro backdrop is dynamic, our business has several aspects that position us quite well to manage further headwinds. These include our diverse end market exposure coupled with strong secular drivers that will help buffer our topline. The flexibility of our hybrid manufacturing model gives us confidence in maintaining our 70% gross margin floor and we also have several OpEx layers to support our industry-leading margins and maintain a solid return of cash to our investors. So in closing my confidence to our path of $15 of EPS in the next five years, remains high.
+
+Let me now give it back to Mike for the Q&A.
+
+Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Prashanth. Let's get to the Q&A session. We'll tell you to limit yourself to one question in order to allow for additional participants on the call this morning. If you have follow-up question, please re-queue and we'll take your question if time allows. With that, can we have our first question, please Matt?
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question will come from Vivek Arya with Bank of America Securities. Please go ahead.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. I just wanted to clarify how much conservatism is in the Q4 outlook, and then a little bit longer term than that what happens to the pricing lever as you start to see these bookings start to decelerate? Is pricing holding firm, is it flat or down as customers start to think about next year? Thank you.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Yeah, thank you for the question, Vivek. Let me, let me take the first part of that and then maybe, I'll let Vince speak to the pricing. So we've been talking for a couple of quarters now that we were expecting a more meaningful increase in our ability to supply in the fourth quarter and we have been building that with the installations of equipment that we've been having over the course of this year. So our supply, our ability of supply is in excess of the guide that we put out there. In addition, our backlog actually increased sequentially from into the, into the third quarter to a new all-time record and given kind of the strength in the backlog, the book-to-bill was still above one and increased supply, it's very logical, we could print a bigger number.
+
+Having said that, we are very aware of the macro environment and a bit more softening in order activity that we saw towards the tail end of the quarter. So that's why we -- we kind of held back a little bit on the guide to ensure that if this order softness does continue, we are, we're not, we're not disappointing. Vince, you want to address the pricing question.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah, thanks for that. Yeah, so, I think first and foremost, we are seeing tremendous stability. I don't expect to see any downward pressure on prices even in a recessionary environment. I think first and foremost, our products reflect an innovation premium for the, for the kind of value that we deliver to our customers. No, we're never, the long pole in the pricing terms either of the customer's bill of material.
+
+The other thing I'll say particularly by performance analog space, the substitution costs are very, very high. So the disruption to a customer system design way, way outweighs considerations for price reduction. So, where we obviously compete most intensively on a price basis is to get the original socket but we have a long life cycle products with tremendous stability, very, very high substitution costs. So my sense is that pricing will remain very, very steady through the cycle.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Vivek. Go ahead with our next question, please.
+
+Operator
+Our next question will come from Vijay Muse with Evercore. Please go ahead.
+
+Q - Vijay Muse
+Yeah, good morning. Thank you for taking the question. I guess I'd like to focus on the slowdown in orders that you saw at the tail end of the quarter as well as the cancellations that you highlighted. Any more kind of detail you can provide there as it relates to sub-segment of end markets geography? Any color would be greatly appreciated. Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. Thank you. Thanks, Vijay. Let me, let me maybe talk about some of the bookings momentum in a couple of different pieces. So first, third quarter results were clearly broad-based strength. All end markets were up quarter-over-quarter and double-digit year-over-year. So our sixth consecutive record. The only geographies/market that was down year-over-year was China consumer that's a very small exposure for ADI low, very low-single digits as a percentage of revenue. From a bookings held standpoint for the third quarter orders were up, again as I mentioned strongest trends for industrial and auto, which represent about 70% of the business, comms and consumer weaker, but we, again, we increased our backlog to another record, another new all-time high and that covers us well into '23.
+
+Where we saw that change in demand was really cancellations ticked modestly higher, and I do say modestly, it is, we want to be fully transparent on this call. So we're calling it out, but I wouldn't really put too much focus on the cancellation number but again, in the spirit of transparency, we want to share that, we did see that change in the demand profile and we also saw that the channel sell-through began to moderate towards later in the quarter. So that is the sell-through from the channel or POS began to soften a bit versus what we were originally expecting.
+
+Overall, the book-to-bill was still above parity, but it was definitely lower than it was a quarter ago. So as we set that guide for fourth quarter given the uncertainty, changing trends in our business, we thought it's prudent to take a more cautious stance and therefore we are guiding up only slightly on a quarter-over-quarter basis, despite as I mentioned, in answering Vivek's question despite having very strong backlog coverage, good bookings, and better supply which would all suggest higher growth.
+
+Q - Vijay Muse
+Thank you.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Vijay. Our next question.
+
+Operator
+Our next question will come from Ambrish Srivastava with BMO Capital. Please go ahead.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Hi, good morning. Thank you, I apologize for the background noise. I just had a question Prashanth on the floor that you've laid out for the gross margin, which is way above where margins bottomed out in the prior real cycle financial crisis. And I'm asking this because I get this question a lot. What's the downside EPS projection for ADI and so if you could please help us understand kind of what are the underlying assumptions behind that as it relates to utilization inventory and then more importantly, what are you assuming for revenues to go down to hit that level? Thank you.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Sure, sure, thank you, Ambrish. So maybe, let's start with a reminder that this company is structurally more profitable than we ever have been. The addition of Maxim gives us the benefit of scale and we have the benefit of that hybrid manufacturing model, which really gives us that flexibility to manage our production utilization by being able to notify our supply chain partners in the event we need to with essentially a quarter's notice to bring the outside supply number down and focus on keeping internal utilization higher.
+
+As a result of that, we feel very confident that kind of through the downturn of a cycle, we can maintain that 70% gross margin floor which from an investor model standpoint is a unique metric that we put out there to give a floor. In thinking about a downturn scenario, and again, I want to emphasize this is a, this is a projection to help investors model what it could be not in any way a forecast of what we think is coming at us. So, from a revenue standpoint, we have this great diversification 75,000 products, 125,000 customers, and thousands and thousands of applications, which are aligned to numerous secular growth markets. We have exposure to much stronger markets in a down cycle like aerospace and defense and health care, which are not going to be cyclical.
+
+On the gross margin side, I mentioned this flexible manufacturing model that allows us to really help manage utilizations, and then we have a very, very accordion driven variable compensation program, which allows us to moderate OpEx. So, if we were to think about a down -- a downside scenario that was in a 15% down revenue market, we believe, Op margins, which still have a four handle on them probably be in the low '40s and gross margins would probably be again above 70 but probably in the low '70s.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Got it. That's very helpful, Prashanth. Thank you.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Thanks, Ambrish.
+
+Operator
+Our next question will come from Stacy Rasgon with Bernstein Research. Please go ahead.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi guys, thanks for taking my question. I wanted to delve a little bit more into the bookings and the orders. So it wasn't like bookings before were 150% and now they are 130% like where is that book to bill actually coming in? How far above one of it? And I guess what are you assuming happens to the backlog as we go in the next quarter, are you assuming that backlog gets drawn down at all? Are you assuming it goes up or just what are the assumptions around that embedded in the guidance?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah, so, let's see what I can, what can we figure. If you do, for the last couple of quarters excluding the third quarter, book-to-bill was actually you can do the math and you can see how the backlog has increased so substantially was kind of in a sort of partway between one and two, right. We are now still above one but we are at the lower end of that now, now industrial and automotive strong, and that helped to compensate for I think, I've got memory here my consumer was just about flattish and comms was just a hair below.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. What are you assuming in the next quarter from the backlog?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah, sure. The backlog is not that indicative of what happens for next quarter because it goes out into '23. So as you see the cancellation is very small of the backlog and that's really into 23. So our assumptions are backlog price increases. Again, this book to bill at the enterprise level is still above one really not going to affect the demand for the fourth quarter, prior in the first quarter at this point. And as Prashanth said, I think investors bookings just be way above one now they're nicely above one. So we're still booking above what we're shipping.
+
+So what would cause us not to come in kind of in line with supply, right. Why would we, why would it for the last couple of quarters our revenue number has been purely a function of supply and why could that not be the case for the fourth quarter, why that could not be the case is if customer says we'd like to reschedule the timing and we choose in the spirit of customer satisfaction, not to push it to them. Although they've ordered it and give them that flexibility to move out and it could be, as I mentioned from the channel standpoint if the channel looks like inventory in the channel is building at a level that we don't think is healthy for the business and we choose to keep that inventory on our books to give us more flexibility to make sure that we can match customer demand better
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+I'll add one thing that it's important Prashanth brought up on the channel is that 31 50 assumes really no channel inventory built at a sell-through number that we're guiding to.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Yes, thank you, Mike.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+There's four different parts to that answer, Stacy. We will go to the next question.
+
+Operator
+Our next question will come from Blayne Curtis with Barclays. Please go ahead.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Hey, good morning guys. Thanks for taking the question. I just want a follow-up on a prior question in terms of just where you're seeing these cancellations, you said consumer and comms are weaker. I think you just said comms book-to-bills is below one but I'm just trying to understand the comments of I think channel sell-through was weaker as well. Can you dial us, is it isolated to certain segments, or is all of these comments kind of broad-based in terms of where you're seeing the cancellations and the weaker sell-through?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Everything is broad-based and we, I think that if we have over-emphasized cancellations on this call. That's probably a true statement right now is, I don't want to mislead folks to think the cancellations are a meaningful concern, but again, in the spirit of transparency, we're saying that they were up modestly, but everything we've talked about, it's been pretty broad-based.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Thanks, Blayne.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+And on comms I just maybe just one follow-up is this has always been a lumpy business. We know that the wireless guys have spent a big chunk of money buying spectrum that spectrum has to be deployed, which will require the 5G hardware that we have the market share leading position on. So we're highly confident. This is purely a timing issue.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Thanks, Prashanth
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Let's go to the next question, please.
+
+Operator
+Our next question will come from Tore Svanberg with Stifel. Please go ahead.
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Yes, thank you, and congrats on another record. As we sort of move through this softer environment, how are you thinking about the three big cost levers utilization, OpEx, and CapEx going forward? Thanks.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Okay. So I think we've talked through some of that inventory but from at least certainly utilization levels we're going to continue to see relatively good utilization levels across our internal factories for a few reasons. One is the benefit of the hybrid model is that we can bring more production in-house. Second is the die bank levels are at very low levels and we do need to get those die bank levels back to a healthy point die bank is an extremely cost-efficient place for us to hold inventory, particularly when you have 75,000 SKUs. You can hold it sort of think of it as $0.10 on the dollar. So it is very economically efficient and allows us to improve customer satisfaction later on.
+
+From an OpEx standpoint, as you've seen in the past, we have a very accordion-driven variable compensation program which automatically unwinds if the financial performance of the company drives the two, and I think what's unique to ADIs versus perhaps some of our peers as we have the cost synergies from Maxim which are independent of the economic environment. From a CapEx standpoint expect us to be, it is business as usual we had committed at the Investor Day to a higher level of CapEx in '22 and '23, which is necessary to add the supply needed to hit our long-term model of 7% to 10% growth, which we are very much committed to and that is on track, capital spend for the current quarter, sorry for the current year, maybe a bit below what we expected. That's a consequence of revenue coming in stronger, so bigger denominator, and also just a little bit of delay in the receiving some of that equipment but all of that will drive through in the -- in 2023
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Thank you. Go ahead. Yeah, sorry. on the OpEx side, we intend to, we've been spending R&D at record levels. We intend to continue to ensure that we have properly funded all our critical program innovations at a very, very important part of the value creation story. I think we were also offering actually the spend in our go-to-market activities as well as and in both of those we will continue to keep our pedal to the metal on. Great, thank you
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Tore.
+
+Operator
+Our next question will come from Toshiya Hari with Goldman Sachs. Please go ahead.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hi, good morning and thank you. I wanted to ask a question on the supply side of sort of the equation. Three months ago, you had talked about significant tightness, whether it be your internal supply or external foundry supply. I'm just curious if you're starting to see signs of supply easing, I guess test was the big bottleneck for internal supply three, six months ago. Any changes there? And in terms of foundry wafer supply again any fact of easing and kind of related to that. There have been some headlines about foundry wafer pricing increasingly again in late '22 going into '23, is that sort of indication, you're getting from your suppliers and if so, are you comfortable that you'd be able to pass through to your customers? Thank you.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Well, I think the last part of your question first on the pricing increases. I believe that we are in the post Moore's Law and in a period of sustained structural inflation in this business for many, many years ahead. I think it's true to say that supply, we've been increasing, of course, we've invested strongly in our own manufacturing capabilities to be able to secure supply and increase supply actually across the forward wafer fabs inside ABI. So yes, supply is improving there, and theoretically, as well supply has been improving actually right through the pandemic, right over the last couple of years from our subcontractors as well. So I think there is a likely of supply across the board.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+And on pricing. Maybe I'll just restate what we've said in the past. We are not using this environment to take advantage of our customers and we are really looking to maintain our gross margin model and the rationale on that gross margin model, which is important to us is, we know as Vince mentioned we spend at a healthy clip on R&D to develop highly innovative products and we need to capture that innovation premium from our customers. So as our costs may increase, it's important that we continue to capture those cost increases back with stable margins because it's a reflection of the value we're bringing to our customers.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Thanks so much.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Hari.
+
+Operator
+Our next question will come from Harlan Sur with JP Morgan. Please go ahead.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Hi, good morning. Thanks for taking my question. Just wanted one clarification. So I just wanted to verify, so you guys said that currently quarter-to-date your book-to-bill is still greater than one. Just my clarification question but my main question is distribution represents about 50% of the team's revenue driving it to look like to the inventories are still below your target levels of seven to eight weeks. Obviously, the eventual catch-up should provide you guys with some cushion if the environment continues to weaken further. But that being said, it still feels like auto and industrial demand is still quite strong. So, given your outlook like what's your view on getting to target levels on channel inventories over the next few quarters?
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Yeah. Thank you. Thanks. Harlan. I mean, first of all, let's say that you recapped it correctly and there is some opportunity for us to continue to grow our revenue by bringing drifty levels back to our healthy target level but I want to emphasize that the guide, as Mike mentioned the guide for the fourth quarter is on the basis of POS equals POA, one thing that ADI has been very consistent about for many years as we run our business on POS. So we need to look at end demand and end demand drives how we end up manufacturing and we want this to be able to, to help us with access for those products, but we are not looking for distribution to be a -- an excess buffer of inventory.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Thank you.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+And one other part of question, book to bill. Yes, for the quarter, book-to-bill was still well above one as enterprise level that was driven by industrial and auto with the two strongest markets while consumer recall about flat, around one. And with that, we have our last question please.
+
+Operator
+Our last question will come from Ross Seymore, with Deutsche Bank. Please go ahead.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Hi guys, thanks for letting me squeeze the last question. Vince, a lot of questions about near-term cancellations, bookings backlog and all those sorts of things. I wanted to ask a slightly longer one. You mentioned, in answer to an earlier question about where in the post Moore's Law, were going to have an inflationary environment rather than deflationary. Can you just talk a little bit about how the customer conversations have changed? Over the last few months, we've heard a lot from the last year a lot from companies saying it's more of a partnership, longer lead times, et cetera. Long-term supply agreements, those sorts of things, do you still see that behavior continuing, or do you believe that's a little bit more of a reflection of cyclical tightness and you expect some of that to unwind as well?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah, it's a very good question. We got a lot of conversations over the last couple of years with CEOs of the biggest enterprises in the world of information. And what I can tell you for sure is that, everybody wants to get closer to their key suppliers, when it comes to aligning product roadmaps for the long term, particularly companies that are perceived as being critical to their innovation process. So I can tell you that continues. And the other side of the equation is everybody wants to understand at the customer side of things. What do they need to do to secure supply for the long term, and what kinds of arrangements that they need to put in place, what kind of information flows, what kinds of models that we developed between each other? So, that continues and I think it has been firmly established now that semiconductors are the bedrock of the modern -- of modern socio-economic life. So the conversations continue intensively, I would say, and I expect that to continue well into the future.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Thank you.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Okay, Ross. And with that, thanks everyone for joining our call this morning. I do want to flag that during these more uncertain times and consistent with our commitment to transparency for our owners we will be even more valuable. Vince and Prashanth will be in New York, LA, the Bay Area, Chicago, and across Europe in the next quarters. It's a busy quarter coming up for us. Please reach out to myself or the IR team, if you'd like to be notified when we're in your neighborhood. And with that, thanks for joining us and your continued interest in ADI.
+
+Operator
+This concludes today's Analog Devices conference call. You may now disconnect.

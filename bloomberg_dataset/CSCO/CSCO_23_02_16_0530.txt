@@ -1,0 +1,460 @@
+Q2 2023 Earnings Call
+Company Participants
+Chuck Robbins
+Charles Robbins
+12/2017-PRESENT | Cisco Systems Inc, CHAIR/CEO
+7/2015-12/2017 | Cisco Systems Inc, CHIEF EXECUTIVE OFFICER
+10/2012-7/2015 | Cisco Systems Inc, SENIOR VP:WORLDWIDE FIELD OPS
+, Chair and Chief Executive Officer
+Marilyn Mora, Head, Investor Relations
+Scott Herren, Executive Vice President and Chief Financial Officer
+Other Participants
+Amit Daryanani, Evercore
+David Vogt, UBS
+George Notter, Jefferies & Co.
+Ittai Kidron, Oppenheimer & Company, Inc.
+Meta Marshall, Morgan Stanley
+Paul J Silverstein, Cowen & Co
+Sami Badri, Credit Suisse Securities USA, LLC
+Samik Chatterjee, J.P. Morgan
+Simon Leopold, Raymond James & Associates, Inc.
+Tal Liani, Bank of America Securities
+Tim Long, Barclays
+Presentation
+Operator
+Welcome to Cisco's Second Quarter Fiscal Year 2023 Financial Results Conference Call. At the request of Cisco, today's conference is being recorded. If you have any objections, you may disconnect.
+
+Now I would like to introduce Marilyn Mora, Head of Investor Relations. Ma'am, you may begin.
+
+Marilyn Mora{BIO 19771101 <GO>}
+Welcome, everyone to Cisco's second quarter of fiscal 2023 quarterly earnings conference call. This is Marilyn Mora, Head of Investor Relations and I'm joined by Chuck Robbins our Chair and CEO; and Scott Herren, our CFO.
+
+By now, you should have seen our earnings press release. A corresponding webcast with slides including supplemental information will be made available on our website in the Investor Relations section following the call. Income statements, full GAAP to non-GAAP reconciliation information, balance sheets, cash flow statements, and other financial information can also be found in the Financial Information section of our Investor Relations website.
+
+Throughout this conference call, we will be referencing both GAAP and non-GAAP financial results, and we'll discuss product results in terms of revenue and geographic and customer results in terms of product orders unless stated otherwise. All comparisons made throughout this call will be done on a year-over-year basis.
+
+The matters, we will be discussing today include forward-looking statements, including the guidance we will be providing for the third quarter and full year of fiscal 2023. They are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically, the most recent reports on Forms 10-K and 10-Q, which identify important risk factors that could cause actual results to differ materially from those contained in the forward-looking statements.
+
+With respect to guidance, please also see the slides and press release that accompany this call for further details. Cisco will not comment on its financial guidance during the quarter, unless it is done through an explicit public disclosure.
+
+I will now turn it over to Chuck.
+
+Chuck Robbins{BIO 17845882 <GO>}
+Thanks, Marilyn, and hope everyone is doing well. With the tremendous results we delivered in the first half of the year fiscal '23 is shaping up to be very strong fueled by demand for our cloud driven networking portfolio, our continued business transformation success and an improving supply situation, thanks in large part to our team's aggressive actions.
+
+Before I dive into additional details on the quarter, I wanted to take a moment to say how incredibly proud I am of the team here at Cisco. While the environment we're operating in remains dynamic, Cisco is better positioned today than at any time since I became CEO almost eight years ago. We have reshaped and transformed the company and our portfolio while remaining highly disciplined both financially and operationally. This gives me great confidence that we will continue to succeed in the long term.
+
+Now I'll touch on the quarter in more detail. Our Q2 financial results were strong, as we again exceeded the high end of our guidance ranges. We delivered our second highest quarterly revenue of $13.6 billion, up 7% and record non-GAAP EPS at $0.88. We also delivered solid ARR growth, sequential non-GAAP margin expansion and record non-GAAP net income. In terms of our business model shift, we continue to make great progress with 10% growth in software revenue and with software subscription revenue up 15%. Recurring revenue also now represents 44% of our total revenue.
+
+In addition, we have built up nearly $32 billion in remaining performance obligations and our backlog remains robust. Even, as we drew down backlog by 6% sequentially, our total backlog still grew year-over-year. These metrics along with our increasing visibility led us to raise our full year outlook which Scott will address in a moment. This quarter, we also achieved record operating cash flow, enabling today's dividend increase and the buyback of over $1 billion. We continue to deliver on our commitment to drive returns to our shareholders.
+
+Let me also provide an update on the supply situation. While components for a few product areas remain highly constrained, we did see an overall improvement. Combined with the aggressive actions our supply chain and engineering teams took to redesign hundreds of our products, we increased product deliveries and saw significant reductions in customer lead times. As our product deliveries increased, channel inventories also declined as our partners were able to complete customer projects.
+
+Like I shared last quarter, as supply constraints ease and lead times shorten, we expect orders would normalize from previously elevated levels as customers return to more typical buying patterns. As a result, sequential quarterly order growth is a better indicator than year-over-year growth. And in Q2, despite improving lead times, our quarter-over-quarter order growth was again in line with our historical ranges across most of our geographies and customer markets. With that, let me touch on what we're seeing with customer demand.
+
+In our customer markets, we experienced normal double-digit sequential growth in both our Enterprise and Commercial markets, while Public Sector performed better than we have seen historically. Within our service provider business, our order rate was below recent sequentials as some customers are absorbing the improved delivery of our products into their production environments. We saw another consecutive quarter of rapid adoption of our 400 gig, Cisco 8000 and Silicon One platforms. This reflects the ongoing investments our customers are making in our innovative solutions and AI optimized infrastructure.
+
+Within Webscale, while we saw overall slowing due to normalizing product lead times, two of our largest customers grew their orders with us over 40% in the first half of fiscal '23. We continue to take share in this space and over the past few years, we've grown our Webscale cloud infrastructure from effectively zero into a multi-billion dollar run rate business. I'm incredibly pleased about the overall progress we've made as we are continuing to win more and more use cases within their infrastructure. We are also still at the beginning of what we believe to be a massive growth opportunity going forward. While we continue to closely monitor the global macroeconomic conditions, the overall demand environment remains steady and on par with Q1, and our pipeline and win rates remain stable.
+
+Looking at the broader landscape, digital transformation and hybrid cloud remain top areas of spend, which is fueling growth across our portfolio. Many customers have told me that while their spend levels may be slowing in some areas, technology remains essential as it is vital to their overall business resilience, competitive differentiation and success. In fact, Gartner and IDC's most recent surveys make it clear that technology budgets are growing as they forecast IT spend to increase in the mid to high-single digits in 2023.
+
+We are also seeing many customers moving ahead with their hybrid work, AI and ML investments, while building the modern infrastructure they need to deliver on their objectives. IoT has also been accelerating. We saw a record revenue growth in Q2 as customers look to connect their industrial systems in order to optimize power consumption, automation, and efficiency.
+
+Lastly, cybersecurity and full stack observability remain strategic priorities where we continue to invest and innovate. From a product revenue perspective, we saw strong double-digit growth for Catalyst 9000, Enterprise Routing, Wireless, Meraki, Duo, and ThousandEyes, reflecting the ongoing investments our customers are making to modernize their infrastructure to rapidly digitize and secure their organizations.
+
+We are increasing our investments in our cloud management platforms that deliver the simplicity our customers need. You will see us continue to bring AI and ML into those platforms to further simplify how networks are managed. For example, in Q2, we announced several new innovations across our cloud-managed networking and security portfolios that offer greater visibility with AI driven insights, enable secure connectivity, and give our customers the ability to simplify their IT operations.
+
+Last week, we introduced a preview of our cloud-native full stack observability platform, the first network visibility solution to support open telemetry. This platform brings together our ThousandEyes and AppDynamics capabilities for unmatched data correlation and insights from the user to the application to the network.
+
+To simplify network security and policy management, our unified SASE solution, Cisco+ Secure Connect now supports integration into Cisco SD-WAN fabrics, using Viptela technology as well as our existing Meraki SD-WAN fabric. We also introduced new, flexible, more powerful and energy-efficient servers, which not only help lower cost, but also help our customers meet their sustainability goals, an increasingly critical area for most of our customers.
+
+To close, I'm proud of what we achieved this quarter. We delivered a strong financial performance, innovated across our portfolio and continue to make great progress on our business transformation. In addition, the increased visibility we have from almost $32 billion in RPO, a healthy backlog and pipeline, and improving supply give us the confidence to raise our full year outlook. We expect those same factors to continue into fiscal year '24, giving us conviction in our ability to deliver on our commitments.
+
+The modern, resilient and secure networks we are building serve as the backbone of our customers' technology strategy. Cisco is well positioned to benefit from multi-year investment cycles with our market leading hardware, as well as our innovative software and services. Together, these allow our customers to digitize rapidly, secure their environments, and achieve their sustainability goals, all while delivering differentiated experiences.
+
+Now I'll turn it over to Scott.
+
+Scott Herren{BIO 18902845 <GO>}
+Thanks, Chuck. We delivered another strong quarter and exceeded both our top and bottom line expectations, driven by our focused execution, continued success of our business transformation, and improved availability of supply, as the actions our supply chain team have taken over the last several quarters are bearing fruit. Total revenue was $13.6 billion, up 7%, non-GAAP net income was a record $3.6 billion, and non-GAAP earnings per share, also a record, was $0.88.
+
+Looking at our Q2 revenue in more detail, total product revenue was $10.2 billion, up 9%. Service revenue was $3.4 billion, up 2%. Within product revenue, Secure Agile Networks performed very well, up 14%. Switching revenue grew in the double-digits with strength in campus switching, driven by our Catalyst 9000 and Meraki offerings. While data center switching declined slightly, we saw strong growth in our Nexus 9000 offerings.
+
+Enterprise Routing had double-digit growth, driven primarily by strength in our Catalyst 8000 series routers, SD-WAN and IoT routing. Wireless had very strong double-digit growth with strength across the entire portfolio. Internet for the Future was down 1%, driven by declines in Optical and Edge. We saw growth in our Cisco 8000 offering and double-digit growth in Webscale.
+
+Collaboration was down 10%, driven by declines in meetings and collaboration devices, slightly offset by growth in contact center. End-to-end Security was up 7%, driven by our unified threat management and zero trust offerings. Optimized Application Experiences was up 11%, driven by double-digit growth in our SaaS based offering ThousandEyes.
+
+We made solid progress on our transformation metrics as we shift our business to more recurring revenue based offerings, driven by higher levels of software and subscriptions. We saw strong performance in our ARR of $23.3 billion, which increased 6% with product ARR growth of 11%.
+
+Total software revenue was $4.2 billion, an increase of 10%, with software subscription revenue up 15%. 84% of the software revenue was subscription-based, which is up four percentage points year-over-year. We continue to have $2 billion of software orders in our product backlog. Total subscription revenue was $6 billion, an increase of 9%, total subscription revenue represented 44% of total revenue. And RPO was $31.8 billion, up 4%, product RPO increased 7%, and service RPO increased 2%, and total short-term RPO grew to $16.9 billion.
+
+While total product orders were down 22%, they compared against 34% growth in Q2 fiscal '22, which was one of the largest quarters for product orders in our history. We saw year-over-year declines across our geographies and customer markets. Sequentially, total product order growth was in line with our historical growth rates. Within our customer markets, we experienced double-digit sequential growth in both Enterprise and Commercial, and Public Sector was better than we've seen historically. We continue to have very low order cancellation rates, which remained below pre-pandemic levels.
+
+Total non-GAAP gross margin came in at the high-end of our guidance range at 63.9%, down 160 basis points and up 90 basis points sequentially. Product gross margin was 62.1%, down 220 basis points year-over-year and up 110 basis points sequentially. Service gross margin was 69.1%, up 30 basis points. In our product gross margin, the year-over-year decrease was primarily driven by higher component and other costs. This was partially offset by our strong product mix and positive pricing as the benefits of the actions we took in the prior fiscal year flowed through as we shipped our backlog.
+
+Non-GAAP operating margin came in at the high end of our guidance range at 32.5%, down 180 basis points year-over-year and up 70 basis points sequentially. The year-over-year decline was primarily driven by the higher component and other costs that I just mentioned.
+
+Backlog for both our hardware and software products continue to far exceed historical levels. As we navigated a complex supply environment, we were able to draw down total backlog by 6% sequentially although it still grew year-over-year. Just a reminder, backlog is not included as part of our $31.8 billion in remaining performance obligations. Combined, our significant product backlog and RPO continued to provide great visibility to our topline.
+
+Shifting to the balance sheet, we ended Q2 with total cash, cash equivalents and investments of $22.1 billion. We had record operating cash flow for the quarter of $4.7 billion, up 93% year-over-year, driven by strong collections and we deferred our Q2 federal tax payments due to the IRS tax relief related to the California floods. We expect to pay these federal taxes by the end of the fiscal year.
+
+We returned $2.8 billion to shareholders during the quarter, which was comprised of $1.6 billion for our quarterly cash dividend and $1.3 billion of share repurchases. We also ended the quarter with $13.4 billion in remaining stock repurchase authorization. Today, we announced that we're raising our quarterly dividend by $0.01 to $0.39 per share, which represents our 13th consecutive increase. This reinforces our commitment to returning a minimum of 50% of free cash flow to our shareholders annually, and confidence in the strength and stability of our ongoing cash flows.
+
+To summarize, we had a great quarter, delivering better than expected top and bottom line performance. We continue to make progress on our business model shift to more recurring revenue while making strategic investments in innovation to capitalize on our significant growth opportunities.
+
+Turning now to our guidance, our guidance ranges reflect our strong pipeline and significant visibility, driven by healthy backlog, ARR, RPO, and improving availability of supply as we continue to benefit from the actions our supply chain team have taken over the last several quarters. We expect those same factors will continue into fiscal 2024, giving us greater visibility and confidence in our longer-term goals.
+
+For fiscal Q3 our guidance is, we expect revenue growth to be in the range of 11% to 13%; we anticipate the non-GAAP gross margin to be in the range of 63.5% to 64.5%; our non-GAAP operating margin is expected to be in the range of 33% to 34%; and our non-GAAP earnings per share is expected to range from $0.96 to $0.98.
+
+There's also a significant change to our full year fiscal '23 revenue and non-GAAP earnings per share guidance, driven by these same factors. For fiscal year '23, we are raising our expectations for revenue growth to be in the range of 9% to 10.5% year-over-year. Non-GAAP earnings per share is expected to range from $3.73 to $3.78. In both our Q3 and full-year guidance, we're assuming a non-GAAP effective tax rate of 19%.
+
+I'll now turn it back to Marilyn, so we can move into the Q&A.
+
+Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Scott. I'm going to turn it over to Chuck, just for a few comments before we start the Q&A.
+
+Chuck Robbins{BIO 17845882 <GO>}
+Yes, before we get into Q&A, I just wanted to send our condolences to those impacted by the earthquake in Turkey and Syria. It's been absolutely devastating to watch as the death toll has climbed and we're working closely with our teams in the region to give them support and help on the ground as much as we can. We just want to let them know that we're all thinking about them and we're here to help.
+
+Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Chuck. Michelle, let's go ahead and open up the queue for questions and answers.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you, Marilyn. Ittai Kidron, you may go ahead with Oppenheimer & Company.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Thanks, guys. And a nice quarter and nice guide. I guess the big question is when you think about the outlook that you have for continued supply chain improvement, how long would the order backlog normalization process is going to take in your view? And maybe you can quantify into quarter itself or perhaps on the guidance, when you look at the guidance, how much of that is coming from your ability to fulfill more versus the true underlying demand? I'm just trying to gauge for how long you can, kind of, keep this going at above normal growth rates for yourself.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Yeah, Ittai, thanks for the question. And shockingly enough, that was the first question I expected. So let me just summarize sort of what we're seeing and then I can give you more detail. But number one, let's start with the fact that our demand is stable, and that's first based on the sequentials that we saw, demand remained stable. And in fact, if you look out at our Q3 forecast, which we normally wouldn't give you, the current forecast in Q3 is also in line with historical ranges of sequentials. So, that's the first piece.
+
+The second thing is as Scott said, while we -- backlog came down 6% sequentially. It was up year-over-year. And we expect that we will end the fiscal year even with the guidance we gave you today with a backlog that's roughly double what we would normally end the year with.
+
+The other thing to take into consideration is the business transformation, with 44% of our revenue now recurring, really helps a great deal. And we have $23 billion of ARR, which we can actually renew in the next 12 months. So, if you go back eight or nine years ago, we might have had to take orders for 75% of our revenue in any given quarter, and now we have 44% of our revenue coming from the balance sheet and recurring revenue.
+
+So, all that said, we actually believe that we'll still be able to deliver. We're confident that we'll deliver positive growth in fiscal 24, obviously, with pretty significant comps based on the guidance that we gave today.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Okay. I guess when I think normal, given your historical ranges before the pandemic, I always think about 4 to 6 is kind of the range plus-minus that you run at. Is it fair to say that from here on, anything above is kind of order eating into backlog? And while your backlog is doubled, that can still mean that you can run above normal ranges for, at least, a couple of years, it sounds like unless something unusual happens. Am I misinterpreting your comments?
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Scott, do you want to take that?
+
+A - Scott Herren{BIO 18902845 <GO>}
+No. Not at all, Ittai. But what I would say is it's obviously too early for us to guide fiscal '24. What -- we wanted to give you confidence is we have better visibility than we've ever had in the past, both from the backlog and the $17 billion -- almost $17 billion of RPO that's current. That's going to turn into revenue in the next 12 months in the ARR. But -- and we're going to roll in backlog that's roughly double what it normally would be at the end of the year.
+
+So, we have good confidence in where we're headed in fiscal '24. I think it's a bit too early given where we are in the year just at the end of our second quarter for us to be a little more precise on that.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Very good. Appreciate. Good luck. Thanks.
+
+A - Scott Herren{BIO 18902845 <GO>}
+Thanks.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Thanks.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Ittai. Next question, please.
+
+Operator
+Amit Daryanani with Evercore. You may go ahead, sir.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Thanks. Congrats on a really good quarter from my end as well. I guess, maybe if I think about the secure agile networking segment growing at 14%, that's really notable. And I don't think the industry is growing nearly close to that pace. So, I'd love to understand, I mean, do you think you're starting to see some share gains come back to at Cisco, especially the supply chain starts to improve? Is that a tailwind that you're seeing and perhaps that continues the rest of the year? Maybe you could just talk about that, and also maybe talk about how campus is doing within that segment that will be helpful.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Thanks, Amit. Let me take the share question because I think I've said on several calls that, obviously, market share is reflective of revenue, and with our backlog that as we began to ship certain products that we would be a gainer of market share, and we certainly expect that when these numbers are digested and the new reports come out for Q4 that you'll see that to be the case. One example is, during last quarter, our wireless revenue was up 57% year-over-year, and I suspect that that's going to be a share gainer.
+
+And the other thing to keep in mind is that market share is inexact. I would tell you that when we ship products into the Webscale infrastructure space, as an example, it goes into our routing reports, and many of our competitors put it in data center switching. So, it's very difficult in some cases to get complete apples to apples, but I do believe that as we continue to ship our backlog that we will be gaining share.
+
+Do you want to talk a little bit about the campus switching?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. Sorry, I missed that part of the question.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Amit, can you repeat your question about the campus switching, the second part?
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Yeah. No, I was just wondering like within this context of 14% growth that you saw in that segment, how is campus performing for you very specifically? And how is the supply chain kind of alleviated over there for you?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. Campus is doing well for us. And the supply chain, while -- I don't want to leave the perception that supply chain just got better. Our supply chain team and our product engineering teams have worked pretty relentlessly over the last several quarters with product redesign, with qualifying alternative components, with working with our suppliers to get to their sub-components to make sure we can free this up. So the increase in supply that's leading to some of the share gains that we're talking about is the result of a lot of hard work by a lot of people inside the company. And I think frankly, it puts us in a better position than many of our peers in the industry right now from a supply chain standpoint. But, the longer answer -- the short answer is, yes, we're doing quite well in that space. And as we continue to deliver what we've just laid out as our guidance for the second half of this year, I think you'll continue to see share gain grow for us.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Got it. That's really helpful. And if could I just ask you really quick on your back half guidance is, obviously, fairly impressive. But in April quarter, you're sort of implying gross margins will be down 130 basis points year-over-year, I think, for the April quarter. Can you just talk about how much of a downtick you think is cyclical things like the supply chain and logistics and so on versus structural? And what do you think normalized gross margin could look like for the company if supply chains truly normalize? Thank you.
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. The midpoint of the guide for the April quarter is about a 10-basis point improvement from the quarter we just announced. So, we do see gross margins improving, and it's largely driven by -- it's less driven by cost. We're seeing some reduction in costs around logistics in particular, but component costs are kind of staying where they are in most cases. It's more driven by the fact that as we ship the backlog more and more of what we ship, reflects the price increases that we put in place last year. So, I think you'll see gross margins potentially continue to expand from where they are may be as much as 50 basis points in Q4.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Perfect. Thank you.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Great. Thank you. Next question, please.
+
+Operator
+Thank you. Paul Silverstein with Cowen. You may go ahead, sir.
+
+Q - Paul J Silverstein{BIO 1812254 <GO>}
+Thanks. Chuck and Scott, I appreciate that you all addressed in your prepared remarks the visibility demand trend issue. But -- so my apologies, but I'd ask you to revisit, especially in your enterprise business, including government and US Federal. I'm sure you and your team are aware of what your competitors have served. I know, Chuck, you just addressed the market share issue. But can you give us a bit more color in terms of the solidity of the demand trends and the visibility that's translating into?
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Well, as I said, our enterprise and commercial business, which is reflective of how most of our peers represent enterprise, that was up double-digits sequentially which is in line with our historical ranges. And public sector actually performed better than -- it was above our historical ranges during the quarter. So, the other thing I would point out is that our quarter itself, from a linearity perspective, was quite normal. And we actually had a -- we're unique in that we had the January month in our Q2. And one of the questions that we had was what's going to happen to budgets as we enter into calendar '23. And we actually finished stronger than we started the quarter. So, those are just a few data points for you.
+
+And I think if you look at what our customers are focused on right now, I mean, think about some of their top priorities, they've got a complete re-architecture of their applications to be cloud-native, running in both public and/or private clouds. They're having to re-architect their infrastructure to actually deal with the changing traffic patterns that the multi-cloud brings to them. They're dealing with hybrid work and how do I transform my IT infrastructure for that. They're dealing with cybersecurity threats on a massive scale. And they're also all focused on sustainability which is leading to our IoT business growing significantly as we connect industrial systems for our customers. So, if you think about those big five trends, we're actually in the middle of those with all of our customers. So, we feel good about where we are.
+
+And the last thing I'll say is that I was in Tokyo and Singapore last week and at the same time, a lot of my leadership team was -- were in Amsterdam for Cisco Live Europe. And no one is talking about cutting technology spending right now. Everybody -- it seems very committed to it. I think the underlying power of technology as it relates to all of our organization strategy is just too strong right now.
+
+Q - Paul J Silverstein{BIO 1812254 <GO>}
+All right. And Scott, back on the margin question. I appreciate you got to walk before you run, but you're now 3 percentage points roughly below peak on both gross and operating in terms of the initial recovery. Any thoughts for how much of the 3 percentage points, can you eventually get back to 67 gross? Can you get back to 35 operating? And it's just a function of time or because of the price increases with respect to semis or other things that's just a bridge too far?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. I mean, as you talk long term, there's a number of tailwinds that will come into gross margin. So, not necessarily talking about our guide for fiscal '23. But longer term, there are several things that are going to be a tailwind there. One is continuing to work our way through the backlog and reflect the price increases.
+
+I think we will continue to see leverage and logistics costs, both from a reduction in the freight cost per kilo but also in the mix of how we ship between what has to fly air freight and what will go in the ocean. So, I think we'll see some leverage there as well. I don't see a lot of our component providers outside of commodity areas like memory, lining up to reduce cost to us, right? So, I think it'll be the combination of mix that will be beneficial to us and some cost leverage in the non-component areas that will drive that north.
+
+Q - Paul J Silverstein{BIO 1812254 <GO>}
+So do you think you can get back to 67, 35?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. So, are you asking me for a five-year forecast on gross margin, Paul? Is that where you're going?
+
+Q - Paul J Silverstein{BIO 1812254 <GO>}
+Yeah, long term. Long term, can you get back to that model?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Long-term, there's definitely leverage to push it back to where it's been historically, for sure, and if not beyond.
+
+Q - Paul J Silverstein{BIO 1812254 <GO>}
+Thanks, Scott.
+
+A - Scott Herren{BIO 18902845 <GO>}
+Thank you.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Paul. Next question, please.
+
+Operator
+Thank you. Meta Marshall with Morgan Stanley. You may go ahead.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great. Thanks. I'm assuming as you're having conversations with customers, they are looking for more flexible subscription methods. And part of your subscription transition has kind of been evolving, kind of, the ELA model or kind of the subscription model you guys have had. And I just wanted to get a sense of where you think you are on some of the kind of subscriptionization of some of your products? And whether you are seeing a big impact of that right now? And then just maybe just some commentary about how you see the M&A environment currently. Thanks.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Meta, thank you. So, we are probably, I'd say, still in the early innings of transitioning the traditional portfolio to subscription models. The team is working hard on that right now, and we'll just continue to keep you updated. But I think we're several quarters away from really having anything to speak about relative to the size of that business, but we're working hard on being able to deliver that.
+
+And the key is to give customers flexibility. That's what over the last seven years or so, we have disaggregated hardware and software and silicon, we virtualized software to run on x86 appliances. So, we want to give all -- we want to give our customers whatever kinds of flexibility that they would like. So, that's the first part.
+
+On the M&A side, I would say our strategy, as you would expect, has not changed. I think the market dynamics have changed and I think that the longer valuations remain somewhat muted from their peaks. I think some of the companies are probably coming to more of a real position on what -- how long these valuations may exist, and were the prior valuations even realistic in the first place? So, we continue to stay aware of what's going on. We continue to scan the marketplace, but our strategy remains the same.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great. Thanks.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Chuck. Next question, please.
+
+Operator
+Thank you. Simon Leopold with Raymond James. You may go ahead, sir.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thanks for taking the question. I wanted to see if we could talk a little bit about the trends you're seeing in data centers. In the prepared remarks, I think you mentioned campus was good but data center was weak. And I guess maybe I'm looking for not just the switching part of it but your UCS business, and what are the broader trends? How much of that is reflective of hyperscale slowing versus the broader market? Just trying to unpack that a bit. Thank you.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Yeah, I'll make a couple of comments, and Scott, I don't know, if you want to give any detail. But I would say that our customers are increasingly balanced around how they're thinking about private cloud versus public cloud. And so, we've seen continued focus on revitalizing the private data center infrastructure. And I'll let Scott speak to you. I'm not sure on the infrastructure side of UCS, if you want to share that.
+
+But the other thing I would point out, Simon, is I said in my comments earlier about market share, everything that we sell in the infrastructure within webscale flows into our routing market share numbers in our routing business. So, it doesn't actually boost our data center switching the way we report it. So, it's a little bit of an apples-and-oranges issue. I just want to make sure you understood that.
+
+A - Scott Herren{BIO 18902845 <GO>}
+No, that's a really good point. And on UCS, if that's the root of your question, Simon, we are seeing nice growth in UCS as well. And at least based on our calculations, we feel like we're gaining share there as well.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thanks. And then just maybe a quick follow-up. I was a little bit surprised that the metric of hardware attached software in backlog is $2 billion, same as it was in the prior quarter. I would have guessed it would have come down with the basically improvement of shipping the hard associated hardware. So, maybe I don't understand that value or you could talk a little bit to why that $2 billion didn't come down with the extra shipments of the related hardware. Thanks.
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yes, it's a great question, Simon. And we actually did see -- if you noticed, our overall software revenue grew 10% this quarter. So, back to double-digit growth and some of that growth is on the back of shipping some of the backlog out both the hardware and the software that set in backlog. But we are seeing the benefit of shipping that out. At the same time, as Chuck said earlier, demand remains steady. And so, our overall backlog while it came down only about 6%, sequentially, there's still a significant amount of software stuck in that backlog, some of it attached to hardware.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+And software is a total percent of revenue? Or product revenue, that metric? Where's that now?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. Just for software, it's in the 30% range. Overall, we're in the 44% range.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thank you very much.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+All right. Thanks, Simon. Next question?
+
+Operator
+Thank you. Sami Badri from Credit Suisse. You may go ahead, sir.
+
+Q - Sami Badri{BIO 20178177 <GO>}
+Hi. Thank you. I had one quick one and a follow-up. The first one is on just the data center switching redesign. You guys made several mentions regarding supply and the team kind of working hard to get redesigns through. But does that actually mean the data center switching portfolio is now completed with redesign and that part really did drive the better revenue guidance for the year? So, that's my first question.
+
+The other one is we've seen several companies report elongated lead times for sales cycles and extra signatures, and all these other elements. And I appreciate, Chuck, you did hit on the fact that you aren't seeing any kind of tech spend get cut. But are you seeing some kind of resistance or slowdown as far as sales cycles impacting the speed at which you guys have historically done business? And I take into account, also I appreciate your comment regarding linearity, but just wanted to kind of ask this question and get it through.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Let me take the second one first and Scott, you can talk about the data center switching redesign. We absolutely are seeing some elongated sales cycles. What our teams have told me is that in many cases, there are extra signatures required. We just seem to in general be getting them, it just takes a little bit longer.
+
+So, -- but look, it's a complex world right now, but if you look back at historical sort of what we would consider a bit of a crisis or a complex world environment, I've experienced demand falling off a cliff and we obviously haven't seen that in the current situation.
+
+Scott, do you want to talk about the redesign?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. Just to finish up on that, pipeline looks strong, close rates still look good. So, we're not seeing a huge difference there. There is in some cases a slight elongation. On the redesign, that's absolutely contributed to the growth that we're seeing particularly in secure agile networks. Less so from in terms of releasing the next successor product, more being able to design around problematic components that we couldn't get supply of. And as we work those redesigns to build the product around components, we can get our hands on, that's what we're talking about when we talk about the redesign. And so, there's no question that's driven some of the growth that you saw in the quarter we've just announced. We will continue to drive the significant growth that we've put out for the second half.
+
+And to be clear, we will continue to see growth into fiscal '24. All the trends, we've talked about that are driving the uptick that you see in our guidance in the second half of this year, those trends continue into fiscal '24, and we continue to expect nice growth there. I just think it's a little too early to start to quantify that and give you a guide.
+
+Q - Sami Badri{BIO 20178177 <GO>}
+Got it. Thank you.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Next question please Next question, please.
+
+Operator
+Thank you. George Notter from Jefferies. You may go ahead, sir.
+
+Q - George Notter{BIO 1556662 <GO>}
+Hi, guys. Thanks very much. I guess I wanted to ask about your impressions of backlog and product orders relative to three months ago. And I think I have this correct, about three months ago, you guys were talking about if product orders were down 10% for the year, then your product backlog at fiscal year-end would be 2x to 3x higher than the normal kind of $4 billion or $5 billion range. And Chuck, I think you're a quick to say that it didn't feel like a 10% order decline was in the cards for you. So, it feels now like you are going to burn more backlog than you were thinking previously and orders will be a bit worse than previous. Am I perceiving that correctly and what are your thoughts there? Thanks.
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yes, George. I'll pick that Chuck and then you can jump in. I don't think it is burning down backlog. We clearly are -- the good news is we're able to ship more of the backlog. That's good news for our customers. They are waiting for these components. They've got projects that they're holding up that they need to get done. It's good news for our channel in a sense that the channel is sitting on in some case, partial shipments. They need that last box so they can go out and implement that and relieve some of the pressure on their own working capital.
+
+So, it's not -- I'm responding to the burning down backlog. This is good news, our ability to ship the backlog, and that's what you see reflected there in the guide down -- sorry, in the guide up that we have in the second half of the year. We have what you see now is a significantly higher revenue projection for the second half of the year than we had before. And some of that clearly is our ability to ship backlog because of the great job our team has done to free up supply.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+And I would say on the demand side, if I go back 90 days, I would say, in general, I think there was more risk, at least we felt like there was more risk. And when I talk to my customers, there's more uncertainty. And even when you hear -- listen to the news and we talk -- I talk to my colleagues, we were in Davos, it feels like the longer we go without seeing some major shift, then the better our customers are feeling.
+
+So, obviously, we're not immune to anything and we'll have to continue to monitor it. But after traveling in Asia last week, our team being in Europe -- I actually saw customers in New York while I was here this week, and customers are moving forward.
+
+Q - George Notter{BIO 1556662 <GO>}
+Great. That's all. Thank you very much.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, George. Next question.
+
+Operator
+Thank you. David Vogt with UBS. You may go ahead.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Great. Thank you, guys. And I apologize if you covered this, my line cut out a little bit before. Scott, I'm just trying to clarify the order versus the backlog comment. I think I'm not mistaken, your run rate backlog had been sort of roughly $5 billion as you exited a fiscal year. So, are you suggesting to us that the backlog comes down by about $3.5 billion over the next several quarters? And if that's the case, if I just kind of back that out of your guidance, would that imply sort of that the business is effectively flat year-over-year ex the backlog drawdown as we exit '23 into '24? And then I have a quick follow-up.
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. So, let me let try and walk through some of the moving parts here, David. It's a great question. What we said previously is we thought we would end the year with somewhere between two and three times, normal backlog. And normal backlog as we said last quarter is between $4 billion and $5 billion at the end of the year. What we now see is that it's still going to be roughly double what -- that same range. So, there's definitely our ability to ship some out of the backlog which is again great news for our customers and for our partners.
+
+The one piece that's missing in your equation is as we ship the backlog, remember we said there's more than $2 billion of software in there. A lot of that software is ratable. So as soon as we ship it, it doesn't all drop into the revenue stream. It ends up dropping into deferred revenue and being recognized over time. So, there's a -- you have to consider not just the reduction in backlog, what's the uptick in the revenue guide, but also how much of this is going to contribute to growth in deferred revenue. That may be the piece that you're missing.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Got it. And then maybe just as a quick follow-up. So, as we enter, let's say, the next fiscal year, I mean, given your excellent work on supply chain and the team's done a phenomenal job, would that imply, I mean, basically, we could be back at normalized backlog within a quarter, maybe two at the worst case scenario if trends hold consistent where we are today? Is that a reasonable expectation?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Rather than try to say it's a quarter or it's two quarters, I do expect it to normalize in fiscal '24.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Right. Thanks, guys.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Next question, please.
+
+Operator
+Thank you. Tal Liani with Bank of America. You may go ahead, sir.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Great. He stole my thunder with the previous question, that was exactly my question. So, I want to -- I understand -- I want to understand something just a clarification on what you just answered. So, at the minimum, the decline in the backlog was $600 million at the minimum, because, if end of year is going to be $8 million to $10 million, take 6% of that and the backlog is now higher. So that means that the minimum your backlog decline $600 million and that means that product growth, we should take out some of the $600 million because some of it goes into deferred revenue. Am I correct with what you just answered?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah. Well, you're close. Let me run through it again, Tal. And if it's still not clear, we can catch you in the follow-ups. The 6% was the decline in backlog from Q1 to Q2, right? So, we were able to work off about 6% of the backlog that we came into the quarter with. What we've said is at the time that we gave you that Q2 guide in the full year, the previous full-year guide, we expected to end the year with somewhere between 2x and 3x our normal backlog. We're now saying it's going to be roughly double the normal backlog. Some of that obviously will ship out and will be a part of the significant guide-up that we've given you in the second-half revenue. Some of it, instead of turning into immediate revenue will go into deferred revenue and be recognized ratably over time.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+It'll show up in RPO.
+
+A - Scott Herren{BIO 18902845 <GO>}
+I hope that's -- yeah, it'll show up in deferred revenue and RPO. I hope that's clear Tal. If not, we can follow up.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Yeah, very clear. So, my question -- I want to go back to the basics and understand last quarter, we were all concerned about environment slowing down. We don't hear it -- we don't hear you saying environment continues to slow down. We didn't hear Arista saying it. We didn't hear you saying that service providers were weak. Can you take us through the big customer account and tell us what is the situation of spending with your enterprise customers, commercial customers, service provider customers? Did the environment further deteriorate from the previous quarter or did it stabilize? And does it make you think that at least the trends so far the year would continue to be normal on a sequential basis? Or do you expect some more deterioration going forward?
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Yeah, Tal, so, we -- on the enterprise and commercial space, we saw a double-digit sequential growth, which is in line with what we've seen historically. And as I've said, public sector was actually higher than historical ranges, and Federal was -- US Federal was extremely strong during the quarter from a demand perspective.
+
+On the service provider side, I think you're seeing many of our competitors and peers, some of them anyway don't give order data. And so, I think for us those customers are the ones who did the most planning for long-term ordering. So, as lead times begin to come down, we would expect them to change their ordering patterns and they've already got six to 12 months' worth of consumption lined up in the backlog. So, we'll see that normalize over the next few quarters.
+
+I will say in the webscale space, there are roughly 35 use cases or franchises within the largest players. And we've actually been designed into 18 of those at this point, and we are very confident that we'll continue to get designed in. I got a note today that we've just got a notice that -- about a new design win today. And so, we're still very optimistic long-term, we just think it's a short-term normalization for a service provider space.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Got it. Layoffs and the economic slowdown. My question was whether these factors you see an impact on your business on orders or they've stabilized from previous quarter?
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Well, you mean, layoffs in like in our customers?
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Yes, across the industry.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Yeah. Well, if you think about what occurred, there was -- a lot of companies that had a massive surge in employment, and we didn't. But I think the thing that we're seeing right now is that we've seen the sequential growth be in line and in some -- like it was towards the lower end. So, it's not performing at the highest end but I think that it's in range. And if you -- and I also shared that in Q3, our current forecast is also in line, sequentially, with historical ranges which we normally don't give. We just wanted you guys to have that visibility. So, look, it's certainly an uncertain time. And I'm not -- I don't want to paint a picture that we're immune and I don't want to paint a picture that every customer's spending everywhere on everything. But we've been able to maintain and continue to see our customers moving forward with projects. And the one thing that was really encouraging for me was to see January as strong as it was given our -- the uncertainty around '23 budgets.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Got it. Thank you.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Tal. Next question.
+
+Operator
+Tim Long with Barclays. You may go ahead, sir.
+
+Q - Tim Long{BIO 17361522 <GO>}
+Thank you. Just hoping I can got two in here. One, could you talk a little bit about obviously, the enterprise campus is still very strong. But I think traditionally that kind of a GDP-ish type of business and it's been running above that. And it sounds like your confidence into next year is pretty strong as well. So, maybe, Chuck, any insights like what's kind of different there? Are we starting to decouple from like macro GDP for that campus networking piece? Any thoughts there would be great.
+
+And then second, obviously, a lot of excitement out there about AI, ChatGPT, all that stuff. Just curious what you think for your data center and cloud businesses. What kind of impact if there's kind of more of an arms race with big customers around AI, what that would mean for switching and routing business for you guys? Thank you.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Thanks, Tim. So, first one on enterprise campus, I do think that the pandemic was a great educator for our customers about the need to maintain modernized infrastructure, because moving into the pandemic, I think it became quite obvious to many of our customers that they had not been updating and they had -- they were sweating assets a little longer. So, that's one thing that's shifted.
+
+The second is we're really seeing these trends of multi-cloud, the trend of hybrid work, and the overall re-architecture of their networks. If you really think about how we built networks for 20 years, we built it on a premise that we have branches and we have a private data center, and all the traffic flows are very understood. Now, I have to upgrade my entire infrastructure to deal with this brand new world that I live in, supporting hybrid work, supporting hybrid cloud, et cetera. So, I think, that's been driving a lot of this as well as safety in the office, IoT creating new experiences to get our employees back to work, et cetera. So, that's what I think has been driving a lot of the enterprise campus stuff.
+
+As it relates to your second question around the AI play, I think that -- look, these AI networks that are being built, whether it's in Webscale or whether we have some of our largest enterprise customers that are building AI networks and training AI algorithms, these are, like in the Webscale space, they're like bigger than the core infrastructure networks that they're running, which was astonishing to me when I learned that. And the network performance required is 3x to 4x what they've historically needed. And so, this is a massive opportunity for us. And we're in active discussions with lots of customers around it. And so, we do think that this shift is going to create a good opportunity for us in the future.
+
+Q - Tim Long{BIO 17361522 <GO>}
+Okay. Thank you. Very helpful.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Chuck. Next question.
+
+Operator
+Thank you. Samik Chatterjee with J.P. Morgan. You may go ahead, sir.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Yes, hi. Thanks for taking my questions and congrats on the strong guide. Maybe if I can just quickly hit on two of the product areas. Firstly, security, what sort of benefits are you seeing given your broad portfolio there in terms of customers looking to maybe some level of vendor consolidation just given your position as more of a broader security portfolio supplier? And then what sort of benefits as supply eases maybe on the firewall side should we expect revenue growth?
+
+And a similar question on Internet for the Future -- internet of the future segment, seems like a bit more supply constrained than other segments. But what sort of -- what are you seeing on the supply side there? Thank you.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Okay, I'll take security and you take the supply side, Scott. So, I think that -- look all of our customers definitely want to consolidate their security infrastructure. They've got 40-50 different vendors and trying to correlate these threats is very difficult. And just you can't add enough people. So, our teams right now are heads down working on some new capabilities that we're going to be bringing out over the next 12 to 18 months. And some of that is focused on exactly that. How do we consolidate? And how do we create the ability to correlate threats in real time, much more effectively. And so, we think that you're probably going to start seeing the benefit of that three, four quarters out.
+
+So, team has got work to do. We've hired a significant amount of outside talent. We've invested heavily in this space. So, while we may see -- we may not see the growth that you want to see in the near term, but you will see this begin to accelerate in FY '24, I think it will -- we're playing a long game here and really believe that there's a lot of consolidation that we can drive over the next few years. Scott?
+
+A - Scott Herren{BIO 18902845 <GO>}
+Yeah, Internet for the Future, Samik. It is one of the spaces we've worked so hard and done so much across our entire product portfolio. And we've made great progress in many cases. I would say Internet for the Future is one of the spaces where we're still -- we've improved lead times there, but we're still not back to more normal lead times in that space.
+
+What I'd also say though is we have already picked up orders just in the last several weeks from some of our peers that are also selling into that same space who couldn't meet demand, and those orders came to us instead. So, while it's a space we continue to work on and while we're seeing improvement, it's not where we want it to be, I feel like we're performing pretty well on the supply side and Internet for the Future.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Thank you.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+All right. That wraps up our Q&A. I'm going to turn it over to Chuck for some closing remarks.
+
+A - Chuck Robbins{BIO 17845882 <GO>}
+Well, first off, I just want to thank everybody for spending time with us today, and also really thank our teams, they delivered on very strong results. I want to thank the supply chain and our engineering teams for quarter after quarter after quarter of hard work and redesigns over 100 product redesigns, aggressive actions to get us to the position we're in today, the entire company for the progress we've made on our business transformation.
+
+And I'll just leave you with our feeling that our demand has remained stable. The business transformation is contributing significantly, our backlog, all of those give us the visibility and confidence in the future. I think the relevance of our portfolio given the most pressing needs of our customers is at a -- as high as it's been in a very long time. And I'm super proud of what our teams have accomplished. So, look forward to talking to you in the future, and thanks for joining us today.
+
+A - Marilyn Mora{BIO 19771101 <GO>}
+Thanks, Chuck. Cisco's next quarterly earnings conference call which will reflect our fiscal 2023 third-quarter results will be on Wednesday, May 17th, 2023 at 1:30 p.m. Pacific Time, 4:30 p.m. Eastern Time. This concludes today's call. If you have any further questions, feel free to reach out to the Cisco Investor Relations group, and we thank you very much for joining today's call.
+
+Operator
+Thank you for participating on today's conference call. If you would like to listen to the call in its entirety, you may call 866-361-4941. For participants dialing from outside the US, please dial 203-369-0189. This concludes today's call you may disconnect at this time.

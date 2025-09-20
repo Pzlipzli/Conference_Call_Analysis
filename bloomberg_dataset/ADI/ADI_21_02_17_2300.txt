@@ -1,0 +1,279 @@
+Q1 2021 Earnings Call
+Company Participants
+Michael Lucarelli, Senior Director of Investor Relations
+Prashanth Mahendra-Rajah, Senior Vice President, Finance and Chief Financial Officer
+Unidentified Speaker
+Vincent Roche, President and Chief Executive Officer
+Other Participants
+Ambrish Srivastava, Analyst, BMO Capital Markets
+C J Muse, Analyst, Evercore
+Craig Hettenbach, Analyst, Morgan Stanley
+John Pitzer, Analyst, Credit Suisse
+Stacy Rasgon, Analyst, Bernstein Research
+Tore Svanberg, Analyst, Stifel
+Toshiya Hari, Analyst, Goldman Sachs
+Vivek Arya, Analyst, Bank of America
+Presentation
+Operator
+Good morning and welcome to the Analog Devices First Quarter Fiscal Year 2021 Earnings Conference Call which is being audio webcast via telephone and over the web. I'd like to now introduce your host for today's call, Mr. Michael Lucarelli, Senior Director of Investor Relations. Sir, the floor is yours.
+
+Michael Lucarelli{BIO 16382485 <GO>}
+Thank you, Cheryl, and good morning everybody. Thanks for joining our first quarter of fiscal 2021 conference call. With me on the call today are ADI CEO, Vincent Roche and ADI CFO, Prashanth Mahendra Rajah. For anyone who missed the release, you can find it and relating financial schedules at investor.analog.com. Now onto the disclosures.
+
+The information we're about to discuss includes forward-looking statements, including statements relating to our objectives, outlook and the proposed Maxim transaction. These forward-looking statements are subject to certain risks and uncertainties as further described in our earnings release and our most recent 10-Q and other periodic reports and materials filed with the SEC. After results could differ materially from these forward-looking statements, as these statements reflect our expectations only at the date of this call. We undertake no obligation to update these statements except as required by law.
+
+Our comments today will also include non-GAAP financial measures, which exclude special items when comparing our results to our historical performance. Special items are also excluded from prior periods. Reconciliations of these non-GAAP measures to their most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release.
+
+And with that, I'll turn it over to ADI's CEO, Vincent Roche. Vince?
+
+Vincent Roche{BIO 4759894 <GO>}
+Thanks very much, Mike, and good morning to you all. So I'll start my remarks with a review of our results before providing insights into how we are shaping a more connected, safer and sustainable future. The first quarter we delivered strong results that came in at the high end of our outlook. Revenue was $1.56 billion and increased 20% year-over-year. The strength was broad based with growth across all end markets, highlighted by a record quarter for our industrial business.
+
+We delivered gross margin of 70% and OP margin of nearly 41%. All told, we produced adjusted earnings per share of a $1.44. Over the trailing 12 months, we generated $1.9 billion free cash flow equating to a 33% free cash flow margin, placing us in the top 10% of the S&P 500. So overall, I'm very pleased with our team's performance this quarter.
+
+Now I'd like to discuss how we are advancing our mission of engineering good for the planet's social health and economic prosperity, which in turn will create long-term sustainable value for our shareholders. Awareness of the world's environmental degradation and climate change specifically is growing tremendously with a global call to actions building momentum. Semiconductors, as the bedrock of the modern digital economy, have a major role to play in improving our standard of living while protecting our planetary health. At ADI, our technology stood at the intersection of our customer's and society's most pressing challenges and we're uniquely positioned to drive positive impact.
+
+Our industry-leading portfolio with its breadth of capabilities defines the edge of performance and inherently delivers sustainable benefits, with each generation of chip designs, we increased efficiency while enhancing the performance of our customer systems. This portfolio supports customers of all sizes and spans industries that are aligned with key secular trends.
+
+So today, I'll focus on where ADI's entering good across the automation, electrification and connectivity sectors. Firstly, the automation of human routines, factory floors and supply chains is critical to our future and the pandemic has further accelerated this paradigm. The World Economic Forum is predicting that by 2025, over half of all tasks will be performed by machines, a first in human history.
+
+To support this trend, our industrial customer base is boosting deployments of robots and cobots. Over the next five years, the global robot installed base is expected to increase by about 60%. With industrial motors currently consuming 25% of all the world's electricity, we urgently need to deploy technologies that not only deliver speed and accuracy, safety and flexibility, but also energy savings. So let me share a few examples of how our technologies are meeting these challenges in automation. So firstly, variable speed drives can reduce motor energy consumption by up to 40% in a robot.
+
+Our precision signal chain isolation and power management technologies, together increased response time and improved power conversion. Secondly, our time of flight sensing technology allows robots to sense and interpret the world around them, so our customers can deploy more robots per square foot, and improve worker safety.
+
+Thirdly, our auto sense condition-based monitoring solutions presciently identifies motor and efficiencies enabling customers to proactively optimize and repair machinery. This avoids costly downtime and lowers energy consumption by 10%. Importantly, these technologies that improve more efficiency and robotic control can save almost one giga ton of annual CO2 emissions, the equivalent of 330 million residential homes.
+
+In total, automation is a key component of our industrial business, supporting tens of thousands of customers, we expect this accelerated digitalization to drive continued growth in 2021 and beyond. Now I'll turn to electrification and discuss the important role areas playing as consumer demand for greener transportation accelerates. The World Economic Forum predicts that by 2030, there will be approximately 215 million electric vehicles on the road, up exponentially from about 7 million today.
+
+ADI Solutions are embedded across all phases of the electric vehicle journey, from supporting EV infrastructure to forming and managing the vehicle battery. So I will show know how our technologies are impacting this ecosystem. First, the shift to renewable energy sources drives great environmental benefits, but also creates new obstacles in distribution, transmission and stability. This requires the smart grid, which can digitally monitor and adjust performance. Our control and sensing technologies are critical to ensuring the grid parameters remain stable and prevent shutdowns. This shift also requires energy storage systems to mitigate intermittency issues related to variable user demand. Here our high accuracy monitoring and efficient power conversion technologies help extend systems battery life by more than 30%.
+
+Turning to the battery, which is the most expensive vehicle part, our battery management system or BMS enables up to 20% more miles per charge than our competition. As the market leader, over half of the top 10 electric vehicle brands is ADI's BMS technology today. In addition, last fall, we introduced the industry's first wireless BMS platform, this is all of the benefits of our wired solution by lowering vehicle weights and enabling a scalable battery architecture, paving the way for a reuse of the storage systems.
+
+GM's Ultium platform uses our wireless BMS technology, which is expected to be deployed across 30 different models by 2025. Interests in our wireless BMS technology is rising and last quarter we recorded our second OEM design win. Importantly, the environmental impact from our BMS capabilities is notable. In 2020 alone, vehicles equipped with ADI's BMS technologies prevented approximately 70 million tons of carbon dioxide from entering the atmosphere.
+
+Our solutions utilized at the battery formation stage enabled more current density, thereby shrinking our customers' equipment footprint by up to 4 times and reducing per channel costs by nearly half. Our technology makes it possible for factories to recycle more than 80% of the energy used during the formation back into the power grid. Based on today's production levels, energy recycling during formation reduces CO2 output by about 1 million tons annually. So all told, electrification not only represents a highly valuable market with long-term revenue growth opportunities, but one that will be critical to the preservation of our precious natural ecosystem.
+
+So finally, let me turn to connectivity. In the face of the pandemic, connectivity has been the foundation that is sustaining empowering our society and the economy and while the communications market is not known historically for its sustainability benefits, this ability to stay connected and productive from anywhere has also had a positive impact on the environment, a clear proof point is the reduction of global carbon emissions by a record 7% in 2020.
+
+By 2030, forecast suggests mobile traffic will increase by about 17 fold. This exponential increase in wireless data, combined with pervasive cloud computing puts IP traffic on pace to double every 2.5 years and ADI is playing a critical role in building out the next generation infrastructure to support this exponential increase in data, from capturing the signal at the base station air interface to transferring the information to the data center, while substantially decreasing power.
+
+So, ADI has invested ahead and reshaped the 5G radio architecture, our software-defined transceivers with complementary precision signal chain and power technologies are vital to enabling the 5G Massive MIMO architecture. When comparing 5G to 4G, our solutions help deliver a 90% decrease in energy per bit at the air interface by decreasing the channel count by 10X while maintaining the radio size and terminal performance. With the exponential upswing and data generation, our customers are upgrading their optical infrastructure from a 100 to 400 gigabits per second. Our precision signal chain technologies help enable these optical modules maintain constant power, while operating at four times the data rate and with the customer is looking to increase to one terabit and beyond, ADI's opportunity will continue to expand.
+
+Capturing and transporting data efficiently is important, but computing and data centers is the primary source of energy consumption in the connectivity ecosystem. Currently, data centers generate more than 130 million tons of CO2 per year globally. So this is where the transition from 12 to 48 volt power distribution can reduce power loss and increase compute density. Our 48V to core micromodules, power and power system monitoring solutions are enabling this transition and according to Alphabet, this approach can improve data center energy efficiency by 30%. All told, ADI is part of the ecosystem enabling greater efficiency and wireless and wired data capture transmission and of course, computing and our solutions of customers to scale their investments and build next generation networks economically and resourcefully.
+
+So stepping back, I'm incredibly proud of the progress we've made on our mission to engineer good, but a lot remains yet to be done. We're focused on partnering with our customers to develop increasingly innovative technologies that create successful business outcomes, enrich people's lives and leave a greater impact on our world. And so with that, I'll hand it over to Prashant.
+
+Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Thank you, Vince. Let me add my welcome to our first quarter earnings call. My comment today with the exception of revenue and non-OP expenses will be on an adjusted basis, which exclude special items outlined in today's press release. ADI delivered a strong first quarter with results at the high end of our outlook. Revenue increased 20%, nearing an all-time high, operating margin expanded to 40.7% in line with our long-term model and adjusted EPS grew 40%.
+
+We saw tremendous breadth this quarter with all market segments growing year-over-year, the first time in over three years and B2B revenue increased 2% sequentially and 22% year-over-year with double-digit growth across each end market.
+
+Industrial, represented 55% of revenue during the quarter, increased 5% sequentially and 24% year-over-year. This represented a record quarter for Industrial with broad based strength across applications, customers and geographies. Specifically demand across our automation, instrumentation and energy businesses accelerated this quarter.
+
+Communications, which represented 18% of revenue during the quarter decreased 10% sequentially, but increased 16% year-over-year. Both wireless and wireline revenue grew double-digits, despite zero revenue from Huawei this quarter. Automotive, which represented 16% of revenue increased 7% sequentially and 19% year-over-year. With the industry aggressively ramping up production, we saw double-digit year-over-year growth across all applications. BMS exhibited the highest growth, the trend we expect to continue given our growing design pipeline. And lastly, consumer, which represented 11% of revenue increased 2% sequentially and 5% year-over-year.
+
+We saw strong growth in hearables, wearables and home entertainment. This quarter's inflection puts us on track to return to full year growth in 2021. And now for the rest of the P&L, gross margin, which is seasonally weaker in the first quarter, finished flat sequentially at 70%. We anticipate our first quarter's gross margin will be the trough for the year as we benefit from a strong topline improving utilization and capturing the majority of the LTC cost savings.
+
+OpEx in the quarter was $456 million, up sequentially and year-over-year, due mainly to variable compensation. OP margins, finished at 40.7% above the guided mid point, non-OP expenses were $27 million and better than our outlook due to an investment gain. Our tax rate for the quarter was approximately 12%. So all told, adjusted EPS came in above the high end of guidance at a $1.44. This included a $0.04 benefit from an investment gain that was not in our prior outlook.
+
+Moving on to balance sheet and cash flow, inventory dollars increased modestly while inventory days finished at a 119, down from 121 in the fourth quarter. Channel inventory as measured in weeks was flat sequentially and remains well below our seven to eight week target. CapEx in the quarter increased to $67 million or roughly 4% of sales. We are working judiciously to add CapEx to meet this record demand and anticipate that CapEx will run slightly above our long-term target of 4% for fiscal 2021.
+
+Turning to cash flow, over the trailing 12 months, we generated $1.9 billion or 33% of revenue. You'll recall that during the last year, we paused our share repurchase program for few quarters due to the pandemic and our proposed Maxim acquisition. Therefore, in 2020 we returned 80% of free cash flow to shareholders after debt repayments. This quarter we've reinstated our share repurchase program and given our current 1.5 leverage ratio we're committed to returning 100% of free cash flow for the year.
+
+Looking at the first quarter, we executed nearly $160 million of repo and we also announced an 11% increase to our quarterly dividend at $0.69 per share, which marks our 18th increase over the last 17 years. Before moving on to guidance, I want to provide some context on the current state of supply. A sharper than expected recovery in the economy coupled with a lean inventory backdrop is fueling unprecedented demand for semiconductors and putting stress on the global supply chain.
+
+While the industry at large is aggressively working to meet this historic demand, it's more than likely we will be operating in a constrained supply environment for the balance of the year. At ADI, we're confident in our ability to outperform in times like this. Our flexible hybrid manufacturing model, healthy balance sheet inventory and diversified product and customer base, position us well. In addition, we're working to secure additional capacity from our external partners and ramping our internal operations to increase output.
+
+Now let me provide our second-quarter outlook. Revenue is expected to be $1.6 billion plus or minus $50 million, at the midpoint this guidance reflects what would be record revenue. We expect double-digit year-over-year growth for automotive, industrial and consumer markets, but we do see a decline in our comps. Based on the midpoint of guidance, OP margin is expected to be 41% plus or minus 70 bps. And our tax rate is expected to be between 11% and 13%.
+
+Based on these inputs, adjusted EPS will be $1.44, plus or minus $0.08. So in summary, I am encouraged by the near-term trends we're seeing across our end markets. And while we're mindful of the ongoing macroeconomic uncertainty, we are optimistic that a broad-based recovery is underway and with Maxim expected to close this summer, 2021 will be a transformative year for ADI.
+
+Let me now pass it back to Mike to start our Q&A.
+
+Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, Prashant. Let's go to the Q&A session. We ask that you limit yourself to one question in order to allow for additional participants on the call this morning. If you have a follow up question please requeue and we'll take your question if time allows.
+
+With that Cheryl, can we have our first question please.
+
+Questions And Answers
+Operator
+(Operator Instructions)
+
+Our first question comes from John Pitzer from Credit Suisse. Please go ahead, your line is open.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Yeah, good morning guys. Appreciate the question and congratulations on the strong results, Prashanth I just want to talk a little bit about how the model unfolds from here. I mean, clearly you talked about already hitting the gross margin trough for the year, but you're guiding EPS sort of flattish on up revenue. I'm just kind of curious how should we be thinking about OpEx from current run rate levels? And specifically, is there incremental OpEx needed because of the tight supply situation? What are the puts and takes as we go throughout the balance of the year?
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Yeah, thank you for the question, John. So the way to think about OpEx is that if you recall in the proxy, we identified that last year in the first half, we had a particularly low bonus payout as a reflection of the macroeconomic environment. In the first half of this year, you're going to see the opposite effect of that. So on average it's a normal bonus payout, but you do see a significant upswing in our variable comp for which is impacting both the first and the second quarter compares.
+
+In addition, we have the merit increase so that if you remember, we put that merit increase in several months later than normal as a result of the the pandemic last year. So you're beginning to see that on a full-year run rate basis in first quarter and that will carry into the second quarter. So beyond these comp related items, OpEx is really at a steady level, we are not requiring any additional investment at the OpEx level to support the demand that we're generating.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Perfect, thank you guys.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks, John. We'll go to our next question.
+
+Operator
+Thank you. Our next question comes from Ambrish Srivastava from BMO Capital Markets. Please go ahead, your line is open.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Hi, thank you very much. Prashant and Vince, I just wanted to get back to the current constrained supply condition that the industry is facing. So, could you please comment on your lead times and then what are you seeing in the cost increases that you are experiencing. And are you able to pass along pricing to the customers and more importantly, does it change your approach, is there a structural change that you see happening? Prashanth, you talked about CapEx running a little bit higher, where does that additional CapEX going, in the back and front-end and I just wanted to get a better sense of how things change from here on the supply chain front for ADI. Thank you.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Great. Okay. Okay. So there is a lot packed into that question Ambrish, let me take a couple of pieces of it. So we are producing and shipping at record levels and the second quarter outlook is going to be a record. We have enough capacity to meet the guide but additional significant additional upside versus that guide will depend on what we're able to procure both from an external wafer standpoint as well as the capital that we are in the process of deploying into our internal facilities to support that.
+
+What we're doing to help alleviate that situation is we have been consistently building inventory since last summer to deplete what was pulled down during the pandemic shutdowns. We are adding additional supply both internally and I mentioned the capital that we're deploying, which is mostly going to the back-end and then externally we've gone out and acquired additional wafers from our partners.
+
+So the -- I think the answer to your question on CapEx, is that it's mostly for test. And then on the capacity side where we can get additional capacity from our partners we're doing that. But even with this additional capacity, it's very likely that the strength of demand is going to out-place outpaced supply for some period of time. So I think we will be chasing demand, at least for the balance of this, of this year. From a capital deployment standpoint, some of that as we guide as a percentage of revenue, some of that is dependent on how strong the year continues to roll out. So when I say slightly above 4%, it could come down to 4% or maybe just a hair below if revenue continues to to cook along here.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah, just on the lead time question Ambrish. So, we entered our first quarter with what we would call normal lead times. But during the quarter and into the early part of this quarter, we've seen lead times extend, which I think is pretty consistent with the industry at large. So, you know, while we see some hotspot, we're really talking about is a few weeks of extension in different places, I will remind you too that we run this company, we run our manufacturing plans, the operating plans are run to POS rather than POA. So what we're seeing right now is a good balance between POS and POA, but as Prashant said we're preparing for a quite a bit of upside during this year and we've pretty substantially increased the CapEx in our back-end.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Thanks, appreciate it. Thank you.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Our next question, please.
+
+Operator
+Our next question comes from Stacy Rasgon from Bernstein Research. Please go ahead, your line is open.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi guys, thanks for taking my question. I wanted to ask about comm. So it's down sequentially and year-over-year. I guess in the Q2, is that the trough for the year for comm, and do you think the comm segment overall can grow year-over-year for the full-year 2021?
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Yeah. Right. You want to take that would. I'll take the first part of that Stacy. So that's pretty comes into wired and wireless. On the wired we're looking for continued growth as carriers and data centers are upgrading networks. On the wireless, we've said that the US deployment of 5G was always going to be a second half event in our view on that has not changed. What we have seen is a bit more of a slowdown in China as they are digesting kind of 5G that they've deployed and the channel counts are a bit lower. So we do think comms troughs in the second quarter and then begins to pick up in in the second half with the global 5G. In terms of our view on whether we can grow comms on a year-over-year basis, given the significant headwind we have from while Huawei going to zero, that's a tough ask.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah, I think as well, remind everybody that the 3-year CAGR or comms has been 7% and that's win. That very, very significant headwinds in China. So, and I think when you, when you look at ADI in the comms business it's tremendously diverse, many many hundreds of customers, 5G is a critical part wireline, is it increasingly critical part. So very, very hard to predict in a lumpy, a lumpy business. But our expectation is that when, as we produce better than mid single-digit growth for that business.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+I'm sorry, was that a long-term statements that didn't sound like that was this year.?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Over the next few years, I think, Stacy we will produce something better than mid single-digit growth in that business.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Yeah, Stacy, I think what Prashant's says, we don't think we will grow this year in fiscal 21 due to I will say, the Huawei headwinds as they go to zero and lower channel count in China, but then pivoting to Vince, it's over the long term, we should grow. We've been growing 7% and no reason to go going forward. We can grow at least in line with that.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Didn't used to talk about double-digit growth though in this business?
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+We did Stacy, I think the world has changed over the past two years, quite a bit. Could it grow double-digits. Sure, it could. There's no reason it can't, but I think as we look today with the pressures you're seeing geopolitically, those are things we didn't know two years ago,
+
+A - Vincent Roche{BIO 4759894 <GO>}
+I think, high single-digit is a reasonable expectation. The early stages of 5G I think being able to grow double-digits, very plausible. But you know we're working off of a bigger numerator at this point in time. So I think if we can produce something in the high single digits, we will be in very very good shape.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. Thank you, guys.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Thanks, Stacy.
+
+Operator
+Pardon me. Our next question comes from Tore Svanberg from Stifel. Please go ahead, your line is open.
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Thank you and congratulations on the results. Vince, you talked about a second design win for your wireless BMS solution or second OEM using that technology, could you elaborate a little bit on how quickly this technology is going to penetrate the auto market, could you potentially get to six, seven OEMs embracing this technology this year or next?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Well, that's certainly our expectation. I think in terms of getting to market the latter part of this year will see the start of production and I think between now and the end of 2023 say, we should expect four to five OEMs to adopt that technology, with a strong pipeline but also remember, we have a very strong wired portfolio in BMS. So we've got those two tailwinds working for us. But I think over time to be kind of a hybrid between wired and wireless, but clearly wireless is the, is the bright start at this point in time. And our expectation is that we'll have at least a handful of OEMs using this technology by the start of 2024.
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Very helpful, thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Thanks, Tore.
+
+Operator
+And our next question comes from Vivek Arya from Bank of America. Please go ahead, your line is open.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. Vince, I wanted to talk about just fiscal ' 21 and the sustainability of growth. So you're starting the year off very strong right, 20% growth rates in Q1 and the Q2 outlook. How should we think about the second half of whether you want to talk about the fiscal year or the calendar year, which markets, do you think, right now are overheated because of whatever reasons, which are kind of only -- which are in line with demand and which ones can actually accelerate going into the second half or just how should we think about how the segment mix changes as you go towards the second half of the year? Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. Thanks for your question. So it's typically 1Q is a low point for ADI. We had a reasonably strong first Q, compared to kind of normal pattern, but I will stress, there's still a tremendous amount of uncertainty out there and I don't want to get into the business of making strong speculative predictions here but we can only kind of guide one quarter at the time, particularly in this varying market. But if I look at the markets and just kind of peel the story back a little bit for you.
+
+So our industrial business, which represents about half of the company's revenue was down, we had two consecutive down years in ' 19 and 20, but you know we produced a record quarter in the first, we expect ongoing strength in that business and one thing I'm very, very pleased about is that the most diverse part of our industrial business is automation and I think given the strength of our opportunity pipeline, the new products we've got coming to market, I expect to see a multi-year tailwinds in the automation part.
+
+I think right now there is in automotive, there's a big push to electric vehicles and I see that as I said in the prepared remarks that is expected to grow by 2030 from kind of 7 million deployed electric vehicles today to over 200 million by 2030 and we talked a lot the last quarter about the strength of our cabin electronics business, active noise cancellation, Premium Audio, our A2B, bus deployment and all that too provides good tailwinds for the company going ahead. Comms as we've just narrated week in the first half of of '21. But really I think that's about the timing of deployments. And my expectation is that, that business will snap back in the second half of '21 and continue into '22.
+
+Last but not least, our consumer business has shown a couple of sequential growth quarters and we no longer have the overhang of one big socket and one big customer, so with the diversity of our business, we've -- we're addressing more applications we have a stronger product portfolio than we had say three years ago. I think we're on a growth track in that business. And we're certainly off to a very, very good start. So we believe that 20 was the bottom of that business and certainly the signals are if that is the case.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks Vivek.
+
+Operator
+Thank you. Our next question comes from Toshiya Hari from Goldman Sachs. Please go ahead, your line is open.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hey, good morning. Thanks so much for taking the question. Vince, you guys talked about growing capacity, both internally as well as externally with your foundry partners. How should we think about the step-up in your capacity again both internal and external over the next couple of quarters, the magnitude at which you can grow at capacity for the overall business. And secondly, a couple of your peers have talked about signing long-term contracts with customers. Is that something that ADI is thinking about, or considering? Thank you.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Well, I think what you've got to remember is that first and foremost we are producing and shipping product at record levels 2Q, will be an all-time record for the company. So we're certainly keeping ahead, our investments are keeping ahead of these revenue levels, obviously. You know like most of our peers in the industry, there are supply constraints in parts of the business. So we're not able to meet all the demand, particularly in auto which has been very, very well publicized and the constraints continue across the front end in wafer procurement and, and also the back-end, but I will remind you too we produce about half our silicon inside ADI and the other half we procure with external partners.
+
+So, I think something else worth noting is that we've been building inventory since last summer in terms of die stock and finished goods, which was heavily depleted during the pandemic shutdown. So, as I said, internally, we're ramping up our own manufacturing operations, and we've been successful in acquiring additional wafers from our external partners. So I think that's the best I can give you in terms of the atmosphere that we're working for them. We're certainly keeping CapEx deployments ahead of where we think the revenue could be this year based on the demand patterns we now see.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Toshi I would expect that our guide for each of the subsequent quarters is going to be partly influenced by what we're able to supply. So as I said earlier, I think we're going to be chasing, chasing demand for the rest of this fiscal year and we will use our our guidance range to inform how we think what we can build-to-based on our ability to get capacity third parties as well as increased capacity internally.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+And then the long-term contracts, is that something said that comes up in conversations, or not really.
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+I think it depends. We do have long-term contracts. But we're doing that on a more strategic basis then tactical let's say.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Got it. Thank you so much.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Thanks Toshiya.
+
+Operator
+Our next question comes from Craig Hettenbach from Morgan Stanley. Please go ahead, your line is open.
+
+Q - Craig Hettenbach{BIO 6185428 <GO>}
+Yes, thank you. Any update on just the Linear cross-selling synergies and efforts. I know a little while back you kind of talked about the pipeline, but just how are you seeing that kind of unfold in any particular markets or product segment that you're seeing the most traction along those lines?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. So Craig a couple of ways to look at it is obviously the the battery side of things is very, very strong. We've more than doubled the size of that since we acquired LT and overall, when I look at the, for example, power of the mixed-signal portfolio as well as the battery management side of things, we have more than $500 million worth of new revenue going to production this year, and that's just the beginning.
+
+So in terms of areas where we're winning we've got notable wins in communications in wireless, as well as data center and cloud, in automotive, we are strongly attaching to our infotainment business, the autonomous radar systems and the strongest surge in terms of growth in industrial for the LT portfolio, the additional cross selling is instrumentation test and micro modules, generally speaking, across the board, we're seeing very, very strong demand for those products.
+
+So I think all that said, we had expected that we would double the OTC growth to from kind of 3% to 4% historically to high-single digits in a five-year period, and that's quite similar to how we viewed our opportunity with Hittite at the beginning and what also has materially. So that's the story in terms of the markets and the expected growth.
+
+Q - Craig Hettenbach{BIO 6185428 <GO>}
+Got it. Appreciate the color, thanks Vince.
+
+A - Unidentified Speaker
+Cheryl can we have our last question please.
+
+Operator
+Thank you. Our last question comes from C.J Muse from Evercore. Please go ahead, your line is open.
+
+Q - C J Muse{BIO 6507553 <GO>}
+Yeah, good morning. Thank you for taking the question, I guess, Vince, to follow up on that last question and to kind of go back to what you talked about a quarter ago. I think you said in factory automation turned positive for the first time in quite a while, year-on-year, yet we're still significantly below the Q3 2018 level. So was hoping we could level set where we are today in your industrial bucket. And as you think about where you are relative to prior peak. What kind of acceleration in growth should we be able to see in '21 and '22 particularly around factory automation A&D and instrumentation?
+
+A - Vincent Roche{BIO 4759894 <GO>}
+Yeah. I'd say we'd just Mike can give you some numerical color. I'll just give you a top headline here. So, you know what we're seeing, as I said in the prepared remarks is an acceleration of the market in general. But we're still well below the previous peak and given the pipeline of opportunities that we've got the technologies and the products that we've got, I think the long-term trends are very, going to be very, very strong accelerated of course by the the obvious need for resilience driven by automation. As a result of the pandemic. But, Mike, you might want to add.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+Yes, sure C. J you're right. If you look at our industrial business, we did just achieve a record quarter and we're guiding to another record quarter. So I'll clarify that. But what's interesting is if you peel it back a bit we have six application areas within industrial only two of them are above previous peak. So there's a lot more room for upside across all the verticals. But even if you look back at previous peaks there are still four application areas. We still have more room to run before we hit those peaks automation being one of those as well. So I think has been said, it's a long-term growth market automation and industrial and you're starting to see that business turn late last year into this year and I think that continues, hopefully into '22..
+
+A - Prashanth Mahendra-Rajah{BIO 18703710 <GO>}
+Maybe just to close on I think that C J. We've been, we've been gaining share in industrial and we've been gaining share over the last couple of years. While the market hasn't been a strong now you're going to see the compounding effect of a growing market with the benefit of the share that we've picked up. So I think you will see significant outperformance for ADI's industrial business versus our peers over the balance of this year.
+
+A - Vincent Roche{BIO 4759894 <GO>}
+I think health care as well C.J is worth noting that you know, it still remains considerably above pre-COVID levels. We obviously got a boost during the COVID, the upsurge in COVID-19 and again I think this has been growing at kind of 10% for the past five or seven years, it's I think a multi-growth, a multi-year growth market and we're beginning to see also the acceleration of demand as a result of the pandemic getting healthcare capabilities to anywhere, so to speak. So I think, well, look, we look across industrial is an area where we've been, I'd say steering a lot of our R&D over, over the last decade or so it's kind of a long burn business but we're seeing the benefits now in terms of strength of our technology pipe and our customer engagements.
+
+A - Michael Lucarelli{BIO 16382485 <GO>}
+All right, thanks C.J and thanks everyone for joining us this morning, a copy of the transcript will be available on the website. Thanks for joining the call and your continued interest in Analog Devices. Have a good day.
+
+Operator
+This concludes today's Analog Devices conference call. You may now disconnect.

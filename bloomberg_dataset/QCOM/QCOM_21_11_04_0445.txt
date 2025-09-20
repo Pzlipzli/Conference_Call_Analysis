@@ -1,0 +1,287 @@
+Q4 2021 Earnings Call
+Company Participants
+Akash Palkhiwala, Chief Financial Officer
+Cristiano R. Amon, President and Chief Executive Officer
+Mauricio Lopez-Hodoyan, Investor Relations
+Other Participants
+Chris Caso, Analyst, Raymond James
+Harsh Kumar, Analyst, Piper Sandler
+Joseph Moore, Analyst, Morgan Stanley
+Matthew D. Ramsay, Analyst, Cowen
+Rod Hall, Analyst, Goldman Sachs
+Ross Seymore, Analyst, Deutsche Bank
+Samik Chatterjee, Analyst, JPMorgan
+Stacy Rasgon, Analyst, Bernstein Research
+Tal Liani, Analyst, Bank of America
+Timothy Arcuri, Analyst, UBS
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm Fourth Quarter and Fiscal 2021 Earnings Conference call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. (Operators Instructions)
+
+I would now like to turn the call over to Mauricio Lopez-Hodoyan, Vice President of Investor Relations. Mr. Lopez-Hodoyan, please go ahead.
+
+Mauricio Lopez-Hodoyan{BIO 20932685 <GO>}
+Thank you and good afternoon everyone. Today's call will include prepared remarks by Cristiano Amon and Akash Palkhiwala. In addition, Alex Rogers will join the question and answer session. You can access our earnings release and a slide presentation that accompany this call on our Investor Relations website. In addition, this call is being webcast on qualcomm.com and a replay will be available on our website later today.
+
+During the call today, we will use non-GAAP financial measures as defined in Regulation G. And you can find the related reconciliations to GAAP on our website. We will also make forward looking statements including projections and estimates of future events, business or industry trends or business or financial results. Actual events or results could differ materially from those projected in our forward-looking statements. Please refer to our SEC filings, including our most recent 10-K, which contain important factors that could cause actual results to differ materially from the forward-looking statements.
+
+And now to comments from Qualcomm's President and Chief Executive Officer, Cristiano Amon.
+
+Cristiano R. Amon{BIO 3259554 <GO>}
+Thank you, Mauricio, and good afternoon everyone. Thanks for joining us today. As the pace of digital transformation of industries accelerates and as devices become connected and more intelligent, our broad portfolio of technologies and solutions is creating a significant long-term growth opportunity for us.
+
+As you can see from our results. the performance in our chipset business led to record fiscal fourth quarter non-GAAP revenues of $9.3 billion and record non-GAAP earnings per share of $2.55. Notably, this is our fifth consecutive quarter of greater than 100% year-over-year EBITDA growth in our chipset business. We also demonstrated revenue diversification with combined RF front-end, automotive and IoT fiscal 2021 revenues exceeding $10 billion, an increase of 69% year-over-year.
+
+Going forward, our chipset business represents the largest growth engine for us as virtually all devices at the edge adopt mobile technologies. We have the relevant technologies required to continue to lead in mobile and the connected intelligent edge. And as the edge gain scale in connectivity and adopt own device artificial intelligence, we're well positioned to become a leader in AI processing.
+
+Let me now briefly highlight the strong momentum we continue to see in IoT across consumer, edge networking and industrial. In consumer, we're pleased that our XR platforms are powering over 50 commercial devices and gaining scale with the leading VR and AR ecosystems. Our early investments have established Snapdragon XR as a device platform of choice for connecting physical and digital spaces and recent market developments position us as one of the key enablers of the metaverse opportunity.
+
+Additionally, the ongoing conversions of mobile and compute continues to drive demand for Snapdragon power premium tablets, 2-in-ones and laptops. We are pleased with the strong market validation of ARM-based personal computing and the industry transition to a new SOC architecture. We are more confident than ever in the connected computing opportunity, our upcoming solutions powered by our NUVIA CPUs and our collaboration with Microsoft.
+
+We're also seeing increased traction in consumer electronics. Our advanced technologies are powering category-leading devices such as the Peloton Bike plus and Tread as well as the ASTRO, Amazon's recently announced household robot. In Edge networking, we are a leader in current and next generation high performance Wi-Fi 6 and Wi-Fi 6E access point solutions and we continue to see high demand for our products driven by home and enterprise upgrade cycles. We expect this trend to continue as productivity increasingly requires video collaboration as well as cloud processing and storage.
+
+5G as wireless fiber is now a reality and gaining scale. In the United States, Verizon recently announced 5G home Internet service availability in 57 markets, including more than 2 million households covered on millimeter wave. In addition, T-Mobile is leveraging their 5G network to target 7 to 8 million home broadband customers over the next five years, we're seeing demand increase globally, making 5G as wireless fiber, one of the fastest growing last mile broadband technologies.
+
+In industrial, wWe have expanded our Qualcomm IoT Services suites to more than 30 verticals. As an example, in retail, our solutions are powering digital signage, payment, and self checkout devices from companies like Square and Clover as well as solutions from Honeywell, Panasonic, Zebra and others to enable new customer experiences, help empower store associates and improve operational efficiencies.
+
+We also continue to lead the way on product innovation, with new launches like the Qualcomm Flight RB5, the world's first 5G AI drone platform. In RF front-end, we expanded our product portfolio with our recently announced ultraBAW RF filter technology that support frequencies from 2.7 gigahertz to 7.2 gigahertz. This is the new industry benchmark for performance in this range.
+
+UltraBAW technology also supports Wi-Fi bands including 5 gigahertz, the newly adopted 6 gigahertz band for Wi-Fi 6E and future Wi-Fi standards. This creates a new growth vector for RF front end as we attach RF solutions to Wi-Fi. Our RF front-end portfolio combining ultraSAW and ultraBAW technologies is now best-in-class form 600 megahertz to 7 gigahertz. And with the addition of millimeter wave, we are the only RF front end provider with a comprehensive solution for all bands.
+
+As cellular expands beyond handsets, we're focused on extending our modem-to-antenna platform to automotive and IoT. In automotive, we're creating a leading horizontal and open platform with our Snapdragon digital chassis, which includes our telematics, digital cockpit, Car to Cloud Service, ADAS and autonomy solutions. Taking the same approach we used to make the smartphone, the world's largest computing and developer platform, we're currently working with automakers and Tier ones to create a joint roadmap to build a multi-tier multi-generation scalable and upgradable platform for long-term sustainable business.
+
+The strength of our digital chassis strategy is reflected in both our results as well as strong design pipeline and this is creating a platform for innovation for Qualcomm.
+
+We are also very excited about Arriver. Upon closing, Snapdragon Ride ADAS solutions will be complemented with Arriver's computer vision, drive policy and driver assist assets, enhancing our ability to deliver an open and competitive ADAS platform for automakers and Tier ones at scale.
+
+In handsets, were successfully executing on our strategy. Our premium tier Snapdragon solutions continue to gain traction with OEMs. In fiscal Q4, devices announced or shipped with our Snapdragon premium tier products increased by 21% year-over-year. Notably, all leading 5G Android smartphones OEMs by volume continue to power their flagship devices with Snapdragon.
+
+Snapdragon continues to be the preferred choice for premium and high-tier Android smartphones in all regions. As a result, we're benefiting from the changing OEM landscape and Android SAM expansion. Lastly, our licensing business achieved fiscal 21 revenues in excess of $6.3 billion. QTL remains the most successful licensing business in the industry, reflecting the strength of our innovation in cellular technology, the value of our extensive patent portfolio and our execution in securing long-term agreements with key OEMs, as well as over 150 5G agreements to date.
+
+As we have noted throughout the year, we continue to see incredibly strong demand across all our technologies as the current environment is a seller rating the scale of connectivity and processing at the edge. We still expect material improvement store supply by the end of the calendar year. And our second sourcing initiatives remain on track
+
+Before I turn the call over to Akash, I would like to highlight that we recently announced a goal to achieve net zero global emissions for scopes. 1, 2 and 3, by 2040. We also look forward to enabling a more sustainable future with 5G to its impact on greenhouse gas emissions reduction, energy and water use optimization, green Jobs creation and more.
+
+I would now like to turn the call over to Akash.
+
+Akash Palkhiwala{BIO 19085180 <GO>}
+Thank you. Cristiano and good afternoon everyone. We are pleased to announce record 4th fiscal quarter results with non-GAAP revenues of $3 billion and non-GAAP EPS of $2.55, reflecting year-over-year growth of 40% and 6% respectively. For QCT, this was another record quarter with revenues of $7.7 billion and EBT margin of 32% both above the high end of our guidance. QCT EBT of $2.5 billion grew by 143% versus the year ago quarter on revenue growth of 56% and 12 points of EBITDA margin expansion
+
+We also delivered record revenues in each of QCT revenue streams; handsets, RF front-end, IoT and automotive. Handset revenues of $4.7 billion increased 56% year-over-year on strong demand across all major OEMs. RF front end revenues of $1.2 billion grew 45% year-over-year and included the benefit of pulling of demand in advance of certain holiday launches.
+
+IoT revenues were up 66% year-over-year to $1.5 billion as digital transformation continues to drive higher demand across our diversified customer base. Automotive revenues of $270 million grew 44% year-over-year on the ramp of digital cockpit launches and continued strength in telematics. QTL revenues of $1.6 billion and EBT margins of 72% were in line with guidance. These results reflect slightly lower than expected units offset by favorable mix.
+
+Lastly, we delivered GAAP EPS of $2.45, $0.47 above the high end of our guidance, driven by record non-GAAP earnings and approximately $500 million of gains in our QSI investment portfolio.
+
+Now, I would like to highlight some key achievements in fiscal 2021. We are exceeding all targets we set at our 2019 Analyst Day, which is a year earlier than forecasted. We delivered year-over-year revenue growth of 26% in QTL and 60% in QCT and more than doubled non-GAAP EPS to $8.54. In QCT we had greater than 50% year-over-year growth in each of our revenue streams and EBT margins expanded from 17% in fiscal 2020 to 29% in fiscal 2021.
+
+Within handsets, our Android revenues for our Snapdragon chipsets were approximately 40% higher than our primary competitor. With our focus on diversification, RF front-end, automotive and IoT accounted for 38% of total QCT revenues. Lastly, we returned 70% of our free cash flow to stockholders, including $3 billion in dividends and $3.4 billion in stock repurchases.
+
+Turning to our guidance for handset units in the first fiscal quarter. For calendar 2021, we are narrowing the range for 5G handsets 500 to 550 million units. We are now forecasting mid to high single-digit growth in global 3G, 4G, 5G handsets relative to calendar 2020. For fiscal quarter, we are forecasting revenues of $10 billion to $10.8 billion and non-GAAP EPS of $2.90 to $3.10.
+
+In QCT, we expect revenues of $8.4 billion to 8.9 billion dollars and EBT margins of 32% to 34%. At he midpoint, this implies year-over-year revenue growth of 32% and EBT dollar growth of 49%. The sequential revenue growth is driven by handsets due to higher demand primarily for our Snapdragon chipsets in Android devices. Following the record performance in the 4th quarter, we expect non-handset revenues to remain in line sequentially.
+
+Consistent with our previous guidance, we expect QTL revenues of $1.6 billion to $1.8 billion and EBT margins of 74% to 78%. This forecast assumes sequential unit growth in line with historical trends. Lastly, we anticipate non-GAAP combined R&D and SG&A expenses to decrease to 2%, 3% sequentially. As a reminder, operating expenses are typically higher in the second fiscal quarter as it includes calendar year resets for certain employee-related costs.
+
+Looking forward, fiscal 22 will be another exciting year for Qualcomm with year-over-year EPS growth expected to exceed 20% driven by strength across all QCT revenue streams. In handsets, we are positioned to benefit from the 10 billion SAM expansion due to the changing OEM landscape. A portion of this benefit is reflected in our first quarter guidance. And we also expected to contribute to the rest of fiscal 2022.
+
+Before I finish my prepared remarks, I would like to thank our employees for their leadership and contributions in making 2021 successful. Finally, we look forward to seeing you at our Investor Day on November 16, where we will provide additional detail about our growth strategy.
+
+Thank you, and I'll now turn the call back to Mauricio
+
+Mauricio Lopez-Hodoyan{BIO 20932685 <GO>}
+Thank you, Akash. Operator, we're now ready for questions.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question comes from Chris Caso with Raymond James. Please proceed with your question.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Yes, thank you. Good evening. My first question, perhaps you could help us out with what was different from your expectations heading into this quarter. I know that you were struggling with supply constraints like everyone else in the industry. Was it -- that supply came on a better than you expected? Was it the demand? Was it a combination of both?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yeah. Hi, Chris. This is Akash. It was really a combination of both. We were -- we have lots of strength in QCT, really across all of our revenue streams with handsets, IoT and RF front-end. Those are the 3 areas that did really well relative to our expectations and we were able to work through the supply constraints to address the demand that came up. So it was really a combination of both.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Great. And maybe you could expand on your comments. You spoke about and I think I have this right, EPS growth expected to exceed 20% as you go into next year. Can you give us some details? I'm sure that's something that you're planning on hitting as you know, at the Analyst Day.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yeah, absolutely, I mean it's -- just to clarify, what we guided is non-GAAP EPS growth of greater than 20% and the key driver for that is really across all QCT revenue stream. So you're seeing the strength exiting the year and that's the strength that's going to playing out both in our first quarter guidance and also the full year.
+
+The one thing I'll highlight is within handsets, we're really in a strong position to benefit from the $10 billion SAM expansion we have previously discussed from the changing OEM landscape. And a portion of this benefit is reflected in our first quarter guidance and that's -- that's also contemplated in the greater than 20% EPS growth we are suggesting. Given that, we expect handsets to grow faster than non-handset in fiscal 2022, but really across the board, we will have very strong growth rates and really set up to do well in the year and beyond.
+
+Operator
+Thank you. Our next question is coming from the line of Matt Ramsay with Cowen. Please proceed with your question.
+
+Q - Matthew D. Ramsay{BIO 17978411 <GO>}
+Yes, thank you very much. Good afternoon, guys and congrats on the results. Cristiano, I wanted to dig a little bit with you into the guidance for the December quarter in QCT. I think you guys mentioned in the script that that was primarily going to be driven by your Android business and increased supply. So I just wanted to make sure that I got that right. Obviously, that's a seasonally strong quarter for -- for Cupertino, but I just wanted to dig a little bit more into the dynamics that are driving the fourth quarter and Android. Thank you.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+No, thanks, Matt, for the question. Look, I think what you're starting to see exactly, the correlation is going to different directions. You're correct, is a seasonally strong quarter for our modem only shipments, but the sequential revenue growth is primarily driven by Android handsets and demand for Snapdragon Mobile Platforms, both across premium and high tier and consistent while we said, we see an incredible opportunity to grow way faster than the market and Android is the primarily growth driver in our handset business right now.
+
+Q - Matthew D. Ramsay{BIO 17978411 <GO>}
+Very clear. Thank you. Cautious, my follow-up 33% QCT op margins in the December quarter. Obviously, there was a settlement with Apple and some things changed there, but that number I think was 13% two years ago, so I guess it's pretty remarkable progress.
+
+I wonder if you might talk a little bit more and maybe this is something for a couple of weeks from now at the Analyst Day. But the puts and takes and drivers of the QCT op margin going forward and where are we -- is this a seasonal peak or is this a new trend? Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Matt, thanks for the question. Yeah, we are very pleased by the operating margin performance as well. So maybe I'll point to a couple of drivers, but really we are planning to address this in a lot more detail in a couple of weeks. So I'll ask you to hold till then. If you see our gross margin performance in the September quarter that we just reported, very strong gross margins and we are forecasting a similar range going into the December quarter.
+
+And then year-over-year, if you look at the full year, so abstract back from the seasonality, we went from 17% in fiscal 2020 to 29% in fiscal 2021. And so, we feel obviously very comfortable with that number and in a couple of weeks, we'll talk about how the combination of revenue growth and gross margin percentage and R&D leverage will take us going forward.
+
+Operator
+Thank you. Our next question comes from the line of Samik Chatterjee with JP Morgan. Please proceed with your question.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Thank you. Hi, thanks for taking my question. I guess Cristiano or Akash, both of you're sounding great on Android adoption of your premium chipsets going into the December quarter. I just wanted to kind of see if I can get some more color about how you thinking about adoption of millimeter wave with the Android customers. I know there has been some investor conversation or disappointment around the primary customer not deploying or more widely rolling out millimeter wave this year. So just wanted to get kind of what you're seeing in the pipeline relative to millimeter wave and how our Android customers sounding about that and I have a follow-up.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Hi Samik. Thanks for asking the question. Our position in millimeter wave remains unchanged. And we will remain unchanged. There are two, I think, answer to your question. The first one is continue to direct exactly as we'd expected. We have millimeter wave in United States, It is now commercially available in Japan across all carriers, Docomo, Softbank, KDDI, even the new carrier Rakuten. And we continue to be optimistic about the opportunity of millimeter wave becoming commercial over time in China. The first first milestone is to millimeter wave for the Winter Olympics early 2022.
+
+Japan is moving forward with millimeter wave and nothing has changed the carriers plans to continue to build this technology and there are a number of commercial millimeter wave smartphones in your plan that's include the Galaxy Note, the GS21 and Galaxy Fold and Sony. And from our perspective, just knowing what we know of wireless, and how the growth of the data is going in the spectrum efficiency, millimeter wave is inevitable. it's just a matter of time and it's just different markets will deploy at different speeds, but that's how we get more spectrum and our position in millimeter wave remains unchanged.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Thank you. For my follow-up, if I can ask you about Arriver. We've got some investors asking about how to think about the opportunity with the Arriver and how should we think about OEM customers that are looking for a full stack solution versus OEMs that look for more of like just the hardware piece of that stack and leveraging Qualcomm from that aspect. And then if you can provide any updates. I think you've updated us on the purchase price along with SSA partners but any more details around the closing as well as the price for Qualcomm standalone for the Arriver asset.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Yeah, we're very excited about the Veoneer acquisition and Arriver technology, as we said before, the natural owners of that asset. We believe we're on track to get the ability to get all the approvals and close on this transaction and more important, as we had a business cooperation in place with Veoneer prior to the acquisition. That remains unchanged and allow us to continue to progress towards our ADAS platform. We're getting incredibly positive feedback from the market from the ability to provide truly open horizontal platform for ADAS. And I highly in encourage you to be at our New York Analyst Day. We have a lot more details to provide about what we're doing in ADAS and autonomy.
+
+Operator
+Thank you. Our next question is coming from the line of Stacy Rasgon with Bernstein Research. Please proceed with your question.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi guys, thanks for taking my questions. So my first one, I was curious given the current state of the handset market, what kind of handset growth you have embedded in your more than 20% EPS forecast for 202?. Are you looking for recovery or is it all around, content, like how we're thinking about our unit growth in the market to drive that?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. Stacy for the guidance that we gave, there are no heroic assumptions on market growth. We are assuming similar scale to this year. And within that, we feel comfortable that we have the opportunities in front of us to grow.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+But it's also still like mid to high single-digit?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+That's right.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. Thank you. For my follow-up, I know you've had supply issues. I know they're resolving by the end of the calendar year. Are you still under shipping what you could ship if you had supply and is that supply users up, does that have any impact on how we might think about typical seasonality in the March quarter?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yeah. Stacy it's Akash. So we do have constraints really across the board. And you have to figure out how the demand would have played out there was supply across the industry, but we feel pretty comfortable that the overall supply picture is playing out exactly as we had planned. We saw this coming early and we've been talking about it for the last couple of quarters and we've put in place plans both for dual sourcing for certain parts. We've now announced three parts that are dual sourced that are available and then also capacity expansions with our suppliers that were previously being planned anyways come in towards the end of the year. So that's definitely something that we are very excited about.
+
+On your question on the second quarter, we are obviously not guiding the quarter at this point, but it's a reasonable assumption to think that as we launch our new Android premium tier chip in the first quarter of the calendar year, that will offset some of the decline, you would see in the handset market naturally within QCT and then of course, we also expect non-handset to grow from first quarter to second quarter.
+
+Operator
+Thank you. Our next question comes from the line of Tal Liani with Bank of America. Please proceed with your question.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Hi guys. I have two questions. I'll just ask them together. What is -- what are the trends in China, meaning the handset market is weakening and we heard it throughout the quarter and on the other hand, there is Huawei share loss and your share gains. So I'm wondering if you can share with us kind of the trends within China and your outlook for the market.
+
+And the second question is not related, but it's the second question, I'm getting from investors, which is, you always say that the -- when Apple starts using their modems the surface area of Apple is big and there are other opportunities. Can you elaborate what are the other opportunities? what are the -- maybe give a scenario -- what are the scenarios that you can still manage the transition of Apple using their own modem. Thanks
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Tal it's Akash. I'll take the first one and Cristiano will address the second one. So what we saw in the September quarter and the market was weakness in units in China and emerging markets but developed markets volume remained very resilient. So that's really the, jumping-off point for the December quarter. We are forecasting normal seasonality on top of what we saw in September.
+
+I'll say that a portion of the weakness was driven by supply imbalances at certain OEMs and so that did impact the demand to certain extent, but that's one of the key factors we saw happening. Within the market though, 5G continues to be very strong. So we are seeing two trends in China.
+
+First is the transition to 5G kind of, there is a variance month to month but very, very strong in the high 70% percent has already transition to 5G. And so, we are raising the guidance, the midpoint of the guidance for 5G to now 525 million units. And then within that, we're also seeing higher tier of devices, so Oppo, Vivo, Xiaomi, Honor, all of our customers are moving up tier and as they move up tier that creates an incremental opportunity for us. So, pretty positive market trends for us
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+So I'm just going to answer the second question. So Tal, the second question, we are very focused right now on our contract with Apple, which is focus and provide a modem for their products. We're very happy with the relationship, but anything beyond our contract with them is an upside to our model.
+
+And as I continue to say what I said before, we have a lot of technologies. They have a large number of devices. And if there are opportunities, we'll be very happy to engage with them and supply. I just don't want to speculate at this point and we've been very clear that our assumptions in our model is just focus on our contract. Everything else is upside
+
+Operator
+Our next question is coming from the line of Ross Seymore with Deutsche Bank. Please proceed with your question.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Hi guys, thanks for letting me ask the question. Congrats on the strong results and guide. Akash or Cristiano, just wanted to talk a little bit about the pairing of the handset in the RF side of things. I know you said that there was a little bit of a pull-in into your fiscal 4th quarter on the RF side of things, but with the Android market share gains that you're talking about heading into the December quarter, why is the RF side not coming along for that ride and is that pairing something that it's just a transition period. And as we look further out, those are going to be more linked together.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Ross, it's Akash. it's the exactly the right question. We expect the two to move together in concert as I mentioned in my prepared remarks, and that's why we highlighted it. We did see some pull-in from December quarter to September quarter within RF front-end and it was really where supply was available, our customers chose to take it sooner than receiving the chipset. And if you normalize for it, the two would have moved together. So we definitely see the growth in the Android opportunity as a tremendous growth vector for us within RF front-end as well.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Thanks for that color. I guess --
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Just to be crystal clear, all of this growth opportunity that we've seen in Android, especially premium high, is coming with RF. I want to make that statement clear.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Okay. Thank you for that, Cristiano. I guess as my follow-up if I talk about QCT ex handsets and ex-RF front-end, it sounds like it costs you so those would be relatively flat in December. But then you thought it would actually grow again in March. What's going on in those markets. And then I guess the higher level question is given the supply constraints, there is a big debate going on and broad-based SMEs between investors worried about increased selectivity from customers, change in behaviors. Are you seeing some digestion period here? Why is it slowing and then why is it re-accelerating?
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Yeah, so as you saw we had tremendously strong results, both in auto and IoT and record results in both in the 4th fiscal quarter. You're right, going into the first quarter, we are forecasting in line sequentially. And one of the key factors there is still. We are supply constrained and we are making certain decisions given this strong handset market in that quarter to allocate supply a little differently based on profitability. But really, when you think about the raw demand from the customer continues to be very strong. And so we are confident that when you look at second fiscal quarter or look at fiscal 2021 going to fiscal 2022, both those businesses will grow in a very strong fashion.
+
+Operator
+Our next question is coming from the line of Joe Moore with Morgan Stanley. Please proceed with your question.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great, thank you. I wonder if you could just talk about the overall supply chain and smartphone and are you seeing bottlenecks at some of your customers where they're unable to procure parts that are from Qualcomm that might lead to inventory build-up of Qualcomm parts. It seems like overall the handset sell-through numbers are a little weaker because of those constraints, but it doesn't seem like the supply chain has changed at all. Can you just describe that dynamic?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Sure. Joe. So we are definitely seeing some mismatch of parts in the short term at some of our customers. But you should think of those as really timing issues. The other thing to keep in mind is as Cristiano outlined earlier in the call that we are focusing really on the premium and high-tier units. And so when our customers have supply mismatch, they actually end up supplying the premium and high tier devices. So our chips and our devices are still being used and it's not something that's a big factor for us in the short term.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Okay, great, thank you very much.
+
+Operator
+Thank you. Our next question comes from Rod Hall with Goldman Sachs. Please proceed with your question.
+
+Q - Rod Hall{BIO 20453923 <GO>}
+Yeah, thanks for the question. I wanted to come back to this idea of supply versus demand in the Q1 quarter. I had heard earlier -- I think someone mentioned that they were assuming that that supply would be meeting demand, but it seems -- I just wanted to check that with you. Is that a good assumption or do you think that we'd see supply continuing to rise to meet demand on into the fiscal Q2 and then I have a follow-up.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Hi Rod. This is Cristiano. Look, if you remember, we have said, if I believe, two earnings calls ago that we had put -- we act early, we put a lot of things in place, multi-sourcing, capacity expansions and we said that we expect to see material improvement in our supply towards the end of the calendar year. That's reflected in the Q1 guide, our ability to have supply.
+
+We. We continue to have pockets of areas that we would ship more if we had more, but we see a lot of improvements we see in at least three announced products of multi-sourcing have been shipped and we've been executing on that increased supply and different companies are going to have different outlooks. We look at the first half of 2022. We still have some shortage. But as we get to the second part of the year, I think in general, supply and demand are going to be aligned.
+
+Q - Rod Hall{BIO 20453923 <GO>}
+Yeah. Just, I guess my question was just saying that the idea that this seems like it could continue to be a little bit of a tailwind for you as you move into the beginning of next year. And it's not just magically resolve here at the end of this year.
+
+My follow-up is regarding the Android opportunity. I wonder if you guys could comment on content there versus the other big high-end handset maker you supply. We calculate a substantial increase in concept, but I'm just curious if you agree with that. If you sell the high-end Android phone in January, that phone going to have materially more content for you than an other type of might.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Absolutely. Look, we are very pleased with the strength of our Snapdragon 800 series. The Snapdragon 800 series became synonymous with premium Android flagship smartphones. There's a lot more silicon content besides the RF Front-End of attach the modem. There's GPU, there's CPU. There's all the multimedia and it's a lot more richer platform than just selling a modem and its multiple times in terms of revenue and earnings contribution. And when we look of the SAM available to us, when we look at the consolidation of for Snapdragon 800 being the chipset for every flagship, that's no surprise that we actually grow faster in the Android segment.
+
+Operator
+Thank you. Our next question is coming from the line of Harsh Kumar with Piper Sandler. Please proceed with your question.
+
+Q - Harsh Kumar{BIO 3235392 <GO>}
+Yeah, hey guys. First of all, congratulations on tremendous execution and diversification. I had a question, Cristiano, you talked a lot about Android and how positive you are on that. I know you were supposed to get additional supply in the December quarter. You seem to be benefiting from units. Are you benefiting from units primarily or are you also going back and taking share that you were expecting to take from your competitors?
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Look, there's plenty of opportunity with the changing landscape for growth between us and our competitors. I think what's important to highlight is that Qualcomm has been concentrated into premium and high. There's very high demand for premium and high Snapdragon Mobile Platforms both the 700-800, and it is a share gain of Snapdragon in Android premium and we're very happy with the opportunity to capture actually the higher value share of the market.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+And then maybe, Harsh, to add to that. I'll just draw your attention to product announcements that we had a couple of weeks ago where we announced a whole new set off 5G products across tiers.
+
+Q - Harsh Kumar{BIO 3235392 <GO>}
+Great, guys. And for my follow-up. I wanted to follow up on the question that was asked about the March quarter. You talked about some benefit coming from your premium chips that you'll be launching in the March timeframe, which are seasonally weak. Now Apple for one talked about leaving, I think it was over $6 billion plus worth of revenues behind on the table.
+
+Do you think you might get a benefit from all the handset OEMs that are leaving revenue behind on the table along with the premium or you think it's just again your own chipsets that are getting benefit from the launching new chipsets?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+What I said about the March quarter was really, you have a seasonal decline in the handset market. But given the launch of our new chipset and really all the other chipset launches we've done over the last month, we feel like we will be in a very strong position to expand our units within the Android market. And then the second thing I said is non-handset growth, we expect non-handsets all three to grow within the quarter as well.
+
+Operator
+Thank you. Our final question is coming from the line of Timothy Arcuri with UBS. Please proceed with your question.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. I have two questions. The first, Akash, was on the RF business. I think you said at the Analyst Day that you were targeting more than 20% share of and $18 billion TAM next year, but you're now annualizing to almost $5 billion. So either the markets a lot bigger or your shares a lot higher. So can you just comment on that. And then secondly, I had a question on the contract with the big customer. Can you just level set us -- Cristiano you just alluded to it. So can you level set us? I think it goes through 2024, but can you just help us on the timing of that? Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+So, Tim on the, on your first question on the map. $3.6 billion is right and we are reported results at $4.1 billion, I think. So we've definitely exceeded the target we had set. And and as Cristiano said earlier in the conversation, we are very confident that we have several more vectors of growth left in the RF business, not just within handsets, but also as 5G expands into telematics and IoT and then also within Wi-Fi. So yeah, there are some ways to go and will definitely plan to address that at Analyst Day in a couple of weeks.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Hi, Tim. It's Cristiano. The only thing we can disclose is what we disclosed before. It is a long-term agreement and it's a multi-year agreement. We unfortunately cannot say anything more than that.
+
+Operator
+Thank you. That concludes today's question-and-answer session. Mr. Amon, do you have anything further to add before adjourning the call?
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Thanks everyone for joining us on the call today. We are at the intersection of key trends there are celebrating edge connectivity, efficient processing and own device Artificial Intelligence. This is driving demand for industry leading road map of relevant technologies, creating a significant opportunity for growth and continued diversification
+
+In addition to driving the mobile industry to 5G, we will powered the connected intelligent edge. I look forward to outlining our strategy and vision for the future at Investor Day on November 16 and sharing our next generation Snapdragon platforms at our Annual Tech Summit in December.
+
+I also want to take a moment to thank our employees for an incredible fiscal year. They are truly the best of Qualcomm and there is no better time to be part of this great company.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. You may now disconnect.

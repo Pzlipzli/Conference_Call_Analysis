@@ -1,0 +1,592 @@
+Q1 2024 Earnings Call
+Company Participants
+Ashok Elluswamy, Director, Autopilot Software
+Elon Musk, Chief Executive Officer
+Karn Budhiraj, Vice President, Supply Chain
+Lars Moravy, Vice President, Vehicle Engineering
+Martin Viecha, Senior Director for Investor Relations
+Unidentified Speaker
+Vaibhav Taneja, Chief Financial Officer
+Other Participants
+Adam Jonas, Morgan Stanley
+Alexander Potter, Piper Sandler
+Colin Rusch, Oppenheimer
+George Gianarikas, Canaccord Genuity
+Mark Delaney, Goldman Sachs
+Shreyas Patil, Wolfe Research
+Toni Sacconaghi, Sanford C. Bernstein
+Presentation
+Martin Viecha{BIO 17153377 <GO>}
+(Call starts abruptly) First Quarter 2024 Q&A Webcast. My name is Martin Viecha, VP of Investor Relations and I'm joined today by Elon Musk, Vaibhav Taneja, and a number of other executives. Our Q1 results were announced at about 3 p.m. Central Time in the update deck we published at the same link as this webcast.
+
+During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events and results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue. But before we jump into Q&A, Elon has some opening remarks. Elon?
+
+Elon Musk{BIO 1954518 <GO>}
+Thanks, Martin. So to recap, in Q1, we navigated several unforeseen challenges as well as the ramp of the updated Model 3 in Fremont. There was -- as people have seen, the EV adoption rate globally is under pressure, and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead. We believe this is not the right strategy, and electric vehicles will ultimately dominate the market.
+
+Despite these challenges, the Tesla team did a great job executing in a tough environment, and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business. And that looks likely to continue to increase in the quarters and years ahead. It will increase, we actually know that it will. So significantly faster than the car business, as we expected.
+
+We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially. In terms of the new product roadmap, there's been a lot of talk about our upcoming vehicle line in the past several weeks. We've updated our future vehicle lineup to accelerate the launch of new models ahead. I previously mentioned start of production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+
+These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to be produced on the same manufacturing lines as our current vehicle lineup. So it's not contingent on any new factory or massive new production line, it'll be made on our current production lines much more efficiently. And we think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+
+Regarding FSD Version 12, which is the pure AI-based self-driving vehicle, if you haven't experienced this, I strongly urge you to try it out. It's profound, and the rate of improvement is rapid. So -- and we've now turned that on for all cars with the cameras and inference computer, everything from Hardware 3 on in North America. So it's been pushed out to I think around 1.8 million vehicles, and we're seeing about half of people use it so far, and that percentage is increasing with each passing week.
+
+So we now have over 300 billion miles that have been driven with FSD V12. Since the launch of full self-driving -- supervised full self-driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy. It's really how humans drive. Our entire road network is designed for biological neural nets and eyes. So naturally, cameras and digital neural nets are the solution to our current road system. To make it more accessible, we've reduced the subscription price to $99 a month, so it's easy to try out. And as we've announced, we'll be showcasing our purpose-built robotaxi or Cybercab in August.
+
+Yes. Regarding AI compute, over the past few months, we've been actively working on expanding Tesla's core AI infrastructure. For a while there, we were training-constrained in our progress. We are, at this point, no longer training-constrained, and so we're making rapid progress. We've installed and commissioned, meaning they're actually working, 35,000 H100 computers or GPUs -- GPU is the wrong word, they need a new word. I always feel like a wince when I say GPU because it's not GPU stands -- G stands for graphics, and it doesn't do graphics.
+
+But anyway, roughly 35,000 H100s are active, and we expect that to be probably 85,000 or thereabouts by the end of this year; and training, just for training. We are making sure that we're being as efficient as possible in our training. It's not just about the number of H100s, but how efficiently they're used.
+
+So in conclusion, we're super excited about our autonomy roadmap. I think it should be obvious to anyone who's driving a Version 12 in a Tesla that it is only a matter of time before we exceed the reliability of humans, and not much time at that. And we're really headed for an electric vehicle, an autonomous future.
+
+And I'll go back to something I said several years ago, that in the future, gasoline cars that are not autonomous will be like riding a horse and using a flip phone, and that will become very obvious in hindsight. We continue to make the necessary investments that will drive growth and profits for Tesla in the future. And I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead. Thanks.
+
+Martin Viecha{BIO 17153377 <GO>}
+Thank you very much. And Vaibhav has some comments as well.
+
+Vaibhav Taneja{BIO 20985733 <GO>}
+Thanks. It's important to acknowledge what Elon said from our auto business perspective. We did see a decline in revenues quarter-over-quarter, and those were primarily because of seasonality, uncertain macroeconomic environment, and the other reasons which Elon had mentioned earlier. Auto margins declined from 18.9% to 18.5%, excluding the impact of Cybertruck. The impact of pricing actions was largely offset by reductions in per unit cost and the recognition of revenue from Autopark feature for certain vehicles in the U.S. that previously did not have that functionality.
+
+Additionally, while we did experience higher cost due to the ramp of Model 3 in Fremont and disruptions in Berlin, these costs were largely offset by cost reduction initiatives. In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark -- auto margins improved slightly. Currently, normalized Model Y cost per vehicle in Austin and Berlin are already very close to that of Fremont.
+
+Our ability to reduce costs without sacrificing on quality was due to the amazing efforts of the team in executing Tesla's relentless pursuit of efficiency across the business. We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us. Obviously, seeing others pull back from EV is not the future we want. We would prefer if the whole industry went all in.
+
+On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD, launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month, and offering attractive financing options in certain markets. We believe that our awareness activities, paired with attractive financing, will go a long way in expanding our reach and driving demand for our products.
+
+Our energy business continues to make meaningful progress with margins reaching a record of 24.6%. We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023. And accordingly, this business will begin contributing significantly to our overall profitability. Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control. So deployments may fluctuate quarter-over-quarter.
+
+On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing and other activities. We had negative free cash flow of $2.5 billion in the first quarter. The primary driver of this was an increase in inventory from a mismatch between builds and deliveries, as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute. We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+
+As we prepare the company for the next phase of growth, we had to make the hard but necessary decision to reduce our headcount by over 10%. The savings generated are expected to be well in excess of $1 billion on an annual run rate basis. We are also getting hyper-focused on CapEx efficiency and utilizing our installed capacity in a more efficient manner. The savings from these initiatives, including our cost reductions, will help improve our overall profitability, and ultimately, enable us to increase the scale of our investments in AI.
+
+In conclusion, the future is extremely bright, and the journey to get there, while challenging, will be extremely rewarding. Once again, I would like to thank the whole Tesla team for delivering great results, and we can open it up to Q&A.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. Okay, let's start with investor Q&A. The first question is what is the status of 4680? What is the current output? Lars?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Sure. 4680 production increased about 18%, 20% over -- from Q4, reaching greater than 1,000 a week for Cybertruck, which is about 7-gigawatt hours per year, as we posted on X. We expect to stay ahead of the Cybertruck ramp with the cell production throughout Q2, as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp. Because we're ramping, COGS continues to drop rapidly week over week, driven by yield improvements throughout the lines, and production volume increases. So our goal, and we expect to do this, is to beat supplier costs of nickel-based cells by the end of the year.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The second question is on Optimus. So what is the current status of Optimus? Are they currently performing any factory tasks? When do you expect to start mass production?
+
+A - Elon Musk{BIO 1954518 <GO>}
+We are able to do simple factory tasks, or at least, I should say, factory tasks, in the lab. The -- in terms of actually -- we do think we will have Optimus in limited production in the factory, in the actual factory itself, doing useful tasks before the end of this year. And then I think we may be able to sell it externally by the end of next year. These are just guesses. As I've said before, I think Optimus will be more valuable than everything else combined, because if you've got a sentient humanoid robot that is able to navigate reality and do tasks at request, there is no meaningful limit to the size of the economy. So that's what's going to happen.
+
+And I think Tesla is best positioned of any humanoid robot maker to be able to reach volume production with efficient inference on the robot itself. I mean, this perhaps is a point that is worth emphasizing. Tesla's AI inference efficiency is vastly better than anyone -- any other company. Look, there's no company even close to the inference efficiency of Tesla. We've had to do that because we were constrained by the inference hardware in the car. We didn't have a choice. But that will pay dividends in many ways.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The third question is, what is Tesla's current assessment of the pathway towards regulatory approval for unsupervised FSD in the U.S.? And how should we think about the appropriate safety threshold compared to human drivers?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+I can start. There are a handful of states that already have adopted autonomous vehicle laws. These states are paving the way for operations, while the data for such operations guides a broader adoption of driverless vehicles. I think Ashok can talk a little bit about our safety methodology, but I expect that these states and the work ongoing, as well as the data that we're providing, will pave the way for a broad-based regulatory approval in the U.S., at least, and then other countries as well.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. It's actually been pretty helpful that other autonomous car companies have been cutting a path through the regulatory jungle. But the -- which is sort of -- that's actually quite helpful. And they have obviously been operating in San Francisco for a while. I think they got approval for the city of L.A. So these approvals are happening rapidly.
+
+I think if you've got, at scale, a statistically significant amount of data that shows conclusively that the autonomous car has, let's say, half the accident rate of a human-driven car, I think that's difficult to ignore because at that point, stopping autonomy means killing people. So I actually do not think that there will be significant regulatory barriers, provided there is conclusive data that the autonomous car is safer than a human-driven car.
+
+And in my view, this will be much like elevators. Elevators used to be operated by a guy with a relay switch, but sometimes that guy would get tired or drunk or just make a mistake and shear somebody in half between floors. So now, we just get in an elevator and press a button, we don't think about it. In fact, it's kind of weird if somebody is standing there with a relay switch. That'll be how cars work. You just summon a car using your phone, you get in, it takes you to a destination. You get out.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+You don't even think about it.
+
+A - Elon Musk{BIO 1954518 <GO>}
+You don't even think about it, just like an elevator. It takes you to your floor. That's it. Don't think about how the elevator is working or anything like that. And something I should clarify is that Tesla will be operating the fleet. So you can think of like how Tesla -- think of Tesla like, I don't know, some combination of Airbnb and Uber, meaning that there'll be some number of cars that Tesla owns itself and operates in the fleet, there'll be some number of cars -- and then there'll be a bunch of cars where they're owned by the end user. But that end user can add or subtract their car to the fleet whenever they want. And they can decide if they want to only let the car be used by friends and family or only by five-star users or by anyone.
+
+At any time, they could have the car come back to them and be exclusively theirs, like an Airbnb. You could rent out your guest room or not, anytime you want. So as our fleet grows, we have 7 million cars going to 9 million cars going to eventually tens of millions of cars worldwide with a constant feedback loop. Every time something goes wrong, that gets added to the training data, and you get this training flywheel happening in the same way that Google Search has the sort of flywheel. It's very difficult to compete with Google because people are constantly doing searches and clicking, and Google is getting that feedback loop.
+
+It's the same with Tesla, but at a scale that is maybe difficult to comprehend, but ultimately, it'll be tens of millions. I think there's also some potential here for an AWS element down the road, where if we've got very powerful inference, because we've got a Hardware 3 in the cars, but now all cars are being made with Hardware 4. Hardware 5 is pretty much designed and should be in cars hopefully towards the end of next year. And there's a potential to have for the -- to run -- when the car is not moving, to actually run distributed inference. So kind of like AWS, but distributed inference, like, it takes a lot of computers to train an AI model, but many orders of magnitude less compute to run it.
+
+So if you can imagine future perhaps where there's a fleet of 100 million Teslas, and on average, they've got like maybe a kilowatt of inference compute, that's 100 gigawatts of inference compute distributed all around the world. It's pretty hard to put together 100 gigawatts of AI compute. And even in an autonomous future where the car is perhaps used -- instead of being used 10 hours a week is used 50 hours a week, that still leaves over a 100 hours a week where the car inference computer could be doing something else. And it seems like it would be a waste not to use it.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Ashok, do you want to chime in on the air process and safety?
+
+A - Ashok Elluswamy{BIO 22648673 <GO>}
+Yes, we have multiple tiers of validating the safety. In any given week, we train hundreds of neural networks that can produce different trajectories for how to drive the car. They play them through the millions of clips that we have already collected from our users and our own QA. Those are, like, critical events, like someone jumping out in front, or like, other critical events that we have gathered a database over many, many years. And we replay through all of them to make sure that we are net improving safety. And on top of it, we have simulation systems that also try to recreate this and test this in closed-loop fashion. Once all of this is validated, we give it to our own QA drivers. We have hundreds of them in different cities in San Francisco, Los Angeles, Austin, New York, a lot of different locations.
+
+They are also driving this and collecting real-world miles. And we have an estimate of what are the critical events. Are they a net improvement compared to the previous week's builds? And once we have confidence that the build is a net-net improvement, then we start shipping to early users, like 2,000 employees initially, that -- they would, like, get the build. They would give feedback on, like, if it's an improvement or are they would be noting some new issues that we did not capture in our own QA process. And only after all of this is validated, then we go to external customers. And even when we go external, we have, like, live dashboards of monitoring every critical event that's happening in the fleet, sorted by the criticality of it.
+
+So we are having a constant pulse on the build's quality and the safety improvement along the way. And then any failures like Elon alluded it to, you'd get the data back, add it to the training, and that improves the model in the next cycle. So we have this, like, constant feedback loop of issues, fixes, evaluations, and then rinse and repeat. And especially with the new V12 architecture, all of this is automatically improving without requiring much engineering interventions, in the sense that people -- engineers don't have to be creative in, like, how they code the algorithms. It's mostly learning on its own based on data.
+
+So you see that, okay, we fail here, or like, this is how -- a person shows this is how you drive this intersection or something like that. They get the data back, we add it to the neural network, and it learns from that trained data automatically, instead of some engineer saying that, oh, here, you must rotate the steering wheel by this much or something like that. There's no hard inference conditions, it's everything is -- neural network is very soft, it's probabilistic. And so it will adapt its probability distribution based on the new data that it's getting.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, and we do have some insight into how good the things will be in, like, let's say, three or four months, because we have advanced models that are far more capable than what is in the car, but have some issues with them that we need to fix. So they're like, there'll be a step change improvement in the capabilities of the car, but it'll have some quirks that need to be addressed in order to release it. As Ashok was saying, we have to be very careful in what we release to the fleet or to customers in general. So like, if we look at, say, 12.4 and 12.5, which really could arguably even be Version 13, Version 14, because it's pretty close to a total retrain of the neural nets in each case or substantially different. So we have good insight into where the model is -- how well the car will perform in, say, three or four months.
+
+A - Ashok Elluswamy{BIO 22648673 <GO>}
+Yes, in terms of scaling laws, people in the AI community generally talk about model scaling laws, where they increase the model size a lot, and then they have corresponding gains in performance. But we have also figured out scaling laws and other access. In addition to the model size scaling, we can also have data scaling. You can increase the amount of data you use to train the neural network, and that also gives similar gains. And you can also scale up by training compute. You can train it for much longer, and -- or like one more GPUs, or more Dojo nodes, and that also gives better performance.
+
+And you can also have architecture scaling, where you come up with better architectures that, for the same amount of compute, produce better results. So a combination of model size scaling, data scaling, training compute scaling and the architecture scaling, we can basically extract, like, okay, with the continuous scaling based on this ratio, we can sort of predict future performance. Obviously, it takes time to do the experiments because it takes, a few weeks to train. It takes a few weeks to collect tens of millions of video clips and process all of them, but you can estimate what's going to be the future progress based on the trends that we have seen in the past. And that's generally held true based on the past data.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, thank you very much. Let's go to the next question, which is can we get an official announcement of the timeline for the $25,000 vehicle?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+I think Elon mentioned it in the opening remarks, but as we mentioned, we're updating our future vehicle lineup to accelerate the launch of our low-cost vehicles in a more CapEx-efficient way. That's our mission, to get the most affordable cars to customers as fast as possible. These new vehicles we built on our existing lines and open capacity, and that's a major shift, to utilize all our capacity with marginal CapEx before we go spend high CapEx to do anything else.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, we'll talk about this more on August 8th. So -- but really the way to think of Tesla is almost entirely in terms of solving autonomy and being able to turn on that autonomy for a gigantic fleet. And I think it might be the biggest asset value appreciation in history when that thing happens, when you can do unsupervised full self-driving.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+5 million cars.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+A little less. (Multiple Speakers) yes.
+
+A - Elon Musk{BIO 1954518 <GO>}
+It'll be 7 million cars in a year or so. Yes. And then 10 million, and then eventually, we're talking about tens of millions of cars. Not eventually, it's like before the end of this decade. Yes, before the end of the decade it's several tens of millions of cars, I think.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is what is the progress of Cybertruck ramp?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+I can take that one too. Cybertruck hit 1,000 a week just a couple of weeks ago. This happened in the first four to five months since we SOP-ed late last year. Of course, volume production is what matters, that's what drives costs. And so our costs are dropping, but the ramp still faces like a lot of challenges with so many new technologies, some supplier limitations, et cetera, and we'll continue to ramp this year, just focusing on cost efficiency and quality.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, thank you. The next question, have any of the legacy automakers contacted Tesla about possibly licensing FSD in the future?
+
+A - Elon Musk{BIO 1954518 <GO>}
+We're in conversations with one major automaker regarding licensing FSD.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is about the robotaxi unveil. Elon already talked about that, so we'll have to wait till August.
+
+The following question is about the next-generation vehicle, we already talked about that. So let's go to the Semi. What is the timeline for scaling Semi? I think, Lars --
+
+A - Lars Moravy{BIO 22525342 <GO>}
+So we're finalizing the engineering of the Semi to enable like a super cost-effective, high volume production with our learnings from our fleet -- pilot fleet and Pepsi's fleet, which we're expanding this year marginally. In parallel, as we showed in the shareholders deck, we have started construction on the factory in Reno. Our first vehicles are planned for late 2025 with external customers starting in 2026.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, a couple more questions. So our favorite, can we make FSD transfer permanent until FSD is fully delivered with Level 5 autonomy?
+
+A - Elon Musk{BIO 1954518 <GO>}
+No.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, next question. What is the getting -- what is getting the production ramp at Lathrop? Where do you see the Megapack run rate at the end of the year? Mike?
+
+A - Unidentified Speaker
+Yes. Yes, Lathrop is ramping as planned. We have our second GA line allowing us to increase our exit rate from 20-gigawatt hours per year to -- at the start of this year to 40-gigawatt hours per year by the end of the year. That line is commissioned. There's really nothing limiting the ramp, so it's given the longer sales cycles for these large projects, we typically have order visibility 12 to 24 months prior to ship date, so we're able to plan -- to build plans several quarters in advance. So this allows us to ramp the factory to align with the business and order growth. Lastly, we'd like to thank our customers globally for their trust in Tesla as a partner for these incredible projects.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, thank you very much. Let's go to analyst questions. The first question comes from Toni Sacconaghi from Bernstein. Tony, please go ahead and unmute.
+
+Q - Toni Sacconaghi{BIO 3056875 <GO>}
+Thank you for taking the question. I was just wondering if you could elaborate a little bit more on kind of the new vehicles that you talked about today. Are these like tweaks on existing models, given that they're going to be running on the same lines, or are these, like, new models? And how should we think about them in the context of like the Model 3 Highland update? What will these models be like relative to that? And given the quick timeframe, Model 3 Highland has required a lot of work and a lot of retooling, maybe you can help put that all in context. Thank you, and I have a follow-up, please.
+
+A - Elon Musk{BIO 1954518 <GO>}
+I think we've said all we will on that front. So what's your follow-up?
+
+Q - Toni Sacconaghi{BIO 3056875 <GO>}
+It's a more personal one for you, Elon, which is that you're leading many important companies right now. Maybe you can just talk about where your heart is at in terms of your interests, and do you expect to lessen your involvement with Tesla at any point over the next three years?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, Tesla constitutes the majority of my work time, and I work pretty much every day of the week. It's rare for me to take a Sunday afternoon off. So I'm going to make sure Tesla is quite prosperous, and it is prosperous, and it will be very much so in the future.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, thank you. Let's go to Adam Jonas from Morgan Stanley. Adam, please go ahead and unmute.
+
+Q - Adam Jonas{BIO 3339456 <GO>}
+Okay, great. Hey, Elon. So you and your team on volume expect a 2024 growth rate notably lower than that achieved in 2023, but what's your team's degree of confidence on growth above zero percent? Or in other words, does that statement leave room for potentially lower sales year-on-year?
+
+A - Elon Musk{BIO 1954518 <GO>}
+No, I think we'll have higher sales this year than last year.
+
+Q - Adam Jonas{BIO 3339456 <GO>}
+Okay. My follow-up, Elon, on future product. If you had nailed execution -- assuming that you nail execution on your next-gen cheaper vehicles, more aggressive gigacastings, I don't want to say one-piece, but getting closer to one-piece, structural pack, unboxed, 300-mile range, $25,000 price point, putting aside robotaxi, those features unique to you, how long would it take your best Chinese competitors to copy a cheaper and better vehicle that you could offer a couple of years from now? How long would it take your best Chinese competitors to copy that? Thanks.
+
+A - Elon Musk{BIO 1954518 <GO>}
+I mean, I don't know what our competitors could do, except we've done relatively better than they have. If you look at the drop in our competitors in China's sales versus our drop in sales, our drop was less than theirs. So we're doing well. But I think Cathie Wood said it best, really, we should be thought of as an AI or robotics company. If you value Tesla as just like an auto company, you would just have to -- fundamentally, it's just the wrong framework. If you ask the wrong question, then the right answer is impossible. So -- I mean if somebody doesn't believe Tesla is going to solve autonomy, I think they should not be an investor in the company. That is -- but we will, and we are. And then you have a car that goes from 10 hours of use a week, like an hour and a half a day, to probably 50. But it costs the same.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+I think that's the key thing to remember, right? Especially if you look at FSD supervised. If you didn't believe in autonomy, this should give you a preview that this is coming. It's actually getting better day by day.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, if you've not tried the FSD 12.3, and like I said, 12.4 is going to be significantly better, and 12.5 even better than that, and we have visibility into those things, then you really don't understand what's going on. It's not possible.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes, and that's why we can't just look at just as a car company, because a car company would just have a car. But here, we have more than a car company, because the cars can be autonomous. And like I said, it's happening.
+
+A - Ashok Elluswamy{BIO 22648673 <GO>}
+Yes, this is all in addition to Tesla, it's working. The AI community is just, like, increasing -- like, improving rapidly.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, and we're putting the actual auto in automobile. So sort of you'll be like, well, sort of, like, tell us about future horse carriages you're making. I'm like, well, actually, it doesn't need a horse. That's the whole point. That's really the whole point.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, thank you. The next question comes from Alex Potter from Piper Sandler. Alex, please go ahead and unmute.
+
+Q - Alexander Potter{BIO 16150582 <GO>}
+Great, thanks. Yes, so couldn't agree more. The thesis hinges completely on AI, the future of AI, full self-driving, neural net training, all of these things. In that context, Elon, you've spoken about your desire to obtain 25% voting control of the company. And I understand completely why that would be. So I'm not necessarily asking about that, I'm asking if you've come up with any mechanism by which you can ensure that you'll obtain that level of voting control, because if not, then the core part of the thesis could potentially be at risk. So any additional commentary you might have on that topic?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, I think no matter what Tesla -- even if I get kidnapped by aliens tomorrow, Tesla will solve autonomy. Maybe a little slower, but it would solve autonomy for vehicles at least. I don't know if it would win with respect to Optimus or with respect to future products. But it would -- but there's enough momentum for Tesla to solve autonomy, even if I disappeared, for vehicles.
+
+Q - Alexander Potter{BIO 16150582 <GO>}
+Okay.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Now, there's a whole range of things we can do in the future beyond that. I'd be more reticent with respect to Optimus, if we have a super sentient humanoid robot that can follow you indoors and that you can't escape, we're talking Terminator level risk, then yes, I'd be uncomfortable with -- if there's not some meaningful level of influence over how that is deployed. And if those shareholders have an opportunity to ratify or re-ratify the sort of competition, I guess I can't say that, but that is a fact, they have an opportunity.
+
+Q - Alexander Potter{BIO 16150582 <GO>}
+Okay, very good.
+
+A - Elon Musk{BIO 1954518 <GO>}
+And yes, we'll see if the company generates a lot positive cash flow, we can obviously buy back shares.
+
+Q - Alexander Potter{BIO 16150582 <GO>}
+All right, that's actually all very helpful context. Thank you. Maybe one final question, and I'll pass it on. OpEx reductions, thank you for quantifying the impact there. I'd be interested also in potentially more qualitative discussion of what the implications are for these headcount reductions. What are the types of activities that you're presumably sacrificing as a result of parting ways with these folks? Thanks very much.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+So like we said, we've done these headcount reductions across the board. And as companies grow over time, there are certain redundancies, there's some duplication of efforts, which happens in certain areas. So you need to go back and look at where all these pockets are, get rid of it. So we're basically going through that exercise wherein we're like, hey, how do we set this company right for the next phase of growth? And the way to think about it is any tree which grows, it needs pruning. This is the pruning exercise which we went through. And at the end of it, we'll be much stronger and much more resilient to deal with the future, because the future is really bright, like I said in my opening remarks, we just have to get through this period and get there.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, we're not giving up anything that is significant that I'm aware of. So we've had a long period of prosperity from 2019 to now. And so if a company sort of organizationally is 5% wrong per year, that accumulates to 25%, 30% of inefficiency. We've made some corrections along the way, but it is time to reorganize the company for the next phase of growth. And you really need to reorganize it, just like a human when we start off as one cell and become a zygote and a blastocyst and you start growing arms and legs and briefly you have a tail. And so --
+
+A - Lars Moravy{BIO 22525342 <GO>}
+But you shed the tail.
+
+A - Elon Musk{BIO 1954518 <GO>}
+You shed the tail, hopefully. And then you're a baby. Basically, you have to be different. The organism -- a company is kind of like a creature growing, and if you don't reorganize it for different phases of growth, it will fail. You can't have the same organizational structure if you're 10 cells versus 100 versus a million versus a billion versus a trillion, where humans are like around 35 trillion cells. It doesn't feel like, it feels like one person, but you're basically a walking cell colony of roughly 35 trillion, depending on your body mass, and about 3x that number in bacteria. So anyway, you've got to reorganize the company for a new phase of growth or it will fail to achieve that growth.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. Let's go to Mark Delaney from Goldman Sachs. Mark, please go ahead and unmute.
+
+Q - Mark Delaney{BIO 20093495 <GO>}
+Yes. Good afternoon. Thanks very much for taking the question. The company had previously characterized potential FSD licensing discussions as in the early phase and some OEMs had not really been believing in it. Can you elaborate on how much the licensing business opportunity you mentioned today has progressed? And is there anything Tesla needs to achieve with the technology in terms of product milestones in order to be successful at reaching a licensing agreement in your view?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, I think it just needs to be obvious that our approach is the right approach. And I think it is. I think now with 12.3, if you just have the car drive you around, it is obvious that our solution with a relatively low cost, inference computer, and standard cameras can achieve self-driving. No LIDARs, no RADAR, no ultrasonics, nothing.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+No heavy integration work for vehicle manufacturers.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. So it would really just be a case of having them use the same cameras and inference computer and licensing our software. And -- but it once becomes obvious that if you don't have this in a car, nobody wants your car. It's like it's a smart car. I mean, I still remember back when Nokia was king of the hill, yes, crushing, and then I saw them come out with a smartphone that was basically a brick with limited functionality. And then the iPhone and Android. But people still did not understand that all the phones are going to be that way. There's not going to be any flip phones, there'll be a niche product.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Or home phones.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, not even -- Exactly. When was the last time you saw a home phone?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+I have no idea. Maybe a hotel. Sometimes in a hotel.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, the hotels have them. Yes. So the people don't understand all cars will need to be smart cars or you will not sell -- the car will not -- nobody will buy it. Once that becomes obvious, I think licensing becomes not optional.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Becomes a method of survival.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, it's licensed or nobody will buy your car.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+One other thing which I'll add is, in the conversations which we've had with some of these OEMs, I just want to also point out that they take a lot of time in their product lifecycle.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+They're talking about years before they will put it in their product. We might have a licensing deal earlier than that, but it takes a while. So this is where the big difference between us and them is, right?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. I mean, really, a deal signed now would result in it being in a car probably three years.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+That would be early.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, that's like lightning, basically.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+That's being an eager OEM.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. So I mean, I wouldn't be surprised if we do sign a deal. I think we have good chance we do sign a deal this year, maybe more than one. But yes, it would be probably three years before it's integrated with a car, even though all you need is cameras and our inference computer. So just talking about a massive design change.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes. And again, just to clarify, it's not the work which we have to do, it's the work which they have to do, which takes time.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Mark, do you have a follow-up?
+
+Q - Mark Delaney{BIO 20093495 <GO>}
+Yes. Very helpful, thank you. My follow-up to better understand Tesla's approach to pricing going forward. Previously, the company had said that the price reductions were driving incremental demand. With how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place, do you still see meaningful incremental price reductions as making sense from here for the existing products? And can the company meaningfully lower prices from here and also stay free cash flow positive on an annual basis with the current product set? Thanks.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. I think we can be free cash flow positive meaningfully.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Yes. I think Vaibhav said it in his opening remarks, like, our cost down efforts, we basically were offsetting the price cut --
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+That's what I was going to say.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Like, we're trying to give it back to the customers.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. I mean, at the end of the day, like for any given company, if you sell a great product at a great price, if you have a great product at a great price, the sales will be excellent. That's true of any arena. So over time, we do need to keep making sure that it's a great product at a great price, and moreover, that, that price is accessible to people. So it's not -- you have to solve both the value for money and the fundamental affordability question.
+
+The fundamental affordability question is sometimes overlooked. If somebody is earning several hundred thousand dollars a year, they don't think of a car from a fundamental affordability standpoint, but vast majority of people are living paycheck to paycheck. So it actually makes a difference if the cost per month for lease or financing is $10 one way or the other. So it is important to keep improving the affordability and to keep this sort of like making the price --
+
+A - Lars Moravy{BIO 22525342 <GO>}
+More accessible.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, exactly, the price more accessible, the value for money better, and to keep improving that over time.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+But also to make kick-ass cars that people want to buy.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. It's got to be a great product at a great price. And the standards for what constitutes a great product at a great price keep increasing. So there's like -- you can't just be static. You have to keep making the car better, improving the price of it, improving the cost of production. And that's what we're doing.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes. And in fact, like I said in my opening remarks also, like the revised -- the updated Model 3 is a fantastic car. I don't think people fully even understand the amount of engineering effort which has gone, and Lars and team have actually put out videos explaining how much the car is different, I mean, it looks and feels different. Not only it looks and feels different, we've added so much value to it, but you can lease it for like as low as $299 a month.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Yes. Without gas.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+All right. The next question comes from George from Canaccord. George, please go ahead and unmute.
+
+Q - George Gianarikas{BIO 19376739 <GO>}
+Hi. Thank you for taking my question. First, can you please help us understand maybe some of the timing of launching FSD in additional geographies, including maybe clarifying your recent comment about China? Thank you.
+
+A - Elon Musk{BIO 1954518 <GO>}
+You mean like new markets? Yes, there are a bunch of markets where we don't currently sell cars that we should be selling cars in. We'll see some acceleration of that --
+
+A - Martin Viecha{BIO 17153377 <GO>}
+And FSD in new markets?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. So the thing about the end-to-end neural net-based autonomy is that, just like a human, it actually works pretty well without modification in almost any market. So we plan on, with the approval of the regulators, releasing it as a supervised autonomy system in any market that -- where we can get regulatory approval for that, which we think includes China. So yes, it's just like a human, you can go rent a car in a foreign country and you can drive pretty well. Obviously, if you live in that country, you'll drive better. And so, we'll make the car drive better in these other countries with country-specific training. But it can drive quite well almost everywhere.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+The basics of driving are basically the same everywhere. Like a car is a car, there is the traffic light, road is the road.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. And understands that it shouldn't hit things no matter where it is.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Exactly. There are some road rules that you need to follow, and in China, you shouldn't cross over a solid line to do a lane change. The U.S. has a recommendation, I think. China, yes, you get fined heavily if you do that. We have to do some reductions, but it's mostly smaller reductions, not like an entire change of stack or something like that.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes.
+
+Operator
+Hey, George, do you have a follow-up?
+
+Q - George Gianarikas{BIO 19376739 <GO>}
+Yes. So my follow-up has to do with the first quarter deliveries, and I'm curious as to whether or not you feel that supply constraints that you mentioned throughout the release impacted the results, and maybe can you help us quantify that, and is that why you have some confidence in unit growth in 2024?
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes. I think we did cover this a little bit in the opening remarks, too. Q1 had a lot of different things which are happening. Seasonality was a big one, continued, pressure from the macroeconomic environment. We had attacks at our factory. We had Red Sea attacks. We're ramping Model 3. We're ramping Cybertruck. All these things are happening. I mean, it almost feels like a culmination of all those activities in a constrained period, and that gives us that confidence that, hey, we don't expect these things to recur.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. We think Q2 will be a lot better.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+It's just one thing after another (Multiple Speakers) crazy.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, exactly. It's just --- if you've got cars that are sitting on ships, they obviously cannot be delivered to people. And if you've got excess demand for Model 3 or Model Y in one market, but you don't have it there. It's like -- it's a quite -- it's an extremely complex logistics situation. So -- and I'd say, also the -- we did overcomplicate the sales process which we've just in the past week or so have greatly simplified. So the -- it just -- it became far too complex to buy a Tesla, whereas it should just be you can buy the car in under a minute. So we're getting back to the you can buy a Tesla in under a minute interface from what was quite complex.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you. Let's go to Colin Rusch from Oppenheimer. Colin, go ahead and unmute, please.
+
+Q - Colin Rusch{BIO 15823117 <GO>}
+Thanks so much, guys. Given the pursuit of Tesla really as a leader in AI for the physical world, and your comments around distributed inference, can you talk about what that approach is unlocking beyond what's happening in the vehicle right now?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Do you want to say something?
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes. I think I mentioned like the car, even when it's a full robotaxi, that's probably going to be used around 50 hours a week.
+
+A - Elon Musk{BIO 1954518 <GO>}
+That's my guess. Like a third of the hours of the week.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes. It could be more or less, but then there's certainly going to be some hours left for charging and cleaning and maintenance in that world. It can do a lot of other workloads. Even right now we are seeing, for example, these LLM companies have these like batch workloads where they send a bunch of documents, and those are run through pretty large neural networks and take a lot of compute to chunk through those workloads.
+
+And now that we have already paid for this compute in these cars, it might be wise to use them and not let them be idle, be like buying a lot of expensive machinery and letting them be idle. We don't want that. We want to use the compute as much as possible and close to like basically 100% of the time make effective use of it.
+
+A - Elon Musk{BIO 1954518 <GO>}
+That's right. I think it's analogous to Amazon Web Services where people didn't expect that AWS would be the most valuable part of Amazon when it started out as a bookstore. So that was on nobody's radar. But they found that they had excess compute because the compute needs would spike to extreme levels for brief periods of the year, and then they had idle compute for the rest of the year. So then what should they do with all that excess compute for the rest of the year? That's kind of --
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Monetize it?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, monetize it. So it seems like kind of a no-brainer to say, okay, if we've got millions and then tens of millions of vehicles out there where the computers are idle most of the time, that we might as well have them do something useful.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Exactly.
+
+A - Elon Musk{BIO 1954518 <GO>}
+And then -- I mean if you get, like, to the $100 million vehicle level, which I think we will at some point get to, and you've got a kilowatt of usable compute, and maybe you're on Hardware 6 or 7 by that time, then you really -- I think you could have on the order of 100 gigawatts of usable compute, which might be more than anyone, more than any company, probably more than any company.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes, probably, because it takes a lot of intelligence to drive the car anyway, and when it's not driving the car, you just put this intelligence to other uses, just solving scientific problems.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Just like a human.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Or answering dumb questions for someone else.
+
+A - Elon Musk{BIO 1954518 <GO>}
+We've already learned a lot about deploying workloads to these compute nodes.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes. And unlike laptops and our cell phones, it is totally under Tesla's control, so it's easier to distribute the workload across different nodes as opposed to asking users for permission on their own cell phones would be very tedious.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, you're just draining the battery on the phone.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes, exactly. The battery is also loaded.
+
+A - Elon Musk{BIO 1954518 <GO>}
+So like, technically, I suppose, like, Apple would have the most amount of distributed compute, but you can't use it because you can't just run the phone at full power and drain the battery.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes.
+
+A - Elon Musk{BIO 1954518 <GO>}
+So -- whereas for the car, even if you're a kilowatt-level inference computer, which is crazy power compared to a phone, if you've got a 50 or 60-kilowatt hour pack, it's still not a big deal to run.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+As long as you're plugged in.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Whether you're plugged in or not, you can be plugged in or not plugged in, you could run for 10 hours and use 10-kilowatt hours -- kilowatt of compute. Yes, we together built in liquid-cold thermal management. That's for data centers, so it's already there in the car.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Exactly.
+
+A - Elon Musk{BIO 1954518 <GO>}
+So it's distributed power generation. It's distributed access to power and distributed cooling. And it's already paid for.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Yes, I mean, that distributed power and cooling, people underestimate that costs a lot of money.
+
+A - Ashok Elluswamy{BIO 22648673 <GO>}
+Yes, it does. And the CapEx is shared by the entire world. Sort of everyone owns a small chunk, and they get a small profit out of it maybe.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes.
+
+Q - Colin Rusch{BIO 15823117 <GO>}
+Thanks so much, guys. And just my follow-up is a little bit more mundane. Looking at the 4680 ramp, can you talk about how close you are to target yields and when you might start to accelerate incremental capacity expansions on that technology?
+
+A - Elon Musk{BIO 1954518 <GO>}
+We're making good progress on that. But I don't think it's super important for at least the near-term. As Lars said, we think it will be -- exceed the competitiveness of suppliers by the end of this year, and then we'll continue to improve.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Yes. I mean, I think it's important to note also that, like, the ramp right now is relevant to the Cybertruck ramp.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+And so, like, we're not going to just randomly build 4680s once we have a place to put them. And so we're going to, make sure we're prudent about that. But we also have a lot of investments with all our self-suppliers and vendors. And they're great partners, and they have done great development work with us. And a lot of the advancements in technologies and chemistry we found in 4680, they're also putting into their cells.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. I mean, a big part of the 4680, Tesla doing internal cells was a hedge against what would happen with our suppliers, because for a while there, it was very difficult, because every big carmaker put in massive battery orders. And so the price per kilowatt hour of lithium-ion batteries went to crazy numbers, to crazy levels.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Bonkers.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. Just bonkers. So like, okay, we've got to have some hedge here to deal with cost per kilowatt hours, numbers that were double what we anticipated. If we have an internal cell production, then we have that hedge against the demand shocks that was too much demand. That's really the way to think about it. It's not like we want to take on a whole bunch of problems that just for the hell of it. We did the cell program in order to address the crazy increase in cost per kilowatt hour from our suppliers due to gigantic orders placed by every carmaker on Earth, so.
+
+Operator
+So. Okay. Thank you. And the last question comes from Ben Kallo from Baird. Ben, go ahead and unmute. And you're still muted.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, I, once again, would just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive FSD 12.3. You really -- you can't -- it's impossible to understand the company if you do not do this.
+
+Operator
+All right. So since Ben is not unmuting, let's try Shreyas Patil from Wolfe Research. Final question.
+
+Q - Shreyas Patil{BIO 19015735 <GO>}
+Hey. Thanks so much. Just, Elon, during the Investor Day last year, you mentioned that auto COGS per unit for the next-gen vehicle would decline by 50% versus the current 3 and Y. I think that was implying something around $20,000 of COGS. About a third of that was coming from the unboxed manufacturing process. But I'm curious if you see an opportunity that some of the other drivers around powertrain cost reduction or material cost savings, would those be largely transferable to some of the new products that you're now talking about introducing?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Yes. Yes, sure. I mean, in short, yes. I mean, like, the unboxed manufacturing method is certainly great and revolutionary, but with it comes some risk, because it's new production lines and all that. But all the subsystems we developed, whether it was powertrains, drive units, battery improvements in manufacturing and automation, thermal systems, seating, integration of interior components and reduction of LV controllers, all that's transferable, and that's what we're doing, trying to get it into our products as fast as possible. And so, yes, that engineering work, we're not trying to just throw it away and put it in a coffin. We're going to take it and utilize it, utilize it to the best advantage of the cars we make and the future cars we make.
+
+Q - Shreyas Patil{BIO 19015735 <GO>}
+Okay, great. And then just on that topic of 4680 cells, I know you mentioned it. You really thought of it more as like a hedge against rising battery costs from other OEMs.But it seems -- even today, it seems like you would have a cost advantage against some of those other automakers, and I'm wondering given the rationalizing of your vehicle manufacturing plans that you're talking about now, if there's an opportunity to maybe convert the 4680 cells and maybe sell those to other automakers and really generate an additional revenue stream. I'm just curious if you have any thoughts about that.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Great. What seems to be happening is that the, unless I'm missing something, the orders for batteries from other automakers have declined dramatically. So we're seeing much more competitive prices for cells from our suppliers, dramatically more competitive than in the past. It is clear that a lot of our suppliers have excess capacity.
+
+A - Karn Budhiraj
+Yes. In addition to what Elon -- this is Karn by the way. In addition to what Elon said about 4680s, what 4680 did for us from a supply chain perspective was help us understand the supply chain that's upstream of our cell suppliers. So a lot of the deals that we had struck for 4680, we can also supply those materials to our partners, reducing the overall cost back to Tesla. So we're basically inserting ourselves in the upstream supply chain by doing that. So that's also been beneficial in reducing the overall pricing, in addition to the excess capacity that these suppliers have.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. Now, I mean, this is going to wax and wane, obviously. So there's going to be a boom and bust in battery cell production where production exceeds supply, and then supply exceeds production, and back and forth, kind of like, I don't know, DRAM or something. But -- so it's like what is true today will not be true in the future. There's going to be somewhat of a boom and bust cycle here. And then there are additional complications by -- with government incentives, like the Inflation Reduction Act, the IRA, which I always found like a funny name for it.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Comical name.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. Is it like the Irish Republican Army? The Internet Research Agency from Russia?
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Independent Retirement Camp?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, exactly. Roth IRA. Okay. There's like four Spiderman situation, which the IRA wins. So -- but it does complicate the incentive structure, so that there is perhaps -- there's the stronger demand for cells that are produced in the U.S. than outside the U.S. But then how long does that, the IRA, last? I don't know.
+
+A - Lars Moravy{BIO 22525342 <GO>}
+Which is why it's important that we have both internal sales and vendor sales to hedge against all of this.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you very much. That's all the time we have today. But at the same time, I would like to make a short announcement. And I wanted to let the investment community know that about a month ago, I met up with Elon and Vaibhav and announced that I'll be moving on from the world of Investor Relations.
+
+I'll be hanging around for another couple of months or so. So feel free to reach out anytime. But after this seven-year sprint, I'm going to be taking a break and spending some good quality time with my family. And I wanted to say that these seven years have been the greatest privilege of my professional life. I'll never forget the memories from, I started literally at the beginning of Production Hell and just watching the company from the inside to see what it's become today.
+
+And I'm especially super thankful to the people in this room and dozens of people outside of this room that I've worked for over the years. I think the team strength and teamwork at Tesla is unlike anything else I've seen in my career. Elon, thank you very much for this opportunity that I got back in 2017. Thank you for seeking investor feedback and regularly and debating it with me.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. Well, I mean, the reason I reached out to you was because I thought your analysis of Tesla was the best that I'd seen.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you.
+
+A - Elon Musk{BIO 1954518 <GO>}
+So yes, thank you for helping Tesla get to where it is today over seven years. It's been a pleasure working with you.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you so much. And yes, thank you for all the thousands of shareholders that we've met over the years and walked around factories and loved all the interactions even the tough ones. And yes, looking forward to the call in the next three months, but I'll be on the other side listening in. Thank you very much.
+
+A - Vaibhav Taneja{BIO 20985733 <GO>}
+Thanks.
+

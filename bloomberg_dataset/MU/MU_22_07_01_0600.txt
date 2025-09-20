@@ -1,0 +1,362 @@
+Q3 2022 Earnings Call
+Company Participants
+Farhan Ahmad, Vice President, Investor Relations
+Manish Bhatia, Executive Vice President, Global Operations
+Mark Murphy, Executive Vice President and Chief Financial Officer
+Sanjay Mehrotra, President and Chief Executive Officer
+Sumit Sadana, Executive Vice President and Chief Business Officer
+Other Participants
+C.J. Muse, Evercore
+Joe Moore, Morgan Stanley
+Nikolay Todorov, Longbow Research
+Rajvindra Gill, Needham & Company
+Sidney Ho, Deutsche Bank
+Srini Pajjuri, SMBC Nikko
+Steven Fox, Fox Advisors
+Timothy Arcuri, UBS
+Tom O'Malley, Barclays
+Toshiya Hari, Goldman Sachs
+Vijay Rakesh, Mizuho
+Presentation
+Operator
+Thank you for standing by, and welcome to Micron Technology's Fiscal Third Quarter 2022 Post Earnings Analysts Call. After the speaker presentation, there would be a Q&A session. (Operator Instructions). I would now like to hand the call over to Farhan Ahmad, Vice President, Investor Relations. Please, go ahead.
+
+Farhan Ahmad{BIO 20748275 <GO>}
+Thank you, Lateef [ph]. Welcome to Micron Technology's fiscal third quarter 2022 sell side analyst call back. On the call with me today are Sumit Sadana, our Chief Business Officer; Manish Bhatia, our EVP of Global Operations, and Mark Murphy, our CFO.
+
+As a reminder, the matters we will be discussing today include forward-looking statements regarding market demand and supply, our expected results and other matters. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from the statements made today. We refer you to the documents we file with the SEC, specifically our most recent Form 10-K and 10-Q for a discussion of the risks that may affect our future results.
+
+Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. We are under no duty to update any of the forward-looking statements to conform these statements to actual results.
+
+Lateef, you can now open the call for Q&A.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Yes, sir. (Operator Instructions) Our first question comes from Tom O'Malley of Barclays. Your line is open.
+
+Q - Tom O'Malley
+Hey, thanks for taking my question. I just wanted to ask on the long-term through the cycle model. You guys laid out 30% from an operating margin perspective. I understand that there are some China headwinds that are impacting I think slightly more exacerbating this down cycle, but you're already in the guidance moving below that 30% and it sounds like there maybe some more weakening to come. Can you just talk to, if you just think that 30% is still viable? Now that you've seen these cuts, and just any of the moving parts as to how you think that can sustain through this cycle? Thank you.
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Tommy, Mark, I'll start. I mean, it is a through cycle model, so it's not intended to be a floor, it's not intended to be any point in time. So I think that -- I think, the way to look at it is, we're not going to base any given quarter on where it stands, relative to the long-term model because there are a lot of conditions that impact obviously the short-term results.
+
+Yeah, we are entered -- we have entered a period where the market weakened considerably in a very short period of time and we're just -- we've given a four score guide to reflect the best view we have at the moment and we'll update through the quarter.
+
+Q - Tom O'Malley
+Got you. Appreciate it. And my follow-up is just, on the cost side, going into the quarter, you guys had talked about just limited cost reductions in both DRAM and NAND. Can you just give any color on just a reported quarter on how cost kind of shook out between the two buckets?
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yeah. On -- well on -- we do expect for the full year for our cost to still outpace industry costs. But in the third and the fourth quarter improvements have been flattish, little bit better on the front end because the leading node activities and those benefits. Little bit of inflation, or inflation but that inflation is more manifested on the back end where yeah, and the net is that we end up with basically flattish costs down in third and fourth quarter. Long-term, we're still planning to be in-line with industry cost trends.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+And I'll just -- Tom, I'll just add in there that a lot of that has to -- the reported COGS, obviously have to do a lot of mix adjustment. So when we have strong growth, record quarter and SSDs, we have stronger growth in some of these high-value solutions. Obviously, the COGS number is mix adjusted. But when we talk about outperforming the industry in terms of cost reduction for the year, we're talking about at the memory level, where our technology leadership in 1-alpha and 176-layer has allowed us to outpace industry this year and perform well at the front-end level.
+
+But obviously, mix -- movement towards high value solutions in FX happens over the last quarter in this next quarter, those are impacting all in cost, but obviously providing higher margin as well for higher price.
+
+Q - Tom O'Malley
+Thank you.
+
+Operator
+Thank you. Our next question comes from Joe Moore of Morgan Stanley. Your line is open.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. Thank you. I wonder if you could quantify at all the impact of the supply reduction that you guys are looking to do, the utilization impact of that. And I guess, is it -- can you compare it to what you did in 2019? Do you think it's something similar to that, more significant than that, less significant than that? Just any color would be helpful.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Sure. Sure. Hi, Joe. So, we're still evaluating what we will finally do. Or I think was important for us to give guidance and clarity to everyone on was that -- we are reducing WFE and that will have an impact on supply big growth for both DRAM and NAND from our prior levels next in '23. And at this time not really ready to compare it.
+
+We're still working to finalize what our plans are. As we mentioned, we're going to have a combination of trying to manage CapEx, manage utilization quickly for some of our legacy nodes and take a look at maybe less cost effective, how we can optimize those, how we can optimize the manufacturing footprint space as we conditioned to more advanced nodes. We're going to be ramping our 1-beta and 232-layer technologies, we think it's very important to make sure that we continue to maintain leadership and launch those technologies. So, that we can have the product portfolio benefits from those as well as the cost benefits from those.
+
+And then the other piece, of course, is managing inventory as Mark was talking about on the call, so we'll kind of look at all those areas together to be able to determine what the right mix of supply big growth, CapEx utilization and inventory is and cost reduction is for next year. And we'll provide more color I think on the next call.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. Thank you very much.
+
+Operator
+Thank you. Our next question comes from Toshiya Hari of Goldman Sachs. Please, go ahead.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Great. Thank you. I have one quick clarification, then one quick question. On the clarification, for the fiscal Q4 guide based on your commentary, it seems like the (Technical Difficulty) sequential decline in revenue that's mostly coming from bits and pricing is perhaps down below singles or something like that, based on sort of the strategy that you're taking. Is that a fair assumption?
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yeah. If you do the math on things, you'll see that volumes roughly two-thirds sequential.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Got it. Okay, that's helpful. And then -- got it. And then as my question, this one's for you as well, probably Mark. On OpEx, you talked about some of the initiatives having a bigger impact in fiscal '23. I guess, last time you were kind of in the zip code from a revenue perspective, OpEx was kind of in the low $800 million and I realized there's been broad-based inflation. But how should we think about OpEx in the early part of fiscal '23, as you guys' flex down?
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yeah. I -- we -- you can back into OpEx long-term as a percent of sales through the model. I'm -- I won't give you a number for OpEx in '23, because we haven't done our plans, we'll give guidance on that in our future call. I think the comments today were meant to reflect that, it is a -- it is an environment that's changed very quickly, and the demand environments weakened and we've responded quickly across all major areas of spend. And we are -- the OpEx number is down from what it was in our original forecast here, so that gives you a sense of we're already dealing with it and our expectation is that, as the market outlook becomes comes clear, we will adjust our OpEx spend appropriately.
+
+Now, it's not a -- this isn't a -- company is in great position of leadership across technology products and manufacturing. So, it's -- this is not take a sledgehammer to OpEx, it's a scalpel exercise and we work to get OpEx down for an appropriate level for the conditions of the business.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+And Mark, sorry, just to be clear the sequential increase in OpEx this quarter that's just timing of quals that you guys noted on the call?
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yeah, we had. In the third quarter, the OpEx was low, it's actually about $100 million off of the -- I think the guidance. And two major drivers: one, product and technology spend as you talk about. Now it's actually not due to sort of fewer programs, it was due to actually very good performance and fewer wafers required for technology qualification, that was the largest part of the variants.
+
+The next was just as you can imagine, our forecast came way down. So the incentive comp was adjusted and since we're this far in the year, it was a sizable accrual adjustment. So those two things were drivers. In the fourth quarter, of course, those benefits become headwinds for the fourth quarter. So we're kind of back up to this level, just over a $1 billion, and sort of makes it look like more of a sequential decline in reality it is. And we'll just continue to work it in a disciplined way from here.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Great. Thank you.
+
+Operator
+Thank you. Our next question comes from C.J. Muse of Evercore. Your line is open.
+
+Q - C.J. Muse
+Yeah. I wanted to just follow-up on prior question around cost downs and whether you're contemplating any material kind of change to utilization rates, and how we should think about that impacting cost downs in the coming quarters?
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Hi, C.J. So, we are -- I think as I said we are evaluating utilization. I would say that we're really -- with -- having technology leadership and we definitely believe that the inventory at the leading edge that we're generating is very cost-effective, relative to the rest of the industry, relative to even what will be available for us in future quarters.
+
+So, we're really on the utilization front focused on thinking about optimizing older nodes, legacy nodes. Of course, keeping in mind the legacy demand that we have for certain customers as well. But it's not as if I think we're at a position we're on the leading edge, we're going to be making significant action or drastic action. And then -- and as I mentioned before, previously when (Inaudible) or Tom had asked about this, we're still planning on ramping our 1 beta and 232 technologies later this year. We think, it's very important that we maintain the technology cadence and the learning in the -- drive the adoption of those technologies and that will happen in fiscal year '23 as well.
+
+Q - C.J. Muse
+Very helpful. And I guess, just a quick follow-up. Are there any targets you have for inventory that you can share with us and what kind of timeframe?
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+C.J., the only target that we can provide is the previous level of this comfort target, I guess, maybe call it. I think we like to keep it below 150 days. We do think it'll go up in the fourth quarter on DIO. I think I gave a number of a couple of weeks. And we'll just have to see where it goes from there. That's a function of market conditions as you know.
+
+Q - C.J. Muse
+Thanks so much.
+
+Operator
+Thank you. Our next question comes from Srini Pajjuri of SMBC Nikko. Your line is open.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Thank you. A couple from me as well. First on the PC and smartphone weakness. You talked about inventory correction. Just curious, I mean do you think it's a one quarter event meaning, do you think the inventories will -- customers will normalize after this quarter? Or do you see further potential for kind of correction going forward, if assuming that demand kind of stabilizes here, then I have a follow-up.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Typically, we see that in any given segment when customers start to correct inventory, it is couple of quarters worth of a process, it takes several months to get down to their own internal target levels of inventory. That of course, assumes a predictable macroeconomic environment and demand trends in their own segment. And so, obviously there is concern about the trajectory of the macroeconomic environment, so that can further create another vector of uncertainty that has to be dealt with. But typically, it takes a couple of quarters for the inventory to get normalized.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+And we're talking both PC and smartphone summit that started this quarter. So, we're talking two quarters basically from current quarter?
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Yeah, that's the reason we said that, we see this playing out, sort of, in the second half of calendar '22 as the biggest portion of the impact of the lowered sell through rates in the end markets in those segments as well as the inventory correction.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Okay, got it. And then, on your own balance sheet inventory, Mark. You talked about 150, is kind of where you'll start getting uncomfortable. But if we look at your historic inventory, I think, it peaked out around 130s, in mid-130. So I'm just curious, what changed in the last, I guess, in a year or two that you are more comfortable even at 150, I guess? Why is that level going higher?
+
+And then the other side of the question is that, you did say that, you want kind of -- you're going to maintain pricing discipline and also use your inventory to kind of supply into the market next year. So I guess, at some point the inventory will come down as you lower your production growth. What is the minimum level that you're comfortable? I mean I'm looking at, I guess, a few quarters ago, you're in the low 90s. I'm just curious, what is the minimum level that you're comfortable? When do you have to ramp up production again, at what level? Thank you.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Yeah. So, there is no news today on the call actually, it was more validation of ranges that have been set before. I did comment on, there are some headwinds in the sense of on DIO around more complex processing and the cycle time in the Fab would be longer and more width, there's more complex modules and there's the associated components with those and assembly times and so forth.
+
+So, I think all that is a headwind, but at the same time the team is doing a lot of things to offset those. And so, I was validating that the number that we've provided before of about 150 is a maximum level. Normal levels have also been talked about before around 100 days, so the number that you cited, low 90s is a level that we would view as good lean inventory levels for our business.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Got it. Thank you.
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yeah. I'll just add one comment there, just Srini. I mean, these things always are -- the trend in the industry and it doesn't matter whether you look at the logic in this budget side, or you look at memory, the trend is longer and longer processing time and cycle time in the fabs, right? So that's more fab web.
+
+For us specifically then you add in the fact that we're transforming more of our business and in general, more industry demand moving towards high value solutions like SSDs, like data center DRAM modules, these things have longer cycle time in the back end, as well as more component inventory required to be held for the backend as well. So when you think about all of those things, all of these, whether you're talking about the lean inventory range or the max comfortable inventory range, those are things that generally across this industry as technology becomes more complex and products become more complex, they're going to continue to keep going up over time.
+
+I mean the other thing just to keep in mind and we talked about this at our Investor Day is one of the trends in the industry over the last several years, now again, speaking about memory, it's helpful to allow us to hold more inventories, the cost of claims have lowered now than they were a decade ago from technology transition.
+
+So, that's another one of the areas where we're able to hold more inventory, because we have very good cost-effective inventory, especially being in leading edge now at the industry and we expect that inventory to continue to be cost effective through the next period while we're working down on our inventories.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Very helpful. Thank you.
+
+Operator
+Thank you. Our next question comes from Steven Fox of Fox Advisors. Please go ahead.
+
+Q - Steven Fox{BIO 2420985 <GO>}
+Thanks. Good afternoon. Two questions. First, on the gross margin guidance for the quarter, I think, you're guiding down about 500 basis points roughly quarter-over-quarter. Can you sort of break that out between, I assume, a bulk of that is just a sheer volume of anything, you can provide color on how much is related to mix pricing, et cetera? And then I had a follow-up.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Yeah. I won't go into the details. But the sequential decline third to fourth is just driven by market trends or dynamics in the market. The second quarter -- third quarter was driven by a higher mix in demand that decline.
+
+Q - Steven Fox{BIO 2420985 <GO>}
+Got it.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Third quarter, four quarter. (Multiple Speakers) Go ahead.
+
+Q - Steven Fox{BIO 2420985 <GO>}
+Third quarter from second quarter, yeah, I got that. And then, (Multiple Speakers)
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+I was just, -- I'm sorry, just one thing to add. So beyond the fourth quarter as we've talked about is these inventories or elevated in the market works through this period we would expect that to weigh on gross margins. So, yeah, I just wanted make sure that, that's clear.
+
+Q - Steven Fox{BIO 2420985 <GO>}
+That's helpful. And then, just on the long-term agreements. I mean, I understand this is unusual times, but I mean you just spent the last several quarters putting some long-term agreements into places and they seem as soon as things got tough, few unraveled a bit. So, I guess you would kind of -- it sounded like you would kind of describing some benefits that are still coming through from the long-term agreements even as demand slows here. I'm just not clear on what those are? So can you maybe talk to the, I guess, that comment in the question, I just put out there? Thanks.
+
+A - Sanjay Mehrotra{BIO 1977912 <GO>}
+Sure. So, in terms of the long-term agreements, we have been working on these for seven years, we used to be just over 10% of our revenue under long-term agreements, five years ago, and it's now 75% of our revenue on the long-term agreements. So substantially, all of our large customers are under long-term agreements in terms of purchases. And I have mentioned this in the past that these agreements were never structured to be take or pay agreements that our customers would buy the volume, (Inaudible) high water. It's more like very strong, good level of planning between our customers and us, to ensure that we are driving alignment between their demand, our supply, allocation of that to different customers, different segments, and mechanism to drive, share dynamics in different customers, in different segments.
+
+So, our goal with these agreements is really to use these as a mechanism to drive the portfolio mix to where we want it to be. And we have mentioned in the past that our goal is to keep our supply bit share consistent over time, in both DRAM and NAND. And strive for a bigger and bigger portion of the industry profit pool through moves in our product portfolio and mix. And that's where we have had tremendous success, not just in improving our product portfolio, but also using these agreements to drive our product portfolio mix into a place, which gives us better profitability and improved stability.
+
+One example is that, in the auto, industrial, networking, graphics type of segments, the margin stability through the cycle is much better, compared to other segments of the market. And so, our goal has been to drive higher share in those segments, and these long-term agreements become critical over time in driving that share. Now that does not mean that we don't work with customers to have them purchase, that is consistent with these long-term agreements, of course we do. But I think to be fair to our customers as well, when these kind of significant macro events occur, it's not like that is feasible outcome.
+
+So, I think we use these in a way that meets our overall company goals in a very effective manner, recognizing what the limitations are of these agreements and what they are meant to do and what they are not meant to do. So, hopefully that helps.
+
+Q - Steven Fox{BIO 2420985 <GO>}
+Yeah. That's great color. Thank you so much.
+
+Operator
+Thank you. Our next question comes from Vijay Rakesh of Mizuho. Your line is open.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Yeah. Hi, guys. Just a quick question here. I know you mentioned inventories are high on PC, handset and I think people are seeing that. But I was wondering if you could give us some way of quantifying that, what are the inventory levels on the PC handset on the cloud side now versus what are normal levels?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah. So I think in terms of PC and smartphones and then you look at cloud, I think it's a generalized comment across the industry that as the industry over the last -- semiconductor industry and this goes beyond memory and storage.
+
+As the industry went through a significant shortage in semiconductors, definitely, that was one driver of customers wanting to have higher levels of inventory. Another was all of the geopolitical risks in terms of impact to shipments. And then the last piece was shutdowns happening in different parts of the world due to COVID-related restrictions being put by individual, local and federal governments around the world.
+
+So, all of these conspired to cause customers to feel like they need to have better level of inventory, and customers who couldn't get to those inventory levels and one good example of that is automotive companies, you can see significant impact on revenue that those segments and those companies have suffered as a result of not having adequate inventory.
+
+So, I think across several segments, there has been higher level of inventory than what was -- what existed pre-COVID. And the question is, how will that trajectory of inventory in terms of weeks of sales, change over time, especially as the industry gets to a phase -- the whole semiconductor industry gets to a phase where fewer and fewer components are in short supply.
+
+So, I think that part is different customers, in different parts of the market will make their own determination on these things. But coming specifically to the PC and smartphone portion of the business, the volumes in each of these in terms of TAM for '22 are down roughly 10% from the expectations for '22 at the start of this calendar year. So with that degradation and sell through expectations, obviously the inventory levels consequently from a week's of sales perspective appears even bigger and so there is a need for that adjustment.
+
+So, I think those were some of the catalysts that created that impact on our Q4 and what we have projected for the rest of the calendar year this year, in terms of when we expect the inventory correction to sort of play out in those segments.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Got it. And so, it looks like you're talking more to a 10% discrepancy, but -- are seeing a higher inventory level on the DRAM side or the NAND side, if you can give a little bit of color around that. And that's it. Thank you.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+So just for clarity, right, that 10% was a number, it was the number of units that are lower in the TAM expectation for calendar '22 for PC and smartphone global unit sales versus expectations from six months ago. And the impact on our revenue, of course, is not just on the reduction and demand sell through, but also on top of that the inventory reduction, right? So I just wanted to clarify that the inventory reduction is on top of the reduction on the end market weakness. So, I just wanted to make sure that it's not just that 10%.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Yeah.
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+Yeah. And 10% is for the full year, okay, the impact to us in the second half is more as we said in the earlier calls.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+That's a very good, very important point. For us, most of the impact of a full year is going to occur in the second half of the calendar year.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Got it. Thank you.
+
+Operator
+Thank you. Our next question comes from Sidney Ho of Deutsche Bank. Your line is open.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Hey, thanks. So, in terms of the demand side of things, you talked a lot about PC and smartphones. But you also make a comment that Enterprise OEMs are adjusting the memory and storage inventory because of shortages in memory components and macro. I want to see if you can give us a little more color and any precedence that you can point to see how long this correction could play out and maybe the magnitude of those kind of adjustments in the past. And then I have a follow-up question. Thanks.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah. I think the issue on that side is different than the issue on the PC and smartphone side. So whereas in PC and smartphones, the end demand trends are clearly weak and the sell through is clearly weak, and there has been a substantial degradation in expectations for this year's TAM from six months ago to now, by contrast, the server business and the trends of end demand even in enterprise server on our OEM customers in that space are healthy and our customers continue to report robust backlog and good server demand.
+
+I think the concern is that some of them are obviously data center generally across cloud and enterprise and including small and medium businesses. The builds of servers are not being able to be completed to the extent of the end demand because of shortages of certain parts that are still persisting, including for example, network interface cards as one example and then there are others.
+
+So, that's one factor that's preventing them from completing bills and meeting end demand. And then the other factor is just the general cautiousness that is creeping in, driven by some of these macroeconomic factors. But I just -- we are trying to just be extremely transparent and lay out what we see and what we hear very openly, because that caution is happening, causing them to reduce some of their inventories or wanting to reduce their inventories, in spite of at least today what is clearly robust demand on the end customer side.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Okay. That's helpful. Maybe a follow-up question is, Mark, I wanted you to elaborate on the comment earlier that you said beyond fiscal fourth quarter that the planned inventory build will weigh on gross margin. But I thought it would actually help your gross margin because you keep your utilization higher than the current demand indicate. But the other question I have, is there a framework that we can use to help understand where gross margin is going to bottom? And when if the -- any kind of inflection point when you think about, obviously pricing is the big factor here. But (Inaudible) are within your control, what is technology transitions or maybe utilization starts to improve. Thanks.
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yeah. There's no comment about, we're not guiding the quarter. Mine was just a market commentary that the market has gotten weak. And these conditions of the market will continue to weigh on margins. That was the only comment. It's not a guide and I'm certainly not going to comment on anything beyond that.
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+It was more a comment on inventory in the market, the customer inventory adjustments, and that environment continuing rather than anything about our inventory.
+
+A - Mark Murphy{BIO 17063197 <GO>}
+Yes.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Okay. That's good. All right. Thanks.
+
+Operator
+Thank you. Our next question comes from Raj Gill of Needham and Company. Your question, please?
+
+Q - Rajvindra Gill{BIO 16383656 <GO>}
+Yes. Thank you. And this question is kind of a follow-up on the sequential decline. So if you look at the August decline, it's 17% down sequentially, that's the biggest decline sequentially for August in kind of recent kind of company history. And you talked about an abrupt change to demand -- a considerable change in demand.
+
+So I just wanted to see if you could compare and contrast what you're seeing with this level of abruption in demand versus say when revenue declined pretty significantly back in kind of February of '19, or May of '19, when we're in the middle of the trade war with China and there were sanctions against China. Is it similar in terms of certain dynamics, in terms of significant cut in inventory, that you think from your customers? Is it more concentrated? It seems to be more concentrated in mobile and PC versus say last time. But I'm just curious how you're thinking about that. Because we've got a few of these of very abrupt macro impacts to demand.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah. I mean, I think if we looked at the environment and I understand the desire to use the framework from past declines, but if you look at the 2019 environment, that was the time that we had been seeing some weakness in the demand trend on the backs of seven or eight quarters of extraordinarily high increases in DRAM pricing, that had caused DRAM margins to become unsustainably high and the pricing to become unsustainably high due to significant shortage in the market.
+
+So I think that environment was entirely different and the motivations of customers and the actions of the customers was also pretty different. And so, each environment brings with it its own sets of unique issues. And so I think the way to think about the FQ4 number, yes, I mean definitely the environment wasn't late in our FQ3. And we have had primarily the consumer portions of the market, the PC, smartphone, and consumer segments channel, et cetera, be the ones that are driving a lot of this weakness, especially in our FQ4.
+
+I will call out that within that context, we spoke about in the Q&A earlier today, the impact of China has been pretty significant. The weakness in China is very pronounced. We spoke about the trajectory we were on -- that we believe we were on a quarter ago for FQ4 versus our current guide for China revenue. Our China revenue is down 30% approximately from that trajectory to our latest forecast, and that itself has impacted our consolidated revenue by approximately 10%. So, very significant impact coming from China.
+
+And then, of course, we mentioned some inventory correction here and there in the other segments that we mentioned in our prepared remarks with enterprise OEMs.So, that's sort of the big picture that we just wanted to highlight now. Like we said, every environment is different and how this plays out. I'm sure you'll be watching for trends when other companies report to try and triangulate where this is going.
+
+Q - Rajvindra Gill{BIO 16383656 <GO>}
+Yes. That's super helpful. And just a follow-up on that. Sizing of the China impact, was important to understand that, any kind of fresh data points or insights now that China has reversed the lockdowns, because this appears to be primarily China lockdown since you wish to combine with some of the other factors you talked about, but the China lockdown reversed. Are there any indications that that region is stabilizing or is it still to be determined?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+I think, the recent data points from the last month on smartphone sales in China still continue to be pretty weak. And so, a lot of the consumer spending remains to be seen how it actually starts to improve towards electronics and those type of items versus pent-up demand for travel and things like that.
+
+So it's not just about the overall consumer spending, it's also about the categories of those spending where consumers are choosing to shift their dollars, a lot of inflation out there, just like everywhere else. So, I think there is a lot of that. But also just keep in mind that the China economy and its weakness was lot more pronounced than most parts of the world and did proliferate beyond just the consumer segment of the market, right?
+
+So, the weakness in China was a broader economic weakness. When the shutdown -- it shut down all economic activity, right? Much of the economic activity gets shut down. And so that has been pretty damaging and even though everyone sort of intellectually knows and understands that that is happening, this is probably, it's one of the first few data points to understand the magnitude of some of these impacts.
+
+Q - Rajvindra Gill{BIO 16383656 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from Nick Todorov of Longbow Research. Your line is open
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Yeah. Thanks for taking the question. Two questions on inventory, and that some of you touched on one of them. When you speak to your customers, in those conversations, where they trying to land in terms of inventory on their shelves? Do you anticipate the inventory downstream to normalize to pre-COVID levels? Or you think there's going to be a new normal?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+We think that the inventory will normalize to a level that is higher than where the pre-COVID levels were. I don't think enough distance has been put between the shortages, and the experiences and memories are still very raw of that time. So I would be surprised as the inventories went all the way down to pre-COVID levels.
+
+There is still uncertainty around, for example, China's Zero COVID policies and what that means in case more COVID cases come up in different parts of China. So those kind of uncertainties will probably cause customers to have, even after they rationalize their inventory, a higher level of stable base, at least in the near term to medium term, compared to pre-COVID levels at little bit higher levels.
+
+But then again how all of this transpires, I mean this is just something we'll have to see, we're working very closely with customers. And as things improve, sell-through improve over time, China may decide to stimulate the economy in a significant way and that can improve end demand. So those kind of trends then can quickly eat up the inventory once the sell through improves, right?
+
+So, these are all very dynamic numbers. They have their individual weeks of sales targets, but then the absolute value of the inventory is heavily determined by the trajectory of the future sales expectations and that's really where a change in that trajectory improvement and expectations of future sales can quickly cause things to improve. But again, there is the environment of the macroeconomic weakness that everyone is focused on. So, it will take some time.
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Yeah. Makes sense. And second question is, can you talk about the inventory levels between DRAM and NAND, maybe both internally in the channel and at customers. Are there any meaningful differences between the two?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+I mean, our inventory levels are higher in NAND than in DRAM. So, I think if you look at the impact in terms of the TAM on all of these changes and unit forecast for PCs, smartphones, consumer markets, obviously, that's being felt in both DRAM and NAND markets. But internally, our own inventory is lower in the DRAM segment.
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Okay. And on customers, is it fairly similar or as you think that there's more NAND again?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+I can't see too many differences between DRAM and NAND, when customers go into this inventory reduction mode, they tend to reduce all semiconductor inventory of parts that they feel are readily available.
+
+So when different parts even beyond memory and storage are not in shortage across the semiconductor space, they tend to go up and down, sort of in a similar trajectory. Now, the inventory of products at customers may be at different levels. Different customers may have different levels of inventory of different semiconductor products, but generally, when they go into an inventory reduction mode, it's pretty broad-based approach.
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Yeah. Thanks for the answers.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Sure.
+
+Operator
+Next question comes from Timothy Arcuri of UBS. Please go ahead.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Hi. Thanks. I just wanted to go back to this issue of LTAs. And I guess I'm a little surprised that customers would be able to reduce demand this quickly, unless you're getting something out of it. I mean, I certainly understand that it provides you visibility and it helps you plan CapEx. But is there something that you were in a better position today versus if the same thing happened three or so years ago, when you had less on LTA. Are you selling at a higher price, maybe in August than you otherwise would have, if you didn't have these LTAs? I'm just trying to, because people will say well, what good are these LTAs if customers can stop buying to this magnitude. And then I had a second question too. Thanks.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Sure. Yeah, I mean I think if you look at customers in the past going back five years, there would be situations where customers would not be very clear or specific as to how much they intend to purchase from each of the suppliers.
+
+And the end result could in many cases, be the amount of bits that these suppliers are targeting to produce for any given customer is kind of 120% of their customers stamp. So -- and then there are these LTAs that are used pretty pervasively in the industry now. It definitely helps to rationalize and bring supply and demand into a better balance from a planning perspective.
+
+And the reason I say from a planning perspective is of course, actuals can deviate from plans when these kind of macro events occur. But when they occur and, these LTAs provides us with a very good basis to better understand how our customers are thinking not just about the next quarter, but about multiple quarters, it just gives us a mechanism to have dialogue for longer visibility into how they expect things to proceed.
+
+And as you can expect when we think about our own supply, we think about making changes to our CapEx plans, our supply plans, any changes that we make have an impact, several months out, right, I mean these cycle times are pretty long. And consequently, we need those longer views from our customers in order to understand exactly how best to create a better balance between supply and demand in the industry.
+
+So, I understand your concern that okay, if we are not going to buy based on the LTA volume, what good are these LTAs. And we have repeatedly said that these LTAs are never meant to be take or pay agreements. That was not the goal for which they were set up. And there is no pricing in these agreements either, they're more of volume-based agreement and the price is negotiated every quarter or every month depending on what kind of customer arrangements there are.
+
+And so, I think the way to think about it is, it's a very useful mechanism to drive alignment between supply and demand over the medium term to drive portfolio direction, share gains and things of that nature, and reduce an apparent level of customer -- suppliers targeting 110%, 120% of a customer's TAM because the customer will have LTAs with pretty much all the supplier. So more difficult to do that in a normal environment.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Can I just follow up on that? So, in this case, if a PC and a smartphone customer is taking bits down by, I mean, it has to be at least 40%, 50% sequentially. If they're doing that, they pay the exact same price that they would have, if they took what they said they would. There's no-- there's not even like a little bit of a price kicker you get, if bits were down 40%, 50% sequentially for a customer?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Well, there are things that happen on the pricing front, which I can't get into. But those are all things that we discuss with customers based on what their needs are and how it deviates from the LTA and so on. So, what exactly do we do with these customers when those kind of situations occur, I'm not at liberty to discuss in this call.
+
+But clearly, the intent is that if there are things that are happening that are outside the control of our own customers, we work with them to come to a resolution that both sides can feel good about. So, that's what we do. So, the details of that and how it changes with price et cetera, is not something I can address here.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Okay. Thank you.
+
+Operator
+Thank you. Ladies and gentlemen, this does conclude today's conference call. Thank you for participating. You may now disconnect.

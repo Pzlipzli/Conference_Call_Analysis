@@ -1,0 +1,548 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you, Carmen, and good afternoon, everyone. And welcome to Tesla's first quarter twenty twenty one Q and A webcast. I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q1 results were announced at about one p. M.",
+    "start": 30.48,
+    "end": 44.614998
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Pacific Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question and answer portion of today's call, please limit yourself to one question and one follow-up.",
+    "start": 44.614998,
+    "end": 73.725
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But before we jump into Q and A, Elon has some opening remarks. Elon?",
+    "start": 77.965,
+    "end": 82.125
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Great. Thank you. So Q1 twenty twenty one was a record quarter on many levels. Tesla achieved record production, deliveries and surpassed one billion dollars in non GAAP net income for the first time. And we've seen a real shift in customer perception of electric vehicles, and our demand is the best we've ever seen.",
+    "start": 83.94,
+    "end": 107.015
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So this is to be totally frank, we're used to seeing a reduction in demand in the first quarter, and we saw an increase in demand. So that exceeded the normal seasonal reduction in demand in Q1. So Model three became the best selling midsize premium sedan in the world. In fact, I should say the best selling luxury sedan of any kind in the world. The BMW three Series was, for the longest time, the best selling premium sedan.",
+    "start": 107.015,
+    "end": 139.515
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's been exceeded by the Tesla Model three. And this is only three point five years into production and with just two factories. For Model three to be outselling its combustion engine competitors, I think, is quite remarkable. In the past couple of quarters, we delivered roughly zero two five million Model 3s, so which translates to an annualized rate of zero five million dollars per year. When it comes to Model Y, we think Model Y will be the best selling car or vehicle of any kind in the world probably next year.",
+    "start": 139.515,
+    "end": 177.11
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So I'm not one hundred percent certain next year, but I think it's quite likely, I'd say more likely than not, that in twenty twenty two Model Y is the best selling car or truck of any kind in the world. Then with regard to full self driving, full self driving data continues to make great progress. This is definitely one of the hardest technical problems that exists that's maybe ever existed. And really, in order to solve it, we basically need to solve a pretty significant part of artificial intelligence, specifically real world artificial intelligence. And that sort of AI, the neural nets needs to be compressed into a fairly small computer, a very efficient computer that we've designed, but nonetheless, a small computer that's using on the order of seventy or eighty watts.",
+    "start": 177.11,
+    "end": 240.475
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So this is, I think, a much harder problem than if you were to use, say, you know, ten thousand computers in server room or something like that. This has got to fit into a smaller spring. And I think with the elimination of radar, we're finally getting rid of one of the last crushers. RADAR was really it was making up for some of the shortfalls of vision, but this is not good. You actually just need vision to work.",
+    "start": 241.35501,
+    "end": 278.525
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And when vision works, works better than the best human. It's like having eight cameras. It's like having eyes in the back of your head, the sides of your head and three eyes of different focal distances looking forward. This is yeah, and processing it at a speed that is superhuman. There's no question in my mind that with a pure vision solution, we can make a car that is dramatically safer than the average person.",
+    "start": 278.525,
+    "end": 309.695
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, but it is a hard problem because we are actually solving something quite fundamental about artificial intelligence. We're, we basically have to solve real world vision AI. And we are. So and key to solving this is also having just a massive data set. So just having well over a million cars on the road that are collecting data from very sort of corner case rare situations, you know, sort of like so many weird things in the world, like truck carrying a truck or a car with one example is like a car, an actual example, a car with a kayak on the roof where the kayak has a little weight dangling from the front of the kayak in front of the car and yet the car must ignore this and just look at the road.",
+    "start": 310.34,
+    "end": 383.33502
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So it's really quite tricky, but I am highly confident that we will get this done. So yes, this quarter, and I think we'll continue to see that a little bit in Q2 and Q3. Q1 was had some of the most difficult supply chain challenges that we've ever experienced in the life of Tesla, insane difficulties with supply chain, with parts of over the whole range of parts. Obviously, people have heard about the chip shortage. This is a huge problem.",
+    "start": 384.535,
+    "end": 429.96002
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But then in addition to that, for example, we had quite a bit difficulty scaling driving their production in China because we were unable to get critical engineers there because of COVID quarantine restrictions. So, which meant that Tesla worldwide was dependent on drive units made at our factory in Nevada, Kick, Nevada. So that was a very challenging situation. Think we're mostly out of that particular problem. That's just are just two of many challenges.",
+    "start": 431.88,
+    "end": 472.85498
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So the team is really good, an incredible job of dealing with really severe supply chain shortages. So let's see, with respect to Model S and X, there were more challenges than expected in developing the Plaid Model S, what's called the Palladium program, which is the new version of Model S and X, which has a revised interior and a new battery pack and new drive units and new internal electronics and has, for example, PlayStation five level infotainment system. There's just a lot of issues encountered ensuring that the new factory was well super safe was quite hard because we're working more on a smaller case. So it took quite a bit of development to ensure that the battery of the new SX is safe. And then we're trying to get all the details in the cars slowly for the past few months, but we're just stacking them up in the yard and just making refinements to the cars that we built.",
+    "start": 472.85498,
+    "end": 566.05
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But we do expect to ramp Model S production and start delivering them probably next month. So and then to be in sort of fairly high volume production for the S in Q3 and start delivering Model X in Q3 as well. So I think as we ramp up, I think probably the demand for the new SX will be quite high. Really just going be a question of ramping supply chain and internal production processes. So probably we're going to aim to produce over two thousand SX per week.",
+    "start": 566.53,
+    "end": 613.385
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Perhaps if we get lucky upwards of two thousand four hundred or two thousand five hundred. This again is contingent on global supply chain issues, which just a lot of factors outside of our control here. But I do think these things will get sold, so it's just a matter of time and then we'll be doing well over two thousand SX per week. It's a great car. It actually costs us less to produce, a little bit less to produce, but it is a superior product.",
+    "start": 615.46,
+    "end": 644.1
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, in conclusion, there's a lot to be excited about in twenty twenty one and twenty twenty two. We're building factories as quickly as we can. Both Texas and Berlin are progressing well. And we expect to have initial limited production from those factories this year and volume production from Texas and Berlin next year. At this time, we are continuing to ramp production of Model Y in Fremont and Shanghai.",
+    "start": 645.54,
+    "end": 676.69
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "In the background, we're continuing work development work on the semi, Cybertruck, the Roadster and other products. Thanks to everyone at Tesla who made this year a huge success. Now on to questions.",
+    "start": 677.65,
+    "end": 693.70496
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. We have some remarks from Zachary Kirkland as well. Yes.",
+    "start": 695.47,
+    "end": 700.51
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thanks, Martin. Thanks, Elon. Congratulations to the Tesla team on breaking multiple records in the first quarter of twenty twenty one as Elon had mentioned, which is typically the most difficult of the year for many reasons. To summarize the quarter, I think it's best understood by three key items. First, we successfully launched and began the ramp of Model Y in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.",
+    "start": 701.47,
+    "end": 728.68
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Second, as Elon mentioned, although we began the production process for the Model S during the quarter, we had not yet begun customer deliveries. The reduction in Model S and X deliveries from Q4 to Q1 were a meaningful headwind to free cash flows and profit generation. For example, we incurred an estimated two hundred million dollars of direct P and L impact relating to this program in Q1, the majority of which is reflected in COGS, and that's before even considering the impact of lost revenue and profits as a result of the transition. And as Ilan mentioned, we expect the first deliveries to begin shortly. Third, as we continue to work through the instability of the global supply chain, particularly around semiconductors and port capacities, while the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to production over the course of the quarter.",
+    "start": 729.32,
+    "end": 788.59
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "We believe that this landscape is improving, but it does remain difficult and it's an evolving situation. If we double click within net income, auto gross margin, excluding credits, improved sequentially and year over year. This is in spite of the cost mentioned for S and X and Expedites and a reduction in global ASPs as our cost structure as a company is reducing at an even faster pace. As",
+    "start": 789.07,
+    "end": 817.15
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "we look out over the course of the year, we feel optimistic about our gross margin strength, particularly as some of these headwinds we're experiencing start to be resolved. On services and other margins, these have recovered and are trending towards profitability, aided by strength in the used car business, operational improvements in service, and additional service revenue opportunities that help absorb fixed overheads. On energy gross margins, these remained negative for second quarter. This is driven by solar roof related ramp costs and winter seasonality in the lease PPA business. We continue to manage through a multi quarter backlog on Powerwall.",
+    "start": 817.31,
+    "end": 857.375
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "We're working as fast as we can to increase production, and this will aid in profitability of this business as those volumes increase. On operating expenses, these increased for Q1, is driven by our investments in technology and growth. In particular for R and D, this includes the structural battery pack and four thousand six hundred eighty cells, investments in the new S and X and our neural net and silicon investments. On the SG and A side, we're setting up infrastructure and support for both China and EMEA in anticipation of volume to come there. And as I said before, our plans show that we remain on track for sustained industry leading operating margins.",
+    "start": 857.615,
+    "end": 896.86
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Double clicking on cash flows, we continue to generate positive free cash flows, and this was despite the significant working capital headwinds from F and X. Additionally, we are making progress reducing various forms of debt. We also invested one point five billion dollars in Bitcoin during the quarter, then trimmed our position by ten percent, which contributed to a small gain in our Q1 financials. Taking a step back, we've generated eight billion dollars in operating cash flows and four billion dollars in free cash flows over the past four quarters. As we look forward, our plans remain unchanged for long term growth of fifty percent annually, and we believe we're on track to exceed that this year as we guided to last quarter.",
+    "start": 898.37994,
+    "end": 940.995
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Global demand remains meaningfully higher than production levels, and so we're driving as fast as we can to increase our production rates. As we think about Q2 and Q3, these quarters should largely be driven by execution on S and X, as we've discussed, continued ramp of Model Y in Shanghai and the associated cost reductions of these programs. We expect profitability and cash generation to evolve over the course of the year in line with those improvements. Then as we get towards the end of the year, our story will pivot towards the launch and ramp of our newest factories in Austin and Berlin. So there's certainly no shortage of exciting things for us to work on and look forward to.",
+    "start": 942.035,
+    "end": 982.6
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Thank you, and we'll open it up for questions.",
+    "start": 982.68,
+    "end": 985.07996
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And we'll first take retail questions from SEE website. The first question is, how is Dojo coming along? Could Dojo unlock an AWS like business line for Tesla over the next few years?",
+    "start": 985.48,
+    "end": 999.53503
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yes, I'll jump in here. With respect to Joe",
+    "start": 1022.85504,
+    "end": 1027.015
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Sorry, Zakat. My apologies. I was on mute.",
+    "start": 1027.015,
+    "end": 1030.215
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Go ahead, Elon.",
+    "start": 1030.4551,
+    "end": 1031.8151
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So yes, was just basically saying that the although like right now people think of Tesla as a lot of people think Tesla is a car company or perhaps an energy company, I think long term people will think of Tesla as much as an AI robotics company as we are a car company or an energy company. I think we are developing one of the strongest hardware and software AI teams in the world. Certainly, we're prepared to be able to do things with full self driving that others cannot. So, if you look at the evolution of what technologies we developed, we developed them in order to solve the problem of self driving. So, we couldn't find a powerful enough neural net inference, a computer, so we designed and built our own.",
+    "start": 1033.7201,
+    "end": 1095.32
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The software out there was really quite primitive for this task and so we built a team from scratch and have been developing what we think is probably the most advanced real world AI in the world. And then it sort of makes sense that this is kind of what needs to happen because the ROADS system is designed for a neural net computer, our brain. Our brain is a neural net computer. And it's designed the entire ROADS system is designed for vision with neural with a neural net computer, which is because it's designed for eyes and a brain. And so if you have a system which has very good eyes, you can see in all directions at once, you can see three focal points forward, but it never gets tired, it's never sort of texting, it has redundancy, and its reaction time is superhuman, then it seems pretty obvious that such a system would achieve an extremely high level of safety far in excess of the average person.",
+    "start": 1096.44,
+    "end": 1169.375
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, that's what we're doing. Then Dojo is kind of the training part of that. So, because we have over a million cars and perhaps next year we'll have two million cars in active use providing vast amounts of video training data that then needs to be digested by a very powerful training system. Currently, we use Tesla training software. We a lot of training software, a lot of labeling software to do to able to do surround video labeling, which is quite tricky.",
+    "start": 1170.56,
+    "end": 1221.1449
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This means all eight cameras simultaneously at thirty six frames a second per camera labeling video over time. There wasn't any tool that existed for this, so we developed our own labeling tool. Then taking it a step further, obviously, holy grail is auto labeling. So now we're getting quite good at auto labeling, where we do where the trainers train the training system and then the system auto labels the data and then the human laborers just need to look at the labeling to confirm that it is correct and perhaps make edits. And then every time an edit is made, that further trains the system.",
+    "start": 1222.0399,
+    "end": 1270.835
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So it's kind of like a flywheel that's just sort of spinning up. Really, only way to do this is with vast amounts of video data. So then we need to train this efficiently. So, Dojo is really a it is a supercomputer optimized for neural net training. We think SOJO will be probably an order of magnitude more efficient on, say I'm not sure what the exact right metric is, but say per frame of video.",
+    "start": 1270.835,
+    "end": 1307.615
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We think it will be an order of magnitude more cost efficient in hardware and in energy usage per frame of video compared to a GPU based solution or compared to the next best solution that we're aware of. Possibly that could be used by others. It does seem as though over time, mean, just as an observation, think basically just the fact that neural net based computing or AI based computing is more and more of the compute stack. Conventional computing is perhaps heuristics based computing, still going to be important -- so going very important that it will become -- neural net will become a big and bigger portion of compute. So, all right, that's a long story, but I think probably others will want to use it too and we'll make it available.",
+    "start": 1308.88,
+    "end": 1384.7949
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. Let's go to the second question from retail investors. The recent price changes on Solar Roof have been discouraging for customers and investors. Could you just like to share more about solar roof challenges and if the outlook has changed at all, I. E, one thousand roofs per week?",
+    "start": 1386.955,
+    "end": 1405.23
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. First of I should say the demand for the solar roof remains strong. So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the solar roofs. So, production has gone fine, but we are choked at the installation point. We did find that we basically made some significant mistakes in assessing the difficulty of certain roofs, but the complexity of roofs varies dramatically.",
+    "start": 1409.275,
+    "end": 1444.705
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Some roofs are to be literally two or three times easier than other roofs. So, you just can't have a one size fits all situation. If a roof has a lot of protuberances or if the roof sort of core structure of the roof is rotted out or is not strong enough to hold the solar roof, then the cost can be double, sometimes three times what our initial quotes were. So, in those cases, what we've obviously opted to do is to refund customers their deposit. And but what we cannot do is go and just lose a massive amount of money.",
+    "start": 1444.705,
+    "end": 1492.5
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We just got to provide a refund of deposit. What is most important about the SolarWinds situation, which I tweeted about this past week is that we're shifting the whole sort of solar situation, so the solar power basically solar plus battery situation to there's only one product basically or there's only one configuration. Every house we will not sell a house solar without a Powerwall. That solar could either be solar retrofit, other words, conventional panels put on a roof or it can be the Tesla solar glass roof. But in all cases, it will have the Powerwall two.",
+    "start": 1493.255,
+    "end": 1543.46
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Technically, this business is essentially Powerwall two plus if you will. The plus refers to a higher peak power capability. So basically, all Powerwalls made since roughly November of last year have a lot more peak power capability than the specification on the website. They have about twice the power capability roughly. It depends on how you count power, but about twice the peak power and about arguably twice the steady state power of the specification of the website.",
+    "start": 1543.46,
+    "end": 1586.875
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The energy is the same, but the power is roughly double. And all installations so all installations will have the Powerwall and the difficulty of the installation will dramatically or the difficulty of the installation will be much less. It will be much easier because the power from the solar roof solar glass roof or the solar panels will only ever go directly into the Powerwall. And the Powerwall will only ever go between the utility mains between the utility and the main power panel of the house, which means you never need to touch the main circuit breakers of the house. You never need to touch the house circuit breakers.",
+    "start": 1587.5,
+    "end": 1641.9451
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Effectively, almost every house therefore looks the same electrically instead of being a unique work of art and requiring exceptional ability to rewire the main panel. So, this is extremely important for scalability. It's the only way to do it really. And this also means that every solar powerwall installation that the house or apartment or whatever the case may be will be its own utility. And so even if all the lights go out in the neighborhood, you will still have power.",
+    "start": 1642.5599,
+    "end": 1683.5
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So that gives people energy security. And we can also in working with the utilities, use the Powerwalls to stabilize the overall grid. So let's say that there's a like there was in Texas, was a peak power demand. And that peak power demand, because the grid lacked the ability to buffer the power, they had to shut down power. There's no power storage, no good power storage.",
+    "start": 1684.485,
+    "end": 1718.395
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "However, with a whole bunch of Powerwalls at houses, we can actually buffer the power. So if the grid needs more power, we can actually then with the consent obviously of the homeowner and the partnership with the utility, we can then actually release power onto the grid to take care of peak power demands. So effectively, the Powerwalls can operate as a giant distributed utility. This is profound. I'm not sure how many people will actually understand this, but this is extremely profound and necessary because we are headed towards a world where, as we just talked about earlier, where people are moving towards electric vehicles.",
+    "start": 1718.395,
+    "end": 1766.13
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This will mean that the power needs in homes and businesses will increase significantly. We will there will need to be a bunch more electricity coming stronger. In fact, if you go to full renewable electricity, we need about three times as much electricity as we currently have. So these are rough numbers, but you as much electricity if all transport goes electric and then you need three times as much electricity if all heating goes electric. So basically, this is a prosperous future I think both for Tesla and for the utilities.",
+    "start": 1766.875,
+    "end": 1811.19
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Because in fact, I think this will be very if this is not done, the utilities will fail to serve their customers. They won't be able to do it. They won't be able to react faster. And we're going to see more and more of what we see in California and Texas of people seeing brownouts and blackouts and utilities not being able to respond because there's a massive change going on with the transition to electric transport and we're seeing more extreme weather events. This is the recipe for disaster.",
+    "start": 1812.3099,
+    "end": 1844.9199
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So it is very important to have solar and batteries at the local level of the house. In addition, it is important to have large battery storage at the utility level so that solar and wind, which are the main forms of renewable electricity, be that electricity can be stored because sometimes the wind doesn't blow, sometimes it blows a lot. Sometimes it blows too much and sometimes it doesn't blow enough. But if you have a battery, you can store the energy and provide the energy to the grid as needed. The same goes for solar because obviously the sun does not shine at night and sometimes it is very cloudy.",
+    "start": 1845.56,
+    "end": 1886.8351
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And so by having battery storage paired with solar and wind, this is the long term solution to a sustainable energy future. And as I said, this really needs to occur both at the local level and at the utility level. If it doesn't occur at the local level, what will actually be required is a massive increase in power lines, in power plants, so they have to put long distance and local power lines all over the place. They'll have to increase the size of the substations. It's a nightmare.",
+    "start": 1886.8351,
+    "end": 1922.21
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This must occur. There must be solar plus battery. That's the only way. So yes.",
+    "start": 1923.25,
+    "end": 1931.17
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And the next retail question is, Master of Coin, can you tell us anything about Tesla's future plans in digital currency space? Or when any such major developments might be revealed?",
+    "start": 1933.175,
+    "end": 1945.3351
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Sure. Thanks, Martin. So as I noted in our opening remarks and we've announced previously, so Tesla did invest one point five billion dollars into Bitcoin in Q1 and Then we subsequently sold a ten percent stake in that. We also allow customers to make vehicle deposits and final vehicle purchases using Bitcoin. Where our Bitcoin story began, maybe just to share a little bit of context here, Elon and I were looking for a place to store cash that wasn't being immediately used, trying to get some level of return on this, but also preserve liquidity, particularly as we look forward to the launch of Austin and Berlin and uncertainty that's happening with semiconductors and port capacity, being able to access our cash very quickly is super important to us right now.",
+    "start": 1947.6599,
+    "end": 1999.725
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "There aren't many traditional opportunities to do this or at least that we found and in talking to others that we could get good feedback on, particularly with yields being so low and without taking on additional risk or sacrificing liquidity. Bitcoin seemed at the time and so far has proven to be a good decision, a good place to place some of our cash that's not immediately being used for daily operations or maybe not needed until the end of the year and be able to get some return on that. Think one of the key points that I want to make about our experiences in the digital currency space is that there's a lot of reasons to be optimistic here. We're certainly watching it very closely at Tesla, watching how the market develops, listening to what our customers are saying. Thinking about it from a corporate treasury perspective, we've been quite pleased with how much liquidity there is in the Bitcoin market.",
+    "start": 2001.58,
+    "end": 2060.79
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Our ability to build our first position happened very quickly. When we did the sale later in March, we also were able to execute on that very quickly. As we think about global liquidity for the business and risk management, being able to get cash in and out of the markets is something that I think is exceptionally important for us. We do believe long term in the value of Bitcoin, so it is our intent to hold what we have long term and continue to accumulate Bitcoin from transactions from our customers as they purchase vehicles. Specifically with respect to things we may do, there are things that we're constantly discussing.",
+    "start": 2061.35,
+    "end": 2101.9348
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "We're not planning to make any announcements here. We're watching this space closely. So when we're ready to make an announcement on this front, if there's one to come, we'll certainly let you all know.",
+    "start": 2101.9348,
+    "end": 2111.615
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the fourth question from retail investors is, does Tesla have any proactive plans to tackle mainstream media's imminent, massive and deceptive clickbait headline campaigns on safety of autopilot or FSD, perhaps specialty PR job of some sort?",
+    "start": 2114.96,
+    "end": 2133.385
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Well, I'll take this one guys. From the safety side, I continue to say if you want to go ahead, Ewan.",
+    "start": 2142.74,
+    "end": 2153.14
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Please go ahead. If anything special worth just going through the facts of the what I mean, specifically, was an article regarding a tragedy where there was high speed accident in Tesla, that and there was really just extremely deceptive media practices where it was claimed to be autopilot with this is completely false. And those journalists should be ashamed of themselves. Please go ahead, Lars.",
+    "start": 2153.46,
+    "end": 2190.2651
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yes. Thanks, Yuan. So I was just saying we're committed to safety in all our designs and that's number one in what we do here. Regarding the crash in Houston specifically, we work directly with the local authorities, NGSB and NHTSA, wherever applicable and whenever they reach out to us for help directly on the engineering level and whatever else we can support. In that vein, we did a study with them over the past week to understand what happened in that particular crash, what we've learned from that effort was that autosteer did not and could not engage on the road condition that as it was designed.",
+    "start": 2190.7449,
+    "end": 2226.1501
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Our adaptive cruise control only engaged when a driver was buckled and above five miles per hour, and it only accelerated to thirty miles per hour with the distance before the car crashed. As well, adaptive cruise control disengaged the cars fully to complete to a stop when the driver's seat belt was unbuckled. Through further investigation of the vehicle and the accident remains, we inspected the car with NTSB and NHTSA and the local police and were able to find that the steering wheel was indeed deformed, there must leading to the likelihood that someone was in the driver's seat at the time of the crash, and all seatbelts post crash were found to be unbuckled. We were unable to recover the data from the SD",
+    "start": 2226.3901,
+    "end": 2269.125
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "card at the time of impact, but the local authorities are working on doing that and we await their report. As I said, we continue to hold safety in a higher regard and look to improve our products in the future through this kind of data and other information from the field.",
+    "start": 2269.685,
+    "end": 2285.32
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. Let's go to the next question from institutional investors. The first question is proponents of alternative grid storage technologies claim that lithium ion is unsuited for long term storage at scale due to vampire drain. Could four thousand six hundred eighty cells address this limitation? Is the limitation even relevant for charging the energy equation?",
+    "start": 2291.88,
+    "end": 2313.79
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yes.",
+    "start": 2314.19,
+    "end": 2315.1501
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Just let me jump in on the vampire drainage. That's definitely not the issue. A good lithium ion cell self discharges less than zero point zero zero one percent of its energy per day, so the vampire drain is maybe not speculative.",
+    "start": 2319.47,
+    "end": 2335.135
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "As mythical as vampires.",
+    "start": 2339.5,
+    "end": 2341.34
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Yes, I think the challenge with seasonal storage is your value proposition drops from hundreds of useful full cycles per year to less than maybe ten or maybe even less than five cycles per year. So it's just a different type of technology altogether that would make sense, given that it's more than an order of magnitude different use case.",
+    "start": 2343.58,
+    "end": 2365.685
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. We've got a long way to go before we're dealing with seasonal technology issues. Certainly a way to deal with seasonal technology would be to have wind and solar growing on the side of more subtly latitudes and but then across a variety of longitudes. So essentially, like, let's say, in the U. S, for example, if there was I'm not sure if you'll understand this, but you can actually power the entire United States with just sort of one hundred roughly a one hundred mile by one hundred mile grid of solar.",
+    "start": 2367.6702,
+    "end": 2412.485
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Sometimes people don't quite understand like, well, how much solar is needed out of the United States? Almost nothing of the subsidy is required out of the United States and this is true of almost any country in the world. The solar incidence is a gigawatt per square kilometer. This is insane. In fact, if you took the clear area, just the area for nuclear power plants, the area that is considered not usable because a nuclear power plant is there, in most cases, if you just put solar there, it would generate more power than in the nuclear power plant, because they typically have pretty wide clear areas.",
+    "start": 2414.0051,
+    "end": 2458.9102
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, you have, say, twenty five percent efficient solar panels and then those are eighty percent efficient in how they're laid out, you're going to do about two hundred megawatts per square kilometer. Therefore, five square kilometers is a gigawatt, which might be a typical sort of power plant. It's really not much area at all. And a lot of places can have wind and solar in place. So anyway, it's entirely possible to power all of Earth with a small percentage of Earth's area.",
+    "start": 2460.9102,
+    "end": 2504.485
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And then to transmit that power through high voltage DC lines, no new technology, no you don't need like room temperature superconductors. Another myth, Room temperature superconductors are almost irrelevant in my opinion, almost irrelevant. Low cost, long distance power lines using copper or aluminum or that's very important. So heating is I2R. So that's current squared to time resistance.",
+    "start": 2505.5251,
+    "end": 2544.9302
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So as you increase voltage, you can drop the current dramatically and drop the heating dramatically to the point where it is of minor relevance, like maybe you lose five percent to seven percent with a high voltage DC power line, something like that. So I want to be clear, no new physics is necessary, no new materials necessary. We just need to scale this thing up. The technology exists today to solve renewable energy. And some of the schools say, well, why don't we do it?",
+    "start": 2545.09,
+    "end": 2580.1348
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "That's because the energy basis of the earth is gigantic, super mega insanely gigantic. So you can't just go and do a zillion terawatts overnight. You've got to build the production capacity for the cells, for the battery cells, for solar cells. You've got to put that into vehicles. You've to put that into stationary storage packs.",
+    "start": 2580.1348,
+    "end": 2602.3098
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "You've got to put that into solar panels and solar glass roofs, and you've got to deploy all this thing, all this stuff. It is certainly the case that we can accelerate this and we should try to accelerate it. And the right thing to do, I think, from an economic standpoint, I think almost any economist would agree, is to have a carbon tax Just as we have a tax on cigarettes and alcohol, which we think are more likely to be bad than good, and we tend to tax fruit and vegetables less, The same should be true. We should tax energy that we think is probably bad and support energy we think is probably good, just like servicing alcohol versus fruits and vegetables. It's just common sense.",
+    "start": 2602.3098,
+    "end": 2650.6802
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "On the plus side, I'm not suggesting anyone would be complacent, but sustainable energy, renewable energy will be solved. It is being solved, but it matters how fast we solve it. And if we solve it faster, that's better for the world.",
+    "start": 2655.32,
+    "end": 2669.705
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much.",
+    "start": 2673.0652,
+    "end": 2673.865
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "There's no question in my mind whatsoever that the energy storage problem can be solved with lithium ion batteries. Zero. I want to be clear. Zero. I think the bias will tend to be towards iron based lithium ion cells.",
+    "start": 2673.865,
+    "end": 2692.915
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "When we look at lithium, I do think lithium must be a big constituent of the cells. It's more like one percent to two percent of the cell is lithium. The main part of the cell is the cathode. The main mass and cost in the cell is the cathode. For high energy cells, like for example, what we use in most most have nickel based lithium ion cells, which have higher energy density, longer range than iron based cells.",
+    "start": 2692.915,
+    "end": 2724.265
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "However, stationary storage, the energy density is not as important as just sitting on the ground. And so, I think the vast majority of stationary storage will be iron based lithium ion cells with an iron phosphate cathode technically. But the phosphate part is unnecessary. It's really just iron or nickel. Unnecessary in the terminology.",
+    "start": 2724.7449,
+    "end": 2755.465
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Just think of it as iron or nickel. And there's an insane amount of iron in the world. More iron than we could possibly use. And there's also more lithium than we could possibly use. Basically, there is no shortage of anything whatsoever in iron phosphate lithium ion cells.",
+    "start": 2755.545,
+    "end": 2771.5
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Let's go to the next question from institutional investors, which is you've suggested that between a 5x to 10x improvement is achievable in the automotive production versus the first Model three line on the first principles physics analysis. Where does Berlin sit relative to that limit?",
+    "start": 2775.5952,
+    "end": 2797.21
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I think we're still quite far away from it. I mean the thing to bear in mind with production is for those who have never done production, they just don't understand how insanely hard production is. I want to really be very, very emphatic here. Prototypes are trivial. They're child's play.",
+    "start": 2800.25,
+    "end": 2826.36
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Production is hard. It is very hard. Now you say production at large scale with higher liability and low cost, insanely difficult. What Tesla achieved on the automotive side was not to create an electric car. The truly profound thing on the car side is that Tesla was the first American car company to achieve volume production of a car in one hundred years and not go bankrupt.",
+    "start": 2826.76,
+    "end": 2857.8
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So this is I basically myself and many others at Tesla had to basically have several aneurysms to get this done. It was so hard. Have no idea. So anyway, and the thing about making a large complex manufactured object is, let's say you have first order approximation ten thousand unique items. If even one of those items is slow, that sets your rate.",
+    "start": 2859.865,
+    "end": 2890.925
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Just one. It doesn't matter how so trivial. We've had production stopped because of carpet in the trunk. Had production stuff because of USB cable. At one point, for the Model S, the we literally raided every electronics store in the Bay Area.",
+    "start": 2891.165,
+    "end": 2915.94
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "For a few days there, nobody could buy a USB cable in the Bay Area because we went to Portugal to put them in a car, literally. And there's like hundreds of stories like that. So anyway, that's solving that those constraints and a logistics problem that makes World War II look trivial. I'm not kidding. Like the scale is insane.",
+    "start": 2915.94,
+    "end": 2943.86
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We're talking millions of cars, massive global supply chain, fifty countries, dozens of regulatory regimes. It's the same. So yes.",
+    "start": 2945.9949,
+    "end": 2966.5
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And last question from institutional investors. Masterplan Part two talks about an urban transport vehicle that is smaller than traditional bus with greater aerial density achieved by removing the central aisle. Do you have any updates to share on this goal?",
+    "start": 2968.9,
+    "end": 2986.79
+  },
+  {
+    "speaker": "Zachary Kirkhorn",
+    "text": "Not at this time.",
+    "start": 2989.59,
+    "end": 2990.79
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you very much. So let's move to analyst Q and A.",
+    "start": 2994.31,
+    "end": 2998.87
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "All right. Thank you very much. Unfortunately, this is all the time we have for today. Thank you very much for dialing in and for listening, and we'll speak to you again in about three months. Thank you.",
+    "start": 3794.67,
+    "end": 3804.1099
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Thanks everyone.",
+    "start": 3806.795,
+    "end": 3810.955
+  }
+]

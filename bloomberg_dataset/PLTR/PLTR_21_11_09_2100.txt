@@ -1,0 +1,343 @@
+Q3 2021 Earnings Call
+Company Participants
+David A. Glazer, Chief Financial Officer & Treasurer
+Kevin Kawasaki, Global Head of Business Development
+Rodney Nelson, Head of Investor Relations
+Shyam Sankar, Chief Operating Officer & Executive Vice President
+Other Participants
+Alex Zukin, Wolfe Research
+Analyst
+Brent Thill, Jefferies
+Mark Cash, Morningstar
+Rishi Jaluria, RBC Capital Markets
+Presentation
+Rodney Nelson{BIO 19419936 <GO>}
+Good morning. Welcome to Palantir Third Quarter 2021 Earnings Call. We'll be discussing the results announced in our press release issued prior to the market open and posted on our investor relations website. During the call, we will make statements regarding our business that may be considered forward-looking within applicable securities laws, including statements regarding our fourth quarter and fiscal 2021 results, management's expectations for our future financial and operational performance and other statements regarding our plans, prospects and expectations.
+
+These statements are not promises or guarantees and are subject to risks and uncertainties which could cause them to differ materially from actual results. Information concerning those risks is available in our earnings press release distributed prior to market open today and in our SEC filings. We undertake no obligation to update these forward-looking statements, except as required by law.
+
+Further, during the course of today's call, we will refer to certain adjusted financial measures. These non-GAAP financial measures should be considered in addition to as a substitute for or an isolation from GAAP measures. Additional information about these non-GAAP measures, including reconciliation of non-GAAP to comparable GAAP measures is included in our press release and investor presentation provided today.
+
+Our press release, investor presentation and SEC filings are available on our Investor Relations website at investors.palantir.com. Joining me on today's call, are Shyam Sankar, Chief Operating Officer; Dave Glazer, Chief Financial Officer; and Kevin Kawasaki, Global Head of Business Development. Over the course of the call, we will refer to various growth rates, when discussing our business. These rates reflect year-over-year comparisons unless otherwise stated.
+
+I'll turn the call over to Shyam to get us started.
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thank you, Rodney. It was a fantastic quarter across the Board. In Q3, total revenue grew 36%, commercial revenue growth has accelerated in every quarter over the last year from 4% in Q4, 2022 to 19% in Q1 to 28% in Q2, now 37% in Q3. At this scale, acceleration like this it's gravity-defying.
+
+U.S. Commercial Revenue growth accelerated once again to 103% year-over-year. We added 34 net new customers in Q3. To put this in perspective, our commercial customer count grew by 46% sequentially. We have more than doubled our commercial customer counts as the beginning of the year. We closed 54 deals of $1 million or more, 33 of which were $5 million or more, and 18 of which were $10 million or more.
+
+Adjusted free cash flow was $119 million, a margin of 30%. Total deal value grew 50% to $3.6 billion. Commercial deal value more than doubled to $2.2 billion. Remaining performance obligations increased by 172% and year-to-date, we have grown revenue 44% to over $1.1 billion.
+
+We have generated an adjusted free cash flow margin of 29% and 32% adjusted operating margin. There are so many wins this quarter. Instead of going through them customer by customer as I usually do, I wanted to highlight three themes. One, we are seeing more traction selling into the defense industrial base as a customer.
+
+Foundry has shown that it can help in the production of the A320 of RAM pickup trucks, auto parts, PPE and tractors. You can do it better, faster and cheaper. And the defense industrial base is seeing that it can have the same impact on the production of fighter jets, naval ships and land vehicles. We are excited to do more here with L3Harris, Huntington Ingalls and other large primes.
+
+Secondly, our work in automotive and more generally mobility is growing. We are adding more customers across the mobility value chain from OEMs and their suppliers all the way to EV charging companies and insurers. And lastly, our work in healthcare is exploding.
+
+The NHS, MD Anderson, 70 academic medical centers through the NIH is N3C, The Department of Veteran Affairs and even more regional U.S. providers means that foundry is helping to manage over $300 million patient lives and growing. We have a very unique opportunity and a diverse footprint that we believe continues to uniquely position us to deliver on the necessary transformation in healthcare delivery, from operational excellence to complex clinical care.
+
+Cutting-edge product and continued innovation and distribution drove these exceptional results in Q3, and you can really see that in the consistently accelerating commercial business. We are seeing a profound pull on foundry in the market, as organizations digest and synthesize lessons from the shocks of COVID and subsequent events. There is a canonical spot for foundry in the enterprise architecture that the market has synthesized.
+
+Foundry, is the nervous system and the cardiovascular system of the enterprise. It is the connective tissue that connects your analytics to your operational systems, such an architecture marries a digital twin of the enterprise with action APIs that allow you to first model and simulate and second, orchestrate and execute complex cross-functional transactions.
+
+As the COVID-19 crisis pulled the tide out, that's exactly what was revealed at missing. Companies needed to move beyond visibility, beyond analytical insights to having the technical infrastructure to translate that into coordinated, orchestrated actions in the operations of their business.
+
+And one of the coolest places to see this working is with our Day Zero companies. These companies have enormous ambition and deeply value the step change in speed and the reduction of expenses foundry delivers when consumed as infrastructure as a service.
+
+Wejo is able to develop market-ready applications and as little as six weeks on Foundry. Sarcos is integrating 0.5 trillion data points per month to accelerate design, maintenance and commercialization of their Iron Man suits. Lilium is flying through ground and flight testing, wielding the vast data generated by every sensor streaming from the aircraft. I'd like to introduce some of our Day Zero founders to unpack this a little bit more.
+
+(Audio-Video Presentation)
+
+A big thanks to our builders who shared more about their ambition, in the transformative impact of foundry on their operations. We started this program to supercharge earlier stage companies, enabling them to create an enabling them to create a central operating system for their data and to scale rapidly from day zero. These companies, they're not just managing their data and they're operations. They are wielding them to blitzscale and win.
+
+We announced our second cohort of builders in October. There are seven companies from a diverse set of industries. And we continue to partner with innovative companies across industries such as automotive, biotech, healthcare, media and more.
+
+Turning more broadly to the commercial business. This scope of our impact is expanding. Foundry has infrastructure is a big theme we are excited about. Customers are building their software on top of our platform. And now we have yet another way to power that with a major product innovation that extends the openness and flexibility of our infrastructure for developers that we're calling operational APIs or OPIs for short.
+
+This liberates the ontology to serve as the nervous system, the cardiovascular system of the enterprise as a unified action and orchestration layer. This API tools that allows for third parties and customer developers to programmatically interact with foundry's ontology.
+
+In this headless mode, ID can leverage the power of the ontology in all of their enterprise applications via this open architecture. What's uniquely powerful about the ontology, it's not the nouns, it's not the things in the business, it's the representation of the verbs, the actions that can be taken to those things in the business, the fact that inventory can be allocated, production can be scheduled, orders can be fulfilled.
+
+To accomplish these deceptively simple actions requires you to read and write to potentially tens of source systems transactionally. Foundry lets you orchestrate complex cross system decisions to win and turn market disruption into your competitive glory.
+
+For example, a large industry partner is unlocking value by integrating Microsoft Power apps with the Foundry ontology. Power apps, through our OPIs, can affect business decision, powering workflows and writing data, back to external of operational and transactional systems like ERP, MES warehouse management systems and more. This is the modern operating system in action.
+
+We launched Apollo this past week as a commercial offering enabling any software company, to leverage our deployment infrastructure to take their SaaS, where no SaaS has gone before. On-prem classified clouds, air GAAP networks and to the edge. Here to tell us more is Greg DeArmond the mad scientist behind the conception and launch of Apollo.
+
+(Audio-Video Presentation)
+
+And we continue to push the envelope of Apollo capability by enabling streaming processing at the edge. Once again, we are building five years ahead of the market. Software shamans building technology that will meet its moment. With our latest investments, you will be able to develop streaming pipelines in Foundry that you then package up, version and continuously deploy to Edge compute infrastructure, be it a Humvee, a satellite, a 5G base station to enable real-time processing of large amounts of data in a decentralized efficient manner. These pipelines, they'll be versioned, upgrade managed and orchestrated by Apollo.
+
+Imagine, you'll be able to blue green upgrade your streaming pipelines across submarines, factory floors, 5G and 6G networks. This is a revolutionary capability that will give our customers the edge against their competition. There are two modular offerings that we have taken to market that we were really quite excited about, carbon emissions management and AML for crypto and fintechs.
+
+Starting with carbon and emissions management. There is a huge need to not simply account for carbon and more broadly emissions. But, what are you going to do about? It day to day, month to month, how do you manage trade-offs between production on time in full revenue, margin and emission started?
+
+How do you understand the levers you have to pull in the implications of each leverage? Do you have the ability to understand the consequences of changing a supplier or setting a different delivery routing or changing a production location on your emissions? Can you put that information into a single pane of glass?
+
+The same pane that your company uses to manage production or revenue or margin. Because until you do emissions management will only be a source of beta for you. Something that you do so that you're not left behind, but once you do you'll be able to use it, to beat your competition and win in the market.
+
+These workflows are tailor-made for foundry and leverage our digital twin in supply chain capabilities to present a single pane of glass to view revenue, margin, production and all emissions to not just see but to manage the outcome. This is an area that we are seeing growing momentum and no small part because of the obvious charisma of alpha of developing a competitive edge.
+
+Customers across disparate Industries are building carbon focused common operating pictures to track live emissions. This simulated mission's impacts of the changes to for example, suppliers, to technologies and regulations and to make real-time changes to their business.
+
+The other offering we are really excited about is foundry for crypto. We have found a unique fit with fast-growing crypto companies that need industrialized compliance solutions. We are leveraging our deep anti-money laundering and know your customer expertise developed over years helping government's find compliance issues with the world's largest banks and helping those banks respond and hardened their compliance programs.
+
+I mentioned last quarter, how one of Europe's largest retail Banks has deployed our AML solution in two days. Two days, the cost, speed and performance is unmatchable. These crypto exchanges in fintech disruptors are actually technical and can easily discern what legacy Bank struggle to that legacy compliance solutions are often two or more decades behind. We believe there are no alternatives that can compete on cost speed and performance and we're really excited to put more weight behind this in the market.
+
+Turning to government, we continue to advance our mission of becoming the U.S. government central operating system as we extend our footprint, across defense health care and civilian agencies. In the third quarter we signed new deals with the department of health and human services, the Air Force, the NIH and more.
+
+I'm proud to say that the meta-constellation which we feel featured in last quarter's earnings call met its moment when called upon by UK MOD to enable noncombatant evacuation operations in Afghanistan. As a reminder, the meta-constellation is radically changing how satellites are tasked. The latency of collection and it's creating a fundamental link in the AI enabled kill chain.
+
+We are orchestrating a Meta constellation of more than 300 satellites by working with an array of commercial space companies. These companies have been deploying constellations of hyperspectral, radar and elite sensors into orbit and we are putting all that power directly into the hands of the front lines, empowering the edge. End-to-end Gotham and Foundry infrastructure, including medical installation, provided unparalleled capability and was stood up in less than a day for UK MOD operations.
+
+In addition, meta-constellation was also used to great effect that last month Scarlet Dragon U.S. military exercises, where it provided timely and effective targeting information. This is all made possible because of Apollo for Edge AI. We were recently down selected by the U.S. army to be the sole provider of the army's intelligence data fabric and analytics foundation for the Capability Drop 2 program.
+
+The army will deploy Gotham to support intelligence workflows worldwide with a globally federated intelligence data fabric and analytics platform spanning multiple security classifications. Our work on CD-2 is just one of many initiatives of which of which we are engaging with the Army, including CD-1 and Titan that will accelerate the decision chain and provide decisive advantage for our armed forces in the near peer fight.
+
+We have a motivating set of customers and growing pipeline for big pursuits in '22 and beyond, and it is growing every quarter. We're not just competing for programs. Our unique capabilities are creating their own opportunities.
+
+Our work and healthcare continues to expand, and we recently signed a four-year $87 million contract with the Department of Veteran Affairs. This department serves 9 million veterans and their family members and spends nearly a quarter trillion dollars per year.
+
+After supporting them in the exigency during COVID-19 response, we want an unrestricted competition to help power their data transformation efforts. Our software is going to enable the VA to integrate data across its large IT landscape and ultimately to deliver better care and services for our veterans. It is a privilege to serve our veterans and war fighters, both on the battlefield and in their period after service.
+
+Our collaboration with the NIH continues and the fight against COVID-19. As N3C deepens its partnership with Palantir, leveraging foundry as their research backbone. This two year award carries a total potential value of $60 million and the N3C data Enclave represents one of the largest collections of COVID-19 health records in the world.
+
+Additionally, our work with NCAT expanded with an increase in total potential value of $24 million. Zooming out a bit from mud to space, big picture in the government segment, we are seeing an emerging opportunity to help define the next wave of disruption.
+
+One thing, perhaps the one thing we have demonstrated to the market is that it is possible to sell software at scale to the government for programs of record where the government might have historically otherwise bought labor and services. And of course in doing so, we have radically transformed the margin profile of these big government contracts.
+
+There is an immense opportunity in this sector to partner with existing government contractors to productize their solutions that they are delivering us services today. And in doing so, to transform the EBITDA they generate against their existing revenue with our platforms.
+
+We have proven that we can do this with our business and we are exploring opportunities to partner with firms that have a disruptive vision and realize that they can stand on our shoulders, the 15 years and nearly $3 billion of R&D that we have done to productize and scale their own offerings.
+
+Before turning it over to Dave, I wanted to give a quick shout out to every hobbit and just reflect on our journey as much over the last two decades as over the last year. A year ago, we gave our first results as a public company. We should be proud of those five quarters of results, but even prouder of the collective effort and passion that begat those results.
+
+We pivoted the whole company to respond to the exigent events of COVID for government and commercial entities around the world. But, of course, that happened before we went public. And we all had that question, will we preserve the cultural essence of Palantir after the listing? Will we have the radical ability to organize and reorganize around the problem at hand while capturing the integral of our innovation?
+
+Well in Q3, we could answer that question definitively. Yes, when the bat signal was put up in the night sky, the Motley Crue of hobbits, answered the call for America and her allies five quarters down at least 500 more to go.
+
+Over to you, Dave.
+
+David A. Glazer{BIO 21953140 <GO>}
+Thanks, Shyam. I'll review, our third quarter performance, followed by your outlook. We had a record-breaking Q3 as continued product innovation and our ongoing investments in distribution, led to accelerating customer account growth and strong free cash flow. We generated revenue growth of 36% in the quarter, bringing Q3 revenue to $392 million and year-to-date revenue to more than $1.1 billion of 44% versus the first nine months of last year.
+
+Our business continues to demonstrate very strong cash generation. Third quarter cash from operations was $101 million and improvement of $153 million versus the prior year period. We delivered $119 million in adjusted free cash flow in the third quarter, representing a margin of 30%.
+
+The strength of our third quarter performance brings year-to-date adjusted free cash flow to $320 million, representing a free cash flow margin of 29% and $605 million improvement from the prior year period. Third quarter adjusted operating income increased to $116 million, representing a margin of 30%.
+
+Our fourth consecutive quarter with adjusted operating margin of 30% or greater. We added 34 net new customers in the third quarter, and our total customer count grew 20% quarter-over-quarter. Our commercial customer count increased 46% quarter-over-quarter and it is more than doubled since the end of 2020.
+
+Our new customers are scaling faster and more efficiently than ever before. Year-to-date revenue from new customers acquired in year is up 66% to $38 million and these customers are already generating contribution margin of 36%. This compares with just $23 million in revenue and a negative 26% contribution margin for new customers over the comparable period in 2020.
+
+Drilling down into our third quarter revenue. Total revenue grew 36% year-over-year ahead of our prior guidance of 33%. Our U.S. business continues to demonstrate strong growth with revenue increasing 45% year-over-year in Q3. Looking at our Q3 revenue year-over-year by segment, we continue to see broad-based momentum in our commercial business.
+
+Total commercial revenue was $174 million, up 37% and representing our third straight quarter street quarter of accelerating commercial revenue growth. Our investments in product and distribution continue to drive growth. Particularly in the U.S., where commercial revenue increased a 103% in Q3.
+
+And our international business continues to gain momentum as well with international commercial revenue growth, accelerating for the third straight quarter as economies continue to reopen and recover. Government revenue increased 34% as we sign new deals with the Air Force, HHS and NIH and we were recently down select and by the U.S. Army to provide its intelligence, data fabric and analytics solution under CD2.
+
+In the third quarter, we closed 54 deals of $1 million or more in total contract value, including 33 deals of $5 million or more and 18 deals of $10 million or more. Third quarter billings increase 56% year-over-year and remaining performance obligation increased 172% year-over-year.
+
+As you continue to improve contracting, push out or remove termination for convenience causes and moved to shorter duration billing cycles. Total remaining deal value increased 50% year-over-year to $3.6 billion with commercial remaining deal value increasing a 101%.
+
+Third quarter trailing 12-month revenue per customer was $7 million, down sequentially and reflecting continued acceleration in customer acquisition as guided 34 net new customers in the quarter. We continue to expect rapid expansion in our customer base moving forward as you invest in our sales teams and channel partners and you'd expect average revenue per customer to continue to taper as a result of our growing customer account.
+
+When excluding new customers added in the quarter, average revenue per customer was $8.8 million of 26% year-over-year. And we continue to generate strong growth with our largest customer, trailing 12-month revenue per top 20 customers with $41.3 million up 35% year-over-year.
+
+Next, I'll discuss our third quarter margins and expenses on an adjusted basis which excludes stock based compensation. Adjusted gross margin was 82%, up from 81% in the year-ago period. Contribution margin was 57%, up from 56% in the year-ago period.
+
+Third quarter income from operations, excluding stock-based compensation and related employer payroll taxes, was $116 million, representing an adjusted operating margin of 30% or our fourth consecutive quarter with adjusted operating margin at or above 30%.
+
+Third quarter adjusted expenses were $276 million, up 2% year-over-year and 28% when adjusting for one-time direct listing the expenses incurred in Q3 2020. The bulk of expense growth is driven by continued investments in product development and sales to support durable long-term growth. Marketing expenses were up 144% quarter-over-quarter as we continue to fuel demand generation.
+
+In the third quarter, we generated a $119 million in adjusted free cash flow representing a margin of 30%. Through the first nine months of 2021, adjusted free cash flow was $320 million representing an improvement of $605 million versus the prior year period. We ended the third quarter with over $2.3 billion in cash and no debt.
+
+Turning to our outlook, for our Q4 revenue guidance we expect revenue of $418 million and we expect adjusted operating margin of 22%. Our Q4 revenue guidance implies full-year 2021 revenue of $1.527 billion, which represents another year revenue growth of 40% or higher. Additionally for the full year 2021, we are raising our annual adjusted for cash flow guidance to an excess of $400 million, an increase of $100 million from our prior guidance.
+
+Continuing to execute the guidance strategy set forth by our CEO, Alex Karp, in our year-end 2020 earnings call with regard to long-term revenue guidance, we are providing and will continue to provide guidance of 30% revenue growth for this year and the next four years at each earnings call.
+
+With that, I'll turn the call over to Rodney to open up Q&A.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Thanks, Dave. We'll begin with questions from our shareholders submitted via Fay. Shyam, the first one is for you. Jason B. And Jacob P. Both asked his counter view any other AI companies as competitors. If so, what makes Foundry's platforms better choice?
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thank you Jason. Thank you, Jacob. Our competition is not any other company. If it's really, the competition is our customer. Specifically our customers IT department and their desire to build their own solution. And you know what, it's not even really their fault. There's an army consultants and copywriters who pedal completely bogus deal DIY market textures that are never going to work.
+
+It took us 15 years and nearly $3 billion of development and we continue to innovate every day. Just last week, we had a meeting with the Fortune 200 CIO who was so excited to see Foundry because he had spent the last three years trying unsuccessfully to solve the same problems with the leading cloud provider.
+
+Three years and they aren't the only ones. These are our favorite conversations because having tried and failed the customer knows exactly how valuable it is to buy a solution that works and days at scale. But that's not really what makes us a better choice.
+
+We're a better choice, because we focused exclusively on Alpha that we invest in capabilities that enable a company to uniquely express their strategy, whereas most enterprise software makes the customer more similar to the competition. Our products, they are designed to make them more different, the more different.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Great, Shyam, and other one for you Alex A and Jeff C ask, are you planning to invest in any crypto currency?
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thanks, Alex and Jeff. We are super excited about county for crypto. We see a unique fit with fast-growing, crypto companies that need industrialized compliance solutions. These are highly technical buyers and they're highly motivated disruptors. We are leveraging our deep anti-money laundering and know your customer expertise.
+
+Expertise that we developed over years helping government, find compliance issues with the world's largest banks and helping those banks in turn respond and hardened their compliance programs. Some of the largest and on investigations in the world where powered by Palantir, both on the department of justice side and at the banks themselves.
+
+We think we're going to be a massive accelerant for crypto companies. We're going to give them credible and ANL platforms to enable them to go toe-to-toe and beyond with the legacy players. We're going to deliver compliance so they can focus on disruption and, of course, they are welcome to pay us in crypto.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Great. Thanks, Shyam. Dave, one for you. Avi asks, do you intend to focus on profitability in the near-term or are you still focused on expansion?
+
+David A. Glazer{BIO 21953140 <GO>}
+Thanks Avi. As you see in our results, we're delivering strong growth with strong cash flow. We expect revenue growth of 40% for the full year, expecting our second year in a row of 40% or higher revenue growth. We've raised our adjusted free cash flow guide to an excess of $400 million for the year. The second straight quarter raising our guidance and it applies in over $670 million year-over-year improvement.
+
+Stepping back, we're continuing to deliver high growth with very strong cash flow results and we remain focused on expansion. And so, pivoting to expansion, we have more pilots today than at any time in our history. We added 34 net new customers in Q3.
+
+We signed 54 deals in Q3 of $1 million or more. We're scaling our investments in R&D, hiring -- , investing in new product offerings, guiding for crypto, the medic constellation and the commercialization of Apollo. We've added 150 sales heads this year, not to mention building the infrastructure to support them and future hires and we're continuing to build out and invest in marketing. Still in its early days, but our marketing spend is up 144% quarter-over-quarter.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Thanks, Dave. Shyam, another one for you. Daniel Q asks, Gotham and Foundry can be used on personal computers, tablets and smartphones. Can Palantir's platforms be used on augmented reality and virtual reality devices? How impactful AR/VR and the metaphors P for Palantir, its clients and big data analytics?
+
+Shyam Sankar{BIO 17250476 <GO>}
+Hey, Daniel. We've been doing augmented and virtual reality for a long time, more than a decade. We have worked on pushing mission information to smartphone in augmented reality. So you can hold up your phone and view mission plans, route HLZ, helicopter landing zones, points of interest, waypoints, overlaid while you're on mission.
+
+We have worked on augmenting imagery in full motion video with AI detections in mission contacts real time to drive operational decision. At a recent military exercise, our Apollo for Edge AI capability was used across air-launched effects and unmanned aerial vehicles to send targets to fighter Jets. Those targets pop up in the pilots augmented reality heads up display.
+
+We are at the edge. We are integrating with Edge devices from night vision goggles to heads-up displays from augmented reality and cockpits to training simulation. AI enabling the kill chain requires pushing context to the decision making it. So we see AR and VR as an integral part of everything that we do.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Great. Thank you, Shyam. Kevin one for you Dustin R., Jackson K and others have asked, can you talk about the opportunity for Palantir in small businesses and consumer use down the line?
+
+Kevin Kawasaki
+Thank you, Dustin. Thank you, Jackson. Our SMB offering delivers the full power of foundry through Apollo and can be adopted in days. And we see this with foundries for builders and other day zero companies, not only our companies using foundry as their internal infrastructure. There are pioneering the use of foundry and Apollo as a platform to build SaaS offers and consumer software products as well.
+
+With foundry they're doing this faster, companies and mobility building entire data, ecosystems in foundries for connected vehicles and autonomous vehicles, a renewable energy company using foundry not just for advanced physics models, but also using foundry to create a software offering for their customers.
+
+A B2B software company building an ERP for construction. The Founder told us that Foundry is making it possible for him to build orders of magnitude bigger and with less effort. And we've got a lot of questions about when Palantir is going to have a consumer product available?
+
+Well, if something I can say, is that Day Zero companies are building their consumer products on top of Foundry. Take companies like Chapter, whose products help enroll customers in the right Medicare plans. It is backed by Foundry and delivered through Apollo. We expect to see more of this and it's an exciting part of our journey. (Technical Difficulty)
+
+Commercial revenue up 21% sequentially and Q3 quarter-over-quarter. The numbers are especially strong in the United States where the U.S. commercial business has accelerated from 72% revenue growth rate in Q1 to 90% growth rate in Q2, now 103% revenue growth in Q3 that's more than doubling year-over-year. And this is driven by continued product innovation and more efficiencies in distribution like (Technical Difficulty)
+
+The acquisition of new customers is accelerating. We mentioned ten net new customers in Q1, 20 and Q2, 34 and Q3, more than tripling. Commercial revenue has accelerated in every quarter over the last year from 4% in Q4 of last year, 19% in Q1, 28% in Q2 and 37% in Q3.
+
+Total commercial deal value is up $2.2 billion. That's more than doubling since last year. Our RPO remaining performance obligations increased 172% to $874 million and account coverage and distribution channels bring us two great companies like Apache, a large hospital system in Florida, a large health insurance provider in the United States; Kinder Morgan, --, Dave & Buster's, just to name a few.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Great. Thanks, Kevin. Shyam, this next one's for you. Marcellus asks, what is it that will keep Palantir ahead of the competition for the next 10 years?
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thanks, Marcellus. Well, that's the trillion dollar question. Of course, trillion dollar said, well short of our ambition over the next ten years. We always have and will always continue to focus on building cutting-edge product that the world needs anticipating the future operating with practice. We are software shamans, building before the need is obvious, always ready to meet at the moment. As was true with IEDs in Iraq and Afghanistan, the global financial crisis, ISIS attacks in Europe or more recently with COVID supply chain disruptions in Afghan noncombatant evacuation operation.
+
+With Gotham, we are focused on continuing to build AI-enabled kill chain across every sensor and every shooter covering all domains from space to mud. Our platforms are modern operating systems for the enterprise. With Foundry, we are cleaning the nervous system and the cardiovascular system of the enterprise.
+
+With OPI, you can expose complex cross-system actions and repeatable manner that enables you to go from sensing business resumption before they even happen, to changing your business to seamlessly respond, organizing and reorganizing your business around reality at pace.
+
+And we just launched Apollo commercials this past week. We have already used the Apollo accomplished so much in the world, from Edge-AI and space, real time comps with weapon systems to running our global software, delivery free taking Gotham and foundry to where no SaaS has gone before.
+
+And today, I talked about Apollo for streaming. It feels like every quarter we are creating things that we could not have conceived of ourselves just a couple quarters before. Central to our value creation engine that we are focused on solving hard problems.
+
+We are focused on creating fundamental value. Most software companies make software, that's easy to sell and over time that corrupts the value of the product. We make software that is profoundly valuable, cutting-edge product, and then innovate on distribution.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Thanks, Shyam. Dave, one for you. James K. And Raphael W asks, the company's Chief Executive Officer, Alex Karp, has been selling a large amount of shares this year. Why is he been feeling so much and will these sales continue?
+
+David A. Glazer{BIO 21953140 <GO>}
+James, Raphael, thank you for questions. As we mentioned on prior earnings calls, Karp was granted options decade ago, which were set to expire on December 3, of this year. Specifically, as of our direct listing he held 16.9 million options that were set to expire this December. The taxes from the exercise of the options are more than $0.5 billion and so he's been selling shares along the way to generate funds to pay those taxes.
+
+Over 68.9 million expiring options, he is now exercised 94% of the total. Of the remaining 6%, roughly half or 1.9 million of them will be sold by the expiration date. The other half exercise, and as a result, all the near-term expiring options will measure size.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Thanks, Dave. Shyam one for you, Antonio asks being a nurse myself. I see great potential for Palantir. In these pandemic times healthcare workers are the new defense, does Palantir have a plan to create a product that can help healthcare institutions on how to assign us?
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thank you, Antonio. And thank you for all that you and your fellow healthcare workers, had done for us over the pandemic. My mother is a nurse and I've been living this alongside so many not just in the U.S., but all over the world.
+
+I made reference in my earlier remarks, to the substantial growth of our healthcare work. The NHS, MD Anderson, 70 academic medical centers to the NIH is entry C, the VA, Sambo's nursing home facilities in Japan and several more regional U.S. providers.
+
+Foundry is helping to manage over 300 million patient lives and growing. We have a unique and diverse footprint that I believe positions us to deliver on the necessary transformation in healthcare. And yes, we are absolutely doing the work at The Cutting-edge of both research and complex clinical care, but we are also doing the work on operational excellence.
+
+The world over COVID has caused were severely exacerbated procedure backlogs. There are people that need care life-saving care waiting to be seen. And at the same time, many facilities have spare capacity. There's a complex operational problem in maximizing the utilization of Scarce Health Care capacity to save lives, but the challenge is multifaceted, Staffing, operating theater management, patient management, demand management and more.
+
+But as you highlight, one of the most acute challenges and we are engaged on it, the U.S. and Japan is the nursing shortage and Staffing optimizations. I was recently visiting one of our Hospital customers, sitting with their nurses, watching, they have being trained on Foundry for the first time.
+
+You could feel the excitement. They were buzzing and how they could transform patient scheduling, care delivery and ultimately how it was going to empower them to do so much more, so much faster. To me, it was like what it felt like when I was watching Marines being trained on Palantir for the first time in Kandahar a decade or more ago. They were so excited, so generative. The Iron Man suit, it fits him like a glove as these modern-day superheroes save our friends and our families.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Great. Shyam, one more for you before we open up the call. Erin and Avi, ask, what is the future of Palantir's public sector business, including if there are any billion dollar contracts, like the latest U.S. Army wins in the pipeline?
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thank you, Erin and Avi. We are so excited about the government business. It is where our cutting-edge product is meeting its moment. It was an incredibly strong quarter. The wins on CD-2 a truly massive program of record at the U.S. Navy, Indopacom, the UK and Australian Navy's at the VA with the four-year $87 million contract. At the NIH, $60 million two-year contract, deals at NHS, PEPFAR, FDA, Department of Justice, Department of energy, The State Department and more.
+
+CD2 is a substantial win. It builds on another program of record that we already won, CD1. It was an enormous amount of work. We're so proud of the outcome and we believe that CD1 and CD2, together, uniquely positions us for future U.S. army programs of record. But, that's just the army.
+
+We have incredible opportunities at Space Force and at the air force, places that we are investing a lot. We are building on Project Brown Harriet in the air force in that Warp Core Space. Warp Core is the space domain awareness platform a very unique position.
+
+We have many independent opportunities to extend the work that we have done under USDI and NGA into the combat commands themselves to directly take on near-peer threats and deter the enemy, maintaining dominance. Beyond defense, we see immense opportunities in our pipeline across health, from the NHS and the VA, to the NIH and HHS.
+
+We see new opportunities within the defense industrial base. In its own right as customers to help them with their own manufacturing. But also in being a strategic partner, helping them capture new revenue streams by AI, enabling their hardware platforms.
+
+This pipeline and aggregate is big and building, and all this is happening despite the macro headwinds that we've all heard about across government services, COVID's impact on delaying the pace of awards. And we are just competing for known opportunities.
+
+Our capabilities are so unique, we are creating our own opportunities. The macro factors here are big, big tail winds. We're clear consensus on the threat from an aggressive CCP not only in terms of impact on demand in the U.S., but also Japan, Korea, Australia, the UK, the west and her allies broadly.
+
+The infrastructure build and our fit on the programs and awards that are that are being driven there. Carbon emissions management, ED charging infrastructure, building on our incredible commercial momentum and the mobility value chain. Delivery of major project on time and on budget.
+
+And more broadly, the opportunity for SIs and Prime's on infrastructure projects to partner with Palantir develop their own high-margin software streams in place of historically low margin non-recurring services on our platforms. We are just at the beginning of big secular trends here, trends that we anticipated and have invested in for years. We are uniquely positioned, cutting-edge product, ready to meet its moment.
+
+Rodney Nelson{BIO 19419936 <GO>}
+Thanks, Shyam. Operator, we'll open the call for Q&A.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+(Operator Instructions). Your first question will come from Brent Thill with Jeffries. Please proceed.
+
+Q - Brent Thill{BIO 1556691 <GO>}
+Good morning. On RPO, you had a really nice improvement in backlog. I'm curious if you could just comment on what's driving that backlog. And maybe as follow-up for Shyam, just as you look at the go-to-market on commercial. Can you give us an update on the direct sales build-out and partnership opportunities there? Thanks.
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Hey Brent, thanks for the question. Great Q3, we're having a great year. With our Q4 guide, we're expecting to do 40% revenue growth for the full year and this is driven by continued product innovation also more efficiencies in distribution like account-based sales, distribution channels. And we're very excited about the progress of our account-based sales team. We've hired about 150 people so far this year. A lot of that has been folks in the U.S. market where we first started and many are just getting started, but you can see some of the activity that we mentioned, more than doubled our commercial customer count this year and those numbers are accelerating, growing, our installation base is really great because we expand in places where we are. If you look at our top 20 customers, average over 40 million a year revenue, that's up 35% year-over-year.
+
+Our average revenue per customer was $8.8 million when excluding new customers. So lot of room to expand as we expand our customer base. Another big driver, U.S. commercial revenue, where we've seen acceleration we mentioned up to 103% growth doubling in Q3. Our forward indicators also really strong. Total deal value up 50% to $3.6 billion, total deal value and commercial doubled to $2.2 billion, our third straight quarter of accelerating commercial revenue. And just to wrap up, commercial revenue up 21% sequentially quarter-over-quarter.
+
+Operator
+Your next question will come from the line of Keith Weiss from Morgan Stanley. Please proceed.
+
+Q - Analyst
+Thank you for taking the questions. It's Andrew on for Keith Weiss. There was a really nice performance across commercial and government was strong as well. Just sort of, with the new administration sort of taking in place, in terms of the velocity of those deals and getting those deal signed, any change that you've seen thus far with this new administration versus the prior admin?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+No meaningful change there. I mean, the government is moving at pace. I think what's really out there is the near-peer threat and that's become the real pacesetter for not only the US, but allied countries as well. And so, there's a lot of focus, a lot of speed. We've worked under four administrations and have seen consistent continuity across that.
+
+Operator
+Your next question will come from the line of Rishi Jaluria from RBC Capital Markets. Please proceed with your question.
+
+Q - Rishi Jaluria{BIO 18886209 <GO>}
+Wonderful. Thanks so much for taking my questions and nice to see continued strength on the commercial side. Just maybe high-level, can you help us understand how the land and expand and go-to-market notion on the commercial side has differed from government in your experience, and especially, so far this year? And maybe can you talk a little bit about how involved you are at the pilot phase and beyond a new event on the value of stock? Thanks.
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Great. Yes, we talked earlier about module, that was a big thing a year ago that really changed how we went to market. The modules have been very successful. Just this quarter we discussed the carbon emissions, management module and foundry for crypto. But if we go back a little bit, what we can see is the real success of software-defined data integration, the SDDI and ERP suite modules, where we've been able to really use these modules to meet our customers where they are at predictable price point.
+
+It also enabled us to really scale channels and enable our partners to help us go-to-market. So predictable price point clear problems to go after. And in doing so, we at this point have developed enough success to see that after solving a single problem in an understandable way, it really sets us up to better expand and land the full proposition of foundry and expand the contract over -- over time there. So we really have a lot of faith in the module strategy both as a direct sales force augmentation and channel partners and commercial.
+
+On the government side, we have seen similar success. We actually won a significant program on a module that is based on readiness. And so, we were able to compete for a multi-million dollar program with less than a day worth of effort. Of course, we love how it transforms the economics for our business, but I think the speed to value for customers is really what sets it apart.
+
+Operator
+Your next question will come from the line of Brad Zelnick from Deutsche Bank. Please proceed. Hello Brad Zelnick, your line is open. Please proceed with your question.
+
+And we will move on to the next question in queue. Your next question is from Mark Cash from Morningstar. Please proceed with your question.
+
+Q - Mark Cash{BIO 20831334 <GO>}
+Hi. Good morning. Thanks for the question. I got a multi part one. So, you talked about the recently launched foundry module around crypto. And I just wanted to, there wasn't really a press release around that, the module is just kind of appeared. So finding new use cases straight, but I was curious if you could talk about the size of the crypto opportunity. But then also the strategy of releasing modules, is it finally lead customers and commercializing it quietly or really does depend on the market size and the interest? Thank you.
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Thanks, Mark. Yeah, the focus on module is to really meet the customer where they are. Where do we see repeatable challenges that we can create an offering that is very fast to deploy. Last quarter I talked about how we deployed AML at the largest European retail bank in less than two days. This gives you kind of an indicative sense of the performance. We were able to integrate with complicated ERP solutions and unlock that data for customers in hours. So we start with cutting-edge product. And then where we see the module, we invest in it because it gives us innovative distribution, it enables us both from a direct sales force perspective, but also channel partners and to be really successful at penetrating the market.
+
+Operator
+And we do have one final question -- have time for one final question, which is from Ethan Brooke from Wolfe Research. Please proceed with your question.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Hi, guys, this is Alex Zukin from Wolfe Research. I just had maybe two quick numbers questions. Roughly, if we think about Q4 guidance. How much revenue do you expect to come from commercial contracts with investment arrangements in the quarter? And then is it possible to get what percentage of the total RPO would be recognized over the next 12 months?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+So on the investment program, we're really excited about the opportunity here, just to repeat some numbers and get some contracts. With our Q4 guide, we're expecting a 40% revenue growth for the year. In 2021 that's over $1.5 billion for the year. We raised our cash flow guidance to an excess of $400 million. We've invested about $150 million through Q3. Total revenue from the program, it's about 2% of revenue for the year for Q3 and there's about $640 million of total revenue long term from this program at the end of the quarter.
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.

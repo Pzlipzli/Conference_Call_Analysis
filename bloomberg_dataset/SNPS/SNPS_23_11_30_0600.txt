@@ -1,0 +1,322 @@
+Q4 2023 Earnings Call
+Company Participants
+Aart de Geus, Chairman and Chief Executive Officer
+Sassine Ghazi, President & Chief Operating Officer
+Shelagh Glaser, Chief Financial Officer
+Trey Campbell, Senior Vice President - Investor Relations
+Other Participants
+Charles Shi, Analyst, Needham & Company
+Gianmarco P. Conti, Analyst, Deutsche Bank
+Harlan Sur, Analyst, J.P. Morgan
+Jason Celino, Analyst, KeyBanc Capital Markets
+Jay Vleeschhouwer, Analyst, Griffin Securities
+Joseph Vruwink, Analyst, Baird Equity Research
+Vivek Arya, Analyst, Bank of America Securities
+Presentation
+Operator
+Ladies and gentlemen welcome to the Synopsys Earnings Conference Call for the Fourth Quarter and Fiscal Year 2023. At this time, all participants are in a listen-only mode. (Operator Instructions) Today's call will last one hour and as a reminder today's call is being recorded.
+
+I would now like to turn the call over to Trey Campbell, Senior Vice President, Investor Relations. Please go ahead.
+
+Trey Campbell{BIO 20385325 <GO>}
+Thanks, Lisa. Good afternoon, everyone. With us today, Aart de Geus, Chair and CEO of Synopsys; Sassine Ghazi, President and COO; and Shelagh Glaser, CFO.
+
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets, and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+
+In addition to any risks that we highlight during this call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+
+In addition, we will refer to certain non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the earnings press release, financial supplement, and 8-K that we released earlier today. All of these items, plus the most recent investor presentation are available on our website at www.synopsys.com. In addition, the prepared remarks will be posted on our website at the conclusion of the call.
+
+With that, I'll turn the call over to Aart de Geus.
+
+Aart de Geus{BIO 1431475 <GO>}
+Good afternoon. In Q4, we exceeded the high-end of all our guidance targets and delivered another quarterly revenue high at $1.599 billion. Q4 thus capped a record year, growing revenue by 15% to $5.84 billion, with strong orders expanding backlog by $1.5 billion to $8.6 billion. We further improved non-GAAP operating margin to 35.1%, increased non-GAAP EPS by 26%, generated $1.7 billion operating cash flow, while maintaining an exceptionally strong balance sheet.
+
+Clearly, Synopsys has moved forward with sustained momentum. Over the last five years, we've grown revenue at 13% CAGR, expanded non-GAAP operating margin by 13 points, and increased non-GAAP EPS at a 23% CAGR. Through the year, we also widened our differentiation by substantially expanding our AI-driven product capabilities, but also through unique collaborations that strengthened our customers' differentiation, while cementing deep long-term relationships.
+
+We thank our employees for their passion and dedication, and our customers for their business and trust in Synopsys. Meanwhile, dark geopolitical clouds are inflicting unimaginable harm in multiple conflict zones. Our hearts hurt with deep compassion for our employees, families, colleagues, customers, and all others impacted by paying loss and uncertainty. Yes, we will never give up believing in the positive potential of humanity. It is thus heart warming to see how fast our teams at current compassion into carrying, carrying into action, and our respect and support for each other is that active norm of Synopsys.
+
+Let me now briefly share some thoughts on the state of the industry and our company before I pass the baton to Sassine. From the first days of Synopsys, 37 years ago, Synopsys has enabled and navigated the exponential ambition that came to be defining the semiconductor industry and which in turn radically impacted the world. Our initial contribution, synthesis, revolutionized digital design. We assured in the transition from CAD, computer-aided design, to EDA, electronic design automation, so far delivering roughly a $10 million ex increase in design productivity. During Synopsys' entire existence, the vast majority of our products have been state-of-the-art, together with the leading foundries with us empowered digital age exponential referred to as Moore's Law.
+
+And then at the very moment that its economics of classic Moore's Law are slowing down in terms of transistor performance and cost improvements. The era of Big Data and AI becomes real, triggering enormous compute needs on the horizon. About eight years ago, Synopsys forecasted this age of smart everything will become the driver for the semiconductor growth to $1 trillion in this decade. And here we are. This year's generative AI advances and furious adoption clearly fulfill our vision.
+
+As pervasive AI is now massively underway, the Classic Moore's Law era in turn is morphing into the SysMoore era, systemic complexity, but still was a Moore's Law exponential ambition. SysMoore is happening in front of our eyes by reinventing architectures not based on a single chip but on multiple chips, tightly connected or even stacked on top of each other with extreme proximity. These so-called software-defined multi-die architectures will enable massive increases in the number of transistors available. And again, Synopsys is at the heart of the heart of capitalizing exponential impact.
+
+Our investments in multi-die design, our massive collection of IP building blocks in many silicon technology, our prototyping and electronic digital twinning technology, that lets customers run software before the hardware actually exists, are all essential enablers driving the new race into AI-driven computation. I think one more spark to our technical leadership, Synopsys also pioneered the use of deep learning AI and chip design.
+
+Applied to optimization, verification, and test, production results are outstanding and adoption is broad and rapid. Most recently our announcement of exciting GenAI capabilities have yet another angle to driving the state-of-the-art forever. If nothing else, my enthusiasm for both the more SysMoore opportunity and for our technology advances should give you a sense of Synopsys on the move. Talking about on the move, we're also well underway in our executive leadership transition. I have great confidence, expectations, and enthusiasm for Sassine Ghazi as our next CEO.
+
+Sassine, please give us your perspective, vision, and ambition for Synopsys. The floor is all yours.
+
+Sassine Ghazi{BIO 20040787 <GO>}
+Thank you, Arc, for your pioneering work in our industry and for building Synopsys into one of the world's essential semiconductor ecosystem companies. I am profoundly grateful for the opportunity to succeed you as CEO, building on our strong foundation and propelling Synopsys to the next wave of growth.
+
+Let's turn to market trends. Despite global macroeconomic uncertainty, our customers continue to prioritize R&D investments and chip design starts remain robust. We leave 2023 with $8.6 billion in non-cancelable backlog and have a time-tested business model that balances dynamic growth with macro resiliency. We expect solid growth across our geographies in 2024. But our outlook reflects a continued challenging near-term growth environment in China. China is an adaptable and large market. However, given the combination of Entity List and technology restrictions, and a weaker macroeconomic outlook, we believe more pragmatism in our 2024 China forecast is appropriate.
+
+Technology trends continue to create a rising tide for our business. Chief among those trends is a new era of AI-driven productivity. AI is reshaping industries and providing breakthrough solutions for intractable challenges, like the 15% to 30% design resource shortage, the semiconductor is facing this decade.
+
+We pioneered AI-driven semiconductor design and are relentlessly advancing our AI capabilities so that we can drive step-up function improvement in our customers' productivity. And thus play a greater role in their success. Recently at Microsoft's Ignite conference, we announced the breakthrough generative AI capability for accelerating chip design. Synopsys.ai copilot. The new capability is the result of a strategic collaboration with Microsoft to integrate Azure service that brings the power of GenAI into one of the most complex engineering challenges. The design process for semiconductors.
+
+The integration of GenAI across Synopsys.ai provides chip designers with collaborative capabilities, that offer expert tool guidance, generative capabilities to enable RTL and collateral creation, and fully autonomous capabilities for workflow creation from natural language.
+
+We're engaged with leading chipmakers including AMD, Intel, and Microsoft to deliver the value of GenAI across the Synopsys.ai full EDA stack from design, verification, test to manufacturing. We are at a very early stage of this new AI era, but our initial customer results are exceptional. AI is key to massively unlocking customer productivity, and we are increasing our investment to accelerate the Synopsys.ai roadmap. Beyond AI, we see multiple other secular tailwinds providing our design automation and design IP business, expanding growth opportunities. With the slowing of Moore's Law, increasingly architecture and design automation are the main levers in delivering semiconductor PPA gains, even as insatiable use case demands push the frontiers of performance and performance per watt. Multi-die implementations are accelerating, as our customers seek to optimize costs and yields for these large complex designs. And our customers who rely on our critical competencies from Silicon to Software now require a systems-level approach both at the semiconductor device level with multi-die and in the electronic design software bring-up and software validation of full systems, like today's software-defined cards.
+
+Our Design IP business also has strong wind in its sales. Applications create ever faster ingest and throughput resulting in faster protocol migrations and increasing IP content value per device. Customers are prioritizing scarce design resources to focus on their critical architectural differentiation and turning to us as an integral part of their chip design development teams for their foundation and interface IP needs. And now all three leading-edge foundries are making Synopsys the advanced node IP vendor of choice. They're partnering with us on a broad range of IP titles to minimize risks and accelerate silicon success.
+
+Our Design Automation and Design IP businesses have both leadership technology and market positions with industry trends playing to our strengths. We're increasing our investment in these segments to capture more of this growing TAM. We started our investments in Software Integrity, with the acquisition of Coverity in 2014. Software security was a pain point for every company and risk surfaces were expanding. Customers were searching for innovative approaches in quality and security testing to help reduce the risk of software failures and security breaches. And we develop the broadest portfolio to meet that need.
+
+Flash forward to today, our Software Integrity business has become the leader in application security testing, with industry-leading team delivering over $0.5 billion in trailing 12 months revenue at mid-teens non-GAAP operating margin. We are proud of the significant progress we've made over the last nine years and believe the future opportunity remains attractive.
+
+At the same time, we have compelling investment opportunities in Design Automation and Design IP, with much higher expected growth and return profiles. Following our strategic portfolio review and in consultation with the company's Board of Directors, we have decided to explore strategic alternatives for the Software Integrity business. As part of this process, we're considering full range of strategic opportunities. We will provide an update after we conclude that process.
+
+Based on these market and technology trends and with high confidence in our business, here are our 2024 guidance targets. We expect 2024 revenue between $6.57 billion and $6.63 billion. We expect to deliver 37% non-GAAP operating margin, a 200 basis point improvement versus last year. We expect full-year non-GAAP EPS between $13.33 and $13.41. Shelagh will discuss the financials in more detail.
+
+Now, I'll share some segment highlights, starting with Design Automation. This quarter, Synopsys.ai was selected by Aspen core, to receive the World Electronics Achievement award for EDA software of the year. We're proud of the recognition. But even more excited by the strong customer adoption for Synopsys.ai across the design flow. A major North American hyperscaler made a major commitment to use DSO.ai after demonstrating PPA and productivity benefits on consecutive HPC projects.
+
+In verification, we engaged with over 20 customers in Q4, demonstrating up to 10x faster turnaround time. While in test, we added eight new customer engagements with Kioxia publicly highlighting more than 50% pattern reduction. Finally, we and TSMC announced that our analog migration flow through Synopsys.ai is enabled across TSMC's advanced process technologies.
+
+We are also seeing great results deploying Synopsys.ai internally with our IP teams. Internal IP teams are seeing 10x turnaround time improvements in time to target verification coverage and have deployed analog design migration flows for TSMC 2 nanometer. Fusion Compiler continues to win key designs, including the leading-edge ARM mobile core for the industry's first implementation for gate all-around-based mobile SoC. In combination with DSO.ai, Fusion Compiler also delivered 10% better power on gate-all-around-based mobile GPU and modem designs. We saw continued momentum in signoff. Delivered by our leadership family of prime tools. We won multiple engagements with PrimeTime, PrimeClosure, and PrimeShield, and saw the world's top three data center providers adopt PrimeClosure to get the fastest ECO closure time for 5 -- 3 nanometer SoCs.
+
+Expanding our multi-die ecosystem, we received the prestigious Leadership Award from TSMC, OIP 2023 Partner of the Year, for developing the industry's first 3DIC design prototyping solution, supporting the new industry-standard 3D blocks. Verification product momentum also remains strong. This quarter we announced our AI-driven next-generation Verdi solution, which continues its lead and functional debug with deployment already at more than top -- 10 top semiconductor companies. In hardware-assisted verification, we delivered another record year. In Q4, ZeBu won against competition at two large North American hyperscalers, and we expanded our HAPS footprint with a large North American systems company and a large Asian semiconductor company.
+
+Now turning to Design IP, this quarter we won our first 2 nanometer interface IP engagement with a leading mobile company. And are now in production at 3 nanometer with foundation IP for high-volume PC chip. We delivered a key multi-die proof points in concert with Intel and TSMC on UCIe interoperability.
+
+The demonstration at Intel Innovation showed die-to-die interconnect over UCIe between Synopsys IP on TSMC N3E and Intel Foundry silicon. We saw two other key technology proof points this quarter. We demonstrated interoperability for our to 224 gig Ethernet PHY IP and PCIe 6.0 IP, both industry firsts.
+
+On the processor IP side, we announced a new addition to the ARC Processor IP portfolio. The RISC-V, ARC-V Processor IP. This product allows customers to choose from a broad range of flexible, extensible processor options that deliver optimal power performance efficiency for their target applications.
+
+Finally, we delivered a significant win in automotive, displacing competition at a marquee customer in a multi-generation, multiple-project agreement. Now to the Software Integrity segment, which delivered solid growth against the backdrop of continued macro headwinds for enterprise software. In Q4, we saw over 50% year-over-year growth in our Polaris Software Integrity Platform. Polaris is a SaaS-based application security testing solution, optimized for the needs of development and DevSecOps teams. We were also recently recognized as a leader in the Forrester Wave for Software Composition Analysis. This was based on an evaluation of Black Duck, our software composition analysis solution.
+
+In summary, we had outstanding Q4 and FY 2023 financial results and operational execution and take tremendous forward momentum into 2024. We have a resilient business model and our customers continue to prioritize investments in the chips and systems that position them for future growth. We are aligning our portfolio investment with the greatest return potential to accelerate our growth. Deepest thanks to our employees, partners, and customers for their passion and commitment.
+
+With that, I will turn it over to Shelagh.
+
+Shelagh Glaser{BIO 22254750 <GO>}
+Thank you, Sassine. 2023 was an excellent year highlighted by record revenue, record non-GAAP operating margin, and record earnings. We continue our strong execution with financial discipline and are confident in our business heading into 2024, driven by our execution and leadership position across our segment, robust chip and system design activity by our customers who continue to invest through semiconductor cycles. And with $8.6 billion in non-cancelable backlog, the stability and resilience of our time-based business model.
+
+As a result, while the macro-environment is uncertain, we expect to grow revenue 12.4% to 13.5%, expand non-GAAP operating margin by approximately 2 percentage point, and drive non-GAAP EPS growth of 19% to 20% in 2024.
+
+Let me provide some highlights of our full-year 2023 results. We generated total revenue of $5.84 billion, up 15% over the prior year with double-digit growth across all key products and geography. Total GAAP costs and expenses were $4.6 billion and total non-GAAP costs and expenses were $3.8 billion, resulting in a non-GAAP operating margin of 35.1%. GAAP earnings per share were $7.92 and non-GAAP earnings per share were $11.19, up 26% year-over-year.
+
+Now onto our segment. Design Automation segment revenue was $3.78 billion, up 14% driven by strength in EDA software and hardware. Design Automation adjusted operating margin was 38.1%. Design IP segment revenue was $1.54 billion, up 17% driven by broad-based strength. Design IP adjusted operating margin was 34.5%. Software Integrity revenue was $525 million, up 13% and adjusted operating margin was 14.5%.
+
+Turning to cash, operating cash flow for the year was $1.7 billion. We ended the year with cash and short-term investments of $1.59 billion and total debt of $18 million. During the year we completed buybacks of $1.2 billion or 80% of free cash. Now to targets, which reflects the impact from export control regulations and assume no further changes for the year. Based on our current assessment of timing of hardware and IP deliveries, we expect the first half, second half split of approximately 48% to [ph] 52% for revenue and non-GAAP EPS.
+
+For fiscal year 2024, the full-year targets are revenue of $6.57 billion to $6.63 billion. Total GAAP cost and expenses between $5.0 billion and $5.05 billion. Total non-GAAP costs and expenses between $4.14 billion and $4.18 billion, resulting in non-GAAP operating margin improvement of roughly 2 percentage points. Non-GAAP tax rate of 15%, GAAP earnings of $9.07 to $9.25 per share, non-GAAP earnings of $13.33 to $13.41.
+
+Cash flow from operations of approximately $1.4 billion, which includes an impact of approximately $200 million of 2023 taxes that we will pay in '24 and approximately $400 million of higher cash taxes due to the amortization of R&D expenses. Following 2024, we expect cash tax growth rate to be approximately in line with operating income growth over a multi-year period.
+
+Now to targets for the first quarter, which includes an extra week compared to the first quarter of fiscal 2023. Revenue between $1.63 billion and $1.66 billion, which includes approximately $70 million from the extra week. Total GAAP cost and expenses between $1.22 billion and $1.24 billion. Total non-GAAP costs and expenses between $1.02 billion and $1.03 billion. GAAP earnings of $2.40 to $2.50 per share. Non-GAAP earnings of $3.40 to $3.45 per share, including approximately $0.14 from the extra week. Our press release and financial supplement include additional targets in GAAP to non-GAAP reconciliation.
+
+I also want to highlight that we will be hosting our Investor Day on March 20th, which will be held in conjunction with our Synopsys Users Group event in Santa Clara. We look forward to seeing many of you there.
+
+In conclusion, we entered 2024 with momentum and confidence reflecting our leadership position across our segments, robust design activity by our customers, who continue to invest through semiconductor cycles, and the stability and resiliency of our time-based business model [ph].
+
+With that, I will turn it over to the operator for questions.
+
+Questions And Answers
+Operator
+Thank you. Before we begin the Q&A session, I would like to ask everyone to please limit yourself to one question and one brief follow-up to allow us to accommodate all participants. If you do have additional questions, please reenter the queue and we'll take as many as time permits. (Operator Instructions).
+
+We'll take our first question from Harlan Sur with J.P. Morgan.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Good afternoon, and congratulations on the strong execution and fiscal '24 guidance.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Yeah. You're welcome. Hardware verification and emulation prototyping, I mean, this has been a big contributor to your double-digit revenue growth profile over the past number of years. Lots of customers focusing on verification on these very complex chip design, lot of them wanting to get a head start on the embedded and application software development. Is the team anticipating another strong year -- next year for hardware? Will it be growing at a double-digit sort of growth rate within your fiscal '24 guidance?
+
+And if I look at inventories right there, up 53% year-over-year to kind of record levels, which I think is a good indicator of a strong hardware pipeline, but wanted to get your views.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yes, thanks for the question. In terms of the need, exactly the way you highlighted, the requirements to develop software early, and having a hardware-assisted verification to enable that process -- that in the process. Is not only continuing, is accelerating with many system companies are trying to design that shift or even if they're getting it shipped from a semiconductor company, they want to start their software development and verification of the system early. And this is where our HAPS and ZeBu platform comes in to enable that part of the solution. We're anticipating that to continue into 2024. As you saw as well, we had a record year for our hardware-assisted verification in '23, and we don't anticipate anything different that would change going into 2024.
+
+As for the inventory comment, I'll turn it to Shelagh for comments.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Sure. As Sassine said we had a record in 2023, we expect another record in 2024 and we're building inventory to be able to fulfill our customer demand.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Perfect. And maybe a similar question on your IT business, strong growth last year, right, up 17%, going forward. I mean, just continued tailwinds right, chip design complexity, driving more reliance on off-the-shelf IP licensing. And just as importantly, are there some pretty big transitions on the interface and connectivity side, PCIe, Gen5, CXL, DDR5, HBM3E. Looking at your pipeline backlog customer programs, will the IP business be growing slower, faster in line with the fiscal '24 sort of total revenue profile?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+So again, exactly the way you're outlining the requirement, there is two factors. There's the complexity, and then there is the different methods of designing an SoC or a chip. With multi-die it's opening up the door for new protocols. UCIe, the PCIe, the CXL, the one that you've listed. There are different protocols for various markets for automotive as they expand their sophistication in developing the electronic system, it requires different requirements for the IP interface, IP for an automotive application.
+
+What we outlined in the script as well is today we are the leading supplier for TSMC, Samsung, and Intel Foundry business. And that puts us in a great position because most of these complex chip developments are on these advanced foundries. And today we are in a very fortunate position to be the partner and the leader in providing the IP for that business. So we expect that growth to continue, given the market demand for these sophisticated chips will continue.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Great insight. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you.
+
+Operator
+We'll take our next question from Joe Vruwink with Baird.
+
+Q - Joseph Vruwink
+Great. Hi, everyone. I maybe wanted to start by parsing out some of the demand commentary. So first there was a big step up in backlog. I'd imagine that bodes well for 2024 and 2025, positive for revenue. At the same time, maybe the incremental moderation you're signaling in China, as I think about just the last 12 months, I think China contributed about two points worth of revenue growth, just the incremental revenue contribution from China.
+
+So in arriving at the 13% growth guidance, are you really seeing kind of good strength, something better than 13%? And then China is maybe just a more neutral factor in your outlook?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+We really took a balanced approach, as we look at the guidance and the forecast for FY'24. We took into account some of the headwinds that we're seeing and of course the number of the tailwinds that we are observing in the market. A couple of the headwinds as we mentioned, one of them is China. And the two factors, one is the continued export restrictions, and the other one that I am sure all of you are observing, which is the macro economy inside China. The other headwind we took into account is the continued stress and pressure from enterprise software spending that does impact our Software Integrity business.
+
+Some tailwinds and this is where we get excited about is exactly what we're seeing, the AI as a megatrend is driving amazing silicon demand, and that silicon demand is complex. It's on the most advanced nodes and it's giving us an amazing opportunity for our Design Automation and Design IP. So as we took into account both headwinds and the tailwinds, we came with a balanced view of the guidance around 13% midpoint for FY'24.
+
+Q - Joseph Vruwink
+Okay, that's clear. Thank you. And then just on the topic of China generative AI, I did want to maybe get your take if it's possible to contrast just the pace of product development in incorporating such a technology relative to what you've done in the past. And I guess, the context for this question, as I think back to DAC in July, there were actually members of the Microsoft Verification team speaking about how they wanted more robust tools from their EDA vendors that incorporated GenAI. And we're not very far from July and here you are with a product in conjunction with Microsoft and now Microsoft Verification is using this in their workflow. So it seems like a very quick turnaround. Is it that much quicker than maybe what Synopsys was able to do in the past?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Maybe we made it look too easy, Joe, but there was a lot of work that started well ahead of the DAC timeframe. If I take a quick step back when we talk about Synopsys.ai there are really four pillars under it. The one that we -- the first one we introduced was DSO.ai in the 2020 timeframe, that was focused mostly on optimizing the -- our products and using every opportunity to leverage machine learning and AI in the product and around the product.
+
+The second pillar, which is what we're calling a collaborative capability using GenAI. And that's what we announced with Microsoft, which is using a copilot approach for supporting our users for knowledge-based or workflow-based or results copilot and assistance. And that's in our announcement, where AMD, Intel, Microsoft were some of the early users of that technology. Then we talked a little bit about what's coming down the path which is around both generative and autonomous capability using GenAI and natural language. We're super excited actually about the early results we're seeing with the copilot in terms of productivity of our customers and users.
+
+Q - Joseph Vruwink
+Great. Thank you very much.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thanks, Joe.
+
+Operator
+We'll take our next question from Vivek Arya with Bank of America Securities.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you for taking my question. If I remove the -- I think you said about $17 million or so impact of the extra week. You're guiding to roughly 12% sales growth, right? Which seems to be very conservative relative to the strong backlog that you have built up. So I'm curious, Sassine, I think you mentioned the impact of China and enterprise software and AI is kind of neutral. But then when I look at the 12% growth that is lower than what you had in the last three years, even though there is all this AI excitement that starting now. So is it conservative? How should we kind of put this 12% in the context of the kind of growth rates we have -- we are used to seeing from Synopsys over the last three years?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+So, Vivek, thanks for the question. This is Shelagh, I'll jump in on that. So we're obviously taking a balanced stance, as Sassine had talked about. At the midpoint, we're at a 13% growth year-over-year and we're seeing Design Automation, Design IP have a incredibly strong momentum. You mentioned the $8.6 billion backlog. We're seeing that growth in line with our long-term targets and we're seeing AI as a catalyst, but it's in its early innings, so we think it's a long-term growth catalyst.
+
+And we're looking forward to having it be able to help drive our business over the horizon. But the two headwinds are China. As we've talked about the macro situation in China and the restrictions that have been imposed on China are having some dampening effect. We expect China to grow in '24, but at a lesser rate than it grew in '23. And the other headwind that we have is we are expecting a muted environment for enterprise software spend, which will impact our software integrity business. And we're assuming that business will be single-digit growth in 2024. So it's the combination of those headwinds and tailwinds that's leading to our 13% growth rate at the midpoint.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+All right. And for my follow-up, the AI copilot seems like a very interesting new product. I'm curious, what is the right way to track how you were able to monetize it? Are you selling it as incremental figure? Are you selling it as a separate tool? What is the right way to just kind of track how successful you are with this capability?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+So the way we're thinking, and we expressed this over the last few calls, which is AI will be offered to our customers that through a subscription license. Meaning if a customer wants to use an AI capability, be it a DSO.ai or VSO.ai, it will be offered as an incremental spend for the customer to get access to that technology. And in some early adopter cases where they're still not ready to make the long-term commitment, we're offering it as well in terms of consumption based, they may be looking for one project to use it, et cetera. And the Copilot in particular case is still very early, very, very early stage in terms of us to talk about monetization and how is it contributing overall. But those are the flexibility tools per se, we're providing the customer to get access to it.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you, Vivek.
+
+Operator
+We'll take our next question from Jason Celino with KeyBanc.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Great. Thanks for taking my question. The backlog number, it's quite impressive. Looking back at the last couple of years, it looks like it sequentially the biggest quarter-over-quarter increase we've ever seen up 20% year-over-year. Just wanted to check how much of this has been driven just from the AI design activity or the AI tool revenue. Sounds like it was more broad-based, but just wanted to check.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You know, with AI, we communicated last quarter that what we're observing on average, and that's average, and I'm emphasizing the average because in some cases we were seeing a much bigger number or a lesser number, about 20% contract over contract growth when a customer is renewing their EDA agreement and asking for the AI capability to be added. The other point that I made earlier with Vivek, I'd like to emphasize as well that we are in early stages of that monetization with AI. We still have customers that they are in early adoption. Meaning if they have X number of projects, they maybe using it on one or two projects. And other customers, they started early and they're going more aggressively. But to give you a sense, it's roughly 20% on the EDA side contract over contract growth we're observing.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay, interesting. Thank you. And then one question on the OCF guidance. It will be down next year. Are you saying that there's a $600 million headwind from cash taxes and then additional amortization, and then are you saying it's going to grow just in line with net income growth the year after? Can you just clarify?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Yeah, Jason, thanks for the question. So the total impact from taxes is $600 million. As we're moving to the new tax guidance where R&D is capitalized. Out of that $600 million, $200 million of it is -- was payable in November. We've already paid it which was for 2023 and then $400 million of that $600 million is for 2024. And again both of those are impacted by the amortization of R&D. As we move forward, as we move into 2025 and beyond, we anticipate that the growth of the cash tax rate will align with the growth of our operating income. So there is a bit of a big step-up this year, we do not anticipate that same level of step-up as we move forward.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Got it. But this is the new base level, right?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+It is. Because we're now going forward for the foreseeable future, we will be amortizing R&D. And for us, about half of our R&D is in the U.S., and about half of our R&D is outside the U.S. So that new scheme is with us for the foreseeable future.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Got you. Okay, great. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thank you, Jason.
+
+Operator
+We'll take our next question from Jay Vleeschhouwer with Griffin Securities.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Thank you. Good evening. For Aart and Sassine first, then a financial follow-up for Shelagh. For Aart and Sassine, one of the tailwinds that you've had for the last number of years and we've spoken about this often. Is what you've referred to as domain-specific architectures on the part of your customers or specialty chips? And AI is probably a very special case of that.
+
+The question is, how do you think the whole phenomenon of domain-specific design at either the chip or system level is going to be fundamentally altered by the AI phenomenon? And in turn, what does it mean for any additional investments you need to make outside of R&D, for example, in AE capacity services, et cetera?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yeah, thank you, Jay, for the question, you're right. The whole domain-specific architecture, I want to say about six, seven years ago we started seeing a number of customers investing in it, mostly hyperscalers. And you can argue before that a couple of the mobile companies started optimizing based on their own system software, optimizing their silicon. With the hyperscalers, initially the target was can they -- based on the workload, on a specific workload can they develop a chip that is more effective for power, performance, cost, et cetera. And the answer is yes, and they made number of these investments.
+
+Now you're seeing another wave of expanded investment around AI and how can they train the models that they're creating for again their specific applications? And I'm sure you've noticed in the last couple of weeks almost the top three hyperscalers announced their own silicon investment and chips for AI-specific training to drive more optimization and efficiency for their workloads. What that means for Synopsys is not only it is another chip that our customer base is investing in, which drives both EDA and IP. Typically they're on the most advanced node and different methodology in many cases. They're pushing towards multi-die and chiplets, which opens up the door for IP and the comments I made earlier.
+
+From our solution point of view, yes, we're expanding the solution offering to enable our customers to design these complex chips. On IP I want to say it's fairly straightforward. You deliver to standards to conduct these chips. But the work is not straightforward, but the roadmap is fairly straightforward, what you need to do. On the EDA side, we had number of those customers using 3DIC compiler, which gives them the ability to architect that chip or that system in that case.
+
+SLM, the Silicon Lifecycle Management, to give them the ability to trace the health and the connectivity of these ties into the system and all the way in the field or in the hyperscaler case is as it fits into their data center and it's up and running. So we have a number of expansions in our portfolio in order to support these opportunities and that's why we are bullish and excited about the opportunity to continue the growth for Design Automation and Design IP.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Right. For Shelagh, one of the largest components of your backlog has been FSAs, which are -- I would assume, largely related to IP. Is there any reason to believe that in future the pulldown of FSAs for IP consumption would be faster or larger than has been the case to date? And for that matter, were FSAs a large component of the 1.5 billion sequential increase in backlog that you noted?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+There is not, I wouldn't node a different percent of FSAs, it's certainly something that many of our customers who are purchasing IP, preferred that model, but there is not a different mix.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thanks, Jay.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thank you, Jay.
+
+Operator
+We'll take our next question from Charles Shi with Needham.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Hi, good afternoon. Congrats on the very strong results, guidance, and the backlog number. I want to ask a little bit -- dig a little bit more into the backlog number because you have relatively consistent ratios in terms of how much backlog goes into RPO, how much RPO goes into current RPO, and how much the current RPO covers next year's revenue. With that the same ratio as in the past few years, I thought you would have guided a little bit higher given that $8.6 billion backlog. So, how should I reconcile this? Is it something like at this time the average contract duration is a little bit longer within that $8.6 billion backlog or there's some conservatism around what you want to guide for '24? Thanks.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Yeah, thanks for the question. So the backlog was broad-based. It was across multiple customers and as Sassine said, some of them was larger renewals and new deals that we booked. There' was no -- there is no change in the duration in our contracts. So there's no change from our typical duration as we were putting the forecast together for the year. We are really balancing the headwinds and tailwinds that we're seeing in the business. And we're seeing, because of the backlog, we're seeing very strong momentum in the core business in Design Automation and Design IP. Where we're seeing the headwinds is on China in particular, which obviously has been a large growth driver for us for the last several years. We're seeing that growth rate slower.
+
+And then the other one is SIG [ph], which the software integrity business is still -- we anticipate going to be impacted by a difficult software enterprise purchasing environment. And so that's why we've got that business forecast at single-digit growth. So it's really the balancing of those things. But we are seeing Design Automation and Design IP aligned with our long-term goals for those businesses.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Got it.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thanks for the question.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Yeah, maybe a quick on -- yeah, maybe a quick follow-up on the half-over-half profile for next year. Because I mean, I would think that EDA revenue because of its time-based nature and you guys keep signing bigger contracts, it tend to be like up to the right kind of profile through the year. But your relatively flattish half-over-half profile, seems to suggest that the high-teen maybe some of the hardware is going to be a little bit front half-loaded. Is that the case and why is that happening [ph]?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Yeah, it's really just the balance of how we see the customers wanting to ingest our hardware and our IP business. So it's fairly aligned also with what we saw in '23 and fairly aligned with what we saw in '21.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+And maybe, Charles, if I add a couple of comments to what Shelagh just said. Rough numbers, our design automation is about 65% of our business and then Design IP 25%, and the Software Integrity is 10%. And the $8.6 billion is mostly those agreements in EDA and IP. And given the large percentage of the overall revenue we have, which is 25% is IP, there is a different pulldown and development of the IP, especially on the advanced nodes. When we're talking about we're developing our IP portfolio on the most advanced foundries. From the day you sign an agreement to the day you deliver, there is a time lapse by when that you deliver the IP and you get the pulldown. So while the backlog number, the $8.6 billion is large, we need to get, I want to say used to that the consumption for EDA and IP would be very different across that backlog number. And the timing of the renewal, et cetera, et cetera, yeah.
+
+A - Trey Campbell{BIO 20385325 <GO>}
+Thanks, Charles. Let's do one more question and then if you could turn it back over to me, Lisa.
+
+Operator
+Thank you. We'll take our next question from Gianmarco Conti with Deutsche Bank.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Hi, there. And thank you for taking the question. So, I guess, the first one would be, how should we think about the recurring revenue rate into 2024? Is it fair to assume that given that we're expecting another record hardware into '24, it will inch closer to 80%? Secondly, could you provide some more color on the SIG strategic initiatives that you're considering?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Maybe I'll talk about the SIG initiative and Shelagh will comment on the backlog. What we've said in the remarks that we went through a strategic portfolio review, just to put some context around what we went through. As I stated earlier, we have the three business segments and we are truly fortunate that we have a leading position in each one of those segments. As we look at the opportunities over the next five to 10 years of these market segments, I cannot express how excited we are about the opportunities we have in Design Automation and Design IP.
+
+And the more we can expand our portfolio within these market segments. So that led us to discuss and make a decision to explore these strategic alternatives for software integrity, to put priority of where to make our investments and where do we believe there's a higher ROI for the investments based on the 90% of our portfolio between the Design Automation and Design IP business segments. So that's really the process that we went through in order to get to that point.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Yeah. And I would add that on the recurring revenue question, we're not expecting a substantial change in that. We've had a record hardware year in '22 and '23, and we're expecting another one in '24, but the overall business is growing too. So it won't substantially change the mix of recurring revenue. Thank you for the question.
+
+A - Trey Campbell{BIO 20385325 <GO>}
+Thanks, Gianni [ph]. Let me turn it over to Art for some closing remarks.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you. A couple of personal words enclosures here. Since the IPO in 1992, this is my 128th earnings call. I did not miss a single one, but I suspect that literally only Jay Vleeschhouwer remembers exactly what was said at each one of these calls. So, a big thank you to you, Jay. But really a huge gratitude to all of you for your feedback, your write-ups, your advocacy on the market, but also for never giving up on asking questions where you perfectly will know that we will never answer them. So, I really hope that you will keep that up with Sassine. But more importantly, gratitude for having -- being travelmates and family members in raising this fragile Synopsys startup child into the strong worldwide market and technology leader that is today. Thank you.
+
+Now you know some CEO transitions are hard, but. I think we're doing very well. Sassine is the perfect choice for CEO, he already leads with ambition, heart, and smarts. And of course, his 25 years of experience at Synopsys is comprehended -- it's complemented I should say, by great customer relationships and very importantly trust. Sassine has my respect, my enthusiasm, and my full, full support. So please give him your support as well.
+
+With that, I look forward to -- from time-to-time touching base with you. So until then be well, and thank you very much.
+
+A - Trey Campbell{BIO 20385325 <GO>}
+Thanks everyone for joining the call. Lisa, can you close this out?
+
+Operator
+Thank you. And that does conclude today's presentation. Thank you for your participation today, and you may now disconnect.

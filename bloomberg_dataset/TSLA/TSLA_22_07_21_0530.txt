@@ -1,0 +1,496 @@
+Q2 2022 Earnings Call
+Company Participants
+Andrew Baglino
+Andrew Baglino
+10/2019-4/2024 | Tesla Inc, SENIOR VP:POWERTRAIN & ENERGY ENGINEERING
+7/2019-10/2019 | Tesla Inc, VP:TECHNOLOGY
+3/2006-7/2019 | Tesla Inc,  
+, Senior Vice President, Powertrain and Energy Engineering
+Elon Musk
+Elon Musk
+5/2023-PRESENT | X Corp, CHAIRMAN/CTO
+11/2018-PRESENT | Tesla Inc, CHIEF EXECUTIVE OFFICER/CO-FOUNDER
+2017-PRESENT | TBC - Boring Co/The, FOUNDER
+, Chief Executive Officer
+Martin Viecha
+Martin Viecha
+10/2017-6/2024 | Tesla Inc, HEAD:INVESTOR RELATIONS
+2/2011-9/2017 | Redburn Atlantic, EQUITY ANALYST:AUTOMOTIVE SECTOR
+3/2007-8/2009 | Deloitte, CONSULTANT
+, Vice President, Investor Relations
+Unidentified Speaker
+Zachary Kirkhorn, Chief Financial Officer
+Other Participants
+Colin Rusch, Oppenheimer & Co.
+Emmanuel Rosner, Deutsche Bank
+Pierre Ferragu, New Street Research
+Toni Sacconaghi, Bernstein
+William Stein, Truist Securities
+Presentation
+Martin Viecha{BIO 17153377 <GO>}
+Good afternoon, everyone, and welcome to Tesla's Second Quarter 2022 Q&A Webcast. My name is Martin Viecha, VP of Investor Relations, and I'm joined today by Elon Musk, Zachary Kirkhorn, and a number of other executives.
+
+Our Q2 results were announced at about 3 PM Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up. Please use the 'Raise Hand' button to join the question queue. But before we jump into the Q&A, Elon has some opening remarks. Elon?
+
+Elon Musk{BIO 1954518 <GO>}
+Thank you, Martin. So just as a Q2 recap, Q2 was a unique quarter for Tesla due to a prolonged shutdown of our Shanghai factory. But in spite of all these challenges, it was one of those strongest quarters in our history. Most importantly, in June, we achieved production records in both Fremont and Shanghai. And as a result, we have the potential for a record-breaking second half of the year. I do want to emphasize this is obviously subject to force majeure, things outside of our control. The past few years have been quite a few force majeures, and it's been kind of supply chain hell for several years.
+
+Credit to our Austin Tesla supply chain team for overcoming insanely difficult challenges and a huge thanks to the Tesla Shanghai factory team, who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+
+So also making good progress with production ramp with Berlin. We achieved important milestone of a thousand cars a week in June, and we're expecting our Giga Texas to exceed the thousand vehicle point milestone hopefully in the next few months.
+
+To be clear, we're currently making the cars with 2170 cells and Andrew Baglino will address some of the 4680 questions later in this call. But it is worth emphasizing that we have enough 2170 cells to satisfy all vehicle production for the remainder of the year, so we're not dependent on 4680. 4680 will be important next year but it is not important for this year.
+
+That said, we haven't sold the second generation of manufacturing equipment for 4680 cells in Texas, and even at our established factories like Fremont and Shanghai, we continue to expand capacity.
+
+Regarding Autopilot, we have now deployed FSD Beta with City Streets driving capability to over 100,000 owners. They're very happy with the capabilities of the system and we continue to improve it every week. We have now driven over 35 million miles with FSD Beta. That's more autonomous miles than any company we're aware of. I think probably more than -- it might be more than any -- all other companies combined, so -- and that mileage is growing exponentially.
+
+With regard to manufacturing and technology, about five or six years ago, we said we wanted to become the best manufacturer in the world and that is somewhat counter-intuitively, to some people, what it will actually be, I think our strongest competitive advantage. We're super pro-manufacturing here at Tesla, and in general, we want to encourage other companies to be super pro-manufacturing. And in general, I think it is a very important thing to do. We need to make stuff and make it efficiently and that's manufacturing.
+
+So we've made a lot of advancements in manufacturing processes. As we now show in the shareholder deck, thanks to our -- the large castings, we make the world's largest castings. We reduced body welding robot count by 70% per unit of capacity in Austin and Berlin. So that's, call it, roughly a body shop that is roughly three times smaller than what would normally be the case. And I should say, it's also lighter, cheaper, and has superior noise vibration and harshness.
+
+So it's good on every level. But this journey is not over. We will bring a whole -- another level of simplicity and manufacturing improvements with Cybertruck, and future products that we're not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+
+Our safety team also introduced a feature that tensions seatbelts if the Vision system detects imminent collision, which has never been done before. So you can imagine that if you have a seatbelt that only tensions upon impact, you have very little time to tension the seatbelt. You've got to be -- the car is still like got to be crunching to trigger the seatbelt tensioner. But because we have Vision, we can actually see that a collision is about to occur with 100% probability before it actually happens, and so we can tension the seatbelts, and we can even adjust the airbag deployment because we can see, not just feel. This is a fundamental safety advantage that Teslas are now able to offer. And there's also an over the air update. So this is something that will be in place in all cars that have at least AP3 hardware.
+
+In conclusion, we exited Q2 with a stronger production rate than ever before. Our team continues to focus on Cybertruck production readiness and some future platform design. We are expecting to be, still expecting to be in production with the Cybertruck in the middle of next year, and we're very excited about that product. I think it might actually be our best product ever. Let's see -- and FSD Beta is on track to be released for all of North American customers before the end of this year and hopefully, if we get regulatory approval, we will also be releasing it, hopefully in Europe and some other parts of the world.
+
+We're hosting our AI Day in a few months. I think you will be amazed at what we're able to show off in AI Day. So, basically, there's a tremendous amount to look forward to in the second half of this year, and I want to thank all of our employees and suppliers for their super hard work during these challenging times. Super appreciated. Thank you.
+
+Martin Viecha{BIO 17153377 <GO>}
+Thank you very much. And Zack has some opening remarks as well.
+
+Zachary Kirkhorn{BIO 20940148 <GO>}
+Yes. Thanks, Martin. I want to start by congratulating the Tesla team on excellent execution during the second quarter. Although our production volume reduced sequentially due to COVID related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our global vehicle production rate as we exited the quarter.
+
+Our Fremont factory supported by our Reno team, reached new production records, the Shanghai factory resumed full production, and our new factories in Austin and Berlin are progressing well through their initial ramps.
+
+Additionally, our energy business achieved record gross profit with the highest solar volumes in many years. I want to personally thank the entire Tesla team, as I know many of you are listening. You've embodied a remarkable and relentless pursuit of excellence and support of our mission. I also want to thank our suppliers for their support during another complicated quarter.
+
+On GAAP Automotive gross margin, it declined sequentially to 27.9%. The temporary decline in Shanghai production volume meaningfully impacted margin, including idle capacity and factory restart costs, and also had implications on the mix of regional deliveries. Additionally, as discussed on previous calls, we are working through the ramp inefficiencies of our new factories, which are progressing well but have had an impact on margin as those factories come online.
+
+While we continue to see a benefit from higher pricing flowing through, which experienced some foreign exchange related headwinds, our cost structure continues to experience cost increases from inflation, commodities and logistics.
+
+The energy business progressed well in Q2 aided by alternate solar supply coming online and progress on unit economics. Our storage business remains component constrained on both Powerwall and Megapack, which we hope will alleviate to some extent in the second half of the year. We are greatly appreciative of the patience and flexibility shown by our customers, while we work through these challenges.
+
+Within operating expenses, Austin and Berlin related start-up costs have wound down as these factories have moved into production and their costs are now reflected in automotive COGS. Additionally, we converted a majority of our Bitcoin holdings to Fiat for a realized gain offset by impairment charges on the remainder of our holdings, netting a $106 million cost to the P&L included within Restructuring and Other. We also incurred restructuring charges related to targeted staffing reductions.
+
+Elon Musk{BIO 1954518 <GO>}
+Yes. It should be mentioned that the reason we sold a bunch of Bitcoin holdings was that we were uncertain as to when the COVID lockdowns in China would alleviate. So it was important for us to maximize our cash position given the uncertainty of the COVID lockdowns in China. We are certainly open to increasing our Bitcoin holdings in future. So this should not be taken as some verdict on Bitcoin. It's just that we were concerned about, overall liquidity of the company given the COVID shutdowns in China, and we have not sold any of our Dogecoin.
+
+Zachary Kirkhorn{BIO 20940148 <GO>}
+Yes. We still have it.
+
+Elon Musk{BIO 1954518 <GO>}
+We still have our Dogecoin.
+
+Zachary Kirkhorn{BIO 20940148 <GO>}
+Despite these challenges, we were still able to achieve one of our strongest operating margins of 14.6%.
+
+Our free cash flows were impacted by working capital related to the Shanghai factory shutdown. However, we expect this will show as a benefit in Q3 as our working capital related cashflows re-stabilize.
+
+As we look ahead and as Elon mentioned, we are positioned for a record-breaking second half of the year. We're quite excited about this. A couple of things to keep in mind as we progress; Austin and Berlin ramp inefficiencies will continue to weigh on our margins for the balance of the year, however, the impact should reduce as we increase ramp.
+
+Second, as we've mentioned before, we expect to continue to see recognized global pricing to increase as our backlog flows through. However, macroeconomic related cost increases will also continue to be part of our story. And finally, despite losing more builds in Q3 than expected, we're still pushing to reach 50% growth this year. This target has become more difficult but it remains possible with strong execution, and as Elon mentioned, no more force majeure events for the balance of the year.
+
+Elon Musk{BIO 1954518 <GO>}
+Yes. There were a lot of force majeure in the last several years. I think that's for sure.
+
+Zachary Kirkhorn{BIO 20940148 <GO>}
+Thank you.
+
+Questions And Answers
+A - Martin Viecha{BIO 17153377 <GO>}
+(Question And Answer)
+
+Thank you very much. And now let's go to the questions from investors.
+
+And the first question is, Chinese EV manufacturers seem to be doing a better job than their Western competitors, excluding Tesla, at innovating in software and design. How can Tesla make sure the company is staying ahead of those manufacturers, both within China and outside of China?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, right now, the best Chinese EV manufacturer is Tesla, China. We're actually doing the best thanks to our incredible team in China. But I have a lot of respect for the Chinese car manufacturers and EV manufacturers in particular. I think they will be a force to be reckoned with worldwide. They're very -- they're smart and they're hardworking and I think anyone who is not -- any company that's not as competitive as them, will obviously suffer a market share decline. So obviously, we have a lot of respect for the current companies in China and then their capabilities, yes.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is, when will Tesla have a unified vector space for both static and moving object network? Will this be a v11 or a later version? If the latter, can you explain what makes it a difficult problem in layman terms?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Okay. This answer will be understood by 0.001% of the audience I think. Most people don't know what a unified vector space would actually mean. It essentially would be, if you can take -- if instead of knitting together static and dynamic objects in C++, if they could be knit together at the neural net level, then you don't need to reconcile them within C++ heuristics. That is an architecturally better way to -- that's the most desirable outcome. It's -- I think it's probably not necessary to achieve full self-driving, but it would be a slight improvement in the efficiency of the self-driving. And that's certainly something we want to get to, yes, the sort of nirvana situation is, you have surround video/auto labeling of all static and dynamic objects. And you have then a surround video inference with spatial memory as well.
+
+Then that's -- I mean, I think we're almost certainly there before the end of the year. Yes, I'm not sure how many people would understand that.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Sounds good.
+
+A - Elon Musk{BIO 1954518 <GO>}
+But I should say also, we are also confident of improving the frame rate. As we delete some of the legacy neural nets, we think we might be able to get to the frame rates of 8 cameras maybe up to 36 fps, which is actually a lot of frames, considering its 8 cameras. It's certainly comfortably above 24 frames, which is basically the movie, frame rate of movies.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is, Elon recently tweeted about lowering prices once inflation cools down. Can you elaborate on what do you mean by cooling down and how aggressively the company will lower prices? More broadly, how do you think about the order pricing long-term?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. So, since we have -- there's a quite a long wait when somebody orders our car. In some cases, six months, in some cases it could be up to a year. We have to anticipate what the probable inflation rate is over that period of time. So, that's what we're trying to do when we see -- when or if we see indications that the inflation rate is declining, then we would not need to increase our car prices. It's possible that there could be a slight decrease in car prices, but this is fundamentally dependent on macroeconomic inflation. It's not something we control.
+
+If I were to guess, and I wouldn't -- take this with a grain of salt. I think inflation will decline towards the end of this year. We are certainly seeing prices of commodities trending lower but take it with a grain of salt. This is -- making economic prognostication is fraught with error. I don't know if you guys want to -- do you want to say anything about it?
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+Yeah. We're certainly seeing, I mean it's kind of a whole spectrum on the battery metal side. For example, the price of lithium has really shot up. It used to be $11 a kilogram to more than $80 a kilogram. But you know, it's not every situation is that bad. So it's kind of a spectrum.
+
+A - Unidentified Speaker
+Carbon steel, aluminum --
+
+A - Elon Musk{BIO 1954518 <GO>}
+(Inaudible)
+
+A - Unidentified Speaker
+Carbon steel and aluminum has started trending down. We will see the benefits of it only probably later part of this year or early next year.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. But I think that's just like -- for most commodities we're seeing a downward trend towards the end of this year or next year. Some commodities, the pricing of lithium is insane. I would like to once again urge entrepreneurs to enter the lithium refining business. The mining is relatively easy, the refining is much harder. So, the -- lithium is actually a very common -- it's sort of very -- it is like lithium is pretty much everywhere. But you have to refine the lithium into battery grade lithium carbonate and lithium hydroxide, which has the extremely high purity. So, it is basically like minting money right now. It is like software margins in lithium processing right now. So, I would really like to encourage once again entrepreneurs to enter the lithium refining business. You can't lose. It's a license to print money.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is, you made the right economic call before most on inflation when you diversified into Bitcoin. It has since shown it's not much of a hedge in the real world test the last few months. How do you think about it as an asset over long-term and what do you need to see to change your view?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, Tesla is a -- Tesla's goal is to accelerate the advent of sustainable energy. We're not really -- crypto currency is a sideshow to the sideshow. So we're not -- of course, cryptocurrency is not something we think about a lot. We think a lot about scaling production and accelerating the advent of sustainable energy, which the record heat waves around the Earth serve to emphasize the urgency of that transition. So that is what we're trying to do, is make electric vehicles and solar and stationary storage battery packs. But the three pillars of a sustainable energy future which is like solar and wind for energy generation, stationary battery packs for storage of the solar and wind energy because of its intermittency, and then electric vehicles, the third pillar. And if those three things are solved, we have a sustainable future for civilization. And the fundamental good of Tesla and the reason we're doing this, so certainly my primary motivation here is to have the day of sustainable energy come sooner. That's our goal. We're neither here or there on cryptocurrency.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question's on 4680. Elon noted that 4680 plus structural pack is not yet optimized. Can you please share the general path of 4680 instructional packs in terms of cost efficiencies when compared to the traditional 2170 pack? Will cost improvements be mostly due to scale or do we need to solve some technical issues?
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. Do you want to do the architecture?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. So structural pack where we get dual use of the battery cells as structure and as energy storage, in the same that an aircraft gets dual use of the wing as a fuel tank and as a wing, is I think unequivocally, from a physics standpoint, the superior architecture, so it's the A architecture. Now, because it is new, we will start off getting aspirationally a C within an A architecture. But the potential is there for to get radically better and then unequivocally better than a battery pack which is carried like a sack of potatoes. So --
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. And we've gained the perspective through putting our first structural pack in production, that, it is actually the A architecture.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Like, before we did that, it was a hypothesis that was backed with a lot of modeling and first principles and analyses. And now we've actually built in and more confident in that assertion.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. So exactly. So the structural pack, even the C and A architecture is beating the non-structural pack. And so over time, it will, with further refinement, be substantially superior to a car that is carrying a battery pack as though it is cargo. And this is, like I said, it's very, very much, very analogous to the early days of aviation where fuel tanks were initially carried like cargo until they realized actually you should get dual use of a fuel tank as a wing and as a fuel tank. And that makes the planes lighter and better. And the same is true of electric vehicles.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+And on cost improvements, are they due to scale or about solving technical issues?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Both.
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+Yeah. It's obviously both.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. Really the two things that improve costs are economies of scale and core technology.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. I think technical issues is not the right --
+
+A - Elon Musk{BIO 1954518 <GO>}
+Technical issues like -- (Multiple Speakers)
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Getting to the optimal design, right? Like you always start with some excess, some people might call it fad, but that's not really what we think it is initially, it's like you don't know how lean you can get it, until you've done it a couple of times.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. I mean there's some platonic ideal of the perfect product where the atoms -- you have exactly the right atoms and they're in exactly the right position, and you asymptotically approach this platonic ideal. But it takes a lot of effort over time to figure out actually what is the platonic ideal and then actually gradually approach that.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. I mean you might need to create a new alloy, then you need to figure out how to cast it.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Then you need to ramp the casting machine of the new alloy, as an example.
+
+A - Elon Musk{BIO 1954518 <GO>}
+We did.
+
+A - Unidentified Speaker
+We have done it for rotors, we have done it for weight castings, so like, yeah, it does take time.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+But constant improvement is something we're used to here and it's something like we've done with our vehicles and their designs since the beginning. I mean, even we were talking a couple of weeks ago, like the first version of the front casting that we made that went into the early vehicles is like --
+
+A - Elon Musk{BIO 1954518 <GO>}
+Model -- Do you mean Model S stage?
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+No, I'm talking about like our first Model Y.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Oh, yeah. We've -- since we've ordered more dies because we need more dies for more production. We've saved like 4 or 5 kilos of mass just in die iteration and that's something we do at Tesla like quite regularly and we'll continue to do. So, we're not happy with a C, like maybe we're at a C+ now but we got to keep going to B-minus on the rear casting. But this will transfer for improvement with the casting. So the casting is already way better than -- the rear body casting is already way better than the way it was done in the past where you've got 120 different parts that are welded together or bonded together with different alloys and then you have to put sealant in between all the various parts for water ingress and noise. So we're already way better than that with current casting, but there's still a lot of opportunities to reduce the mass of the casting and also extend the casting to include more parts, as well as adapt the rest of the vehicle for the fact that there's a casting.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yes, I was going to say the same thing, right? Like we're not just evaluating the pack in isolation either. It's the pack plus the body, the integration, do we have mass in the right places, we have the cast in the right places in only just the right amount. And I think we've gone through one iteration. We're going to do another one with Cybertruck. And we're taking the learnings and doing. The next version hopefully is a B-plus in the A architecture. That's certainly a target.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is, how do you feel the progress of FSD is going? And does Andrej Karpathy's leaving any significant impact on timelines or potential progress?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, since Andrej was writing all the code by himself, naturally, things have come to a grinding halt. And so the irony -- so Andrej is also -- I man we have tremendous amount of respect for Andrej. He's decided to -- I think he wants to contribute more to, I think, core AI at an academic level and get back to coding individually. So -- but we've got a team of about 120 people in our software AI group that are extremely talented. And I think we will have -- I'm highly confident we will solve full self-driving and it still seems to be this year. I know people, they're like, he always says that, but it does seem to be -- it does seem as though we are converging on solving full self-driving this year.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question is, how is the 4680 ramp going and is Giga Texas producing cells yet?
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. So we are making progress on 4680, but right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin. We expect to ramp total 4680 production to exceed 1K per week by the end of the year, hopefully before -- well before. In Q2, at Kato, we fully automated power conveyance for the drying of electrode tool there, unlocking major increases in production and improvements in yields. Since March, because of that, Kato output has grown 35% month-over-month each month since, and yields throughout the factory are already at targets in most areas and trending in that direction and in a few others.
+
+We did feed learnings from Fremont cell and pack lines, the Texas and Berlin there, it's a carbon copy. Cell design was revved to unlock higher performance and manufacturing simplicity. Manufacturing lines were further integrated and we in-sourced additional content. For these reasons, there are some new ramp challenges to overcome in Texas and Berlin. Specific to Texas, last quarter, cell equipment was fully installed and commissioned and we produced our first commissioning car sets of cells through the end of the line. Our target for Texas is to begin production in this quarter and aim for Texas to be capable of exceeding Kato weekly output before the end of this year.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you very much. The next question is on 4680 as well, but I think Drew has covered everything that was in the next question. So the following question is, with regards to the ramp of production in Austin and Berlin, how is the situation with regards to supply of semiconductors, battery cells, and other components? How about cost inflation impacting profitability of these other plans?
+
+I can take that. So Tesla procures about 1,600 unique pieces of silicon from 43 semiconductor companies. So with a portfolio of that size, there are always challenges. Things are more stable on the latest generation chips. We still see some tightness in the older generation semiconductors, especially in the analog and mixed signal space. But we have line of sight to solve for the volumes being contemplated for both Austin and Berlin.
+
+And on the cell front, like Elon mentioned, we have a comfortable margin thanks to record output from our partners and have line of sight that matches the planned output from both factories. We've grown cell production significantly on a 12-month rolling basis and have long-term contracts with all our partners for key battery metals. So we don't see any major problems for the components, of course, barring unforeseen COVID-related shutdowns.
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+Just to add on the profitability part of the question. Q2 was our largest increase we had over the last handful of quarters on an inflation and commodity-related increases to our cars. It's fairly evenly spread across the factories, given common suppliers or common issues that impact the broad supply chain. So I think I had mentioned before that we have been seeing increases over the course of last year. It ticked up in Q1 and then it ticked up again and the rate of increase was more in Q2. So as we look through to the end of the year, what we're seeing is, we don't think the inflation-related increases in Q3 will be as big as Q2. But as Elon has mentioned, there is uncertainty on pricing here.
+
+And we don't have full exposure, as Karan had just mentioned, on every component of cost because we do have some contracts in place. But there are some spot buys as well and some contracts being renegotiated. So we're managing it with pricing and in partnership with our suppliers, but it does continue to be something that is impacting our financials.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you very much. And the last question is, when will the Cybertruck be officially available?
+
+A - Elon Musk{BIO 1954518 <GO>}
+We're hoping to start delivering them in the middle of next year.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Great. Thank you very much. And now let's go to analyst questions.
+
+The first question comes from Pierre Ferragu from New Street Research. Pierre, feel free to unmute yourself.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+Hi, guys. Thanks for taking my question. I'd like to ask like a question on the 4680 and the structural battery pack, and I'd love to understand where you stand on the technology and efficiency and energy density roadmap that you described at the Battery Day. So what I'm trying to understand is, where do you stand on the architecture of the battery cell itself? How much silicon do you have in it? How much energy improvement have you achieved already so far? And the reason why I'm asking -- sorry.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Go ahead.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+And the reason why I'm asking that is because you have like very smart guys on Twitter who shared experience about trying to fully empty a Model Y from Texas, from Austin, and noticing behaviors and like recharging behavior that suggested that maybe these cars had like very, very high mileage, very high range, and were like artificially limited in range in software. So I'm just kind of trying to understand how much of an edge you're building at the moment with the 4680 and the structural battery pack on range.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. Let me just try to provide like a super straightforward answer. Like, as Elon mentioned before, our priority was really on simplicity and scale during the initial 4680 and structural battery ramp. So we weren't like putting all the bells and whistles in from day one because if so, we would be sort of suffering under a string of serious miracles that we would need to achieve to get going. But as we attain the manufacturing goals that we've stated, hit the ramp that we need to hit next year, we are certainly planning to layer in new material technologies and higher-range structural packs, like we're not like holding back goodies for some rainy day or something like that.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes. Maybe another way of putting it is that the -- our focus right now is on the dozens of little issues that inhibit the production ramp of the 4680. Some of the more challenging ones have been feeding the anode and cathode material because we're using this revolutionary dry electrode process. But when something is revolutionary, it's a lot of unknowns that have to be resolved. So and we're confident of resolving those unknowns but it's very difficult. It's -- yes, we're making rapid progress on that front. So the first order of business is really get the basics right, get to high volume and high reliability and then very rapidly iterate within that to enhance the energy density and reduce the cost of the cell.
+
+Totally agree, yeah.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+Okay.
+
+A - Elon Musk{BIO 1954518 <GO>}
+I'd say we are highly confident of a good outcome. It's -- the exact counterpoint to that is perhaps is of some debate but the outcome is not.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. And specific to the dry process, we made a major advance this past quarter in Kato that the team is really excited about, and congrats to the team for achieving that.
+
+A - Elon Musk{BIO 1954518 <GO>}
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of battery cells. The Tesla battery cell production is in addition to what our suppliers can do. And we want our suppliers to grow their battery output as fast as they possibly can, and that goes for the entire supply chain. The fundamental rate limiter for both transitioning to a sustainable energy, is how fast can you grow the amount of battery output per year. This is the fundamental rate limiter for transition to sustainability because you need the batteries for two of the pillars of sustainability, the stationary storage and for vehicles. So, yeah.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. And I just want to stress that a lot of these higher energy density technologies are not necessarily scalable. I mean, most of them are not scalable from what I've seen. And so like focusing on them is a distraction from the mission, like it really is how do we scale as fast as possible. And we're taking these risks that we've discussed at Battery Day and our plan is as we de-risk them and they are successful, we want to bring them back to our partners so that they can go faster too, because that's all on the mission, right, like how do we accelerate.
+
+A - Elon Musk{BIO 1954518 <GO>}
+People often ask me, people often ask me is some breakthrough needed in battery technology for the world to transition to sustainability? The answer is, no. Even if there was zero technology breakthroughs, literally zero from where the technology is right now, we could fully transition Earth to sustainable energy. But the issue is very much the rate at which the entire supply chain, from mining to refining to cell production, how fast can that grow. It's growing fast, but the faster it grows, the faster we transition to a sustainable energy economy.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+This is actually a great -- exactly where my follow-up is. So Elon, you always mention, this 50% per annum sustainable growth target that you guys have. And so, my question here is, when we see like the difficulty regarding the commodities, raw materials' swinging prices, I'm kind of wondering, as you are planning for this 50% per annum growth, if we stand today over the next five to ten years, how much of that do you feel you've secured through your work at entering into long-term contracts and things like that?
+
+And you were calling for entrepreneurs to go into the lithium business. And so does that mean you don't have enough lithium secured to grow 50% per annum over multiple years and what's -- how much of that is secured today, and how fast can you improve that basically?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, I think it's very difficult to predict anything ten years from now. I hope civilization is still around, frankly. I would count that as a win.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+I think it's not that funny.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah, exactly. Hopefully, we haven't had World War III by then.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Or the earth doesn't burn down.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. So the -- we do see constraints in refining of the materials necessary for lithium ion batteries. I do want to emphasize this as -- it is not due to a scarcity of the raw material. In the case of lithium, lithium is one of the most common elements on Earth. It's pretty much everywhere. But refining of the lithium into ultra-high purity battery-grade lithium hydroxide and lithium carbonate is quite difficult and it requires a massive amount of machinery and it's a hard thing to scale. It was also difficult to create the anode and cathode. I think -- my guess is, maybe two-thirds of batteries will be iron phosphate or maybe iron phosphate with some manganese and there's plenty of -- there's a ridiculous amount of iron. I mean, in fact, Earth is -- a little bit of trivia. Someone says, what is Earth made of more than anything else? Iron. Iron is the number one ingredient of Earth by mass. Number 2 is oxygen.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah, which is wild.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. Basically rust. We've stuck them together. We're a rust ball. That's roughly -- that's almost two-thirds of Earth, I think is rust. We are like a rusty ball bearing with a little bit of other stuff. So -- but plenty of lithium. So anyway, there's not like a shortage of materials.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah, I mean -- but the other thing on the LFP thing is that it isn't just that there's more access to material that way. The actual refining process is less capital intensive to make a good LFP cathode. And so, there's -- it's not just scalable on the resource side, it's scalable on the refining side.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Absolutely. To be clear, there's no fundamental barrier here. It's simply a rate question. Like, at what rate can you scale production? And I think we're seeing a very rapid increase in battery production and in the whole supply chain. If you were to say today, what are concerns that appears down the road? I would say one of the concerns is the machinery to refine the critical ingredients of lithium ion cells. So the lithium itself, and then the cathode, which I said -- like I said, be mostly iron phosphate, perhaps some manganese. I think almost all stationary storage will be iron phosphate and then you really just need nickel chemistry for long-range vehicles like aircraft and that kind of thing.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. The other thing I would say is, we are working with our suppliers to ramp their capability as quickly as possible. And it's not like we have a problem in the next year or two to, specifically to your question. But when we look ten years out, yeah, we need to do more to accelerate the growth and that is why we are making our own investments, like we are building a cathode facility here in Texas, that still is going up, you can see it in the flyovers. We're working on a lithium refining activity as well ourselves because the best way to learn how to accelerate something is to do it yourself. So these are the things we're doing to move it all forward.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. I mean if our suppliers don't solve these problems, then we will.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question comes from Emmanuel Rosner from Deutsche Bank. Emmanuel, go ahead and unmute yourself.
+
+Q - Emmanuel Rosner{BIO 16323493 <GO>}
+Yeah. Thank you so much. I have a question on your vehicle demand and then a quick follow-up on supply. First, on the demand side, are you seeing any sort of pressure in the orderbook or the pace of new order or any sort of like slowdown as a result of the pressures that the consumer is experiencing? Are you worried about it in light of your view of the risks to the economy that I think you expressed, Elon?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, right now, our problem is very much production. So we've long leads on, as anyone can tell if they order our car, if you order Model Y, it will arrive sometime next year. So this is clearly not an issue for many months for us. Our problem is overwhelmingly that of production. So --
+
+Q - Emmanuel Rosner{BIO 16323493 <GO>}
+Okay.
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+Okay. Maybe just two things to add. Specifically on your question, are we seeing a macroeconomic impact on our demand? Not that I can tell. Maybe a little, but --
+
+A - Elon Musk{BIO 1954518 <GO>}
+Some maybe, but it's --
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+But it's not material. The second thing, to Elon's point about backlogs, we have a very long runway with very long lead times here. I mean, certainly, the world is uncertain, and we'll have to see where things go with commodity prices, how quickly we're ramping production, what the state of the road looks like at some point next year. But the demand is not something we spend really any time talking about.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. And I think it's -- maybe just once again worth mentioning the -- that there is difference between value for money and fundamental affordability because sometimes people say, well, if you got all this demand, why don't you just raise the price to some -- double the price or something. And this is usually expressed by somebody who is rich. So if -- but there's -- even if you rail value for money to infinity, if somebody does not -- if consumers do not have enough money to buy it, even a product where the desirability is real to infinity, they basically cannot buy it. So this is why you cannot just raise prices to some arbitrarily high level because you pass the affordability boundary and then the demand falls off the cliff.
+
+So I do feel like we've raised our prices or we raised our prices quite a few times. They're frankly at embarrassing levels. But we've also had a lot of supply chain and production shocks and as -- we've got crazy inflation. So I'm hopeful this is not a promise or anything, but I'm hopeful that at some point we can reduce the prices a little bit.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. Emmanuel, do you have a follow-up?
+
+Q - Emmanuel Rosner{BIO 16323493 <GO>}
+Yeah. My follow-up was actually on the supply side. So it was very encouraging to see that you're quantifying your current installed capacity at basically already in excess of 1.9 million units installed currently. How quickly do you think that you can fill that capacity?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, I mean, we -- I think we've got a good chance of exiting this year at 40,000 vehicles a week.
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+Yeah. I mean our internal plans are to have the capacity utilized by the end of the year. It takes time to ramp there. It will be a challenge. There's a lot that needs to happen to get there, but that's what we're working on.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. We've had many 30,000-car weeks already, so I think a 40,000-car week is within reach by the end of this year.
+
+A - Unidentified Speaker
+Shanghai and Fremont, as we said last month, were record production and they're really firing better, doing really well. But then also Berlin are coming on strong. Theoretically, they also had record quarters last quarter. And if we ramp them to the capacity shown in the deck, by the end of this year, we'll be at that rate.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. There's always a lot of uncertainty and like -- the production looks like an S-curve, and that intermediate part of the S-curve is, it's very difficult to predict that with high certainty. But the end part of the S-curve, you can say, I think you can have a lot more certainty. And so that's why I'm confident we'll get to 5,000 cars a week in Austin and Berlin by the end of this year or early next year and probably but not certainly, 10,000 cars a week at both locations by the end of next year.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. The next question comes from Colin Rusch from Oppenheimer. Colin, go ahead please.
+
+Q - Colin Rusch{BIO 15823117 <GO>}
+Thanks so much guys. Could you talk a little bit about the pricing strategy around FSD? And as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. We will increase the price of FSD sometime later this year. I think probably just before we go to Y beta. The Y beta is anyone who wants to use the beta software with all the caveats associated with that can use it, then it would make sense to increase the price of FSD. The value of FSD is, I think, extremely high and not well understood by most people. It is basically currently ridiculously cheap, assuming FSD materializes, which it will.
+
+Q - Colin Rusch{BIO 15823117 <GO>}
+Great. And then -- sorry to belabor a little bit on this battery materials side. But in terms of some of the suppliers and the contaminants, can you be a little bit more specific around some of the elements that you guys see in some of your supply chain that can prove troublesome on yields for the 4680s, particularly around lithium and potential contaminants in either hydroxide or the carbonates that you guys end up seeing real issues with as you move into production?
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yeah. I don't really think we have anything to comment on the purity specs of lithium on this call right now, yeah.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yeah. The contaminants from the 4680 are not a factor, this is not an issue.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you very much. The next question comes from Tony Sacconaghi from Bernstein. Tony, go ahead please.
+
+Q - Toni Sacconaghi{BIO 3056875 <GO>}
+Yes. Thank you for taking my questions. I have two as well. In response to the question around demand, I think, Zach, you said maybe a little, and Elon, you said maybe some indication that you might see some pressure on demand. And I'm wondering, if that is really just speculation or whether there's any empirical data that you saw in the last month, whether it'd be cancellations or order lead times that led you to make that comment. I think anecdotally, if you squint, the lead times have gotten a little lower over the last four months in both China and the US. That's really the only visibility investors have. So I'm wondering if you could maybe elaborate on whether that's really just you're sort of anticipating there could be some impact because of high prices or whether there is something anecdotally or quantitatively that you could point to, please?
+
+A - Elon Musk{BIO 1954518 <GO>}
+I mean, I think we've said this now for many years, and I know it has proven true. Tesla does not have a demand problem, we have a production problem. And we've almost always had it. It's a very rare exception but it's always been a production problem. I think that will remain the case.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+So there's a denominator and a numerator, and like, if you increase production.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, absolutely. As we increase production, more demand is needed obviously.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+No, it's more just like you can't look at the backlog and state much about demand because we're doing a lot on the other side to change the production.
+
+A - Elon Musk{BIO 1954518 <GO>}
+We're trying to make the backlog lower, not longer.
+
+A - Unidentified Speaker
+We're building factories and building more companies.
+
+A - Elon Musk{BIO 1954518 <GO>}
+We don't want a long backlog. That's annoying. It'd be like go to a restaurant and you order a burger and you have to wait 3 hours and like, that's annoying. You want to get your burger right away. Same with the car. So we want that lead times to reduce.
+
+Q - Toni Sacconaghi{BIO 3056875 <GO>}
+Okay. Thank you. Now I was just trying to follow up on the fact that you both said that maybe you were seeing demand be impacted a little bit, and that was the spirit of the question. Maybe I can --
+
+A - Elon Musk{BIO 1954518 <GO>}
+We don't have like -- like because we see daily orders from around the world for our cars, it's actually -- it is like a mood barometer of people's confidence in the economy. But one can't read too much into it because things can vary a great deal from one day to the next. Consumer sentiment is all over the map. So it's -- manage price, frankly, you know -- so -- we have so much excess demand. That is really just not an issue for us. It might be an issue for some other companies, but it is not an issue for us.
+
+Q - Toni Sacconaghi{BIO 3056875 <GO>}
+Okay. Thank you. Elon, I'm just wondering, a question for you. Tesla has obviously changed dramatically in the last three years, from near life or death to a company with consistent cash flow and industry-leading margins. I'm wondering if you can comment on your personal role in the company and whether you see that changing in terms of your role or your commitment and time spent at the company over the next three or four years. I think you said a few calls ago, you wouldn't be on calls unless there's something unusual and you've been on every call since then. I'm wondering how you think about --
+
+A - Elon Musk{BIO 1954518 <GO>}
+We did a lot of unusual things, let's face it. If there's only good news, I won't be on the call. But if you have like a tough situation like COVID shutdowns in China, then I think I'll be on the call relatively speaking, if there's bad news. And if all we have is good news, then I won't be on the call. So I'm committed to the long term -- I mean, I'll work at Tesla as long as I can usefully advance the cause of sustainability and autonomy.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Fantastic. Thank you very much. The next question comes from William Stein. Please go ahead and unmute yourself.
+
+Q - William Stein{BIO 15106707 <GO>}
+Great. Thank you very much for taking my question. Elon, in the past, you've given some assessment as to the likelihood that you can achieve success in some of the more interesting AI-oriented efforts, not only FSD but also Dojo and Optimus. Perhaps you can give an updated view on those.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, I don't want to steal thunder from AI Day, though I think we'll have some exciting news on AI Day that I think will be further ahead than probably most people think. But I don't want to -- I'd love to answer you but I think we'll leave that excitement for AI Day.
+
+Q - William Stein{BIO 15106707 <GO>}
+Okay. And perhaps a follow-up if I can. We've heard a lot from others and certainly to some degree from you all about the shortages in semiconductors, in particular. We have seen some big, important customers of that type of product decide to sort of leverage the ecosystems that exist to make some of their own in those categories. I'm wondering to what degree you're doing that. That's outside of Dojo in terms of the, I guess, on the inference side, you're certainly doing that in the car, but what about sort of the more mundane areas like microcontrollers and the like, is there any internal effort to improve supply chain and maybe improve other performance aspects?
+
+A - Elon Musk{BIO 1954518 <GO>}
+Well, there's a lot we've done. We've been working with our supplier side. We don't currently intend to make chips ourselves. We don't think there will be a need to make chips, but we have been working closely with a number of suppliers. Actually just met with one of our key supplier CEOs right before this call. We had a great meeting. They're going to make major investments in some of the critical chips and components that we need in the car. So -- and I'd actually like to take a moment to thank our key suppliers once again for supporting us through difficult times and they really went above and beyond to support us. So to all our suppliers out there, thanks very much.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yes. And I guess just maybe we don't talk about it very often, but we do have a lot of custom silicon in the vehicle already. Microcontrollers, yes, some; battery management, yes, some; power electronics, yes, some. So we try to go after where there is actually a technical advantage and in the future, I think we're going to look at where there is a supplier have been so that's an advantage.
+
+A - Zachary Kirkhorn{BIO 20940148 <GO>}
+Even now where the supply chain issues with our Tier 1s and Tier 2s, kind of rush and get into it with us on the engineering side when we find solutions, whether it's alternative chips or changing the entire structure of this pack to make it work. And I think that's an advantage we have that many other OEs just simply cannot.
+
+A - Elon Musk{BIO 1954518 <GO>}
+I think Tesla is as much a software company as it is a hardware company. And so one of the ways that we've been able to address supply chain issues on the chip front is by rewriting our software to be able to use different chips or in some cases, achieve dual use of a single chip, which is even better. And actually, quite frankly, the chip shortage has served as a forcing function for us to reduce the number of chips in the car.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Simplify.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Yes, turns out we had more chips than we needed. So -- but it's a testament to our software team that we are able to roll a new chip into the car, write a whole new batch of software for that chip without interrupting production.
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yes. And our goal is as we mature and scale the platforms to integrate more functionality into fewer chips, like that is the way that it's gone with laptops and phones. It's going that way in cars. And we're trying to do that wherever it makes sense to do it as quickly as we can.
+
+A - Elon Musk{BIO 1954518 <GO>}
+From a supply chain standpoint, do we -- what do you think about the chips and whatnot?
+
+A - Andrew Baglino{BIO 21161872 <GO>}
+Yes. I think -- I mean, from a high level, instead of designing and building our own microcontrollers, we're partnering with key partners that understand the architectural requirements and they'll take the specs and design something for us. We've done that, to your point, in the battery sensing space. We've got some application-specific ICs. But yes, integrating, reducing the number of components, it's a mix of supply chain issue, but it also makes the reliability of the end product better because there's less failure points. So that's always been the mantra.
+
+A - Unidentified Speaker
+And at times, we've also got the wafer level and try to consume less to achieve the same functionality. So that's something also that we've been looking at in some of the constrained modules that we have faced in the last six months.
+
+A - Elon Musk{BIO 1954518 <GO>}
+That's good.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Fantastic. Well, thank you very much. Appreciate all of your questions. Unfortunately, this is all the time we have this quarter, and we will speak to you again in three months' time. Thank you very much, and goodbye.
+
+A - Elon Musk{BIO 1954518 <GO>}
+Bye.

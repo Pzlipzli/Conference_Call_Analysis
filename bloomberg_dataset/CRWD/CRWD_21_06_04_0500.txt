@@ -1,0 +1,295 @@
+Q1 2022 Earnings Call
+Company Participants
+Burt Podbere, Chief Financial Officer
+George Kurtz, President, Chief Executive Officer and Co-Founder
+Maria Riley, Vice President of Investor Relations
+Other Participants
+Alex Henderson, Analyst, Needham
+Andrew Nowinski, Analyst, DA Davidson
+Brian Essex, Analyst, Goldman Sachs
+Gray Powell, Analyst, BTIG
+Ittai Kidron, Analyst, Oppenheimer
+Jonathan Ruykhaver, Analyst, Baird
+Matthew Hedberg, Analyst, RBC Capital Markets
+Michael Walkley, Analyst, Canaccord Genuity
+Patrick Colville, Analyst, Deutsche Bank
+Rob Owens, Analyst, Piper Sandler
+Saket Kalia, Analyst, Barclays
+Shaul Eyal, Analyst, Cowen
+Sterling Auty, Analyst, JPMorgan
+Presentation
+Operator
+Good day and thank you for standing by. Welcome to the CrowdStrike Holdings First Quarter Fiscal 2022 Financial Results Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. (Operator Instructions) Please be aware that today's conference is being recorded. (Operator Instructions)
+
+I would now like to hand the conference over to your speaker today, Maria Riley, Vice President of Investor Relations. Please go ahead.
+
+Maria Riley{BIO 21401836 <GO>}
+Good afternoon, and thank you for your participation today. With me on the call are George Kurtz, President and Chief Executive Officer and Co-Founder of CrowdStrike; and Burt Podbere, Chief Financial Officer. Before we get started, I would like to note that certain statements made during this conference call that are not historical facts, including those regarding our future plans, objectives, growth, and expected performance, including our outlook for the second quarter and fiscal-year 2022 are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements represent our outlook only as of the date of this call.
+
+While we believe any forward-looking statements we made are reasonable, actual results could differ materially because the statements are based on current expectations, and are subject to risks and uncertainties. We do not undertake and expressly disclaim any obligation to update or alter our forward-looking statements, whether as a result of new information, future events, or otherwise. Further information on these and other factors that could affect the company's financial results is included in filings we make with the SEC from time to time, including the section titled Risk Factors in the company's quarterly and annual report that we filed with the SEC.
+
+Additionally, unless otherwise stated, excluding revenue, all financial measures discussed on this call will be non-GAAP. A discussion of why we use non-GAAP financial measures, and a reconciliation schedule showing GAAP versus non-GAAP results, is currently available in our press release, which may be found on our Investor Relations website at ir.crowdstrike.com or on our Form 8-K filed with the SEC today. Please also note that in light of our recent acquisition of Humio, management will provide additional information into first quarter results, we do not intend to provide this additional information on an ongoing basis.
+
+With that, I'll turn the call over to George to begin.
+
+George Kurtz{BIO 3463509 <GO>}
+Thank you, Maria, and thank you all for joining us today. We delivered an outstanding first quarter and fiscal year 2022 is off to a record start for CrowdStrike. Building on last year's milestone performance, we started and finished the first quarter with strong momentum and results exceeding our expectations. We saw strength in multiple areas of the business, added $143.8 million in net new ARR and grew ending ARR 74% to exceed $1.19 billion. Burt will provide the details of our financial performance, and I will focus my remarks on three key points.
+
+First, customers are increasingly turning to CrowdStrike as their trusted security cloud platform of record. As we extend the platform beyond core protection, we are seeing strong momentum in cloud workloads, IT operations and our expansion into DevOps. Our platform includes 19 modules and easily allows customers to consolidate agents and reduce spend. Second, our leadership is recognized by both customers and industry analysts such as Gartner and Forrester. Our growing brand has become a cybersecurity goal standard translating into a broad customer base that is scaling rapidly, deeper penetration within verticals in our strong financial success. And third, the demand environment is robust, driven by strong secular trends, including digital and security transformation, cloud adoption and an ongoing heightened threat environment. This includes the massive influx of ransomware and the operational impact of these attacks that have been seen over the past two years. We believe these dynamics will provide CrowdStrike a runway for long-term sustainable growth.
+
+Now let's discuss these topics in more detail. It only takes a quick glance at current headlines to know that the threat landscape is fierce and growing in intensity everyday. High profile breaches and vulnerabilities like Sunburst, pipeline and infrastructure attacks, and zero-day vulnerabilities in Microsoft Exchange are only the tip of the spear. Threat actors are well-resourced and becoming more sophisticated. At the same time, ransomware-as-a-service, sites are making it easier for even novice eCriminals to run successful and lucrative campaigns, which is contributing to the proliferation of ransomware activity.
+
+Our 2020 CrowdStrike Global Security Attitude Survey revealed that more than half of organizations surveyed worldwide had suffered a ransomware attack within the previous 12 months. At the same time, organizations need to transform their businesses in order to keep up with evolving business needs such as work from anywhere and moving their critical applications and workloads to the cloud. Both of these factors exponentially expand the company's threat landscape and increase their risk of a breach. Today's threat environment highlights the need for organizations around the world to transform their security and adopt a Zero Trust architecture in order to protect their digital assets, identities and core infrastructure.
+
+The lessons learned from recent attacks emphasize while legacy or proceed good enough NextGen tech is no match for today's adversaries. Leading to a crisis of trust among these vendors, whereas CrowdStrike has emerged as a trusted leader. CrowdStrike commissioned stop breaches has never been more relevant. The Falcon platform is at the epicenter of restoring trust to the security posture of companies worldwide. The integration of threat intelligence and threat hunting into the Falcon platform provides us deep insights into the adversaries and how they operate. The extensive capabilities of the Falcon platform significantly set CrowdStrike apart from both legacy and Next-Gen vendors. This includes our acquisition of Preempt and Humio, which should not have been more timely as companies are looking for new ways to show our protection of their active directories, stop lateral movement and have even greater real-time visibility and search into their endpoints, identities, applications, network edge and cloud from a single data layer.
+
+Customers are increasingly turning to Zero Trust solutions to combat threat actors that leverage identity-based attacks and move laterally within their targeted environments. We won multiple Falcon Zero Trust deals in the quarter, including a global leader in auto manufacturing of Fortune 500 manufacturer of high-tech materials and equipment, a provider of IT management software and the municipality among others. Additionally when it comes to log management companies are looking for technologies with the same characteristics as their security, reliability, scalability, speed in real-time queries in a cost-efficient manner. Even though we just acquired Humio in March, customer interest is very high. And in Q1, we already secured new deals across multiple industries, including financial services, technology and law enforcement.
+
+A new Humio customer that I would like to highlight is a Fortune 500 company that was using multiple legacy on-prem log management products to manage a variety of use cases across their security and dev team. In addition to the complexity of using multiple products, this company was struggling with increasing data ingestion cost. Looking to migrate to a cloud-based solution that would reduce cost, enhance visibility, and the easy to implement they chose Humio over a leading competitor in this space. Humio was selected for its index-free ingestion capabilities, faster search speeds and customizable dashboards that provide them with greater insights and automation than any of the competitive products they evaluated. This customer is now able to meet their daily 3 terabyte data ingest needs with a single solution allowing them to take full advantage of their data at the speed and scale of the cloud.
+
+Since our inception, driving innovation has been at the core of CrowdStrike submission. As a result, we pioneered cloud endpoint security and have extended that to include workload protection. Our determined focus and uncompromising commitment to excellence has led to a trusted leadership position in a platform that encompasses 19 modules spanning multiple markets, including identity, XDR and log management. Driving innovation throughout our product offering and bringing new functionality to market that leads to better and faster outcomes for our customers will continue to be a top priority.
+
+In May, we announced Falcon Fusion, a unified and extensible cloud-scale framework that provides easy to use, custom automation to simplify enterprise security workflows and help security teams solve real-world problems with fewer resources and greater accuracy and speed. We also recently announced an expanded partnership with Google Cloud, through a series of product integrations with the Falcon platform and Google Cloud suite of security products. These integrations will help Security and DevOps teams increased visibility of threat actors across cloud and hybrid deployments, and enable them to act much more quickly to address them.
+
+As customers have begun adopting our cloud workload protection and cloud security posture management, demand for integrations with the GCP security suite have accelerated. We are confident that the partnership with Google will drive additional value and adoption by those who are standardizing on GCP as well as those employing a hybrid cloud strategy. We continue to extend our cloud leadership position by announcing new features to our Cloud Security Posture Management module Falcon Horizon. These new capabilities provide security teams the ability to easily manage and protect multiple cloud environments from a single cloud-based console, powered by CrowdStrike's industry-leading threat intelligence. Falcon Horizon is the first CSPM solution to deliver behavioral detection using IOAs of threats to the cloud control plan.
+
+Horizon utilizes an adversary focused approach for continuous in-depth control plane, threat detection across organizations, cloud accounts, services and users for AWS and Azure. The expansion of our Falcon platform and growth of our brand-leadership has brought in new customers at a rapid pace, driven incredible momentum with industry analysts and partners, and translated into strong financial results.
+
+We are gaining strong industry recognition across multiple well-respected sources. Our most recent achievements included, once again taking a leader position in the 2021 Gartner Magic Quadrant for Endpoint Protection Platforms. In the report, we are not just in the leader's quadrant. We are leading the pack on completeness of vision with CrowdStrike by far the furthest to the right. We believe that our position in the Magic Quadrant shows that we have clearly separated from the competition and that we had rarified territory as a leader that continues to outpace legacy and NextGen competitors in execution, strategy, innovation, and vision.
+
+We also received the highest score for Lean Forward organizations in Gartner's critical capabilities for Endpoint Protection Platforms report. Likewise, Forrester Research named CrowdStrike a Leader in Endpoint Security Software As A Service in the Forrester Wave Q2 2021 report. We also received the highest-scores possible within 17 criteria in the report. Forrester also named CrowdStrike a leader in both the Forrester Wave Q1 2021 Managed Detection and Response and External Threat Intelligence Services reports. We were also recognized as Best Cloud Computing Security Solution and Best Managed Security Service after 2021 SC awards, where Shawn Henry, our President of Services and Chief Security Officer received the Security Executive of the Year award as well. Falcon achieved 100% detection coverage in all 20 steps of the MITRE ATT&CK evaluations, showcasing the effectiveness of our platform.
+
+And lastly, the Falcon platform achieved 100% protection rate in the AV Comparatives Business Real-World Protection Test for the March, April, 2021 period and the highest AAA rating in the Q1 Enterprise Endpoint Protection evaluation from independent testing organization SE labs. We are proud of our continued strong track record of proven efficacy. Our participation in the highly regarded industry evaluations showcase our commitment to stop breaches and drive transparency with customers. A crucial part of our commitment is to continually test our solution, validated capabilities and find opportunities to improve. It's unfortunate that some vendors declined to compete in these public tests, including so called NextGen players, is lack of scrutiny is the significant this service to our customers who would benefit from greater transparency.
+
+We believe the industry's strong recognition of CrowdStrike validates our vision, empowering organizations to embrace security transformation and stopped sophisticated adversaries through the power of a cloud-native platform. We believe the rapid expansion of our partner ecosystem also demonstrates our growing leadership position. As we discussed in our webinar in April, our partner sourced ARR grew 86% in fiscal year 2021. Partners naturally gravitate to market leaders, as it helps them bring in new customers. And likewise, customer choice helps propel vendor prominence within the partner community.
+
+Our leadership position is driving strong engagement with partners of all sizes, which is contributing to our growing presence among the highest levels including boards and CIOs. As we announced a couple of weeks ago, we strengthen our alliance with another trusted industry leader EY. Falcon is now one of EY's preferred cybersecurity platforms. The expanded collaboration also introduces extension into new geography areas as well as three new joint offerings. With these new offerings, we expect to leverage EY's consultants to drive CrowdStrike subscription sales similar to how we leverage our own professional services team, which in FY '21 on average drove $5.51 in subscription ARR for every dollar spent on initial incident response or proactive service engagement among organizations that first became a professional services customer after February 1st, 2019.
+
+Additionally, our partnership with Zscaler continues to deepen as we both invest in our technology and commercial relationship. We announced multiple new technology integrations with Zscaler this quarter and are also excited to report that they are now a CrowdStrike customer. Additionally, one of our key wins in the quarter was brought to us through our Tech Alliance with Zscaler. This Fortune 100 global insurer chose CrowdStrike to help further its digital transformation initiatives and fortify its security replacing a patchwork of four legacy and NextGen vendors. Falcon was selected over Microsoft to replace these incumbents for its ability to consolidate multiple agents, improved performance and protect their endpoints and cloud environments with one single agent.
+
+The voice that matters most is the customers and they are increasingly turning to CrowdStrike as their trusted security platform of record and validating our leadership. In the first quarter, we reached a new milestone as our subscription customers well surpassed the 10,000 mark. We added 1,524 net new subscription customers, including the customers we acquired from Humio. On an organic basis, the net new subscription customers added in the quarter grew 69% year-over-year. We now proudly serve 11,420 subscription customers worldwide. Our growth across the market is very diversified as we are winning customers of all sizes and industries. In Q1, we also saw strong demand in the public sector lending several US federal wins in both civilian and defense and expansion business with the largest healthcare agency. We are optimistic in our ability to expand within these accounts over time, especially given the renewed focus to bolster the nation cyber defenses as outlined in the warehouses cybersecurity executive order.
+
+Adding customers at this rate and among companies of all sizes and verticals is not an easy task. Our go-to-market engine is executing on all fronts to seize on the strong demand we see in the market, so we can help even more customers restore trust in their security posture. The investments we have made in the frictionless deployment of our platform and frictionless sales motion, which includes trial-to-pay, and in-app trials had never been more important. The same can be said for our strong partner ecosystem with leading partners like AWS and EY. These advantages minimize barriers to adoption, expands our reach and shorten the sales process, which we believe provides us an edge over the competition. We believe we can execute on market demand faster than any other vendor, whereas even NextGen competitors struggle with a complex sales process and even more complex deployments that are difficult to scale out of the lab.
+
+Our growing leadership at the trusted security partner of choice is also reflected in our continued success in driving module adoption. Subscription customers that have adopted four or more modules, five or more modules, and six or more modules increased to 64%, 50%, and 27%, respectively in the first quarter. We are growing our footprint to cover more customer assets with new and existing customers alike. This includes adoption of newer technologies such as Falcon Cloud Runtime Protection, Zero Trust and Humio. In the last quarter, we more than double ARR from our newly launched cloud workload modules. We are rapidly scaling our overall cloud footprint with greater than 20% of all servers we protect being in the public cloud. We are also expanding our DevOps capabilities and seeing success selling into DevOps environments, as we continue to help customers reduce their attack surface and unify Cloud Security Posture Management and breach protection.
+
+Let me share a few customer examples that demonstrate how the power of the Falcon platform translated into strategic customer wins. A Q1 deal, I'd like to highlight was an expansion with Cloudera, a cloud-native enterprise data company that provides insights using machine learning and analytics. Viewing effective security as essential to their operations, Cloudera has been a CrowdStrike customer for their traditional endpoints for multiple years. Looking to further leverage the CrowdStrike Falcon platform to protect their femoral cloud environment, they were purchased a fully managed solution for Falcon Horizon, Cloud Workload Protection, Discover for Cloud and Container and Falcon complete to provide them with a fully managed and hassle-free solution.
+
+Our next customer win is with a Fortune 150 multinational manufacturing company. After trying to deploy Microsoft Defender for over a year, they found themselves frustrated with the level of complexity and the cumbersome agents resulting in less than a third of their endpoints protected. On top of that, the recent zero-day Microsoft Exchange vulnerabilities exposed into risk of a potential breach and they would have to wait months before Microsoft could deliver a patch to fully resolve the issue. This is when they turn to CrowdStrike. With our single lightweight agent that doesn't require reboot. This new customer found Falcon easy to deploy, fast and effective. As a result, they purchased five modules and deployed globally in a matter of weeks.
+
+The last customer win I will share with you is a health care services provider. This new customer was looking to quickly move off their SentinelOne implementation after experiencing several outages caused by sensor updates, impacting their critical business operations, frustrated at the lack of scalability, need for manual updates, and continuous clashes with SentinelOne, this customer chose CrowdStrike over other providers, including Carbon Black and Palo Alto Networks. Falcon outshine the competition given its ease of use and frictionless, fast and rebootless deployment, purchasing eight modules including Spotlight, Horizon and Discover for Cloud and Containers. Falcon is now protecting their multi-OS state of traditional endpoints, as well as their previously unprotected cloud workloads.
+
+In summary, the fundamental reasons why we have earned our leadership position in our winning customers at a rapid pace over both legacy and NextGen vendors are. The Falcon platform's ability to fully utilize the power of the cloud and AI to stop breaches and provide community immunity. Our ability to easily and rapidly deploy our lightweight agent at scale across both endpoints and workloads without requiring a reboot, while other NextGen vendors fail to scale and require reboot. Our platform is easy to use and easy to manage all from a single-user interface, and our ability to leverage the power of the cloud to collect data once and solve many real-world business problems that deliver better outcomes and immediate ROI for customers.
+
+Customers recognize that Threat Graph in our ability to stream data to the cloud in real-time are unique to CrowdStrike. This is very different from other vendors, including upstarts, that silo their data and upload data in delayed batches. Any vendor with an on-prem solution is currently unable to fully utilize the power of the cloud. With one data store CrowdStrike analyzes data almost instantaneously across our entire customer base providing real-time protection, community immunity, and better training data for our AI algorithms. This allows us to deepen our competitive moat.
+
+While a robust demand environment may serve as a temporary lifeline to inferior technology, when I look at the competitive landscape, I couldn't be more confident in our leadership position. I do not see another vendor in the market with our vision platform scale, or ability to execute at scale. Our leadership as a trusted security platform of record and strong financial performance stands as a testament to CrowdStrike's dedication to innovation, protecting customers and transforming the security industry. I'd like to thank every CrowdStriker for all that they do, day-in and day-out to make us the best in the business.
+
+With that, I will turn the call over to Burt to discuss our financial results in more detail.
+
+Burt Podbere{BIO 17156127 <GO>}
+Thank you, George, and good afternoon, everyone. As a quick reminder, unless otherwise noted, all numbers except revenue mentioned during my remarks today are non-GAAP. Before we get started, I will note that the results we are reporting today include the acquisition of Humio. To assist with your models, we will share select details regarding Humio's impact on Q1, however, we do not intend to disclose these details on an ongoing basis. The acquired net new ARR from Humio was approximately $3.6 million, which is reflected in both the ending and net new ARR results we are reporting today.
+
+From the acquisition of Humio, we also gained 119 net new customers in the quarter. Given the acquisition closed during the quarter and the impact of fair value purchase accounting adjustments related to deferred revenue, the GAAP revenue recognized from Humio was de minimis to our results. The acquisition also added approximately $5 million to operating expenses in the quarter, which again represents about two months of quarterly expenses.
+
+Moving to our results. We delivered an exceptional first quarter. In addition to strong growth at scale in the first quarter, we continue to maintain very high unit economics, drive leverage, and remain very capital-efficient, generating record operating and free cash flow. Additionally, we continue to perform at a high level, well in excess of the SaaS industries Rule of 40 benchmark, achieving a Rule of 80.
+
+Demand in the quarter was broad-based and fueled by strength in multiple areas of the business. Similar to last quarter, demand for our solutions was well balanced between new customers and expansion business and between large enterprises and mid-market and smaller accounts. We once again ended the quarter with a record pipeline, which we believe indicates a strong foundation for future growth.
+
+In the quarter, we delivered 74% ARR growth year-over-year to reach $1.19 billion. In the last 12 months, we have added more than $0.5 billion to ARR. Rapid new customer acquisition as well as expansion business within existing customers drove substantial growth in the first quarter, once again resulting in very strong net new ARR, which came in at $143.8 million. Our dollar-based net retention rate once again exceeded, 120%.
+
+Moving to the P&L. Total revenue grew 70% over Q1 of last year to reach $302.8 million. Subscription revenue grew 73% over Q1 of last year to reach $281.2 million. Professional services revenue was $21.6 million, setting a new record for the third consecutive quarter and representing 36% year-over-year growth.
+
+In terms of our geographic performance in Q1, we continue to see strong growth in the US, as well as international markets. Revenue growth in the US increased to 70% and contributed approximately 73% of first-quarter revenue. Approximately 14% of revenue was derived from Europe, Middle East, and Africa markets; 10% from Asia Pacific; and approximately 3% from other markets. We remain focused on building a long-term business with sustainable growth and compelling margins.
+
+In Q1, we recognized strong operating leverage in our SaaS model and the benefits of scale, even as we increased investments in our global reach and cloud platform. First quarter non-GAAP gross margin was 77%, up approximately 150 basis points from Q1 of last year. Our non-GAAP subscription gross margin was 79% compared with 78% in Q1 of last year. We continue to be pleased with our strong subscription gross margin performance. While we expect gross margin to fluctuate quarter-to-quarter, we expect it to remain solidly within our increased target model range of 77% to 82% or more as we march it to fiscal year 2025.
+
+Total non-GAAP operating expenses in the first quarter were $202.9 million, or 67% of revenue versus $133.0 million last year, or 75% of revenue. As planned, we continued investing aggressively in our business during the quarter, including increasing investments in new technologies, international geographies and marketing programs. We believe the investments we are making today will lead to sustained growth over the long-term and maintain our pole position of the trusted security partner of choice.
+
+Scaling our business efficiently remains a top priority, which is why we intensely focus on our unit economics, including Magic Number. In Q1, we ended with a Magic Number of 1.4, which is an increase over last quarter and indicates that we should continue investing in our large and growing market opportunity.
+
+First quarter non-GAAP operating income was $29.8 million and operating margin improved 9 percentage points over Q1 of last year to reach 10%. Non-GAAP net income attributable to CrowdStrike in Q1 was $23.3 million, or $0.10 on a diluted per share basis. Our weighted average common shares used to calculate first quarter non-GAAP EPS attributable to CrowdStrike was on a diluted basis and totaled 237 million shares.
+
+We ended the first quarter with a strong balance sheet. Cash and cash equivalents totaled approximately $1.68 billion. This takes into account the $352 million net cash consideration we invested to acquire Humio. Cash flow from operations in the first quarter grew to $147.5 million and free cash flow increased to $117.3 million, or 39% of revenue setting new records for both measures. As a reminder given the timing of expenses, seasonality of new hires and the mid-year ESPP purchase, the second quarter is generally our lowest cash flow generation quarter.
+
+Moving to our guidance. We continue to remain optimistic about the demand for our offerings, record pipeline and the powerful secular trends fueling our growth. Given the growth drivers of our business as well as our exceptional first-quarter performance and momentum into the second quarter, we are raising our guidance for the fiscal year 2022. While we do not specifically guide to ending our net new ARR, we expect seasonality in net new ARR to be less pronounced relative to prior years as we move from Q1 into Q2 given the outstanding outperformance in Q1.
+
+Additionally, recall that in Q2 of last year, net new ARR included the second largest deal in the company's history, which contributed low eight figures ARR. For the second quarter of FY '22, we expect total revenue to be in the range of $318.3 million to $324.4 million reflecting a year-over-year growth rate of 60% to 63% with subscription revenue being the dominant driver of growth. We expect non-GAAP income from operations to be in the range of $26.3 million to $30.7 million and non-GAAP net income attributable to CrowdStrike to be in the range of $17.7 million to $22.1 million. We expect diluted non-GAAP net income per share attributable to CrowdStrike to be in the range of $0.07 and $0.09, utilizing a weighted average share count of 238 million shares on a diluted basis.
+
+For the full fiscal year 2022, we currently expect total revenue to be in the range of $1,347.0 million to $1,365.7 million, reflecting a growth rate of 54% to 56% over the prior fiscal year. Non-GAAP income from operations is expected to be between $115.7 million and $129.6 million. We expect fiscal 2022 non-GAAP net income attributable to CrowdStrike to be between $83.1 million and $97.0 million, utilizing 239 million weighted average shares on a diluted basis. We expect non-GAAP net income per share attributable to CrowdStrike to be in the range of $0.35 to $0.41.
+
+George and I will now take your questions.
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question will come from line of Saket Kalia from Barclays. You may begin.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Okay, great. Hey, guys. Thanks for taking my question here. George, maybe for you. Lot of nice, simple, when do you mentioned in your prepared remarks, particularly in the cloud portfolio part of the business, understanding it's still early with some of those tools. I was wondering if you could share what customers have said about their willingness to use third-party security tools for a public cloud workloads? And also about the competitiveness of Falcon in the public cloud.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. So, hey, Saket, good to connect here. Customers are very willing to use our technology. Yes, we've talked about many times. They're looking for a holistic solution across multiple clouds, not just one cloud provider, they're looking for a single agent that not only can give visibility and protection in our corporate enterprise, but also in their cloud environment.
+
+And in terms of the willingness to use it, it's extremely competitive product. We continue to add more and more capabilities, including drift detection now, if these workloads drift and the containers drift, which is a real boon for the DevOps teams. So we've spent a lot of time selling into that group. We've got a lot of traction there. And as I mentioned before a lot of our cloud technology, so necessarily new products, particularly things like Horizon, because we built it for internal use before we actually delivered into the market.
+
+So, in general, it's a greenfield opportunity to cloud. There's not a lot of competitors and the existing technologies we have to displace. And we're really excited about the momentum we've seen in that particular category.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Great. Thanks very much.
+
+Operator
+Our next question comes from the line of Sterling Auty from JP Morgan. You may begin.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Yeah, thanks. George, maybe just on the cloud side. I think this is an area that people have -- are struggling to understand the different pieces of what fits to make a cloud security stack. Can you maybe help us understand what piece of the puzzle will CrowdStrike provide going forward? Where will you partner? And what parts will be delivered by others in the industry?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. So you have to separate again the network components out from the workload components and there are other players that have virtual firewalls and network technology. So we need to separate that out, because we don't actually supply that. So specific to workloads, containers, virtual instances, we have the ability to protect at runtime. So similar to what we do today in a normal environment, can I get high threats and prevent those using machine learning and behavioral technologies. We've got the ability to understand and stream data, EDR data, if you will. And we also have Cloud Security Posture Management, which gives you the configuration of that infrastructure.
+
+And what's different than a normal corporate environment is that, since customers in the cloud don't control the infrastructure, it's mostly set up and via policy settings. And a lot of those settings can go awry or be misconfigured. So we're handling the policy piece and the configuration of the infrastructure, as well as the workload protection piece, as well as understanding the configurations of these containers as an example to understand if their vulnerability is a drift. So in our mind, in terms of workload protection, we're covering our full suite of protection capabilities that a customer would need.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+That makes sense. Thank you.
+
+Operator
+Our next question comes from the line of Matt Hedberg from RBC Capital Markets. You may begin.
+
+Q - Matthew Hedberg{BIO 16655531 <GO>}
+All right, guys. Thanks for taking my question. Congrats on a really strong Q1. George, you've got over 11,000 customers, and you're seeing acceleration there on customer adds. And I think what strikes me and it was really coming out of your last financial update was -- it still looks like you're early in, potentially could 10x [ph] your customers and still not be fully penetrated into that global opportunity. I guess I'm wondering from a high level, could you talk about your strategy in going after the next 10,000. How might that change versus the first 10,000? And where do you see the biggest opportunities for share gains?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. Well, as we've talked about in the past, we've built a tremendous sales machine and we spent a lot of time obviously focusing on the scalability of the technology, but also the scalability of the sales machine. And things like trial-to-pay, in-app trials creating frictionless ways to actually cross-sell into our customer base. It's really important for what we do. And when we think about the next 10,000 or beyond, and as you said 10,000 or 11,000 is fantastic. But when you look at other competitors over the many, many years, they have hundreds of thousands. So we certainly think we can be in that arena in the future. And it goes to -- I think the very efficient go-to market motion, where we talked about our Magic Number of 1.4. And it also combines with the fact that we've built an e-commerce platform behind or below, if you will the Falcon platform. So the platform is designed to sell itself and to get new customers and we spent a lot of time on digital to trial-to-pay and then conversions and whether it's a small customer, or whether it's a large one in enterprise. Once we get them in the door, we certainly can convert them with a credit card, but obviously the bigger customers will engage on the sales team in a partner and close deals. And now with things like AWS and GCP and EY, we've expanded our partner network. So we feel really good about the flywheel we've built and the scalability, sale scalability built into the platform.
+
+Q - Matthew Hedberg{BIO 16655531 <GO>}
+Thanks guys.
+
+Operator
+Our next question comes from the line of Shaul Eyal from Cowen. You may begin.
+
+Q - Shaul Eyal{BIO 3467274 <GO>}
+Thank you. Good afternoon, guys. Congrats on the strong set of results. George or Burt, when looking at your net new 1500-plus customers even when you exclude the Humio a little bit. Can you outline to us, whether they are predominantly mid-size or high-end enterprises? If you had to put a ballpark on the average number of modules they were currently deployed, is it three or even more than that per new subscriber -- per new customer?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Hi, Shaul. Great to hear your voice. So I'll take the second part of your question, first. Number one, as new customers come on board, we're seeing them deploy more and more modules. That goes also to talk to the fact that we have more modules for customers to purchase.
+
+On the second part, in terms of where we see uptick with respect to new customers and new logos, obviously, a lot of the velocity is coming from some of the smaller SMB in mid-market, because it does take less time for -- to contracted yield. But the good news is that we're capturing the yields both at the large enterprise level, mid-market and SMB, across the board.
+
+Q - Shaul Eyal{BIO 3467274 <GO>}
+Thank you for that.
+
+Operator
+Our next question comes from the line of Brian Essex from Goldman Sachs. You may begin.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Hi, good afternoon, and thank you for taking the question, and congrats on a good set of results. Maybe, George, I want to dig into -- in your prepared remarks, you mentioned the partnership with Zscaler. And I know Zscaler called out, that I think you brought them into a large investment bank deal, and then here you called out that they pulled you into an insurance deal. Maybe if you could take a step back more thematically and understand the driver behind those deals. Is it the two of you going together with an end-to-end endpoint through network security, Zero Trust deal, or maybe to better understand the go-to-market behind some of these partnerships and what's driving those deals would be helpful.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. I think thematically, it's customers are looking for a NextGen endpoint workload technology on platform like CrowdStrike combined with NextGen network technology. And you're looking to replace their legacy, Palo Alto Networks, and we spent on others. And we spent a lot of time in the field and we set up compensation structures between the two organizations where both sales teams are incented to help each other out, which is always good in the field. And we've done the integration. So when we think about understanding what happens on the network, obviously we've got a network company. That information can be supplied to us in the Falcon platform. And we've got tremendous visibility on the endpoints that will be on anything, a network company could have and that's useful to Zscaler customer. So when you put the two of them together, we think it's better together and we've got a huge hotel company that uses both Zscaler and CrowdStrike, and it is just been amazing to see the technologies work together and make big fan and a big proponent of us putting these integrations together. So I think it's good for customers and it's good for both parties.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Got it. Very helpful. Thank you very much.
+
+Operator
+Our next question comes from the line of Andrew Nowinski from DA Davidson. You may begin.
+
+Q - Andrew Nowinski{BIO 15334403 <GO>}
+Great. Thank you, and congrats on another fantastic quarter. I wanted to just get a question in on the net new ARR this quarter. So you again -- you saw no seasonality from Q4 to Q1, which I think is the first time, at least last three years were net new ARR has not declined sequentially, clearly indicating a significant change in the spending environment. In the past, I think you've talked about AWS driving a significant percentage of that net new ARR. So I was curious, was that again the key driver of this quarter that enabled CrowdStrike to define normal seasonality?
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Hey, Andy. This is Burt. So I think it's just more broad-based demand. I don't think it's necessarily focused in interest AWS. I think the great news is, we essentially delivered a second Q4 and Q1 to your point, you've been following us closely. I think it's the continuation of trends, we have been seeing for quite some time, George talked about them. The digital and security transformation cloud adoption, this robust threat landscape. And I think we're in a buying environment. And so we're really excited to be able to post such strong Q1. But I think again it goes back to the broad-based demand. But thanks for tracking that information.
+
+Q - Andrew Nowinski{BIO 15334403 <GO>}
+Great. Thanks, Burt.
+
+Operator
+Our next question comes from the line of Rob Owens from Piper Sandler. You may begin.
+
+Q - Rob Owens{BIO 1506629 <GO>}
+Great. Thanks for taking my question. Could you guys elaborate on some of the success you're seeing in the public sector. Obviously a growing commitment from the administration towards Zero Trust, and you mentioned a couple of wins. So maybe just help us understand the success you're seeing and how big that opportunity could be? Thanks.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. Good to connect here. When you look at the -- some of the orders that have come out of the White House, it will, if you will, it's like lines up with our strategy, lines up with what we do. And I think certainly the federal government can benefit. It has been benefiting from our technology. We spent our initial foray into the civilian agencies and that gives you beachhead into some of the broader intelligence agencies. So we've gotten a lot of our certifications that it's taken some time that's just a process that anyone has to go through. We put the effort in and spent the money to do it, and then we think we're set up for success. So we since a really nice wins, big wins in the federal space. And we think that's going to continue to carry forward. And when we think about federal, that's just one piece of the government, obviously state and local. We've had tremendous wins. Lot of the states in the US, certainly have adopted CrowdStrike, a lot of municipalities and communities. And as you've seen with ransomware and some of the other forest attacks that are out there, typically they're under protected and they need technologies like CrowdStrike. And they typically don't have the people power to do it. So we feel really good about fed state and local from a platform perspective.
+
+Q - Rob Owens{BIO 1506629 <GO>}
+Thanks, George.
+
+Operator
+And our next question comes from the line of Mike Walkley from Canaccord Genuity. You may begin.
+
+Q - Michael Walkley{BIO 3359029 <GO>}
+Great, thanks. And my congrats on the strong results. I guess, George, question for me is just with the sale of McAfee's enterprise business and the lack of innovation out there and growing industry concerns for legacy solutions. I was hoping you could maybe share your thoughts on what inning you think in regard to taking share from legacy vendors? And how all these recent ransomware attacks might be accelerating the transition from legacy solutions to years?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. It's a good question. And I think we're still in the early innings. Maybe second inning in terms of our ability to continue to take share and actually just today, IDC released an updated worldwide market share staff from modern endpoint security and CrowdStrike was ranked number one in a Microsoft and other legacy vendors. So yeah, we feel really good about where we are. But as we talked about earlier on the call, 11,000 plus customers, fantastic. But there's a lot of companies out there big and small. And we still think we've got a lot of runway and still continue the migration of share from Symantec and McAfee to CrowdStrike. So still early on, but obviously lots of progress that we're proud of.
+
+Q - Michael Walkley{BIO 3359029 <GO>}
+Great. Thank you.
+
+Operator
+And our next question comes from the line of Alex Henderson from Needham. You may begin.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+Great, thanks. There's been a lot of attacks and some pretty high visibility ones of late, in fact, the intensity and rapidity of these attacks seem to be escalating as, Biden's going into meeting with the prudent. I was wondering, if you could give us some clarity on the efficacy of your system, which is, I think probably the most important variable to look at relative to any security company, in terms of handling those attacks that have recently occurred, and how it has or has not impacted your customers? Thanks.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Yeah, sure. So we went through some of the prepared remarks, in terms of our efficacy and some of the latest results that we've seen with the testing organizations. I'll point you back to those 100% for the last couple of months. Obviously, that's just one piece of it, right. You have to look at the entire system, and it's designed to stop breaches and we stopped last year, I think 65,000 -- 75,000 should say in process breaches. So we know the technology works. We know it has extremely high efficacy. MITRE ATT&CK, we had 100% coverage across 20 different groups. And it is a reason why we're winning. The technology works, the technology scales, and it's designed to catch things across the kill chain. Even if something slips through one part of the kill chain is designed to catch it in the second part and stop breaches. And that's what we've done from the beginning. And that's what we're going to continue to do.
+
+Operator
+Our next question comes from the line of Jonathan Ruykhaver from Baird. You may begin.
+
+Q - Jonathan Ruykhaver{BIO 1793609 <GO>}
+Yeah. Hi, good afternoon. George, I think this one is for you. The Gartner -- some Gartner research I was reading recently noted growing competition commoditation on log management offerings across a lot of companies both public and private. And obviously, logs are important to contributing to the richness and breadth of data sources. So, I could see how it's very important for applications like EDR, XDR and et cetera. But just wondering your thoughts looking forward, how do you maintain differentiation on the data side given some of those forces around commoditization?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. Yeah, I mean you can -- any company has lots of data, it's the value and what you do with it. And I think CrowdStrike has proven our ability to utilize the data. And whether that's in training our AI algorithms or whether that's creating a product that can actually be quickly searched and insights be gained. With our Threat Graph, we've pioneered cloud delivery end point and graft technology specific to security. So, I think that continues. With Humio, you've got fantastic technology, extremely fast, extremely efficient, in-memory, index-free, driving down the cost compared to legacy technologies that are out there on the lock side. And that will be a key part of our XDR extension in our strategy. And we've seen fantastic feedback from customers. I called out some big wins that we had with Humio. And as that gets integrated, which we're working on, we feel really good about having the ability to pull other information besides CrowdStrike data into our data platform and our Threat Graph and make that available to customers. So, I think it comes down to -- again, there's a lot of marketing noise in the marketplace. But when you actually look at the technology which we have and why we bought Humio, we feel really good about it as a next-gen technology that's going to be a good fit for our platform.
+
+Q - Jonathan Ruykhaver{BIO 1793609 <GO>}
+That's helpful. Thank you.
+
+Operator
+Our next question comes from the line of Ittai Kidron from Oppenheimer. You may begin.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Thanks. Hey guys, great quarter. I want to go back to the cloud, George, if I may. Can you talk about the cloud workload and Horizon. How often are the sold in conjunction both of them together, is there a high attach rate for those two. And with respect to your attach rates, the four to five and six modules, clearly those are doing very well for you, but how frequently our Cloud Workload Protection and Horizon part of those four, five, six?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Well, I would say, much more frequently now. Obviously, Horizon is still a relatively new entrants into our portfolio as of last year. But we talked about Cloudera is a good example, that was a company who had our traditional endpoint protection and obviously now adopted our cloud technology. So we have a big base that we can go into with cross-sell which we are. And part of the conversation with any new customers about what are you doing in the cloud, how you protecting it. Some companies, they have a different time scale or path to the cloud, and it may not line up exactly to what they're doing internally or for their endpoints, but every sales call, certainly at the larger enterprise in the media and we're talking about our cloud technology. It's really about the platform play. And we've -- again we've seen tremendous success in the overall adoption just over the last couple of quarters with it. So it's been out less than a year. But I think when you look at how fast we're innovating that area and our ability to actually sell into DevOps. We feel really good about its future.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Great, thanks.
+
+Operator
+Our next question comes from the line of Gray Powell from BTIG. You may begin.
+
+Q - Gray Powell{BIO 6539666 <GO>}
+All right. Thanks for working [ph] me in here. And congratulations on the great results. So, yeah, maybe focusing in on ARR. So if I look at Q1, your net new ARR of $144 million, that's up 68% year-over-year in Q1 versus a 65% comp last year, so just really impressive number. Of your net new growth, how much of that is coming from sort of that the core endpoints or EDR space versus new product areas whether that's Humio, Preempt, vulnerability management, IT operations, or other stuff?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Hey, Gray. Great question. So effectively, our core is still the majority of our sales, right? That's the core traditional workload and endpoint protection, it's detection, it's prevention, it's OverWatch. But, we've seen some great traction coming in from things even like device control and then you throw in Discover for IT management and you got also Spotlight which has gained some traction. And so, what we're really seeing across the board is companies coming in and buying more modules out of the gate, because they see the value not only of the platform and where they can go with the platform, but the total cost of ownership. We're able to drive down those costs overall by taking out some other competitors that offer other type of technologies where we come in with better efficacy and lower cost. So, it's really all about the opportunity for customers to purchase more of our modules, and they're doing so more and more out of the get-go. So, that's how we look at it.
+
+Q - Gray Powell{BIO 6539666 <GO>}
+Understood. Okay. That's helpful. Thank you very much.
+
+Operator
+And our last question come from the line of Patrick Colville from Deutsche Bank. You may begin.
+
+Q - Patrick Colville{BIO 21751352 <GO>}
+Hey, there. Thank you so much for squeezing me in. I mean, a lot of impressive metrics this quarter. I mean, one that kind of stood out to me was RPO billings, which if I'm not mistaken, grew 79% in fiscal first quarter, which is actually larger than any quarter last year. So, trying to understand why that metric might be so strong. Were there some very large multiyear deals signed in this quarter?
+
+A - George Kurtz{BIO 3463509 <GO>}
+Yeah. So, Patrick, great question, and the answer is yes. We're seeing an uptick in the number of multi-year deals versus where we've been historically. Customers want to lock into us. They want to use our platform and they see us as the platform that they can grow on. And they see us as the platform of the future. Everyone today is looking for that modern-day architecture. We supply it. Easy to deploy, simple to manage, and we're able to show customers that, hey, we're here to stay. We're going to continue to invest in R&D, and we're going to use our balance sheet to be able to do that. We are seeing more and more of those multi-year deals were paid annually, which obviously impacts deferred, but the total RPO number has gone up, because customers are willing to sign longer-term contracts with us, because they believe in what we're doing. And that's really good for us. And we're really happy. We're really happy to see that, that uptick in RPO.
+
+Q - Patrick Colville{BIO 21751352 <GO>}
+Great. Thank you so much for taking my question.
+
+A - George Kurtz{BIO 3463509 <GO>}
+You're welcome. Thank you.
+
+Operator
+And then now I turn it over to George Kurtz for any closing remarks.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Okay. I want to thank all of you for your time today. We certainly appreciate your interest and look forward to seeing you virtually at our upcoming investor events. Stay safe and we'll talk soon. Thank you.
+
+Operator
+And this concludes today's conference call. Thank you for participating. You may now disconnect.

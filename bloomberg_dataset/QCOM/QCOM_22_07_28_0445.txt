@@ -1,0 +1,292 @@
+Q3 2022 Earnings Call
+Company Participants
+Akash Palkhiwala, Chief Financial Officer
+Alexander H. Rogers, President, Qualcomm Technology Licensing QTL & Global Affairs, Qualcomm Incorporated
+Cristiano R. Amon, President and Chief Executive Officer
+Mauricio Lopez-Hodoyan, Vice President of Investor Relations
+Other Participants
+Analyst
+Blayne Peter Curtis, Barclays Bank PLC
+Brett Simpson, Arete Research
+Joe Moore, Morgan Stanley
+Matthew D. Ramsay, Cowen & Company
+Michael Walkley, Canaccord Genuity
+Roderick B. Hall, Goldman Sachs Group, Inc.
+Ross Clark Seymore, Deutsche Bank AG
+Samik Chatterjee, JPMorgan Chase & Co
+Tal Liani, BofA Securities
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. Welcome to the Qualcomm Third Quarter Fiscal 2022 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. (Operator Instructions) Please limit your questions to one question and one follow-up. As a reminder, this conference is being recorded on July 27, 2022. The playback number for today's call is (877) 660-6853. (Operator Instructions)
+
+I would now like to turn the call over to Mauricio Lopez-Hodoyan, Vice President of Investor Relations. Mr.Lopez-Hodoyan, please go ahead.
+
+Mauricio Lopez-Hodoyan{BIO 20932685 <GO>}
+Thank you and good afternoon, everyone. Today's call will include prepared remarks by Cristiano R. Amon and Akash Palkhiwala. In addition, Alex Rogers will join the question-and-answer session. You can access our earnings release and a slide presentation that accompany this call on an investor relations website. In addition, this call is being webcast on qualcomm.com and a replay will be available on our website later today.
+
+During the call today, we will use non-GAAP financial measures as defining Regulation G and you can find the related reconciliations to GAAP to GAAP on the website. We will also make forward-looking statements, including projections and estimates of future events, business or industry trends or business or financial results. Actual events or results could differ materially from those projected in our forward-looking statements. Please refer to our SEC filings, including our most recent 10-K, which contain important factors that could cause actual results to differ materially from the forward-looking statements.
+
+And now to comments from Qualcomm's President and Chief Executive Officer, Cristiano Amon.
+
+Cristiano R. Amon{BIO 3259554 <GO>}
+Thank you, Mauricio, and good afternoon, everyone. Thanks for joining us today.
+
+I'm very pleased with our performance in fiscal Q3 and how we continue to execute on our long-term vision of enabling a world where everyone and everything is intelligently connected. As we continue to scale our One Technology Roadmap across new industries and applications applications, we are transforming Qualcomm from a communications company for the mobile industry into a connected processor company for the intelligent edge.
+
+This quarter, we delivered revenues of $10.9 billion in non GAAP earnings of $2.96 per share driven by solid results in both are chipset and licensing businesses. In our chipset business, revenues of $9.4 billion were up 45% year-over-year with record revenues in IoT and automotive, demonstrating the success of our diversification strategy.
+
+Before I highlight a few notable milestones this quarter, I would like to update you on an important development in our relationship with Samsung. We're very pleased to report the Qualcomm and Samsung have entered a new multi-year agreement starting in 2023, expanding the use of Snapdragon platforms for future premium Samsung Galaxy products globally. This validates that Snapdragon is the technology platform of choice for premium Android experiences. In addition to Galaxy smartphones, the agreement includes PCs, tablets extended reality and more. We have also agreed to a 7 year extension of our patent license agreement with Samsung, taking the license to the end of 2030 with the same royalty terms. The extension encompasses 3G, 4G and 5G technologies and devices and will also include future 6G standards and products. This license agreement is a significant QTL milestone event.
+
+Samsung is the world largest smartphone supplier by unit volume with a well-developed portfolio of patents. The extended license agreement with Samsung demonstrates the tremendous ongoing value of our patent portfolio, our innovation and our longstanding leadership in driving the important and foundational elements of the mobile roadmap. The extended Samsung license agreement is an important benchmark for the long-term and adds significantly to the stability of the QTL program going forward.
+
+Let me now share some of the key achievements from the quarter. In automotive, the Snapdragon Digital Chassis is fast becoming the industry's platform of choice and is enabling the transition to next-generation vehicles. We are very pleased with the continued traction and design wins across global automakers and Tier 1 partners. Our automotive design-win pipeline is now over $19 billion, up approximately $3 billion since fiscal Q2. This includes the design-win with the Volkswagen group's software company CARIAD to power Volkswagen's future automated driving solutions.
+
+In consumer IoT, we continue to execute on an opportunities across tablets, XR, PCs and smart consumer devices. For personal computing, we're continuing to drive the inevitable transition to ARM. We are on track to deliver Windows on Snapdragon compute platforms for next-generation PCs powerd by our custom CPUs while redefining mobile productivity and on-device AI.
+
+To support the accelerating transition to arm based computing, Microsoft recently announced project Volterra, a new developer kit powered by the Snapdragon computer platform featuring the Qualcomm AI engine. They also announced a comprehensive end-to-end arm native to chain for Windows application developers including Visual Studio, Visual C++, .NET and more.
+
+In Edge Networking, we launched for new networking pro series Wi-Fi 7 platforms, the awards most scalable Wi-Fi 7 portfolio, initiating a new era of 10 gigabits per second Wi-Fi for enterprise access points, Wi-Fi mash, carrier gateways and premium home routers. We also continue to see strong momentum in industrial IoT and recently announced two new 5G connected robotics platforms with enhanced AI capabilities, computer vision, 5G connectivity in a comprehensive customizable SDK to power next generation robotics and drones, including autonomous mobile robots, AMRs, highly automated manufacturing robots and more.
+
+These achievements demonstrate our ability to continue to grow across automotive and the broader IoT categories in addition to our RF Front-End and handsets. Our One Technology Roadmap is the cornerstone of the strategy with parallel leadership across not one, but multiple technologies required for the connected intelligent edge. This includes on-device AI, low-power high-performance compute, computer vision, advanced connectivity and more. Importantly, as we expand into new growth areas, we're driving our technologies to meet the highest performance requirement for each application and serve as the industry design point.
+
+For example, our dedicated automotive SOCs in the accelerators for Level 3 and Level 4 autonomous driving can deliver up to 700 trillion operations per second tops of AI processing. Our RB6 robotics platform brings advanced edge AI in video processing capabilities support for up to seven concurrent cameras and up to 200 tops and we believe our upcoming custom-designed CPUs will redefine computing performance for Windows PCs.
+
+Off particular note is our significant momentum in AI. We recently launched a Qualcomm AI Stack, which unifies our existing best-in-class AI software solutions into a single package that works across all Qualcomm platforms. The Qualcomm AI Stack is positioned to become the platform for AI at the edge. The Qualcomm AI Stack supports all AI frameworks, including TensorFlow, PyTorch and ONNX as well as AI runtimes, such as TensorFlow Lite, TensorFlow Lite Micro and ONNX runtime. We also have a rich variety of OS support, including Android, Windows, Linux, QNX, Ubuntu and others.
+
+With this new offering OEMs and developers can now develop and optimize AI models once, then move the same although across different Qualcomm products in tiers for true develop-once deploy-anywhere model.
+
+We believe the Qualcomm AI Stack portfolio is a revolutionary step in scaling high-performance low-power on-device on device AI processing. These solutions demonstrate how our One Technology Roadmap is transforming Qualcomm from a wireless communications company for the mobile industry to a connected processor company for the intelligent edge.
+
+Lastly, as we continue to move forward and execute on our strategy, we're mindful of the challenging economic environment and we remain disciplined on investments that drive sustainable differentiation and stockholder value. We are focused on customers and industries that drive stable long-term growth. We believe the industry trends, their driving demand for technologies remain unchanged and continue to validate our strategy positioning as well for the long-term. We're still on track to expand our addressable market by more than 7x to approximately $700 billion in the next decade.
+
+Before I turn the call over to Akash, I would like to invite you to join us in New York on September 22, at our first-ever automotive Investor Day event. Qualcomm is the leading automotive technology platform provider for next-generation vehicles. We will demonstrate how the Snapdragon digital chassis is enabling the transformation of the automobile and continuing to drive growth in our design-win pipeline.
+
+I would now like to turn the call over to Akash.
+
+Akash Palkhiwala{BIO 19085180 <GO>}
+Thank you, Christiano, and good afternoon, everyone. We're pleased to report strong results in our third fiscal quarter despite the impact of the challenging economic environment. We delivered non-GAAP revenues of $10.9 billion and non-GAAP EPS of $2.96, which was about the high end of our guidance. Non-GAAP revenues and EPS grew by 37% and 54%, respectively, versus the year-ago quarter. driven by technology leadership revenue diversification and operating efficiency.
+
+QTL revenues of $1.5 billion and EBT margin of 71% were at the midpoint of guidance. These results reflect a decrease in handset volume in mid tiers and low tiers offset by favorable mix. QCT recorded revenues of $9.4 billion and EBT margin of 32% both at the midpoint of our guidance and reflecting revenue growth of 45% and EBT dollar growth of 67% versus the year-ago quarter.
+
+Handset revenues of $6.1 billion increased 59% year-over-year, driven by the strength of our Snapdragon product portfolio, especially in the premium and high tiers. Consistent with our guidance, RF Front-End revenues of $1 billion grew 9% versus the year-ago quarter on increased adoption of our broad product portfolio.
+
+IoT revenues were up 31% year-over-year to $1.8 billion. we saw strong performance across edge networking and Industrial IoT with combined revenue growth more than 40%. We delivered another record quarter in automotive with revenues of $350 million with year-over-year growth of 38% driven by launches with our Digital Cockpit products. Looking forward to global 3G, 4G, 5G handset forecast.
+
+We now expect calendar '22 global handsets to decrease by mid single-digit percentage on a year-over-year basis, including 650 million to 700 million 5G handsets. Our guidance reflects the continuation of the trends that adversely impacted hence at volumes exiting the June quarter. We expect the elevated uncertainty in the global economy and the impact of COVID measures in China will cause customers to act with caution in managing their purchases in the second half of calendar '22.
+
+In the fourth fiscal quarter, we are forecasting revenues of $11 billion to $11.8 billion and non-GAAP EPS of $3 to $3.30. The midpoint of our guidance includes an estimated impact of approximately $0.20 due to the macroeconomic headwinds and the reduction in the global handset forecast I adjusted outlined. We're forecasting QTL revenues of $1.45 billion to $1.65 billion and EBT margins of 69% to 73%, reflecting normal sequential unit growth.
+
+In QCT, we expect revenues of $9.5 billion to $10.1 billion an EBT margins of 32% to 34%. At the midpoint, this implies year-over-year revenue growth of 27% and EBT dollar growth of 31%. On a sequential basis, we expect growth across QCT handset and automotive revenue streams.
+
+In handsets, while Snapdragon premium tier volume remains resilient, our guidance assumes lower demand in other tiers, reflecting the updated global handset forecast. In IoT, we're seeing strength across industrial and enterprise which is offset by pockets of weakness in consumer products. We anticipate non-GAAP operating expenses to be up 6% to 8% sequentially with approximately half of the growth due to the inclusion of two quarters of expenses for the Arriver acquisition.
+
+As a reminder, our third quarter results did not include Arriver since we're reporting one quarter in Arriver's until the fourth fiscal quarter. Based on the midpoint of our fourth quarter guidance, we're expecting fiscal '22 to be an exceptional year. We expect non-GAAP EPS of $12.55, a growth of $4 relative to fiscal '21. We are forecasting QCT revenues of greater than $37 billion, a year-over-year growth of greater than $10 billion and EBT margin expansion of approximately 5 points.
+
+QCT handset revenues are on track to grow slightly below 50% relative to fiscal '21, driven by increased processor content and expansion of our addressable market. With our continued focus on diversification, we are forecasting our FR Front-End, IoT and automotive combined revenues of greater than $12 billion in fiscal 22.
+
+Lastly, we are pleased to announce we signed a long-term extension of our license agreement with Samsung through 2030 at the same royalty terms. With this agreement the QTL forecast that we provided at investor day remains unchanged.
+
+In closing, while we are mindful of the current environment, our long-term fundamentals are intact we remain focused on driving growth by executing on our vision to bring cloud connectivity, data processing and artificial intelligence to the edge.
+
+Thank you and back to you, Mauricio.
+
+Mauricio Lopez-Hodoyan{BIO 20932685 <GO>}
+Thank you, Akash. Operator, we are now ready for questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. (Operator Instructions) Our first question comes from Matt Ramsey with Cowen. Please proceed with your question.
+
+Q - Matthew D. Ramsay{BIO 17978411 <GO>}
+Yes. Thank you very much. Good afternoon, everybody. Cristiano, maybe you could give us a little bit of a breakdown in how you're seeing the handset market right now? And particularly, we've and you guys just discuss it in your prepared script, some weakness in mid-tier Android. But I'd like to sort of double-click on that a little bit. If you could contrast what you're seeing maybe with premium, with the mid-tier Android market, specifically in China and then the mid-tier and low-tier Android market globally? And if there's any differences in the trends that you're seeing there? That would be really helpful. Thank you.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Thanks for your question, Matt. Look, we're very familiar with this market. We've been doing this for years. And this market, it changes with the economy. Well, looking at the combination of the macroeconomic environment and the China lockdowns, we did see the market is likely to be smaller in -- than we originally forecasted. But on the positive side, I think our strategy of being focused on the premium and high-tier is proving to be a resilient one. So the weakness we saw more in the mid-to-low tiers, premium tier remain resilient, and not only in how we reported the results in Q3, but how we'll think about our guide in Q4.
+
+And maybe Akash can add a little bit more color to it.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes, Matt. So to add to that, on -- in the third quarter, what we saw was lower handset units in the mid-low tiers. And of course, there was an impact in China, but the rest of the impact was largely in rest of the world, with some limited impact in the developed economies. And what we are forecasting going forward is really that to continue forward in second half of calendar '22, the adverse trends that we saw exiting the third fiscal quarter extending forward. So, we are updating the overall calendar year forecast to down mid-single digits versus '21, and we're also updating the 5G forecast to be in the $650 million to $700 million range for the year.
+
+Q - Matthew D. Ramsay{BIO 17978411 <GO>}
+Got it. Thank you, guys. Maybe as a follow-up there. Akash, you've been extraordinarily kind enough to give us some out quarter views on prior calls, and with all the movement in the end market and the fact that you're lowering the forecast for the full calendar year on handsets. If you have any color that you could give us directionally into the December quarter, we'd be really grateful. Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Sure, Matt. As you know, December quarter is seasonally a strong quarter for us, both up for the QCT handset business and the QTL business. So that remains unchanged. We're still going to see flagship device launches and holiday season increases that will benefit our financial performance. And we'll see -- we're forecasting growth from third fiscal to fourth fiscal quarter, and we'll see growth again going into the first fiscal quarter. We do expect it to be calibrated by some of the same factors that we saw impacting us in fourth quarter, but still expect strong growth rates as we look out to the December quarter.
+
+Operator
+Thank you. Our next question is coming from Tal Liani with Bank of America. Please proceed with your question.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Hi, guys. First question is on balance sheet. Cash and equivalents went down by $4.5 billion. If you can give us some data there. And second, I want to talk about RF. RF on the sequential basis is slowing down, and the question is, it's basically down -- on a cumulative sequential basis, it's down already. And the question is, whether this share gain story is over and now it's going to trend in line with the market. Can you take us through kind of the trends but also the ASPs trends that you're seeing in the RF segments? RF of QCT, of course. Thanks.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Sure, Tal. It's Akash. I'll start with the first question and also start the second one, and Cristiano can add on top. On the cash balance, as you know, we closed the Arriver acquisition right after the March quarter ended. And so, the change you are seeing is primarily driven by $4.6 billion paid in cash for the Arriver acquisition. Of course, we did have a very strong positive cash flow, and it was a balance of that being offset by capital return, which we returned $1.4 billion, $1.35 billion in the quarter.
+
+And then it was also offset by other related expenses on CapEx and tax payments that we made in the quarter. So, really, it kind of comes down to the payment we made for the Arriver acquisition. On second one on the RF front end, so the way you should think about the RF front-end growth is, it is something that grows more in line with the 5G market for us. And as you saw, we kind of brought down the overall forecast for the 5G units for the year. And so, that has played a role.
+
+Also, generally, it is something that it does not scale very significantly when you grow from a low mid-tier to high-tier RF content remains relatively similar. Whereas on the processor side, you've seen just tremendous scale on our handsets business as we go to premium high-tiers, the ASPs are much higher, the content is much higher, and you're seeing that benefit show up at the top end of the range.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+So, Tal, this question, I was just going to add a couple of things. So, we have been very focused on the entire portfolio continue to drive leadership across every single component. And one thing that we have been very focused now starting to bring our effort into auto, IoT and Wi-Fi. So -- and we're starting to track that. As an example, the RF front-end design-win pipeline, right now, it's in the excess of $900 million in automotive. We also see opportunity with Wi-Fi. We announce our next-generation Wi-Fi and Bluetooth for our front-end modules to go over chips as well. So we expect to be focusing and driving growth in auto and IoT. And as Akash said, it's an attached story on Snapdragon, it tracks to mobile market, and we grow faster than front-end and mobile because of processor content.
+
+Operator
+Thank you. Our next question is coming from the line of Samik Chatterjee with JPMorgan. Please proceed with your question.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Great. Thank you. Thanks for taking my questions. I had a couple. Maybe if I can start with the China smartphone market. I know Akash you referred to assuming that the global smartphone market sort of remains the same way as it is with exiting June. I sort of remember that some of the government data in that regional market did show positive signs in the June month, the month of June, I think after the reopening. And you sort of government given sort of seeing many cycles here, what do you thinking in terms of how to -- when does the market trough rate of to the China smartphone market? What gets it to sort of reach a trough for a rebound from then on, because at least I think the month of June did show some positive signs? And I have a follow-up. Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. Sure, Samik. You're right, we did see some improvement in the month of June. But the way you should think about the OEMs reacting to the data is these headwinds cause these customers to act with caution in how they manage their purchases. And so it's really not just kind of a standalone what happened in the month of June and projecting that forward. It's really the overall environment that they are reacting to, and that's what informs our forecast for units going forward.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+And just from a follow-up for the September quarter guide. If I can ask you to unpack that a bit more. You typically have a high-end North American customer launching their product and you've driven sort of double-digit quarter-on-quarter QCT growth in the past on account of that. The more modest seasonality that you're guiding to now, is that primarily then sort of weaker mid-tier Android may dilute your Android? Or are you expecting some softness on the high-end as well with your primary North American customer there?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Sure. So, when you look at our fourth quarter guidance. So we're guiding midpoint of $3.15 versus June actuals of $2.96. So, we're still guiding strong growth on a quarter-over-quarter basis in this environment. And on a year-over-year basis, that implies a 24% growth on the EPS side. If you look at the guidance range we gave, we widened the range given the uncertainty, and also estimate that our guidance mid-point had an impact of about $0.20 related to the macroeconomic.
+
+If you break that down on your direct question, premium tier volume is holding, right? So just from overall Snapdragon and, of course, the new launch happens as planned as well. But what we are seeing is the customers buying high, mid, low tiers being careful with inventory as they manage and kind of work through the market environment. And so, you're seeing that factored into our guidance going forward.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Maybe if I can just add one thing. It is Cristiano. So, the way to look at our Q4 guide, including the macroeconomic environment that we size at $0.20 of EPS, we see it growing 24% year-over-year. The way I'll unpack that is, we have the micro, we have the reduction to mobile market, but if you break that down, in addition to what Akash said about the premium tier being resilient even as we have less units in mid and low, we have sequential growth in auto. We had record auto Q3. We see sequential growth in Q3.
+
+And in the IoT, having consistent with what we have been to conversation throughout this earning season is any offset in -- any consumer weakness has been offset by strength in industrial and enterprise. And so, when we look at those numbers, that 24% year-over-year growth is actually faster than some of our peers. They have even less consumer exposure than we do because of mobile. Thank you.
+
+Operator
+Thank you. Our next question is coming from the line of Rod Hall with Goldman Sachs. Please proceed with your question.
+
+Q - Roderick B. Hall{BIO 19289093 <GO>}
+Yes. Thank you. I've got two questions for you guys. One is, going back to kind of the high-end and not necessarily September, not that particular high-end, but the Chinese high-end makers in the back-end of the year. I know that as the supply chain, Cristiano, has been kind of showed, I think there were some original thinking those guides might preorder chips and that might affect your September quarter. I'm just curious if that is happening? Are you seeing some impact on the September quarter from those anticipated android launches in I guess the late October, November time frame? And then I have a follow-up on that.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes, Rod. It's Akash. No, we're not seeing front-end behavior of people buying sooner than expected that's impacting our September quarter on the handset side. At the premium tier, the demand is holding. As you know that we have strong relationships, a very strong roadmap in that tier, and so we're seeing customers continuing to buy as normally they would as we go into the September quarter and then looking forward to December.
+
+Q - Roderick B. Hall{BIO 19289093 <GO>}
+So then Akash, just to clarify, most of that impact would probably come in the December quarter, is that correct on that comment?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. So, if you're talking about Apple's phone launch, you would see a normalized
+
+Q - Roderick B. Hall{BIO 19289093 <GO>}
+A high-end Android launches, mainly in China.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes, exactly. So, we see purchases that happen through the September quarter on a normal basis. But December, end of December is when they start launching phones, both going into holiday season and then going into Chinese New Year. So, we expect to see the seasonal benefit of that.
+
+Q - Roderick B. Hall{BIO 19289093 <GO>}
+Great. Okay. Thank you for that. And then I also wanted to just ask you guys on channel inventory. We've had spotty indications of inventory clearance. Verizon is saying they're going to clear inventory in high-end. I think all levels of smartphones as we look into the fall. And there's a lot of inventory clearance going on in retail. We see some abnormal high-end promotions in China occurring as well. So I'm just curious what you think the status of inventory is out there? And whether you think some of this inventory clearance might pull some demand forward out of the early part, at least of the fall season?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. So on the inventory side, I mean, clearly with the -- kind of the end market size being impacted, both from macro and a China perspective, what we're seeing is that the -- that has an impact on the inventory cycle, that the industry then needs to work through in the second half of the calendar year, both through September and December. And that's what's kind of forecasted within the guidance that we gave. And as a result, as I said before, we expect OEMs to act with some caution with their purchases as they work through the inventory balance.
+
+Operator
+Thank you. Our next question is coming from the line of Michael Walkley with Canaccord Genuity. Please proceed with your question.
+
+Q - Michael Walkley{BIO 3359029 <GO>}
+Hey. Thanks. Congrats on the Samsung deal extension through 2030 that includes 6G. Just the cost for this deal, are there any upfront payments or anything that might impact the cash flow or the models or more just an extension of 2030? And then maybe for Cristiano, if you could provide any color just on the Snapdragon commitment. Is there any guaranteed share exclusivity or anything you can share in that? Thank you.
+
+A - Alexander H. Rogers{BIO 19966795 <GO>}
+Michael, this is Alex. Thanks for the question. On the Samsung licensing deal, the way this works is we have a current agreement that's been in place since 2009. It was set to expire at the end of 2023, instead, what will happen is, we've agreed to extend that for seven years through to the end of 2030 at the same royalty rate. So that's it. It's pretty simple, pretty straightforward. We see it as a very, very significant milestone event for the QTL licensing program, validation of our portfolio, validation of our innovation and leadership. And it's a very important benchmark for future renewals as well. It really contributes a lot to the stability of the QTL program going forward.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Hey, Michael. Thank you for the question. Yes. Look, besides the record in auto and IoT revenues, the Samsung agreement is probably my favorite thing in the quarter. And here's the way I would describe the growth opportunity for the chipset business. We would average -- over the -- many years of this relationship before remember above 40% share versus their in-house solution with the Galaxy S22, which was prior to signing this agreement, our share climbed up to about 75%. And now we're announcing a multi-year agreement to power the Samsung Galaxy smartphones globally.
+
+So, very excited about that. It provides incredible stability for mobile business. I cannot think of anything better to validate our strategy to be focused on share of wallet in premium and high tier than disagreement. So, very exciting. I remember -- I would like to remember you all that that's a very good trade when I think about the silicon content of our Snapdragon 8 series. It been at least equal or better than revenue and earnings of five Modem for another OEM.
+
+Now, the second part of this multi-year agreement is the opportunity for growth tied up with our diversification. So, it expands beyond Galaxy smartphones to include Galaxy Books, Windows PCs, Galaxy Tablets, future extended reality devices and other devices. So, a very significant agreement, very excited, and really the companies are much closer together.
+
+Q - Michael Walkley{BIO 3359029 <GO>}
+Okay. Great. Very helpful. Thank you.
+
+Operator
+Thank you. Our next question is coming from a line of Ross Seymore with Deutsche Bank. Please proceed with your question.
+
+Q - Ross Clark Seymore{BIO 20902787 <GO>}
+Hi, guys. Thanks for letting me ask a question. My first question from the QTL side of things. Remarkably in line for the quartering guide. And if I think about last year when you guided for your fiscal fourth quarter, business conditions appeared pretty strong. This year, you're talking about uncertainties, macro headwinds et cetera, but you're guiding to the same QTL amount. So, I guess the big picture question I'm getting for investors is, it seems like Qualcomm has derisked the QCT side, but maybe not the QTL?
+
+Can you talk about how we fold the QTL guidance and with the more cautious macro view?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. Sure, Ross. It's Akash. As I said in my prepared remarks, the other factor on the QTL side is device mix being stronger, and maybe a portion of it is inflation helping the ASPs, but also, we've seen kind of people upgrade devices as they buy new ones. And so the mix is what is offsetting the volume on the QTL side.
+
+Q - Ross Clark Seymore{BIO 20902787 <GO>}
+Great. Thanks for that. And I guess, looking forward and shifting gears a little bit, you guys obviously report and guide and talk about your EBT margins a bunch, but gross margins have been a big tailwind for the company as well. In this last quarter (inaudible) it was supposed to drop per year guidance in the June quarter, but it dropped a little bit more than I was expecting. So, Akash, could you just talk about the puts and takes within the QCT gross margins? What would be generally tailwinds, headwinds? What we should think about as we head into the back half of this calendar year?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Sure, happy to. So, when you think about QCT gross margins, the key thing for us is, one, our diversification strategy as we use the technology we've created for handsets and apply it to other markets. That helps our gross margin profile and up margin profile as well, but also gross margin profile. The second is, as we sell more premium tier devices, that is also a helpful trend for us. And so you've seen the benefit of that. Even in the face of increasing pricing from foundries, we've been able to do pretty well on the gross margin side.
+
+We did see a mix change as we went through the quarter, where we ended up slightly lower than we had forecasted at the beginning of last quarter. But when you look forward, our mix is shifting up again and it's maybe a balance of the previous quarter that allows us to guide very strong on the gross margin side. If you look forward, really no change. I think we're very comfortable with where we are at. We've given a long-term operating margin guidance, which contemplates a strong gross margin profile, and we're comfortable with that guidance, no change there.
+
+Operator
+Thank you. Our next question is coming from the line of Joe Moore with Morgan Stanley. Please proceed with your question.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. Thank you. On a similar note, can you talk a little bit about your pricing strategy in the handset part of the business? You saw the gross margin benefit during a period of tight supply, and I think some people have worried that as that period comes to an end, you'll see more price competition. Can you just generally talk about how you see that dynamic?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. So, honestly, the pricing has been relatively stable on the handset side, it's obviously a very large market and there are two players who are participating in that market and there's sufficient market for both of us. So, that's how we're approaching the market and we've seen them be consistent as well. The other thing I'll say is, on the operating margin side, we -- the guide -- the way we gave guidance for the greater than 30% at Investor Day, we contemplated some decline in the gross margin profile, but really, what we're focused on is executing. And as I've said this before, we are focused on executing on the upsides to that number.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. Thank you. And then you talked about inventory in the context of sort of end market retail. Can you talk about component inventory of Qualcomm parts? I mean, the fact that you had a shortage until relatively recently, does that the reason why you haven't had some of the same inventory correction in China that maybe some of the RF guys have? Well, from an RF perspective, we've seen some of the similar trends that are -- our peers have seen. But when you look at the handset side, which is, obviously, the majority of our inventory profile. We've been chasing supply to get to a comfortable place. And so, as we've said before, we always expected demand and supply to reconcile in the second half of calendar year, and we're really seeing that play out as planned.
+
+Great. Thank you very much.
+
+Operator
+Thank you. Our next question is coming from Blayne Curtis with Barclays. Please proceed with your question.
+
+Q - Blayne Peter Curtis{BIO 15302785 <GO>}
+Hey. Thanks for taking my question. I assume maybe I'll start my last one just given the prior question. Just on inventory, and then I guess, it is quite a bunch in terms of your inventory. In June, hundred[ph] days you just comment on. Do you feel like you've finally caught up? I know it's been a long time coming, but at this point, is it still getting your shipment?
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes, Blayne, generally, we feel like we're in a relatively good place. Now of course, there are pockets of nodes or parts that we're still dealing with shortage on. But overall, we feel like we've reconciled to a reasonable place. I'll say, just when you look at our inventory balance just we more than doubled our revenue over the last couple of years, and we are also heading into a stronger seasonal quarters for us, September and December. And so, what you're seeing on the balance sheet is really a reflection of what's coming up.
+
+Q - Blayne Peter Curtis{BIO 15302785 <GO>}
+Gotcha. And then, just for Cristiano, I wanted to follow up on the question on the Samsung agreement. You said last quarter your share was much higher, 75%. Obviously, you had some struggles with their internal modems. Just trying to maybe a little bit more color as to what this agreement means? Is there any kind of handset chair that wraps around it? Or is it more about these other devices? I'm just trying to understand the real punchline on the agreement.
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Yes. The way you should think about it is, Snapdragon will power the Galaxy product line. There are Galaxy flagship products. And what I can say at this point is, we were 75 on Galaxy S22 before the agreement. You should have thinking about we're going to be much better than that on Galaxy S23 and beyond. It's a multi-year agreement. And it's -- that's probably what I can tell you. You should think about us powering their devices globally.
+
+Operator
+Thank you. Our next question is coming from Brett Simpson with Arete Research. Please proceed with your question.
+
+Q - Brett Simpson{BIO 3279126 <GO>}
+Yes. Thanks very much. Cristiano, I wanted to ask about the Apple guidance that was laid out by Akash at the Investor Day. I think Akash you mentioned that new iPhones in second half '23, you would expect about 20% share of those new iPhones. Now that we're getting closer to that timeline, has your view changed at all about that share? And if we were to see more demand for Qualcomm modems at this account, can you secure the foundry capacity? And would you need to negotiate a new long-term agreement for modems? Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Brett, we're not providing any Apple updates at this time. And we feel pretty good about our modem roadmap and 5G, and I think you should expect that Qualcomm will continue to be a leader, and especially, as modems becoming more difficult as it is supporting more than one end market beyond smartphones. Thank you.
+
+Q - Brett Simpson{BIO 3279126 <GO>}
+Okay. That's clear. Thanks. And maybe just a follow-up for Akash. I just wanted to ask about free cash flow. You've had a lot of moving parts, I guess, looking at fiscal '22 with prepayments for foundry and some of the working capital increases, but can you talk more broadly about the ability of Qualcomm's free cash flow margin targets? And what's the business really capable of achieving? And when might we start to see higher levels of free cash flow from the business? Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. Brett, you're right. Over the last couple of quarters or several quarters, we've had a few ins and outs. Two kind of -- key ones being acquisitions that we've done, but then also capacity reservations. And then in addition to that, obviously, a pretty aggressive capital return program. So, it's really a combination of those factors. When I step back and to your direct question, no change to our strategy that we outlined at Investor Day. We are very focused on returning most of our free cash flow to the shareholders. That's something that we have prioritized over the last several years. We've been very aggressive with it, and we are planning to continue to do that.
+
+Operator
+Thank you. Our final question is coming from the line of Shrinny Pajory with SNBC[ph]. Please proceed with your question.
+
+Q - Analyst
+Thank you. Cristiano, can you talk about your position in the mid to low end? I know you've been focused on the premium segment. And the reason I'm asking this question is that, if you look at 5G, even with your guidance for a little bit of a decline here, I think the -- most of the premium market is fully penetrated with 5G. And as we think about the next couple of years, the opportunity seems like it's mostly on the mid and low end. So I just want to get my hands around what's your market share today? And how should we think about the growth opportunity for you as the market transitions to 5G in mid-end and low-end?
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Thank you. Thank you for your question. Actually a very good question. Maybe I will answer breaking it down in two parts. Look, it worked very well for us to be focused on share of wallet, and especially, in the supply constraint environment to make sure we secure the sockets and had supply for the sockets to really important for their strategy, which is premium and high. It does not mean that we're not going to be serving opportunities in the mid and low. And it's now an environment as supply it gets normalized as we predicted for the second half, we have an opportunity to win a lot of the sockets into mid-low, and that's definitely an upside to our model.
+
+Q - Analyst
+Got it. And then, maybe for Akash. Akash on the discrepancy between SOC growth and RF growth, I think you gave us a pretty good explanation for this year. But as we look out to the next year or two, should we expect the discrepancy to kind of remain? Or do you think the handset growth and the RF growth will be somewhat similar? Thank you.
+
+A - Akash Palkhiwala{BIO 19085180 <GO>}
+Yes. Hi, Shrinny. We're going to have -- continue to have a discrepancy. I think if you look at a couple of web slides that we included this time around, it shows how the content is increasing at the premium tier for us. And that's just an example. Obviously, that applies to really all tiers. There's a lot more demand for processor content, whether it's CPU, GPU, camera, AI, security, audio-video, we are increasing content across the board.
+
+And so, we do expect that will drive stronger revenue growth on the handset side. As Cristiano mentioned on our front-end, of course, we'll benefit from the transition to 5G, which as markets like India start deploying 5G later this year, we'll see the benefit of expansion of SAM since 5G is where really -- we really play there, and then also for auto and IoT expansion opportunities there. So different vectors for growth in that area.
+
+Operator
+Thank you. That concludes today's question-and-answer session. Mr.Amon, do you have anything further to add before adjourning the call?
+
+A - Cristiano R. Amon{BIO 3259554 <GO>}
+Yes. I just want to start by thank you to our employees and our partners for really a great quarter. A couple of things that I'd like to message. None of our growth drivers has changed. All the fundamentals of strategy are in place. We're really focused on things we can control, but our strategy is working. We are transforming Qualcomm in a company that was communications for the mobile industry into a connected processor company for the intelligent edge. We're very excited about the Samsung agreement. It is the way to think about stability and growth in our handset business.
+
+And one of the things we mentioned in the script that we didn't talk much about it is the incredible progress we're making in AI and really building a very competitive developer platform for the edge. That's where we see a lot of the growth, silicon opportunities in the other devices. And don't forget to tune in for auto Investor Day. Auto is a success story for the company, continues to be, and we're going to have some exciting things to share with you on our Investor Day later in the year. Thank you very much for your support, and talk to you all soon.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. You may now disconnect.

@@ -1,0 +1,269 @@
+Q4 2020 Earnings Call
+Company Participants
+Alexander C. Karp, President, Chief Executive Officer
+David A. Glazer, Chief Financial Officer
+Kevin Kawasaki, Global Head of Business Development
+Rodney Nelson, Head of Investor Relations
+Shyam Sankar, Chief Cooperative Officer
+Other Participants
+Brad Zelnick, Analyst, Credit Suiss
+Brent Thill, Analyst, Jefferies
+Christopher David Merwin, Analyst, Goldman Sachs Group, Inc
+Keith Weiss, Analyst, Morgan Stanley
+Presentation
+Operator
+Good morning. Welcome to Palantir's Fourth Quarter 2020 Earnings Call. We'll be discussing the results announced in our press release issued prior to the market open and posted on our Investor Relations website. During the call, we will make statements regarding our business that may be considered forward-looking within applicable securities laws, including statements regarding our first quarter 2021 and multi-year outlook, management's expectations for our future financial and operational performance and other statements regarding our plans, prospects and expectations. These statements are not promises or guarantees and are subject to risks and uncertainties which could cause them to differ materially from actual results.
+
+Information concerning those risks is available in our earnings press release distributed prior to market open today and in our SEC filings. We undertake no obligation to update forward-looking statements except as required by law.
+
+Further during the course of today's call, we will refer to certain adjusted financial measures. These non-GAAP financial measures should be considered in addition to and as a substitute for or in isolation from GAAP measures. Additional information about these non-GAAP measures including reconciliation of non-GAAP to comparable GAAP measures is included in our press release and investor presentation provided today.
+
+Our press release, investor presentation and SEC filings are available on our Investor Relations website at investors.palantir.com
+
+Alexander C. Karp{BIO 17417797 <GO>}
+Welcome. Palantir had a very strong year last year. And then because of the strong year it might be worth taking a second and asking, well what do you the numbers actually mean, obviously on the face of them, they're strong, even curiously strong. We believe, I believe that Palantir's numbers are a lagging indicator of a several macro trends that we got right.
+
+First is the obvious macro trend that is almost become venality [ph] that the world is becoming a software world and the institutions that survive and thrive and provide benefits to their citizens, both in terms of actual output but also real output meaning output that includes data protection that make sure that the data is actually preserved in a way that guarantees its veracity, that gives comfort to his citizens, that make sure the citizens aren't merely a product to be monetized.
+
+And second, that as diverse as the institutions are that we work in, from clandestine services to providing AI in the most sensitive military context, to working with oil and gas companies, to airlines, to pharmaceutical research to all aspects of helping to ameliorate the plague that is COVID. There is one trend institutions, countries, individuals that can assess the value of software that can work now are the institutions that survive and provide value, both in the government commercial, and even moral [ph] context moral as defined by they increase the legitimacy of institutions. One of the primary issues we have in the West is the dearth of legitimacy of commercial and government institutions of experts, and this makes it very impossible to navigate issues around how do you rebuild your company internally and externally to conform and thrive in a very difficult context, where there is a -- there is COVID, rebuilding the supply chain political volatility, uncertainty, and general skepticism about anything you say, that is a software problem, how do you actually look at the data, understand that the data is actually true, understand the veracity of the model. How do you -- how can you prove to people that their data is not being be abused, monetized used to discriminate against them, where the people listening to you have a great deal of skepticism. How do people who are on this call presumably trying to evaluate the actual value and meaning of our numbers. It's very hard for them to do -- for you -- to understand this without understanding what is the actual background of the numbers. Are they a forward indicator or a lagging indicator of a macro trend that you took out right or wrong?
+
+One of the interesting things about philosophy, history and software is that when something becomes crucial to a society absolutely determinative it sets off a dialectic of learning. So that what we understand about what it means to procure software, use software, integrate into a world that is defined by software is very different than what we would have thought about it when it was a luxury product and that's largely how software has been viewed here before, it's something that can augment your enterprise, your government, it can make your enterprise slightly better than your competitor in a myriad of context, it can make your military slightly more efficacious, slightly more transparent or in some context less transparent, it can make things more cost effective, but that's not the context we're in now.
+
+We're in a context where it is basically binary. Institutions and societies which implement software effectively will dramatically outperform in every context, in the military context, in the clandestine context, in the COVID context, in the context of every commercial entity that we're involved in and everyone I've ever seen in everyone you've seen. And then the real questions like, well, what does it mean to survive in a COVID like context or how do you stop the next pandemic in a western constellation, where civil liberties, data protection is crucial, you can't just reorchestrate the society and reorchestrate the data without having buoyant from the people that nominally or hopefully completely control the society. Those are, those are software problems. And then the people who are in charge have to -- are going to learn and will learn over time. What does it mean when someone says that software works? What does it mean for software to be implicated -- implemented effectively? What is the actual alpha is the alpha just the output or is it the output also measured against the moral context, the moral imperatives that allow us to unify in a society.
+
+There is a very famous quote from (inaudible), which means roughly paraphrase to believe you're following the rule isn't to follow a rule. This is typically used to explain a important trend in language philosophy. But you could also look at this as like to use software, it doesn't mean to actually use software. If software is absolutely determinative of the current condition just like language was, it's like in a philosophical sense, you could say we've had a shift from the language imperative or language is actually what determines a meaning to a software context where it's actually software is determining meaning value and legitimacy. Why do commercial and government institutions struggle with legitimacy, because in many cases, it's very hard to understand what is the output, how did it happen under what context, what was paid for, what did we get?
+
+The structures we've built our treating software as a cosmetic augmentative attribute, when in fact, software is the language of our time and with -- a mastery of software will determine what works and what doesn't. The numbers that you've seen are a reflection of our bet that this would happen. They are a lagging indicator and we believe that the transfer -- transformation which is happening in the world now will accelerate and that the way in which we're providing software both Foundry, Gotham and our ability to scale this through Apollo will be the way that everyone at some point will actually trying to build software and the way in which institutions will procure software. Because of the dialectic of macro and micro conditions, a dialectic which will force change because the winners will figure this out.
+
+Rodney Nelson{BIO 19419936 <GO>}
+On today's call, you'll hear from Alex Karp, Founder and Chief Executive Officer; Shyam Sankar, Chief Operating Officer; Dave Glazer, Chief Financial Officer; and Kevin Kawasaki, Global Head of Business Development.
+
+With that, I'll turn it over to Shyam.
+
+Shyam Sankar{BIO 17250476 <GO>}
+Thank you, Rodney. First, I'd like to congratulate the NHS in the UK for a stunningly successful vaccine rollout. The NHS is truly a national treasurer. I'd also like to congratulate HHS Protect on winning Gartner's Eye on Innovation Awards for Government in 2020. And finally, I'd like to congratulate US Space Force's Kobayashi Maru, their cutting edge software factory for winning the Software Innovation Team and Gears of Government awards
+
+To 2020 results. 2020 was a seminal year for Palantir. We helped 100 commercial organizations and 10 national governments respond to the COVID crisis. We were able to solve incredibly complex problems in three days and enable our customers to reinvent themselves amidst these continuous shocks. But of course, that's not just three days, it's 15 years of product development, more than $2 billion on R&D and three days.
+
+And for many of those customers in a short period, we became their default operating system, we became critical to the core functioning of their operations. In meeting that moment, our business grew significantly in 2020 resulting in 47% revenue growth on a full year and we created and continue to create substantial opportunities for growth over the next year and beyond.
+
+Last week, we announced a groundbreaking partnership with IBM, where IBM OEM a number of Foundry modules and its Cloud Pak for data offering enabling commercial customers to easily build AI-infused applications leveraging a trusted data foundation in enterprise AI. This partnership dramatically expands our distribution capabilities, leveraging IBM's data and AI's 2,500 sellers. For context, that is a sales force that is larger than all of Palantir along with an already large installed base of Cloud Pak customers.
+
+We are very excited about what this partnership means for our go-to-market in 2021 and beyond. The response since the announcement from prospective customers has been incredibly strong. There is a lot of momentum, a lot of energy and we will continue to pursue channel partnerships to enhance our distribution.
+
+The product-driven momentum is clear and building across both segments of our business. We invested in technologies that would help our customers get value fast and create enduring operational value that compounds. Continuously delivered upgrades to our software become upgrades to our customers' businesses.
+
+Our Foundry 21 launch represents the culmination of that work. With software-defined data integration we're automating away the complexity of integrating systems. With a drag and drop interface, frontline business users can build production-grade AI-infused applications. Modularity allows customers to take what they need and build on what they have. Archetypes bring point and click use cases to accelerate outcomes. All part of how upgrading our software upgrades their business.
+
+As we move into 2021, these innovations are not only helping our customers generate value much faster. They are also allowing us to broaden our go-to-market. We expect to add a triple-digit headcount to our sales function this year. In our Commercial segment, we generated greater than 100% US revenue growth in 2020 on the back of investments in our direct sales force. In the fourth quarter, we signed several large deals with customers across a variety of sectors including automotive, energy, healthcare, insurance, mining and shipping.
+
+We signed a multi-year enterprise agreement with Rio Tinto in the fourth quarter. This partnership is the culmination of several Foundry deployments integrating data from across Rio Tinto's operations spanning 90 plus systems including machines, sensors and instruments. These initiatives helped Rio Tinto transform Borates into a digital business across the value chain to increase production and enhanced profitability and connect people on Rio Tinto's underground operations with data.
+
+Foundry will be both a single source of truth, combining operational and transactional data and a digital twin that will enable Rio Tinto's employees to make data-driven decisions and take action from headquarters to the mine face.
+
+We signed a multi-year contract with Pacific Gas and Electric to help it streamline operations across the company. PG&E clicks 10 billion data points every day spending both structured and unstructured data, which we, the digital twin of PG&E's network within Foundry to enable root cause analysis and upgrade monitoring.
+
+We expect this will allow them to improve their electric operations and asset management resulting in enhanced safety and grid reliability. PG&E will have a single integrated platform, providing a complete operating picture to make fast effective data-driven decisions in its public safety power shut-off program, which will help mitigate future wildfire risks. And this is just the beginning of our joint enterprise vision.
+
+In addition, we signed a significant expansion with a Fortune 50 healthcare company in the fourth quarter. Across the healthcare industry, there are increasing market pressures, ranging from reimbursements that are becoming tied to value-based care, increasing cost of pharmaceuticals, as well as an expanding number of competitors.
+
+Managing unit profitability at a granular level becomes much more important in this environment. And this customer was facing the inability to model their complex contract and pricing models in order to make actionable decisions for the negotiations and payments management.
+
+This issue is wildly complex as it involves managing the balance between revenue and cost of goods sold models that are managing the network of suppliers, supply chain, labor, payers and regulatory coefficients. By integrating these disparate sources into Foundry, the customer now has a contract management solution that automates away this complexity, allowing the company to focus on operational decision-making and outcomes. And this is already led to $50 million of annualized value.
+
+We continue to deepen our partnership with BP and in the fourth quarter, we signed a five-year nine figure enterprise renewal. We have worked with BP since 2014. Our software is the backbone of BP's digital twin applications, which has generated over $1 billion of value in 2020. As part of our ongoing partnership our software will help BP continue its transformation as they work towards their net-zero ambition, these applications will accelerate BP's initiatives in wind power, electric charging network, solar power generation and other initiatives to deliver energy more safely and efficiently for years to come.
+
+We're also deepening our work with the Fortune 200 industrials manufacturing customer and our relationship rapidly evolve with the -- over the course of 2020 to incorporate several use cases within Foundry. As a manufacturer of personal protective equipment, this customer face substantial supply and demand shocks into the onset of COVID accentuating the need to re-imagine the firm's supply chain management and order processing practices. After integrating its baseline supply chain performance models and order fulfillment records, the customer was able to move away from its first-in-first-out order fulfillment and deliver PPE to those who are most in dire need all in under a couple of weeks. The customer is using our software to address enduring challenges including modeling supply chain scenarios and conducting forecasting and demand sensing to alert users to future bottlenecks and inventory risks.
+
+The net result is a decision-making engine at the intersection of a connected supply chain with connected manufacturing.
+
+Turning to our Government segment. Our Gotham 21 launch underscores both our ongoing vision to provide the central operating platform for government, as well as our focus on the near-peer fight in the defense context. We made extraordinary progress on these initiatives in 2020 overall.
+
+The full year government revenue was 7%, led by ongoing momentum in the US, which grew 91%. As tremendous of the year as 2020 was for the government segment, we believe we are just at the tip of the iceberg, and we are well-positioned to capture significant new opportunities in 2021 and beyond.
+
+Our intensive product investments in developing an end-to-end sensor-to-shooter and space-to-mud capability are paying off. We are creating unique opportunities to enable the warfighter with AI superiority, and that technology is starting to create large program of record opportunities across the services.
+
+Our partnership with the US Army continues to expand. Vantage is a critical asset for the Army to support both readiness and financial management. Vantage helped the Army free up $3.3 billion for reinvestment. In December, the Army exercised its first option year, and we are excited to continue this work with Army Vantage. We recently won a pair of new contracts with the Army to accelerate its modernization efforts. In November, Palantir was selected to provide a prototype for the Army's common data fabric and data security solution to support capabilities at 23. This is yet another opportunity for our software to be used in the mission command space, operating at the intersection of intelligence, mission planning and execution. It is a true honor to have the opportunity to aid the Army in its efforts to provide an integrated solution that will ultimately improve access to critical data for commanders and soldiers, deliver efficient use of networks in denied [ph] integrated environments. And increase the collaboration with joint and allied partners.
+
+In January, we were down-selected to deliver a prototype as part of Army's ground station modernization in support of the TITAN program. Under the $8.5 million Phase 1 contract, Palantir will collaborate with the Army to demonstrate a solution that integrates space, high-alt, aerial and terrestrial sensors for use in intelligence command and control. The overall solution, which carries a total potential contract value of $0.25 billion across all phases, will provide operators downrange with shortened targeting timelines by incorporating data integration, sensor fusion and advanced analytic capabilities using AI. We were built for this. Those years of product investments I was just mentioning, that's this. We are looking forward to continuing our work in this area with the Army as well as pursuing similar programs with other services.
+
+And while a lot of new 2020 US defense opportunities started as crisis response to COVID, almost all of it is relevant to enduring problems and needs. For example, we started working with the Air Force in May of 2020 to support their COVID response. The engagement has supported COVID-19 testing, PPE availability, helping plan vaccine distribution, and personnel availability. But it's also clear to the Air Force how it can scale [ph] the fleet availability, combat readiness and equipment readiness.
+
+In the UK, Palantir's software is powering three of the country's most important national priorities, PPE, vaccines and managing trade post-Brexit. In December, we signed a two-year contract with the NHS worth up to $31 million, where Foundry will serve as the core platform for secure, reliable and timely data processing to enable decision-makers to efficiently plan and distribute resources, improve patient care and protect patient privacy.
+
+Additionally, the highly successful UK Vaccines Program ordered, allocated, tracked and delivered their vaccines in Foundry. While we continue to partner with the world's leading healthcare institutions to combat COVID-19, we closed deals that are focused on supporting their ongoing transformation in a post-COVID world.
+
+In the fourth quarter, we expanded our relationship with the FDA with a three-year $44 million contract. Our partnership with the FDA began in 2017 to aid the Oncology Center of Excellence and regulatory research across clinical trial data. Our relationship evolved over time to include the Center for Drug Evaluation and Research, CDER, which we assisted in the fight against the opioid crisis and supported regulatory review activities. This new agreement will continue our work with the FDA in mission-critical enduring workflows such as ensuring manufacturers are complying with agency rules and regulations and enhancing drug reviews to speed up time to market while maintaining the highest safety standards. And there is significant opportunity for further expansion as our work today touches on just two of 16 centers and offices at the FDA.
+
+We closed out the year with strong momentum. In the fourth quarter, we signed many significant deals, 21 deals worth $5 million or more, including 12 deals, each worth $10 million or more. In aggregate, we generated 47% annual revenue growth. We saw customer concentration and revenue concentration decrease even as the number of significant deals grew. Our pipeline is substantial and growing. These deals they start in the acquirer phase of our three-phase model and with new customers who are acquired in year [ph] that have yet to even join a phase, both of these groups performed exceptionally, a very positive forward-looking indicator.
+
+Additionally, the intensive growth of existing customers continued with average revenue per customer growing 41% to $7.9 million. We grew the number of accounts with $10 million of annual revenue or more by 50%. We're continuing to demonstrate our ability to grow customer relationships at scale as we add ever-increasing value to our customers' enterprises.
+
+And it's still very clear that we're just at the beginning. Our customers include only eight of the Fortune 100, 12 of the Global 100 and only 24 of the Global 300. The opportunity in front of us is immense and growing.
+
+And finally, I'd like to thank each and every hobbit for their exceptional efforts in 2020. You went where you were needed most, from the front lines of the vaccine to the factory floors of PPE manufacturers, from the briefing rooms of prime ministers to the war rooms where the nitty-gritty work actually got done, you built the products that met their moment. And you did all of this while driving the operational changes and support functions that executed the business. You supported each other through the ongoing trials and tribulations of the pandemic. You are all a constant reminder that not all who wander are lost. I'm proud of what you accomplished, and I'm so very honored to call your coworkers. And I'm very grateful and often in disbelief for the joint opportunities that we have for impact. This truly is only the beginning.
+
+Thank you. To kick off the discussion on financial results, I'll now pass it off to Karp
+
+Alexander C. Karp{BIO 17417797 <GO>}
+There are many insights indeed, some secrets that have powered Palantir and got us from a company that in the beginning no one will believe would succeed because we're heavily focused on strengthening the West through near-fanatical fixation on data integration and data protection.
+
+When we transferred to the commercial world, people didn't believe that would succeed because there's no history of anybody going from government to commercial. When we went -- when we became a global Company, people didn't believe that would succeed because the global -- typically companies that started within the American government or in America do not succeed or thrive abroad.
+
+When we went and did our DPO, people thought we should IPO because that is the best and quickest way to transfer money to Wall Street, but we believe we should be focused on allowing the average person to participate and therefore absorb that risk.
+
+And now as we've had a pretty sublime year based on any conventional metric, and as you've seen the results, we want to underscore this relentless focus, what you could call an insight secret, which should be a venality [ph] of business of a long-term focus on the health of what we believe is and will continue to be one of and will become the most important software business in the world. And to do that, we are providing long-term guidance, pretty radical in the sense that we are committing to keeping a growth threshold of above 30% for the next five years, but not focused on the day-to-day, quarter-to-quarter, near-term focus that, quite frankly, destroys businesses is one of the main reasons why so many of our businesses, especially in tech, are actually only serving Wall Street and not serving their clients, not serving an everyday investor and generate suboptimal returns over time because they too are a lagging indicator of the suboptimal performance, near term, my emphasism [ph] of running a business. And at Palantir, obviously, we have rejected this in every way, both from the way we've produced software, from the way we interact with clients, from the bets we've made that tend to be bets that come to fruition years after very, very significant investment. Any case, we hope those of you on this call who are current investors, stay with us. And those of you who prefer a more short-term focus that you choose companies that are more appropriate for you.
+
+David A. Glazer{BIO 21953140 <GO>}
+Thanks, Karp. I'll review our fourth quarter and full year 2020 performance followed by our outlook. Full year 2020 revenue was $1.093 billion, up 47% year-over-year. Fourth quarter revenue was $322 million, up 40% year-over-year and roughly $21 million above the high end of our prior guidance range. In addition, for the full year 2020, average revenue per customer was $7.9 million, up 41% year-over-year. Average revenue for top 20 customers was $33 million, up 34% year-over-year, with our top 20 customers representing roughly 61% of our total 2020 revenue, down from roughly 67% in 2019 as we continue to broaden our revenue and customer base.
+
+For the full year 2020, 43% of our revenue was generated from new customers in 2018 or later, exemplifying our improving ability to rapidly onboard customers to our software and realize compounding value as their data assets grow and use cases develop. We see this scaling taking place across our customer base.
+
+In 2020, the number of customers generating more than $1 million in revenue annually grew 32% year-over-year. Customers generating more than $5 million annually grew 54% year-over-year, and customers generating more than $10 million annually grew 50% year-over-year. In the fourth quarter alone, we closed 21 deals of $5 million or more in total contract value, including 12 deals worth $10 million or more.
+
+Looking at revenue by segment. Government revenue accelerated in the fourth quarter, growing 85% year-over-year to $190 million. We signed several large deals in the quarter, including a three-year $44 million expansion with the US Food and Drug Administration and a two-year $31 million agreement with the NHS. In addition, we announced that the US Army executed its first option year with approximately $114 million as part of our partnership on the Army Vantage program. For the full year 2020, Government segment revenue grew 77% year-over-year to $610 million and represented roughly 56% of our total revenue.
+
+Fourth quarter Commercial segment revenue totaled $132 million, up 4% year-over-year, while full year Commercial segment revenue grew 22% year-over-year to $482 million, and we continue to see strong momentum in our US Commercial business heading into 2021. US Commercial revenue rose 107% year-over-year in fiscal 2020 aided by our ongoing investments in our account-based sales force and channel partnerships.
+
+In the fourth quarter, we signed several large deals, including a nine-figure renewal with BP, exemplifying our software's enduring impact and value even in the sector that has been fundamentally challenged as of late. Also in the fourth quarter, we signed 8 additional deals worth at least $10 million in our Commercial segment.
+
+I will next discuss our margins and expenses on an adjusted basis, which includes stock-based compensation. Fourth quarter adjusted gross margin was 84%, up 1,200 basis points versus the year ago period. And full year adjusted gross margin was 81%, up 1,000 basis points compared with full year 2019. The year-over-year improvement in gross margin was driven by increased automation and efficiency in the delivery of our software.
+
+Contribution margin was 62% in the fourth quarter, nearly double the contribution margin of 33% in the year ago quarter, which highlights the efficiencies we have generated in customer acquisition and contract execution.
+
+Turning to our operating expenses. Total fourth quarter adjusted operating expenses were $186 million, which includes approximately $19 million in employer payroll taxes related to stock-based compensation. Excluding these expenses, total fourth quarter adjusted operating expenses would have been $167 million.
+
+Fourth quarter operating income, excluding stock-based compensation and related employer payroll taxes was $104 million, representing an adjusted operating margin of 32%. The outperformance in adjusted operating income was primarily driven by higher-than-expected revenue in the quarter, continued efficiencies in our go-to-market and delivery and maintenance of our software as well as reductions in cloud hosting costs.
+
+Full year 2020 adjusted operating income, which excludes stock-based compensation, related employer payroll taxes and non-recurring expenses related to our direct listing was $190 million, representing a margin of 17%.
+
+As we noted last quarter, we have historically pursued multi-year upfront payments from our customers, which has led to significant growth in contract liabilities in prior periods such that billings and cash collections often exceeded revenue.
+
+Over the course of 2020, we have moved away from our practice of collecting multiple years of upfront payments, which has led to lower 2020 cash collections and a greater portion of our revenue coming from the recognition of such contract liabilities.
+
+We expect this to begin to normalize over the course of 2021 with cash collections and revenue moving more in parallel over time, which will drive positive cash flow from operations for the year.
+
+We measure revenue visibility across several metrics. First, we ended 2020 with total deal value across the business of $2.8 billion, while year-end dollar-weighted average contract duration was 3.6 years. This growth rate is particularly strong when considering government customers entered into shorter-than-usual contracts in 2020 to accelerate procurement as they responded to the COVID crisis and moved quickly on various modernization efforts across both defense and civilian agencies. We expect a tailwind for government as these customers renew and expand.
+
+Second, our remaining performance obligations as of December 31, 2020, was $597 million, up 124% year-over-year, while current RPO increased 114% year-over-year. Although RPO provides a limited view into our business, as many of our contracts across our Government and Commercial segments feature termination for convenience clauses, the growth in these metrics is representative of the ongoing momentum we are seeing in our business.
+
+Third, we look at annual contract value booked in a year on a dollar-weighted duration basis. In 2020, the dollar-weighted annualized contract value we closed increased 49% year-over-year, providing a strong foundation for fueling growth in 2021 and beyond across both our Commercial and Government segments.
+
+Looking at the business through the lens of our three-phase model, we ended the year with strong performance across all three cohorts. Our acquirer [ph] phase customers ended 2020 generating $77 million in revenue with 17% contribution margin, with nearly half of the revenue from these customers coming in the fourth quarter. This rapid scaling and expanding contribution margin demonstrates the increasing efficiency of our customer acquisition and onboarding process, which we believe will help fuel an expanding pipeline into 2021 and beyond.
+
+Expand phase customers continue to see increasing value in our software platforms, building consistent up-sell and cross-sell opportunities. These customers generated $360 million in revenue for the full year 2020 with a contribution margin of 47%. This represents over 100% year-over-year growth for this customer cohort, and this growth was extremely efficient as these customers generated a contribution margin of negative 43% in fiscal year 2019.
+
+Finally, our scale phase customers continue to demonstrate a strong combination of growth and profitability, as these customers generated $613 million in revenue and 70% contribution margin in 2020, representing 8% year-over-year growth and a 1,500 basis point expansion in contribution margin compared with the same customers in fiscal year 2019.
+
+In addition, for the full year 2020, we generated $42 million in revenue from new customers we acquired in year, of which $19 million was recognized in the fourth quarter. This compares with $4 million in the fourth quarter of fiscal year 2019 and represents 375% growth year-over-year.
+
+You heard from Karp about our long-term orientation. As we move into the future, we believe our investments will help us sustain elevated growth rates for the next five years and beyond as we pursue a broad range of opportunities across our Commercial and Government segments.
+
+For our five-year outlook, we expect greater than $4 billion in revenue in 2025. Starting in 2021, we expect greater than 30% annual revenue growth each year for the next five years. And in Q1 of this year, we expect revenue growth of 45% or $332 million at the midpoint, and we expect adjusted operating margin of 23% for the quarter.
+
+With that, I'll turn the call over to Rodney to open up Q&A.
+
+Questions And Answers
+A - Rodney Nelson{BIO 19419936 <GO>}
+Thanks, Dave. John, Dave and Kevin will join me for Q&A today, and we'll begin with some shareholder questions from say [ph]. And Shyam, I'll start with you on this first question. Palantir is guiding for double-digit percentage growth this year. Can Palantir sustain such a compound growth rate barring any unforeseen negative economic impacts? Or should investors expect choppy yearly growth numbers? Can you comment on the long-term expected growth rate?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+I'll build on what Karp said earlier in the call on long-term guidance. We are very much at the beginning here. We just did 45% growth in 2020. We expect to do -- I'm sorry, 47% growth in 2020. We expect to do 45% growth in Q1 of 2021. And we are only in 24 of the Global 300. But I think looking at that kind of misses the point around the TAM expansion that's currently happening. Look at the channel partnership with Fujitsu and IBM, amongst others, we're not just distributing to the top 300 or the top 1,000. But really, we have the ability now to distribute to the entire market, potentially tens of thousands of customers.
+
+And with our investments in the end-to-end, sensor-to-shooter workflows from space-to-mud, we're not just going after the roughly $60 billion of government IT spend anymore. We're talking about the $0.25 trillion of US DoD weapon system spend in 2020. And our product investments mean that we are uniquely positioned to seize those opportunities. Broadening the market is not about Palantir. Life is about Palantir automated. It's about the power of Apollo, it's about software that manages itself. Look at our Archetypes investments, like this means with a few clicks you can deploy end-to-end powerful use cases, use cases that would have cost millions of dollars and taken many months can now be deployed in minutes. It's about software-defined data integration and modularity. That means that you get 100% of the power of Palantir, but with the ease of self-managing software. And these are examples of why we're confident in our long-term growth of being greater than $4 billion in 2025.
+
+A - Rodney Nelson{BIO 19419936 <GO>}
+Great. So this next question is on Demo Day. I'll stick with you, Shyam. Can you please share how Demo Day was received by potential customers and whether Palantir experienced a surge of interest in its products, specifically on the commercial side of the business?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Yes, Demo Day was a hit with potential customers. We were very excited by the marked uptick in inbound inquiries, and these have led to some great generative conversations with prospective customers. Demo Day really helped customers understand if they have the problem that Palantir can solve, and it kept our growing sales force pretty busy.
+
+But it really underscores the tremendous opportunity in front of us and how much we are at the beginning. One of the reflections that I had about Demo Day is that we try to do an all-purpose Foundry demo. But the truth is that Foundry can solve so many, many problems. So we're going to be hosting another event in April, Demo Day Doubleclick, where we're going to spend more time on Foundry, focused on more use cases across more industries. So stay tuned for that formal announcement and registration details.
+
+A - Rodney Nelson{BIO 19419936 <GO>}
+Great. Kevin, I'll come to you on this next one. Will big company deals, such as the IBM announcement, become more common as Palantir's products become more apparent to the public? Also, is there any time frame or a chance for widely available but less technical, medium-sized businesses or consumer-level software?
+
+A - Kevin Kawasaki
+Thank you, Rodney. So yes, we're excited about this partnership as well. I'll start with the small and medium-sized businesses. In short, yes, Shyam just talked about how our TAM is expanding. We're automating the delivery of Foundry. This means you can have full end-to-end use cases with no code, just drag and drop.
+
+And the result of this is that we can deliver the full power of our products, the small, medium and, of course, large institutions. And I think important to note here is that the unit economics really allow for us to do this. 84% adjusted gross margin in Q4 last year, 62% contribution margin in Q4. So of course, partnerships, like IBM, adding salespeople to scale our distribution, just makes a lot of sense for us.
+
+A - Rodney Nelson{BIO 19419936 <GO>}
+Great. Shyam, I'll come back to you on this next one. It seems like the bulk of your channel partnerships are focused on the enterprise or the Commercial segment. Where are the near-term opportunities to broaden the channel on the Government side? Or will growth there need to be directly sourced?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+We are aggressively pursuing partnerships with large primes, but these partnerships are specifically focused on partnering with the divisions that build hardware platforms, the folks that build aircraft, submarines, land vehicles, space-based platforms, drones, ships and other weapon systems. And the focus of these partnerships is to explore putting Palantir's unique AI capabilities, capabilities that have already been proven in the field, and retrofitting them onto existing programs of record and baking them in from inception into future programs.
+
+And so this is going to manifest in something that looks like Palantir inside of every missile, inside of every drone, Palantir at the edge, inside of every sensor and every shooter. And we're approaching these partnerships in a unique way with the commercial item. So that means, of course, we get to leverage the commercial item preference 23 77 [ph]. But I think much more importantly, this creates a massive opportunity for the primes themselves to generate high-margin recurring software revenue businesses by partnering with us against their installed base.
+
+And in talking with them, it seems like one of the reasons that they're most excited about this is that they see this in the face of shrinking defense budgets as a way of driving their own multiple expansion and growing their market cap. This is massively TAM expanding for Palantir, as I mentioned earlier. This is us not just going after government IT spend. But actually, we're now entering into and able to address the roughly $0.25 trillion of DoD weapon system spend.
+
+And I think this represents a revolutionary opportunity for our joint customers in terms of capabilities that they can get.
+
+A - Rodney Nelson{BIO 19419936 <GO>}
+Great. Dave, I'll come to you on this next one. In terms of profitability, when does Palantir expect to achieve a level where it can repeatedly and continually achieve profitability? Does Palantir need to hit the targeted 6,000 Foundry clients along with other revenue sources from other platforms to become meaningfully profitable?
+
+A - David A. Glazer{BIO 21953140 <GO>}
+On profitability -- and Kevin just briefly touched on it, but I'd point you to our margins today. 84% adjusted gross margin in Q4, 81% for full year 2020, 62% contribution margin in Q4, 54% for full year 2020, 32% adjusted operating margin in Q4, 17% for the full year. We have proven the unit economics this year, and we did it in a year where we did 47% growth. And this is why we're going to continue investing in that growth. And it's just really, really like a massive opportunity ahead of us.
+
+A - Rodney Nelson{BIO 19419936 <GO>}
+Great. Shyam, I'll come back to you before we open the call for more Q&A. While the IBM announcement is great, their public cloud share is relatively small. Can you commit to expanding managed offerings to other cloud providers such as Microsoft Azure, AWS, Google Cloud, et cetera?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Let's start with Apollo because it's crucial technology. Apollo means that we can run our software efficiently anywhere, in your cloud, in my cloud and their cloud, in space, on a drone, on a Humvee. The customer of the future should not have to worry about this. It will run wherever you need it to seamlessly.
+
+It's also important to understand though that the vast majority of our new customers are taking advantage of the speed, security and reliability of our SaaS offering. And we have committed to spending over $1 billion on cloud providers, so we're operating these offerings at scale with the providers. I mean, just to give you a sense of that, it turns out, actually, there are limits to how elastic compute actually is. We got a call we never thought we'd get. One of the providers calling us to let us know that they were out of service [ph]. So of course, we're working with all these providers in all these places.
+
+But maybe more interestingly, to think about how do we think about these providers. To us, they're channels. Our offering is an end-to-end solution that: one, delivers a rapid amount of value to our customers; but two, it drives a massive amount of cloud consumption for these providers. And so we're going to continue focusing on working with the providers that generate the most growth for us, where we have a joint go-to market. So it's worth watching the space.
+
+A - Rodney Nelson{BIO 19419936 <GO>}
+Great. Operator, we'll turn it over to you for our next question.
+
+Operator
+Certainly. (Operator Instructions) Your first question comes from the line of Brent Thill from Jefferies. Your line is open.
+
+Q - Brent Thill{BIO 1556691 <GO>}
+Good morning. The $4 billion revenue target for '25, can you just walk through the assumptions that you're making to achieve that target? And what gives you the confidence to achieve this, this is obviously a pretty big target, and a few companies in the industry give this type of target. Maybe if you could just talk to that. Thank you.
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+You bet. Thanks, Brent. So just kind of starting off, reiterating some of the numbers that we gave here, 47% revenue growth last year, we expected 45% growth in Q1. What's driving this? And that gives us the confidence looking forward. So the product investments that we've made, along with direct sales force, now channel partnerships, really fuels the distribution. And you could see this in the data, 107% revenue growth in our US commercial market, 91% revenue growth in US government, both last year.
+
+Revenues from new accounts, as Dave mentioned, in Q4 grew 375%. Our acquirer phase customers were over 200% in the second half of 2020 alone. The expand phase customers were 100%. So that's showing a lot about the strength of our new account pipeline and how we land and expand. Our average revenue per customer grew 41% to $7.9 million. And I think we talked about this already, but probably worth reiterating, we did our 47% growth last year while increasing our margin, 84% adjusted gross margin, 62% contribution margin, up from 33% last year, so it's nearly doubling in one year.
+
+Operator
+Your next question comes from the line of Keith Weiss from Morgan Stanley. Your line is open.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. Thank you guys for taking the question and very nice quarter. I think it was probably a question for Dave. And just kind of helping us better understand on the income statement. On one side of the equation, can you help us better understand kind of some of the volatility we see in revenue growth? Commercial revenue growth slowed down a lot into Q4 versus Q3. It sounds like over the full year it did really well. So can you explain to us how we see that volatility? Because I think software investors are used to seeing a lot of recurring revenues and pretty smooth revenue trends there. So one, can you help us understand kind of that bouncing around the revenue growth?
+
+And two, on the OpEx side of the equation, OpEx for the quarter was down -- the adjusted OpEx was down almost 30% year-on-year. For the full year, it's down 20%. I know T&E is a big chunk of that, probably about half of it. But given like this huge opportunity, still very early days, you guys have such a lead in terms of technology, why is investment so low, right? Like why is OpEx down on a year-on-year basis versus really aggressively investing for this opportunity on a go-forward basis?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Well, I'll start with -- thanks, Keith. This is Shyam and jumping in on the OpEx one. Really, what you're seeing there is the payoff of our long-term investments in the product. So last year, Apollo delivered a massive step-change in terms of both cost of revenue and the efficiency around sales and marketing and how we acquire customers in our three-phase model. On top of that, with the software-defined data integration and the investment in Archetypes allowing us to capture business, shrinking the duration of pilot, shrinking the investment that was required, which drove down sales and marketing. And that reduced, of course, on the other end, the cost of revenue.
+
+And then the second component that you're seeing outside of product is the investment in the direct sales force, which, for us, has paradoxically, reduced the unit cost around sales and marketing. It's cheaper for us to acquire customers by building out the direct sales force. So you should expect to see, of course, a very significant investment in that going forward, but it's invested on a much more efficient base, and you'll see that spend go up here.
+
+Now in terms of commercial customers there, it was a big year for commercial customers, a lot of expansion. The right way to look at this from our perspective is the amount of growth that we had in US commercial, the place that we have invested significantly in our direct sales force here. And that resulted in 107% growth. And then when you look at the investments that we're making with channel partnerships, Fujitsu in Japan, IBM worldwide, distribution in 180 countries, adding as many folks and effectively a week to our sales force as we have employees at Palantir, we're feeling really good about what we should be expecting from commercial going forward.
+
+Operator
+Your next question comes from the line of Christopher Merwin from Goldman Sachs. Your line is open.
+
+Q - Christopher David Merwin{BIO 22119693 <GO>}
+Okay, thanks very much for taking my question. I wanted to ask about the modularization of Foundry. Obviously, it's a very powerful platform, and you're prepackaging these solutions, which it sounds like it can be sold much more easily that way. Can you talk a bit about how that might change the competitive set for you, if at all? Are you mainly focused on use cases that are generally not served by other horizontal SaaS vendors today? Thanks.
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Thanks, Chris. It's a great question. We're very much focused on modularizing Foundry in a way that creates a unique set of offerings underneath this. I've personally been talking with customers and prospective customers around these modules, and there's a huge amount of excitement from them around it. Because really, it allows them to leverage their existing investments, things that they've spent many years building that they're quite happy with, that are core components of their business, but it also allows them to accelerate their modernization journey by leveraging components that we offer that are completely unique. And we're going to continue to be focused on offering modules that we perceive as being unique, the market perceives as being unique and that allow us to meet the customers where they are.
+
+Operator
+Your final question comes from the line of Brad Zelnick from Credit Suisse. Your line is open.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Great. Thank you so much and congrats, really strong results, guys. I guess I wanted to ask more about the triple-digit growth in sales headcount that you mentioned. Can you just maybe remind us how much of demand in Q4 or perhaps in 2020 was captured explicitly by sales heads versus forward-deployed engineers? How does that progress? And how should we think about the hiring cadence and productivity ramp of these reps that you intend to hire?
+
+A - Shyam Sankar{BIO 17250476 <GO>}
+Yes. So I think, roughly, I think a good way of thinking about this is about half of incremental growth is now being driven by our investments in the direct sales force and channel partnerships. And we expect that to grow pretty substantially here. But the places where we've had the most growth, US government, US commercial, that's -- it's way more than half.
+
+In terms of productivity ramp, I think we'll be ready to comment on that in future periods. But what we're seeing is a marked compression and how long it's taking to ramp our reps and get them to be productive. And we're also seeing -- this is happening at a time where there's just a lot more demand in the market. There's a lot more inbound coming to us. So we're pretty excited about ramping the reps and ramping the hiring as quickly as possible to meet that demand.
+
+Operator
+That Concludes Q&A. And I would like to take this time to thank everybody for joining and you may now disconnect. Have a wonderful day, everybody.

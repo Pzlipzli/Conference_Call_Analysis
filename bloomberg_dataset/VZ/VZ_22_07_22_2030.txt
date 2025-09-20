@@ -1,0 +1,394 @@
+Q2 2022 Earnings Call
+Company Participants
+Brady Connor, Senior Vice President, Investor Relations
+Hans Vestberg, Chairman & Chief Executive Officer
+Matthew Ellis, Executive Vice President & Chief Financial Officer
+Other Participants
+Batya Levi, Analyst, UBS
+Brett Feldman, Analyst, Goldman Sachs
+Craig Moffett, Analyst, MoffettNathanson
+David Barden, Analyst, Bank of America
+Doug Mitchelson, Analyst, Credit Suisse
+Frank Louthan, Analyst, Raymond James
+Kannan Venkateshwar, Analyst, Barclays
+Michael Rollins, Analyst, Citigroup
+Phil Cusick, Analyst, JP Morgan
+Simon Flannery, Analyst, Morgan Stanley
+Presentation
+Operator
+Good morning, and welcome to the Verizon Second Quarter 2022 Earnings Conference Call. At this time, all participants have been placed in a listen-only mode and the floor will be opened for questions following the presentation. (Operator Instructions) Today's conference is being recorded. If you have any objections, you may disconnect at this time.
+
+It is now my pleasure to turn the call over to your host, Mr. Brady Connor, Senior Vice President, Investor Relations.
+
+Brady Connor{BIO 17932144 <GO>}
+Thanks, Brad. Good morning and welcome to our second quarter earnings conference call. This is Brady Connor. And I'm here with our Chairman and Chief Executive Officer, Hans Vestberg; and Matt Ellis, our Chief Financial Officer. As a reminder, our earnings release, financial and operating information and the presentation slides are available on our Investor Relations website. A replay and transcript of this call will also be made available on our website.
+
+Before we get started, I'd like to draw your attention to our safe harbor statement on Slide 2. Information in this presentation contains statements about expected future events and financial results that are forward-looking and subject to risks and uncertainties. Discussion of factors that may affect future results is contained in Verizon's filings with the SEC, which are available on our website.
+
+This presentation contains certain non-GAAP financial measures. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are included in the financial materials posted on our website.
+
+Now let's take a look at consolidated earnings for the second quarter. In the second quarter, we reported earnings of $1.24 per share on a GAAP basis. Reported second quarter earnings include a pretax loss from special items of approximately $435 million, including a net pretax charge of approximately $198 million related to a mark-to-market adjustment for our pension liabilities. In addition, the impact of amortization of intangible assets related to TracFone and other acquisitions was $237 million. Excluding the effects of these special items, adjusted earnings per share was $1.31 in the second quarter.
+
+With that, I'll now turn the call over to Hans to take us through a recap of the second quarter.
+
+Hans Vestberg{BIO 1930652 <GO>}
+Good morning, everyone, and thank you for joining us today. Our second quarter was not a good barometer of where Verizon has been or where it's going. While we are not satisfied with our performance, we know what the issues are and we are already executing to reaccelerate in the second half of the year.
+
+As I said in our first quarter earnings call and reiterated since, we're seeing weaker consumer wireless volumes. The inflationary environment is clearly impacting consumer behavior and we also saw intensified competition for consumer attention. The result was a significant impact on our gross adds. Based on our performance this quarter, an analysis of the landscape, we are updating our financial guidance by lowering our expectation for service and other revenue, adjusted EBITDA and adjusted earnings per share. Matt will provide more detail in a few minutes.
+
+As you know, we have already responded. Last week, we launched our Welcome Unlimited plan for consumer wireless that will meet the needs of budget-conscious consumers without providing device subsidies. In addition to these new plans, we took pricing actions in both of our business units to mitigate inflationary pressures.
+
+In consumer, we also adjusted prices for some legacy metered plans, increasing revenue per plan, while motivating step-ups or unlimited offerings. All of these actions position us for improved performance in the second half of 2022 and into 2023.
+
+More than ever, our leadership team is focused on executing our strategy through operational and customer-focused solutions. While I'm confident that we have the right strategy in place, we will continue to refine our approach as the consumer market evolves.
+
+Looking further into our business, we continue to see momentum that gives us confidence in our ability to improve performance over the long-term. In our consumer group, we have consistently pursued a disciplined strategy of offering high quality services at the competitive prices. We know the economic pressures that our customers are facing and are carefully bringing new offers to meet their needs. I'm personally working with the Consumer Group to define our disciplined approach to the market while working closely at how we operate and do business. This is reflected in the plans and promotions we introduced in May, June and July.
+
+Mix and match continues to drive premium plan adoption, with 78% of our consumer base on unlimited plans and 39% on premium unlimited. We have seen healthy step-ups for five consecutive quarters, which continues to drive ARPA growth and there is room for more. While consumer budgets are becoming strained, we continue to find ways of delivering new valuable services while recognizing that the handset subsidies we're seeing in our industry are not sustainable long-term. Our new Welcome Unlimited plan is a great example of this. We have tailored offers for the full range of consumer segment from premium to value across postpaid and prepaid to meet all consumer needs in these challenging market condition.
+
+In the prepaid value segment, our integration of TracFone is on schedule and provide us with another suite of offerings to bring consumers on to our network. Our Fixed Wireless Access solution continues to bring us new connections. Across consumer and business, we increased fixed wireless net adds by 32% over the first quarter, driven by a 50% increase from our Consumer Group.
+
+In our Business Group, we again delivered excellent wireless volumes with 430,000 net adds, including 227,000 postpaid phone net adds in the quarter. This marks our third consecutive quarter exceeding 200,000 wireless phone net adds. In the Global Enterprise market, businesses, government agencies, and other institutions continue to recognize the power of Verizon's network and the importance of digitalization.
+
+This week, we announced an over $400 million project with FBI to help the Bureau meets its global bandwidth demands. We will provide direct access to our development team and will advise our system enhancement like cloud computing, video and imaging transmission, and data applications.
+
+We also offer private 5G solutions to optimize complex organization. We recently partnered with Virginia International Terminals to build a private 5G network across its Seaport's campus. This network is scalable to replace WiFi with more secure connectivity. We're seeing new opportunities and increased demand for these network solutions from enterprises and other organization.
+
+Verizon is uniquely positioned to take advantage of the moment and provide the highest quality private networks to these customers. Private networks are the gateway to mobile edge compute, which can deliver game-changing customer outcomes, including revenue growth, new customer experience and cost savings.
+
+During the second quarter, we expanded our MEC ecosystem by bringing AWS Wavelength Zones to Nashville and Tampa and now reached 19 metro areas. This means that 75% of the U.S. population is now within 150 miles of Verizon's 5G Edge. In partnership with Truist, we supported the launch of the 10,000 square foot innovation and technology center in Charlotte, North Carolina.
+
+As a founding member of the Innovators in Residence program, we will help create a global hub for the development of 5G and MEC application in the financial service segment. This trend will continue to create growth opportunity for us across a range of industries as well new 5G private networks and in mobile edge compute.
+
+The momentum in Verizon Business is a fitting send-off of our Group CEO, Tami Erwin, who is ending her amazing 35-year career at Verizon. We promoted Sampath as the Verizon's Business CEO on July 1. Sampath brings over two decades of experience in digital networks, critical infrastructure protection and a deep understanding on how networks play a role in enterprise growth and global security. He has been part of the Verizon team for more than eight years and I know that he is the right leader to take Verizon Business forward.
+
+The power our networks gives us the flexibility to meet the needs of our customers across consumer and business. The continued and speed expansion of our network and capabilities creates agility and optionality within our larger strategy. We ended the quarter with 135 million POPs covered by C-Band and remain on track to reach at least 175 million POPs by the end of the year.
+
+With the early clearance that we announced in March, we're expanding service into an additional 30 markets and I have started deploying 100 megahertz of C-Band spectrum in many markets across the U.S., almost doubling the spectrum available for 5G. We are seeing the phenomenal performance we expected. Network usage is growing quickly, with C-Band uses up 233% since the end of the first quarter and millimeter wave traffic up 49% year-to-date. Where C-Band is deployed, it accounts for more than a third of our wireless traffic on average.
+
+Consumers are also equipped with the devices they need to use 5G. Currently 47% of our consumer base has a 5G phone and we expect that number to reach nearly 60% by year-end. Our already best wireless network continues to earn recognition for its performance and dependability. This month J.D. Power gave us the highest number of awards for network quality for the 29th time in a row and RootMetrics recognizes us for having the best overall network performance in the country for the 8th time in nine years.
+
+Turning to the second half of the year, we will continue to listen to our customers, and give them reasons to sign up, stay and upgrade with us. This month, we also added on top of our yearly business transformation, a multi-year program to enhance our efficiency measures and accelerate the cost benefit delivered. This will ensure that our balance sheet remains strong for the market ahead.
+
+We are on Verizon with a goal of growing our business and controlling costs. We will never shy away from investing a portion of our cost savings in our growth initiatives. We are confident in our ability to deliver both efficiency and growth while creating long-term value for our shareholders.
+
+Before I turn it over to Matt to give you more details on our results and our outlook for the second half of the year, I want to mention that we reached a tentative deal with our unions to extend our collective bargaining agreement. This extension will provide us with labor stability to focus on our customers and opportunities to grow our business over the next four years.
+
+By that, I hand it over to Matt.
+
+Matthew Ellis{BIO 17999186 <GO>}
+Thank you, Hans, and good morning, everyone. As Hans said, this was a challenging quarter and our results did not meet the expectations we have set for ourselves. We have implemented multiple actions to better position Verizon for the future. At the same time, we expect the market environment to continue to be very competitive for the remainder of 2022.
+
+Before discussing our expectations for the remainder of the year, let's walk through results from the second quarter, beginning with an overview of our postpaid mobility results on Slide 7. Our runway for mobility growth is predicated on driving our customer base, it's a higher value data plans and we continue to make good progress in the second quarter. Premium penetration within our consumer base increased to 39% at quarter end and 57% of new accounts in the quarter selected premium unlimited and step-ups within our existing base remained healthy. This activity helped drive a 2.4% year-over-year increase in consumer postpaid ARPA.
+
+Our recent administrative fee increase and economic adjustment charge began to show up on customers' bills in the last few days of the second quarter and we expect close to a full quarter's benefit to revenue and ARPU trends in the third quarter. While our metered price changes will be phased-in throughout the third quarter, which will provide an additional uplift.
+
+We reported postpaid phone net adds of 12,000 in the second quarter as strong business results more than offset softer consumer performance. Business delivered 227,000 postpaid phone net adds in the quarter. We continued to see strong demand across all lines of the Business Group as phone gross adds were up nearly 30% from the same period a year ago and we expect this strong performance to continue.
+
+On the consumer side, postpaid phone net losses were 215,000 in the quarter and stands for two main drivers. First, churn increased by 10 basis points compared to the same period last year. Higher involuntary churn contributed roughly half of the increase due to the expiration of state consumer protection policies unless stimulus funding. This was coupled with an 11% decline in phone gross adds from the prior year driven by the competitive offerings in the marketplace.
+
+As Hans indicated, we recently introduced a welcome plan in order to drive demand for more price-conscious consumers particularly as they make spending adjustments due to the effects of higher inflation. This new plan is well positioned to attract new customers, especially for those who bring their own device. It is our most basic unlimited offering with no device promotions or many of the other features available in mix and match unlimited plans.
+
+We reserve our most generous acquisition and retention offers for consumers willing to select their premium unlimited plans and we believe that opportunities exist to better serve these high-value customers. Upgrade activity remained elevated throughout the quarter, reflecting loyalty within our core customer base, while also serving to drive greater premium adoption. As a result, total postpaid phone activations across consumer and business were up 8% from the same period last year.
+
+Let's now discuss broadband performance on Slide 8. During the second quarter, we continued to scale and grow nationwide broadband opportunity with additional expansion of fixed wireless households and businesses covered. In addition, we expanded Fios availability to an additional 150,000 homes during the quarter and are on track to achieve our target of 550,000 incremental homes open for sale in 2022. Total broadband net adds were 268,000 in the quarter, an increase of 39,000 sequentially in what is traditionally a seasonally softer quarter.
+
+Fixed wireless momentum accelerated as we added 256,000 subscribers in the quarter up from 194,000 in 1Q. Fixed wireless net adds have increased every month throughout 2022 and we expect to continue that trend in the third quarter. We also added 36,000 Fios Internet net adds during the second quarter. While Fios Internet churn remains well below pre-pandemic levels, we are seeing softer gross adds due to lower than expected switching activity for moves and fewer new home purchases. We recently introduced Fios Mix & Match 3.0 that aligns our Fios and fixed wireless pricing and better positions us to grow joint account penetration.
+
+Now let's talk about the value market on Slide 9. Our integration of TracFone is on track and the team remains focused on enhancing the customer value proposition and delivering cost synergies through migrating off-net customers onto the Verizon network. Our TracFone brands had net prepaid losses of 227,000 at the end of second quarter and total Verizon prepaid net losses were 229,000. These results exclude a base adjustment of 402,000 related to a competitor's 3G shutdown.
+
+Our prepaid volumes were impacted by aggressive postpaid promotions. As we make progress on our TracFone integration initiatives, we will be better positioned to serve those customers wanted to migrate to postpaid offerings. Our business case had anticipated subscriber losses during the early phase of the integration period, which we expect to continue into the second half of the year. However, should customer preferences shift to the value market amid recessionary concerns, we would expect to see some benefits. Prepaid ARPU was $31.26 in the quarter, up modestly on a sequential basis and we expect it to remain stable going forward.
+
+Now let's move to the consolidated financial results on Slide 10. On a consolidated basis, total revenue was relatively flat year-over-year as wireless service revenue growth and higher wireless equipment revenue were offset primarily by wireline declines and the net impact of last year's M&A activity. Total wireless service revenue growth was 9.1%, primarily driven by our ownership of TracFone, further progress on our premium unlimited strategy and strong business volumes. Service and other revenue was down 3.9% in the quarter as the revenues lost from Verizon Media more than offset net incremental revenue from TracFone.
+
+Adjusted EBITDA was $11.9 billion for the quarter, down 2.6% year-over-year due to the divestiture of Verizon Media, higher device subsidies and promotional spending associated with the increased wireless activations, wireline revenue declines and inflationary cost pressures. Regarding inflation, we have seen the pressures within our cost structure most notably on labor costs, utilities and transportation and logistics expenses. We expect these pressures to accelerate in the second half of the year and have an impact on profitability and earnings.
+
+As Brady and Hans highlighted, adjusted EPS for the second quarter was $1.31, down 5.8% from the prior year. This primarily reflects the impact of our adjusted EBITDA results and higher D&A related to our C-Band rollout.
+
+Now let's take a look at our second quarter consumer financial results. Total consumer revenue for the quarter grew 9.1% year-over-year driven by the inclusion of TracFone, higher equipment revenue and core wireless service revenue growth. Wireless service revenue was up 10.5% year-over-year also driven by the inclusion of TracFone and postpaid ARPU growth.
+
+Total Fios revenue was flat versus the same period a year ago as Internet growth was offset by video and voice declines. Consumer EBITDA was $10.4 billion, down 0.3% compared to the same period last year. A higher contribution from TracFone was more than offset primarily by higher promotional activity. Consumer EBITDA margin was 40.5% in the quarter.
+
+Now let's take a close look at the business financial results on Slide 12. The business segment's wireless results remained strong in 2Q, while wireline service declines continued amid a softening economy and ongoing secular headwinds. Wireless service revenue growth of 3.0% was up from 2.1% last quarter. Small and medium Business continued its strong momentum accelerating growth for the second consecutive quarter, while Global Enterprise had its best performance since the first quarter of 2020. Business wireline declines were elevated this quarter, in part due to foreign currency and Federal USF, which together impacted growth by more than 300 basis points year-over-year. The secular pressures from technology migration continue to weigh on legacy voice and data services and we expect this trend to continue.
+
+Business EBITDA was $1.7 billion for the quarter, down 6.5% from the prior year. In addition to wireline revenue declines, we experienced elevated device subsidies related to the 15% year-over-year increase in wireless activations in the quarter. EBITDA margin was 22.9% in the second quarter.
+
+Moving on to Slide 13 and the cash flow summary. Cash flow from operating activities of the first half of 2022 totaled $17.7 billion compared with $20.4 billion in the prior year period. The reduction was primarily due to working capital impacts from higher device activations and increased inventory levels as part of our supply chain management in the current environment. Capital spending for the first half of the year totaled $10.5 billion, an increase of $1.8 billion compared to last year driven by C-Band spending of $2.8 billion. The net result of cash flow from operations and capital spending is free cash flow of $7.2 billion for the first half of the year.
+
+We exited the quarter with $130.6 billion of net unsecured debt, a sequential improvement of $5 billion resulting in a net unsecured debt to adjusted EBITDA ratio of 2.7 times. In a period of rising interest rates, our balance sheet is in a strong position with less than $2 billion of unsecured bonds maturing in the next 18 months.
+
+Lastly, let's move to an update on guidance for the remainder of the year. Based on our current expectations, we are updating our guidance for the year. We now expect wireless service revenue growth to be in the range of 8.5% to 9.5%, down from the prior 9% to 10% range. The pricing actions already implemented are expected to contribute approximately $1 billion in the second half of 2022. However, this benefit is expected to be offset by the accounting impact of promotional activity and the impact of lower net adds.
+
+As a result of the reduction in wireless service revenue expectations and anticipated ongoing wireline pressures, we now expect service and other revenue growth to be in the range of minus 1% to flat. We are lowering our adjusted EBITDA growth expectations for the full year to a range of minus 1.5% to flat versus our prior range of 2% to 3%. This revised outlook accounts at the higher levels of activations, driven by our promotional activity, inflation-driven costs that we discussed previously, the reduction in wireless service revenue and business wireline revenue headwinds.
+
+Our guidance assumes consumer EBITDA margin in 3Q to be similar to margin seen in the first half with typical seasonality in 4Q. Business EBITDA margins in the second half of 2022 are expected to be in line with those reported in the first half of the year. Finally, we are lowering our full year adjusted EPS guidance to a range of $5.10 to $5.25 versus the prior $5.40 to $5.55 range. This view reflects the reduction in adjusted EBITDA as well as incremental cash interest expense versus our expectations at the beginning of the year of about $300 million for the full year compared with the $150 million to $200 million we estimated last quarter due to updated market expectations for additional Fed fund rate increases. For CapEx, we are reiterating prior guidance of $16.5 billion to $17.5 billion for business as usual capital and $5 billion to $6 billion to C-Band related spending.
+
+In closing, we are confident in our strategy and believe that our assets position us well to generate long-term shareholder value.
+
+I will now turn the call back to Hans for concluding comments before we open up to questions. Thank you.
+
+Hans Vestberg{BIO 1930652 <GO>}
+Thank you, Matt. In summary, we view this quarter and second half challenges as short-term. We have a strong and resilient business model that is well suited to deliver favorable financial results even in uncertain economic times. In this environment, we remain disciplined and focused on delivering long-term shareholder value through improved revenue and profitability, with healthy cash generation that supports our network investments and dividend policy as well as a strong balance sheet.
+
+We also have the best team in the industry and I know they are ready to deliver. The actions we are taking in our Consumer Business create an opportunity to solidify consumer performance. Those actions include new postpaid plans and our continued integration of TracFone. Fixed Wireless Access for both consumer and business has proven to be a powerful connectivity solution. We expect our nationwide broadband presence and our fixed wireless' subscriber base to grow well into the future.
+
+We will continue to drive business wireless subscription and expand our MEC ecosystem. Taken together, and combined with our accelerated efficiency work, our actions during the quarter address our competitive challenges and we will continue to listen to our customers and thoughtfully respond in the marketplace. Our second quarter initiatives are designed to strengthen our network-as-a-service strategy, which uses the power of our network to drive results from our five vectors of growth.
+
+Thank you for all and we're ready to take your questions. Brady, back to you.
+
+Matthew Ellis{BIO 17999186 <GO>}
+Thanks, Hans. Brad, we're ready for questions.
+
+Questions And Answers
+Operator
+Thank you. We will now begin the question-and-answer session. (Operator Instructions) Your first question comes from Brett Feldman of Goldman Sachs. Please go ahead, sir.
+
+Q - Brett Feldman{BIO 3825792 <GO>}
+Thanks. And two questions if you don't mind. Yesterday, AT&T cited that they were seeing a delay in the collections of payments specifically from their consumer -- customer base. I was curious, have you seen any stretching out of DSOs or bad debt expense and really what's embedded in your outlook, especially if you're anticipating that the macro remains a bit tougher?
+
+And then the second question is you outlined some of the steps you've taken from a price plan standpoint to sort of better position your consumer wireless business. Is there anything else you think you need to do at this point or is it mostly execution driven? And all in, do you think the steps you've taken so far are sufficient to get back to positive consumer postpaid phone net adds in the third quarter or at some point in the second half of the year? Thank you.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Thank you, Brett, I can start with the second part, Brett. As you said, I mean we have taken several actions in the quarter, aggressive all the way from the new unlimited plan with Bring Your Own Device and no subsidy. And then of course we also have done our increases on the pricing actions we have taken. So, we have taken that. But we constantly now evaluate if we need to do something more, but we will be very conscious about discipline in the market, because I don't think that is sustainable long-term to continue with the subsidized model. So we will policy in and policy out [ph]. Of course, it's a holiday season, of course, that will be there. So we will work with that one, but clearly that was new.
+
+But remember also if you look at our value -- our premium segment, this is -- in the high-end, we're doing really well. We have high quality cost of customers. You see the step-ups continue. So what we are addressing right now is the metered and low-end unlimited which are more price conscious right now. And that's what we're addressing with it. So we are more surgical than just making any blanket decisions here. So that's very good.
+
+And on top of that we feel good about TracFone, of course. If the market would turn even worse, I mean we have TracFone and then we can play in all segments and meet all the demands from different customers. But clearly, we're staying extremely close with Matt. And I and Manon and her our team, we work weekly to see where the market is going, if we need to adjust. But we will always think about how is our financial discipline and how is preserved cash, because we always need to think two times before we bring in customers. We want high quality customers.
+
+Matt, maybe you can comment on the customer base.
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Yes, thanks, Hans, and thanks for the question, Brett. So, and actually building on your last comment there Hans about high-quality customers, Brett, that shows up in the payment patterns we are seeing. We haven't seen any noticeable change in the payment patterns from customers continues to be very good, very much in line with what we were seeing pre-COVID, in fact slightly better than that time period. And when you look at the quality of the business we're writing, the FICO scores in our DPP portfolio has never been higher. So at this point in time, we're continuing to see the type of strong payment patterns that you would expect from the high quality customer base that we have.
+
+Q - Brett Feldman{BIO 3825792 <GO>}
+Thank you.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Yeah, great. Thanks, Brett. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question is from Simon Flannery of Morgan Stanley. Your line is open sir.
+
+Q - Simon Flannery{BIO 1505834 <GO>}
+Great, thank you. Good morning. You noted a few times some of the pricing actions that you've recently taken both the price increases, but also the recent Unlimited Welcome offer at $30. Could you give us a little bit early reads in the marketplace, your ability for customers to digest these price increases maybe move to other plans as well as any incremental traffic that you're seeing from the new unlimited plans, are those customers taking that offer or is this really driving door swings to maybe trade up to one of the higher offers as well?
+
+And then secondly, last quarter you did talk about store traffic deteriorating at -- in the later part of the quarter around the war, et cetera. It would be great to get a sense of how store traffics trended through 2Q and into Q3? Is it pretty consistent with those levels you saw or has it deteriorated further? Thank you.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+On the prices, let me start and Matt will add in there. Of course, the pricing actions we took when -- with price increases and -- on the metered plan and adjustments that we will see coming into play in the second half of this year. So that we will of course expect some of it might be -- some consumers that are cost conscious that will do disconnect and that were calculating with. On the Welcome Unlimited, which is a segment -- a segmentation of the unlimited market, it's a little bit too early to say it's only been in the market for, I think, seven or eight days. It's a little bit early to say. We think we're addressing the markets, a part of the market where we had some outflows in the second quarter and we have taken that action aggressively with these plan. But clearly, we also see opportunities for having step-ups in that plan as well from our customers.
+
+Matt, anything more?
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+No, just one thing I'd add to Hans' response, Simon, certainly we expect to see significant benefit in the second half of the year from the actions we've taken. I mentioned that in my comments, it's probably about $1 billion of incremental revenue sequentially in the second half versus the first half. I would expect and we have assumed in our forward view that we'll see a small bubble in churn here in the third quarter as a result of customers as they get those price increases of major plans or whatever else, but apart from that we expect to see significant benefit from the actions we've taken.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+And maybe -- sorry, I didn't answer on the store traffic there, I realized that. So as we said, in the first quarter and through the second quarter, we had a little bit less of traffic in our stores in April and May, and latter part of March. We saw some pickup in June, but still a little bit below earlier trends. But that might be the market and how it's working right now. So -- but other than that nothing special.
+
+Q - Simon Flannery{BIO 1505834 <GO>}
+Great. Thanks a lot.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Yes. Thanks, Simon. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question is from Phil Cusick of JP Morgan. Your line is open.
+
+Q - Phil Cusick{BIO 5507514 <GO>}
+Hi, guys. First a follow-up if I can. And I don't mean this to sound disrespectful. But on one hand, you're raising prices of these, on the other hand, you're bringing in lower price, discounted offers, and I know you're offering loyalty credits to customers who call and complain about pricing. And it seems like you're out of the market. So do you think that your network is going to return to its dominance and you can sort of get through this period? Or do you think you need to really readdress your competitive position in order to maintain share? I'm sorry to return to something you've talked about a few times already, but I'm really having a hard time with it. Thank you.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Thank you, Phil. First of all, we feel really good about our network and the quality of the network. It's actually better than ever, and as you hear us talking as well. We are just in the midst of the C-Band rollout, which is extremely strong and the performance we see on it and we just are passing over 130 plus million POPs on it, and by year-end at least 175. So we're going to have many more customers getting the benefit of the C-Band. So now we feel good about our -- I mean, you saw the RootMetrics, you saw the both of the J.D. Power as well having us as the best network. So we don't feel that as a difference.
+
+What we're doing right now, I think that we have to be clear, very clear, Phil. We are segmenting the market. So where we now have the Welcome plan that's a segment of the unlimited and metered plan. On the high end, we have -- as Matt said, we're really good so to loyalty, we see step-ups exactly as we outlined in our plans. That's what we're seeing that continues and that's why we saw the ARPA increase in this quarter and we see continuous step-up.
+
+So I think, not only think, I'm confident our strategy is working, while just addressing a segment in these economical times. So I feel really good about our strategy and how we do it and we will continue to be very focused on cash flow and getting the right type of customers, because we believe high quality customers are important and that means loyalty, it means also a very good base to build on. So we feel good about the strategy. I understand your question, but I feel really good about it.
+
+Matt, anything else?
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Yeah, Hans, maybe the only thing I'd add-on is Phil one of the things we've done, during the current quarter, we mentioned last time that we've reached an agreement with some of the satellite companies to get early clearing of outside of the initial 46 C-Band markets. And in those markets, we're now turning on 60-megahertz, but a 100-megahertz at the C-Band. And the difference in the speeds that we're seeing with a 100 megahertz versus 60 megahertz is exactly in line with what we'd expect, but it tells us that we have a path to a very, very strong network performance. We really like what we're seeing on C-Band today. But when we get the full amount deployed, it's going to be an uptick even further. So we absolutely believe that a network-driven strategy will allow us to continue to perform very well.
+
+Q - Phil Cusick{BIO 5507514 <GO>}
+That's helpful. Thanks, guys.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Thanks, Phil. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question is from John Hodulik of UBS. Your line is open.
+
+Q - Batya Levi{BIO 1556227 <GO>}
+Hi. This is Batya for John. Can you talk a little bit about how you expect fixed wireless trends to trend from here? Is there an opportunity to expand maybe the addressable market as you build C-Band further? And maybe an update of what percent of that fixed wireless space is new to Verizon? Thank you.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Hey, great question. Now, first of all, we feel really good about our five vectors of growth. And in one of the vectors, of course we have national broadband. We -- this was exactly what we envisioned when we rolled out the Verizon Intelligent Edge Network in 2017, that we can have multiple opportunities to address the market. And fixed wireless actually is just humming for us. I mean 32% growth, 50% growth in the Consumer Group. This is all about us deploying the network.
+
+Of course, we have millimeter wave and we have 4G in the fixed wireless access, but the C-Band both gave a coverage and an enormous good performance as well. So as we rollout and hitting more households, we are just going to -- we can grow even faster. So our expectation (inaudible) is of course and we will continue to have that opportunity to grow right now from the base we have as we're opening most households. But remember from the opening household to (inaudible), et cetera, is a little bit time lag because the direct marketing and all of that is working through, but we feel really good about -- we feel also good about our Fios, even though it was little bit less net adds on Fios, because less movements, I guess in this environment, nothing strange. But really good performance on Fios when it comes to the network and our customer base and your churn.
+
+So all in all, the national broadband is playing really good for us and this was the strategy from beginning. I have high expectation, Matt has high expectation on this as well. Our teams are executing from the network to our commercials. Matt?
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Hey, Beth, just one maybe one data point for you on fixed wireless, about 30% of our FWA adds are what we would call new to Verizon, where we didn't have an existing relationship with them. So obviously we like the ability of taking an existing Verizon customer and adding a service. But when you bring a completely new customer on the platform that's pretty exciting as well. So hopefully that helps your question.
+
+Q - Batya Levi{BIO 1556227 <GO>}
+Great, thanks.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Thanks, Batya. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question is from David Barden of Bank of America. Your line is open.
+
+Q - David Barden{BIO 1506279 <GO>}
+Hey, guys, thanks for taking the question. I guess, my first one, Matt, we've shown out a couple of numbers, a $1 billion of topline, incremental benefit from pricing plans, maybe $300 million of incremental interest from presumably floating rate debt. We talked about some of the other numbers you talked about, we threw out some math around inflation and the impact it could have on the $20 billion of expenses that -- that's exposed to inflation. Kind of what's the inflation headwind dollar number that you're budgeting for? And then when we talked about this equipment and supply chain working capital headwind, what kind of dollar number are we talking about there?
+
+And then Hans, I think you mentioned in passing the CB agreement in principle that you signed I think last week. It seems like a potentially dangerous time with the inflation that we have around us right now to be kind of flocking into multi-year collective bargaining agreements. Could you talk about why this is happening and why you feel comfortable doing it now? Thanks.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Matt will start.
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Hey, Dave. So thank you for the question. So look, as you think about the guide at the EBITDA level as you say, there is about $1 billion of sequential uptick. But then the offsets to that, you've got the promotional spend that is certainly running at a higher level than we thought at the beginning of the year (Technical Difficulty) what we're seeing in the marketplace and we're making the assumption that we're going to see that type of level for the balance of the year that's baked in there.
+
+Of the reduction in EBITDA growth from the 2% to 3% down to the minus 1.5% to flat, 75 basis points to 100 basis points of that is coming from inflation and our assumption of that for the full year versus our original plans for the year.
+
+On the working capital side, you've got a couple of things playing in there. One is over the last couple of years, we've had some artificial working capital headwinds caused by COVID as volumes came down. Transaction volumes came down that gave us some lower DPP balances that was a favor to working capital. We now of course see volumes increasing again. And so you've got that revert into more normal levels. On top of which, moving to 36-month DPP will increase the amount of outstanding balances versus what we saw pre-COVID.
+
+So we'll work through a large chunk of that this year and I would expect to see less of a working capital headwind after this year, but that's certainly in the -- you'll see that in the free cash flow right now. We feel very good about the cash flow generation about the business going forward and what we'll achieve as we work through this current period.
+
+Hans, I'll hand over to you for the Union question.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Yeah, thank you. And maybe also comment on the supply chain because there's a lot of discussion around that. And I have to say that Verizon has done a great job on our supply chain around -- the whole supply chain is secured that. I mean you can see that in our rollout on our C-Band millimeter wave and everything else we're doing in the network that we're way ahead of our earlier plans and that's of course how we have secured our supply chain, I really want to say [ph].
+
+When it comes to the Union, I mean we have reached -- as I said in my remarks, we have reached a tentative agreement on the bargaining agreement with them and we have a great partnership with the Union. So we think this is an important one. You have to see that we secured workloads we have in the future and see that we continue to have a great working relationship with the Union. So that's why we have this tentative agreement.
+
+Q - David Barden{BIO 1506279 <GO>}
+Great.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Thanks, Dave. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question is from Michael Rollins of Citigroup. Your line is open.
+
+Q - Michael Rollins{BIO 1959059 <GO>}
+Thanks and good morning. You're discussing the strength of your Business Wireless segment and your competitors are also talking about stronger Business Wireless performance. I'm just curious if there is something larger afoot within this segment in terms of behavior and the way businesses are buying wireless? Related to that, is that possibly coming out of what was traditionally the consumer market. So is there some kind of shift that's also happening underneath the industry in terms of where sales are coming into?
+
+And then just one other, I'm just thinking about what you talked about in terms of the change in guidance for revenue and EBITDA for this year. And I'm curious how this informs the multi-year outlook that the company previously established in the relationship you're seeing longer-term between the performance of revenue and profitability?
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Thank you. On the Business Wireless, you have seen us now for several quarters having a really good run on it. Our conclusion and our confidence level is high that our mission critical networks is so important for our customers and that's why we see such a good tractions on it. I think it's normally there are probably some leakage in between consumer to small and medium, but it's also from small and medium or consumer to small and medium. So that I don't think is anything different than what I've seen before, but there's always some type of movements in between. So we feel really good about our Business Wireless and how they're performing and how our customers likes our network.
+
+On the second question, as I said also before, I mean, we think it's a short-term challenging times right now. Long-term, we are confident that this is a great market. We have a great assets and we can execute on our plans. So I'm -- whatever we have done the last five years here with the network, with our divestments and acquisitions, we have positioned ourselves for a really good long-term strategy in a market where mobility, broadband and cloud are the most important digital assets for consumers and businesses. I couldn't dream to have another position that we have today. So I'm confident about the long-term of our business.
+
+Matt, anything else?
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Yeah. Hans, maybe just a couple of things. Mike, so if you think back pre-COVID, Verizon Business Group had very strong performance. Obviously COVID was very disruptive to the business segment. You've seen the recovery in that adds over the past year now be very strong and you're seeing that show up in the service revenue growth up to 3% this quarter, up sequentially two quarters in a row now, and we do expect that to continue at a strong pace. And as Hans said, we're not going to comment on multi-year outlook at this point, but certainly feel like the actions that we are taking and have taken and will continue to work on put us on a path to EBITDA growth, as we go forward here. So look forward to obviously updating you on that as we get into next year.
+
+Q - Michael Rollins{BIO 1959059 <GO>}
+One just quick follow-up if I could. With going through the pandemic and kind of where we are today, there is a bigger work from home and hybrid working environment. Is that emboldening companies to kind of shift from what felt like for years they were trying to get out of like buying devices and services for their employees? And is that emboldening them to now, because of this different work environment actually buy wireless communications on behalf of their employees differently than maybe two or three years ago?
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Thanks. I think, I actually see both. I mean, we see -- we saw a trend over the year. So bringing on device from enterprises was actually in order to secure a more seamless experience for enterprise customers. We see more -- now customers actually going back and actually supplying the device to the customer. It's a little bit depending on what type of business we are into, I have to say, but we see a little bit of a trend going down the direction right now.
+
+Think about building private 5G networks, where you want everybody to have a seamless wireless -- 5G wireless experience inside an office and then going out on the street and having Verizon's commercial network. Then you need to deploy a handset that is actually coming from the company in order to manage it. So we see actually both (Technical Difficulty) accentuated trend at least as I can tell from taking the question on this level.
+
+On the other thing, I just want to give another data point as well. I mean remember I talked a lot about hands -- handles in the networks during COIVD. It was sometimes down 60% in New York City that people didn't move. We are back to the hands of -- that mean handovers that seems like people are moving equally much right now as they were doing pre-COVID. It's of course a different bucket. But on the high level when we look in the network, handovers are back to normal and actually even little bit more that can of course depend on that how much more equipment we have deployed in two years. But that's what we see.
+
+Q - Michael Rollins{BIO 1959059 <GO>}
+Thanks.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Thanks, Mike. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question comes from Craig Moffett of MoffettNathanson. Your line is open.
+
+Q - Craig Moffett{BIO 5987555 <GO>}
+Hi. Thank you. Hans, I wonder as we think about growth, maybe we revisit some of the comments you've made over the past couple of years about 5G. As the market has evolved, what is your latest thinking about the opportunity both for the industry and for Verizon, specifically as it relates to some of the new revenue opportunities that seems so promising, a couple of years back, like mobile edge compute and private networks and that sort of thing? Is there -- is it right that I think there is a broad sense among investors that sort of the bloom is off the rose a bit for those opportunities and they may not be as big and as attractive as we want would have hoped?
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Thank you, Craig. If you take the three different business models we deployed in the network for 5G, I mean Fixed Wireless Access, if I take that first, that definitely is happening all the way that everybody was questioning, if Fixed Wireless Access is something you can do. We feel really good about it. The capacity in the network is there. There is no problem. And as Matt said, we have deployed 60 megahertz of C-Band. We have in average 160 megahertz. So we have so much more to go. So that one is definitely happening.
+
+On the mobility, 5G mobility, yeah, short-term is little bit more challenging. I think that comes from both economical situation in the market. Long-term, I see the same as we have said before, the step-ups and going to higher plans is a great opportunity for us. And as you saw in this quarter, our ARPA went up, our high-end customers continue to do step-up. So both of those are happening and 47% of our customers has a 5G phone. And by year end, we would probably be near at least 60%. So I think those are happy.
+
+On the company mobile edge compute and IoT, we also have a really good trend on that. And it has pivot a little bit right now. And starting with private 5G networks and then it grows over to mobile edge compute, when you bring in the cloud experience in it. So you saw that during the quarter, we announced several private 5G networks. We see more and more customer feeling that that's a good replacement for them in order to have a secure high capacity network instead of having WiFi in many cases.
+
+And the reason why it's happening right now is now devices are coming out. And in the next couple of years, we're going to see so many more devices and not talking only about smart homes. So, I feel that it is same opportunity that we've talked about all the time. Given the economic environment, it might be always some changes to it. But long-term, I see no difference to it, and that's how we build the network and we are the world leader in mobile edge compute and private 5G networks. We feel that that's the sweet spot for us. We've been all the time in very early with other 5G use case as well and feel really good where we are. So I understand your question, Craig, but in general, I'm confident that this is a great opportunity for the market.
+
+Q - Craig Moffett{BIO 5987555 <GO>}
+Great, thank you.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Yeah. Thanks, Craig. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question is from Kannan Venkateshwar. Your line is open.
+
+Q - Kannan Venkateshwar{BIO 15351027 <GO>}
+Thank you. So maybe a couple. I mean, first, from a price increase perspective, when we look at what you've done, it's a bigger part of your base that's absorbing the price increase sent to AT&T. And despite that and the growth of wholesale cable revenues, the service revenue growth guidance is down and EBITDA growth is negative. So in terms of growth, you may need to lean on other levers, I guess, in order to grow margins beyond this year. So if you could just help us understand what those levers are? Especially if the macro environment starts getting weaker, I mean how do you keep your margins intact?
+
+And then secondly, there seems to be an enormous amount of handset inventory that you've built up over the last two or three quarters on your balance sheet. It would be great if you could help us understand what the objective there is and if we should expect some kind of a clearing events around the holidays for those (inaudible)? Thanks.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Yeah. Thank you, Kannan. First of all, when it comes to the margin, I mean there are many levers to run here, of course. One is of course continue to see that we have good opportunity to grow. And remember we have five vectors of growth and some of them might be more impacted if the economical environment is turning worse, but many of them actually are playing well in the hands in a market like that, like Fixed Wireless Access, like our value brand with TracFone and all of that. So again, I feel that we have opportunity to expand by having those performing if it's going to be tougher on some others.
+
+And then of course cost, I mean we always work with cost. And as Matt has outlined several times, we work with the cost efficiency programs constantly and now we're adding efficiency programs in -- or enhancing what we have in order to be prepared for tougher times and we are being able to invest in the market. So I think we have all the things that we should have and I am confident that we have a tool box that we are working with and the team is on it every day and we will continue to be on it. It is an environment that's a little bit complicated, I think for any company at the moment, but I just feel that we know what we're doing here. We are confident about our strategy, we are confident about our cash generation and we are confident that we will be financially disciplined through this time. Matt?
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Yeah, Hans, nothing really to add on the margin side. There are obviously a number of paths forward for us and we will -- we have high expectations that the results will produce. On the inventory part of your question, we took a decision that I think was obviously a smart way of approach in the market to say. There was more uncertainty around supply chain, both the availability of the physical item and also the supply chain's ability to deliver that item from factory to us in a predictable fashion. And so we built some cushion into our supply chain model and you see that in the inventory levels. There is certainly scope for us as we feel more comfortable about the predictability of the supply chain to return inventory levels closer to historical levels is what you account for the difference in rates and the price of the product. But certainly, absolutely, I would expect to see inventory levels have the opportunity to reduce.
+
+Q - Kannan Venkateshwar{BIO 15351027 <GO>}
+Thank you.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Thanks, Kannan. Brad, we're ready for the next question.
+
+Operator
+Thank you. The next question comes from Frank Louthan of Raymond James. Your line is open.
+
+Q - Frank Louthan{BIO 3218856 <GO>}
+Great, thank you. Can you talk to us a little bit about the business market with government and any changes you're seeing there? And then at what point can we expect to see the consumer subs get back to something approaching a more positive growth with your current promotion strategy? Is that something more out into next year? I mean, I understand the confidence in the network and so forth, but at some point, we'd like to see that kind of show up in the subs. What can -- where can we expect that to start to turn?
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Yeah. Thank you, Frank. Let me start with the business -- with the governmental business. And of course, in governmental business a little bit longer contracts. Of course, they come up for renovation now and then. I think what we see much more is a digitalization happen in that segment as well, equally much (inaudible) with enterprises and much more about us supplying the whole business models with digitalization and applications and support them with the ways of working. So (Technical Difficulty) good. And as we announced yesterday, one of them with one governmental agency definitely included that. So we see the government going the same ways as the enterprise market going with digitalization which includes applications, wireless technology, fiber technology in order to see that their employees and their services have the latest technologies. And that, I think, we are playing well into given the network we have and the confidence that everybody have in our networks. I think that's really what's happening.
+
+Matt, on the consumer side?
+
+A - Matthew Ellis{BIO 17999186 <GO>}
+Yes. So look, obviously, we -- the team continues to work through the competitive marketplace, as I mentioned earlier. I do expect to see a bubble in --- little bit of a bubble in churn in the third quarter here because of some customer reaction to the pricing actions we've taken. We would expect to compete effectively during the holiday season as we get into new device launches and the fourth quarter. So I would expect us to start to show up with obviously different numbers of that time of the year and then we'll continue to work to be as competitive on a disciplined fashion in the market as we need to be.
+
+Q - Frank Louthan{BIO 3218856 <GO>}
+Great, thank you.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Yeah. Thanks, Frank. Brad, we have time for one last question.
+
+Operator
+Thank you. Your final question will come from Doug Mitchelson of Credit Suisse. Your line is open, sir.
+
+Q - Doug Mitchelson
+Thanks so much. Hans, I think your commentary on handset subsidies is about as strong as we've heard from you. For your premium customers, do you believe then that streaming gives you a bunch better mileage for your promo dollar than handset subsidies or should we expect you to reconsider streaming subsidies as well? And I'm just thinking with your new plan on the more price-conscious consumer side, is it just price that's going to swing those customers over to Verizon or is other factors like value offering with bundled 5G home or streaming subsidies, something that might work just as well obviously the value customers have broadband and probably are streaming at home as well. Just curious how you think about evolving the price sensitive offering? Thanks.
+
+A - Hans Vestberg{BIO 1930652 <GO>}
+Thank you. First of all, on the different type of value services we have in the high-end or in the premium segment, if it's Disney Plus or others, we think that's very important still and we see our customer really liking it. And we have been in the forefront of this industry with these type of exclusive deals with the most prominent brands you can ever think about. We will continue to do that for our high-end customers and that has really turned out well for us and our partners.
+
+And in -- during the second half of this year as well as we announced at our Investor Day, we're also going to launch the Plus Play, which is a platform for digital subscription aggregation for our customers. You have seen basically, I wouldn't say everyone, because there's many in the market, but the majority of the important brands has signed up with us. So we will continue to leverage both sort of network-as-a-service but also distribution-as-a-service for our customers and for us in order to have the best return on investment.
+
+So we feel good about that. And as you see in the marketplace, I mean, digital subscription services is just popping up, direct-to-consumer all over the place, nowhere better to work with than working with Verizon that has the biggest direct-to-consumer distribution in the market. So we have a lot of inbounds, we are going to do it right. We're going to see that our customers and our shareholders are benefiting from it.
+
+When it comes to the question about subsidy and all of that and segmentation, and as clearly articulated, we tried to be surgical in our changes both on prices and on step-ups and all of that. And right now the team working diligently has been on the segment that is hitting low and unlimited and metered plan.
+
+We're going to see and have opportunities there to bundle in other things. We are already working with our Fixed Wireless Access offering for our customers that are wireless customers with good -- very good value proposition. So we will continue with that and see if there are other things we need to bundle in. But right now, we have I think a very strong positioning and we're taking aggressive actions in the quarter, some confidence that we will continue to see improvements here over time.
+
+Q - Doug Mitchelson
+Thank you.
+
+A - Brady Connor{BIO 17932144 <GO>}
+Yeah. Thanks, Doug. Brad, that's all the questions we have for today.
+
+Operator
+Ladies and gentlemen, this does conclude the conference call for today. Thank you for your participation and for using Verizon Conference Services. You may now disconnect.

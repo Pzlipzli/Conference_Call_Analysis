@@ -1,0 +1,8 @@
+**/__pycache__/
+discarded/
+daily_price_data/
+gemini_factor_match/
+return_labels/
+
+memo.txt
+*.pkl

@@ -1,0 +1,456 @@
+Q1 2023 Earnings Call
+Company Participants
+Dan Draper, Chief Executive Officer - S&P Dow Jones Indices
+Douglas L. Peterson, President and Chief Executive Officer
+Ewout Steenbergen, Chief Financial Officer
+Mark Grant, Senior Vice President, Investor Relations
+Saugata Saha, President - S&P Global Commodity Insights
+Unidentified Speaker
+Other Participants
+Alex Kramm, Analyst, UBS
+Andrew Steinerman, Analyst, J.P. Morgan
+Ashish Sabadra, Analyst, RBC Capital Markets
+Craig Huber, Analyst, Huber Research Partners
+George Tong, Analyst, Goldman Sachs
+Jeffrey Meuler, Analyst, Robert W. Baird
+Jeffrey Silber, Analyst, BMO Capital Markets
+Manav Patnaik, Analyst, Barclays
+Owen Lau, Analyst, Oppenheimer
+Russell Quelch, Analyst, Redburn
+Simon Clinch, Analyst, Atlantic Equities
+Stephanie Moore, Analyst, Jefferies
+Toni Kaplan, Analyst, Morgan Stanley
+Presentation
+Operator
+Good morning, and welcome to S&P Global's First Quarter 2023 Earnings Conference Call. I would like to inform you that this call is being recorded for broadcast. All participants are in a listen-only mode. We will open the conference to questions-and-answers after the presentation and instructions will follow at that time.
+
+To access the webcast and slides, go to investor.spglobal.com. (Operator Instructions).
+
+I would now like to introduce Mr. Mark Grant, Senior Vice President of Investor Relations for S&P Global. Sir, you may begin.
+
+Mark Grant{BIO 22724857 <GO>}
+Good morning, and thank you for joining today's S&P Global First Quarter 2023 Earnings Call. Presenting on today's call are Doug Peterson, President and Chief Executive Officer; and Ewout Steenbergen, Executive Vice President and Chief Financial Officer. For the Q&A portion of today's call, we will also be joined by Saugata Saha, President of S&P Global Commodity Insights; and Dan Draper, CEO of S&P Dow Jones Indices.
+
+We issued a press release with our results earlier today. In addition, we have posted a supplemental slide deck with additional information on our results and guidance. If you need a copy of the release and financial schedules or the supplemental deck that can be downloaded at investor.spglobal.com.
+
+The matters discussed in today's conference call may contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, including projections, estimates and descriptions of future events. Any such statements are based on current expectations and current economic conditions and are subject to risks and uncertainties that may cause actual results to differ materially from results anticipated in these forward-looking statements. Additional information concerning these risks and uncertainties can be found in our most recent Form 10-K filed with the U.S. Securities and Exchange Commission.
+
+In today's earnings release and during the conference call, we're providing non-GAAP adjusted financial information. This information is provided to enable investors to make meaningful comparisons of the Company's operating performance between periods and to view the Company's business from the same perspective as management. The earnings release contains financial measures calculated in accordance with GAAP, that corresponds to the non-GAAP measures we're providing and the earnings release and the supplemental deck contain reconciliations of such GAAP and non-GAAP measures.
+
+I would also like to call your attention to a specific European regulation. Any investor who has or expects to obtain ownership of 5% or more of S&P Global, should contact Investor Relations to better understand the potential impact of this legislation on the investor and the company.
+
+We are aware that we have some media representatives with us on the call. However, this call is intended for investors and we would ask that questions from the media be directed to our Media Relations team, whose contact information can be found in the press release.
+
+At this time, I would like to turn the call over to Doug Peterson. Doug?
+
+Douglas L. Peterson{BIO 6422127 <GO>}
+Thank you, Mark. As we look at this quarter's highlights, I want to remind you that the financial metrics we will be discussing today refer to the non-GAAP adjusted metrics for the current-period and for 2023 adjusted guidance and non-GAAP pro forma adjusted metrics in the year-ago period, unless explicitly called out as GAAP. We're pleased to report 3% revenue growth in the first quarter compared to pro forma results in the year-ago period. We continued to generate substantial synergies and manage our other expenses with discipline, as demonstrated by the 1% growth in total adjusted expenses in the first quarter.
+
+Our focus on top line growth and expense management resulted in an expansion of more than 100 basis points in the adjusted margin and a 9% year-over-year growth in adjusted EPS. In addition to our strong financial results, we also made progress on many of the strategic initiatives we laid out for you at Investor Day. We continue to prioritize innovation in our technology budgets and reached important milestones in our cloud migration. We also hosted a record breaking CERAWeek in the first quarter. And we also expanded our lead in AI with Kensho releasing two more commercially available products, built on our proprietary AI machine-learning platforms. We'll discuss these important highlights in more detail in a moment.
+
+One of the key messages from our Investor Day last December was the introduction of the five pillars that drive our strategy of Powering Global Markets. Beginning this quarter, we'll be discussing our results using that same framework. We use these pillars as a lens to inform our decisions on capital allocation and organic investments, that impact our people, our customers and the communities in which we live and work.
+
+First, I want to start with our customers, delivering value to our customers drives every decision we make at S&P Global. We constantly hear from our customers that they are focused on the same things we are. During the first quarter, in almost every customer conversation I had, we discussed energy transition and sustainability, as well as our products that serve private markets. We continued to see evidence of the value we create for our customers. We saw strong and stable retention rates in the first quarter with year-over-year improvements in Commodity Insights and several products in other divisions. As expected and previously discussed, retention rates and mobility have declined modestly as automotive inventory levels and volumes start to normalize.
+
+We also saw some modest lengthening of the sales cycle in certain parts of the business in the first quarter, as some enterprise customers particularly in financial services are understandably focused on margin protection and managing their own expenses. This is a continuation of what we saw in the back-half of last year. As I've met with customers over the last few months, including large automotive OEMs, retail company's asset managers, banks and others, the recurring theme is that, they want to do more with us. There is a large opportunity to raise awareness of the breadth of our product offerings and customers have been consistently impressed by the products we've introduced to them. That should ultimately improve customer value and our results.
+
+We also look to create quality-of-life improvements in those customer relationships and our CI teams have done an excellent job of helping customers migrate to enterprise contracts. That migration reduces contract complexity for our customers and enhances the overall customer experience in a meaningful way.
+
+Turning to our ratings customers, during the first quarter global build issuance in aggregate decreased 7% year-over-year. While we saw strong sequential improvement from issuance levels last quarter, the uncertainty in the banking sector that emerged in March muted the impact to build issuance for the whole quarter. Refinancing activity was strong in the first quarter, particularly in high-yield and bank loans. So opportunistic issuance remains muted. We're pleased to build issuance for investment grade increase in the first quarter. So, this was largely due to a few very large deals. We're also pleased with the strength we saw in CLOs in the first quarter. The decision we made last year to preserve capacity and maintain the strength of our analytical organization is already proving to be the right call, as our growth in CLOs was particularly strong.
+
+Next, I'd like to focus on our strategic priority to grow and innovate. So far this year, we've launched several new products. In an example of our product synergy, teams from Platts and IHS Markit work together to integrate the Platts forward curve into our real-time analytics platform, Energy Studio impact. We previewed this innovation at our Investor Day, which provides clients with the most comprehensive and valuable data and insights in the industry, while strengthening our customer value proposition and competitive differentiation. So far this year, we've also introduced new price assessments for Black Mass in Europe and Asia and for R-PET in India to improve transparency in pricing a battery raw materials and recycled plastics.
+
+We remain focused and disciplined in our M&A, completing the acquisitions of TruSight and ChartIQ within Market Intelligence and Market Scan within Mobility. These tuck-in acquisitions strengthen our current offerings, though we expect even this type of M&A activity to be rare for the rest of the year. As discussed at Investor Day, we're introducing our vitality revenue metric, which consists of revenue derived from new or substantially enhanced products. We're pleased that in the first quarter, vitality revenue constituted a 11% of total revenue, consistent with our goal of maintaining a vitality index at or above 10%. Much of this growth will be enabled by enhancements to our own data and technology capabilities. As we optimize our technology spend to accelerate the pace of innovation, we're thrilled with the progress made in the first quarter.
+
+As we disclosed in February, we announced a strategic partnership with Amazon AWS to collaborate in product development and joint go-to-market initiatives. That partnership allows us to further transition workloads to the cloud and decommission our own data centers. Three of which we closed just in the first quarter. Cross organization teams also worked diligently to complete two software systems integrations to ensure that the combined company is operating on unified platforms in the most efficient way possible. Initiatives like these allow us to put more resources behind revenue generating innovation as well, like the AI-powered products that Kensho has been developing for five years.
+
+There is excitement in the field of artificial intelligence and we are extending our leadership and focusing on innovation that will benefit our customers and increase the value of our products. With the commercial launch of two new products in the first quarter, there are five Kensho branded AI-powered product commercially available today on the S&P Global Marketplace. We're very excited about the developments in this field and we'll discuss our own launches in more detail in the coming months.
+
+Shifting now to how we lead and inspire our people, customers and communities. In the first quarter, we launched the ninth iteration of our people first initiative and made investments to expand resources for continuous learning, leadership development and upskilling through our central tech programs. These investments in our people help us attract, retain and develop incredibly talented people, which ultimately leads to better financial results for our shareholders too. We also continue to lead and inspire the industries we serve, as we power Global Markets. In the first quarter we published the inaugural look-forward report, which outlines the expectations of our economist, analysts, researchers and data experts. This report is a product of our Research Council at S&P Global, which was formed last year to help us look beyond the near-term and explore the trends that will shape our collective future.
+
+Lastly, as I mentioned earlier, we hosted CERAWeek in Houston, Texas in March. This conference brought together over 8,000 leaders in the energy industry who participated in over 650 events to help tackle global issues like energy security, energy transition and sustainability, as well as how to navigate the turbulent times in the commodity markets today.
+
+Now looking across the company, we're pleased with the strong execution of all our divisions this quarter. While we continue to see the impact of the issuance environment and our ratings division, we're also seeing signs of revenue stabilization, as we begin to lap the challenging issuance conditions that began during the first quarter of last year. We saw positive revenue growth in all of our other divisions in the first quarter and continue to balance expense management with strategic organic investments to make sure we're well positioned to accelerate our revenue growth over the next few years. Expenses can of course be seasonal. So we look at the margins on a trailing 12 month basis and we expect these figures to improve, as we progress through the year.
+
+As we look through the remainder of the year, I'd like to touch on some of the factors influencing our Company's performance. We continue to expect a mild recession this year, though the timing is more likely a few months later, relative to our initial expectations. We also expect to see volatility in various markets, including equities, credit and commodities. We see no change to the secular trends shaping the future opportunities for us, like the shift from active to passive asset management and energy transition. While these market expectations are mostly unchanged from February, we wanted to highlight the potential impact in the banking market. As we're all aware, the events around regional banks in the U.S. and a major Swiss Bank added uncertainty to the markets in March. We do not have material direct exposure to the impacted regional banks and we do not expect the events in that end market to materially increase the risk to our financial guidance in 2023 or to the medium term targets we laid out at Investor Day.
+
+We do see slightly elevated risk of default rates impacting the broader credit markets, particularly in high yield, which will also inform our updated issuance outlook. Our ratings financial results and guidance are closely tied to build issuance. And for 2023 we now expect build issuance to be up approximately 3% to 7% for the full year. Our latest Ratings Research Group forecast calls for a decline in global market issuance. As a reminder, market issuance can differ materially from build issuance as we described in recent quarters. With much of the delta this year driven by declines in unrated debt and sovereign in international public finance, which don't impact build issuance.
+
+And now I'd like to turn the call over to Ewout Steenbergen, who is going to provide additional insight into our financial performance and outlook. Ewout?
+
+Ewout Steenbergen{BIO 6462585 <GO>}
+Thank you, Doug. As a reminder, the financial metrics that we will be discussing today refer to non-GAAP adjusted metrics for the current period and for our 2023 adjusted guidance and non-GAAP pro forma adjusted metrics in the year-ago period, unless explicitly called out as GAAP. For the first quarter of 2023, adjusted earnings per share increased 9% year-over-year. This growth was driven by a combination of 3% revenue growth, 100 basis points of operating margin expansion and an 8% reduction in the fully-diluted share count. This is an excellent example of strong execution and prudent capital management, combining to create long-term shareholder value and we're pleased with the start to 2023.
+
+Revenue growth in the quarter was driven by growth in Market Intelligence and strong performance in Commodity Insights and Mobility. This was offset by a lower issuance environment compared to the first quarter of last year, though issuance improved sequentially from the fourth quarter. We will walk through the divisions in more detail in a moment. Adjusted expenses were up only 1% year-over-year, driven by cost synergies and other operational efficiencies. Adjusted operating profit increased 5% year-over-year, as margins expanded to 46.2%.
+
+I'm pleased to report a sustainability and energy transition revenue increase of 27% to $69 million in the quarter, driven by strong demand in sustainability products in MIs climate and physical risk products and CIs energy transition products. Private market solutions revenue remained at a $100 million level, as growth in products for Market Intelligence were offset by declines in ratings due to the timing of private market issuance. We still expect growth in private markets this year to be inline with the targets laid out at Investor Day.
+
+Vitality revenue which is the revenue generated by innovation for new or enhanced products from across the organization was $326 million in the first quarter, representing a 17% increase compared to prior year. Synergies are a key contributor to expense savings and margin expansion this quarter. In the first quarter of 2023, we recognized $131 million of expense savings due to cost synergies and our annualized run rate exiting the quarter was $552 million. And we continue to expect our year end run-rate to be approximately $600 million. We continue to make progress on our revenue synergies as well with $17 million in synergies achieved in the first quarter and an annualized run-rate of $52 million.
+
+Turning to strategic capital allocation, we remain committed to disciplined capital management, including investing for long-term growth and returning excess capital to shareholders. We executed a $500 million accelerated share repurchase program or ASR in the first quarter and we plan to launch a new $1 billion ASR in the coming weeks, leveraging the proceeds of the Engineering Solutions divestiture and cash on hand. We have been able to take advantage of market dislocations over the last year to repurchase shares at attractive prices, which allowed us to reduce our fully-diluted share count by 8% over the time period. Since the close of the merger last year, we have been able to repurchase more than 31% of the shares issued to complete the merger with IHS Markit. We continue to invest in organic growth as well and remain on track to invest $150 million in our 2023 strategic projects.
+
+Now let's turn to the division results, Market Intelligence revenue increased 5%, driven by strong growth in data and advisory solutions and credit and risk solutions and favorable commercial conditions overall. Desktop grew 3.5% in the first quarter, driven in part by strong demand for new content and capabilities, supported by the merger, though growth was tempered somewhat by a continuation of the modest softness in financial services that we called out last quarter. Renewal rates remained strong in the mid-to-high 90s.
+
+Data and advisory solutions and enterprise solutions both benefited from solid growth in subscription-based offerings. Credit and risk solutions benefited from strong new sales for ratings express and ratings direct products. Adjusted expenses were roughly flat year-over-year, as increases in compensation expense, cloud spend and T&E were offset by cost synergies and lower occupancy cost. Operating profit increased 16% and operating margin increased 300 basis points to 32%.
+
+Looking at the remainder of 2023, we know the comparisons will get easier as we progress through the year. And we continue to expect improvements in those products within enterprise solutions that depend on capital markets activity. We also expect revenue synergies to begin positively impacting results in the back-half of the year. We continue to recognize significant cost synergies as well and remain confident in our ability to deliver accelerating growth and full-year margin expansion in Market Intelligence. While we are not changing the formal guidance ranges for revenue or adjusted operating margin, we do see increased uncertainty in the markets and within the banking sector, specifically. As such, we may come in closer to the low-end of these ranges.
+
+Now turning to ratings, despite being down year-over-year, we're encouraged by the improvements we have seen in the issuance environment relative to last quarter. Revenue decreased 5% year-over-year, however, this is the second quarter in a row of sequential improvement in transaction revenue as investment-grade and high-yield showed pockets of strength in the quarter, particularly in January and February.
+
+Non-transaction revenue declined 4% and 2% on a constant-currency basis, primarily due to declines in initial Issuer Credit Rating and Rating Evaluation Service, partially offset by growth in CRISIL. Adjusted expenses decreased 3%, driven by lower occupancy costs and outside services expenses, partially offset by higher compensation expense. This resulted in a 6% decrease in operating profit and an 80 basis points decrease in operating margin to 58.3%.
+
+We raised our billed issuance assumption for 2023 and expect issuance to increase in the range of 3% to 7%, reflecting the stronger issuance trends in the first quarter. We expect to see an improvement in full year transaction revenues compared to our initial expectations, though we expect the upside to be offset by slightly lower contribution from non-transaction due to ICR and RES headwinds.
+
+And now turning to Commodity Insights, revenue growth accelerated to 9%, despite a very high comparison last year. Excluding the impact of the CERAWeek Conference, revenue growth for Commodity Insights would have been approximately 6% year-over-year. Growth was partially offset by the loss of revenue related to Russia, which contributed $11 million in the first quarter of 2022. Advisory and transactional surfaces increased 28% in the quarter, primarily due to CERAWeek, as we saw a record attendance coupled with strong sponsorship sales.
+
+Upstream Data & Insights declined approximately 1% year-over-year as subscription growth was offset by reduced one-time sales relative to last year. As we noted last quarter, we continue to expect low-single digit revenue growth in Upstream for the full year. Price assessments and Energy Resources Data & Insights, both grew 8% compared to prior year, driven by strong performance in crude oil products and continued commercial momentum.
+
+Adjusted expenses increased 3%, primarily due to higher event costs driven by conferences, T&E and compensation, partially offset by realization of cost synergies and lower consulting spend. Excluding the impact of CERAWeek, expense growth would have been only 1%. Operating profit for CI increased a very strong 17% and operating margin improved 310 basis points to 46.1%. We expect Commodity Insights to continue to benefit from strong demand and price assessments and other subscription offerings, as well as the continuation of secular trends around energy transition and sustainability. As we saw from the incredible growth at CERAWeek, there remains a remarkable opportunity to further our leadership in the energy sector and in commodities more broadly. And we will continue to invest to capture debt opportunity and drive multi-year profitable growth.
+
+In our mobility division revenue increased 10% year-over-year, driven by continued new business growth in CARFAX, strong recall activity and growth within Planning Solutions products. The Market Scan acquisition contributed approximately 1 point of revenue growth in the quarter and is recognized in the dealer category. Dealer revenue increased 10% year-over-year, driven by price increases and new-store growth, particularly in CARFAX for Life and used car subscription products. Manufacturing grew 11% year-over-year, driven by our planning products and recall activity.
+
+Financials and other also increased 11%, as the business line continues to benefit from strong underwriting volumes and a favorable pricing environment. Adjusted expenses increased 8% due to year-over-year increases in headcount, investment in software and additional cloud usage, partially offset by lower incentive compensation expense. This resulted in a 14% increase in adjusted operating profit and 130 basis points operating margin expansion year-over-year. As we expected, we've seen expense growth rates moderate from fourth quarter and we continue to expect margin expansion this year. We expect the Market Scan acquisition to contribute approximately 150 basis points of revenue growth in the full year, though we expect it to be modestly dilutive to adjusted margins in 2023. All of this is reflected in our updated guidance.
+
+Turning to S&P Dow Jones Indices, revenue increased 1%, primarily due to strong growth in exchange-traded derivative volumes, offset by declines in asset linked fees. Asset linked fees were down 6% primarily driven by lower AUM in ETFs, which decreased 4% from the year-ago period, as price depreciation more than offset slightly positive year-over-year net inflows.
+
+Exchange-traded derivatives revenue increased 30% on increased trading volumes across key contracts, including an approximately 59% increase in S&P 500 index options volume. Data and custom subscriptions was flat on the quarter, though excluding the impact of some minor reclassification of revenue as outlined on the slide, growth would have been 5% year-over-year, driven by strong demand for end of day and real-time data feeds. During the quarter, expenses decreased 7% year-over-year, driven by realization of cost synergies, lower bad debt expense and timing of discretionary spend, which was partially offset by continued strategic investments.
+
+Operating profit in indices increased 4% and operating margin improved 250 basis points to 71.8%. As reflected in today's results, indices will continue to face headwinds in asset linked fees, as the year-over-year depreciation and underlying asset prices impacts the division on a lagged basis. Exchange-traded derivative revenue was well above our earlier expectations, though these volumes can be volatile and difficult to predict. We continue to invest to achieve the 2025 and 2026 targets for 10% plus growth in indices. And we expect those investments, as well as the timing of certain expenses to drive margins for the full-year back within the guidance range.
+
+In Engineering Solutions, we saw 2% revenue growth and 4% adjusted expense growth. As noted in our materials, we now expect to close the divestiture of Engineering Solutions next week. We are updating our guidance to reflect the accelerated timeline relative to our initial expectation for June 30 flows [ph]. I've had the pleasure of overseeing the Engineering Solutions division since the merger closed, and I would like to thank them for the incredible dedication and professionalism the teams have consistently demonstrated. We're confident that there will be a strong addition to KKR and wish them all the best.
+
+Now let's move to the latest views from our economists, who are forecasting global GDP growth of 2.7% in 2023. While GDP growth is expected to be positive, our guidance still assumes a mild recession in the middle of the year and a modest recovery as we exit 2023. We continue to expect inflation above the target rates of central banks and energy prices like crude oil to remain above these historical averages as well. This creates favorable commercial conditions for many of our businesses, though it also contributes to volatility in the issuance environment, as we have been discussing over the last year.
+
+As we consider how all of this will ultimately impact our financial performance in 2023, let's turn to our guidance. Now that we have some certainty around the timing of the Engineering Solutions divestiture, we can introduce initial GAAP guidance. Adjusted guidance for the company reflects the first quarter results, as well as the updated view on the macroeconomic environment, issuance trends, equity valuations and other key drivers as previously outlined.
+
+Our full year guidance now assumes that strong revenue performance in the first quarter is offset by a lower revenue contribution from Engineering Solutions due to the accelerated timing of the divestiture. The only change to our consolidated full year adjusted guidance is in adjusted free cash flow, which has been reduced by approximately $100 million, primarily driven up by updated assumptions around cash taxes related to the R&D tax credits. We have provided granular guidance on corporate unallocated expense, deal-related amortization, interest income and tax rate in the supplemental deck posted to our IR site, though these are unchanged from prior guidance.
+
+The final slide in this deck illustrates our revenue and margin guidance by division, reflecting the drivers that I mentioned previously. In conclusion, despite the continued uncertainty in the macro-environment, we've had a solid start to 2023 and remain confident about the outlook for the rest of the year.
+
+Before we open up for Q&A, I want to reiterate how excited we are as a management team, when we consider the incredible opportunities we have to drive growth and innovation and the secular trends that continue to benefit our business. From key investment areas like energy transition and private markets to the inspiring breakthroughs that our Kensho team has driven in artificial intelligence and large language models. It's a privilege to discuss the many ways we plan to create long-term shareholder value in the coming years. It's also a privilege to share at this stage with leaders like Saugata Saha, President of Commodity Insights and Dan Draper, CEO of S&P Dow Jones Indices, both of whom we would like to invite to join us for Q&A.
+
+And with that, we'll turn the call back over to Mark for your questions.
+
+Questions And Answers
+Operator
+Our first question comes from Manav Patnaik with Barclays. Your line is open.
+
+Q - Manav Patnaik{BIO 6798456 <GO>}
+Good morning. Doug, upfront you mentioned retention rates in mobility were declining modestly. I was just hoping you could provides a little bit more color there perhaps with some numbers. But is that a trend you're seeing across your segments, just given the uncertain macro is out there?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Good morning, thank you, Manav, for joining the call. The Mobility question you have relates to some of the changes that are happening at a structural level in the mobility and transportation business. If you recall the last couple of years, we saw all of the used cars, became a very large sales aspect for the dealers and the automotive manufacturers, the OEMs were struggling to actually meet demand. So we're seeing a shift away from used cars to new cars. And we actually expect that there is going to be a lot of growth in the sales of automotive products around the globe this year. And we're seeing some of the slowdown in subscription relates to dealers, as dealers don't have necessarily, let's say, margin, it might be changing some of their approach to how they're working with the sales force they have. So we're seeing that's one of the areas where we see some disruption and some retention rates that have started to drop. Other than that across the Board in the rest of the company, we do not see any changes whatsoever to retention rates.
+
+Q - Manav Patnaik{BIO 6798456 <GO>}
+Got it. Thank you. And Ewout, just on the reading guidance policy that -- I think you said more transactional revenue, but offset by two items. I was just hoping you could elaborate what those offset through?
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Sure, Manav. Good morning. If you look at the dimensions with respect to market issuance and build issuance, actually, we're seeing exactly the opposite of the pattern of 2022. So there are two large categories in market issuance that are down more, that are not included in build issuance. So this is unrated debt, as well as frequent issuer. So frequent issuers, we don't have in build issuance, because as you know they're on the fixed-fee construction up to a certain level of volume. So therefore we expect build issuance to be significantly higher than market issuance for the full year 2023.
+
+Operator
+Thank you. Our next question comes from Ashish Sabadra with RBC Capital Markets. Your line is open.
+
+Q - Ashish Sabadra{BIO 18035675 <GO>}
+Thanks for taking my question. I just wanted to focus on the individual segment guidance. You raised the guidance for Commodity Insights, Mobility and Indices. I understand MI is more towards the lower end. But even on the ratings front it looks like the build issuance guidance was raised by almost a point, earlier it was 2.26 now it's 3.27. So -- but you reiterated the full year guidance, so I was just wondering within the full-year guidance, we have increased confidence towards -- on the range, any color on that front will be helpful. Thanks.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Yeah. Thank you. Good morning, Ashish. We are overall really confident around the outlook for the full year. We are very pleased of course, with the results in the first quarter and then also the confidence around what we are going to achieve for the full year. And you see that reflected in the overall guidance, that as you have noted is unchanged, but you have to realize that we're taking out two months of Engineering Solutions revenues and earnings. So if you could say implicitly, we slightly raised our full-year guidance. And then by division, as you were asking for, the changes are due to the following. If you look at Commodity Insights, that is driven really by the outperformance of revenue growth in the first quarter. If you look at Mobility, strong growth in the first quarter, but also the acquisition of Market Skin is helping therefore from a revenue perspective and Indices as well, what we're seeing there is also a very strong first quarter. And that is therefore also reflected in the full year revenue growth outlook.
+
+In terms of ratings, there is a shift that we have told you a little bit higher transactional revenue, but a little bit lower non-transactional revenue, so net-net still the same, but there is a shift in those two underlying categories. And then with respect to margins, Mobility has been tuned down a bit, that is the dilutive effect of the acquisition, but on the flip side for the Indices business, we see that the margins are actually up, given the strong performance in the first quarter again. With respect to Market Intelligence, we have said that it will come in more at the lower-end of the ranges both for revenues and margins and that has to do with the macro-environment, a bit of the uncertainty. The fact that we expect some of the capital markets products more to come back later in the year, because now we assume the recession is somewhere mid of this year, as well as some of the impact of the banking crisis, although we think that impact will be really minimal for Market Intelligence.
+
+Q - Ashish Sabadra{BIO 18035675 <GO>}
+That was very helpful color. And maybe as a follow-up, if I can follow-up on the mobility front, manufacturing in particular was very strong. Overall growth in mobility was very strong, but manufacturing historically it's been -- which has been more in the 3% to 4% range, was up 11% this quarter. So I was wondering has anything changed there structurally, which is driving significantly stronger growth in that segment? Thanks.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Yes, thank you, Ashish. What's driving growth in this segment, if you recall over the last couple of years, there was -- the supply chains have been disrupted, there were no access to different types of chips, which are used in the automotive sector, including even things like (inaudible). And you also saw a lot of disruption in demand from the market as a people are looking for cars, but they couldn't get them. So we're seeing that manufacturing is up, in fact, our total vehicle sales globally were seeing very strong sales coming up in the U.S. over about 7.5% growth, in China about 6% growth, in Asia including Japan, South Korea about 6.5% growth and in Europe about 7.5% growth. So across the Board, we see a lot of growth in production as well as coming from a very, very depressed base.
+
+And -- but at the same time to put some pressure because the demand is starting to decrease as well, given the inflation, given the interest rates are going up. So we see that right now there is a lot of demand for information from our Mobility team, because we provide the forecasting, we provide the information about the changes going on in the industry, as well as the day-to day dynamics. But we're shifting the dynamics from what had been a supply-constrained market to a richer approach to more supply in the market and shifts in customer demand. But all of this benefits our Mobility business because they provide the data and analytics that dealers and OEMs and suppliers need to make decisions.
+
+Q - Ashish Sabadra{BIO 18035675 <GO>}
+Thanks, Doug, that was very helpful color and congrats on such a strong momentum in the business. Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thank you.
+
+Operator
+George Tong with Goldman Sachs. Your line is open.
+
+Q - George Tong{BIO 16625706 <GO>}
+Hi. Thanks. Good morning. I wanted to focus on the rating side of the business. The revenues there declined mid-single-digits year-over-year and that came in much better than your main competitor which saw a 11% decline. What are some of the factors that you believe drove this outperformance in delta in the quarter and can these factors persist over the remainder of this year?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thank you, George. Well first of all, this was a very lumpy quarter. When you look at the issuance, it started out quite strong of issuance. Investment grade has started-off strong through the quarter, in the U.S., it declined 14%, in Europe it increased 3%, high yield increased in U.S. 20%, but it decreased in Europe 2% and structured finance in the U.S. decreased 48% and in Europe it increased 7%. So this was an incredibly lumpy quarter for us. But we've been very adamant about having our sales people and our commercial people out in the markets. We keep our finger to the pulse of what's happening across the markets. We've been involved in supplying information for the structured credit area in particular CLOs. We've been strong in the CLO market in the last quarter. We see going forward, we think that for the rest of the year, that it's going be mostly refinancing that's going to drive what we see as the issuance.
+
+If you take a step back and last quarter we issued a slide which we show once a year, which is the pipeline of refinancing which is on the balance sheet of companies, financial institutions and other organizations over the next five to 10 years. And you can see there was a lot of financing that took place over the last 10 years with typically five, seven sometimes up to 10-year maturity, that's starting to mature now. And we're starting to see some of that pull-forward. And the question is, what are the right conditions for people to come back to the market? And that's something we're watching very closely because there is a very, very large pipeline of refinancing that's going be coming over the next three to five years and we're going to watch that carefully, including what's going to be coming this year.
+
+Q - George Tong{BIO 16625706 <GO>}
+Got it. That's helpful. And then wanted to ask about your synergy realization, your realized run-rate synergies and the cost -- a little over $550 million and then $50 million plus on the revenue side. Can you dive into, where you're seeing most traction with revenue and cost synergy realization? And how you expect the progression to continue over the course of this year?
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Of course, George, thank you so much and good morning. We are of course very pleased with the progress we're making with synergies. This is really a statement of execution of the whole team, of the whole company and the speed of the implementation of all of our programs, it's really impressive from my perspective. So we are at $550 million run-rate cost synergies at this moment. These are cost synergies we are doing in all the categories that we have outlined before, there is of course organizational and duplication of roles, that were taken care of. Then there is real estate consolidation, vendor consolidation and several other categories. This is all linked to integration. So we like to get the integration behind us as quickly as possible and that we can fully operate as a combined company going forward. And we are very close to that point now and that is expressed by the progress we have made with cost synergies and getting really now not too far away anymore from the $600 million our cost synergy mark. And so this is all across the company. With respect to revenue synergies, we see very nice progress in the divisions, the largest growth there we see in Market Intelligence and Commodity Insights, but contributions by all of the decisions.
+
+We have always said from the beginning, that revenue synergies will take more time. At this moment the focus is mostly on cross-sell and then later this year in the next few years, we will shift to new product development, but obviously the lead time to develop new products into the system enhancements for that will take a bit longer, but both on cost and revenue synergies were very pleased where we are at this moment.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, George.
+
+Q - George Tong{BIO 16625706 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from Toni Kaplan with Morgan Stanley. Your line is open.
+
+Q - Toni Kaplan{BIO 17953994 <GO>}
+Thanks so much. I wanted to talk about ESG first, thanks for the quarterly disclosure. We have seen some slowdown in new sales from a competitor of yours, talking about the political and regulatory landscape. Have you also noticed any change in investor behavior in ESG, particularly in the new sales? Any areas that are slower versus more resilient because I know it's sort of a topic that spans your whole business. So maybe there are some areas that are doing fine and resilient versus others, that maybe you are noticing a new sales change. Thanks.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thank you, Toni, I'm going to start and then hand it over to Ewout. If you take a step back and you think about something like the ESG sustainability climate markets, they go back the last five, six, seven years. And if you look at our company, we have products that go back 50, 65, 100 years. And the experience of a market like this, it's really changing rapidly. And fortunately because of our sustainable one organization and the way that we've been investing in sustainability products, energy transition climate, ESG across our entire company and coordinating it through S1, we're seeing strength across pretty much the entire portfolio. And in particular, we've seen a shift away from ESG to climate in the U.S. around the rest of the globe.
+
+One of the things that I'd say is that the train has left the station on this. This is an area that's going to be growing very quickly. It's high demand, is coming from corporates, it's coming from governments from regulators, from financial institutions, every part of the financial institution area. And we have products from true cost, our ESG data suite. We've got bond referencing prices, physical risk. We're in the middle of what I'd say is one of the most important dialogue is taking place with regulators around the globe about disclosure.
+
+But let me hand it over to Ewout to talk a little bit more about the numbers.
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Toni, when we look at the first quarter revenues for sustainability and energy transition, we actually think that this is really strong for the company. And we are still confident that for the full year outlook, the growth will be in line with our medium-term expectations. And the reason for that is, as Doug outlined, that we have very diverse revenue streams underneath sustainability and energy transition. And all of our decisions contribute to the progress into the growth. So think about, for example, in Mobility, what is happening, the huge transformation of the industry around electrification, (inaudible). What that means for the OEMs with respect to thinking about supply change and new manufacturing and where they sourced the batteries. What is happening in the commodity space with energy transition. What is happening with new price assessments around hydrogen and carbon and biofuels and recycled plastics. What is happening in the rating space with second-party opinions. And then Doug already mentioned climate, really there is so much focus now about climate, climate analytics, climate credit analytics, climate data. Just to give you one data point, true [ph] cost actually grew more than 50% in the quarter.
+
+So overall, if we added-up, I think we have very strong revenue streams and therefore we are confident about our future growth in this industry and this particular growth area.
+
+Q - Toni Kaplan{BIO 17953994 <GO>}
+Perfect. And hoping you could on another topic just give us an update on how you're utilizing AI or any of your other advancements in technology, whether it be through Kensho or other areas as well?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Toni, the way how we look at it is, we really believe we're ahead of the game here. We did the acquisition of Kensho five years ago when just very few people were thinking about artificial intelligence. We have already embedded a lot of Kensho's products and tools within our businesses, over the last few years. And our intention is really to stay ahead and to really make sure that we continue to implement this and be one of the winners in this market. We told you this morning, we have now five Kensho products that are in the markets that just for external customers. But internally, there are many more products and actually the efficiency opportunities that have Kensho -- as Kensho has created (Technical Difficulty) is very large.
+
+Maybe if I may expand on this in one particular area. If you think about a large language models and generative AI, actually three areas are really critical: it is compute, which is really expensive; then there are the algorithms, which are more open-source and generic; and then it is about training data and training data is really differentiating, and if you have a really good training data you can improve the algorithms and you can drive down the compute cost. We have at S&P Global the largest training datasets for financial markets, plus the best team of Kensho that we already outlined. So we have no need to export our data to someone else models or generic large language models, we can do this in house. And you may expect that we will have more announcements around this later this year.
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Thank you, Toni.
+
+Q - Toni Kaplan{BIO 17953994 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from Alex Kramm with UBS. Your line is open.
+
+Q - Alex Kramm{BIO 6910027 <GO>}
+Yeah. Hey. Hello, everyone. Just wanted to come back to the Market Intelligence commentary and the outlook there. Clearly, you saw little bit more cautious. Although, Doug, I think initially you said it should be fine, but I think Ewout's comments are clearly pointing towards the low-end. So I guess the question is, what specifically is it that makes you think lower-end, I mean, is it just an expectation of a slowdown or is it actually something that you're already seeing in new sales? Were just curious about if this is more an expectation or something you're already seeing in the pipeline, I guess is -- because obviously an uncertain environment. And then specifically, you mentioned the Swiss bank merger, which obviously is something I'm paying attention to as well. Just wondering, you said, it wouldn't have an impact, but is it a question about maybe this year of an impact, because it may take some time or is it just the exposures are very small? Just maybe you can dimensionalize that a little bit since it is the first time we've had something like this in like 15 years?
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Yeah. Alex, good morning. This is Ewout, I will start and then hand it over to Doug. Generally we are confident about the outlook of Market Intelligence for the remainder of the year due to a couple of reasons. The first is growth of the subscription book of business, we see some healthy growth. Then we have good revenue synergies that will come in over the next period of time. We all expecting in capital markets recovery at the end of the year, so that should help enterprise solutions. And then also the comps will become easier, and FX headwinds will become easier during the course of this year. So those are the elements that will help us to remain confident with the outlook.
+
+With respect to the specifics of the banking impact, we think this is overall manageable and not material for Market Intelligence. And the reason for that is the following. Market Intelligence actually has a very diverse customer base. Only 10% of the customer revenue is coming from commercial banks and these are global commercial banks, so not specifically, U.S. or Europe. And so that's actually a relatively low percentage. And then we have multi-year subscription contracts with those customers. And we have tuned it down in the guidance range to the lower-end of the range, given the uncertainty, given the fact that we are still expecting a shallow and short recession in the mid of this year and we want to be cautious. But overall, that's why we still believe we should be able to come in within the range for Market Intelligence for the full year.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Alex, what I wanted to add is that, I've been on the road almost non-stop this year and seeing clients and it's been an incredible, the kind of feedback we are getting about the value that the Market Intelligence team is bringing with the data that's getting built into different platforms. And what Ewout just highlighted that Market Intelligence customer-base is very diversified, we don't just have a financial institution, client base and within financial institutions were not just focused on only one single segment. So I've had really interesting conversations with corporates, about the data that we have in Market Intelligence, while we can provide in Investor Relations, core data, which is used by different traders by supply chain. We have a new product, which is a supply-chain console that corporates are finding incredibly useful for them to understand what would be their needs for managing shipping supply-chain risk, et cetera. So I'm really encouraged by what we're seeing, the client dialog, it's what I wanted to highlight.
+
+Q - Alex Kramm{BIO 6910027 <GO>}
+All right. Thanks for that. And then just very quick one on the ratings side and I asked your primary competitors also, but maybe you have a different view, which is really what's going to happen with lending by regional banks, right. I mean, I know they are more focused on middle markets and that's not really where you play. But if we make the assumptions that these companies are going to be more constrained because of regulation or capital requirements. Is there an opportunity for you or are you thinking about an opportunity that could lead to more disintermediation? Did you actually have a role as that's remaining lending in the U.S., may more go to capital markets or is it just too small for you and it will go to other channels like private credit, for example?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Yeah, thanks for that, Alex. Well, first of all, we have much, much lower exposure to that sector than some of the other competitors in our space. We do watch it very closely, because it does help with some of the understanding, some of the credit dynamics in the country overall. We do see in the U.S. that there could be some slowdown in credit and that's one of the reasons that we've been cautious about our own economic forecast for the rest of the year. You heard as Ewout said, we expect that there would be a mild recession or mild slowdown as we see a dip in the second and third quarter. So we think part of that could be caused by the slowdown in credit. But overall, we have very low exposure to this area and it's likely that some of the areas that we see that the credit will get picked-up by the private markets or securitization and some of those we might actually benefit from some of the activity on those.
+
+Q - Alex Kramm{BIO 6910027 <GO>}
+Okay. Thank you very much.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Alex.
+
+Operator
+Thank you. Our next question comes from Craig Huber with Huber Research Partners. Your line is open.
+
+Q - Craig Huber{BIO 2001527 <GO>}
+Great. Thank you. Can you touch on, if you would, your outlook for bank loan issuance this year and high-yield issuance, just given the huge uncertainties and on the macro side, please?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Craig. Well, let me give you a broader sense of issuance and just reconcile a little bit what we talked about earlier on the call. As you know, we have our credit research team issued a report on what they see is the full forecast for the year. And right now they are expecting a range across all of the different areas would be down about 3.5%. And then we said that, we think at -- what the range of build issuance will be up about 3% to 7%.
+
+We don't break it out between what would be leveraged loans and high-yield, those are part of that. But in the first quarter, high-yield issuance was up about 6% of build issuance and bank loans is down about 33%. In many cases, those are substitutes for each other, sometimes you can see somebody could say, well, am I going to issue of floating-rate or fixed-rate? What are the market conditions, may go to the private markets, which have been quite quick, they're fast, but they also have some cases higher spreads on them, as well as maybe more covenants. But we think that there is going to be a very dynamic market. Overall, I think you should focus on the 3% to 7% build issuance up and look at the different components of where we see that's happening. Just as in FYI [ph] in our credit research teams forecast, they see that corporates will be up about 8.5% for the year. So think of that as kind of an anchor. And also remember what I said earlier to one of the earlier questions about the amount of refinancing that is already taking place. Maybe the last point I'd make is that, we see this in this market, that these conditions with some uncertainty about rates and inflation, et cetera. Issuance is very, very opportunistic. You can see a flood of issuance over a week or two weeks and then sometimes markets are pulling back.
+
+For instance, the last couple of weeks have been very encouraging. But we said the same thing about the first two months of the year. So we watch this closely, we're forecasting, but go back to what the long-term issue is. M&A is going to come back, rates will eventually stabilize, conditions will be positive for people to invest and grow. We have these massive programs in the U.S. that are just starting to get launched for an infrastructure bill for the (inaudible), for the IRA, the capital it's going to be going into energy transition. All of that is going to attract investment, it's going to attract an M&A, it's going to attract debt investment. This isn't just going to be done using capital from the government. There is going to be public-private partnership, public-private capital going into these areas. And I just see a huge amount of capital that's going to be deployed here. We're going to see the same thing in Europe, same thing in Asia. So I just believe that this energy transition, what we're going to see with the CHIPS Act, et cetera, is going to create a lot of investment globally and we should be benefiting from all of that over the long-run.
+
+Q - Craig Huber{BIO 2001527 <GO>}
+Thanks for that. My other question please, Mobility. I'm obviously had a very strong start to the year, solid outlook for the rest of the year. Can you just touch upon any of the businesses within that division? Do you think will help drive it for the rest of the year? And any significant changes from the trends you saw in the first quarter you think might go better or worse as the year goes on? Is this sub-business? Thank you.
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Good morning, Craig. We're actually really looking positively for all the underlying revenue drivers within Mobility. First, when you look at dealers, you'll see a little bit two effects going in opposite directions, as Doug explained earlier. So maybe their margins are coming down a bit, inventory levels are going up. So therefore retention is a little bit lower. But on the flip side is that, there is more demand for sales and marketing products, because they need to be more proactively reaching out to potential customers in the future. So that is actually driving the growth in the dealership.
+
+Moreover, I think CARFAX is super entrepreneurial, really innovative launching a lot of new products and that is helping with the growth there as well. Manufacturing, the same thing, also there they're exposed to more needs to really reach out to customers through our marketing and sales products. So that is going to be helpful there as well. Plus all the changes that are happening with the transformation to e-fees and our planning products they are helping our OEM customers. And then our data is flowing to insurance companies, to banks and other loan entities that needs the data for the pricing of their products. So that we expect that to continue to grow as well at healthy levels, during the course of this year. So overall, I would say, positive momentum for Mobility and I have no reason to believe that would not continue in the future.
+
+Q - Craig Huber{BIO 2001527 <GO>}
+Great. Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Craig.
+
+Operator
+Thank you. Our next question comes from Jeff Silber with BMO Capital Markets. Your line is open.
+
+Q - Jeffrey Silber{BIO 1557464 <GO>}
+Thanks so much. I know its late. I'll just ask one. Nobody has asked about the pricing environment and I know it varies by the different segments, if you can just give us some general comments in terms of the ability to pass-through pricing? We'd appreciate it.
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Absolutely, Jeff. So the way we look at this is, most of our products are must have products for our customers. We are deeply embedded in their workflows, in their day-to-day activities. Therefore we had a lot of value to our customers and that should give us an opportunity to pass-on any cost price increases as a result of the inflationary environment in terms of pricing and fees. But obviously, we're doing that in a very responsible way. We're doing that in a very balanced way, that will come in gradually over time at the moments of contract renewals. But overall we think that is reasonable to pass-on cost price increases to customers. And therefore, we still expect to expand margins in this current environment.
+
+I'm looking at maybe one of my colleagues, Dan or Saugata, if you would like to give any particular color for your businesses.
+
+A - Dan Draper{BIO 15226384 <GO>}
+Yeah. Hi, Jeff, it's Dan. Thank you very much for the question. Look, I think to echo Ewout's comments, that we align pricing with the value we create for our customers. And if you look at something specifically for Indices, I mean, this is massive for secular growth trends, which from active to passive management. That's something that we want to be aligned with our clients and ensure that again we're representing the value and really working closely. And I think if you look at the outcome, we estimate over the last 26 years from our three core indices, the S&P 500, S&P 400 and S&P 600, that we saved investors over 400 -- a $1 billion in management fees. So that's benefiting directly, has favors retirees, people saving for a college education and things like that. So I think pricing is a strategic tool that we look through and really use again to align growth in interest with clients.
+
+Q - Jeffrey Silber{BIO 1557464 <GO>}
+Alright. Thanks so much for the color.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Jeff.
+
+Operator
+Thank you. Our next question comes from Owen Lau with Oppenheimer. Your line is open.
+
+Q - Owen Lau{BIO 19334081 <GO>}
+Good morning, and thank you for taking my question. So going back to Kensho, Doug and Ewout, you mentioned five products are commercially available. Could you please talk about the early traction there and your expectation about these products? Who are your major clients? Would that be banks or you can expand to other vertical? And also please remind us the revenue model is it mainly subscription-based model? Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Owen. I will give you a more broader perspective and then hand it over to Saugata, for some specific Kensho implementations in Commodity Insights. So overall, Kensho, for the last few years has been very much focused on product development, speed-to-market, new product design, new design of a delivery customer experience within S&P Global. But slowly is now also turning more externally again, because many of those products that have been developed are also attractive for external customers. Overall, if you look at the value that is generated, it's both value internally and externally. In terms of external customers, we have no more than 50 external customers in areas like asset managers, large banks, hedge funds, and corporates. And this is all the products that we have highlighted before Link, NERD, Scribe, Extract and Classify. So many good products, but let me hand it over to Saugata to give you more details about Commodity Insights.
+
+A - Saugata Saha{BIO 19120088 <GO>}
+Thanks, (inaudible) and Owen, thanks for the question. I describe the work that we do with Kensho and more broadly the concept of AI across Commodity Insights as a foundational piece of everything that we're doing that future looking and growth driving. So Kensho, for example, build a tool that we use in our -- what we call the price assessment process, specifically the market on close process, wherein we kind of at the end of the day pull together everything we've heard during the closing out of the trading markets, to understand what's the outlook for price. And Kensho build its tools that compressed the workflow time by about 70%, that frees up time for our researchers, for our price reporters to do other productive thing for our customers and also helps us get information out to the market faster. In addition, AI is a broader team, we do a lot of work and then I draw your attention to some of our newer products like Energy Studio impact, which is essentially $6 million North America wealth, of which about $1 million we do real-time live forecasts. And you can imagine that something like that involves more than a trillion rows of data. And computing that without leveraging AI machine-learning models and we have about 4,200 of them in that one product alone, would be nearly impossible. And that's just one example, where we are using, just I would say, two examples where we are using Kensho and machine-learning and artificial intelligence concepts more broadly to develop and demonstrate additional customer value.
+
+Q - Owen Lau{BIO 19334081 <GO>}
+Got it. That's very helpful. Thanks a lot. And then on Indices, on the expense, I think it was slower than our expectation, but the margin was higher. Was it mainly driven by lower com, because your revenue line is lower? And also could you please give us an update on your key -- maybe market and also your investment or expense assumption for the rest of this year on Indices? Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Yeah. Hi, Owen. Thanks again for the question. I think in terms of the performance as Ewout had mentioned, we had the difficult comps, but also the asset prices and our asset linked if you think back, you kind of build that in arrears, that -- it has come -- quarter was coming-off of market highs, at the end of 2021, so comparing that. And also there was some seasonality and products like the S&P 500, you do see the liquidity benefits of that product. I really think inflows late in the year and that can come out in early through the year on that. We saw the outperformance was in exchange-traded derivatives. Obviously, we've seen a very fast increase in nominal interest rates and that's really caused some dislocation in the way that risk premium across asset classes. And so that's obviously increased volatility.
+
+So we're still well-positioned in this ecosystem we built. What we discussed back in Investor Day in December, being able to align and provide price discovery, liquidity, and in crucially for the exchange-traded derivative market, being able to manage risks. And so what we're seeing is a combination of secular growth trends there, extended trading hours, sorting down to intraday or even single day types of access to deliver its products. But there is also cyclicality. We do know that over time volatility will particularly normalize, potentially may revert to some degree. So in terms of our outlook, we want to make sure that we manage that appropriately.
+
+So if you think about the margin, just kind of looking for the rest of the year, we do like exchange-traded derivatives, they do have a higher gross margin than our asset-linked, but we do expect that mix to change. We do expect hopefully the flows to change that, so it's going to be reflected in the revenue mix. We have -- also we had some one-time expenses, that were non-recurring. And we also had some lapping incentive comp expense reductions last year. But what we really want to do ultimately is to reinvest back in the business. And I think that reflects again the way we're thinking about the margin for the rest of the year and really leaning into again the secular growth trends we have.
+
+Q - Owen Lau{BIO 19334081 <GO>}
+Okay. Sounds great. Thanks a lot.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Owen.
+
+Operator
+Thank you. Our next question comes from Andrew Steinerman with J.P. Morgan. Your line is open.
+
+Q - Andrew Steinerman{BIO 1527643 <GO>}
+Hi, Ewout. I know this is a small item, but it will help our model. Could you just give us what the total acquired, that's the M&A revenues were in the first quarter? I definitely heard you call out the one point of M&A revenues in Mobility from Market Scan. But as you know, there has been some other kind of tuck-ins already completed. And if you could also on the same basis with the acquisitions already completed, could you give us what the M&A revenue assumption is for the '23 guide?
+
+A - Ewout Steenbergen{BIO 6462585 <GO>}
+Andrew, we said that for Market Scan, during the quarter the impact is around one point, so it's around $3 million to $4 million. It's overall immaterial for the company as a whole, as you understand. The other two sites in ChartIQ really are immaterial for Market Intelligence. So from a modeling perspective, I wouldn't put any number into your model. But then I would like to point out, that the revenues and earnings will lose in our models and our plan for the full-year by divesting Engineering Solutions two months earlier. It's actually net-net going to reduce the overall impact on our plan. So the net of divestiture of Engineering Solutions and the new acquisitions is actually a negative. Hence my comments earlier, during this call, that implicitly we're raising the guidance for the full-year by holding the range the same for the company, as a whole.
+
+Q - Andrew Steinerman{BIO 1527643 <GO>}
+Right. But you do account for all the M&A, right?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Yes. Yes, that's correct.
+
+Q - Andrew Steinerman{BIO 1527643 <GO>}
+Okay. Thank you very much.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Andrew.
+
+Operator
+Thank you. Our next question comes from Jeff Mueller with Baird. Your line is open.
+
+Q - Jeffrey Meuler{BIO 17474921 <GO>}
+Yeah. Thanks. Doug, good to hear from you. But I will try to continue to incorporate some of those other voices. Within Indices, maybe if you could talk about, I guess, like your vitality or what new products are really resonating or you think have the highest potential?
+
+A - Dan Draper{BIO 15226384 <GO>}
+Yeah. Hi, Jeff. Thanks for the question. In terms of the vitality, we think about sustainability with a theme. I think Doug and Ewout, both kind of emphasized, that's a huge opportunity for us, particularly as we expand to other regions in Europe, Asia, that's always top-of-mind for us. I'd also say factors thematics. And specifically if you think about the need for income globally. So for us having the leading dividend -- equity dividend franchise, our aristocrats, we're seeing a lot of demand there. If you think about in developed markets, our aging population, the need for retirement income. But hey now there is inflation, so all of a sudden I need to protect capital and standards of living. So that's where the combination of using say our S&P 500 equity franchise to supplement fixed income. That's clearly a big synergy from the IHS Markit and specifically our iBoxx franchise.
+
+So what we're seeing now is combining like around the world and of that dividend franchise, we have with credit and being able to offer in our multi-asset solutions. And particularly markets like Japan, one of our largest asset management clients just launched the first multi-asset ETF in that marketplace. So again really bringing synergy capabilities, but I think income leaning into that. Also in sustainability, looking to combine really the partnership within S&P Global, even Saugata's business and Commodity Insights, we've been able to use unique proprietary datasets around the electric vehicles. I think Ewout had mentioned, we came out in partnership again with Commodity Insights with our GSCI franchise to come out with an Electric Vehicles Metal Index. Again the other datasets with true costs and sustainability. I think this is really as we go back to that 2025, 2026 outlook, we gave in Investor Day, this is really looking through increasingly these proprietary datasets being part of S&P Global to really look at some of these megatrends around the world.
+
+Q - Jeffrey Meuler{BIO 17474921 <GO>}
+Thank you. And then on Commodity Insights, there was a comment about an opportunity to further sector leadership. Maybe just a high level comment like how is CERAWeek difference with IHS (inaudible) being part of S&P now? And then should we look to the event as a meaningful cross-selling catalyst, if you can just talk about the pipeline build coming out of the event? Thank you.
+
+A - Unidentified Speaker
+And Jeff, thanks for the question. So just as a reminder, the CERAWeek is the marquee energy event that we hold and it's increasingly broadly more than energy event that the hold in Houston in March every year. It is the premier, as you pointed out, it is a premier venue for thought leadership for commodities and everything, future looking for the commodities business. This year we had over 8,000 attendees there, a lot of (inaudible) important policy makers across the world. And I'd say if you think about CERAWeek, we obviously want to grow the franchise in a meaningful way, that is accretive to the overall business and the business plan that we have laid out.
+
+We do get a lot of -- it's not a venue where we sell, it's not designed to be a venue where we sell, but it is a venue where we showcase our thought leadership, showcase our talent and showcase all of the great work that we're doing and kind of driving answers to some of the most complicated questions out there. And the four teams that came out this year, which also helps us shape the research that we do, because we have this audience where we connect with the community that we've built, where we connect with them and that helps us guide research, that we want to do, products that we want to do.
+
+And I'd say the four things that we took away and that's going to help us shape our own strategy. Number one is energy transition is here to stay, it's not going away. Number two, energy transition is complicated because customers are trying to balance energy transition, energy security and energy affordability. Third, I'd say customers are albeit they're looking for solutions to complex problems, which only data and analytics of the source that we can provide can help them solve. And before that, I'd say, we walked away with targeted opportunities that we want to work on and build opportunities to serve clients.
+
+So I'd say in summary, Jeff, it's less about the cross-sell opportunity, but more about the sense of community we've built, the direct revenues that we generate. And of course, what we showcase and what we walk away from the conference in terms of the knowledge that we built and how to shape our business.
+
+And the last thing I would add that, of course, CERAWeek, because our marquee event, but we also have other leading events like the World Petrochemical Conference, there is nothing else like the thought for the petrochemicals business or the London Energy Forum or the newly-acquired, (inaudible) conference, which we call (inaudible) and all of them in combination with especially the merger helps us interact with customers in a way that would not otherwise be possible.
+
+Q - Jeffrey Meuler{BIO 17474921 <GO>}
+Got it. Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Jeff.
+
+Operator
+Thank you. Our next question comes from Russell with Redburn. Your line is open.
+
+Q - Russell Quelch{BIO 20619884 <GO>}
+Yeah. Good morning. Thanks for having me on. Following-up from the previous question actually the (inaudible) and I haven't seen any new products in the fixed-income benchmark index based from S&P yet, post the acquisition of IHS. I did hit, Dan's comments earlier. But could you be more specific about the time-to-market for new fixed income index product leveraging the brand and S&P (inaudible) still the corporate side particularly? Do you have sort of aspirations to challenge (inaudible) in that market? Any sort of further comments you can give there? And I guess, so the question being, how much does new product growth drives the 10% medium-term target in the index business, please?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Hi, Russell. Thanks. Thanks for the question. Yeah, no, we actually have hit. I think probably one of the most notable products in Europe was our Paris-Aligned Climate Transition launch in fixed income. And so that aligns with already what we've done in equity. So that was something we got to market and now -- there is now demand as we call it pact [ph] the Indices, to do those in other parts of the world and other kind of regional exposures, whether it'd be emerging markets, global, what have you. So that was really important product, an index that we got to market.
+
+As I mentioned as well, multi-asset is really, really important for us to align again the iBoxx range, for example, investment grade, high-yield. But to put that more intentionally alongside our leading equity franchises. So being able to do that on a channel basis, particularly areas like insurance, you think about the annuity space being able to go specifically there, our multi-asset demand it's also a channel historically that's had a lot of active management. So this bigger trend of shifting from active to passive, we are a leader in that space, but it's early days. Can we expand kind of our first-mover advantage to again bring the iBoxx capabilities. And again, we've already launched products, I mentioned in Japan on multi-asset. We have a development moving forward, really across the globe. But I'd say, insurance is interesting, a retirement, I had mentioned as well. Another area that -- in some areas historically have been very actively oriented, again combining fixed income with equity. It's where we want to be able to move forward as a competitive player [ph].
+
+A - Unidentified Speaker
+And then looking at one part and that is with respect to the last part of the question around the total contribution of new products to the top line growth of the company. We said at Investor Day, as you might recall, about 80 basis points of contribution to overall growth for the company from the new initiatives. And obviously, our focus is to continue to see that developing further in the future. Therefore, vitality is such an important metrics for us, because it is an indicator of a healthy innovation within S&P Global. But I just would like to point out that products will rotate-off from the vitality index after three to five years. Because at some point, there are not the new product anymore and it will become business as usual. But the last piece of information I want to give, in terms of the health of innovation around vitality is, we have seen double-digit vitality levels within our businesses this quarter for Market Intelligence, for Mobility, from Commodity Insights and from Indices. So very positive all across the Board.
+
+Q - Russell Quelch{BIO 20619884 <GO>}
+Great stuff. Thanks guys. And maybe just as a follow-up, I heard all the comments around investment in synergies typically done -- comments around investments. So just wondering if you can speak to the seasonality you expect in the cost line in 2023, it's not likely to be the same as the historical average of slightly different to previous years? Thanks.
+
+A - Unidentified Speaker
+Russell, there is two kinds of investments in new initiatives. There is investments in our strategic programs, our strategic investment program of $150 million. You should assume that comes in gradually over time, so no particular seasonality. And then we're making investments what we called cost to achieve which are related to revenue synergies and realization of revenue synergies. And those will come in also over time. Those are pulled out from a performance perspective. So those, you won't see in the actual performance results to non-GAAP results, that we're only reporting now and in the future.
+
+Q - Russell Quelch{BIO 20619884 <GO>}
+That's it. Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Russell.
+
+Operator
+Thank you. Our next question comes from Simon Clinch with Atlantic Equity. Your line is open.
+
+Q - Simon Clinch{BIO 21926331 <GO>}
+Hi, Doug. Hi, Ewout. Thanks for taking my question. I wanted to ask a question really about the competitive environment and just your comments about lengthening sales cycles and the stresses that are faced in the financial services customers. I was wondering, are you seeing any sort of competitive response there? Would you expect to see any responses on pricing from the industry overall? And how would you expect to start on, if that were to happen?
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thank you, Simon, this is Doug. Well, first of all, as you know, we've always been in a competitive environment and we also respect our competitors very, very much. This is an environment where for us, it's up to bringing the most relevant, the newest, the fastest, the highest quality information being responsive as you've heard us talk about Kensho, artificial intelligence, machine learning. All of these types of things allow us to bring information and data and analytics and benchmarks for customers even faster. So it's a very competitive environment. This also puts us on -- keeps us on our toes. It makes us better because we have to always respond to the demands of the markets as well as ensuring that we are faster and ahead of all of our competitors.
+
+Q - Simon Clinch{BIO 21926331 <GO>}
+Okay, thanks. And just as a follow-up, when we think about the revenue synergies and revenue synergies target. I was just wondering in terms of -- should we expect there to be any sort of cyclical puts and takes to those targets over time? If we were to endure a prolonged downturn, does that impact the -- I guess, the timing of the recognition of those revenue synergies and maybe just some flavor around that would be useful. Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+We have said, revenue synergies, Simon, are coming in over a period of three to five years, about 45% cross-sell, which is more the first two years and then 55% coming from new products, which is more year three to five. So you should this actually see that ramping-up over the next period, during the course of this year. And you saw actually quite a nice jump from the fourth quarter to the first quarter and we're now at $52 million run-rate level. But you see that going up in quite a nice way over the next couple of quarters. But obviously, revenue synergies take more time to accomplish compared to cost synergies.
+
+Q - Simon Clinch{BIO 21926331 <GO>}
+All right. Thanks.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thanks, Simon.
+
+Operator
+Thank you. Our final question will come from Stephanie Moore with Jefferies. Your line is open.
+
+Q - Stephanie Moore{BIO 20085996 <GO>}
+Hi, good morning. Thank you. Maybe taking a high-level view of just this year in your expectations embedded in your guidance. I think you called out that it does call for a bit of improvement or somewhat of a macro recovery in the back half. Just trying to think of the levers or opportunities you have to pull, say maybe the macro ends up being a bit weaker. Did you talk about some of those levers as well some of the counter-cyclicality of your business in the various segments? That would be helpful. Thank you.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Yes. Thanks, Stephanie. Our expectation now in terms of assumptions for the years to following, obviously, strong performance in the first quarter as you have seen, then more a short and shallow recession in second quarter, third quarter. Obviously, we're still very careful what to expect for the year, that there is not some unexpected volatility happening in the market. So we are actually running a very tight ship, very careful from expenses and investments headcounts, very careful. But then we are ready to invest, because the most important is that we are investing in future growth.
+
+And hopefully we will see somewhere at the end of the third quarter and the fourth quarter, really market is coming back in a very strong way and we are ready to take advantage of that. In terms of downturn levers that we have, it's the usual list that we have always been outlining. And you know that we are on top of our game and we will pull those levers if needed, but already today, as you have seen the cost controls are really very strong and the cost growth is really low, certainly also if you take it into account of that last year we had actually flat expenses and now only really minimal expense growth in the first quarter. But the downturn levers are the usual one around variable spend, discretionary spend, hiring, investment spend in other areas. So we are ready to take action if that's needed. But hopefully, we are more in a position that we can invest in future growth, because that's the real fun part and the part how we really can deliver shareholder value from a medium- and long-term perspective.
+
+Q - Stephanie Moore{BIO 20085996 <GO>}
+Great. Thank you so much. Appreciate the color.
+
+A - Douglas L. Peterson{BIO 6422127 <GO>}
+Thank you, Stephanie. I'd like to make a quick closing remark and I want to thank everybody for being on the call today and your excellent questions. I just want to thank Dan and Saugata for joining us in the room. A great answers, it's nice to have you here. And we're also very pleased with how our year has started. As you recall, in December, we had an Investor Day, where we launched a new strategy called Powering Global Markets and it's fantastic to be such a strong start and a lot of that has to do with our engagement with our customers. We have been out talking to our customers, listening to them, understanding how they see the combined value of the company.
+
+And I personally have been very busy traveling around the world, speaking with our key customers from every industry from all of our businesses. And I'm more confident than ever about our strategy. And their comments provide us further information to validate our priorities, our investment in technology, our investment in AI, the quality of our people, how we see the products that we're developing in the future. And I'm just so confident about what we're seeing out there.
+
+I also want to thank all of our people for helping us launch 2023 as always they are phenomenal and it's why we're off to such a strong start. And so I'm really excited about everything we achieved this year. I look forward to sharing more on our next earnings call. And again, thank you everyone for joining us today. Thank you very much.
+
+Operator
+That concludes this morning's call. A PDF version of the presenter slides is available for downloading from investor.spglobal.com. Replays of the entire call will be available in about two hours. The webcast with audio and slides will be maintained on S&P Global's website for one year. The audio only telephone replay will be maintained for one month.
+
+On behalf of S&P Global, we thank you for participating and wish you a good day.

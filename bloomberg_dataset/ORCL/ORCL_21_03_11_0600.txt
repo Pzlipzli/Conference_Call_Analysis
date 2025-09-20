@@ -1,0 +1,213 @@
+Q3 2021 Earnings Call
+Company Participants
+Ken Bond, Senior Vice President
+Larry Ellison, Chairman and Chief Technology Officer
+Safra Catz, Chief Executive Officer
+Other Participants
+Brad Zelnick, Analyst, Credit Suisse
+Mark Moerdler, Analyst, Sanford Bernstein
+Mark Murphy, Analyst, JPMorgan
+Michael Turits, Analyst, Keybanc Capital
+Phil Winslow, Analyst, Wells Fargo Securities
+Presentation
+Operator
+Welcome to Oracle's Third Quarter 2021 Earnings Conference Call. Now I'd like to turn the call over to Ken Bond, Senior Vice President.
+
+Ken Bond{BIO 16482190 <GO>}
+Thank you Erica. Good afternoon everyone and welcome to Oracle's third quarter fiscal year 2021 earnings conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information can be viewed and downloaded from our investor relations website.
+
+Additionally, a list of customers mentioned on this customer conference call as well as many others which have purchased Oracle Cloud Services or went live on Oracle Cloud recently will be also available from the investor relations website. On the call today are Chairman and Chief Technology Officer, Larry Ellison and CEO, Safra Katz.
+
+As a reminder, today's discussion will include forward-looking statements, including predictions expectations, estimates, or other information that might be considered forward-looking. Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. Forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from statements being made today.
+
+As a result, we caution you against placing undue reliance on these forward-looking statements and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock.
+
+And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. We'll begin with a few prepared remarks and then I'll turn the call over to Safra. Safra?
+
+Safra Catz{BIO 3491281 <GO>}
+Thanks, Ken and good afternoon everyone. We are again reporting earnings 10 days after the end of the fiscal quarter, faster than any other company in the S&P 500. Fusion Cloud ERP enables us to understand our business performance sooner and with greater insight, which is an advantage our customers are rapidly beginning to appreciate.
+
+As you can see, we had a great quarter and executed well against our growth plan. Revenue was in line with our USD guidance, while EPS beat the midpoint of guidance by $0.05.
+
+Our total cloud services and license support revenue for the quarter was $7.3 billion, up 5% in US dollars, 2% in constant currency, driven by Fusion, Autonomous Database and our Gen2 OCI cloud. Recurring revenue as a percentage of total revenue now represents 72% of total Company revenue, and we anticipate this trend to continue as cloud services grow. Applications subscription revenues were $3 billion, up 5% in US dollars, 3% in constant currency. Our strategic back office cloud applications now have annualized revenue of $4 billion and grew 24% this quarter, including Fusion ERP, up 27%, NetSuite ERP, up 22%, and Fusion HCM, up 21%. Infrastructure subscription revenues were $4.3 billion, up 4% in US dollars, up 2% in constant currency. Infrastructure cloud services now have an annualized revenue of more than $2 billion, including OCI consumption revenue, which was up 123%.
+
+Autonomous Database was up 55%. Cloud customer consumption revenue was up over 200%, but on small numbers. Database subscription revenues, including database support and database cloud services, were up 6% in US dollars and up 3% in constant currency. License revenues were $1.3 billion, up 4% in US dollars and unchanged in constant currency. So all in, total revenues for the quarter were $10.1 billion, up 3% in US dollars, up slightly in constant currency.
+
+Operating expenses were down this quarter. And non-GAAP operating income was $4.8 billion, up 6% from last year. Q3 operating margin was 47% in USD, up 300 basis points from 44% last year and our best Q3 result in more than 10 years. The non-GAAP tax rate for the quarter was 16.7%, slightly below our base tax rate as a result of some discrete items. EPS was $1.16 in US dollars, up 20% in US dollars, up 16% in constant currency. GAAP EPS was $1.68 in USD, up 113% and up 104% in constant currency.
+
+In the quarter, the GAAP income statement was impacted by a one-time net tax benefit of approximately $2.3 billion related to the transfer of certain assets between subsidiaries. To facilitate comparison across periods, we have excluded the effect of this event from our non-GAAP calculation.
+
+Operating cash flow over the last four quarters was $14.7 billion, with capital expenditures of $1.9 billion and free cash flow in excess of $12.8 billion over the same period. For the quarter, operating cash flow was $3.7 billion, up 23%. And free cash flow was $3.3 billion, up 26% from last year. We now have nearly $36 billion in cash and marketable securities. The short-term deferred revenue balance was down in constant currency at $8.1 billion, while the short-term gross deferred revenue was up 4% in constant currency. As you know, the difference between the two growth rates is due entirely to timing differences in customer payments.
+
+The remaining performance obligation, or RPO, balance is $35.3 billion, up 2% in constant currency versus last year. Approximately 61% is expected to be recognized as revenue over the next 12 months, up from 60% a year ago. As we've said before, we're committed to returning value to our shareholders through technical innovation, strategic acquisitions, stock repurchases, prudent use of debt and a dividend. And this quarter, we repurchased more than 64 million shares for a total of $4 billion.
+
+In addition, the Board of Directors increased the quarterly dividend 33% from $0.24 to $0.32 per share. The Board of Directors also authorized an additional $20 billion for the repurchase of Oracle shares.
+
+As I mentioned last quarter, we experienced capacity constraints for OCI cloud services as customer workloads expanded dramatically. In addition, we continue to land many new customers, including ISVs. And we have some very large users coming on line shortly that will require significant amounts of capacity.
+
+As a result, we're investing aggressively this quarter, this Q4, both OpEx and CapEx, to prepare for this increase in cloud consumption and associated revenue in FY '22. As such, we are going to target a 49% operating margin for Q4. This will enable us to continue to deliver double-digit earnings growth once again in FY '22 for the fifth year in a row.
+
+Now to the guidance. Again, my guidance today is on a non-GAAP basis and assumes current exchange rates remain the same as they are now, which is a 4% positive effect on total revenue and $0.07 positive effect on EPS in Q4. It will look -- it may look like a positive effect of $0.08 to EPS due to rounding, but it's $0.07. However, actual currency impact could be different, so here it goes.
+
+Total revenues are expected to grow from 5% to 7% in US dollars and are expected to grow 1% to 3% in constant currency. Cloud service and license support will grow faster than in Q3 as well as strategic back office cloud applications.
+
+As a result of the increased investment in the quarter, non-GAAP EPS in USD is expected to grow 7% to 11% and be between $1.28 and $1.32 in USD. Non-GAAP EPS in constant currency is expected to be flat to up 4% and be between $1.20 and $1.24 in constant currency.
+
+CapEx for Q4 on is expected to be $1 billion. My EPS guidance for Q4 assumes a base rate of 19%. However, onetime tax events could cause actual tax rates for any given quarter to vary. But I expect that in the normalizing for these one-time tax events, our tax rate will average around 19% or so.
+
+And with that, I'll turn it over to Larry for his comments.
+
+Larry Ellison{BIO 1491757 <GO>}
+Thank you, Safra. Three months ago, Bob Evans posted an article on the Cloud Wars website in which he quotes SAP's CFO Luka Mucic making the following statement at an investors conference, and I quote, "I have checked and we have not lost a single ERP customer to Oracle." In other words, after personally checking, SAP's Chief Financial Officer could not find a single example of an SAP ERP customer moving to Oracle Fusion ERP. Not one. Perhaps he should have checked a little bit more carefully.
+
+In Q3 alone, we signed contracts totaling hundreds of millions of dollars to migrate several very large SAP ERP customers to Oracle Fusion ERP. But this was not just a recent Q3 event. This has been going on for a couple of years. I'm now going to go and present a list of over 100 companies and government agencies that have already moved from SAP ERP to Fusion ERP or are currently in the process of doing so.
+
+I've divided the list of SAP customers who are moving to Oracle Fusion ERP into two distinct groups. I want to be very precise here. The first group is moving their entire company to the Fusion ERP suite, including core financials. That's Oracle wall to wall. The second group has started deploying Fusion ERP applications but has not yet put in the entire suite and may still be running SAP financials in some places. They've begun the migration, but they're not committed to doing the entire suite as yet or they're not in the process of doing the entire suite as yet. Okay. So let me go to start the list.
+
+TPX Company [ph], an industrial manufacturer of railcars in North America, replaced out all of SAP ERP with Oracle Fusion, including financial accounting, procurement -- let's see, enterprise performance management, supply chain, HCM, everything, with the Fusion cloud, complete replacement of SAP ERP to Fusion ERP. G4S plc, a security services firm and that's the world's largest security company by revenue, complete replacement of SAP R/3 with Oracle ERP and Oracle HCM.
+
+First Solar, North America's only remaining maker of solar panels in the United States, replaced SAP's S/4HANA, Ariba, Concur, third-party apps, all of SAP ERP with Oracle Fusion ERP, Oracle Fusion EPM, Oracle Fusion HCM and supply chain management. Transit Wireless, a North American telco, completely replaced out SAP R/3 with Oracle Fusion ERP and Oracle Fusion HCM.
+
+West Sussex County Council, complete SAP replacement with Oracle ERP, Oracle HCM and Oracle EPM. ERP, ML, HCM -- EPM is Oracle Enterprise Performance Management. Complete wall to wall Oracle at West Sussex County Council. No more SAP. CEMEX, a concrete company in Mexico, completely replaced SAP with Oracle ERP and supply chain. Niagara Bottling, a North American beverage manufacturer private label bottled water, replaced SAP with Oracle ERP, supply chain, transportation management, et cetera.
+
+New Zealand Inland Revenue, complete SAP R/3 replacement with Oracle ERP and Oracle HCM. University of the Andes in Latin America, the #1 university in Colombia, complete replacement of -- had SAP for 10 years, replaced it with Oracle ERP, HCM, EPM, supply chain, sales, everything. Bip&Drive, a travel and transportation company in EMEA, electronic toll payment provider for the roadways in Spain, again, replaced -- was offered a free S/4HANA upgrade, instead chose Oracle Fusion Cloud.
+
+GE Grid Software, an industrial manufacturer, software for utilities and power transmissions, complete SAP replacement with Oracle ERP Fusion Cloud. Postcon, let's see, the second largest mail carrier in Germany, SAP complete replacement of R/3, replaced them with Oracle Fusion ERP and the cloud plus supply chain management. Birmingham City Council, complete SAP replacement using Oracle ERP, Oracle HCM. They're the biggest city council in the U.K.
+
+Metro Pacific Tollways Corporation, a toll road developer in Asia, SAP replacement -- got rid of SAP and replaced it with Oracle ERP and Oracle EPM. Africa World Airlines replaced SAP with Oracle ERP, EPM, HCM, sales, service and marketing. Batelco, that's the Bahrain Telecom Company, they have been running SAP for a decade, and they moved to Fusion Cloud ERP, EPM and SCM. The -- let's see, a European logistics and applied engineering group. Actually the name -- they don't want their name specifically mentioned. They're the largest private company in Belgium. And they completely replaced SAP R/3, and they thought the cost of moving to S/4HANA in the cloud was much too high and they instead went with Oracle Fusion ERP.
+
+Tical Logistica [ph], a logistics company in Latin America, had SAP replaced with Oracle ERP, SCM and sales. FedEx had SAP ERP in some places and Oracle ERP in some places. They've replaced out all of the -- they're in the process of replacing out all of the SAP ERP and standardizing on Oracle Fusion ERP and supply chain management. Grupo Bimbo had SAP in some divisions then Oracle in other divisions. They're replacing out all of the SAP and standardizing on Oracle Fusion ERP and supply chain management.
+
+Western Digital, complete replacement, they had SAP -- Western Digital had SAP at Sandisk. They had SAP at HGST. Replaced all of that out and have standardized on Oracle Fusion ERP in the cloud -- Fusion ERP in the cloud.
+
+DP World, they had SAP S/4HANA, SAP HR R3. They eliminated all of that. By the way, they're an EMEA marine terminal operator. They're located in EMEA. They're global. They replaced out all of their SAP and standardized on Oracle Fusion ERP in the cloud. Cohu, they are semiconductor test and handling equipment company in North America. They had a combination of Oracle ERP and SAP ERP. Replaced out all of the SAP ERP and are standardized on Oracle.
+
+This one is interesting. They don't want their name mentioned. They're a huge European -- a North American and European manufacturer of ATMs. And they've replaced out all of SAP in the German subsidiary, but actually throughout the world. And they standardized on Fusion ERP, SCM and HCM, and they've added Oracle performance management, Fusion performance management.
+
+Let's see another company whose name doesn't want to be mentioned. Let's see, they're a high tech manufacturer in North America. They replaced out SAP R3 ERP, HCM; and standardized on Oracle Fusion in the cloud. Art Belly Group [ph], they are a manufacturer of photo products in the UK. They're replacing SAP with, guess what? Fusion ERP. Consol Energy, utilities company in Pittsburgh, replaced out SAP with Oracle Fusion in the cloud. Enbridge. Enbridge is an oil and gas multinational based in Calgary, Canada, replaced all of -- replaced out or all of SAP with Oracle Fusion ERP.
+
+Gemini Industries -- Gemini Energy. They're in LIV [ph]. They're an energy transmission system, the largest in Brazil with substations all across Brazil. Replaced SAP with Fusion ERP.
+
+Good Storage, a Latin America self-storage company in Brazil, again got rid of SAP, put in Fusion ERP. Grupo Globo, they are a media and entertainment -- Latin America's largest media and entertainment company, replaced SAP with Oracle ERP and HCM, standardized on Oracle ERP and HCM.
+
+IQVIA had a complete SAP replacement. They are manufacturing pharmaceutical company in North America. They've moved away from SAP and standardizing on Fusion in the cloud.
+
+Corian, a health care company in EMEA, long-term care nursing homes, 300,000 senior citizens across Western Europe. Replaced SAP with Oracle Fusion. NatWest Group. NatWest Group includes NatWest, ABN AMRO, Royal Bank of Scotland, Ulster Bank and more. They had a combination of Oracle ERP and SAP ERP. They're replacing out all of the SAP ERP and standardizing on Oracle Fusion in the cloud.
+
+Windtree. Windtree is a telecommunications company, the largest mobile operator in Italy. Again, completely replacing out SAP with Oracle, Fusion ERP, SCM and HCM.
+
+Okay, now I'm going to go into the second group of companies. And these are companies that have started putting in Oracle Fusion modules, but have yet -- they have not replaced core financials as yet. So they're buying our supply chain. They're buying our procurement. They're buying our transportation management. They're buying our global trade management. But they have not yet bought Oracle Financials, so I want to be very specific. But they are buying lots and lots of Fusion products.
+
+GN Airlines, Apollo Tires, Akamai, a adhesive solutions company in the UK, Aarhus Kommune, they're a municipality in central Denmark. Caesars Enterprise Services, to give you an idea, they bought procurement and supply chain, big hospitality company obviously in North America.
+
+Cepheid (a) Danaher a product -- they bought product life cycle management. They're a healthcare company. Department of Education and Training in Australia bought procurement. DHL was an SAP replacement in some countries. So some countries are still running SAP, but the new implementations that are going in are in other countries, not in Germany as yet. And other countries are Oracle Fusion ERP.
+
+Dow bought supply chain management and transportation management. FEMSA bought -- replaced all of SAP in some of their subsidiaries and bought supply chain warehouse management, supply chain planning, ERP again. And in some subsidiaries, all of ERP, including accounting, procurement, all of that. Fujitsu services, a manufacturer in Japan, again the parent is running SAP Financials, but subs all over the world are moving to Oracle Fusion ERP. Keurig Dr Pepper, again bought supply chain. Guardian bought all of -- a financial services company in North America, bought all of ERP.
+
+Honda bought -- still runs SAP financials, but just recently bought Fusion supply chain, Fusion on transportation management and is moving to -- from on-premise to the cloud. Indotech, again a North American company again. Parent's still running on SAP financials, but the subs are running Oracle Fusion. Jackson Life, Lakshmi [ph] Cement. I'm not going to -- I'm going to read this faster now. Juniper Networks, Lloyd's Bank, Move Incorporated, Munich Re, the largest food company in the world just bought Oracle Performance Management, News America Marketing, Olam International, PG&E, PORCELANOSA [ph], Republic Services, SAC Wireless, a Nokia Company, Samsonite, Puma, Santander Bank, Steve's, Therma-Tru Doors.
+
+Okay. I'm going to stop right there or I'll take up all of the time, you won't be able to ask Safra questions. Okay. I don't want to do that.
+
+Okay. All right. So again, the list is actually longer than the 100-plus companies. I did read over 100 companies, as I'm sure you painfully are aware of. The list is actually longer than the 100 companies that I've just read. Some of our most important wins at our are very largest companies in regulated industries such as banking and utilities, who are currently in the process of migrating from SAP ERP to Fusion ERP, prefer not to be publicly named on this call for obvious reasons. They don't want -- even though they are often a reference for us, private reference where people are considering the same move, they don't want to be on their name on this call because they want to maintain the best possible relations with SAP as they -- even though they are in the process of transitioning away from SAP.
+
+All right. So I'd like to make one last point and then turn it back over to Safra. We specifically try to answer one key question. How come so many customers are moving from SAP ERP to Fusion ERP? This has never happened before, a major migration between ERP vendors.
+
+Well, if you want to know the answer, read the Gartner report comparing Oracle ERP to SAP ERP. Please don't take my word for it. Read the report. It's very short, and it's to the point. Gartner ranks Oracle Fusion ERP far in front. I mean, you can't find a magic project where there's more a bigger gap between number 1 and number 2. And so Gartner ranks Oracle Fusion ERP far in front of all the other cloud ERP systems. But what's surprising is SAP isn't number 2. SAP is at number 3. SAP is listed among listed among the leaders. SAP is listed among the laggards. Gartner, if you read the text, Gartner points out, and I quote, "SAP's own reference customers scored SAP in the lower half of cloud ERP vendors." I'm going to read that again. "SAP's own reference customers scored SAP in the lower half of cloud ERP vendors."
+
+SAP, the once-dominant on-premise ERP market leader, is currently not competitive in the cloud ERP market. How could that have happened? Because SAP never rewrote their ERP system for the cloud. It's that same 30-year-old code. They never rewrote their ERP system for the cloud and it's too late for them to start now.
+
+I'll turn it back over to Safra.
+
+Ken Bond{BIO 16482190 <GO>}
+Thank you, Larry. Erica, if you could please poll the audience for questions?
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question comes from Michael Turits with Keybanc Capital.
+
+Q - Michael Turits{BIO 1720659 <GO>}
+Great. Larry, thanks for all the color on ERP. I'd like to switch over to your database. You've made meaningful improvements in both cloud customer and OCI 2, which were both one of the two required for ADB. So are those improvements enough that we're now starting to see the upgrades to ADB? And are you able to monetize those upgrades to the point where we'll start to see database growth acceleration?
+
+A - Larry Ellison{BIO 1491757 <GO>}
+The answer is I think there's no question, you're going to see a lot of database growth -- a lot of database acceleration starting next year, which we're a quarter away from, but we'll be fine in Q4.
+
+Again, autonomous database is growing pretty rapidly. But we expect it really to explode next year. And I really do mean very, very rapid growth next year. I'm not really ready to disclose our plans as to why I think it's going to suddenly spike, but we expect very, very rapid database growth next year.
+
+Q - Michael Turits{BIO 1720659 <GO>}
+Thanks, Larry.
+
+Operator
+Our next question comes from Mark Murphy with JPMorgan.
+
+Q - Mark Murphy{BIO 1542399 <GO>}
+Yes. Thank you, Larry. This SAP replacement wave, it feels like kind of a historic moment because that kind of activity, it's usually so rare. And these, the logos are pretty large that you're mentioning. So when we see --
+
+A - Larry Ellison{BIO 1491757 <GO>}
+I acknowledge for interrupting. The really spectacular logos are not light. The Fedex, there are -- some of them are pretty spectacular in there. But we have some that are much larger and much -- and absolutely shocking. I've been alluding to these, but sometimes we're in the middle of an 18-month implementation, and the customer doesn't want to be mentioned. If I could mention them all, it would be -- it's front page news. I mean it's a very big deal.
+
+Yes, I agree with you. It's an historic event. It is -- I think a long time ago, I said there are three technologies that will drive Oracle's future. One is Autonomous Database, and the other is ERP. We expect -- we are, again reading the Gartner report, we are so dominant. Our product is so much better than anyone else's product in the cloud. We expect to get a significant number, More than half of SAP's customers, we'll get. But teasing our own -- plus getting a lot of it from the smaller companies like Import and Lawson [ph].
+
+Q - Mark Murphy{BIO 1542399 <GO>}
+So Larry, the ones that we see, which aren't too shabby you mentioned DHL and Honda and Lawrence Bank, is that a precursor to moving to Oracle core financials eventually? And I'm just wondering which of Oracle strength is really capitalizing that wave of replacements?
+
+A - Larry Ellison{BIO 1491757 <GO>}
+Okay, So there are 2 lists. One -- the first half of the list that I read, and they're about equal-sized lists, were people that already moved from SAP financials to Oracle financials. The second list were people that had partially moved to Oracle but still were running SAP financials in some places. In other words, we don't consider it a complete win until we replace out -- if we just sell procurement and supply chain and manufacturing and things like that but they still run SAP financials, we don't consider that a complete win. That's what we call our surround strategy.
+
+But once you start using our cloud products and compare that with SAP's on-premise products, we think the vast majority of these companies that have started the journey will finish the journey and don't want financials in the cloud, just like they have supply chain in the cloud and procurement in the cloud. So yes, we expect companies -- we've already seen companies migrate off the second list. They buy procurement. They buy supply chain, and they say, "Okay. I like that. I'm now going to buy financials." So yes, we expect all of this -- or excuse me, the vast majority of those customers to eventually standardize on Fusion Cloud ERP for everything.
+
+Q - Mark Murphy{BIO 1542399 <GO>}
+Thank you.
+
+Operator
+Our next question is from Mark Moerdler with Sanford Bernstein.
+
+Q - Mark Moerdler{BIO 16855032 <GO>}
+Thank you very much for taking my question and I appreciate the additional color that Safra gave on the call. I'd like to turn to OCI Gen 2. We're been hearing about security concerns from consumer Internet companies. To what extent has OCI security technology helped you win business with these companies? And is consumer Internet a big driver for OCI Gen 2? Also, to be clear, this is not about TikTok. It's about all the other consumer Internet company opportunities. Thank you.
+
+A - Larry Ellison{BIO 1491757 <GO>}
+Yes. Well, I think there are two things that are interesting about OCI. One -- on the security front. One is we believe security should always be turned on. In other words, there is no light switch: security on, security off. We have these things called Max Security Zones in OCI where you cannot turn security off. Max security is always turned on. It's a safe place to go inside of OCI. No one has anything like this where security is always turned on. You cannot turn it off. You cannot open up a link -- a network link that puts your infrastructure and your data in jeopardy. That's one thing. So security is always on.
+
+The second thing is autonomy is very interesting because the Oracle Autonomous Database -- by the way, Oracle Autonomous Database is not the only autonomous product we have. We have Autonomous Linux that is the foundation operating system inside of the OCI network. Oracle Autonomous Linux, Oracle Autonomous Database, has no human labor associated with it. Okay. So (inaudible) well, that's a huge cost savings. It is, but that's not the most important benefit. The most important benefit, if there's no human labor, there is no human error. If there's no human labor, there is no human mishap. There's no opportunity for an insider to corrupt the system. There's no opportunity for a user to misconfigure a system that creates a security vulnerability that will lead to the loss of data.
+
+So we think one of the most attractive aspects of OCI other than its high performance, low cost, all of -- everyone likes to pay less, and they do with OCI. But we do a better job of securing your data than any other cloud vendor. We've seen that be the decisive feature in winning a lot of these deals with ISVs and end user customers.
+
+Q - Mark Moerdler{BIO 16855032 <GO>}
+Appreciate. Thank you for the additional color.
+
+Operator
+Our next question comes from Phil Winslow with Wells Fargo.
+
+Q - Phil Winslow{BIO 6300579 <GO>}
+Hi guys, thanks for taking my question. Congrats on a strong quarter. I just wanted to focus in on the license line. It was up 4% as reported, flat constant currency off of what was actually the toughest comp for this fiscal year. I wonder if you can provide some context on sort of what is driving that, particularly sort of relative to the strength that you're also seeing in the cloud side? Is this Oracle database? Is this the add-ons to the Oracle database? Any sort of more color there and then also, in particular, sort of in conjunction with the cloud? That would be great.
+
+A - Safra Catz{BIO 3491281 <GO>}
+Sure. Let me take that. So the Oracle database remains very strong, and what's good about the Oracle database is you can also bring your own license to the cloud. So it's both on-premise and in the cloud can be used there, and it remains very, very strong. The installed base of the Oracle database continues to grow, and that is, of course, our central piece.
+
+Now in addition, Java on-premise continues to do very well as more and more companies continue to invest in Java and trust Java for their own applications. And in addition, our vertical applications, some of our industry applications, still require on-premise license for the customers' use. We also have cloud services in many of these verticals. But especially in telecommunications, as many of the communications companies move to 5G, we are a very central part of their transition to 5G and need our license in that -- in those areas. So database talks, doing incredibly well; Java, doing very, very well; and our vertical applications. And then pretty much everything else, of course, as you know, is offered just in the cloud.
+
+Q - Phil Winslow{BIO 6300579 <GO>}
+Perfect, thank you very much for the color. Appreciate it.
+
+Operator
+Our final question comes from Brad Zelnick with Credit Suisse.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Great, thank you so much for taking the question and congrats as well on a great quarter. Larry, it's so great to hear every single one of those SAP wins, especially since investors think of SAP's customer relationships as being so deep. So clearly, by displacing them in so many accounts, it speaks volumes to the quality of your product and trust that these companies place with Oracle. So my question is this, why now and why from a product perspective? You mentioned Gartner's take. But since Oracle has always competed on having better product, what have you been doing product-wise that's enabled you to pull ahead of them like this? And what do you need to continue to do product-wise to remain ahead?
+
+A - Larry Ellison{BIO 1491757 <GO>}
+So well, we started 10 years ago to build Fusion Financials for the cloud, to rewrite all -- we have PeopleSoft ERP, JD Edwards ERP and of course, Oracle E-Business Suite. We had these three separate on-premise ERP systems because -- and we decided a decade ago to rewrite all of that for the cloud. And SAP, unbelievably, they just -- I mean -- and by the way, we did a very good job. We started a decade ago. And we did, I think, a very good job redoing -- a big job, to say the least, redoing our ERP products for the cloud.
+
+That said, SAP chose not to rewrite their ERP products. Instead, they made a bunch of acquisitions. They bought Concur. They bought Ariba. They bought SuccessFactors. But they never -- and we made some acquisitions also, by the way. We bought Taleo and other -- right now and other things. But we rewrote everything for the cloud. SAP instead embedded their own database called HANA and focused on this new database and never really rewrote their ERP code for the cloud. I mean it's just an unbelievable error. They worked on a new database. And the thing we're competing with, so-called S/4HANA in the cloud, that's what SAP calls it, is not a cloud product at all. It is the 35-year-old ABAP -- this is written in a programming language called ABAP. Oracle Fusion is written entirely in Java, and it's entirely rewritten over the last decade. SAP's stuff is literally 30 years old, the same stuff that they've always had that they now will host for you.
+
+So I would say we did a competent job rewriting for the cloud. SAP just entirely missed the boat. So SAP really is more responsible for our leadership position than we are. The -- again, they never rewrote their application for the cloud. It's unbelievable what's happened, and their customers are noticing. We offer a new release of our ERP system every 90 days. We offer new features and functions. That's how the cloud works. You're on the cloud. You get new features and functions. You're on this 90-day cadence. We give you more features and more capabilities every 90 days. SAP has nothing like that. It's not a cloud system. It simply is, okay, you can get the old -- you can get the SAP S/4HANA and you can get it hosted by somebody, but they don't even have a cloud. They never built a cloud. That's what happened. It's amazing.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Thank you Larry.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thank you, Larry. A telephonic replay of this conference call will be available for the next 24 hours. Dial-in information can be found in the press release issued earlier today. Please call the Investor Relations department with any follow-up questions from this call, and we look forward to speaking with you.
+
+Thank you for joining us today. And with that, I'll turn the call back to Erica for closing.
+
+Operator
+Thank you for joining today's Oracle's Third Quarter 2021 Earnings Conference Call. We appreciate your participation. You may now disconnect.

@@ -1,0 +1,277 @@
+Q2 2023 Earnings Call
+Company Participants
+Benjamin R. Jackson, President
+Jeffrey C. Sprecher, Chair and Chief Executive Officer
+Katia Gonzalez, Manager of Investor Relations
+Lynn Martin, President of NYSE Group and Chair of ICE Fixed Income & Data Services
+Warren Gardiner, Chief Financial Officer
+Other Participants
+Aditya Sharma, Goldman Sachs
+Alex Kramm, UBS
+Benjamin Budish, Barclays
+Brian Bedell, Deutsche Bank
+Craig Siegenthaler, Bank of America
+Dan Fannon, Jefferies
+Kyle Voigt, KBW
+Patrick Moley, Piper Sandler
+Simon Clinch, Atlantic Equities
+Presentation
+Operator
+Hello, and welcome to today's ICE Second Quarter 2023 Earnings Conference Call and Webcast. My name is Bailey and I'll be the moderator for today's call. All lines will be muted during the presentation portion of the call with an opportunity for questions and answers at the end. (Operator Instructions)
+
+I would now like to pass the conference over to our host, Katia Gonzalez, Manager of Investor Relations. Katia, please go ahead.
+
+Katia Gonzalez{BIO 23106830 <GO>}
+Good morning. ICE's second quarter 2023 earnings release and presentation can be found in the Investor section of theice.com. These items will be archived and our call will be available for replay.
+
+Today's call may contain forward-looking statements. These statements, which we undertake no obligation to update, represent our current judgment and are subject to risks, assumptions, and uncertainties. For a description of the risks that could cause our results to differ materially from those described in forward-looking statements, please refer to our 2022 Form 10-K, second quarter Form 10-Q, and other filings with the SEC.
+
+In addition, as we announced last year, ICE has agreed to acquire Black Knight. The transaction is still pending regulatory approval, and we expect to close in the second half of this year. In connection with the proposed transaction, ICE has filed with the SEC a registration statement on Form S-4 to register the shares of ICE common stock to be issued in connection with the transaction. The registration statement includes a proxy statement of Black Knight that also constitutes a prospectus of ICE. Please see the Form S-4 filing for additional information regarding the transaction.
+
+In our earnings supplement, we refer to certain non-GAAP measures. We believe our non-GAAP measures are more reflective of our cash operations and core business performance. You'll find a reconciliation to the equivalent GAAP terms in the earnings materials. When used on this call, net revenue refers to revenue net of transaction-based expenses, and adjusted earnings refers to adjusted diluted earnings per share. Throughout this presentation, unless otherwise indicated, references to revenue growth are on a constant currency basis. Please see the explanatory notes on the second page of the earnings supplement for additional details regarding the definition of certain items.
+
+With us on the call today are Jeff Sprecher, Chair and CEO; Warren Gardiner, Chief Financial Officer; Ben Jackson, President; and Lynn Martin, President of the NYSE.
+
+I'll now turn the call over to Warren.
+
+Warren Gardiner{BIO 18036655 <GO>}
+Thanks, Katia. Good morning, everyone, and thank you for joining us today. I'll begin on Slide 4 with some of the key highlights from our second quarter results. Second quarter adjusted earnings per share totaled $1.43, up 8% year-over-year, driven by total net revenues of $1.9 billion. This marked the best second quarter in our company's history. It was on top of 14% adjusted EPS growth in the second quarter of 2022.
+
+Second quarter adjusted operating expenses totaled $756 million, $7 million below the low end of our guidance range, and up 2% versus the prior year. Higher SG&A, including an increase in spend related to an uptick in ITO activity late in the second quarter, as well as higher DNA and rent, both of which were driven by a handful of lease write-offs as we consolidate our real estate footprint, was offset by higher capitalized labor and lower professional fees. This strong performance helped to drive an adjusted operating margin of 60%, and a 5% increase in adjusted operating income to $1.1 billion, which was on top of 14% growth in the second quarter of 2022.
+
+Looking to the third quarter, we expect adjusted operating expenses to be in the range of $760 million to $770 million, with the year-over-year increase driven by additional compensation and technology expense, as well as roughly $10 million of FX. As a result, we now expect that full-year adjusted operating expenses will be between $3.04 and $3.06 billion and towards the lower end of our guidance range.
+
+Moving below the line, adjusted non-operating expense totaled $84 million in the quarter, improving sequentially due to higher cash balances as we build consideration for our acquisition of Black Knight as well as higher interest rates on those cash balances.
+
+Shifting to the tax rate, as the increase in the U.K. tax rate became effective in April of this year, we confirmed our ability to make certain U.S. tax elections, which primarily led to a second-quarter adjusted tax rate of 22%. As a result, we now expect to be around the low end of our 24% to 26% guidance range for both the second half and full year.
+
+Now, let's turn to Slide 5, where I'll provide an overview of the performance of our Exchange segment. Second quarter net revenues totaled $1.1 billion, up 9% year-over-year. Transaction revenues of $736 million were up 12%, driven by 33% growth in Energy revenues. This strong performance included 52% growth in global natural gas revenues, driven by a record quarter for both TTF volumes and participation, as well as 9% growth in our environmental revenues.
+
+In addition, we continue to see robust trends across our global oil business, particularly our crude oil benchmarks, Brent, Merwin, Dubai, WTI, and Midland WTI, with ADB up 26% year-over-year in the second quarter, an open interest, as of the end of July, up 21% year-over-year. Importantly, this is helping to drive strong open interest trends across our global commodity futures and options complex, including 15% growth in global energy and 21% growth in ags.
+
+Recurring revenues increased by 2% year-over-year, including 6% growth in Exchange data services, which was once again driven by double-digit growth in the number of customers consuming our global energy and environmental data. This was partially offset by our Listings business, where capital markets activity through much of the first half was relatively muted. However, the IPO markets started to open up towards the end of the quarter with the NYSE acting as the backdrop for 91% of total capital raised in the second quarter.
+
+In addition, the NYSE continues to lead the industry, with a total of 12 operating companies transferring from other exchanges so far this year, representing a defined market cap of roughly $100 billion.
+
+Turning now to Slide 6, I'll discuss our Fixed Income and Data Services. Second quarter revenues totaled $546 million, up 6% versus a year ago. Transaction revenues increased by 23%, including 17% growth in ICE bonds and 25% growth in our CDS Clearing business. Excluding the impact of the Euronext migration, both recurring revenues and ASV grew by 4%, driven by strong growth across our analytics, desktop, and feeds offerings. Within desktops, we continue to see strong demand from energy and environmental-focused customers as well as continued robust growth in our ICE Chat offering, where the number of users has grown at a 15% CAGR over the last five years to nearly 120,000 as of the end of 2Q. This growth has been driven by the investments we have made to reduce friction across the workflow, including the development and refinement of a proprietary large language model within ICE Chat. And as a result of these enhancements, through the first half of this year, we have seen a nearly 60% increase in energy volume executed through our ICE Chat platform.
+
+Lastly, within our consolidated feeds business, investments we have made to elevate and enhance our offering continues to pay dividends, evidenced by double-digit revenue growth, and a number of wins both in the quarter and first half driven by displacements of larger multi-asset class incumbents. This collective performance is a key driver of our Other Data and Network Services business, which increased by 7% in the second quarter, and 9% excluding the impact of Euronext.
+
+In our Fixed Income Data and Analytics business, similar to the last few quarters, we experienced an extended sales cycle within our end-of-day pricing business. Somewhat offsetting was a return to year-over-year growth in our index business driven by growth in ETF assets under management to a record $526 billion as of the end of 2Q.
+
+Let's go next to Slide 7, where I will discuss our Mortgage Technology segment. Second quarter Mortgage Technology revenues totaled $249 million. Recurring revenues, which account for nearly 70% of segment revenues, totaled $164 million, and helped to drive outperformance versus an industry that experienced a nearly 40% decline in origination volumes. Both Data and Analytics recurring revenue grew double-digits year-over-year and nearly two-thirds of our Encompass customers up for renewal during the quarter did so at higher minimums, growth was offset by those electing to renew at lower levels as well as reduced spend on ancillary products such as our CRM and marketing solutions, which tend to be utilized by customers that are more refi focused.
+
+Importantly, the vast majority of these customers only remain on the remain on the Encompass and ICE Mortgage Technology platform, but have also signed multi-year contract renewals. While macro conditions appear to be stabilizing, and year-over-year pressure on forward-looking application volumes appears to be moderating, evidenced by a mid-teen decline in July applications compared to a nearly 30% decline in 2Q and nearly 50% decline in the first quarter, current cyclical pressures are now likely to drive a recurring revenue growth into the low single-digit range for the full year.
+
+However, these same cyclical conditions and the need to re-examine legacy cost structures continues to attract customers that have not traditionally utilized the ICE Mortgage Technology platform. As an example, the Top 5 banks that elected to replace their in-house solution with Encompass as their system of record for the retail channel last quarter, has now also signed on as an Encompass customer for their correspondent channel. In addition, CrossCountry Mortgage, a Top 15 lender and Encompass user, signed on to utilize our analyzers in what was one of the largest data and analytics fields in our history following J.P. Morgan's adoption of our analyzer suite last year. While these wins will take time to implement, and are therefore, not expected to impact our 2023 recurring revenues, it is a clear example of the increasing need for workflow efficiencies, and we expect there to be continued momentum through the balance of this year and into 2024.
+
+Moving to Slide 8, in summary, it was a record first half. We delivered revenue, operating income, earnings per share, and free cash flow growth. We continue to make strategic investments across our business and future profitable growth opportunities, and we are well-positioned to meet the evolving needs of our customers and create value for our shareholders.
+
+I'll be happy to take your questions during Q&A, but for now, I'll hand it over to Ben.
+
+Benjamin R. Jackson{BIO 15745850 <GO>}
+Thank you, Warren, and thank you all for joining us this morning. Please turn to Slide 9. Amidst the dynamic macro environment we've witnessed in the first half of 2023, our customers continue to rely on our leading technology, mission-critical data, and transparent and accessible markets to manage their risk.
+
+Across our commodities markets, average daily volumes increased 17% in the quarter, and were up 7% when compared with the first half of 2022, including a 16% growth in energy, and a 27% growth in our agricultural portfolio in the second quarter, as customers respond to changing weather patterns given the El Nino conditions and its impact on commodity supplies.
+
+In energy, the globalization of natural gas and the evolution towards cleaner energy are trends that we began investing in over a decade ago. And today, cleaner energy sources, including global natural gas and environmentals make up over 40% of our energy revenues and have grown double-digits on average over the past five years. This strong performance has contributed to an average annual growth rate of 8% in our energy platform over that period. Growth is a direct result of staying close to our customers, understanding their evolving risk management needs, and expanding the breadth of the content that we offer across our energy network.
+
+In our oil markets, ICE's Brent benchmark, the largest crude oil futures and options market in the world, has undergone its latest evolution with the addition of Midland WTI into the Brent basket, creating a new Midland exposure for the oil market to manage. Reflecting this dynamic, ICE Midland WTI reached record volumes during the quarter, along with a series of open interest records in July.
+
+In addition, commercial customers continue to demand more additional, more precise hedging tools and that we're in a unique position to provide, given their correlation to our benchmark contracts such as Brent. This trend is best illustrated by the continued growth of our other crude and refined products line, up 17% in the first half, and up 33% in the second quarter.
+
+In our natural gas markets, driven by a record-setting quarter in our TTF gas benchmark, revenues were up 32% in the first half, including 52% growth in the second quarter. In addition, open interest trends in our global gas complex remains strong through July, up 16% year-over-year, including a 34% increase in our TTF complex, and a 15% increase in our North American gas business. Importantly, because we have built a global platform that spans benchmarks across North America, Europe, and Asia, we are well-positioned to continue to benefit from both the near-term volatility and the long-term secular growth trends occurring across these markets.
+
+In our environmental markets, as we look out over the longer term, corporates and market participants remain committed to environmental policy to reduce carbon emissions. This is illustrated by continued growth in active market participants, up 9% year-over-year. Importantly, because we offer one of the broadest suite of environmental products across the carbon cycle, we remain excited about our position to serve customers as they navigate the journey to cleaner energy and as the demand for transparent pricing and carbon grows.
+
+Some recent examples of customer-led innovation include the launch of futures on Washington State's carbon program, along with soon-to-be-launched futures on Alberta's carbon program, which is expected to go live in the third quarter.
+
+In summary, as the energy evolution continues to introduce new complexities, uncertainties, and volatility to energy markets, our global environmental markets, alongside our global oil, gas, and power markets, provide the critical price transparency and risk-managing tools that will enable participants to navigate this evolution.
+
+Moving to our Fixed Income and Data Services business, our comprehensive all-weather platform continues to generate compounding revenue growth of 9% in the first half. This growth was underpinned by both recurring and transaction revenue growth, a testament to the strategic diversification of our business and our ability to deliver growth through an array of macroeconomic environments.
+
+Interest rate volatility as well as continued efforts to build institutional connectivity across our platform contributed to a 51% increase in our ICE bonds business in the first half versus last year. In addition, we continue to see returns on past investments made in our Other Data and Network Services business, which is up 7% in the first half, driven by strong growth across our analytics, desktop and feeds offerings.
+
+Turning now to our Mortgage business, in the second quarter, our Mortgage business once again outperformed a broader industry that experienced a nearly 40% decline in origination volumes. This continued outperformance is a result of executing against our strategy of leveraging our mission-critical technology and data expertise to accelerate the analog-to-digital conversion happening in the industry.
+
+Part of that strategy is intentionally shifting more business to recurring revenue, particularly within our Origination Technology and Data and Analytics business. And during the second quarter, of the Encompass customers that came up for renewal, over 60% increased their base subscriptions. Importantly, where customers decline in subscriptions, the trade-off is a higher per-closed loan fee, which will provide an uplift in transaction volumes when the market returns.
+
+In addition, we continue to have constructive conversations with customers as they seek greater workflow efficiencies. For example, the Top 5 bank that elected to implement Encompass as their system of record for the retail channel last quarter has expanded their relationship with us signing on as an Encompass customer for their correspondent channel. And during the quarter, we had one of the largest data and analytics deals in our history with the signing of CrossCountry Mortgage to implement our analyzer offering.
+
+Importantly, increased workflow efficiency flow efficiency through continued electronification is a secular trend we believe will continue through a variety of mortgage origination environments. This trend gives us confidence that we can grow a business that today is only a fraction of the $10 billion addressable market that is in the early days of an analog to digital conversion.
+
+Our ability to capture this secular trend is illustrated on Slide 22 of the appendix. While origination volumes on the Encompass platform in the first half were comparable, if not slightly below those seen in the first half of 2018, proforma IMT revenues have increased over 50%, with recurring revenues growing at a 14% compounded annual growth rate.
+
+With that, I'll now turn the call over to Jeff.
+
+Jeffrey C. Sprecher{BIO 3310847 <GO>}
+Thank you, Ben, and good morning, everyone. Thank you for joining us. Please, turn to Slide 10. I'll begin by touching on our pending acquisition of Black Knight. While we're unable to answer any questions on this call relating to the pending litigation with the Federal Trade Commission, I'll briefly discuss our announcement to divest of Optimal Blue.
+
+On July 17, we announced that we entered into an agreement whereby contingent on the close of our acquisition of Black Knight, Constellation Software will acquire Optimal Blue for total consideration of $700 million. This consideration includes $200 million of upfront cash and $500 million in the form of a seller finance note, which we have committed to place into the market within six months following the transaction close. We intend to provide additional performance details upon the closing of Black Knight, but it's worth noting that we continue to target revenue synergies of $125 million and expense synergies of $200 million by year five.
+
+As a result of our agreeing to sell Optimal Blue, our federal trial was rescheduled to August 14, and we are in a dialogue with the FTC about potential resolution. The transaction with Constellation Software will keep Optimal Blue and the Empower Loan Origination System together under a single, highly credible owner. A related agreement will continue and expand our commercial relationship to facilitate Optimal Blue being made fully available to ICE's customers on our open network. As the largest distributor of Optimal Blue via our network, we remain very excited about the value and efficiencies that the combined ICE and Black Knight entities will bring to the end consumer, as well as to other stakeholders across the mortgage ecosystem.
+
+Shifting to ICE's strong results, please turn to Slide 11. In the second quarter, we grew revenues, we grew adjusted operating income, and we grew adjusted earnings per share, delivering the best second quarter and the best first half in our company's history. These record-setting first-half results reflect on the quality of our strategy, and more importantly, on the execution of that strategy. We've deliberately positioned the company to have a mix of transaction and compounding subscription revenues, giving investors upside exposure while hedging our downside risk.
+
+We've intentionally diversified across asset classes and geographies so that we are not tied to any one cyclical trend or macroeconomic environment. We've placed the company at the center of some of the largest markets undergoing an analog to digital conversion. We believe that the combination of these factors is what makes ICE an all-weather name that generates growth on top of growth.
+
+Looking to the second half of the year and beyond, we are positioned to capitalize on the secular and cyclical trends occurring across asset classes. And we remain focused on executing on the many growth opportunities that are in front of us, extending our track record of growth.
+
+Before I end my prepared remarks, I'd like to thank our customers for their continued business and for their trust. And I'd like to thank my colleagues at ICE for their contribution to our record second quarter, making this an unsurpassed first-half result for our company.
+
+With that, I'll now turn the call back to our moderator, Bailey, and we'll conduct a question-and-answer session until 9.30 Eastern Time.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. (Operator Instructions) Our first question today comes from the line of Dan Fannon from Jefferies. Please go ahead, Dan. Your line is now open.
+
+Q - Dan Fannon{BIO 7135149 <GO>}
+Thanks. Good morning. My first question is on the Mortgage side. So curious as to what percentage of Encompass customers have gone through the renewal process. You've given some updates on the kind of renewal and what people have been doing, but curious about where you are in that full process. And then broadly looking forward on the Mortgage side, there is an outlook that we've kind of bottomed in terms of activity, looking at your guidance implies that we're still going to have some pressures for the remainder of this year. But as you think about the overall macro backdrop, are you anticipating volumes here in the second half to start to recover?
+
+A - Benjamin R. Jackson{BIO 15745850 <GO>}
+Hi Dan, this is Ben, and great question, thank you. In terms of the first part of your question of what percentage of the customers have renewed. So we started this process really a couple of years ago. We've had the LMA[ph] made business now for three years and we started talking about this just a couple of years ago. Most customers are on agreements that are around four to five years in duration. So we're roughly halfway through that, that transition.
+
+In terms of, how the business is doing from a longer term perspective, we feel great as we've been talking about on many of these calls, how we've been repositioning the ICE Mortgage Technology company to really unlock long-term growth potential and underneath the covers, we've seen a lot of success towards that. The evidence to that effect is that over the last several quarters, we've mentioned that we've had success renewing more than 60% of our customers at higher subscriptions. And even when we do see that 40% or so or less that are renewing at lower subscription fees, the trade-off there is that we're getting a higher per-closed loan fee on each of those. So, when the market normalizes, that'll be a tailwind towards our transaction revenues.
+
+The second thing is we have continued to see in the second quarter some headwinds from M&A consolidation and going out of business, although it's been relatively small. I think the other thing that we've seen in the first half that were in some of our prepared remarks, were that there are some ancillary products that roll up into our origination line item that are not Encompass, that are more CRM and marketing-oriented platforms that are very targeted towards helping our lenders identify our refi opportunities with clients. And the refi environment continues to be very tough, obviously, with the rate environment where it is.
+
+Those contracts tend to be one year in duration. They're user-based. And that is an area where the first half of this year, we saw some pretty significant headwinds towards subscription revenue. But we're already seeing some small signs that that's turning and when the market normalizes, we feel good about that coming back.
+
+In terms of offsets, we continue to have great sales success. In the second quarter of this year, on the back of Q4, which we mentioned was strong, Q1 was our best ever. Second quarter was our best second quarter in the last six years. We had 41 new clients come onto the Encompass platform. Now, of those clients that come on, many of them are mid-sized clients that come on right away. We start recognizing subscription revenue right away on those clients. There's also a percentage of those clients that are significant large clients, such as the large Top 5 global bank that we had mentioned, as well as the win with CrossCountry Mortgage in the D&A space. These clients take time to implement, and the way to think about those is that those will start to have an impact on subscription revenue come 2024.
+
+And then once those clients are implemented, there's all kinds of new loans that are coming onto our platform and onto our system that we've never interacted with before, that we'll start getting additional transaction fees from as well, as they interact and consume services off of our open third-party network, and we get pre-closed loan fees from those loans as well. So, from a long-term perspective, we feel great about the positioning.
+
+Operator
+Thank you. The next question today comes from the line of Benjamin Budish from Barclays. Benjamin, please go ahead. Your line is now open.
+
+Q - Benjamin Budish{BIO 21236661 <GO>}
+Hi there. Good morning, and thanks so much for taking the question. I wanted to maybe follow up a little bit on the Mortgage segment there's a lot of dialogue around sort of the ongoing digitization and sort of similar to the question in terms of the contract renegotiations -- the renegotiation cycle, I kind of wanted to ask about the cross-sell some of your existing products like AIQ in particular, just curious where you are in terms of the penetration of the current customer base and how far you think that can go.
+
+A - Benjamin R. Jackson{BIO 15745850 <GO>}
+Thanks, Ben. This is Ben. So great name, by the way. So from a cross-sell perspective, that's the beauty of this business that we've established that when you look across all of the offerings that we have across our ICE Mortgage Technology Network, we touch almost every lender with one of our services on our platform. And we have 3,000 of them that are on our Encompass platform, and we continue to have great success across the spectrum of bringing in new Encompass customers that are utilizing other services that we have on our network, and getting new wins across all of the segments that we service. So think of whether it's a bank, a non-bank originator, a broker, a credit union. We continue to have success across each of those segments. And we've also, leveraging the overall enterprise that ICE brings to bear, we've been able to leverage that to reposition and have some wins with large banks replacing legacy infrastructure that historically the business wouldn't have been well positioned to win. So we feel great about that part of the business.
+
+In the environment that we're in, we have seen customers very focused on rightsizing their organizations, rightfully so, with the headwinds that they've seen. And they've been very focused on the core platforms that they run and Encompass is one of the key ones. So that's why we continue to see great strength there. At the same time, innovative companies and entrepreneurs that are thinking ahead don't want to have to, as the market's going to turn and it will turn at some point, don't want to have to chase volumes by hiring armies of people again. They want to try to automate and become as efficient as possible in their processing. And that's why we continue to have great success in areas such as AIQ, which we've now rebranded to our ICE data and document automation platform.
+
+And some of the examples we've talked about in the prepared remarks were where JPMorgan Chase, obviously a significant bank, selected us last year. They've just gone live on the platform this year, so we're starting to see some of that come into our performance. And on the back of that, a Top 15 lender, CrossCountry Mortgage, has now selected us. So, we see innovative companies out there looking to invest in efficiency and automation going into the future.
+
+Operator
+Thank you. Our next question today comes from the line of Alex Kramm from UBS. Please go ahead, Alex. Your line is now open.
+
+Q - Alex Kramm{BIO 6910027 <GO>}
+Yes. Hey, good morning, everyone. Just a quick one on pricing actually. Last quarter, you obviously made some price moves on the energy trading side. It looked like that came through pretty nicely. So, just wondering, any lessons learned from there, and can you extend that into other areas is really the question? I mean, you didn't touch any other futures businesses. Maybe broadly on the exchange side around market data and some of the success you're having in energy data in particular, are there more opportunities for pricing that you see now versus previously since you've gone through this experience on pricing here?
+
+A - Warren Gardiner{BIO 18036655 <GO>}
+Hey, Alex, it's Warren. It's a great question. And so, in terms of the pricing changes we made within the energy complex, as we said last quarter, those are a handful of oil contracts, so we didn't touch everything within energy but certainly decided at that moment in time it was a good moment in time to capture some of the value we brought to the asset class over the last number of decades, frankly.
+
+And so, we spoke to you last quarter, mentioned that it would probably be a few pennies of benefit to the RPC. I would say it was about $0.03 to $0.04 if you will, so in line with what we were expecting on that front in terms of the benefit from those price changes all else equal. As we look across the rest of the futures platform and frankly, the rest of the ICE platform, the philosophy as we approach and apply it here is going to be the same and has been the same since the beginning. And that's when we see opportunity to capture value that we've created for people and our customers and the asset classes that we operate, we'll think about doing that and frankly, be selective about it and pick our spots.
+
+And so I think as you're thinking about that, as we move into the next year and future years as well, we'll be taking that same approach. And so we did have some success with this on the energy side. Again, I think it's recognition of, again, the value we created because we certainly see very strong volumes and very strong open interest continue. And I think you'll just see us take a similar approach across the rest of the ICE business as we move into our budget season this year and think about it into future.
+
+Q - Alex Kramm{BIO 6910027 <GO>}
+So more of a next year opportunity is what I'm hearing from you. Sorry for the quick follow-up.
+
+A - Warren Gardiner{BIO 18036655 <GO>}
+So I wouldn't expect pricing changes this year. So yes, it would be next year and beyond.
+
+Operator
+Thank you. The next question today comes from the line of Simon Clinch from Atlantic Equities. Please go ahead, Simon. Your line is now open.
+
+Q - Simon Clinch{BIO 21926331 <GO>}
+Hi, thanks for taking my question. I was wondering if you could just talk a bit more about the environmental products business and just how that's progressing right now and what it's going to take or when we should start to expect to see the growth rates really resume the kind of attractive pace that we saw previous years prior to last year.
+
+A - Benjamin R. Jackson{BIO 15745850 <GO>}
+Thanks Simon, this is Ben. As you know, we've been thinking about this space for well more than a decade and investing in it. And we feel great about the positioning that we have here, and we're just continuing -- it continues to be one of our most significant areas of investment across our futures business. As we see that the world is going to continue to have this dynamic of moving towards a cleaner energy environment, that road's going to be bumpy, and the fact that we can enable customers to have on that journey, a complete suite of products across oil, gas, power, and environmental that positions us in a very unique way to help our clients in one place be able to do all of that.
+
+On how the performance of the business itself, we feel good about it. You got to remember, in particular in Europe, there were some headwinds obviously last year, both in energy and the environmentals sector with the unfortunate war in Ukraine. We continue to watch the health of those markets. Obviously, our energy markets have come back very strong. And we continue to monitor both open interest trends as well as market data subscriptions within our environmental complex, which is at a record. We continue to look at active market participants that continues to grow in our environmentals. So underneath the covers, it's a very strong market. We have 98% market share of the EUA market space and of what's traded and 96% in North America. So all of that underneath the covers is really good.
+
+There's some natural tailwinds. I mentioned last quarter as well within the European market itself, where a little less than 40% of the sectors in the European economy are required to basically price emissions. And with Fit for 55 coming in place by 2028, there's another close to 40% that are going to be captured, such as maritime roads, buildings. So this is all secular growth drivers towards our European business.
+
+Our North American business continues to grow in terms of market participants. I mentioned in my prepared remarks, we just recently launched a new Washington carbon program, and we'll be launching later this quarter an Alberta carbon trading program. So it's another area of investment.
+
+Another area that we've been thinking about and have been ahead of actually shows up in our oil business, but it's also really environmentally oriented, and that's the high demand for low-carbon fuels. We've been ahead of this, and we've launched contracts called RIM futures. And what these are is basically every year the EPA sets standards, or in other words, guidelines for the amount of renewable fuels that need to be blended into transportation fuels each year so that you can create sustainable jet fuel, renewable diesel when we're filling up our cars, putting clean unleaded fuel into our vehicles.
+
+To meet this target, there's a certain amount of production of renewable fuels that are produced and those get renewable identification numbers. These are bought, sold, and traded historically but in a very opaque market. We launched futures on this as a much more efficient way to do this and we continue to see this grow in open interest as well as ADV very rapidly. It's one of the highest growth areas in that other crude and refined reporting line that we mentioned in our prepared remarks. And today in the last 12 months (Technical Difficulty) we're focused on the environmental space, we're looking ahead, and we're seeing some nice growth.
+
+Operator
+Thank you. The next question today comes from the line of Kyle Voigt from KBW. Please go ahead, Kyle. Your line is now open.
+
+Q - Kyle Voigt{BIO 18796617 <GO>}
+Hi, good morning. Just regarding the elongated sale cycle you mentioned again this quarter, we're seeing some competitors that have also experienced a similar dynamic, but other competitors, including one that reported this morning noted that they're not seeing that elongated sale cycle in their enterprise data business. I guess I just want to hear whether you think there are any competitive share shifts that are occurring in that FIDS business that you can see, or whether the slower growth is really entirely driven by the macro environment that we're in? And then also if you could give some commentaries whether you're seeing any light at the end of the tunnel there in terms of inflections that you're hearing from clients that we may be getting to a better sale better sales cycle environment as we (Technical Difficulty)
+
+A - Lynn Martin{BIO 6219754 <GO>}
+(Technical Difficulty) look at the other data services line. As Warren mentioned in his prepared remarks, we've actually been able to take share from some of the large (Technical Difficulty) significant amount of investment that we've made over the past few years in the delivery and modernizing the tech stack associated with that business. So, you're definitely seeing the elongated sales cycle abate there given the share we're taking.
+
+On the Fixed Income Data and Analytics side of the business, we still see some of the effects of the elongated sales cycle, but importantly, what you're seeing is we are taking share in our end-of-day pricing business. We're continuing to take share there. We're continuing (Technical Difficulty) line items that make up that overall line item, including the index business, which as Warren said in his prepared remarks, is now about $526 billion in (Technical Difficulty) AUM benchmarked against it, and some of the products that really go along with the trend of automation.
+
+So let me just unpack that a little bit. If you look (Technical Difficulty) language models, we're seeing good demand for, and as Warren mentioned in his prepared remarks, the adoption of our proprietary large language models. And you're seeing the effects of that come through in not just our other data services line and the revenue attributed to that line (Technical Difficulty) including the energy trading side of our segment. Additionally, those large language models in a different asset class are what feed things around fixed income automation, which is a trend that we continue to be uniquely positioned to capitalize on. So, products like (Technical Difficulty) continues to see outsized growth relative to the other portions of the Fixed Income Data and Analytics side of the business.
+
+And because of the strength in that part of the business, you're seeing that bleed into the ICE bonds execution side of the business, which outpaced the industry in spite of muted volatility in our core muni markets because of share gains due to that automation, the transparency provided by our data, as well as the adoption of institutional customers for these services across not just our muni products, but also our rates, our money market products, and importantly, starting to see it in our credit products. So overall, we feel really good about how we're positioned. We're not seeing anything in terms of share erosion. On the contrary, we're continuing to see shared gains in our core business, but we still are seeing the effect (Technical Difficulty)
+
+Operator
+Thank you. The next question comes from the line of Craig Siegenthaler from Bank of America. Please go ahead, Craig. Your line is now open.
+
+Q - Craig Siegenthaler{BIO 22511361 <GO>}
+Hey, good morning, everyone. My question is on the fixed-income business. So given the higher interest rate backdrop, many are predicting large bond reallocations over the next few years. So I wanted to see if you could walk us through your Fixed Income and Data Services business and provide your perspective on how this reallocation could impact the growth trajectories of the verticals inside this business?
+
+A - Lynn Martin{BIO 6219754 <GO>}
+Hi, this is Lynn again. That's a great question. So a couple of areas as you think about, where the yield profile continues to lead. Obviously, the attractive yield in treasuries more recently is what has really driven some of the outsized gains that I just mentioned on the execution side of the business for the treasury execution business and the money market products that we have.
+
+The contrary to that you've seen is on the fixed income index business where our capture rate, as we've talked about on some of the previous calls, tends to be lower on our treasury index business. So AUM continues to grow, but it doesn't have a direct correlation to the revenue growth. It's not a one-to-one relationship. As you're starting to see the issuance profile start to return to normal, you will see that in a reallocation of assets under management to the higher capture indices, that being our credit indices, the muni indices, and obviously with the equity markets doing well, our equity indices, but you'll also start to see that impact on our pricing and reference data, end of day business, because you will start to see new fund families emerge, new asset funds emerge, which you've not really seen over the last year.
+
+In contrast, over the last year, you've seen where it's been particularly tough for the fixed income asset managers, you've seen the number of funds decline. We're starting to see green shoots for the re-emergence of new funds being created. So, I think you'll see a positive impact on a variety of our line items, but again this is why we've set up the business in the Fixed Income and Data Services segment in particular to be an all-weather name to benefit from a variety of macro trends. So, if treasuries do well, that's going to impact the segment in one way. If munis do well, it's going to impact the segment in another way.
+
+Operator
+Thank you. The next question today comes from the line of Brian Bedell from Deutsche Bank. Please go ahead, Brian. Your line is now open.
+
+Q - Brian Bedell{BIO 3462988 <GO>}
+Great, thanks. Thanks very much for taking my question. Maybe just to come back to the ICE Chat offering and the proprietary large language models, and particularly in energy. I think you mentioned it was helpful in stimulating volume so far this year. Maybe if you could just talk a little bit more about what's actually driving that? How does the chat offering add volume? Is it bringing new customers into the mix, such as market makers? And then where would you think you are on this journey? It sounds like it's relatively new, but do you think you've already sort of enhanced the volumes with this, or there's a lot more to come in the future?
+
+A - Lynn Martin{BIO 6219754 <GO>}
+Yes, this is Lynn again. That's a great question. It's actually a topic we love talking about. So, we've had the existence of large language models in our ICE Chat offering for quite some time now. We started with the early stages of it, I'd probably say about a decade ago, but it's really been refined over the last for the last, call it, five years. It's become a contributor, though, to the energy markets across asset class, across oil, across gas, and across starting to impact utilities as well. Effectively, what it does is it allows for automation. It knows if you and I are talking about the fact that today is Thursday, or it knows if we're talking about a trade idea through those models. If it detects a trade idea, it will allow for the seamless transmission of that trade to our clearinghouses and our trading platforms.
+
+Additionally, it'll give you some fair value analytics and additional metrics around it to allow you to perform that trade with confidence that you're getting a good price. So it's really helping the trader to automate the workflow. It's why it's gained popularity, particularly over the last couple of years as those models have gotten smarter, as the technology has improved, quite honestly. But I think we're still in the early stages of this. It's still a small contributor to our volumes, but it's something we're incredibly excited about the potential for, not just in energy, but if you think about the rest of the Fixed Income and Data Services segment for fixed income, where fixed income markets are desperately requiring automation. So we think the concept has applicability pretty much across all of the markets that we operate, but we're seeing the early-stage benefits in the energy markets, as Warren, mentioned in his prepared remarks.
+
+Operator
+Thank you. Our next question today comes from the line of Patrick Moley from Piper Sandler. Please go ahead. Your line is now open.
+
+Q - Patrick Moley{BIO 23596997 <GO>}
+Yes. Good morning. Thanks for taking my question. So I just wanted to go back to energy. As you mentioned earlier, you're seeing strong volumes, strong open interest growth. I think even though you've had some easier comps, I think it was still the strongest 2Q in your history. So, just when we look at the macro landscape, I was hoping you could maybe give us your outlook for the back half of this year in energy. And I think my predecessor asked this on the last call, but is there anything out there right now that maybe you're keeping an eye on that could derail the strong momentum you're seeing in energy? Thanks.
+
+A - Benjamin R. Jackson{BIO 15745850 <GO>}
+Thanks, Patrick. This is Ben. So, it's clear to us that you got several underlying trends going on in the industry. You continue to have well-publicized underinvestment in legacy energy infrastructure that can cause supply shocks. You've got overall and broadly electronification in energy markets continues to take hold, but each of the energy markets and the new innovations that we continue to launch are at various ends of the spectrum of how mature they are in adopting electronification.
+
+The energy markets are becoming more global. As supply chains continue to evolve and change, those markets are becoming global and natural gas is now freely transported around the world in terms of LNG. You also have a trend around precision and risk management. Customers don't just want to trade big benchmark contracts, but they want to trade those in parallel to deep liquid markets that are at the points of production and consumption of where they're concerned about and have to actually buy the product. And there's no question, questionably, the last trend would be a move towards greener energy.
+
+And we've built our business with a very long lens towards helping our customers manage risk through all of these. We have a deep liquid set of contracts, hundreds of them around the world. We have a lot of different pricing points across each of those sectors, whether it's commodities, energy, cleaner fuels, environmental markets, gas, power, you name it. We built our business with that diversification and with our customers' needs in mind and we see the setup as great for us.
+
+You look at just the results that we've had, we're at or near an average daily volume market share high in crude oil and across our global oil complex. We're at an open interest market share high in North American gas and global gas. We're at or near an all-time revenue share high in June across energy. We've had record active market participation in multiple products, such as TTF gas and continuing to grow rapidly in the environmental space. And our futures markets continue to set records in terms of market data subscribers onto our platform.
+
+So overall, we feel great about all those underlying trends. And then to cap it off, you look at what's been going on with Brent, and that being from a futures and options standpoint, the largest oil benchmark in the world, a lot of the products that we have are very complementary to that, and with some of the significant changes that are happening, where dated Brent, our contract now has Midland TI oil coming into it. The fact that we saw that coming, launched our Midland WTI, our ICE Midland WTI contract known as HOU, that contract continues to grow very well. And since Midland TI was introduced into the Brent complex this summer, we've seen that contract continue to grow rapidly, and we've had over 50 million barrels of oil that has now been delivered against that contract. So, we feel great about the prospects of where we're positioned both for the balance of this year and into the future.
+
+Operator
+Thank you. The next question today comes from the line of Alexander Blostein from Goldman Sachs. Please go ahead, Alexander. Your line is now open.
+
+Q - Aditya Sharma{BIO 19544614 <GO>}
+Hi, good morning. This is actually Aditya filling in for Alex. Thanks for taking the question. Another question was on fixed income on the execution side. We've seen continued progress in Fixed Income Execution, although from a small base. You've been adding capabilities here with the recent launch of a sweeps protocol. Can you provide more KPIs for this business? What are your electronic markets like in IG and high yield? Where do you see it going over the next 12 months? And lastly, how does price compare to incumbent platforms and protocols that you compete in? Thanks.
+
+A - Lynn Martin{BIO 6219754 <GO>}
+Yes, this is Lynn. Thanks for the question. So, traditionally, on the execution side, we've operated in the -- our core market's really been the muni market.
+
+Now, I think what's really encouraging about this quarter is you saw strong growth from us, even though the muni markets have had muted volatility, muted activity this quarter. And I think that's really been attributable to the fact that we really have spent the last couple of years building out our distribution framework and focusing on building our distribution framework and getting access to the institutional users, but also continuing to gain share in retail and wealth. So despite the fact that the muni markets have been quieter in Q2 than over the last year, we were able to gain share, continue to gain share in the retail and wealth side of the business.
+
+Now importantly because we had done the development efforts and the integration efforts into the institutional side of the business, the treasury markets, which had a much more attractive yield profile, were able to have outsized results, which drove the growth in this quarter, which you saw that coming from not just retail and wealth segments, but also the institutional side of the business. And as you noted, we have made significant investments in the technology, because the distribution has been there into the institutional side of the business, in addition to the traditional wealth and retail side of the business, when we upgraded the technology to perform our sweeps, as we announced earlier this week, we've been able to start to gain a bit of share on the corporate side of the business, U.S. corporates in particular -- particularly investment grade over the last few months.
+
+Now, that's still very early days, but we're optimistic because of the investments that we have made in the platform, not just on the technology side, but also building the distribution over the last couple of months and doing it on a market-by-market basis.
+
+Operator
+Thank you. There were no additional questions waiting at this time, so I'd like to pass the call back over to Jeff Sprecher for any closing remarks. Please go ahead.
+
+A - Jeffrey C. Sprecher{BIO 3310847 <GO>}
+Well, thank you, Bailey. Thank you all for joining us this morning, and I'd also like to again thank my colleagues for delivering the best first half in our company's history, and I'd also like to thank our customers for their continued business and for their trust.
+
+We look forward to updating you again soon as we continue to innovate and build on this all-weather business model that generates growth on top of growth. And with that, I hope you all have a great day.
+
+Operator
+This concludes today's conference call. Thank you all for your participation. You may now disconnect.

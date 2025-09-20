@@ -1,0 +1,434 @@
+Q4 2023 Earnings Call
+Company Participants
+Bill McDermott, Chairman and Chief Executive Officer
+CJ Desai, President and Chief Operating Officer
+Darren Yip, Vice President, Investor Relations
+Gina Mastantuono, Chief Financial Officer
+Other Participants
+Alex Zukin, Analyst, Wolfe Research
+Arjun Bhatia, Analyst, William Blair
+Brad Sills, Analyst, Bank of America
+Brad Zelnick, Analyst, Deutsche Bank
+Joel Fishbein, Analyst, Truist Securities
+Karl Keirstead, Analyst, UBS
+Kash Rangan, Analyst, Goldman Sachs
+Keith Weiss, Analyst, Morgan Stanley.
+Mark Murphy, Analyst, J.P. Morgan
+Mike Cikos, Analyst, Needham and Company
+Peter Weed, Analyst, Bernstein
+Samad Samana, Analyst, Jefferies
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. My name is Sheryl and I will be your conference operator today. At this time. I would like to welcome everyone to the Q4 2023 ServiceNow Earnings Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. (Operator Instructions) Please bear in mind that only one question will be allowed for the Q&A session.
+
+I would now like to turn the call over to Darren Yip, Vice President of Investor Relations. Darren, the floor is yours.
+
+Darren Yip{BIO 22306278 <GO>}
+Good afternoon, and thank you for joining ServiceNow's Fourth Quarter and Full-Year 2023 Earnings Conference Call. Joining me are Bill McDermott, our Chairman and Chief Executive Officer; Gina Mastantuono, our Chief Financial Officer; and CJ Desai, our President and Chief Operating Officer.
+
+During today's call, we will review our fourth quarter 2023 results and discuss our guidance for the first quarter and full-year 2024. Before we get started, we want to emphasize that the information discussed on this call, including our guidance is based on information as of today and contains forward-looking statements that involve risks, uncertainties, and assumptions. We undertake no duty or obligation to update such statements as a result of new information or future events. Please refer to today's earnings press release and our SEC filings, including our most recent 10-Q and 2022 10-K for factors that may cause actual results to differ materially from our forward-looking statements.
+
+We'd also like to point out that we present non-GAAP measures in addition to and not as a substitute for financial measures calculated in accordance with GAAP. Unless otherwise noted, all financial measures and related growth rates we discuss today are non-GAAP except for revenues, remaining performance obligations or RPO, current RPO; and cash and investments. To see the reconciliation between these non-GAAP and GAAP measures, please refer to today's earnings press release and investor presentation, which are both posted on our website at investors.servicenow.com. A replay of today's call will also be posted on our website.
+
+With that, I will turn the call over to Bill.
+
+Bill McDermott{BIO 3075298 <GO>}
+Thank you, Darren, and thank you very much everyone for joining today's call. ServiceNow closed an outstanding 2023 with a beyond expectations Q4. Here is the state of our business; artificial intelligence is injecting new fuel into our already high-performing growth engine. The company's Q4 results tell that story.
+
+Subscription revenue grew by 25.5% at constant currency, that's 200 basis points above the high-end of our guidance. CRPO growth is 23% in constant currency, also 200 basis points above our guidance. Operating margin was over 29%, that's approximately 200 basis points above our guidance.
+
+We had 168 deals greater than a million dollars in net-new ACV up from 126 a year ago, a 33% increase. ServiceNow's Q4 performance is packed with milestones spanning the full breadth of our portfolio. With technology, customer, and creator, we now have three workflow businesses, over a billion dollars in ACV. We have 11 individual product lines with north of $250 million in ACV.
+
+ITSM, ITOM, and ITAM each had double-digit deals over a million dollars in Q4. Security and risk combined for 12 of the top 20 with nine deals over a million. Customer, employee, and creator workflows each had double-digit deals over a million. Our large new logo count continued to accelerate in Q4. We had a record 10 new customers signing deals over a million in NNACV including a $10 million when with a very large global financial services firm, which is our largest new customer logo in history.
+
+Global iconic brands such as Chipotle, Air France, TIAA, NTT Data Group Cooperation, and Bosch are digitally transforming with ServiceNow. We're proud that TIAA one of our first 10 customers is still expanding their business with us through new out-of-the-box functionality, so they can accelerate time-to-market. Following a record Q3, public sector continued its strong growth in Q4 with key wins, including the United States Army, US Postal Service, and Australian Department of Defense Digital Delivery group.
+
+We are extremely proud to have finished 2023 operating at the Rule of 55 plus. As you'll hear from Gina our 2024 guidance reflects our ongoing belief in ServiceNow strategic relevance. Our core business is rock-solid and growing. Our perimeter is growing, our platform adoption is growing. We are in fact in a new era of business transformation powered by AI. This is unlocking massive opportunity in the enterprise software industry.
+
+And ServiceNow is extremely well-positioned not only to lead this movement but to define it. 2023 was the latest successful milestone on this journey and we intend to make 2024 an even greater success. To say we're fired up would be an understatement. Let's spend some time framing the dimensions of this new AI world. Gartner estimates $5 trillion dollars in tech spending in 2024 growing to $6.5 trillion by 2027. That means that spending will grow another trillion dollars in only two years, accelerating from the decade-plus, it took for us to get to $5 trillion.
+
+For the first time in a decade, IT services will become bigger than communication services in 2024. Gartner estimates that by 2027, nearly all of the growth in worldwide IT spending will come from software and IT services. And when you drill deeper into the Gartner forecast between 2023 and 2027, $3 trillion will be spent on AI.
+
+What we have here is a strong durable market being supercharged by a once-in-a-generation secular trend. ServiceNow has been investing, innovating, and preparing for this wave for years, which is why we're catching it so early. We have a long track record of commercializing breakthrough technologies. When our Pro SKUs were introduced, we saw very exciting traction and customer adoption.
+
+Our Pro Plus offerings which we launched just four months ago with our Vancouver release are outperforming the pace of the Pro upgrade cycle; exciting. The results in our first full quarter since launch validate this trajectory. Siemens AG is using Now Assist for HR service delivery to resolve HR cases faster for its entire global workforce.
+
+This is one example of many and as always, ServiceNow's strength in our capacity to deploy net-new innovation, especially our ambitious Gen AI road-map. In Q4, we released significant new capabilities, virtual agent update drives faster issue resolution through advanced conversational AI chat. Employees get the immediate answers they need, businesses get higher self-solve rates and it only takes 15 minutes to set it up.
+
+Our text-to-workflow capability dramatically increases developer productivity. ServiceNow's developers have been using text-to-code for several months. They are generating high-quality code using text to describe the type of code they want. This has increased our developer innovation speed by 52%. Now Assist for field service management reduces cost while increasing revenue by helping technicians get the job done in the first visit, identifying the necessary equipment providing repair recommendations, and automating follow-up at speed.
+
+Beyond the platform itself we see AI as a 360-degree strategic imperative. It's why ServiceNow joined the AI alliance to advance open, safe, and responsible AI. It's also why we are continuing to grow our strategic partnerships to ensure every enterprise can use AI as the cornerstone of business transformation.
+
+Today, we expanded our strategic alliance with EY to co-create solutions for generative AI governance for our customers. And of course EY will also be using ServiceNow's generative AI capabilities to enhance experiences for all of their employees. We also unveiled another major expansion to our partner program.
+
+The latest addition in a series of investments as partners are building new business models on the ServiceNow platform. These are two examples of many. I've told ServiceNow's team worldwide that the company is now moving into Phase Five, the culmination of our long-term goal of surpassing $10 billion in ACV, which incidentally, only a handful of software companies have ever achieved.
+
+We have so much runway ahead for the long-term growth of this company. There are two key elements of our strategy, execution and scale. Execution, we know is an art form. Scale is all about capitalizing on new opportunities as a truly global platform company, one of those in our market making alliance with reason.
+
+Today, ServiceNow and Visa announced a five-year strategic alliance to transform payment service experiences. In the initial phase of the alliance, the companies will launch ServiceNow Disputes Management built with Visa, a single connected solution for disputes resolution.
+
+This Gen AI-powered solution will offer end-to-end dispute resolution for customers globally. Everything from the first indication of a questionable charge through early investigation to final resolution. Another example is our growing partnership with AWS. Beginning this month, ServiceNow will be available as a SaaS offering in the AWS marketplace.
+
+From an automation perspective, we have long believed that identifying legacy process challenges is an active stimulant for new workflows. That's the beauty of our platform. The architecture gives us limitless ways to accelerate speed-to-value for our customers. And the more workflows we drive, the more value we create.
+
+That's why we tucked in UltimateSuite a task mining company to enhance intelligent automation across the Now Platform. If we can help customers find it, ServiceNow can fix it. And we fix it in complete harmony with any existing software landscape, delivered in a consumer-grade user experience.
+
+CEOs don't want to wait another decade for technology to finally deliver on its promise. One told me, I'm tired of excuses coming into my boardroom. We need new innovation and new experiences and we need it now. That's obviously music to our ears and nicely on-brand for ServiceNow.
+
+There is plenty more to discuss about the company we are building and the progress we're making. We have more accolades than time to listen to them. Top analyst firms ranked ServiceNow as the leader in 14 separate reports in 2023 for our automation and AI capabilities.
+
+Glassdoors recent US Best Places to Work lists ServiceNow as number three overall and number one in software. One of our proudest achievements is the American Opportunity Index. This index is data based. They study what really happens to employees at America's largest companies over time.
+
+ServiceNow scored fifth and that's out of 400 companies overall and ServiceNow was the number one technology company on the index. That means that people who have fought hard to build a great company are being rewarded with a great life. This all means so much to us because culture is the glue that binds a winning team together.
+
+We have world-class professionals at ServiceNow who care deeply about our customers and our partners. Since Fred Luddy invented the company, we've all made our contributions to help ServiceNow emerge as the hungry and humble winner, it is. We believe in our platform, we stick together and we try to have some fun along the way too.
+
+That's why the results show up the way they do. It's also why over one million people applied to work here last year. So, all of our shareholders who continue to invest your trust in ServiceNow, we thank you and we got your back. We're building a masterpiece here and we're only getting started.
+
+2024 will show that we're putting AI to work for the world, because now, as ever, the world works with ServiceNow. I look forward to the questions and the discussion we will have shortly. In the meantime, I'd like to turn the call over to our outstanding Chief Financial Officer, Gina.
+
+Gina Mastantuono{BIO 16430022 <GO>}
+Thank you, Bill. Happy New Year to all of you who are listening in. Q4 was another exceptional quarter to conclude what had been a phenomenal year. Once again we exceeded our topline growth and operating margin guidance metrics, showcasing our team's relentless focus on execution.
+
+ServiceNow's agility in responding to enterprise needs has solidified our position as the trusted intelligent platform for driving digital transformation. In Q4, subscription revenues were $2.365 billion, going 25.5% year-over-year in constant currency, exceeding the high-end of our guidance range by 200 basis points.
+
+We closed out 2023 with $8.68 billion in subscription revenues also representing 25.5% constant-currency growth; all organic at a scale that hasn't been accomplished by any other enterprise software company. RPO ended the quarter at approximately $18 billion, representing an acceleration to 27.5% year-over-year constant-currency growth.
+
+CRPO was $8.6 billion, representing 23% year-over-year constant-currency growth, a 200 basis-point beat versus our guidance. From an industry perspective, energy and utilities, business and consumer services, and education were particularly robust in the quarter. Government control continued to show impressive growth and Telecom, Media, and Technology also saw strength.
+
+As Bill noted, I'm pleased to announce that Customer Workflows crossed $1 billion dollars in ACV in Q4, fast following our creator workflows which hit that momentous milestone in just Q3. We now have three workflow categories generating over $1 billion dollars in ACV, highlighting the breadth of our portfolio.
+
+Our renewal rate with a best-in-class 99% in Q4, continuing to demonstrate the strategic relevance of the Now Platform as it remains a mission-critical part of our customers' operations. We ended the year with over 8,100 customers with our focus on landing the right new customers continuing to bear fruit as large new logo growth accelerated for the fourth consecutive quarter.
+
+We ended Q4 with 1,897 customers paying us over $1 million in ACV. We closed 168 deals greater than a million in net-new ACV in the quarter, a 33% increase year-over-year; that includes five deals over $10 million. For the full year 2023, we saw an approximate 30% increase in deals greater than $1 million in net new ACV.
+
+In Q4 our Gen AI products drove the largest net new ACV contribution for our first full quarter at any of our new product family releases ever, including our original Pro SKU. Turning to profitability, non-GAAP operating margin exceeded 29%, approximately 200 basis points above our guidance, driven by the topline outperformance and disciplined spend management.
+
+Our free cash flow margin was 55%, up 250 basis-points year-over-year. For the full-year 2023, the operating margin was 28% and the free cash flow margin was 30%. Total free cash flow for 2023 was a robust $2.7 billion. We ended the year with a healthy balance sheet, including $8.1 billion in cash and investments.
+
+In Q4, we repurchased 400,000 shares as part of our share repurchase program with the primary objective of managing the impact of dilution. As of the end of the quarter, we have $962 million remaining of the original $1.5 billion authorization. Together, these results continue to demonstrate our ability to drive a strong balance of world-class growth, profitability, and shareholder value.
+
+Moving to our guidance; we are raising our 2024 outlook to reflect the strong momentum with which we exited 2023. This partially reflects the early success we've seen with our Gen AI products as those investments are accelerating the build of our already robust pipeline with customers lining up to be first movers in this next wave of business transformation.
+
+As always, we continue to be prudent around our assumptions for incremental customer budgets and the macro crosswinds in our guidance. With that in mind, let's turn to 2024 guidance. We are raising our subscription revenue outlook by $165 million at the midpoint to a range of $10.555 billion to $10.575 billion, representing 21.5% to 22% year-over-year growth or 21.5% on a constant-currency basis.
+
+We expect subscription gross margin of 84.5%, reflecting investments in our data centers and emerging growth opportunities, offset by 100 basis-points benefit from a change in useful life of our data center equipment from four to five years, resulting from an assessment completed earlier this month.
+
+We're also raising our full-year operating margin target from 28% to 29%, driven by continued OpEx efficiencies. We expect free cash flow margin of 31% up 50 basis points year-over-year overcoming an incremental point of cash tax headwinds. Finally, we expect GAAP-diluted weighted-average outstanding shares of $208 million.
+
+For Q1, we expect subscription revenues between $2.510 billion and $2.515 billion, representing 24% to 24.5% year-over-year growth, or 23.5% to 24% on a constant-currency basis. We expect CRPO growth of 20% on both a reported and constant-currency basis. This reflects the tremendous strength of our federal business, which has resulted in a higher mix of 12-month contracts that will create a negative 150 basis-point impact to Q1's CRPO growth.
+
+We expect that these contracts will renew in Q3 as ServiceNow's Federal contract renewal rates are 99%. We expect an operating margin of 29%. Finally, we expect $208 million GAAP-diluted weighted-average outstanding shares for the quarter. In summary, ServiceNow's Q4 outperformance is another example of the strength of our platform and our people.
+
+The team's amazing accomplishments in 2023 set the stage for continued success in 2024. ServiceNow's position as the intelligent platform for end-to-end digital transformation has gained momentum throughout the year. Leaders are shifting their investments into proven strategic platforms that leverage the power of AI to deliver growth across the top ten bottom lines.
+
+With customers prioritizing quick time to value, the Now platform delivers. The accelerating pace of investment and workflow automation and interest in Gen AI positions us well on our journey to becoming the defining enterprise software company in the 21st Century. Bill, CJ, and I would like to extend our gratitude to all our employees worldwide for their outstanding contributions to ServiceNow's success this past year. 2023 was a remarkable year and we're looking forward to an even more exciting 2024.
+
+With that, I'll open it up for Q&A.
+
+Questions And Answers
+Operator
+(Operator Instructions). Question comes from the line of Brad Zelnick with Deutsche Bank. Brad, your line is open.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Okay, great, thanks very much, and congrats on an amazing finish to 2023. Bill, it's clear the Now Platform is a destination of choice for enterprise AI and modern digital workflows. But I'd love to hear your view of the environment versus what you see is Now specific. It would be great if you can share a bit about close rates, sales rep participation rates, even net-new ACV performance as you did last year. Just help us contextualize how it's going out there. Thanks.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah, Brad. Thank you very much for the question. Things are going very well out there and the momentum is terrific. What's really happening, and I can say this after 186 CEO meetings in the last six months; the CEOs are now getting very involved with the Gen AI revolution. They realize there has to be architectural adjustments to their environment and the manner in which they manage their data and the platforms they've beholden to, to actually take advantage of Gen AI.
+
+And if you think about the half-a-century messed[ph] that exists out there with legacy systems, in many cases, multiples of the same system. We have one unifying force in these conversations, which is the Now Platform because we cooperate with the complexity of this landscape without putting people in a position to rip and replace. So, they're looking for platforms that matter. We are one of those and I think, as Gina said, we are the intelligent platform for end-to-end digital transformation.
+
+When you have that C-Level executive meetings, they really get it now. And with regard to Gen AI, the momentum is outstanding. As I said, that SKU has outsold any other new introduction we put into the marketplace. So there's a real appetite to invest in Gen AI and there is no price sensitivity around it because the business case is so unbelievable.
+
+I mean, if you're improving productivity, 40%, 50% it just sells itself. So, I think we're in a really, really good place, the Gen AI investments are coming, we're actually getting orders because we have great product, thanks to CJ, and it is unbelievable engineering team. So. I would tell you at this time last year compared to this time this year, you should be more bullish now.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+It's great to see it reflected in the guidance. Thanks so much for taking the question.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Brad.
+
+Operator
+Your next question comes from the line of Mark Murphy with J.P. Morgan. Mark, the floor is yours.
+
+Q - Mark Murphy{BIO 18840231 <GO>}
+Thank you very much. So, Bill. I don't think I've heard any other software companies say that its Gen AI products produced the strongest net-new ACV of any product family. We had a contact saying, it's really the only platform with real-life uses of AI right now. So I'm wondering if you think that is accurate. And that's what's driving it or should we relate it more to the work you've done getting ahead on pricing and packaging? Should we think back to the efforts of that element AI team which is still fantastic or maybe some other factor in your mind that's really allowing you to see faster adoption of AI?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah. I mean I'll obviously let CJ comment on this also. But if you look at the Visa strategic partnership using Gen AI solution to manage
+
+End-to-end dispute resolutions with customers. I mean this is one of the great brands in the world. One of the substantial companies and just think about the impact Gen AI has in radically simplifying their conversation with their customer and deflecting all the human capital it takes to resolve these cases when technology can do it.
+
+If you look at E&Y and the idea of instilling Gen AI governance on a single pane of glass to manage risk and compliance for some of the biggest corporations in the world. If you look at the opportunity every single industry has a great opportunity. I was in Germany recently and I was talking to a home appliance industry participant post-COVID, they went from 25% online sales to much more than 50% and it's growing. So, when CJ and his team brought field service management with Gen AI to the marketplace. Just think about a one call where the agent instead of -- the rep instead of using a clipboard and a pencil, he has got it on the mobile, knows exactly what part to bring resolves the case on the spot. That's one part of it, but here is another part of it.
+
+The consumer will pay a lot more if they can get a same-day repairs agreement along with the appliance and the margins on same-day repair a far greater than the box itself plus, you create a nice annuity stream. So, what we're talking about here is fundamentally rethinking the way business is transformed using our platform and Gen AI. And CJ, I know and I do want to congratulate you and thank you for the unbelievable job that you continue to do bringing this innovation to the marketplace. Please give us your thoughts.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Thank you, Bill. And Mark, here is how I would say, some of the questions that you asked are absolutely spot on. Element AI team was absolutely a game-changer from talent perspective and our investments in AI that you are very familiar with since 2017, continue for us, not only on the speed of innovation, but what we learned from our customers.
+
+Let me give you a couple of quick insights. We were the first ones, one of the first ones to release the product with use-case-specific generative AI, starting in September. So, we definitely had first-movers advantage from that perspective. However from a customer sentiment perspective, I will tell you, there were two Wall Street banks telling me specifically that they wanted to be the first ones on the Street -- Wall Street in New York to go with our Gen AI solution.
+
+And one of them signed with us and you know it worked for one, but in the sense that this is a highly regulated environment, regulators want to know how AI is done and we were able to sign with the first Wall Street Bank in New York in Q4. In addition, we also signed with a large manufacturing company that wants to fundamentally transform their employee productivity.
+
+And then, we also signed with a very large restaurant food retailer who wanted to transform employee experience and overall shared services, productivity, so that their margins can go up. This is definitely a game-changer. We are learning a lot from our customers. We are seeing very significant momentum and I was here when we launched 2018 September ITSM Pro and as Bill and Gina shared that this has exceeded all of our expectations on how well we did on the monetization of our Pro Plus SKUs. Thank you, Mark.
+
+Q - Mark Murphy{BIO 18840231 <GO>}
+Thank you. Congrats on being so far ahead.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thanks a lot, Mark.
+
+Operator
+Our next question comes from the line of Arjun Bhatia with William Blair. Your line is open.
+
+Q - Arjun Bhatia{BIO 17340929 <GO>}
+Perfect, thank you guys so much. And I'll add my congrats. I wanted to maybe touch on the strength that you're seeing in customer and employee workflows. Because if I look at the net new ACV that you're driving there, the mix is relatively stronger than IT workflows there this quarter, is that attributed to some of the AI adoption and Plus SKU or are there other drivers there that you're seeing drive momentum in those solutions.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah, thank you very much, Arjun. I really appreciate it. Just a couple of statistics on the customer workflows, 18 of our top 20 deals, what we're seeing is there is a tremendous opportunity to really take ServiceNow and squarely place it on the customer relationship management category.
+
+When you think about front, mid, and back-office and the fact that we can align all three of those things, and nobody has to lose for us to win. We can fill in all the blanks what the current participants don't do especially with their integration problems, it's just a fantastic opportunity for our customers and I think it's important to know when I gave the field service management, example, our net-new ACV and field service management specifically was up over 50% year-over-year. So, I think it's important to recognize that we have a whole list of new logos in this space and employee workflows, nine of our top 20 deals and what's kind of interesting, every single CEO now is looking to make the people packed[ph] far more productive than it is and with natural language, to have your employees seek the data and the information they want and have reported back to them in just a very nice paragraph of content and data.
+
+So they can do their jobs better is kind of like in the no-brainer category, and we have some really great logos that I'm sure CJ would like to share with you as well. But both of those areas are really good and incidentally, that employee spot that I mentioned was up 80% year-over-year.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Thank you, Bill. And Arjun, some of the questions that you asked you're spot on. So AI, and specifically Pro Plus Q was a catalyst both for our employee and customer workflow. So, that's number one. Number two, within customer workflow, which had an amazing quarter, and I'm so proud of that team and ServiceNow to cross $1 billion dollars of ACV which just a few years ago was $10 million.
+
+That's a multiple orders of magnitude growth on the difference we are making in customer service, because we are ServiceNow and we know how to do customer service. So, ServiceNow growth was unbelievable from customer service and customer workflow perspective. Two sectors, I'll call out besides Bill's point on field service management.
+
+Number one, our telco products specifically designed for telco industry saw triple-digit growth with some of the largest telcos in the world related to customer service. And also we saw in public sector from a direct-to-citizen perspective, customer service management did really well in Q4 and on employee workflow, as Gina outlined, we had many million dollar deals across the industries, including public sector and that business in addition to HR service delivery with workplace service delivery and legal service delivery continues to do very well, growing very strongly.
+
+Q - Arjun Bhatia{BIO 17340929 <GO>}
+Great to hear. Thank you, CJ. Thank you, Bill. Congrats again.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you so much, Arjun.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Thank you.
+
+Operator
+Your next comes from the line of Kash Rangan with Goldman Sachs. Your line is open, Kash.
+
+Q - Kash Rangan{BIO 22837283 <GO>}
+Congratulations Bill, Gina, CJ. Great to hear that you are among the first set of software companies to give us splendid results. And I feel better about 2024 already, just based on your numbers. Bill, question for you. It looks like generative AI is making sales cycles easier, if I could say that, and has the potential to bring in repeat business with existing customers at a faster pace and magnitude.
+
+Could you talk a little bit about how much easier it has gotten despite the environment staying tough but with generative AI, how much easier has it gotten for the company to generate that initial lead and close that deal and do more repeat business? That's it for me. Thank you.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Hey Kash. So, I will touch on this from a couple of things. Demand environment as Gina has outlined, it continues to be still tough right, we are not ready to say that things have improved significantly. It is our platform's strategic relevance, as Gina called out, is very high, which has allowed us to what you saw, million-dollar deals and large deals that happened in our Q4 across the globe, across the industries, the performance was very strong.
+
+So let me just touch on that. On generative AI, the demand for generative AI varies by industry. But we are, I'll give an example of a large manufacturing company, the CIO reached out to me in October, wanted to do a four-weeks POC and purchased it in December. So from a sales cycle perspective, that was a top-down decision moving very, very fast. A large retailer is currently also doing a proof-of-concept with ServiceNow Pro Plus SKU, because it is a CEO initiative that Bill talked about. So, from a demand on Gen AI specifically it is very, very clear that customers are pulling us in that direction in certain industries. And for those sales cycles. Yes, we are very fast. They want to see a large manufacturing company CEO that Bill met in Germany, I had a follow-up call in December. And he said, CJ, I want to kick off on Pro Plus for this specific use case on ITSM, and you and I should review the results end of February. This is faster than ITSM Pro sales cycle and so, I would say overall environment is still similar from what we saw in Q3 to Q4 and Gina will touch on it but Gen AI, it's on a faster cycle.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah, may I also just add one thing, Kash. If you think about every single industry, they all have their own personality. So, for example, I had the opportunity to meet a pharma company and as you know, the average life-cycle for example for clinical trials is over 6.5 years. And this is an industry that drops $200 billion a year on this clinical trial process and 90% of them fail.
+
+So, if you just think about that for a minute, you say, well, what can generative AI do to automate document generation, for example, that would be in line with regulatory protocols, and you come up with site contracting agreements for example, that also include the patient because the patient has to be engaged in the process; otherwise, they won't stay in the trial.
+
+And every time a patient opts out, they lose money, $20,000 per patient. So, generative AI on the ServiceNow platform obviously can go in there and radically cut down the cycle time of these clinical trials. So, CEOs right out of the gates are ready to go. Your team, my team, let's figure this out. So there's a real appetite and I think why I'm so bullish as we have a platform that already has it (Technical Difficulty)
+
+Q - Kash Rangan{BIO 22837283 <GO>}
+Amazing, Thank you so much.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Kash.
+
+Operator
+Your question comes from the line of Keith Weiss with Morgan Stanley. Keith, the floor is yours.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. Thank you guys. And again, congratulations on a really strong end to 2023. I wanted to talk a little bit on the expense side of the equation, you guys really outperformed nicely on the operating margin side of the equation this quarter looking for further expansion next year. And looking at sort of where you guys are hiring, I was little bit surprised to see more strength on the R&D side of the equation than sales and marketing. Sales and marketing headcount is only up 6%, can you talk about sort of that relationship changing a little bit, R&D headcount is almost matching sales and marketing head count right now. If we went back five years ago, sales and marketing was 50% ahead of R&D. So, how the investment priorities changing now especially if you go into 2024 and how are you guys feeling about sales capacity and sort of the necessity to expand sales capacity heading into 2024.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Hi Keith, this is Gina. Thanks so much for the question. So yes, we're really proud to be on the top-line as well as the bottom-line in Q4 and obviously continuing to expand those margins in 2024. Specifically when you think about investments in R&D headcount, it is all around continued innovation and our investments in Gen AI and AI and so, not surprising given the commentary that you've already heard, we're continuing to double down in investments on fingers on keyboards and engineers really driving the Gen AI revolution.
+
+So, you'll continue to see more of that. On the sales side, it's really about scale and leverage, right. So, sales and marketing headcount, there's a lot in there. It's not just quota-bearing feet-on-the-street sales, right. So, you've got marketing, you've got marketing operations, you have sales operations in there.
+
+If you actually were able to break it down to feet-on-the-street quota-bearing sales, you would see that growth rate much higher. And in fact as I think about sales capacity going into 2024, we have a larger increase in ramped[ph] reps going into 2024 than we've had in years. So from a capacity perspective, we feel great about how we're entering 2024.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Awesome. Thank you. (Multiple Speakers)
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+It seems like it really speaks to an increasing sales efficiencies that you just need less people to support any given quota-carrying sales reps.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Absolutely, productivity and efficiency is going up as well as the fact that from a scale perspective, not growing some of the operational heads as much.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Got it. Excellent, super helpful. Thank you guys.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+And we'll and will be definitely increasing hiring as we go into 2024, as you would expect.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+And Keith. Gina doesn't brag about this, neither does Russ Elmer, who is our Office of General Counsel lead, we're using the Now Platform. So, in all the back-office functions of the Company, we're so automated, so productive and they're getting things done on the Now Platform, that it would take other companies five and six times the headcount to do the same job. And that is really something.
+
+We actually even had with legal service delivery AI tell us that we're spending too much time on contracts less than 250K, our office General Counsel Russ made the decision based on AI that we can fundamentally change that and reorient the workflow around those kinds of agreements, which gave us a huge rush and he didn't have to hire anybody.
+
+And then we actually took that product and our great engineering team built it. We call it LSD, legal service delivery and our lawyers all over the world they want to jump on. So everything we do internally now on now has an external marketing force associated with it.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Yeah, and Keith, Gina handled this really well in terms of sales efficiency but one of the things that Bill mentioned that I just wanted to call out is that we are really proud of our sales teams, besides the expansion of our platform in different buying centers, but also the new logo growth. The new logo growth for 2023 was way ahead of what our expectations were. Specifically in the Americas and Europe compared to 2022, including the large transaction that Bill referenced. But when your sales capacity and sales efficiency specifically is improving while you also gaining new logos, which is just a very super-proud moment for us in 2023.
+
+Operator
+Your next question comes from the line of Samad Samana with Jefferies. Samad, your line is open.
+
+Q - Samad Samana{BIO 17883999 <GO>}
+Hi, thanks. Congrats on a great close to 2023. Gina, I was wondering if maybe you could help us understand that on the CRPO upside, if you think about the 200 basis points and could you kind of break-down for us how much of it was adoption of Gen AI and the net new ACV that drove exceeding expectations versus just kind of more strength than expected on the renewal cohort and what drove or what's the mechanics of the upside was in the quarter.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah, sure. So we beat our Q4 CRPO growth guidance by 200 basis points as you know and I would say it's driven probably half-and-half by net new ACV outperformance and certainly Gen AI is in there, but it's not all Gen AI. So our core business is also doing well. And then we also did see higher early renewals than we had assumed in our guidance, and. I would say it's about half-and-half of the total beat.
+
+Q - Samad Samana{BIO 17883999 <GO>}
+Great. And then, Bill, this maybe for you or for CJ, but as you think about the product portfolio and some of the newer products you've talked about over the last year or so, beyond Gen AI, whether it's observability or ERP workflows, where are you seeing the most demand or interest outside of Gen AI and what are you most optimistic about in 2024, beyond (Multiple Speakers).
+
+A - CJ Desai{BIO 18310367 <GO>}
+Absolutely. So, Samad, here is what I would say. In general every single workflow grew for us on net new ACV, which is always a great thing that's a balanced performance across every single workflow. And so, really proud of the team, both our go-to-market and engineering teams that we continue to deliver innovations and our go-to-market teams, they know how to sell that innovation across our product lines. So that's number one.
+
+Number two, when I look at some of our industry products that I called out, specifically for our TMT as in telco, media, and tech, they are seeing very nice traction. We also released in our Technology Workflow under the leadership of Pablo Stern, operational technology product that also grew very nicely. Bill called out field service management, customer service management had an amazing not only Q4 but 2023 and then employee workflow also grew.
+
+So, as I am walking through this list besides Gen AI and then I can tell you the same thing about security, risk and so -- asset management had a phenomenal 2023. So, I expect all these product lines to continue to have momentum besides generative AI.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Great. Thank you so much, team.
+
+Operator
+Your next question comes from the line of Alex with Wolfe Research. Alex, the floor is yours.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Thanks guys. So first of all, congratulations on a fantastic quarter and I think the amount of conversation about Gen AI and the tangible impacts of it on the model and the quarter were really great to hear about and see. I just -- I wanted to dig in a little bit to see if you could dimensionalize further either from a revenue contribution kind of CRPO or bookings contribution in the quarter or attach rate that you're seeing with Pro Plus as you go-to-market and how should we think about that for fiscal '24, what's the aspiration here for Q1. Just give us a better, I'd say, a better indicator or something that we can kind of monitor and track where we can see the Gen AI penetration going forward, and I have a quick follow-up.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Sure, Alex. It's Gina. What I'd say is and we called this out in my script, right, at the end of the day, Gen AI products drove the largest net new ACV contribution in the first full-quarter of any of our new product family releases ever, including original Pro SKU. So I get the question often do we expect the adoption curve to be steeper for our Pro Plus than our Pro?
+
+Certainly, in the first full quarter of launch, it absolutely has shown that. That being said, it's very early days and so from a revenue contribution perspective, it's not going to be huge, but it's certainly helped when I thought about my guide for '24 and that increase of $165 million at the midpoint, right.
+
+So Gen AI, early days, but the adoption curve so far is steeper than the original Pro. We will keep an eye on it, and as the numbers get larger. We will continue to update you and everyone else as to the penetration, but right now, excitement and interest from our customer base is much stronger than we ever saw in the first -- in early days of our Pro SKU and we're excited by that momentum, at the same time-being conservative as. I think about the guide for '24 because it's still so early.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Super helpful. And then. I guess if I think about just the opportunity around, we're actually, but just the CRPO linearity throughout the year, you talked about the headwinds in the first half, how does that trend through the second half of the year, and what other things should we be paying attention to there?
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah, so we called out the 150 basis-points impact in Q1 that increases to about 200 basis-points in Q2. So, we expect similar levels from Q1 to Q2. I'm not going to guide out any further than that at this point, but what I'll tell you is that I increased the full-year 2024 guide by 165 million. We remain as confident as ever in our guide of $15 billion plus in '26 and Gen AI and innovation in our all of our product portfolios is going to help drive that growth.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Perfect. Thank you, guys, congrats again.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Alex.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Alex.
+
+Operator
+Your next question comes from the line of Mike Cikos with Needham and Co. Your line is open, Mike.
+
+Q - Mike Cikos{BIO 17303134 <GO>}
+Hey guys, thanks for taking the question here. And I'll echo my sentiment as well along with my peers. I just wanted to come back. I think earlier during the Q&A. CJ kind of teased and maybe the monetization here for the Plus SKUs relative to the Pro SKUs exceeded your expectations. And just wanted to make sure I was interpreting that properly. Can you give us any indication for what that price capture is like relative to the Pro SKUs which we've had out in the market now for a couple of years?
+
+A - CJ Desai{BIO 18310367 <GO>}
+Yeah, so Mike, first of all, the Pro SKUs as you know that we launched it in 2018 Q3. So, we have five years of consistent trajectory and measures on how we did on Pro across ITSM, CSM, and so on, and that we shared at the Financial Analyst Day in May. Gina shared that number that we got 25% uplift.
+
+When I look at Pro Plus first just to underscore what Gina said that it definitely exceeded our expectation, did really, really well and the fastest growth. We have launched so many products over so many years, this definitely exceeded our expectations. So that's number one. Number two, just simple thing, when I'm looking at what -- based on the volume discounts, customers leaning and asking us to try out from POC, POV perspective, it is in line with what my expectations were on how we would get the price uplift. So, right now, as Bill said, I did not get any, oh my God, CJ, this is not going to work for us, where is the value, we have to always earn our right and deliver the value for our customers, but right now it is in line with my expectations.
+
+Q - Mike Cikos{BIO 17303134 <GO>}
+Terrific. Thank you very much, guys.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Mike.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Mike.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Your next question comes from the line of Karl at UBS. Karl, the floor is yours.
+
+Q - Karl Keirstead{BIO 1542979 <GO>}
+Okay, great. Maybe I'll direct this to Bill and CJ, you both mentioned. ServiceNow's largest-ever new customer win with a bank. I guess I'm surprised that there is a big bank out there that's not already on ServiceNow, but I'd love to hear a little bit more about that and I'm not even sure how big a deal would have to be to be your largest new win. So any sizing color would be fabulous. Thank you.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah. I think we were -- I think Mike called it. I think we were at 23 out of 24 of the world's largest and most significant ones and now we're at 24 out of 24 and I just seriously want a credit the amazing platform of ServiceNow. The MRA process and integrated risk management and the complexity of going into an environment like that is pretty serious stuff.
+
+And to have a marquee brand trust us and believe in us and believe in ServiceNow, the way they did is really inspiring and I really have to turn it over to CJ and give them so much credit for the hard work that he put into it and I know first hand, because I had the front-row seat to watching it and how we spent time with this wonderful customer and CJ, I'm sure you got some color that you might want to put on that.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Yeah, hey Karl. Great to hear from you. I would say fundamentally, when I look at that particular financial services institution 100 percentage true that it is on our core of the core. So, from an IT service management perspective, IT operations management perspective, this is not generative AI specific deal, but it was very much a very strategic transaction on the foundational platform for automation and digital services at this large financial services institution. It is the largest new logo win that we had there and it is in eight figures of net new ACV. So that is material.
+
+Q - Karl Keirstead{BIO 1542979 <GO>}
+Okay, congrats on that.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much Karl, appreciate it.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Karl.
+
+Operator
+Your next question comes from the line of Joel Fishbein with Truist Securities. Joel, the floor is yours.
+
+Q - Joel Fishbein{BIO 4369009 <GO>}
+Thank you for taking the question and I'll also echo the outstanding execution you guys have done. Bill, I guess this is for you, just around the public sector vertical, it has been very strong for you for several quarters. I guess two things, number one is, how is the spending remains consistent, it used to be very cyclical there. And the second question around public sector is, what do you think their AI adoption cadence is going to look like from your perspective?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah, well, thank you very much for the question. I really appreciate it. Our federal business is really outstanding and for the benefit of our shareholders, I think that there is a tremendous opportunity to replicate what we're doing in the United States Federal and many other governments around the world, that is clearly an ambition that we have and we have many use cases and many references to back that up.
+
+So, CJ. I think you spend a lot of time with our team and I know that I mentioned some of the names like United States Army, United States Postal Service as an example, really marquee wins really important stuff, why don't you build on that.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Yeah. So, Joel. Everything that we have seen as you saw in 2023 consistent performance in our what we call global public sector. So, let me start that. US Federal, we highlighted the strength in Q3, followed by some of the logos that Bill discussed, however, I do want to state that we are also doing really well, our platform is for state and local governments in the United States and that growth was also very inspiring in 2023. So not only US Federal but also US state and local.
+
+Now, let me take an example for Q4, besides the United States we also did really well in public sector in the United Kingdom. On Bill's ask, and our customer's ask, I spent some time in London with our public sector customers and they continue to also leverage ServiceNow for similar use cases that we have seen in the US Federal.
+
+And then in Q4, our Australia public sector team also did really well, and we had significant platform expansion with some of the large central governments there, agencies including Generative AI. So it is a pretty good picture. And we see in 2024, besides these nations, when I look at Canada, when I look at Germany, and many others, the opportunity remains largest as Bill called it out.
+
+Q - Joel Fishbein{BIO 4369009 <GO>}
+Great. And just as a follow-up on the public on the public sector adopting AI, can you just give us a little color on what you think the trajectory is there?
+
+A - CJ Desai{BIO 18310367 <GO>}
+The trajectory, so -- I just want to make sure that you understand, first is that our Gen AI conversations have started with the government, one of our first logos in Q3 was with a large public sector agency as I call it. We also had a few wins in Q4 in public sector and as we go into 2024 across state, local, and federal, across countries, we will continue to see the demand.
+
+It's early days, I would say compared to like a financial services or manufacturing and others but given our position of our platform and the strength we have with AI, we are definitely going to see in the second half, adoption of generative AI.
+
+Q - Joel Fishbein{BIO 4369009 <GO>}
+Great, thank you so much.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Peter Weed from Bernstein[ph] (Technical Difficulty). Peter, the floor is yours.
+
+Q - Peter Weed{BIO 20406813 <GO>}
+Thank you and congratulations on (Technical Difficulty) continued momentum in wins that you are seeing with the latest releases. And I guess building on that, I'd say prior to this year for several years, I think there has been really nice stability in kind of expansion in NRR customers that I think Gina has (Technical Difficulty) and really (Technical Difficulty), but. I think this year, there has been some deceleration in that, it is driven by macro. As you look out to 2024, do you see signals that we may be able to see some acceleration where NRR in 2024 might exceed what they kind of dipped to this year or is this kind of like the new normal and kind of from here, things may continue to trend down. Thank you very much.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Peter, for the question. What I'd say is that where we are -- we feel great about our expansion rates at the scale that we're at as well as our new logo growth. So, CJ mentioned earlier, our new logo growth especially in our larger (Technical Difficulty) has been accelerating each and every year and each and every quarter over the last several years. And so at our scale, our expansion rates remain extremely strong, as does our net new logo growth and so you will continue to see a nice mix of existing customers up-selling with us as well as new logos joining us and so we had $8.7 billion in revenue, going to $10.5 billion next year. At our scale, these expansion rates are best-in-class and we remain extremely proud of them.
+
+Operator
+We have time for one more question and that question will come from the line of Brad Sills with Bank of America. Brad, the floor is yours.
+
+Q - Brad Sills{BIO 15854296 <GO>}
+Oh, great, thank you so much. I wanted to ask about the large new logo strength. We just haven't heard from a lot of enterprise application companies on that this year, it seems like a tough environment to close, big transformational new application deals. So, I wanted to ask, why now. I know this has been a focus, but any color on where you're at kind of closing that gap on some of these large global organizations. And then also, what does that mean for your expansion opportunities. Just give you more line-of-sight to that given that these are large organizations with big wallets, just getting started with ServiceNow. Thank you.
+
+A - CJ Desai{BIO 18310367 <GO>}
+So, Brad. I will touch on it. Besides financial services institution, we also saw many large new customer wins in manufacturing, specifically automotive. We also saw in public sector, we got new logos with new agencies and commercial business, which is a massive strength for ServiceNow, continue to outperform large new logos and in my initial commentary, I stated that Americas and Europe also had large logo new growth.
+
+So, this is something that Paul Smith and the team focused on starting with the first quarter and continued to build throughout the year, and as I told, Keith Weiss, this is something we are really, really proud of in terms of just our ability to focus on high-quality logos that matter and even these logos, whether it's in public sector, manufacturing, financial services, or our commercial segment, it's not that we have maxed out, even this large financial services, they just bought ITSM and ITOM, when I look at a large automotive, it was just ITSM and ITOM.
+
+So yes, we are starting at a bigger scale, but these specific accounts will continue to expand for us and one last thing I'll touch on that some of the big ones. Who became our customer for the first time, our teams did a beautiful job working with the customer that hey, once you implement say ITSM in next six to nine months, then they have set aside budget for IT Asset Management or security or risks. So that has been also built in as we go into 2024.
+
+Q - Brad Sills{BIO 15854296 <GO>}
+Thank you, CJ. Great to hear.
+
+A - CJ Desai{BIO 18310367 <GO>}
+Thank you. Brad.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks Brad.
+
+Operator
+Ladies and gentlemen, that concludes today's call. Thank you all for joining. You may now disconnect.

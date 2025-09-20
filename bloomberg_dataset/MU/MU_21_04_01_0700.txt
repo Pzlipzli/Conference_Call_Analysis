@@ -1,0 +1,190 @@
+Q2 2021 Earnings Call
+Company Participants
+Dave Zinsner, Chief Financial Officer
+Farhan Ahmad, Vice President, Investor Relations
+Manish Bhatia, Executive Vice President, Global Operations
+Sumit Sadana, Chief Business Officer
+Other Participants
+Chris Caso, Analyst, Raymond James
+Karl Ackerman, Analyst, Cowen
+Nikolay Todorov, Analyst, Longbow Research
+Sidney Ho, Analyst, Deutsche Bank
+Simon Woo, Analyst, Bank of America
+Srini Pajjuri, Analyst, SMBC
+Vijay Rakesh, Analyst, Mizuho
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by and welcome to Micron's Post-Earning Analyst Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. (Operator Instructions) Please be advised that today's conference may be recorded. (Operator Instructions)
+
+I would now like to hand the call over to your host, Head of Investor Relations at Micron Technology, Farhan Ahmad. Sir, please go ahead.
+
+Farhan Ahmad{BIO 20748275 <GO>}
+Thank you and welcome to Micron Technology's fiscal second quarter 2021 sell-side callback. On the call with me today are Sumit Sadana, EVP and Chief Business Officer; Manish Bhatia, EVP of Global Operations; and Dave Zinsner, Chief Financial Officer. As a reminder, the matters we will be discussing today include forward-looking statements. These forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from the statements made today. We refer you to the documents we filed with the SEC specifically our most recent Form 10-K and 10-Q for a discussion of risks that may affect our future results. Lateef, you can now open the call for Q&A.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question comes from Sidney Ho of Deutsche Bank. Your line is open.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Hey, thanks guys for taking the question. My question is, given the recent recovery in the NAND market and Sanjay's comment today that you have seen some sort of stabilization, I'm curious why you're still kind of cautious on industry NAND CapEx. Are you seeing an inflection point where there will be some impressive supply growth later this year or are you more concerned about supply growth in the out years? And while we're at it, how are you thinking about inventory exiting this year at Micron and at the industry level from a NAND perspective? Thanks.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+So I can take that. This is Sumit here. So in terms of NAND, certainly, there has been a stabilization in the environment, the demand growth has been robust. We have upgraded our view of calendar 2021 demand from around the 30% level to the low to mid '30s type of range and the environment for pricing relates obviously not just to the demand but also to the extent of the supply and definitely, if you look at the DRAM market versus the NAND market the CapEx in DRAM over the last 18 months has been pretty constrained, that strained in a pretty good place. And of course, the DRAM market, it's consequently in a much healthier place today. We haven't seen that same level of restraint on the NAND side. And consequently, the industry margins at this point in NAND are certainly not in a very good place and so while there has been some level of recent stabilization in the market and we expect demand to be good, to be strong, of course, a lot of the health of the market depends on how much supply there is in the second half of calendar '21 and that will largely determine the trajectory of industry financial performance and then.
+
+By contrast, the DRAM market is extraordinarily tight and the ROI in the DRAM business has consequently been extremely strong and it has been like that even through the last couple of years when industry conditions overall were not as strong, the DRAM market was exceptionally good ROI when compared with it.
+
+A - Dave Zinsner{BIO 7336228 <GO>}
+And then I think he asked an inventory question, maybe I'll take that. So I would think NAND inventory is, it's actually pretty lean for us and related to what others might be seeing. And so I think that it's roughly going to be at the similar levels the next couple of quarters in terms of the absolute value of NAND inventory.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Okay, thanks guys.
+
+Operator
+Thank you. Our next question comes from Simon Woo of Bank of America. Your line is open.
+
+Q - Simon Woo{BIO 4628505 <GO>}
+Okay, great, yes, thank you very much. That's been pretty cool, you're tracking your node migration with them for 176-layer for maybe data or TCIE as it's called will be available maybe from next quarter or immediately for this quarter? And the similar question regarding the 1-alpha node DRAM, when we can see the kind of maybe a more meaningful production for the smartphone and then the server area? Thank you.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+All right. So in terms of the timing of some of these products and when we expect them to ramp in our 176-layer NAND and 1-alpha DRAM, so in terms of the order of products that we'll bring out, so when we first introduced 176-layer NAND, we started out with sales of our consumer SSDs which is a crucial brand product and then we we will be doing qualifications of our client SSD products and following that we will have more of the data center products coming out for qualification. So that'll be the last set of products. I'm sorry, I should say, right after the client SSD, we also have our mobile products coming out for qualification in 176-layer NAND.
+
+So it will follow that cadence of consumer SSD, client SSD, mobile and then data center SSD. So that's the cadence we will be on, and we'll be introducing these products for qualification throughout the rest of calendar '21 and expect to hence continually ramp the NAND volumes throughout calendar '21 and it will be our main vehicle for bit growth for fiscal '22 which obviously starts in September of '21.
+
+Similarly on 1-alpha, we are certainly going to be introducing our DRAM products into the client market -- consumer market and client market for PCs and desktops and then into data center and into mobile, and so we expect a good ramp of 1-alpha through the rest of the calendar year as well, and similarly, just like 176-layer NAND, it will be the workhorse technology for DRAM in terms of bit growth for fiscal '22.
+
+Q - Simon Woo{BIO 4628505 <GO>}
+Okay, thank you. Thank you very much.
+
+Operator
+Thank you. Our next question comes from Karl Ackerman of Cowen. Your line is open.
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+Yeah, good afternoon, gentlemen. Hey Dave, how much of the moderation in DRAM bit supply from the mid-40s this quarter is coming from your expectation of a more conservative demand backdrop in the second half versus your mix toward DDR5 and servers, which likely has a die size penalty versus DDR4?
+
+A - Dave Zinsner{BIO 7336228 <GO>}
+I'd say maybe Manish might want to take that.
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+Sure. As we're converting over to 1-alpha, we are, as Sumit was mentioning just -- just mentioned, we are using that to be the primary driver of bit growth as we go through the rest of the calendar year. And we're very focused on that ramp and we kind of depleted our inventory. So that's -- really the big growth is going to -- the revenue growth now is really going to be dependent on us successfully getting the 1-alpha node ramp and having it qualified across the DRAM portfolio as Sumit was just mentioning. So I think that's probably the -- now the biggest factor there is how are we able to ramp 1-alpha. The 1-alpha ramp is going very well right now in terms of both yields and qualification milestones. But we still have a number of different products and customers to get qualified as we go through the end of the year.
+
+With regard to your question around DDR5, I think DDR5 is going to start to be introduced towards the end of the calendar year. But I think that's really more of a calendar year '22 phenomenon and beyond in terms of how it would impact our production mix and our customer sell-through mix. Sumit, you want to -- you maybe add on the DDR5 comment.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah, we will be sampling DDR5 certainly this year, but certainly as Manish said, the mix shift in our output is largely a calendar year '22 and beyond phenomena, and the other thing I just wanted to highlight is there isn't any slowdown in demand that we are projecting or forecasting for the second half of calendar '21. We feel like the demand environment is very strong. We feel that's going to remain strong, in fact, certain parts of the market like enterprise which are not at the very robust levels of the past are going to continue to strengthen as we go through calendar year '21 because they are more economically sensitive sectors. And so as the economy improves second half of calendar '21 as well as calendar '22, enterprise demand should be much stronger.
+
+And similarly, we expect cloud demand to be stronger in the second half of calendar '21 and into calendar '22 as a lot of these newer microprocessor platforms ramp with lot more channels of DRAM and higher content due to significantly higher core counts in the CPUs and so that's going to continue to be a tailwind for us in terms of demand and we expect the demand environment to be very robust for many quarters out.
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+Very helpful. Thank you.
+
+Operator
+Thank you. Our next question comes from Srini Pajjuri of SMBC. Your line is open.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Thank you. Dave, first on the 3D XPoint impact. I think you quantified it as $75 million depreciation. Can you give us an idea how much more costs will come out when the business gets sold, and if all of that is costs or if there is any OpEx associated with it?
+
+And then second question is for maybe Sumit on the NAND side. I think Sanjay made a comment that NAND SSD business was down quarter-on-quarter because of some inventory, I'm just curious if that inventory is Micron specific or is this broader industry inventory, if you could give us any color, I think that will be helpful. Thank you.
+
+A - Dave Zinsner{BIO 7336228 <GO>}
+Okay. So let me -- I'll start and then Sumit, you can answer the second question. On 3D XPoint, the underutilization charges we were experiencing were running in the kind of low $100 million on a quarterly basis. So $75 million obviously represents a meaningful chunk of it, but not quite all of it. We will see a little bit of improvement again in the fourth quarter relative to the third quarter, probably on the order of $25 million or so of improvement in that. So the $75 million will go to $100 million essentially, and then after that, we will see the remainder go away until after we close the sale. That's be the most likely time we would see the rest go away, but it's somewhat dependent on the sale and the structure and so forth.
+
+There is also -- we also are selling some wafers to Intel related to 3D XPoint. So we're still getting revenue, it's pretty de minims, it's very small single percent range of revenue, but it is, in terms of mix, it -- once that goes away, it's accretive to our gross margins by a little bit as it relates to the revenue going away. At this point, our expectation is that we would continue to see that revenue through the end of the calendar year and then it would stop.
+
+On the OpEx front, there is a little bit of reduction associated with 3D XPoint mainly also related to this depreciation going away and because the assets are moving to assets held for sale. For the most part though, the real cash spending that we were -- that we had associated with 3D XPoint we're taking that which is mainly people and redirecting those resources to other areas that quite honestly we would likely have look to hire people for, so rather than do that will take these experienced people that know Micron, know the technology and support them and redeploy them to those developments. So it will offset some hiring. But you will see the OpEx move as a result of that.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+In terms of the second part of the question related to NAND business and the SSD business, the SSD business that we have on the datacenter side has pretty high share like number one share in the world and (inaudible) for the data center and in that particular part of the market, certain enterprise customers had a little bit more inventory and so they reduced some of their demand in the fiscal second quarter, which impacted us to a small extent. I would say that if you look at our overall NAND business, we had very good growth in the mobile space. If you look at our mobile growth, it was pretty strong as a segment and less so in the SSD domain, but more of our SSD business growth is going to be driven by the ramp of our 176-layer NAND. So as we go through this call in the months ahead for client SSD and later on with data center SSD with 176-layer, that's going to be the driver of growth for our storage business, looking ahead.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+All right, thank you.
+
+Operator
+Thank you. Our next question comes from Vijay Rakesh of Mizuho. Your line is open.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Yeah, hi guys thanks for taking the question. I was just wondering on the NAND side, in terms of inventory levels and (inaudible) inventory at the handset OEMs and the data center guys. I understand your inventory is down, and that's very encouraging but just wondering at the customer level have you seen inventories come down to more reasonable levels? Thanks.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah, I think the -- if you look at the inventory at customers certainly we don't have perfect visibility, but to the extent that we do, not too concerned about the inventory levels in the data center for NAND flash. I think in terms of the mobile space, if you think back a few months ago, late in calendar '20 when Huawei's shipments were stopped across the industry, there has certainly been an attempt on part of the mobile handset players to jockey for share that Huawei had in the various geographies and so that has been one aspect of the market, but the more fundamental aspect I would say is that in calendar '21, there is going to be a bounceback of smartphone unit volumes from the decline that was experienced in the first half of calendar year '20.And so, smartphone volumes are growing in calendar '21. The mix of 5G handsets is growing, we expect 5G handsets to be exceeding 500 million units and more than doubling year-on-year in calendar year '21 and as you know, that has a lot more content of DRAM and NAND compared to 4G handsets. So that's a positive.
+
+And at some point the share between these different handset manufacturers will stabilize but tough to tell where, when that will happen. Meanwhile, certainly the sell-through has been strong and we expect the 2021 smartphone sales to continue to be on a very robust trajectory and that's driving mobile demand as well.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Got it. And on the CXL and DDR5, I think the AMD Genoa and Sapphire Rapids all have I think DDR5 and CXL. Just if you look at what's memory content growth you are seeing if you look at the new platforms is it doubling and what kind of growth that you're seeing from DDR4 to DDR5 with onboard memory? Thanks.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah, there is a continued increase in terms of the average capacities per server. Again, they're driven by some of the things you mentioned, these newer platforms from both Intel and AMD as well as some of the platforms that are used by certain cloud companies are all trending towards higher number of channels, higher number of cores and in order to not cause bandwidth -- DRAM bandwidth per core to decline, the DRAM has to also increase quite a bit and so we continue to expect strong double-digit percentage increase in average capacities in servers and that's going to contribute in the cloud the bit growth to be significantly in excess on a CAGR basis than the mid to high-teens average for the whole market and we expect that to be an ongoing driver of demand for the next several years because that's definitely a longer-term trend that we expect to continue.
+
+The applications that run in the data center and on these processors tend to be very much gated in their performance by the CPU memory bandwidth and oftentimes investing in additional DRAM capacity has higher ROI at the application level than necessarily just of our performance improvement at the CPU level. And that's why these servers are seeing the percent of the BOM cost that is DRAM continuing to escalate quite rapidly.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Got it. Great, thanks a lot.
+
+Operator
+Thank you. Our next question comes from Chris Caso of Raymond James. Your line is open.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Yes, thanks. Good evening, but I wonder if you could help to clarify, I guess, the pace of the bit supply growth that you'll have as we go through the year, particularly for DRAM. I guess maybe to start, we know that there was a benefit from the inventory reduction that occurred in the February quarter. Could you help us to quantify how much that helped bit supply growth in the February quarter. And then going forward, obviously it's -- you said it's going to be determined by the ramp of 1-alpha. In the past you've kind of said that that's more of a fiscal '22 ramp. So does that imply that we're going to see stronger bit supply growth as we go through fiscal '22 for DRAM?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Manish, you want to try, take a crack at that?
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+Sure. So, Chris, I'll let Dave come back to the first part of your question and talk about the inventory and how it changed. But in terms of the 1-alpha ramp, it is starting to ramp. I think what we've said before is that kind of the majority of the cost impact, I mean the real cost benefit that we'll get will be fiscal '22 phenomenon. The bit supply growth we are gradually ramping this year. And as I mentioned on a previous question, that is the major driver of new bit supply growth for our DRAM network this year. I think we said that our bit growth target for this year will still be below the industry's level of demand, which we see right now at around 20%. So even as we're ramping the 1-alpha and doing well with that, we still think we are going to be a little bit below that 20% level for this year. And we haven't really guided yet on our fiscal '22 or calendar '22 I should say bit growth and CapEx plans, as Dave mentioned earlier on the call. We're still working on that. So we'll update those as we get into fiscal 2022. And then Dave, you want to answer the inventory part of that question?
+
+A - Dave Zinsner{BIO 7336228 <GO>}
+Yeah, so and just to add a clarification, the demand growth we see is 20% in calendar '21, but the growth in bits being below the demand growth, as Manish mentioned, is a supply statement. From a shipment perspective -- supply statement or a production statement, but from a shipment perspective, we expect that the inventory -- the excess inventory that we entered fiscal '21 with is going to allow us to have our shipment growth exceed our production growth. So that is something, I just wanted to emphasize. In terms of the inventory itself, I again want -- I don't want us to yet too hung up on the quarter-to-quarter fluctuations that may occur from a bit shipment perspective. I think if you look at it from a calendar year perspective and a fiscal year perspective, our goal is to continuously ensure that as much as we can make it happen that our shipment growth is in line with our overall demand, our production growth CAGAR over multiple years is in line will be CAGAR of the industry demand over multiple years. So that's what we try to do, and because of the technology nodes that ramps from time to time, there can be quarter-to-quarter fluctuations or even year-to-year fluctuations that we may be above and below. So as Sanjay mentioned in our supply growth was above the demand growth last year and it's going to be a little bit below this year and the inventories will help us smooth out those things over time.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Got it. Thank you.
+
+Operator
+Thank you. Our next question comes from Simon Woo of Bank of America. Your question please.
+
+Q - Simon Woo{BIO 4628505 <GO>}
+Okay. Thanks again. Very quickly the -- sorry for asking the risk factors, but given the fact some OEMs keep saying component shortage, logic chip supply shortage, yes, we fully agree on your bullish view on the demand outlook. But the question is whether your OEM customers need to reduce some product, the production in the second quarter any negative impact or order cancellation for the DRAM and NAND (inaudible)? Thank you.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+We have all seen the type of pack that you're referring to due to customers not being able to procure adequate product to build their end product using the rest of the -- reliance on the rest of the semiconductor supply chain. So, if I understood your question correctly, if you're talking about, did customers -- have customers impacted our demand based on needing to reduce production due to shortages, if I understood that the question correctly? No, we haven't seen that happen. Of course, we continue to focus on ensuring, Manish and his team has done a really good job of ensuring that our own supply chain is managed proactively and very well. But I think we haven't seen any such impact yet.
+
+Q - Simon Woo{BIO 4628505 <GO>}
+Even for the auto OEM customers, they are not cutting the DRAM and NAND chip orders?
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+That's, yeah, we haven't seen that, we haven't seen such contracts.
+
+Q - Simon Woo{BIO 4628505 <GO>}
+Thank you, sir. Thank you.
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+And I'd say that (inaudible) one of the noted that our projections that we talked about for industry demand are taking into account, we think that without those -- some of those non-memory logic tech products sort of the demand to be high. So our projections for the industry demand take into account that already and we see that the DRAM that both our supply as well as the industry suppliers below that, that 20% level of demand. So we think that that's why we're saying DRAM is going to be short through the calendar year for the entire industry.
+
+Q - Simon Woo{BIO 4628505 <GO>}
+Great, thank you very much.
+
+Operator
+Thank you. Our next question comes from Nick Todorov from Longbow Research. Your line is open.
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Yeah, hi guys, good afternoon. Manish, I think you guys gave a (inaudible) your DRAM shipments will be more in line with demand due to having some inventory entering the year. How about on the NAND side. You guys significantly undershipped the industry last year on a calendar year basis and now you entered the year with some inventory right in your transition to RV2 or how should we think about your shipments on the NAND side for calendar year '21?
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+I think it's a similar story and Sumit you can certainly comment as well. I think it's a similar story where we are growing below the industry demand, which we now believe is approximately 30% and we're using inventory so that our shipments will be more in line with that demand that we see for this year.
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Okay.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+Yeah, I think the only thing to keep in mind is, you know, our bit growth as Manish had mentioned earlier, is going to be driven by 176-layer NAND, right. So as we qualify more and more products both in smartphones, as well as PCs, we'll be able to improve our shipments, our volumes as well as our overall catch-up with our goal overall of having our shipments in line with our view of the industry demand.
+
+A - Manish Bhatia{BIO 18045807 <GO>}
+(Multiple Speakers) I think approximately 30% but in that low to mid '30s is our -- what we see for calendar year '21 for NAND.
+
+Q - Nikolay Todorov{BIO 19892456 <GO>}
+Got it, got it. And just another question on NAND, when can we expect that you guys are star qualifications at hyperscalers with a 176-layer NVMe SSD. I know you guys have been trying to transition your SSD portfolio to NVMe. I was just trying to figure out the approximate timing when you guys are going to start ramping that product.
+
+A - Sumit Sadana{BIO 7009258 <GO>}
+It's going to be a couple of quarters before we sample those and then it will take our customers typically another quarter before they put it into volume production. So the data center NVMe SSD is the last set of products that will actually be available for sampling to customers and the entire portfolio, because of its higher level of complexity. So as I mentioned earlier, it will be along that consumer SSD, client OEM SSD, mobile and then our data center product. So it's really going to take a little bit more time compared to the others which are going to be sampling more imminently over the next few months.
+
+Operator
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.

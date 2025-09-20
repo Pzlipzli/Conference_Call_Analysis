@@ -1,0 +1,126 @@
+=== CMD ===
+python ./baseline_model/train.py --version 1 --name ret_sign
+
+=== STDOUT ===
+[ret_sign] train pos_rate=0.5557, pos_weight≈0.80
+Epoch 1/100:
+Train Loss: 0.630116
+Valid score: 0.043519
+
+Epoch 2/100:
+Train Loss: 0.605508
+Valid score: 0.142831
+
+Epoch 3/100:
+Train Loss: 0.600717
+Valid score: 0.217540
+
+Epoch 4/100:
+Train Loss: 0.592090
+Valid score: 0.359822
+
+Epoch 5/100:
+Train Loss: 0.581578
+Valid score: 0.433428
+
+Epoch 6/100:
+Train Loss: 0.573506
+Valid score: 0.433753
+
+Epoch 7/100:
+Train Loss: 0.550290
+Valid score: 0.422379
+
+Epoch 8/100:
+Train Loss: 0.532079
+Valid score: 0.432869
+
+Epoch 9/100:
+Train Loss: 0.513096
+Valid score: 0.479590
+
+Epoch 10/100:
+Train Loss: 0.499972
+Valid score: 0.311481
+
+Epoch 11/100:
+Train Loss: 0.485750
+Valid score: 0.460148
+
+Epoch 12/100:
+Train Loss: 0.471383
+Valid score: 0.430826
+
+Epoch 13/100:
+Train Loss: 0.454559
+Valid score: 0.289571
+
+Epoch 14/100:
+Train Loss: 0.452395
+Valid score: 0.275415
+
+Epoch 15/100:
+Train Loss: 0.439900
+Valid score: 0.274030
+
+Epoch 16/100:
+Train Loss: 0.435659
+Valid score: 0.413260
+
+Epoch 17/100:
+Train Loss: 0.418460
+Valid score: 0.274030
+
+Epoch 18/100:
+Train Loss: 0.427275
+Valid score: 0.255275
+
+Epoch 19/100:
+Train Loss: 0.407422
+Valid score: 0.249648
+
+Epoch 20/100:
+Train Loss: 0.404926
+Valid score: 0.267503
+
+Epoch 21/100:
+Train Loss: 0.391135
+Valid score: 0.249648
+
+Epoch 22/100:
+Train Loss: 0.386669
+Valid score: 0.261876
+
+Epoch 23/100:
+Train Loss: 0.356308
+Valid score: 0.249648
+
+Epoch 24/100:
+Train Loss: 0.370182
+Valid score: 0.253963
+
+Epoch 25/100:
+Train Loss: 0.352776
+Valid score: 0.253950
+
+Epoch 26/100:
+Train Loss: 0.352287
+Valid score: 0.253950
+
+Epoch 27/100:
+Train Loss: 0.350038
+Valid score: 0.284354
+
+Epoch 28/100:
+Train Loss: 0.345514
+Valid score: 0.287682
+
+Epoch 29/100:
+Train Loss: 0.323791
+Valid score: 0.298511
+
+Early stopping at epoch 29
+Restored best model at epoch 9 (Valid Score=0.479590)
+[INFO] Using validation best threshold: 0.5000
+METRICS_JSON: {"MCC": -0.09053327821413808, "F1": 0.44, "Threshold": 0.4999999999999999}
+

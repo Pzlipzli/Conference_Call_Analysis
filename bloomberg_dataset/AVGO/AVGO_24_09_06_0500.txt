@@ -1,0 +1,303 @@
+Q3 2024 Earnings Call
+Company Participants
+Hock E. Tan, President and Chief Executive Officer
+Ji Yoo, Head of Investor Relations
+Kirsten Spears, Chief Financial Officer and Chief Accounting Officer
+Other Participants
+Aaron Rakers, Wells Fargo
+Ben Reitzes, Melius Research
+CJ Muse, Cantor Fitzgerald
+Chris Caso, Wolfe Research
+Christopher Rolland, Susquehanna
+Edward Snyder, Charter Equity Research
+Harlan Sur, JPMorgan
+Harsh Kumar, Piper Sandler
+Joseph Moore, Morgan Stanley
+Karl Ackerman, Exane BNP Paribas
+Ross Seymore, Deutsche Bank
+Stacy Rasgon, Bernstein Research
+Timothy Arcuri, UBS
+Vivek Arya, Bank of America Securities
+William Stein, Truist Securities
+Presentation
+Operator
+Welcome to Broadcom's Inc Third Quarter Fiscal Year 2024 Financial Results Conference Call. At this time for opening remarks and introductions, I would like to turn the call over to Ji Yoo, Head of Investor Relations of Broadcom, Inc
+
+Ji Yoo{BIO 22177393 <GO>}
+Thank you, Operator, and good afternoon, everyone. Joining me on today's call are Hock Tan, President and CEO; Kirsten Spears, Chief Financial Officer; and Charlie Kawwas, President, Semiconductor Solutions Group. Broadcom distributed a press release and financial tables after the market closed describing our financial performance for the third quarter of fiscal year 2024. If you did not receive a copy, you may obtain the information from the Investor section of Broadcom's website at broadcom.com. This conference call is being webcast live, and an audio replay of the call can be accessed for one year through the Investor section of Broadcom's website.
+
+During the prepared comments, Hock and Kirsten will be providing details of our third quarter fiscal year 2024 results, guidance for our fourth quarter fiscal year 2024, as well as commentary regarding the business environment. We'll take questions after the end of our prepared comments. Please refer to our press release today and our recent filings with the SEC for information on the specific risk factors that could cause our actual results to differ materially from the forward-looking statements made on this call. In addition to U.S. GAAP reporting, Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release.
+
+Comments made during today's call will primarily refer to our non-GAAP financial results. I will now turn the call over to Hock.
+
+Hock E. Tan{BIO 1460567 <GO>}
+Thank you, Ji, and thank you, everyone, for joining us today.
+
+In our fiscal Q3 2024, consolidated net revenue of $13.1 billion, was up 47% year-on-year, and operating profit was up 44% year-on-year. These strong results reflected three key factors. One, AI revenue continues to grow and grow strongly. Two, VMware booking continue to accelerate. And three, non-AI semiconductor revenue has stabilized. Before I give you more color on our two reporting segments, let me give you a quick update on guidance.
+
+Now, we started the year providing annual guidance with quarterly updates, as we run the process of integrating VMware. Things are now much more stable and we're in the first -- sorry, and we're in the final quarter of 2024. So, instead of giving you annual guidance, we now revert to providing a quarterly guidance for Q4.
+
+Starting with software, in Q3, infrastructure software segment revenue of $5.8 billion was up 200% year-on-year, driven by $3.8 billion in revenue contribution from VMware. The transformation of the business model of VMware continues to progress very well. In fact, last week, we held a well-attended VMware Explore conference in Las Vegas, our first as a combined company. This event was all about promoting VMware Cloud Foundation, or VCF, which is the full software stack that virtualizes an entire data center and creates a private cloud environment on-prem for enterprises.
+
+The success of this strategy is reflected in our performance in fiscal Q3. We booked more than 15 million CPU costs of VCF, representing over 8% of the total VMware products we booked during the quarter. And this translates into an annualized booking value, or ABV as I had described before, of $2.5 billion during Q3, up 32% from the preceding quarter. Meanwhile, we continue to drive down costs in VMware. We brought VMware spending down to $1.3 million in Q3, from $1.6 million in Q2. And when we acquired VMware, our target was to deliver adjusted EBITDA of $8.5 billion within three years of the acquisition. We are well on the path to achieving or even exceeding this EBITDA goal in the next fiscal '25.
+
+Now turning to semiconductors; in networking, Q3 revenue of $4 billion, grew 43% year-on-year, representing 55% of semiconductor revenue. This was again driven by strong demand from hyperscalers for both AI networking and our custom AI accelerators. As you know, our hyperscale customers continue to scale up and scale out their AI clusters. Custom AI accelerators grow 3.5x year-on-year. In the fabric, Ethernet switching driven by Tomahawk 5 and Jericho3 AI grew over 4x year-on-year, while our optical lasers and PIN diodes used in optical interconnects grew threefold. Meanwhile, PCI Express switches more than doubled, and we are shipping in volume our industry-leading 5 nanometers, 400 gigabits per second NICs, and 800 gigabits per second DSPs.
+
+So, now let me give you more color on our networking products, which are not used in AI. As we have indicated last quarter, we believe we hit bottom in Q2, and in Q3, non-AI networking was up actually 17% sequentially, even as it was down 41% year-on-year. We expect this level of revenue to sustain in Q4, and the year-on-year decline to moderate to 30%. So, in adding the strength we continue to see in AI, we expect total networking revenue to grow over 40% year-on-year in Q4. Across enterprise infrastructure, we see the same trend of recovery in server storage. Our Q3 server storage connectivity revenue was $861 million, up 5% sequentially and down 25% year-on-year. In Q4, we expect server storage revenue to grow mid to high single-digit percent sequentially, even as revenue is expected to be down high single-digit percent year-on-year.
+
+Moving on to wireless; Q3 revenue -- wireless revenue of $1.7 billion, grew 1% year-on-year, representing 23% of semiconductor revenue. And in Q4, reflecting the launch of next generation devices and our North American customers, we expect wireless revenue to actually grow over 20% sequentially even as it will be relatively flat year-on-year. On to broadband, Q3 revenue declined 49% year-on-year to $557 million and represented 8% of semiconductor revenue. Broadband remains weak on a continued pause in telco and service provider spending. And in Q4, we expect broadband to continue to be down over 40% year-on-year, but we do expect that recovery to begin in '25.
+
+Finally, Q3 industrial resales of $164 million, declined 31% year-on-year. We believe we are approaching bottom in Q3 as Q4 resales are expected to recover sequentially. Year-on-year, Q4 industrial resales will still be down approximately 20%. In summary, here are the trends we are seeing in semiconductors. In aggregate, we have reached bottom in our non-AI markets and we're expecting a recovery in Q4. AI demand remains strong; and we expect in Q4, AI revenue to grow sequentially 10% to over $3.5 billion. This will translate to AI revenue of $12 billion for fiscal '24, up from our prior guidance of over $11 billion.
+
+Putting it all together with software, here's our forecast for Q4. We expect Q4 semiconductor revenue of approximately $8 billion, up 9% year-on-year. For infrastructure software, we expect revenue to be about $6 billion. So, we are guiding Q4 consolidated revenue to be approximately $14 billion, which is up 51% year-on-year. We also expect this will drive Q4 consolidated adjusted EBITDA to achieve approximately 64% of revenue. This Q4 guidance would imply we are raising the outlook for our fiscal 2024 revenue to $51.5 billion and adjusted EBITDA for the year to 61.5%.
+
+And with that, let me turn the call over to Kirsten.
+
+Kirsten Spears{BIO 19712531 <GO>}
+Thank you, Hock.
+
+Let me now provide additional detail on our Q3 financial performance. Consolidated revenue was $13.1 billion for the quarter, up 47% from a year ago. Excluding the contribution from VMware, Q3 revenue increased 4% year-on-year. Gross margins were 77.4% of revenue in the quarter. R&D was $1.5 billion. And consolidated operating expenses were $2.2 billion, up year-on-year, primarily due to the consolidation of VMware. Q3 operating income was $7.9 billion and was up 44% from a year ago, with operating margin at 61% of revenue.
+
+Excluding transition costs, operating profit of $8 billion, was up 45% from a year ago, with operating margin of 62% of revenue. Adjusted EBITDA was $8.2 billion, or 63% of revenue. This figure excludes $149 million of depreciation. Now, a review of the P&L for our two segments, starting with semis. Revenue for our semiconductor solution segment was $7.3 billion and represented 56% of total revenue in the quarter. This was up 5% year-on-year. Gross margins for our semiconductor solution segment were approximately 68%, down 270 basis points year-on-year, driven primarily by a higher mix of custom AI accelerators. Operating expenses increased 11% year-on-year to $881 million on increased investment in R&D, resulting in semiconductor operating margins of 56%.
+
+Now, moving on to infrastructure software. Revenue for infrastructure software was $5.8 billion, up 200% year-on-year, primarily due to the contribution of VMware, and represented 44% of revenue. Gross margins for infrastructure software were 90% in the quarter, and operating expenses were $1.3 billion in the quarter, resulting in infrastructure software operating margin of 67%. Excluding transition costs, operating margin was 69%.
+
+Moving on to cash flow; free cash flow in the quarter was $4.8 billion and represented 37% of revenues. Excluding cash used for restructuring and integration of $529 million, free cash flows of $5.3 billion were up 14% year on-year-and represented 41% of revenue. Free cash flow as a percentage of revenue has declined from the same quarter a year ago due to higher cash interest expense from debt related to the VMware acquisition and higher cash taxes due to a higher mix of U.S. income and the continued delay in the reenactment of Section 174. We spent $172 million on capital expenditures. Day sales outstanding were 32 days in the quarter, in line with a year ago. We ended the third quarter with inventory of $1.9 billion, up 3% sequentially. Note that we continue to remain disciplined on how we manage inventory across the ecosystem. We ended the third quarter with $10 billion of cash and $72.3 billion of gross principal debt.
+
+During the quarter, we replaced $5 billion of floating rate notes with new fixed senior notes. We used the proceeds from the completed sale of VMware's end-user computing business to KKR and cash on hand to reduce floating rate debt by an additional $4.2 billion. Following these actions, the weighted average coupon rate and years to maturity of our $53 billion in fixed rate debt is 3.6% and 7.7 years respectively. The weighted average coupon rate and years to maturity of our $19 billion in floating rate debt is 6.7% and 3.1 years respectively. We expect to repay approximately $1.9 billion of fixed rate senior notes due in Q4.
+
+Turning to capital allocation; in Q3, we paid stockholders $2.5 billion of cash dividends, which based on a split-adjusted quarterly common stock count represented a cash dividend of $0.525 per share. For Q4, we are rounding up the quarterly cash dividend to $0.53 per share. In Q3, the split-adjusted non-GAAP diluted share count was 4.92 billion, in line with expectations. We paid $1.4 billion of withholding taxes due on vesting of employee equity, resulting in the elimination of 8.4 million AVGO shares. In Q4, we expect the non-GAAP diluted share count to be approximately 4.91 billion shares.
+
+Now on to guidance; our guidance for Q4 is for consolidated revenue of $14 billion and adjusted EBITDA of approximately 64%. For modeling purposes, we expect consolidated gross margins to be down approximately 100 basis points sequentially on the higher revenue mix of semiconductors and product mix within semiconductors. GAAP net income and cash flows in Q4 are impacted by higher taxes, restructuring, and integration-related cash costs due to VMware acquisition.
+
+As Hock just discussed, we are resuming quarterly revenue and adjusted EBITDA guidance for fiscal 2025 as fiscal year '24 has been a transition and integration year following the VMware deal close.
+
+That concludes my prepared remarks. Operator, please open up the call for questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. (Operator Instructions). Please stand by while we compile the Q&A roster.
+
+And our first question will come from the line of Vivek Arya with Bank of America. Your line is open.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. Just a clarification, Hock, and then the question. So, I think AI revenue roughly $3.1-ish billion in Q3, flattish sequentially. What was the mix in terms of compute versus networking? And the $3.5 billion for Q4, what do you see as that mix? And then as we get into fiscal '25, I realize you're not guiding overall AI, but just how is your general kind of confidence and visibility? Do you think that Broadcom can kind of grow in line or better than the overall AI silicon industry in fiscal '25?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Yes. Well, as we indicated in the last earnings call, for this past quarter, I think we're talking about two-thirds in compute and one-third in networking. And we kind of expect Q4 to run the similar trend. And as far to answer your second part, no, we don't guide for -- yet for fiscal '25, but we do expect fiscal '25 to continue to be strong -- to show strong growth on our AI revenue.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+Operator
+Thank you. One moment for our next question, and that will come from the line of William Stein with Truist Securities. Your line is open.
+
+Q - William Stein{BIO 15106707 <GO>}
+Great. Thanks for taking my question. Hock, one of the things that we've picked up from both suppliers and the broader ecosystem in AI, I think we heard this from NVIDIA as well, that there was a shift in their revenue in the quarter, somewhat away from cloud service providers towards enterprise. And I wondered if that might potentially have a slowing effect on your revenue outlook in this end market, because your participation is really pretty focused on the cloud customers. I wonder if you're seeing that, if you view it as a challenge, or maybe you have a contrary view. Thank you.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Okay. Well, that's an interesting question in terms of the shift. See, we do not focus very much on enterprise AI market, as you know, Will. And our products in AI are largely -- very much largely focused especially on the AI accelerator or XPU side, but even more so, just as much on networking side, on hyperscalers, on cloud, those three large platforms, and some digital natives, what you call, big guys. We don't deal very much on AI with enterprise. So, we obviously don't see that trend.
+
+Operator
+Thank you. One moment for our next question, and that will come from the line of Ross Seymore with Deutsche Bank. Your line is open.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Hi. Thanks for letting me ask a question. I wanted to pivot over to the software side of things. Hock, it seems like obviously the VMware business had a great fiscal third quarter. It seems like the classic Broadcom software fell off. So, I guess the two-part question is, what happened in the classic Broadcom side of things to create that volatility? And are we now kind of reaching that $4 billion base in the fourth quarter that you talked about with VMware? And kind of, if so, what are the puts and takes and the growth rate as we look into the future on that business?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Well, as far as -- as we indicated, the VMware business continues to book very well. As we convert our customers very much in two ways, one from perpetual to subscription license, but also those subscription licenses are for the full stack of VCF. And that has been very successful, as I indicated, given the high ratio of VCF subscribers, the new subscribers that we have achieved. And we see this trend continuing in Q4, and very much so, and very likely through into '25. So, in terms of directional trend, other than the indication I'm giving you -- than the guidance I'm giving you in '24 -- in Q4 '24, directionally, we continue to see accelerated booking, and by extension, accelerated growth.
+
+Operator
+Thank you. One moment for our next question, and that will come from the line of Stacy Rasgon with Bernstein Research. Your line is open.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi, guys. Thanks for taking my questions. I have two short ones, one on each segment. So, on semis, the non-AI networking is like more than 50% below where it was running before it rolled off, and clearly the other businesses are also way below their peaks. Is there any reason why those shouldn't -- is this just cyclical or is there something else going on? Is there any reason why those shouldn't get back to prior levels once recovery happens? And then on the software side, so the non-VMware pieces looks like it's back to that $2 billion-ish a quarter level or so that it was at before. Is that just brocade falling off? And is this sort of $2 billion-ish a quarter, is that bottomed as well? Is that the right level we ought to be thinking about for growth for the non-VMware software business as we go forward from here?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Yeah. On the semis side, the answer is very simple. We have -- as you all know, we've gone through your typical down cycle of semiconductors, and I'm referring particularly to non-AI, and we have talked about that before many times. We've gone through a down cycle and as the ecosystem -- as many of our customers, but the broader ecosystems work on an adjustment in the inventory levels at all stages in the supply chain. And we're not totally -- we are not immune from it, obviously, as we try to insulate ourselves from it as much as possible. We've gone through it and however, the sign and the indications we have seen very clearly is we have in fact passed through the bottom. The best indicator is the bookings we are receiving.
+
+In non-AI, our bookings in Q3 of non-AI semiconductor demand is up 20%. And so that tells us this -- we are well on the way to recovery now. By end markets, as I indicated, the level of the amount of recovery, the timing of recovery, somewhat varies. But we're seeing largely on enterprise, enterprise data center, enterprise IT spending, we're past the bottom. And we are in Q3, what's in fact sequentially a recovery from the bottom of, we believe, Q2 or Q1 this fiscal year. And we'll see Q4 continuing that recovery and obviously in our view, into '25 in terms of the cycle.
+
+Broadband, we are not seeing it yet in terms of the bottom, but we see that it's close to bottom in the sense that here again, bookings are up from where it used to be. And so, we are very -- we are very, very clear in our thinking that broadly, we have, as a whole, non-AI semiconductors, we've gone through the down cycle. It's on an uptick. And like all previous cycles, my sense to you, Stacy, is we will get up back to the level we used to be. There's no reason at all why it doesn't.
+
+And given the rate of bookings, it won't go. I dare say, even put a thought in your mind that as AI permeates enterprise -- enterprises all across in digital natives, you need to upgrade service. You need to upgrade storage. You need to upgrade networking, connectivity across the entire ecosystem. And if anything else, we are headed, we could be headed for upcycle timing, precisely when, we're not sure, but an upcycle that could even meet or even surpass what our previous upcycles would be, simply because the amount of bandwidth you need, the amount of compute to manage a store, manage all those workloads that come out of AI, would just put a need to refresh and upgrade hardware. So, that's my two cents' worth on where we're headed from this down cycle. So, my belief is '24 was the lowest point for the uptick. That's part of the reasons we are stating it very clearly.
+
+On the software side, your question, no, I think we have reached a level of stability that puts and takes, brocade is one of those that goes up and down, very volatile. and that's largely it. But on the non-VMware revenue, on the software revenue, I think we've reached a level of very clear stability. And what we are looking towards more is how VMware picks up over the next year, year and a half.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. That's helpful. Thank you, Hock.
+
+Operator
+Thank you. One moment for our next question.
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+Hello.
+
+Operator
+And that will come from the line of Ben Reitzes with Melius Research. Your line is open.
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+Hey, thanks a lot for the question. Hock, I wanted to ask you about semiconductors, your AI revenue, if you could just clarify some of your comments. Was the third quarter 3.1-ish in line with your expectations and was anything weaker than expected? And then with the sequential growth to three and a half, where are you expecting that to come from? And then if you don't mind, you said next year AI revenue should grow quite a bit. I was just wondering if that was due to any additional customers, within your hyperscaler and consumer Internet portfolio. Thanks.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Well, our number in third quarter is very -- is pretty much in line with what we expect AI revenue to be. And our revenue in Q4 was what -- forecast for Q4 is what's giving us the basis to a large extent to step it up -- to step up our guidance for AI revenue for the full year to over $12 billion. So, if nothing else, that continues to indicate, I hope to us, that next year will continue -- the trend will continue to be strong. And again, it's all largely hyperscalers, cloud and digital natives. And it's again, a mix of AI accelerators and networking. And it's also largely based on backlog we have in place for that, beyond that -- and it shows a growth. Beyond that, no, we're not guiding you beyond the backlog we have. So, I kind of answer your question indirectly on do I have any more customers? We shall see.
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+Okay. Thank you, Hock.
+
+Operator
+Thank you. One moment for our next question, and that will come from the line of Karl Ackerman with BNP Paribas. Your line is open.
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+Yes, thank you. Kirsten, I was hoping you could speak to the relocation of IP back to the U.S. that is causing a $4.5 billion tax liability. Historically, Broadcom has redomiciled ahead of a pending transaction, and I'm getting questions from investors, if this action may relate to any asset sales as the company seeks to pay down debt. So, if you could clarify that, that'd be helpful. Thank you.
+
+A - Kirsten Spears{BIO 19712531 <GO>}
+Yeah, no, it was just the timing of when we chose to do it this time. And no, it doesn't have anything to do with that. It's just we relocated the IP and that caused the $4 billion charge. The offset to that is a deferred tax liability. So, think of that as non-cash, very little cash impact to that.
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+Thank you.
+
+Operator
+One moment for our next question, and that will come from the line of Timothy Arcuri with UBS. Your line is open.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. Hock, I wanted to ask about the growth rate in your AI revenue versus what we're seeing on the GPU side. Your AI revenue grew in the same zip code this year as what the GPU compute is growing. And you did say that it would be up next year, but your main customer's ramping a new version of their custom ASIC next year. And there's some thought that they might shift some of their purchasing back to GPUs next year. So, do you think that the growth of your AI revenue should still approximately track how much GPU compute is going to grow next year? If you can give us any qualitative or quantitative thoughts there, that'd be great. Thank you.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Hey, Tim, I think we had some communication gaps here. Could you repeat the question?
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Yes. So the question, Hock, really is around the growth rate of your AI revenue versus what we're seeing on the GPU side, because this year you grew about the same as what GPU compute is growing. And the question is, is there anything happening next year that would change that equation so that your -- growth rate of your AI revenue would be materially different than what GPU compute is growing next year?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+That's a very difficult question for me to answer, because it comes in two parts, right? In terms of GPU growth, you should ask the guys, who does merchant GPU or GPU, which is obviously NVIDIA and AMD. And I don't see in -- I don't play in the enterprise market at all. See, that's part of their market I don't see. Having said that, they do both play somewhat in the hyperscalers, where I'm totally focused on doing. So that's really very -- and there's really no connection one with the other. That if there is, it's indirect. But enough suffice for me to say long-term, I'm saying that clearly and thoughtfully, long-term, the large hyperscalers -- few and large hyperscalers with very large platforms, huge consumer platforms, subscriber base, have their entire model predicated on running a lot of large language models, a lot of AI requirements, workloads out there. And it would drive, as a matter of time, towards creating as much as possible, their own compute silicon, their own custom accelerators. That's a matter of time. And we are in the midst of seeing that transition, which may take a few years for that to happen.
+
+So, that is on a different trajectory, a different path, and I'm in that path of doing that, enabling customer accelerators. I'm in that path. I'm not in a path of, in the meantime, a different trajectory of enabling enterprises to do AI on their own workloads. That's more the merchant guys. And some of the merchant guys are obviously also in the AI, in the hyperscaler today, but that's a process, obviously, of a transition going on. So, one doesn't really connect to the other theme in that regard. But I would likely say, obviously, as the transition occurs, we have a good tailwind in the business model we have of providing accelerators and networking to the AI data centers of those large hyperscalers.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Right, Hock. Okay. Thank you so much.
+
+Operator
+One moment for our next question, and that will come from the line of Harsh Kumar with Piper Sandler. Your line is open.
+
+Q - Harsh Kumar{BIO 3235392 <GO>}
+Yeah. Hock, I was curious about the profitability of VMware. Historically, your software businesses have had operating margins greater than 70%. VMware, I know, is newer, and you're doing things a little different. You're keeping more customers than you historically have kept. But I was curious if you see a similar profile as the rest of your software businesses for VMware after you're done with all the cuts and everything.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Well, I'll let you draw your own conclusion, Harsh, but I was at pains to lay out, as you probably heard, in Q3, our revenue from VMware was $3.8 billion, and our operating expenses is $1.3 billion. And you can pretty quickly figure out where we're headed in terms of operating margin, and as I indicated, EBITDA margin. And Q4 will continue the trajectory of revenue continuing to grow and expenses starting -- still dropping, even as it starts to stabilize, but continue to reduce.
+
+Q - Harsh Kumar{BIO 3235392 <GO>}
+Thank you, Hock.
+
+Operator
+One moment for our next question, and that will come from the line of CJ Muse with Cantor Fitzgerald. Your line is open.
+
+Q - CJ Muse{BIO 6507553 <GO>}
+Yeah, good afternoon. Thank you for taking the question. I wanted to focus on software gross margin. So, when you close the acquisition of VMware, we ticked lower from low 90s to kind of high 80s, and we're now pushing a bit higher into July. And I'm curious, as we kind of get to that $4 billion threshold, and you've kind of indicated higher in fiscal '25, how should we think about the gross margin trajectory overall for software.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Well, it's -- for us, software gross margin is actually the direct -- it's not that relevant, you know that, right? Software is, unless I'm running SaaS big time. Now, a lot of our products are on subscription, but they're not SaaS. We have some of our products on SaaS cloud-based, but most of them are not, and our gross margin will be around 90% at least.
+
+Operator
+And one moment for our next question, and that will come from the line of Chris Caso with Wolfe Research. Your line is open.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Yes. Thank you. Good evening. I wonder if you could speak to the custom AI revenue and perhaps the contribution from some of the other customers aside from that largest customer. How meaningful are the other customers in that segment? And what do you expect into next year as some of those newer projects start to ramp?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Well, I know, we're dancing around the thing. As I indicated, we've three customers now going on, and all three of them are meaningful. Otherwise, we won't call them customers as the criteria we have used until we get meaningful shipments out to them on AI accelerators. We do not really consider that as a customer simply because it's a new -- this is an emerging trend. It's not an easy product to deploy for any customer, and so we do not consider proof of concepts as production volume. These are all production accelerators deployed in AI data centers of those three customers.
+
+Operator
+One moment for our next question, and that will come from the line of Christopher Rolland with Susquehanna. Your line is open.
+
+Q - Christopher Rolland{BIO 17980513 <GO>}
+Hi. Thanks for the question. My question is actually on storage, and Hock, you bought Seagate's hard disk drive SOC assets earlier in the year. Can you talk about what you actually bought there, what it means in terms of economics for your company, and whether this accelerates your storage business over the next few years? Thanks.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+This is more of a partnership than anything else. Basically, it's what we essentially created in that transaction was to begin with, we actually believe long-term in the sustainability of hard disk drive media as a great long-term sustainable storage alternative or storage medium for those hyperscalers; it makes sense. No one likes when eventually everything goes to flash, don't think so. Hard disk drive storage will still be meaningful, and the technology, which is most interesting for us, has a lot of ways to go as hard disk drives goes on to, from where it is today, which is 22, 23, 24 terabytes, to going to 30, 40, and even 50 terabytes. A lot of technology along the way, and a lot of that resides in silicon.
+
+So, what we're doing, in effect, is a collaboration more than anything else, though it's structured, obviously, as a purchase of intellectual property, but we're also taking engineers, designers, combining it with the designers we have, and basically enabling Seagate and eventually the entire industry to continue a roadmap that goes towards 50 terabytes. That's our mission, that's our vision, and to be able to do that within five years or less. So, that's pretty much what it is. It's a statement of our belief that hard disk drives, near-line hard disk drive storage, will sustain very well over the next five years, if not longer.
+
+Q - Christopher Rolland{BIO 17980513 <GO>}
+Thank you, Hock.
+
+Operator
+One moment for our next question, and that will come from the line of Aaron Rakers with Wells Fargo. Your line is open.
+
+Q - Aaron Rakers{BIO 6649630 <GO>}
+Yes, thanks for taking the question. Hock, kind of thinking strategically as we look forward, ahead to NVIDIA's Blackwell product cycle, there's been some indications that possibly Broadcom has an opportunity to participate more deeply in the optical side of that product platform for NVIDIA. I'm curious, do you see that as an opportunity relative to prior generations of NVIDIA just to deepen a participation or just to participate in general in kind of the areas of DSPs and maybe other things related to the Blackwell cycle from NVIDIA? Thank you.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+That's an interesting question and I got a simple answer. I'm not really participating in that NVIDIA's roadmap and I'm really not directly in that kind of market, in that kind of product roadmap. That's NVIDIA's product roadmap in terms of Blackwell, impressive product on the way to coming out. Now, in terms of base technology we developed, of course, it could be used, it could be applied and we are very happy to share that with as it may be useful to enable Blackwell to be part of that, whether it's on the optical component side, which is what you're referring to, or even on the DSP side in terms of providing the interconnects to enable clusters of Blackwell to be built. That's as far as our engagement in that. We're happy to be part of that ecosystem, as I said, but directly we're not in that market, as you know.
+
+Q - Aaron Rakers{BIO 6649630 <GO>}
+Yeah.
+
+Operator
+One moment for our next question, and that will come from the line of Joe Moore with Morgan Stanley. Your line is open.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great. Thank you. I wonder, Hock, if you could talk about your thoughts on further M&A. Is that still on your radar down the road? And is it -- if you did, would it be still software focused or any possibility of semiconductors becoming interesting to you again?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Joe, that's a beautiful question. I'll tell you this bluntly so that you're not disappointed. Right now, I'm having my hands really full and enjoying myself doing it on really turning, transforming the business model of VMware. It's a great experience and you're feeling great about it when you do -- and when you're doing, it's pretty much running way beyond expectation as we indicated in that slide. So, no, I'm very focused on getting VMware as it continues to accelerate in getting private cloud deployed in the largest enterprises in the world. And you know what? I got another year, two years to go to make that transformation totally complete.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Very clear. Thank you.
+
+Operator
+One moment for our next question, and that will come from the line of Harlan Sur with J.P. Morgan. Your line is open.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Good afternoon. Thanks for taking my question. Hock, last quarter, you talked about an acceleration in R&D investments by your AI customers, and you talked about your follow-on wins for their next-generation XPU ASIC programs. It also looks like they're trying to accelerate their deployments of their TPUs, XPUs, and networking into their data centers here in the second half of the year. We know that on AI accelerators specifically, supply is quite tight given the coLOS packaging and HBM memory constraints. So, has the team seen upside orders and demand for XPUs and networking here in the second half? Have you been able to meet that upside demand or is the team somewhat supply-constrained? I guess, in other words, is AI demand greater than your supply here in the second half of the year?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Yes, no, we continue to see orders. We continue to see upsides, and you're right in the pattern of that behavior that's going, because it's as our customers, these are hyperscalers trying to deploy more and more capacity of AI data centers, in AI data centers, and you start to hear them talk in terms of power. They don't even talk in terms of how many XPU or GPU cloud they found in there or 500 megawatt, 1 gigawatt, was not yet, but people are dreaming that. So, we are, as they get this enabled, we're getting pull-ins, we're getting upsides, and I expect that to happen a lot more in 2025. We're not putting that in any guidance or indication we're giving you, but probably what you say is exactly right on. We do expect to see upsides, as we've been seeing recently. We continue to see that probably going forward over the next 12 months, especially related to XPUs getting deployed and getting infrastructure available and rushing to deploy them. We see quite a bit of that.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Have you been able to meet that upside or are you somewhat limited by supply constraints?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+We can meet those upsides.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Perfect. Thank you, Hock.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Thanks.
+
+Operator
+One moment for our next question, and that will come from the line of Edward Snyder with Charter Equity Research. Your line is open.
+
+Q - Edward Snyder{BIO 2498283 <GO>}
+Thank you very much. Hock, that was a perfect segue way into my question. You've said in the past calls that you thought that AI compute would move away from ASICs and go to merchant market, but it looks like the trend is kind of heading the other way. Are you still of the opinion that that's going to be the long-term trend of this? And secondly, as you just pointed out, power is becoming the defining factor for deployment with all the big guys at this point. Given the performance of -- performance per watt of the ASICs over GPUs, which is superior to GPUs, why shouldn't we see more of these guys moving to custom ASICs? I know it takes a long time, it takes a lot of funding, et cetera. But especially as the enterprise starts getting more involved with this, there are going to be some applications that are kind of standard across some of the enterprises. Wouldn't we even see some of the bigger, like AWS move to a custom silicon for a specific workload? So basically, the overall trend in ASICs in AI. Thanks.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+Okay. Ed, did I hear you right to say at the beginning maybe that you meant that there's a trend towards ASIC or XPU from general-purpose GPU, right?
+
+Q - Edward Snyder{BIO 2498283 <GO>}
+Yeah.
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+You're right. And you're correct in pointing out to me that, hey, I used to think that general-purpose merchant silicon will win at the end of the day. Well, based on history of semiconductors, mostly so far, general-purpose merchant silicon tends to win. But like you, I flipped in my view. And I did that, by the way, last quarter, maybe even six months ago. But nonetheless, catching up is good. And I actually think so, because I actually think there are two markets here on AI accelerators. There's one market for enterprises of the world. And none of these enterprises are incapable nor have the financial resources or interest to create the silicon, their custom silicon, nor the large language models or -- and the software going maybe to be able to run those AI workloads on custom silicon. It's too much. And there's no return for them to do it, because it's just too expensive to do it. But there are those few cloud guys, hyperscalers, with the scale of the platform and the financial wherewithal to -- for them to make it totally rationale, economically rationale, to create their own custom accelerators, because it's all, right now, I'm not going to -- I'm not trying to overemphasize it, it's all about compute engines. It's all about, especially training those large language models and enabling it on your platform. It's all about constraint to a large part about GPUs. Seriously, it's getting to a point where GPUs are more important than engineers. It is some of these hyperscalers in terms of how they think. Those GPUs are much more, or XPUs are much more important; and if that's the case, what better thing to do than bring it under the control of your own destiny by creating your own custom silicon accelerators. And that's what I'm seeing all of them do. It's just doing it at different rates, and you're starting at different times.
+
+But they all have started, and obviously it takes time to get there. But they're all -- a lot of them, there are a lot of learning in the process versus what the biggest guy of them, who has done it longest have been doing for seven years. Others are trying to catch up, and it takes time. I'm not saying it will take seven years. I think it will be accelerated. But it will take some time, step by step, to get there. But those few hyperscalers, platform guys, will create their own if they haven't already done it, and start to train them on their large-language models. And that's -- yes, you're right. You'll -- they will all go in that direction, totally, into ASIC, or as we call it, XPUs, custom silicon. Meanwhile, there's still a market in enterprise for merchant silicon.
+
+Q - Edward Snyder{BIO 2498283 <GO>}
+Right. But that basically suggests that you're on the early part of your curve, where I'm not trying to call GPUs or whatever, but you could be getting to something closer to the peak of the GPU market just because everything, right, besides the cost expense and as you're spending all this money, and you're paying all this money for power, the ASICs become more and more attractive. So, the curves are going to look different, right?
+
+A - Hock E. Tan{BIO 1460567 <GO>}
+It's an accelerating curve. It may take longer than we all like it to happen, but definitely accelerating. Because the size of the demand from those hyperscalers will totally rival that in the enterprise.
+
+Operator
+Thank you. And that is all the time we have for our question-and-answer session. I would now like to turn the call over to Ji Yoo for any closing remarks.
+
+A - Ji Yoo{BIO 22177393 <GO>}
+Thank you, Operator. This quarter, Broadcom will be presenting at the Goldman Sachs Communacopia & Technology Conference on Wednesday, September 11th in San Francisco. Broadcom currently plans to report its earnings for the fourth quarter and fiscal year 2024 after the close of market on Thursday, December 12, 2024. A public webcast of Broadcom's earnings conference call will follow at 2:00 p.m. Pacific.
+
+That will conclude our earnings call today. Thank you all for joining. Operator, you may end the call.
+
+Operator
+This concludes today's program. Thank you all for participating. You may now disconnect.

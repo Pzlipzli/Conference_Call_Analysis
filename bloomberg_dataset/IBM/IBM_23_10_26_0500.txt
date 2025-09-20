@@ -1,0 +1,287 @@
+Q3 2023 Earnings Call
+Company Participants
+Arvind Krishna, Chairman of the Board, Chief Executive Officer
+James J. Kavanaugh, Chief Financial Officer, Senior Vice President - Finance and Operations
+Patricia Murphy, Vice President, Investor Relations
+Other Participants
+Amit Daryanani, Analyst, Evercore ISI
+Ben Reitzes, Melius Research
+Brian Essex, Analyst, JP Morgan.
+David Grossman, Stifel
+Erik Woodring, Morgan Stanley
+Matt Swanson, Analyst, RBC Capital Markets
+Toni Sacconaghi, Analyst, Bernstein
+Wamsi Mohan, Analyst, Bank of America
+Presentation
+Operator
+Welcome, and thank you for standing-by. At this time, all participants are in a listen-only mode. Today's conference is being recorded. (Operator Instructions)
+
+Now, I will turn the meeting over to Ms. Patricia Murphy, IBM's Vice President, Investor Relations. Ma'am, you may begin.
+
+Patricia Murphy{BIO 17645248 <GO>}
+Thank you. I'd like to welcome you to IBM's Third Quarter 2023 Earnings Presentation. As the operator just mentioned, I'm Patricia Murphy. And I'm here today with Arvind Krishna, IBM's Chairman and Chief Executive Officer; and Jim Kavanaugh, IBM's Senior Vice President and Chief Financial Officer.
+
+We'll post today's prepared remarks on the IBM Investor website within a couple of hours. And a replay will be available by this time tomorrow.
+
+To provide additional information to our investors, our presentation includes certain non-GAAP measures. For example, all of our references to revenue and signings growth are at constant-currency. We've provided reconciliation charts for these and other non-GAAP financial measures at the end-of-the presentation, which is posted to our investor website.
+
+Finally, some comments made in this presentation may be considered forward-looking under the Private Securities Litigation Reform Act of 1995. These statements involve factors that could cause our actual results to differ materially. Additional information about these factors is included in the company's SEC filings.
+
+So with that, I'll turn the call over to Arvind.
+
+Arvind Krishna{BIO 19076604 <GO>}
+Thank you for joining us. Before we start, let me address the outbreak of war in Israel. We condemn all acts of terrorism. We are also saddened over the loss of innocent lives and join the global community in the hope that peace and safety can be restored. Let me now turn to our business performance.
+
+In the third quarter, we had solid growth across revenue, profit, and free cash flow while delivering innovations and positioning our business to capture future opportunities. On the broader trends we're seeing in the market, technology continues to serve as a fundamental source of competitive advantage. Businesses and governments around the world are looking for opportunities to address demographic shift, make the supply chains more resilient, and improve sustainability. More recently, geopolitical events and the reality of higher for longer add to the growing uncertainty.
+
+Technology helps organizations better deal with the many challenges they face. We see both tailwinds and headwinds to overall spending. Nearly every business we talk to wants to leverage technology to offer better services, scale more quickly, and fuel growth without increasing their footprint. This has been driving demand for technologies that boost productivity and competitiveness like hybrid cloud and artificial intelligence. Overall, we believe the tailwinds outweigh the headwinds and technology spend will continue to outpace GDP.
+
+In this past quarter, we saw good revenue growth in Software and Consulting. In Infrastructure, more than a year into the product cycle, we continue to see good adoption of z16. Our overall growth reflects our ability to help clients to leverage data and AI for competitive advantage, automate IT environments, and seamlessly integrate hybrid cloud solutions.
+
+We also continue to position our business for the future. Launching new products and offerings, forging and expanding key partnerships, investing in talent and skills, and focussing our portfolio. We've been taking concrete actions to deliver productivity in our own business. All of this results in an IBM that is aligned to our clients' most pressing needs and has a stronger financial profile. Our third quarter results are another proof point.
+
+Typically, at this point, I talk about hybrid cloud and the progress we have made. Hybrid cloud remains vitally important to our clients and to our business. Given the inflection in AI, and more specifically generative AI, I want to spend more time today on AI and how we're approaching this opportunity. We believe that generative AI will be multimodal with clients using a combination of IBM's models, other companies' models, their own proprietary models, and open-source models. This hybrid approach to AI is similar to the hybrid approach to cloud. Let me give you an overview of the capabilities we have been building.
+
+Our generative AI software stack start with Red Hat OpenShift, which serves as the foundation that allows clients to operate in a hybrid environment. Data services help make that data ready for AI. Watsonx is the core platform that enables clients to train, tune, validate, and deploy AI models. We are providing models that address specific domains suchs as code, language, and cyber security, among others.
+
+Our AI assistance include the watsonx Code Assistant to augment developers, watsonx Assistant to augment customer service agents, and watsonx Orchestrate to augment employees. This quarter, we introduced new AI capabilities for our clients and partners. We unveiled Granite, a multi-billion parameter foundation model on watsonx.ai, which excels in both language and code.
+
+We also introduced the watsonx Code Assistant. This includes the watsonx Code Assistant for Z to help clients accelerate the modernization of mainframe code and apps. It's fueled by a 20 billion parameter model and can, as an example, swiftly translate COBOL to Java. There are hundreds of billions of lines of code written in COBOL. So, the opportunity is significant.
+
+Looking-forward, we plan to launch watsonx.governance before the end of the year that provides governance tools businesses need to mitigate risks and ensure compliance through the AI lifecycle. This is a key consideration for clients as they go beyond early proof-of-concepts into real deployments.
+
+To bring our AI capabilities to life, we have more than 20,000 data and AI consultants, including a Center of Excellence for generative AI. Our teams help clients navigate the AI landscape from crafting a strategy, understanding how AI can be used, and deploying AI responsibly. These consultants also provide valuable real-time feedback to our product teams.
+
+As in hybrid cloud, our ecosystem across GSIs, ISVs, and hyperscalers plays a critical role in bringing generative AI to our clients. The work we're doing clear patterns are emerging in terms of the AI enterprise use cases. Based on extensive feedback and trails to date, three have risen to the top. Code modernization, customer service, and digital labor. All have broad relevance and deliver tangible business benefits.
+
+We've also seen this internally as we apply our AI capabilities to areas such as client support, HR, IT optimization, and source-to-pay to automate a significant portion of tasks and improve the productivity of our people. Our book of business in the third quarter specifically related to generative AI was in the low hundreds of millions of dollars. The interest is larger with thousands of hands-on interactions with our clients. These are across our largest clients and smaller clients, which lays the groundwork for future watsonx opportunities.
+
+Let me close the discussion on AI by talking about a couple of client examples. Dun & Bradstreet is leveraging our consulting and software capabilities fueled by watsonx to help their clients create Proprietary generative AI solutions. IBM and EY, also just announced a new solution powered by watsonx Orchestrate to enhance EY's People Advisory services.
+
+We continue to bring innovations to the market in areas other than AI. This includes new innovations to our industry-leading hybrid cloud platform, Red Hat OpenShift, which was recognized recently by both Gartner and Forrester as the leader in container management. We completed the acquisition of Apptio, which complements our IT automation capabilities.
+
+In quantum, we're making good progress in building practical quantum computers that can solve hard problems in areas such as risk, finance, and materials.
+
+In closing, we accomplished a lot this quarter. We launched our generative AI platform and have good momentum in helping our clients use this important technology. We continue to take portfolio actions to increase our focus on hybrid cloud and AI. And we are applying AI within our own business, improving execution speed and unlocking real value. All of this reinforces my confidence in our future.
+
+We're executing a strategy that closely resonate with our clients' needs, and this is propelling our business forward. Three quarters into the year, we're well-positioned to deliver on 2023 expectations for both revenue growth and free cash flow.
+
+Now, to offer you a more detailed view of our results and the rest of 2023, I'll hand it over to Jim.
+
+James J. Kavanaugh{BIO 16033446 <GO>}
+Thanks, Arvind. I'll get right into the financial highlights of the quarter. We delivered $14.8 billion of revenue, $2.3 billion of operating pretax income, and $2.20 of operating earnings per share. Through the first three quarters of the year, we generated $5.1 billion of free cash flow.
+
+Reported revenue growth was 4.6%. This includes just over a point of growth from currency translation, which is significantly less than the currency rates suggested in July. In fact, currency movements over the last 90 days impacted our third quarter revenue by about $250 million. At constant currency, our revenue was up 3.5%. As is typical, I'll focus the discussion on constant currency.
+
+Arvind talked about clients' priorities in today's environment, which are driving solid growth in our Software and Consulting offerings. I'll remind you, Software and Consulting are our two growth vectors, and together, make up about three-quarters of our revenue base. Software revenue was up 6%, as clients leverage their data for insights and automate their IT in a hybrid environment. We had good growth in both Hybrid Platform & Solutions and Transaction Processing revenue.
+
+Our Consulting business had another solid quarter with 5% revenue growth, strong signings performance, and a book-to-bill ratio greater than 1.15 over the last year. We are capitalizing on our continued momentum in the market as we help clients get value from hybrid cloud and AI, and leverage our strategic partnerships.
+
+Our Infrastructure revenue was down 3% with growth in zSystems. More and more, we are seeing clients embrace IBM Z in their hybrid cloud environments, especially in regulated industries. This growth was offset by declines in Distributed Infrastructure and Infrastructure Support. IBM's revenue growth together with the good portfolio mix and yield from our productivity initiatives generated strong margin, profit, and free cash flow performance.
+
+Operating gross margin expanded a 160 basis points and operating pre-tax margin expanded a 170 basis points. Within that, PTI margin, we absorbed a year-to-year currency impact of over 150 basis points. Despite that headwind, our margin expansion was broad-based with improvements in every business segment.
+
+Driving efficiency and productivity has always been part of our operating and financial models. These ongoing productivity initiatives enables reinvestment in the business, increased financial flexibility, and contribute to margin expansion. Our activities range from simplifying our application environment to digitally transforming our business processes by applying AI at scale. We are ahead of pace to achieve our target of $2 billion in annual run rate savings by the end of 2024. While there is still more to do, I am pleased with our progress. The combination of our revenue and margin performance yielded strong profit growth.
+
+Operating pretax profit was up 17%, to $2.3 billion. We generated $1.7 billion of free cash flow in the quarter, and over $5 billion year-to-date, which is up $1 billion versus last year. Free cash flow growth through the first three quarters was primarily driven by cash sourced from our operating profit performance. We also had working capital efficiencies driven by solid collections. These growth drivers were partially offset by higher-performance based compensation payments earlier in the year.
+
+In terms of cash uses, year-to-date, we spent about $5 billion in acquisitions and returned $4.5 billion to shareholders through dividends. Our resulting cash balance at the end of September was $11 billion. That's up over $2 billion from year-end. But with the acquisition of Apptio in the third quarter, cash is down over $5 billion from June. Our debt balance is now $55 billion, also down from June.
+
+Putting this altogether, our business fundamentals are solid with sustainable revenue growth, margin expansion, solid cash generation, and a strong balance sheet with financial flexibility to support our business into the future.
+
+Turning to the segments. Software revenue grew 6% with contribution from Hybrid Platform & Solutions and Transaction Processing. This performance reflects growth in both our transactional revenue and our recurring revenue base, which is about 80% of our annual Software revenue. In Hybrid Platform & Solutions, revenue was up 7% with growth across Red Hat, Automation, and Data & AI as we execute our platform-based approach to hybrid cloud and AI.
+
+Red Hat revenue was up 8%. We continue to deliver good growth in OpenShift and Ansible, both gaining share again this quarter. Clients are committing to our hybrid cloud approach with the annual bookings up 14% in the quarter. This includes double-digit growth across RHEL, OpenShift, and Ansible partially offset by headwinds in consumption-based services.
+
+IT and business automation are top client priorities. And we've been investing to capture that opportunity. This quarter, our Automation revenue grew 13% with pervasive growth across all business areas. We had strength in AI apps and management, driven by good performance in Instana, Turbonomic and now Apptio as clients look to optimize business outcomes and boost productivity.
+
+Data & AI revenue was up 6%. Growth areas include data fabric and customer care as enterprise clients are both preparing for and adapting generative AI solutions, leveraging watsonx. We also grew in asset and supply chain management as we help enterprises run sustainable operations.
+
+Security revenue declined 3%. We delivered growth in Security software driven by data security and identity and access management. This was more than offset by declines in managed security services. Looking across these businesses, our Hybrid Platform & Solutions' ARR has grown to $14 billion, up 7% since last year.
+
+In Transaction Processing revenue was up 5%. Throughout this year, we've been talking about how the success of the last couple of zSystems cycles is driving demand for this mission-critical software. This, together with price increases, contributed to year-to-date growth in both recurring and transactional software revenue in Transaction Processing.
+
+Moving to profit for the Software segment. We expanded gross and pre-tax margins. Our pre-tax margin was up 120 basis points even while absorbing over two points of impact from currency. We continue to deliver operating leverage driven by our revenue scale and mix this quarter.
+
+Our Consulting revenue was up 5% with growth across all three lines of business and geographies. With another quarter of strong signings, as I said, our trailing 12 month book-to-bill ratio is now over 1.15. Clients continue to prioritize transformation projects that enable cost savings and productivity. These results are proof point that we are well-positioned to meet these needs in today's complex environment.
+
+IBM's focused hybrid cloud and AI strategy has become even more of a differentiator as clients' interest in generative AI continues to ramp. We're helping clients understand how AI can be used to automate tasks, make better decisions with speed, and improve customer experiences. We made a series of AI announcements over the last few months, demonstrated continued advancement of our strategic partnerships. We are providing clients with the opportunity to accelerate their transformation and deploy generative AI responsibly, whether that be leveraging AI capabilities of IBM, our partners or a combination. Today, our strategic partnerships account for about 40% of Consulting revenue and have continued to grow double-digits across revenue and signings. In aggregate, our hyperscaler partnership revenue was up over 40% in signings essentially doubled year-to-year.
+
+Additionally, our Red Hat practice, which helps clients optimize how they build, deploy, and manage applications for our hybrid cloud environment has continued to grow at a double-digit rate with over $1 billion of signings in the quarter. All of what I just mentioned, from market demand, to how we're positioned and partnering, to our investments to drive growth is reflected in our overall Consulting revenue performance. You can see that play out across our three lines of business.
+
+In Business Transformation, revenue grew 5%, again led by data and technology transformations, including AI and analytics-focused projects. Finance and supply chains transformations also contributed to growth. In Technology Consulting, revenue was up 1%. Growth in cloud-based application development and modernization work was partially offset by declines in on-prem application-focused projects. In Application Operations, revenue grew 7% driven by both cloud application management and platform engineering services. In platform engineering, we help clients design an application environment that runs securely and smoothly at scale.
+
+Moving to Consulting profit, we expanded gross margin 150 basis points. Pre-tax margin expanded 40 basis points to just over 10%. Our year-to-year margin performance reflects productivity actions we've taken, mitigated by increased labor costs and about a point of pre-tax margin impact from currency.
+
+Moving to the Infrastructure segment, revenue was down 3%. Hybrid Infrastructure revenue was flat, while Infrastructure Support declined 7%. Within Hybrid Infrastructure, zSystems grew 9% in a seasonally smaller revenue quarter. Z16 revenue remains well ahead of prior cycles after six quarters of availability. The program's strength reflects both growing enterprise workload requirements and the economic value at scale of the platform in traditional processing and Linux consolidation. In fact installed MIPS capacity for Linux on Z has grown more than fourfold over the last decade. Clients continue to value the security, resiliency, and hybrid cloud capabilities of the zSystems platform.
+
+Distributed Infrastructure revenue was down 6% as compared to a strong growth in last year of 21% as we introduced innovation across Storage and Power10. This quarter we had growth in Power offset by declines in Storage.
+
+In the Infrastructure segment, we had strong gross and pre-tax margin performance. Pre-tax margin expanded 350 basis points, reflecting benefits from portfolio mix with our zSystems performance and productivity while absorbing over a point of impact from currency.
+
+Now, let me bring it back up to the IBM level to talk about our expectations before we go to Q&A. Just about two years ago, we introduced today's IBM. A more focused business with a platform-based approach to hybrid cloud and AI. Since then, we've continued to invest organically and inorganically, bring new products and innovation to market, expand our ecosystem and our talent base, and drive productivity across our business. The result is a business that addresses today's client needs with a stronger financial profile.
+
+Our third quarter performance reinforces this progress with 3.5% revenue growth, gross and pre-tax margin expansion, and strong free cash flow generation. Now, with three quarters of the year behind us, we are holding our full-year view of our two primary financial metrics, revenue growth and free-cash flow.
+
+We continue to expect constant currency revenue growth of 3% to 5% and free cash flow of about $10.5 billion, that's up $1.2 billion over last year. We've had solid revenue performance all year in our growth vectors of Software and Consulting. We still expect Software revenue growth at the high-end of its mid single-digit model, and Consulting revenue in the 6% to 8% range. Infrastructure revenue of course reflects product cycle dynamics.
+
+In total, with one quarter to go, it's prudent to assume the low-end of IBM's 3% to 5% range. We are making great progress in our productivity initiatives. The work we are doing to digitally transform our business not only makes us more nimble by simplifying and streamlining our processes and operations, but it also frees up spend for reinvestment, provides financial flexibility, and delivers operating leverage. This contributes to solid margin and free cash flow performance.
+
+We continue to expect about 0.5 point of operating pre-tax margin improvement. And we see a mid-teens tax rate for the year. Our free cash flow performance has been driven primarily from our profit performance. Through the first three quarters, we're up a $1 billion year-to-year, and we delivered nearly 50% of our full-year expectation, which is ahead of our historical attainment.
+
+While, as always, we are relying on the seasonally strong fourth quarter, we're on track to achieve about $10.5 billion for the year. As I look specifically at the fourth quarter, with the recent currency movements, we now see currency to be neutral to a one point headwind to revenue growth. That's nearly $600 million worse than 90 days ago. I would expect constant currency revenue growth in the fourth quarter to be similar to the third. That's despite a tough compare from last year's strong ELA contribution in Software and the large z16 transactional performance in Infrastructure. This demonstrates continued momentum in our underlying business.
+
+Bringing it all together, we've clearly got a higher growth, higher value business with strong cash generation, a business well-positioned for the future.
+
+Arvind and I are now happy to take your questions. Patricia, let's get started.
+
+Patricia Murphy{BIO 17645248 <GO>}
+Thank you, Jim. Before we begin the Q&A, I'd like to mention a couple of items. First, supplemental information is provided at the end of this presentation. And then second, I'll try this one last time, but I ask you to refrain from multipart questions to allow time for more people to participate.
+
+Operator, let's please open it up for questions.
+
+Questions And Answers
+Operator
+Thank you. At this time we'll begin the question-and-answer session of the conference. (Operator Instructions) Our first question comes from Amit Daryanani with Evercore. Your line is open.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Yeah. Thanks a lot. Good afternoon, everyone. And I will stick to Patricia's -- Patricia's one last time ask one question only rule. I guess, Arvind, there is a lot of macro concerns out there, to say the least. I'm hoping you could spend a little bit of time just talking about, you know, when you talk to your customers and you -- you know, I'm sure you engage with a lot of the Fortune 500 company. Given this macro environment, how are they shifting or prioritizing their IT budget dollars? And I fully understand everything you're talking about generative AI and how, you know, how beneficial it's going to be. But given the macro environment, given the constrained IT budgets, I guess, where are they taking money away from to fund these investments? I'd love to just understand, you know, the customer feedback you're getting and how is the priority changing as we go-forward?
+
+A - Arvind Krishna{BIO 19076604 <GO>}
+Hi, Amit. So thanks for the question. And it's actually wonderful to talk about this. So, generative AI, just for me to very quickly reiterate the use cases, we found that our clients were really climbing onto on code, on customer service, and on, I'll call it, general digital workers, which is productivity in every enterprise function.
+
+So if you look at code, to a person, every one of the client said, we don't intend to get rid of any developers, but this allows us to take care of the tech debt that we've accumulated and makes every developer more productive. Amit, I'll kind of point it out, most enterprises are very quick to realize, if you're more productive, that means you have a competitive advantage to your peers. And if you have a competitive advantage to their peers, they'll share without spending more on labor. That's an incredible long-term competitive advantage.
+
+When you go to customer service, there is a cost takeout aspect, but it's not a 100%, but there is probably a 20% to 30%. If you can have more calls, more chats are answered by AI, that means you can have much more volume with a smaller number of people. So there is both. Also, I'll point out to our audience, AI does not get tired, it doesn't get angry, it doesn't get upset. So there is NPS improvement you get along with it.
+
+And then on the third one, on digital workers, there likely is a small productivity improvement. But I would call it more in the 4%, 5%, 10% not 20%, 30%, 40%. So, in the macro headwinds you're mentioning, higher interest rates, tougher to get skilled people, all of the issues around the geopolitical uncertainty that causes some of the concern or might have caused a pause in some other environments, the AI side and to be kind of the hybrid cloud side offer them a way through that without having to decrease their ambitions for next year. And I think we are seeing every one of them play to that. And I think that these are more fundamental. These are more core processes than some of the other areas that people were worrying about two or three years ago. When two or three years ago people were worried a lot about what do I do to keep all our employees happy. And can I add up all the tools for that. I think there is much less of a focus on that area.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Thanks, Amit. Let's go to the next question please.
+
+Operator
+Next we will hear from Wamsi Mohan with Bank of America. You may proceed.
+
+Q - Wamsi Mohan{BIO 15994435 <GO>}
+Yes, thank you so much. I was wondering if you could comment a little further on the Red Hat deceleration in 3Q. Jim, sounded like, you know, it was driven partly by consumption-based services that were -- that were somewhat weaker. Are you still expecting Red Hat growth in that 11% to 13% range for the year. And can you unpack some of the Software elements in the fourth quarter between Red Hat Transaction Processing and perhaps Apptio? Thank you make so much.
+
+A - James J. Kavanaugh{BIO 16033446 <GO>}
+Yeah. Thanks, Wamsi. Appreciate the question. Obviously, we're very pleased overall with our Software segment performance growing 8% actual, 6% at constant currency, really led pretty pervasively with growth across the board. Automation led, Red Hat at 8% as you said -- and I'll come to that in a second. But Data & AI, overall, really underpinning all of that is like we said starting the year, one, a very strong solid recurring revenue base. High-value, 80% of that portfolio, by the way, growing mid single digit growth. You see that play out in our Transaction Processing that we call the growth vector. And then also our Hybrid Platform & Solution business, $14 billion ARR that's growing high single digit overall. Now, within that, you see Red Hat. Red Hat, we talked about in the prepared remarks. First of all, Arvind and I would acknowledge, we came in a couple of points below our expectation. And I think that's an execution discussion overall. Embedded in that where did they come from. It came from -- because I think this is very important -- it came from the consumption-based services and offerings side of the equation, which by the way is about 20% of our portfolio is shorter-duration overall. And it went from last quarter, high single digit, which is about what the model is, to low-single digit overall.
+
+If you look at that and compare that now, let's look at the other part of the portfolio, the remaining 80%. That is our subscription-based business. That's our RHEL, franchise, industry market leader, that's Red Hat OpenShift and that's Ansible. We had a very strong annualized bookings in the quarter, which again subscription-based business model. We talked about all year long, we're going to be back-end loaded on renewals. We grew that mid-teens overall including services by the way. If I extract out that 20% portfolio of services and just look at the core subscription-based businesses of Red Hat OpenShift and Ansible, we grew 19% overall, 110%-plus NRR on that renewal rate of that business. And within that 19% OpenShift and Ansible were north of 40% with RHEL growing double digits.
+
+So, putting all that together, I think it's prudent right now -- when we look at fourth-quarter, we're building into our model. Again, Software at the high-end of our segment model, we're only building in high single digit. We have to continue to monitor what happened to us in the third quarter. Get the team focused on execution. But I would tell you, just given the signings growth that we posted in the third quarter -- and by the way, another good pipeline in the fourth quarter, we feel very confident in the long-term posture, Red Hat growning double digits. We just got to get through and monitor what's happening to us on the services side. So, thanks very much for the question.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Thanks, Wamsi. Let's go to the next question please.
+
+Operator
+Our next question comes from Toni Sacconaghi with Bernstein. You may proceed.
+
+Q - Toni Sacconaghi{BIO 3056875 <GO>}
+Yes, thank you for taking the question. Jim, it sounds like your guidance for Q4, given you expect revenues at constant currency to be at the low-end is somewhere around $17.3 billion, which is quite a bit below normal seasonality despite the fact that you have Apptio and you had strong services signings. So, I'm wondering if you could, A, confirm if that's sort of the number that you're suggesting. And, you know, was there some transactional pull forward in mainframe from Q4 to Q3 this quarter, or are you expecting some deceleration in Transaction Processing. Maybe you could kind of confirm the number for Q4 and then unpack it a little bit as to why it's below normal seasonality. Thank you.
+
+A - James J. Kavanaugh{BIO 16033446 <GO>}
+Great. Toni, thanks very much for the question. I appreciate it. And I know Patricia really appreciate sticking to one question, given it's her last call leading and piloting, and we thank her for all her efforts, but we'll have more time to celebrate in, in January. But as you stated, we remain confident in what our guidance is overall with regards to top-line revenue growth, 3% to 5%, albeit as we said, low-end. And that's just practically speaking, given we have one more quarter to go.
+
+We said we expect similar performance fourth quarter as we just executed in third quarter. Constant currency revenue growth, right. Let me unpack that to your point. First of all, at the macro-level. You know, historically, we would generate quarter-to-quarter about $2.9 billion-ish of revenue. Last year, by the way, we did $2.6 billion up quarter-to-quarter in revenue. That's $17.3 billion number in that ballpark -- you're not too far off -- is about equivalent to last year. It's about $2.6 billion. But I would tell you one thing underneath that Toni is we've seen a very different dramatic change in the currency FX US dollar strengthening to the tune of about $300 million, if you go look at the math, back into 2019 2020, 2021.
+
+So, underneath it pretty consistent quarter-to-quarter performance as last year, which by the way, I would highlight was the peak of our ELA cycle last year. And it was our strong first fourth quarter in a z16 environment. We're going to match that, even taking into account the FX headwinds overall, that we called out going-forward.
+
+One last thing that I'll put and then I'll get into the color is, on a profit basis, although you didn't ask that, historically profit, we generate somewhere, if I remember correctly studying over the weekend about a $1.3 billion quarter-to-quarter. You look at our operating pre-tax margin, which we recommitted a 0.5 point for the year, that puts you in a profit range of, I don't know, $1.7 billion, $1.8 billion a quarter-to-quarter. So, you see the fundamental operating leverage of what's happening to our business. So you put all that together, we still believe we have a very confident year at that 3% to 5% by the way, led by Software delivering three points of that IBM growth. Consistent, I would say, very good performance competitively in Consulting driving about two points of IBM's growth. Infrastructure around the product cycle downside, we said beginning of the year and were consistent. It's about a point hurt to IBM. And then you got the divestiture impact of about a half a point. You put all that together, I think that's a pretty good year overall and pretty much on top of our model.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Okay. Sheila, let's go to the next question please.
+
+Operator
+Next we will hear from Matt Swanson with RBC Capital Markets, your line is open.
+
+Q - Matt Swanson{BIO 22272710 <GO>}
+Yeah, thank you for taking my questions. It was great to hear about some of the quantifiable success that you've seen in generative AI so far. But maybe slipping out little bit whether it's too early consulting engagements or customer conversations. Where are you seeing some of the choke points that might hold up people from deploying as fast as they want. And whether it's through foundation models or, you know, some of your other tools around the governance side. Kind of how that's, you know, developing your R&D to develop solutions for those problems.
+
+A - Arvind Krishna{BIO 19076604 <GO>}
+Yeah, thanks. And let me try to address your question here. Look, I think the concerns that people have are coming around are these models accurate, how accurate are they, do they result in things that may cause long-term liability. People are worried about the conversation because they here and read that whether it's artists, whether it's authors, whether it's code writers are suing some of the producers of large language models.
+
+You alluded to governance, that comes more around lifecycle and how do you carry it out over the long-term. Coupled with this are some people's concerns, if you add their own private data into a model, now what happens to the model. Where is it protected, where is it stay, do others learn from it. So if you begin to unpack all of that, we begin to say, all right, for models that are IBM produced, we will give you indemnification. Meaning, we are confident in our ability to standby the data we have used to train what is being used to be output. And we'll stand behind the same indemnification as you provide for all enterprise software. As you would expect that's hard for us to do for open-source models. But we believe that, that takes care, and that is why we are so excited about code and customer service to start with, because that's where we believe that people can -- can benefit from this indemnification.
+
+Talking about the governance and the lifecycle side, people are also worried about some of the long-term deployment because an enterprise may well deploy a model for five or 10 years. So the governance tools that allow you to keep a lineage of the data used to train a model. And then for those adding private data, we give them a commitment that data stays with them and the refinements to that model go nowhere else helps to mitigate some of the fears and uncertainty around those issues. I do believe that this is going to play out well over the next few years. But I also want to point out, there are many cases where people are not worried about some of these risks. If you're giving a quick website response, you could well use the model that may have some of these risks, because the danger and using any of those other areas is small. So - so that is how it's playing out right now. I expect to see a lot of deployment in 2024 going into full production across the world of whether you use word large language models, or foundation models or generative AI.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Great. Thank you, Matt. Let's go to the next question please.
+
+Operator
+Our next question comes from Ben Reitzes with Melius Research. Your line is open.
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+Hey, thanks a lot. I appreciate it. My question is on Consulting, I was very surprised to see 32% bookings growth after 24% the prior quarter, 7% in the prior quarter. It's really diverging from your perceived rival in Consulting, Accenture. And I was just wondering what the reasoning you would say is behind that? And then Jim, with regard to those bookings, what does that do for your revenue visibility for Consulting, not only for the fourth quarter, but for early next year. I would think the good book-to-bill, you know, might make you feel pretty confident about that 6% to 8% and continuing. Thanks a lot.
+
+A - James J. Kavanaugh{BIO 16033446 <GO>}
+Ben, thanks very much for the question. As I said earlier, pleased with the team, overall, in Consulting. You know, not only on the signings and booking, but our revenue is well-positioned for that 6% to 8%, which gave us confidence to reiterate that but also the fundamentals of that business, right. We talked a lot about this over the last handful of years. We're getting good operating leverage in that business, good cash contribution. So, all in all, pretty pleased overall.
+
+When you look at the bookings overall, I mean, let's just put some statistics. And let me talk about kind of headwind tailwind overall. Because I think what you're trying to get at is the confidence level, Arvind and I, and the team have about this book of business going forward into fourth quarter and into 2024. You know, we're still seeing very good demand overall in areas around digital transformation, application modernization, and where there is real technology value, productivity, cost-efficiency, quick payback. Is there pressure on discretionary based activity in, in that like? Absolutely. But you know what, we've seen that all year long. We haven't seen really any substantive change in the macro, in the client buying behaviors overall. But that has enabled us to grow 30%-plus. By the way, its strongest bookings quarter we had quite a period of time and now we've got a trailing 12 month book-to-bill of 1.16%. I think the strongest in about two-and-a- half years overall.
+
+Now, underneath that, what's -- what's going on. One, you know, we've opened up IBM to strategic partnerships. We're seeing great ecosystem velocity and strategic partnership growth. Signings were above 50% year-over-year, hyperscalers underneath that, 2x signings. Our hybrid cloud and application modernization, Red Hat, we signed north of a $1 billion alone in the quarter. Now, that's $10 billion inception-to-date. We got acquisitions that are now accretive and scaling nicely. So, I think from that aspect, you look at the top-line growth, we feel pretty confident about the 6% to 8% for this year. And we feel confident about the value and the growth contribution of the growth vector of Consulting in our book of business heading into 2024.
+
+Now, with that said, headwinds wise, yeah, listen every other services consulting company, there are macroeconomic challenges. Without a doubt, uncertainty. But we got to go and compete every single day here. And duration, I would say, not only we had great signings growth, we're monitoring our backlog realization. Our duration, by the way, this year has went up by a couple of months. But that revenue will play out over-time. And, you know, all-in all if I sum it up, I think we're taking share. I'm pleased with the team.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Thank you, Ben. Let's go to the next question.
+
+Operator
+Our next question will come from Erik Woodring with Morgan Stanley. Your line is open.
+
+Q - Erik Woodring{BIO 19492555 <GO>}
+Hey, guys, thanks for -- for taking my question. I'll -- I'll stick to the one as well. And maybe Jim, this is for you. You know, you didn't -- you didn't change your Software, Consulting guidance ranges for the year. I think you had a -- a minor benefit from Apptio closing earlier in -- early in 3Q. But you now expect a full-year constant-currency revenue growth to be at the low-end of the 3% to 5% range. And so, I'm -- I'm just wondering, should we now think about Software, Consulting to grow at the lower-ends of those ranges that you provided earlier, especially now kind of given some of your Red Hat commets. I'm just trying to understand what has changed underlying via the different segments to get to the kind of that new view on total revenue in constant currency. Thank you.
+
+A - James J. Kavanaugh{BIO 16033446 <GO>}
+Yes, thanks Eric. I appreciate the question. So, similar to, I think Toni has some similar to this overall. You know, when you look at IBM, 3% to 5% just practically speaking, one quarter to go, we said, you know, it's -- it's better to say we're prudently at the low-end of that range.
+
+Now, let's talk about it by segment. You know, Software, you dial back 90 days ago, we said that we were very excited about the announced acquisition of Apptio. We said that we expected that to close-in early fourth quarter. Team did an outstanding job, we got through that regulatory approval, we closed it mid August. But when we announced that acquisition in July, we actually given our first-half performance, both in our recurring revenue streams and the strength of that, but also in our transactional book of business. We actually took our full-year guidance up to the high-end of the range. Now, we closed -- and by the way we said Apptio will be about 0.5 a point on the full-year. Now, we close it, what? A month, month-and-a-half earlier. Okay, so that 0.5 point of contribution in Apptio might be 70 basis points of contribution on a full-year. We still feel very confident. By the way through three quarters, we're up 6.5%, that's above our mid term model.
+
+Yes, we have the peak wrap on ELAs last year, but very interesting underneath, our third quarter year-to -- year-to-year performance, we're growing transactional revenue. Very different profile than what we started out in January, which I think prudently we said we expected transactional revenue is going to be a headwind to us. What's happening? The new innovation we're bring into market is actually creating much more volume of newer ELA content, that by the way is contributed about 1.5 point a growth above our expectation. And we're also getting great closing in NRR up 7 points versus history.
+
+So, we think like we just finished above our model in third quarter at constant currency on Software, we said in the prepared remarks, we expect a pretty similar fourth quarter, you know, at the high-end, overall. So we're maintaining Software. If you look at Consulting, we said 6% to 8% overall. By the way, year-to-date, we're up 6%, and actually 6.4% to be exact. And we look at fourth quarter overall, we just talked about in Ben's question, our strong bookings, our book-to-bill at 1.16%, the tailwinds on hybrid cloud around strategic partnerships. I think we feel pretty good about our overall guidance.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Okay, very good. Let's go to the next question please.
+
+Operator
+Our next question comes from David Grossman with Stifel. Your line is open.
+
+Q - David Grossman{BIO 1501443 <GO>}
+Thank you. You know, Jim, you provided some good detail on free cash flow year-to-date. And the question really is, are there any early indications on what non-operating items could impact free cash flow next year, working capital, cash taxes, et cetera, as well as how restructuring actions this year may flow into earnings and cash flow as well, over the next several months.
+
+A - James J. Kavanaugh{BIO 16033446 <GO>}
+Yeah, David, thanks for the question overall. You know, we'll spend a lot of time in January talking about 2024 free cash-flow. But I'm glad you actually asked the question because we've been talking about free cash-flow all year long. It's one of Arvind and IBM's two important metrics, revenue growth, free cash low generation. We called out $10.5 billion by the way, up $1.2 billion this year off of last year where we grew $2.8 billion year-to-year. And we said, you know, that's above our annualized model. Our annualized model is about $750 million [ph] per year coming on off of the I&E and the business fundamentals.
+
+You know, you look through the third quarter, we're up now $1 billion year-to-year, we're at $5.1 billion, very-high quality, by the way of that $1 billion dollars, $700 million of it is cash sourced from operating profit overall. So that's the improving fundamentals of our sustainable revenue growth and our operating leverage and productivity we're driving in this business. And as I said all year long, I was very transparent in January, repeated it in April, said it again in July. And now, I'll say it again. When we look at that $1.2 billion free cash flow growth year-to-year, we're going to get most of it through cash sourced from profit, read that about $800 million to $900 million. And we said that we would get working capital efficiency this year. Why? Because of our 4Q 2022 opportunity gap that we missed. And we called that out transparently in January. We're seeing that play out. You do the puts and takes, yes, we're going to get a little bit of a modest tailwind on structural actions this year that will offset cash tax headwinds. But you look at the underlying $1.2 billion free cash flow growth, it is a high quality, fundamentally driven out of our revenue growth and operating leverage.
+
+Now, you look to 2024, we'll spend a lot more time on cash tax. A lot of that is going to be predicated on where we actually finish fourth quarter overall. But we feel confident with the actions we've been putting in place and we got to earn the credibility and discipline here closing out a free cash flow quarter, by the way, that's $5.4 billion.
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Very good. Sheila, let's take one last question.
+
+Operator
+Our last question will come from Brian Essex with JPMorgan. Your line is open.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Hi, good afternoon and thank you for taking the question. I guess maybe, Arvind, if we could just circle back on this well -- well worked topic of AI. Could you maybe just take a very high level approach of how you're seeing customers evaluated adoption, and how that might impact the nature of contracts within the Consulting business and feed the watsonx platform. Maybe -- maybe adoption -- initial read on adoption rates and -- and view into how Consulting to be the tip of the spear there. Thank you.
+
+A - Arvind Krishna{BIO 19076604 <GO>}
+All right. Thanks, Brian, for the question. So, Consulting is going to be the tip of the spear, but it's not going to be the only. Because some clients do have enough expertise inside to do things on our own. As we approach clients, trying to use, I'll call it a big public chatbot to perhaps improve some service is not where they look to us. And we've been very clear, that's not where we're going to go, and we do not actually so up any of those services. However, I'll take some maybe some quick examples as I go through.
+
+So with a large -- I'll use the word financial services company. They want to use generative AI to dramatically improve the productivity of their developers. They actually use their own proprietary languages, not only the common languages that are available outside. They are asking the question, who can I trust to augment their model, give it to me and I don't really want to get into all the details of how I might use it, but I want them to provide the technology. In this case, Brian, we would work with them to augment the model using their language and their data and their code snippets. We would do it in a way that they are completely comfortable getting 100% that that leaks nowhere else. They will take back the model. It now becomes an as-a-service deployment in their private cloud infrastructure, and we monetize it as is typical for as-a-service software.
+
+I'll take another example that we are building out with Dun & Bradstreet, and I mentioned that briefly on the call. In that case, it is consulting-led. They want to work with Consulting to use watsonx in this case. But to help them create solutions that let their clients get greater insight aka helps D&B monetize their data better. So, in that case, it is absolutely Consulting-led. I think without Consulting, we would not have landed that deal.
+
+Let me go to others, because there are also examples where our Consulting team is using bots was available with Azure OpenAI as an example to go win deals because they have built up thier expertise. They have also built up expertise on Amazon's Braket platform. And they are going forward with winning deals on those. In that cases, they are coming in with a methodology, with knowledge, with the thousands of trained consultants who know how to work on those platforms. And they're working with the clients to go do that. I think these are all examples of what's working.
+
+I think you're trying to also ask, is it going to be Consulting or is it going to be Software. Look, we didn't say much on the -- on the call, on this topic. We just characterize it as low hundreds of millions of dollars of booking. But in the absence of anything else, think of that as maybe half-and-half between Consulting and Software, which does tell you that a couple of points of growth for both those units came from the generative AI that we've been putting out. And I think that's the best way to think about it in terms of what's happening right now. And we are certainly expecting and planning that that will only increase as the quarters go on.
+
+All right. So, let me now wrap-up the call. This third quarter performance reinforced our confidence in the strategy and in our ability to deliver value to enterprise clients in today's environment. Very excited with the opportunities ahead of us. And I look-forward to taking through -- you through our continued progress and our view of 2024 in January. Thank you all
+
+A - Patricia Murphy{BIO 17645248 <GO>}
+Okay. Sheila, let me turn it back to you to close out the call.
+
+Operator
+Thank you. Thank you for participating on today's call. The conference has now ended. You may disconnect at this time.

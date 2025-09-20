@@ -1,0 +1,338 @@
+Q2 2024 Earnings Call
+Company Participants
+Sassine Ghazi, President and Chief Executive Officer
+Shelagh Glaser, Chief Financial Officer
+Trey Campbell, Senior Vice President of Investor Relations
+Other Participants
+Blair Abernethy, Analyst, Rosenblatt Securities
+Charles Shi, Analyst, Needham & Company
+Clarke Jeffries, Piper Sandler
+Gary Mobley, Analyst, Wells Fargo Securities
+Gianmarco P. Conti, Analyst, Deutsche Bank
+Jason Celino, Analyst, KeyBanc Capital Markets
+Jay Vleeschhouwer, Analyst, Griffin Securities
+Joseph Vruwink, Analyst, Baird Equity Research
+Joshua Tilton, Analyst, Wolfe
+Lee Simpson, Analyst, Morgan Stanley
+Presentation
+Operator
+Ladies and gentlemen, welcome to the Synopsys Earnings Conference Call for the Second Quarter Fiscal Year 2024. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. (Operator Instructions) Today's call will last one hour. As a reminder, today's call is being recorded.
+
+At this time, I would like to turn the conference over to Trey Campbell, Senior Vice President, Investor Relations. Please go ahead.
+
+Trey Campbell{BIO 20385325 <GO>}
+Thanks, Sarah. Good afternoon, everyone. With us today are Sassine Ghazi, President and CEO of Synopsys; and Shelagh Glaser, CFO. Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect.
+
+In addition to any risks that we might highlight during this call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release. In addition, we will refer to certain non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the earnings press release, financial supplement and 8-K that we released earlier today. All of these items, plus the most recent investor presentation are available on our website at www.synopsys.com. In addition, the prepared remarks will be posted on our website at the conclusion of the call. With that, I'll turn the call over to Sassine.
+
+Sassine Ghazi{BIO 20040787 <GO>}
+Thanks, Trey. Good afternoon. In Q2, we continued our strong execution and momentum. Semiconductor and systems companies continue to invest in Synopsys Solutions to maximize their R&D capabilities and productivity. Revenue was up 15% year-over-year and at the high end of our guided range. Non-GAAP operating margin was 37.3%, up approximately 3 points year-over-year. And non-GAAP EPS was up 26% year-over-year and above guidance.
+
+Given our momentum and continued confidence in our business, we are again raising our full year revenue and non-GAAP EPS guidance. Shelagh will discuss the financials in more detail. First, I'll give some context for our confidence and share some business highlights from the quarter. First, we are in an era of pervasive intelligence, fueled by the rise of artificial intelligence, silicon proliferation and software defined systems. These trends are driving systemic complexity for technology R&D, which in turn drives unprecedented opportunity for Synopsys. Our silicon customers are racing to design and manufacture complex, purpose built silicon. And our customer set is expanding as systems companies are also either designing their own chips or defining and optimizing their system performance at the silicon level.
+
+In March, many of our semiconductor and systems customers attended SNUG, our yearly Synopsys user Group Conference in Silicon Valley. Thousands of passionate design engineers shared best practices and learned about the innovations we're driving. And we were honored to have a dozen key customers, including NVIDIA, Intel, AMD, AWS, Tesla and others contribute their perspective regarding the mission critical role Synopsys plays in their innovation.
+
+As a leading silicon to systems design solutions company, Synopsys opportunity has never been greater. Today, we have best-in-class EDA tools and the broadest portfolio of silicon IP. Our planned acquisition of Ansys will expand our TAM and further our mission of empowering technology innovators everywhere. Let me provide a brief update on this important transaction. Our customers have overwhelmingly told us that they see tremendous potential for the combination to accelerate their innovation and address their rapidly increasing need for system design solutions that provided deeper integration between electronics and physics.
+
+We're pleased to announce that Ansys stockholders approved the transaction this morning. Synopsys and Ansys are making progress towards securing the necessary regulatory approvals and we remain confident in the regulatory review process given the clear and compelling benefits of this combination for customers and partners. We continue to expect the transaction to close in the first half of 2025.
+
+Let's move to segment business highlights, starting with Design Automation. Q2 Design Automation revenue was up 14% year-over-year with strength across the business and continued rapid adoption of synopsys.ai. Customers realize impressive gains in performance, power and area. In analog and mixed signal design, customers are looking to Synopsys as they modernize their flows and move to more advanced process nodes. We saw 10 displacement design wins in the quarter and now have 20 displacements through the first half of the year.
+
+In Q2, we delivered the marquee win for full flow displacement at a leading U.S. systems company, while a leading Asian memory company chose our analog design environment for their next generation memory designs. Our synopsys.ai engine for analog, ASO.ai allows analog customers to harness the power of AI to simplify node migration. A high speed connectivity customer recently reported a 10x productivity gain using ASO.ai. Transitioning to digital, where we continue to expand our leadership across advanced node design flows.
+
+In Q2, our Fusion compiler continued to push boundaries in performance and power efficiency optimization, demonstrating 8% better power on a 2 nanometer based CPU at a U.S. CPU company. And higher performance versus competition for the flagship mobile CPU at Samsung. Demonstrably better PPA results such as these also led to Fusion compiler wins at a large U.S. hyperscaler and a top U.S. mobile CPU company. While the customer results from Fusion are exceptional, we believe the combination of Fusion and AI based optimization is game changing. In Q2, multiple Asian design services firms exceeded maximum frequency targets with DSO.ai and a leading U.S. GPU company deployed DSO.ai for improved productivity.
+
+In verification, our flagship VCS product delivered 15 competitive displacements in the quarter, led by wins at an Asian systems company, a leading U.S. hyperscaler and a top U.S. GPU company. The synopsys.ai optimization engine that partners with VCS, VSO.ai saw significant adoption as well. We are now engaged with over 30 customers, demonstrating up to 10x fast turnaround time and double digit increase in coverage.
+
+Shifting to hardware assisted verification. Demand exceeded our expectations for the quarter with four new customer wins and over 50 repeat customer wins. At SNUG, we announced ZeBu EP2 and saw the first sales to a large Asian mobile SOC company in a competitive win for full SoC verification. We also saw significant customer pull for HAPS, including at a large U.S. mobile company, which deployed multi-die designs on HAPS and reduced bring up time by approximately 40%.
+
+On to Design IP, which delivered 19% revenue growth as the IP supplier of choice for leading HPC, AI, automotive and mobile chips at advanced nodes. Q2 was particularly strong quarter for automotive wins. Electrification, infotainment and ADAS features continue to drive strong demand for our comprehensive automotive portfolio. Chip level security continues to be a concern to chip designers. In Q2, we announced the acquisition of Intrinsic ID to add physical and clonable functions or PUF technology to our extensive IP portfolio. More broadly, we gained over 10 secure interface IP wins in the quarter, including five new customers.
+
+Demand for interface IP for AI and data center applications is growing at a blistering pace. In the quarter, we launched the industry's first 1.6 terabyte Ethernet solution to meet the high bandwidth needs of AI and hyperscaler chips, securing design wins at two leading high speed Ethernet customers. Additionally, we secured more than 10 design wins for PCIe 6.0 and CXL 3.0 solutions. We also have the industry's most expensive IP library for Multi-die, starting with the standard for die-to-die interconnect UCIe.
+
+We won five UCIe IP licenses in the quarter across end markets from memory to mobile to HPC. With these wins, we now have 50 lifetime wins for die-to-die connectivity. As silicon becomes foundational to innovation in nearly every industry, we've seen an infusion of government support and funding for chip manufacturing around the world. Synopsys plays a mission critical role as an on ramp to the world's foundries, enabling manufacturing success for our mutual customers. In Q2, we won a significant enablement engagement with the emerging leading edge Japanese foundry, Rapidus Corporation, involving our leadership 2 nanometer interface IP.
+
+This builds on a major Rapidus (Technical Difficulty) design win for foundation. Having a portfolio of trusted IP is a requirement for every world class foundry. As the leading provider of interface and foundation IP, Synopsys is often the first stop for foundry enablement. Synopsys IP provides a path for mutual customers to bring Rapidus manufactured chips to market faster and with lower risk. The design and manufacturing of semiconductors is inextricably linked and we engage deeply with all the major foundries. At TSMC Symposium, we announced TSMC N2 IP development and demonstrated silicon proof points for N3E and N3P IP. At Samsung, we secured multiple IP wins enabling customers to confidently adopt Samsung's leading processes for AI, storage, automotive and other applications.
+
+We also partnered with Intel Foundry to accelerate advanced chip designs with Synopsys IP and certified EDA flows for their 18A process. This quarter also marked another transformative milestone as we accelerate our Silicon to Systems strategy and prioritize growth investments in our core EDA and IP businesses. We recently announced the definitive agreement to sell the software integrity business to Clear Lake Capital and Francisco Partners.
+
+This transaction valued at up to $2.1 billion will establish SIG as a newly independent leading application security testing software provider and is expected to close in the second half of 2024, subject to customary closing conditions and regulatory approval. This agreement fulfilled the key priorities we had for the sale. Find our team and our customers great new owners that can care about nurturing and investing in the business to deliver to its full potential, focus on speed and certainty to close and deliver financial value and smooth transition for Synopsys.
+
+We are proud to have started the business, grown it to be the application and security testing leader and will partner with the new owners to ensure a seamless transition. We have strong continuing momentum across the business, supported by multiple secular growth drivers. We have a resilient business model and our customers continue to prioritize investments in the silicon and systems that position them for future growth. We are aligning our portfolio investment with the greatest return potential to accelerate our growth. Thank you to our employees, partners and customers for their passion and commitment.
+
+With that, I'll turn it over to Shelagh.
+
+Shelagh Glaser{BIO 22254750 <GO>}
+Thank you, Sassine. We continued our strong momentum in Q2 with revenue at the high end of our guided range, non-GAAP operating margin of 37.3% and non-GAAP earnings above the high end of our guidance. Our Q2 results are driven by our relentless focus on execution, leading technology that is mission critical to our customers and a resilient and stable business model with $7.9 billion in non-cancellable backlog. We remain confident in our business and after raising guidance at our Investor Day in March, we are again raising our full year targets for revenue and non-GAAP EPS.
+
+As Sassine noted, we entered into an agreement to sell our software integrity business. Unless otherwise noted, our software integrity business has been presented as a discontinued operation and our consolidated financial statements for all periods presented. I'll now review our second quarter results, which are presented on a continuing operations basis. All comparisons are year-over-year unless otherwise stated. We generated total revenue of $1.45 billion, up 15%.
+
+Total GAAP costs and expenses were $1.12 billion, total non-GAAP costs and expenses were $911.7 million, resulting in non-GAAP operating margin of 37.3%. GAAP earnings per share were $1.92 and non-GAAP earnings per share were $3. Now on to our segments. Design Automation segment revenue was $1.05 billion, up 14%, driven by strength in EDA software and hardware. Design Automation's adjusted operating margin was 39.6%. Design IP segment revenue was $399.8 million, up 19%, driven by broad based strength. Design IP adjusted operating margin was 31.2%.
+
+Operating cash flow, including discontinued operations was $477 million for the quarter and free cash flow, including discontinued operations was $438 million. We ended the quarter with cash and short-term investments of $1.66 billion. Now to guidance presented on a continuing operations basis. For fiscal year 2024, the full year targets are revenue of $6.09 billion to $6.15 billion, total GAAP costs and expenses between $4.56 billion and $4.61 billion, total non-GAAP costs and expenses between $3.77 billion and $3.81 billion, resulting in non-GAAP operating margin improvement of approximately 2 percentage points at the midpoint.
+
+Non-GAAP tax rate of 15%, GAAP earnings of $9.14 to $9.36 per share, non-GAAP earnings of $12.90 to $12.98 per share. Cash flow from operations of approximately $1.3 billion, free cash flow of approximately $1.1 billion. Now to targets for the third quarter. Revenue between $1.505 billion and $1.535 billion. Total GAAP costs and expenses between $1.10 billion and $1.12 billion, total non-GAAP costs and expenses between $920 million and $930 million. GAAP earnings of $2.22 to $2.35 per share, and non-GAAP earnings of $3.25 to $3.30 per share.
+
+Our press release and financial supplement include additional targets and GAAP to non-GAAP reconciliations as well as historical, financial and operating metrics presented on a continuing operations basis. In conclusion, we are on track to achieve revenue growth of 14.5% to 15.6%, approximately 2 percentage points of non-GAAP operating margin improvement and 22% to 23% non-GAAP EPS growth in 2024. Our confidence reflects our leadership position across our segments, mission critical products to enable our customers' robust design activity and a stable and resilient business model.
+
+With that, I'll turn it over to the operator for questions.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Before we begin the Q&A session, I would like to ask everyone to please limit yourself to one question and one brief follow-up. If you have additional questions, please re-enter the queue and we'll take as many as submit questions. Your first question comes from the line of Joseph Vruwink with Baird. Your line is open.
+
+Q - Joseph Vruwink
+Hi, great. Hi, everyone. I wanted to start, it sounds like the analog and verification AI products are really gaining a nice foothold at customers. So there's probably a bit more of a baseline financial experience. Is it possible to say just what the uplift around ACV tends to be with these customers adopting the newer AI products? I think the 20% uplift upon renewal figure you provided last year was more driven by DSO.ai. I'm just wondering how the newer AI products are maybe starting to change and factor into the model.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yeah, very good question. So it's true. The 20% uplift is based on the DSO.ai incremental booking and revenue we're able to capture and the baseline increase for Fusion Compiler. On ASO.ai and VSO.ai, we're still in early stages, it's very difficult at this stage to give you what will the average be. So give us some time before we're able to capture more data points. But the one thing that we can confirm is as customers are using that technology in production, we're able to monetize it through the same approach and uplift to get access for the technology and an uplift based on the consumption -- the baseline consumption.
+
+Q - Joseph Vruwink
+Okay, that's great. And then -- yeah, good to hear about the update on Ansys. Maybe anything you can say in terms of financial performance of Ansys and just how you two are working together and kind of your expectations for the balance of the year as you approach joint customers and kind of think about the financial performance of the Ansys business.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+So two points on the Ansys performance. One, as you know, we're operating as two separate companies. So my suggestion here is to refer you back to what they're communicating, which is their continued commitment for double digit ACV and revenue growth for their FY '24. And the other point is, during our diligence process, we had a close insight in terms of the shape of the year where it's tilted more for a second half performance compared to the first half in terms of the shape. So really that's the most we can say at this stage. But if you have any questions, refer back to the Ansys commentary.
+
+Q - Joseph Vruwink
+Okay. Thank you very much.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Jason Celino with KeyBanc. Your line is open.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Hey, great. Thanks for taking my questions. This quarter was a little unique and that we got basically an update 60 days ago at SNUG in the Analyst Day. Nice to see the quarter come at the high end and raising the guide again. But curious like -- again, I don't see Synopsys as being like a very back end loaded company, but curious what exactly drove the strength and the upside just from that short period ago.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+So continued momentum in the core business. I mean, what we're seeing is the ongoing demand for faster compute energy efficient compute either by semiconductor companies or by hyperscalers is increasing the demand for the latest, greatest EDA technology as well as the demand for our IP portfolio. So with that, we are in a fortunate position with our customers and our portfolio that's driving that growth. And I know just 60 days ago, we updated to take the software integrity as a discontinued operation. But as we went through the quarter and we're looking at the rest of the year, it gave us confidence to raise the midpoint to 15%, which is roughly another $30 million raise for the year.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Thank you.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Yeah. And the other thing I would add is, I think as said in his prepared remarks, we outperformed on hardware this quarter. So it was another nice quarter of execution by the hardware team.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay. Perfect. And then maybe just a quick one for Shelagh. I think you said backlog of 7.9. Is that an AppSec backlog number?
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Absolutely, Jason. So thanks for the question. It's AppSec because of course, that's moved into discontinued operations. And just to give you some relevant comps that will come out later in this week as you get the quarterly filing. Q1 '24 on that same basis was 7.7% and then Q2 '23 on that same basis was 6.8%. So that versus what I just shared are Q2 actual 7.9%.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay. Excellent. Thank you.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Charles Shi with Needham. Your line is open.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Hey, good afternoon. Congrats on the solid results for the quarter. I have a question about the IP business. It seems like it takes a little bit of a pause in April quarter, but your full year guidance seems to suggest maybe IP will have slightly higher run rate from the fiscal second quarter level into the third and into the fourth. I recall like 90 days ago, you were talking about maybe IP is going to be a little bit first half weighted. Is that still the shape you're expecting? And if I may, is it more concentrated in Q4 because your Q3 guidance and the full year guidance kind of implies another very strong sequential growth into the year and wonder if it's IP driven. Thanks.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Well, as you noted, IP tends to be lumpy for us. And so you saw us have about 53% IP growth in Q1. So Q1 -- Q2 is a bit muted from that, although we're still up 19% year-over-year and we anticipate another strong year for IP. And the lumpiness is really about the timeline in which the customers need to ingest IP into their design. And so as you noted, that will continue through the year and we expect continued growth throughout Q3 and Q4 with a strong Q4.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Thanks. May I ask again that the China revenue, you guys were expecting contribution to be lower in fiscal '24 compared with '23, but the dollar wise still going to be a record -- I mean, it's still going to grow on a year-on-year basis. Is that still the case?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yes. As you recall, Charles, we communicated early in the year that we're a little bit cautious on China as we see macro and challenges in the economy in China and some impact of the restrictions. We had a good first half. We are anticipating growth in China. But overall, we're taking a balanced approach for the overall macro.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Thanks.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thanks, Charles.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+You're welcome.
+
+Operator
+Your next question comes from the line of Josh Tilton with Wolfe Research. Your line is open.
+
+Q - Joshua Tilton{BIO 18420258 <GO>}
+Hey, guys, can you hear me?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yes.
+
+Q - Joshua Tilton{BIO 18420258 <GO>}
+I really appreciate the color on kind of tracking these displacements that you called out. I think you mentioned the 20 -- I don't remember if that was this quarter or year-to-date, but could you maybe just give us a little bit more color on what's driving those, where they're coming from and kind of how we should expect those displacements to trend for the rest of the year?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Sure. Our customers are expecting analog design workflows and environment methodology, et cetera, to be more modernized. Think of it feeling more like digital. And this is a great opportunity for Synopsys and we introduced couple of things. One is the AI for analog, which is ASO.ai. Our customers are using it primarily for migration from a node-to-node or in some cases foundry-to-foundry. And the other aspect of the analog competitive wins that we've had is the full flow.
+
+When you look at the complete design environment, simulation, et cetera and offering a modern competitive platform for our customers. And we're actually very excited about the momentum that ASO.ai is driving and the overall the workflow that we're putting together for our customer?
+
+Q - Joshua Tilton{BIO 18420258 <GO>}
+Maybe just a follow-up to that. I know you mentioned that you and Ansys are running in separate businesses at the moment, but are you already seeing any changes in purchasing behavior? And what I mean by that, are there any customers you can identify that maybe weren't as strong buyers or starting to go more all in or maybe weren't customers at all, but are now starting to buy Synopsys because of the future they see between you and Ansys that will exist in the combined business?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yeah. remember, Josh, we've had a partnership since 2017. So the customers that we engage -- we Synopsys engage with in our core business, we already have that established go-to-market and established technology connections between the products that are relevant for that grouping of customers. So I won't say there is anything different in terms of customer behavior at this stage. Think of it as a continuation of what we started in 2017.
+
+Q - Joshua Tilton{BIO 18420258 <GO>}
+Super helpful. Congrats on a great quarter, guys.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Gary Mobley with Wells Fargo Securities. Your line is open.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Hi, everyone. Thanks for taking my question. I wanted to ask about the regulatory approval process for the Ansys acquisition and I guess what's developed most recently was China SAMR approval. I presume that you always expected to file a China SAMR given the close timeframe of first half next year. Maybe if you could just speak to your confidence in that approval process and any concessions you might be willing to make to get that across the finish line?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Sure. So Gary, few things. One, from a regulatory process point of view, we had a really a thorough roadmap on different jurisdiction filing and processes that we needed to -- with China, the first step we took was to communicate that our transaction is below the merger notification threshold. And that was confirmed last week in the letter, which is actually a positive confirmation. At the same time, it was communicated that they will desire to review the transaction, which at this stage, we're reviewing the notice, we're evaluating the potential next steps.
+
+And as we communicated to every jurisdiction, it's important to work collaboratively, try to understand what are any customer competitive, et cetera concerns that we need to take into account. And we're just following that process at this stage.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Okay. Thank you. As my follow-up, you mentioned in your prepared remarks about a customer win with an Asian memory designer. And if I'm not mistaken, memory as a subgroup of the semiconductor industry hasn't historically leaned heavily on commercial EDA. Maybe if you can just give us how that -- some insight into how that might be changing and then in particular, how HBM memory for data center might be factoring into some of the needs for your tools?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yes. There are a couple of parts of the portfolio actually that they are incredible sweet spot for memory design. As you know, memory design is more a custom structured custom design where we have our leadership position in fast spice simulation, where you take a memory design and you try to bring in acceleration in our fast spice simulation. And there over the last number of years actually, the memory market has been a sweet spot for growth for us in that space.
+
+We even introduced GPU acceleration for that fast spice simulation that the memory customers were the leaders and early adopters of that technology in order to deal with the complexity as these memories, especially the HBM3 and all flavors of new memory design, it drove nice opportunity for us to continue on expanding those engagements. So it's true, while memory companies were more a custom type of design flows. Over the last number of years, they've been leaning quite heavily to adopt latest technology to deal with that complexity.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+That's good color. Thank you.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+You're welcome.
+
+Operator
+Your next question comes from the line of Lee Simpson with Morgan Stanley. Your line is open.
+
+Q - Lee Simpson{BIO 22998670 <GO>}
+Great. Thanks so much. I just wanted to ask an IP question. And really just in relation to a new node being stood up at TSMC. So I think as many of us know, the end to capacity is being stood up probably around mid 2025. And I was just trying to get an understanding of when you thought that would impact on your business, particularly from the foundational IP perspective and maybe more broadly, as last caller was asking around about how might pull in things like HBM and so forth as well? Thanks.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Yes. So when a new node comes online, we engage in the point one and in some cases like foundation IP, even we engage before the point one PDK. And the reason we engage that early is in order to deliver what's called the node entitlement to get a sense of what's the power, the performance, the area of that node. And that's a very deep in the trenches collaboration with in this case TSMC, but it applies to Samsung, Intel, many other foundries. So the first is with our foundation IP.
+
+Then shortly after it's followed by the interface IP, where we are a number of the test chip shuttles that they have for internal validation of their process technology. And those come way before the customers buying the IP from us. So by the time the customer is ready to at a the 0.5 PDK. And in some cases, as you know, they wait for 0.9 PDK, et cetera, that's when they start pulling the IP from us. So the engagement starts, in some cases a year, a year plus before we see a customer ready to pull the IP.
+
+Q - Lee Simpson{BIO 22998670 <GO>}
+Great. That's really clear. Maybe just a quick follow-up. I noted it's quite a lot of color around Fusion and the AI-based optimization doing quite well over the last quarter, at least some good call out wins at 2 nanometers and I think also with a flagship mobile chip at Samsung. I guess where I'm really going with this is, I think the way that Fusion could work with Redhawk going forward and some of the build around that you've got as a stack around Fusion, which looks quite interesting. Is it too much to make the leap to say that interoperability in EDA might become a thing in the past and that there'll be no interest to make this the various stages of design flow interoperable with other people's offerings? Thanks.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Not at all. Interoperability is so essential for the workflows, so essential. And as far as I can go back and remember in EDA, you have customers that they're using mixed flows, mixed environments. It's very well alive and thriving in terms of customers using this mixed environment for many reasons. Many times the customer wants to introduce their special sauce inside the flow and they want to have these handshakes in an industry standard interoperable ways. And we've been doing it with Ansys. We've been doing it with our competitors, et cetera and I don't see anything changing there.
+
+The one thing that you hear when we talk about Fusion is there is absolutely value when you integrate deeper than the technology into your platform, the value of it to our customer is a predictable outcome where the step one is correlated with step 2, correlated with step 3, et cetera. But that as well can be achieved through an Interoperable mix environment. So I absolutely see that will continuing and you absolutely need an ecosystem in order to deal with the complexity of the future. It cannot be in my mind, a one platform that is sufficient to close the gap of complexity.
+
+Q - Lee Simpson{BIO 22998670 <GO>}
+Great response. Thank you very much.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thank you, Lee.
+
+Operator
+Your next question comes from the line of Jay Vleeschhouwer with Griffin Securities. Your line is open.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Thank you. Good evening. Starting with NAI question, you noted some adoption of some of your branded products as seen, but perhaps a two part question. Number one, what are you seeing in terms of the relative adoption of AI, your branded AI by semi versus systems customers? And over time, would you be indifferent to the economics of supporting those two classes of customers with AI? In other words, with your ACV, your margin structure, et cetera, be indifferent to that mix with respect to AI adoption? And are you also beginning to see any signs of customers taking two or more solutions at this point of AI branded products? And then my follow-up.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Actually, it's an interesting question regarding the mix. The advantage I want to say of a system company is typically they're starting from scratch, meaning they don't have the legacy CAD teams, the legacy workflows, et cetera. So the adoption of new technology is typically faster. That's what we observe. So when we introduce new technology, the rate of adoption is faster. But now as I look back, for example, at the DSO.ai or even the new technology, ASO.ai, VSO.ai, we have a mix of adoption, the classic semis and hyperscalers as well.
+
+And the second part of your question, if I understood it correctly, are we seeing customers that they're using two or more of the AI technology? The answer is yes, absolutely. What is different, Jay, now compared to 2020 when we introduced DSO.ai, AI was such a foreign new concept for even Synopsys engineers supporting it in the field and the customer adopting it. They were trying to prove can I trust it? How do I use it? What's the compute requirement to use it? Now it's a completely different discussion. Our customers' executives are pushing their teams to leverage any AI productivity booster that they can get and it's absolutely giving an acceleration of adoption compared to what we witnessed in 2020.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Okay. Now you noted the strength of hardware. This is a follow-up. And hardware of course, for you and your peers has been a substantial growth category for a decade. The latest data shows that including your numbers, it's well over $1.2 billion of total revenue for the category. The question is, where do you still see pockets of underutilization or under automation, vis-a-vis EDA hardware. I mean, do you foresee this, including yourselves growing to be, for example, a $2 billion category, the way IP has grown into a $2 billion category.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+So if you step back and ask why do customers use hardware, there are really two use cases. One, there is the whole verification acceleration. Can I get the verification done faster? And two, software bring up. I don't think we will debate the fact that they're going to be more software content, customers are going to have to bring up as much as possible the software before the silicon is ready. And for both use cases, but we're -- I want to say biased that the software bring up use case is going to have a bigger opportunity of adoption for the reasons I just described.
+
+And as you know, we are more suited with our solution to a software bring up use case given the architecture of our hardware system. And those are the areas that I don't believe there will be any slowdown or direct change in direction when it comes to the hardware assisted verification use cases.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Okay. Thank you, Sassine.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Thank you, jay.
+
+Operator
+Your next question comes from the line of Gianmarco Conti with Deutsche Bank. Your line is open.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Hi, Sassine and Shelagh. Thanks for taking my questions and congrats on another great quarter. So perhaps the first one would be around AI. In your prepared remarks, you spoke about a leading American GP designer and deploying DSO. And could you perhaps talk a little bit more about the penetration rates and any relevant KPIs here? And are you starting to see more material revenue generation from the broader XFO that the AI suite? And how much is it currently included in the backlog? I'll ask a follow-up after. Thank you.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Okay. Yes, for DSO.ai, what we communicated actually during Investor Day that if you look at the TAM for the DSO.ai, use cases that you can take advantage of that technology. We're still in early stages. We are in roughly 20% of the TAM from a adoption point of view for DSO.ai. So there's plenty of opportunity to continue on expanding. And within that 20%, we are roughly at the 15%-ish in terms of adoption. And the reason for that, not because customers are pushing back or they're not seeing value, and there's a rhythm of adoption where you have to finish the tape out, go into the next project and broader that deployment across more -- we call them blocks, meaning partitions of the design. So that's DSO.ai.
+
+VSO.ai, we anticipate the adoption to be faster and the ramp to be faster than DSO.ai because what it does, it looks at your verification cycles and it improves the coverage by not having to go back and run and verify something you already verified in the previous run. So it's smarter approach to improve coverage while reducing the time and the need to just waste more verification cycles. And what the customer, the way they're looking at it is a TCO reduction because it impacts their hardware utilization where they're running that software on in order to get a higher coverage and speed up. As I mentioned on ASO.ai, it's all about modernization of the workflow. And in the early use cases we're seeing is a node migration.
+
+So to automate, accelerate, the customer feel of moving from node A to node B, where do they stand in terms of power performance area, and it's not only a digital thing you need because you need the whole SoC to go through this entitlement exercise.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Understood. And I have a second one follow-up for perhaps, Shelagh. I noticed your R&D expenses grew well above revenue in the quarter. And could you perhaps talk about where are you directing most of the investments? Are you pouring more into the whole AI development or is more budget being allocated to the setup of what would be the product integration development post-acquisition? Any color would be great. Thank you.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Sure. So our main focus on our investment is obviously investing in both design automation and design IP. So we're -- I think as we talked about at Investor Day in the IP Group, we're building out IP blocks for the leading edge technology where the standards are moving much more rapidly, especially driven by the kind of the insatiable needs of AI. So we're building out the standards in a more rapid fashion. And so that's a significant part of our R&D. And then in the EDA the Design Automation group and the EDA in particular, we're investing in building out all our Synopsys study, AI capabilities and continuing to further those because even the ones that we've already launched, we're driving improvements in those. Those aren't just static investments.
+
+Q - Gianmarco P. Conti{BIO 20330794 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Clarke Jeffries with Piper Sandler. Your line is open.
+
+Q - Clarke Jeffries{BIO 21199646 <GO>}
+Hello. Thank you for taking the question. First is for Shelagh. I wanted to clarify 2 percentage point of operating margin expansion is within continuing operations, not based off of the removal of SIG and how you think about that number for ongoing operating margin expansion for the core business going forward? And then one follow-up.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Correct. It's within the continuing operations and thanks for the clarification. I know there's a lot of moving parts here with the move of SIG to discontinued operations. And the way we're thinking about it is, as you know, we are scaling the business, how do we drive better leverage across the R&D and then how do we drive better leverage across the core infrastructure of the company. And our long-term expectation that we shared in Investor Day and when we did Ansys is that our expectation is that we're going to drive operating margin to the mid 40s. So we see continued expansion and it's very much a part of how we're thinking about the growth of the company. And as Sassine talked a lot about the AI that we're infusing in our customers. And if you will, we're eating at our own restaurant. We're infusing AI into everything we do inside the company to drive more modern ways of doing things so that allows us to drive more innovation?
+
+Q - Clarke Jeffries{BIO 21199646 <GO>}
+Perfect. And then just how should we think about net proceeds for the SIG sale and what to consider there absent of timing? I know there was a payable payment in cash. Just any way to think about net proceeds as the deal closes? Thank you.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Certainly. So what we talked about with SIG is it's up to $2.1 billion in consideration. And the way that breaks out is in three distinct parts. So we'll have $1.5 billion payment at close of the SIG transaction. And as we had noted, we expect that this transaction will close in the second half of '24. So that would happen in this year.
+
+And then over the subsequent five quarters, starting in Q1, our first fiscal quarter of 2025, there is a cumulative $125 million payment. So you can think about the cash that we'll get is 1.625. So think about that. And then the balance, the 475 is payable upon agreed to specified rate of return that the sponsors would achieve and then we would participate in that -- that upside through a potential liquidity transaction.
+
+Q - Clarke Jeffries{BIO 21199646 <GO>}
+Perfect. Thank you very much.
+
+A - Shelagh Glaser{BIO 22254750 <GO>}
+Thanks for the question.
+
+Operator
+Your next question comes from the line of Blair Abernethy with Rosenblatt Securities. Your line is open.
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+Thank you. And nice quarter, guys. Sassine, I just wanted to come back on the analog side of things. And it seems like you've had a good performance here. Are you seeing a shift in momentum in that part of the business for Synopsys? And where do you see sort of the lowest hanging fruit or the best opportunities for you in analog?
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+So from a customer base point of view, there are the core analog companies that are truly trying to improve their productivity, improve the way they approach design and what we are hearing from that cohort of customers is how can we digitize our analog workflows to be more efficient, more productive, take advantage of the latest technology, et cetera. So that's a grouping of customers. And for that grouping of customers is very exciting because we're engaging them based on new technology and a new approach, if you think about it for designing their chips. Then there is the other grouping of customers where, as you know, customers always encourage and enjoy to see a competitive strong player to have alternatives to have for many other -- for many motivations. And that's part of it as well.
+
+So where we see a competitive displacement and engagement in that space as well. So think of it as two buckets that we're seeing the momentum that we have.
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+Great. Thank you very much. Thank you.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+And did you have a follow-up? Did you have follow-up, Blair or is that it?
+
+Q - Blair Abernethy{BIO 4447791 <GO>}
+No, I'm good. Thank you.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+All right. Thank you.
+
+Operator
+There are no further questions at this time.
+
+A - Sassine Ghazi{BIO 20040787 <GO>}
+Let's go ahead and close out the call. Thanks, Sarah.
+
+Operator
+Thank you.
+
+A - Trey Campbell{BIO 20385325 <GO>}
+Thank you.
+
+Operator
+This concludes today's conference call. We thank you for joining. You may now disconnect your lines.

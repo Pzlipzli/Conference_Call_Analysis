@@ -1,0 +1,359 @@
+Q1 2023 Earnings Call
+Company Participants
+James D Taiclet, Chairman, President and Chief Executive Officer
+Jesus Malave, Chief Financial Officer
+Maria Ricciardone Lee, Vice President, Investor Relations
+Other Participants
+Cai von Rumohr, Analyst, TD Cowen
+George Shapiro, Analyst, Shapiro Research
+Jason Gursky, Analyst, Citi Research
+Ken Herbert, Analyst, RBC Capital Markets
+Kristine Liwag, Analyst, Morgan Stanley
+Matthew Akers, Analyst, Wells Fargo Securities
+Myles Walton, Analyst, Wolfe Research
+Pete Skibitski, Analyst, Alembic Global Advisors
+Richard Safran, Analyst, Seaport Global Securities
+Rob Stallard, Analyst, Vertical Research Partners
+Ronald J. Epstein, Analyst, BofA Global Research
+Scott Deuschle, Analyst, Credit Suisse
+Seth M. Seifman, Analyst, J.P. Morgan
+Presentation
+Operator
+Good day, and welcome everyone to the Lockheed Martin First Quarter 2023 Earnings Results Conference Call. Today's call is being recorded. At this time, for opening remarks and introductions, I would like to turn the call over to Maria Ricciardone Lee, Vice President of Investor Relations. Please go ahead.
+
+Maria Ricciardone Lee{BIO 17650740 <GO>}
+Thank you, Eloise[ph], and good morning. I'd like to welcome everyone to Lockheed Martin's first quarter 2023 earnings conference call. Joining me today on the call are Jim Taiclet, our Chairman, President, and Chief Executive Officer; and Jay Malave, our Chief Financial Officer.
+
+Statements made in today's call that are not historical facts are considered forward-looking statements and are made pursuant to the safe harbor provisions of federal securities laws. Actual results may differ materially from those projected in the forward-looking statements. Please see today's press release and our SEC filings for a description of some of the factors that may cause actual results to differ materially from those in the forward-looking statements. We have posted charts on our website today that we plan to address during the call to supplement our comments.
+
+These charts also include information regarding non-GAAP measures that may be used in today's call. Please access our website at www.lockheedmartin.com and click on the Investor Relations link to view and follow the charts.
+
+With that, I'd like to turn the call over to Jim.
+
+James D Taiclet{BIO 2108171 <GO>}
+Thanks, Maria. Good morning, everyone, and thank you for joining us on our first quarter 2023 earnings call. I'd like to begin today with a few highlights from the quarter as well as an overview of the presidential budget request, and then Jay will discuss our financial results and full year 2023 outlook in detail.
+
+We had a solid start to the year with first quarter sales of $15.1 billion, led by 16% year-over-year growth in space. Segment operating margin was 11.1%, led by MFC as 15.8%. Free cash flow grew 11% to $1.3 billion and combined with a lower share count contributed to a strong free cash flow per share growth year-over-year. We remain on track to meet our financial expectations for the full year and the return to growth in 2024 as we laid out in January.
+
+In terms of capital deployment, we returned $1.3 billion or 101% of our free cash flow to shareholders in the quarter. We remain focused on our long-term strategy of growing free cash flow per share and continue to plan to deliver approximately 110% of our free cash flow to stockholders in 2023 through dividends and buybacks.
+
+Turning to the budget, the administration released preliminary details of the FY '24 President's Budget Request or PBR in early March. This budget proposal reflects a heightened emphasis on defense and security cooperation with allies. The FY '24 DoD budget request is $842 billion, an increase of $25 billion or 3% over the FY '23 enacted funding.
+
+The near-peer threats posed by China and the Russian invasion of Ukraine is driving the national defense strategy and it's created added demand for Lockheed Martin's advanced effective solutions. Key highlights include the procurement of 83 F-35 aircraft, continued expansion in classified programs, and an increase in requested funding for munitions. The PBR also includes facilitation investment and advanced funding for long-lead time parts in support of multi-year procurement of JASSM and LRASM.
+
+We're also engaged with DoD on multi-year procurement proposals for PAC-3 MSE and Guided Multiple Launch Rocket Systems. These proposals are subject to Congressional approval during the course of the FY '24 defense authorization and appropriations process. The PBR also includes continued investments in key technology development efforts such as Conventional Prompt Strike, long-range hypersonic weapon, next-generation interceptor, hypersonic defense, long defense system, and other space programs.
+
+Furthermore, key technology areas aligned with Lockheed Martin investment priorities received increased funding to include microelectronics, 5G technologies and Joint All Domain Operations. We are encouraged by this initial request and look forward to its progression through the authorization and appropriations process. We also anticipate heightened emphasis on national security prioritization from Congress, supplemental spending requests, including Ukraine and elevated demand from allies and partners.
+
+Turning to the F-35 program, the 83 F-35 Lightning II aircraft included in the PBR, signals strong support from the services and the administration. Moreover, the Canadian government's January announcement that it will procure 88 F-35 marks another milestone in continued international demand for the aircraft.
+
+As to production, deliveries of F-35 engines, which are government-furnished equipment resumed in February. And then, flight operations and deliveries resumed in March. However, we do expect a fraction of total expected 2023 deliveries to be impacted later this year due to both software maturation related to Technology Refresh 3 or TR-3 and hardware delivery timing. However, we anticipate little to no revenue impact from any potential delivery delay, and therefore, no material adverse effect on our 2023 P&L. Jay will provide some more color on this in a moment.
+
+Also at aeronautics, the first Greenville-built F-16 Block 70 took flight and was delivered to Bahraini. In addition to the Bahraini customer, six countries have selected Block 70 or 72 aircraft and Jordan and Bulgaria have signed letters of agreement for additional jets. Further related to the F-16 in the quarter, well I said the US-India CEO Forum in March, I had the privilege to announce the memorandum of understanding with the Tata Lockheed Martin Aerostructures Limited joint venture to produce F-16 wing structures in India, demonstrating our commitment to India as an industry partner and customer while bolstering our supply chain.
+
+Turning to hypersonics. It is encouraging to see the continued investment outlined in the PVR for the conventional prompt strike weapon system or CPS as it begins integration and testing for Zumwalt-class ships, recognizing our advancements in this critical technology. In February, the US Navy awarded Lockheed Martin an initial contract for CPS, the first C-based hypersonic strike capability for the United States, enabling long-range missile flight at speeds greater than Mark 5. First delivery is expected by the mid-2020s.
+
+Regarding our air-launched rapid response weapon, also known as Aero. We are continuing testing of the system at hypersonic speeds in order to advance technical maturation of the missile and the glide body and to ensure the final product is safe, reliable and supportive of our customer's missions and future plans.
+
+In January, we also completed the second flight test of hypersonic air-breathing weapons concept, also known as Hawk, in partnership with DARPA and the Air Force Research Lab. We accomplished all the test objectives during the second flight test, including affordable rapid development and performance requirements. And in late March, the US Navy announced its support of the hypersonic air-launched offensive anti-surface strike weapon or HALO.
+
+Lockheed Martin was down-selected and awarded a contract for the first step to fielding a critical capability over the next decade and begin the design and development of a carrier-based air-breathing hypersonic strike capability for the Navy's fleet. As a company, we remain fully committed to developing hypersonic technology on accelerated timelines to meet this critical, national security need and establish a solid deterrent posture in this area for the US and its allies.
+
+But hypersonic solutions are just one element in our vision of 21st-century security. We advanced several additional aspects of the strategy during the quarter, including announcing a memorandum of understanding with Juniper Networks to jointly develop integrated hybrid software-defined wide-area network solutions and to demonstrate that with our customers in the future. This technology enables mission-aware dynamic routing, a foundational capability for resilient joint all domain operations, this mission-aware dynamic routing shifts the movement of data and communications in realtime across a mix of military and commercial infrastructure according to evolving conditions.
+
+Our solutions give customers the flexibility to rapidly adapt to maintain the flow of crucial data and information as their assets operate in contested environments. We also led simulations of technologies to the US Army, Air Force and Navy to demonstrate the impacts of 5G communications and advanced analytics to significantly improve operations and maintenance performance for a variety of aircraft, as well as for unmanned platforms and operationally challenging environments.
+
+And at the Mobile World Congress in Barcelona, I had the opportunity to deliver a keynote address and meet with CEOs across the digital technology, mobile and networking industries to encourage us working together, to promote innovative solutions to protect our countries and advance our space exploration capabilities.
+
+Another example of our leadership in accelerating advanced 21st Century technologies to improve national defense and deterrence to conflict is in the arena of directed energy. Recently, our RMS unit achieves success in our initial test of our Demos, high energy laser which verifies that the lasers optical performance meets the system's targeted design parameters. This 50-kilowatt class laser weapon system aligns with the army's directed energy short-range air defense mission.
+
+In addition to delivering on absolutely cutting-edge technologies, demand for many of our well-known and long-time high-performing systems continues to be strong. For example, in January, the Australian government announced the purchase of 20 Lockheed Martin high mobility artillery rocket systems are the now familiar high marks, providing Australian Defense Force with a reliable well-proven capability. And we continue to grow our significant partnership with Australia beyond high marks.
+
+In February, an agreement was announced between the Australian and the United States government for a foreign military sale of 40 UH-60M Black Hawks for the Australian army, and deliveries are slated to begin early this year. The Black Hawk remains unmatched as an all round multirole durable military helicopter for Australia and for the 34 other countries around the globe that use it.
+
+Further, we are excited to work with the ADF, an Australian industry to develop their sovereign satellite communications component otherwise known there is Joint Project 9102. The Commonwealth of Australia announced in April that Lockheed Martin was selected as the preferred bidder for JP9102. This multi-billion dollar project will provide the ADF with a robust solution for military satellite communications and defined by its versatility and its resilience.
+
+With that, I'll turn the call over to Jay and join you later for questions.
+
+Jesus Malave{BIO 17897577 <GO>}
+Thanks, Jim, and good morning everyone. Today, I will walk you through our consolidated and business area results for the first quarter and cover our 2023 outlook. As I highlight our results, please follow along with the web charts we have posted with our earnings release today.
+
+Let's begin with Chart 3 and an overview of our consolidated financial results. Overall, 2023 is off to a solid start, positioning us well to meet our commitments for the year. We delivered just over $15 billion of sales with $1.7 billion in segment operating profit, resulting in 11.1% segment operating margin. Earnings per share was $6.61 and we generated $1.3 billion of free cash flow, enabling a solid shareholder return to share repurchases and dividends.
+
+Our book-to-bill ratio for the first quarter was 0.7 times as anticipated, with backlog expected to increase in the second quarter from the upcoming order for F-35, Lot 17 production. And we continue to strategically invest in our growth strategy with $600 million of capital expenditures and independent research and development this quarter. These financial results are on track with our expectations for the year.
+
+Taking a closer look at the quarter's results with consolidated sales and segment operating profit on Chart 4. First quarter sales increased year-over-year by 1%, a space led the way with 16% growth. Segment operating profit was down 2% as lower ULA equity earnings and contract mix more than offset the benefits from slightly higher volume and step ups. As expected, margins contracted mostly due to the lower equity earnings from ULA.
+
+Moving to earnings per share on Chart 5. GAAP earnings per share were up $0.17 or 3% over 2022. Adjusted for mark-to-market investment gains, EPS was flat. On an adjusted basis, the unfavorable year-over-year impacts from segment operating profit, interest expense and FAS/CAS pension income were offset by the lower share count.
+
+Moving to cash flow on Chart 6. We generated nearly $1.3 billion of free cash flow in the quarter, including nearly $300 million of capital expenditures, as well as over $600 million of accelerated payments and continued support of the supply chain. Our cash deployment plan is on track, which we expect to accelerate throughout the year. In the quarter, we had $500 million of share repurchases and paid almost $800 million in quarterly dividends. Total cash return to shareholders in the quarter was 101% of free cash flow.
+
+Moving to segment results and starting with aeronautics on Chart 7. First quarter sales at Aero decreased 2% year-over-year. Lower F-35 production sales were partially offset by higher F-16 and classified program volumes. Operating profit was slightly lower than prior year as the impact from lower net profit adjustments and sales volume was partially offset by a favorable contract mix. For the year, we expect F-35 deliveries to be lower than previously anticipated due to software maturation with the Tech Refresh 3 program and hardware delivery timing. We will refine the impact as the year progresses, but do not expect to change to Aero's 2023 sales and profit ranges that we had previously communicated in January as we maintain our production costs throughput profile for the year.
+
+Looking at missiles and fire control on Page 8. Sales decreased 3% as lower sales volume on sensors and global sustainment, as well as our tactical strike missile programs were partially offset by growth in integrated air and missile defense. Segment operating profit was down 2%, driven by lower sales volumes and net profit adjustments, partially offset by a favorable contract mix.
+
+At Rotary and Mission Systems on Page 9, sales were down 1% from 2022, driven by lower volume on Black Hawk production and our C6ISR programs. These declines were partially offset by favorable volume on radar programs in integrated warfare systems and sensors, including defensive Guam, an important growth area for RMS that was won in 2022. Operating profit decreased 14% due to lower sales volumes and timing of net profit adjustments.
+
+Turning to Chart 10, and our space business area. Sales were up 16% in the quarter, driven by strong growth on the Next Gen Interceptor and classified programs, and further boosted by favorable program lifecycle timing on Orion, protected communications and fleet ballistic missile programs. Operating profit was up 13%, driven by the increase in volume and favorable profit adjustments, partially offset by the lower equity earnings from United Launch Alliance.
+
+Okay, now shifting to the outlook for 2023 on Page 11. For the year, we are reaffirming guidance for all key metrics. We continue to expect sales to be in the range of $65 billion to $66 billion with segment operating margin at 11.2% at the midpoint. We also still expect to deliver free cash flow at or above $6.2 billion, while repurchasing $4 billion of outstanding shares. We believe our first quarter results position us to achieve these expectations as we continue to add orders, reprogram execution commitments and pursue new opportunities throughout the year.
+
+So, let's close on Page 12 to summarize the comments. As noted, first quarter represents a solid start to 2023. We reaffirm key financial metrics as previously guided and continue to expect a return to growth in 2024 and beyond, with consistent free cash flow per share growth.
+
+Looking ahead, our strategic focus on 21st Century Security Solutions aligns with expected increases to defense and security spending. With our continued discipline and focus on execution, we are on track to meet our expectations for long-term growth and value creation for our shareholders.
+
+With that Eloise, let's open up the call for Q&A.
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question will come from the line of Seth -- I'm sorry, Seifman from J.P. Morgan. Please go ahead.
+
+Q - Seth M. Seifman{BIO 16417112 <GO>}
+Hey, thanks very much. Good morning, everyone. Apologies, with my voice a little bit here. But Jay, I wonder if you could talk a little bit about the GAO report would indicate that Sikorsky's bid for FLRAA was about 45% of that of Bell. And so it seems like investors are kind of fortunate that Sikorsky did not win the competition. And I guess, what can you say to investors, you talked about some of the classified missile profitability headwinds and I know there was a charge on CH-53K, some ULA development, that kind of the bid process is consistent with generating adequate returns on new work.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Great question, Seth. Let me just say on FLRAA. We're obviously disappointed. We believe that our offering was the best technology to support the multi-mission requirements at the best value. And while we'll acknowledge that the proposal did include aggressive pricing, a significant amount of our offering included efficiencies made possible by the benefits of 1LMX. And our adoption of 1LMX model-based and digital thread enhancements significantly improved our cost competitiveness and we expect that to continue in the future. The business case itself was favorable and that's what enabled the pricing that we were able to offer.
+
+As it relates to -- I think generally speaking, that's how we evaluate these proposals. We look at the NPV, we look at IRR, we looked at all different metrics, we look at current affordability. And as I mentioned at your conference Seth, I've said it, in a classified program at MFC, we have to take a little bit of short-term pain for some long-term gain. But the fact of the matter is the business case does provide that long-term gain for us. And so, we go through all of that as part of the management decision making, the technology that we can provide. As you would expect, we have the leverage, we have the capability of wherewithal to provide favorable pricing in outstanding technology offerings to our customer, and we don't do it at the expense of financial returns.
+
+Let me just add, just on the CH-53K, we did -- we did have something in the press release. There was a small adjustment related to a development contract -- an older development contract, there was no adjustments taken on the forward production agreements that we're working on currently.
+
+Operator
+Thank you. The next question is from the line of Kristine Liwag with Morgan Stanley. Please go ahead.
+
+Q - Kristine Liwag{BIO 21935865 <GO>}
+Thanks, good morning, Jim and Jay. On the F-35, the talk of the performance-based logistics deal has been ongoing for some time. But it seems like it's possible you would reach a deal this year. So could you give us an update in terms of where you stand in transitioning over to a PBL contract in the program? And then assuming that PBL meets conditions set by the 2022 NDAA, how could this impact the sustainment work and the overall program profile over the coming years?
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Thanks, Kristine. It's an excellent question. We did estimate a proposal, we are expecting that to be decided by the end of the year and awarded. And we think this is the best solution for the customer, not only over the next five years, but frankly, over the -- this is the right program for the life of the program. And what this offers is really a win-win type of solution. It enables us to utilize our proprietary modeling for material requirements to most efficiently use inventory and provide real-time availability of material to our customers as they need it.
+
+And so, we're able to take that responsibility off their shoulders, being able to provide them the requirements when they need to maintain, obviously, the readiness levels that are necessary. And so overall, not just over the next five years, we think it's the right long-term solution for our customer. And we think again, it's just a win-win proposal for not just the joint -- the services but also industry as a whole.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+And Kristine, we think we're on a path to establish a PBL with F-35 customer enterprise this year. And that's what we're tracking too.
+
+Operator
+Thank you. The next question is from Rob Stallard from Vertical Research. Please go ahead.
+
+Q - Rob Stallard{BIO 3939416 <GO>}
+Thanks so much. Good morning,
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Good morning.
+
+Q - Rob Stallard{BIO 3939416 <GO>}
+Jim or Jay, now that you actually mentioned supply chain issues or labor shortages or other things in your commentary, I was just wondering if you could give us an update on that situation and whether things have improved.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Yeah, it's a good question. Rob, our visibility going throughout the year, and I made a few comments -- I think the public comments in the quarter that we're looking at potentially at some shortfalls and partly that was due to the strong performance that we saw in the fourth quarter. Ultimately, the supply chain delivery, I think for the most part, there are still some pockets that we've seen particularly where it was impacted and the most was at MFC and RMS. Both of them had some continuing lingering issues that continue to plague us.
+
+On-time delivery performance really didn't get any better from Q4 and really what we saw in the back half of last year. So as we expected, really going back to when we reset expectations in the second quarter of 2022, we're really not expecting any type of significant recovery to the end of the year as we go into 2024. So, essentially more of the same in the first quarter from what we saw previously.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+And Rob, it's Jim. We're on the cusp[ph] of fully implementing really best practices in supply chain across this one Lockheed Martin concept that we have now, used to be that each business unit, here business areas, we call-it, did its own supply chain management. And then within programs, it was even more narrowly managed. And so, we're now bringing all the aggregate demand together for each supplier across all of Lockheed Martin from space to MFC and everything in between. And then, we're also looking at components that programs are using in different parts of the company from mid-tier suppliers and aggregating that demand to actually synchronizing our requirements and so that we can have more bulk buys everything from raw materials up through mid-stage components, et cetera.
+
+So, we're implementing those kinds of best practices that will be good for the supply base too. I don't have more reliable demand from our company in total and I think will lead -- I hope will lead the industry into that future, where we help strengthen the supply chain by our practices in addition to their improvements.
+
+Operator
+Thank you. The next question is from Cai von Rumohr from TD Cowen. Please go ahead.
+
+Q - Cai von Rumohr{BIO 1504358 <GO>}
+Yes, thanks so much. So, Jay, you had very strong profitability at MFC, 15.8% was up and yet you talked of this classified missile program hitting, I think 50 bps to 100 bps on margins. Can you update us in terms of -- is that still what the number is given the strength in the first quarter and how far out into the future does that extend?
+
+And then maybe more broadly, Northrop also mentioned, maybe on be '21 that they have some fixed-price exposure looking out, do you have any other programs where we should be aware of potential (inaudible) or fixed price options on programs out in the future?
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Okay, thanks, Cai for the questions. Let me just address specifically MFC they had. Did have a strong quarter. If you look throughout the year, where we go from here. In the quarter, they had essentially the highest profit adjustment quarter they're going to have. And so that's going to a step-down in the balance of the year.
+
+Secondly, we will see more of an impact from the dilutive margins associated with this classified program in the back half of the year as well.
+
+And so I would expect in a step-down in the 13% range in Q2, it will cycle down from there. We're still expecting the full year to be in this 13.5% range really due to these two items. The step-up with-profit adjustments will be lower for the balance of the year and the dilutive impact, it becomes more profound in the back half of the year.
+
+As far as other fixed-price production programs were really, that's pretty much the large one that we're tracking. We've had the program at Aeronautics, we took a charge in 2021 and we continue to monitor that program, it's fixed-price development. We still have multiple years of development on that program. And so and that's one that we continue to keep an eye on.
+
+But I think, Greg Ulmer and his team are really managing that and laser-focused on drived to the customers requirements in meeting their schedule in doing it when they cost objectives that we have currently laid out.
+
+Just going back to the MFC in terms of the outlook, we're going to be pressured on margins, probably for the next four to five years and predominantly from this program. It'll step up, it'll probably pick out in 2025 and then stabilize from there.
+
+The question -- other question I've been asked on MFC is whether they can grow absolute profit and the answer to that question is yes. And so while we may see some dilutive impact to margins, we may see profit maybe be flat from -- from one year to another. Overall, over the next four to five years, we will see profit grow at MFC. And so, those are pretty much the answers to your questions. Thank you, Cai.
+
+Operator
+Thank you. And the next question is from Ron Epstein from Bank of America Securities. Please go ahead.
+
+Q - Ronald J. Epstein{BIO 4430430 <GO>}
+Hi, good morning guys.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Good morning.
+
+Q - Ronald J. Epstein{BIO 4430430 <GO>}
+A question for you, maybe a bigger-picture question. Now (inaudible) was out without talking about, enjoyed and kind of restructuring that program so that more of the IP is owned by the DoD and having the constant re-competition of contractors and so on and so forth. How does that factor and how you think about that business model, does that really change anything? And I don't know if you could kind of speak about that.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Ryan, it's Jim. If we're constantly and have over the years, the company's history worked with government on intellectual property, management rights, et cetera. We'll continue to do that and got itself is a concept in progress, I'll call-it. The government services, DoD et cetera, they are formalizing and crafting with NGAD is going to look like and then what then what NGAD stands for this next-generation air dominance aircraft. So, think F-15, F-22, that kind of class airplanes relacionamento win air-to-air combat.
+
+And so, there'll be a mix of may accrued and uncrude vehicles in that concept, that's still being formulated. We're working with government through our Skunk Works operation on what the options are there. We'll sort out the intellectual property rules as we go forward. But frankly, we're driving and advocating strongly for a more open architecture approach to the entire industry, unless proprietary standards and protocols and architectures and we just demonstrated one of those with the docking mechanism for a spacecraft, which can be basically implemented on any -- a wide range of spacecraft to do future replenishment of either data fees or fuel et cetera to satellites inflate.
+
+So those are the kinds of things we're advocating for and we will always guard and protect our intellectual property rights for the IP that we develop and we'll work with customers to create the open architecture, so that we can continue to compete effectively.
+
+Operator
+Thank you. The next question is from Pete Skibitski from Alembic Global Advisors. Please go ahead.
+
+Q - Pete Skibitski
+Hi, good morning, everyone. Jim, I was just wondering if you can add some more color on sort of where Lockheed stands with hypersonics just in light of the changes made to Aero and your Hawk variant. Obviously, CPS looks good. I don't know how big that could be, but could you walk us through maybe where you're at today in hypersonics and with the program changes where things could go, how big you could get? Thanks.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Sure, I'll take the construct and then offer Jay, the opportunity to kind of give you some scoping of where the business side of it could go, revenue growth et cetera. But hypersonics is a -- it's a complex endeavor. You can kind of build a matrix in your mind, right? There's two different kinds of propulsion technologies, right? One is air breathing. So think a cruise missile type of vehicle where there's atmospheric provision of oxygen going through inlet docked and it's aiding the propulsion system to continue forward.
+
+The other technology for propulsion is called boost glide, it's more like a kind of space rock at almost, and the fact that it's got either solid fuel rocket or equivalent to that. It gets a big boost off the launch vehicle or the LaunchPad and then the vehicle ultimately separates the glide body, it's called with the warhead from the rocket and on it goes, by it's basically momentum, it's already been provided from the boost. So, everything is one who glides another. Those are the two propulsion technologies.
+
+And then there are notions about the source of the launch, right? So, you could have ship based which is CPS, you can have land-based -- to tell vehicle transport vector launch vehicles with the army calls long-range hypersonic weapon or you could launch this often aircraft. And that's the matrix you have to go on your head, what proportion are we talking about and what launch platform, we're speaking about?
+
+So let's just go really quickly through each of those. So, ground based. Right now, there's essentially the long-range hypersonic weapon is the game in town, it's very similar to the CPS, which is a ship-based vehicle, it's boost glide and it could be a surface launch sea or ground. That is where the government is placing its best is on that Joint Program CPS and long-range hypersonic weapon.
+
+You pointed out that we have that contract right now, we're executing on that for both services. Then when you get to air-launched, you have the two propulsion systems. So, Hawk and HALO are the air-breathing air-launched vehicle, right, that the air-launched vehicles have a size concern that you have to take into account. So what airplanes can carry such a product, there is such a weapon. The boost glide is a heavier larger vehicle, which we have been testing through the Aero program, and it's going to be a matter of what aircraft, the air force and ultimately the Navy want to use to bring the hypersonic weapons that they will have into the battle. And that's the (inaudible) and discussion its going on in the services.
+
+That's the way to frame all this. Those are all government decisions. We're supporting really all of the matrix if you will at this point with either development program like aero or production program like CPS. So I'll stop there and give Jay a chance to kind of give you some scope on what the growth for the company could be.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Sure. It's -- Today, it's about a $1.5 billion business for us in the aggregate, all of those programs that Jim mentioned. We expect that to continue to grow and be a contributor. It's one of our growth for growth pillars, it's not the largest because it's smaller than some of the other contributors. But it still provides healthy growth and there's upside to that related to hypersonic defense. And so when I talk about $1.4 billion, $1.5 billion[ph] going to with solid growth, it's embedded in our growth projection, it's really these weapons systems that Jim just mentioned.
+
+Operator
+The next question is from the line of Rich Safran from Seaport Global Securities. Please go ahead.
+
+Q - Richard Safran{BIO 15042242 <GO>}
+Thank you. Jim, Jay, Maria, good morning,
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Good morning,
+
+Q - Richard Safran{BIO 15042242 <GO>}
+So I wanted to know if you could just expand on your opening remarks about international demand, wanted to know if you could maybe discuss some of the timing of international award opportunities where you're seeing the most demand for what types of equipment? And finally here, are you seeing any more interest in direct commercial versus FMS in international orders that you're signing-up now? Thanks.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Rich, good question on international. For us over the next five years or so, we expect international to be a significant contributor to our growth. It's embedded amongst each of our four pillars. But when you strip out international alone, you're talking high-single digit growth there. As far as contracting most of that, particularly as you're dealing munitions is FMS, concluding it as well as F-35 program. So most of that right now that we've got embedded in our forecast, particularly on the growth side is FMS related.
+
+As Jim mentioned in his prepared remarks, we're very excited about the Australian military satellite communication program. It's a multi-billion dollar opportunity and that really expands the international footprint of our space business, which has historically been predominantly a domestic US based business. So these opportunities continue to present themselves. There is a lot more opportunity in front of us and that is absolutely a growth driver for us over the next five years.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Yeah. And I can add some more background to Jay's remarks there. As mentioned space, there's like an incredible amount of upside, the notion of independent for sovereign satellite communication for military and national defense is catching on if you will. UK already has a system like this, but they want to replace and upgrade that. Australia is getting into that. A game as well and I think there'll be countries in the Middle-East and elsewhere that we'll look into these options for space.
+
+On the Aero side, the F-35 is been incredibly popular and I think on every competition. Meaningful competition over the last few years as far as fifth-generation fighter aircraft go. In addition to that F-16, we can build them fast enough with additional orders coming in. We're going to compete in India to try to get that order as well and it's a matter of us being able to get to the production rate that the international is demanding and requesting of us there.
+
+RMS is having a lot of success with the Seahawk helicopter for example and various versions of the Blackhawk. As we mentioned, Australia as part of that. Also the radar systems are becoming more exportable as we go forward and both in Europe and Asia there is demand for those.
+
+And then at MFC, obviously PAC-3 Javelin, GMLRS, ultimately potentially JASSM and LRASM for somewhere closer allies are going to be in the mix. So, there's a wide and broad range across all of our business areas, a significant international demand that we'll be seeing over the next few years. Contracting that through the FMS process does take some time.
+
+On the other hand, there are a few DCS programs and projects, but a lot of this is going to be -- continue to be export controlled by the US government and there'll be largely FMS. But it's a broad range. It's going to last for many years, and we'll continue to be updating you on other programs, let's start getting more international traction.
+
+Operator
+The next question is from Myles Walton from Wolfe Research. Please go ahead.
+
+Q - Myles Walton{BIO 6802513 <GO>}
+Thanks, good morning. Maybe on RMS, could you talk about the driver to the expansion in the margin implied in the guidance? I guess a couple of 100 basis points implied run-rate for the rest of the year. Is that something programmatic, was there extra R&D associated with Florida? And also on Florida now that that decision is made. Anything you anticipate needing to do at Sikorsky to maintain competitiveness? Thanks.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+So, Myles, on your first question on RMS margins, again the first quarter was 10%. We've got a guide of nearly 12% for the year. What happens is a little bit of the opposite of MFC. This was the lowest property adjustment quarter of the year. We expect that to grow based on the program schedules and the risk retirements that we foresee for the balance of the year. So that will step-up and just give you just to frame a reference.
+
+The first quarter there step-ups were about 20% of their profit. For the full year, we're expecting that to be closer to 30% for profit adjustments for the full year for RMS. So that'll be a big contributor to the increase in profitability.
+
+The second element is that we have just some sales mix, we have some pass that attracts higher margin sales up in the second half of the year, which will also give a boost to their margins. So that's fundamentally what's happening at RMS. As far as Fla[ph], we had in any impacts related to Sikorsky, part of win announced a cost-reduction program in the fourth quarter had taken a few charges about $100 million of charges in RMS in the fourth quarter, about maybe half of that was related to Sikorsky and cost-reduction and cost competitiveness.
+
+And so, we have just an interesting dynamic there that while we've got production, particularly in the Black Hawk stepping down here in 2023, it actually steps up slightly again in 2023 -- I'm sorry 2024, and then we have significant growth on the CH-53 program in '24 where we're expecting to double our deliveries on that program.
+
+And so, we're just dealing with a one year-type of a trough I would say. I think the team, Stephanie Hill and her team have done a nice job of rightsizing the cost structure for where we are today, while at the same time maintaining the capability to provide us growth in the future.
+
+Operator
+The next question is from the line of Matt Akers from Wells Fargo Securities. Please go ahead.
+
+Q - Matthew Akers{BIO 22271349 <GO>}
+Hey. Good morning, guys. Thanks for the question. I wanted to ask about missiles and fire control, you made some comments in the opening remarks about some of the multi-year procurement programs going on now. When should we think about sort of transitioning from kind of flattish sales this year? I think you've talked about mid-single-digit growth and then also is there any investment needed to support that in terms of capacity scaling up your business there?
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Yeah. So, when you look to get over the next five years at MFC, they're certainly our strongest grower, we'll lay out a little bit more specifics as we go through our strategic planning process in the summer and we give you kind of a first look on 2024 and maybe beyond when we do that in the October call. But I certainly are strongest grower. Yes, there are capacity investments. Jim mentioned some of the funding that is being proposed in the President's budget request for facilitation investments.
+
+We've also invested our own monies and capability PAC-3 is a good example. I mean, a few other programs where we've got in front of funding to make sure that we can deliver to the requirements for capacity and delivery requirements that our customers asking for.
+
+And so, again, I think we've got a good beat there. We've talked about different capacity levels over the next few years. We reached some of these levels in '25, '26 and '27, and that investment really between now and over the next few years is going to -- it's going to help enable that capacity increase in growth as well.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Yeah, and it's Jim. And I can give you some details on exactly what we're talking about here. So, for PAC-3 capacity in 2022 is 450. And we're planning to make the investments and working with government to coordinate with us on this to 550 by 2026. So, just three years from now, we'll go from 450 to 550. And then similar with the Javelin, which has been pretty widely discussed in the past, our 2022 capacity was about 2,000 a year and by 2026, we'll have 3,500 plus. And ultimately, we're going to get to 4,000. When it comes to GMLRS which is the HIMARS munition, the original capacity last year was 10,000. We're taking that to 14,000 by 2026. So these are meaningful step-ups, I guess, you could call them in capacity. And we're doing those because we think we have a really strong demand for that capacity to fill it. And we're now programing which customers go where and what point in time and working with the US government to do that with -- along with their -- with their own priorities.
+
+So, we've got a significant plan to grow the business at MFC. There's investment either through our own rates and our CapEx plan plus funds committed by the government because we are making a pretty strong case I think with them to drive an anti-fragility program into munitions and other sort of high-importance production facilities and production systems. We got asked to double or triple production of certain munitions and the answer came back. As you see, it's going to take three years to do a lot of that. We want to get the fragility of the system. So if this ever happens again, it's six months instead of three years to get a meaningful improvement in capacity and that's how you see the government acting now with the long-lead time parts facilitization[ph] and the multi-years that they are now implementing.
+
+Operator
+Thank you. Your next question is from the line of Jason Gursky with Citigroup. Please go ahead.
+
+Q - Jason Gursky{BIO 22029538 <GO>}
+Book-keeping question for you, and then Jim, a more strategic one. Book-keeping question, Jay, what kind of book-to-bill do you need to have this year to support the commentary about return to growth in '24 and is the timing of those awards important?
+
+And then for Jim, and when just have you double-click a little bit on the Evolve initiative and the announcement that you made here recently with the Crescent organization and supporting linear communications. Just kind of curious from a big-picture perspective, what kind of capital you're anticipating, putting into an organization like Crescent and the capital that you're going to be putting into this Evolve initiative over time?
+
+A - Jesus Malave{BIO 17897577 <GO>}
+So let me just start with the book-to-bill question. Jason, essentially it's one. Last year, we ended the book -- the backlog at $150 billion. This year, we're planning for that to be around the case maybe it's down $1 billion or up $1 billion. But effectively, a one book-to-bill sets us up for the growth to resume in 2024. So, we don't need to necessarily see the backlog. There is opportunity for it to grow from where we are, and where we landed or ended in 2022. But right now, we're planning for that to be generally flattish and that's where we need to be to drive the growth resumption in 2024.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+And Jason, let me put the whole notion of Evolve and Crescent into the overall strategy that accompany for you and give provide context that way. We've got three main strategic initiatives at the company that we're driving. One I just mentioned, is just to take the fragility of the production system, not just for Lockheed Martin but for US government and our industry and we just describe some of the ways that we're endeavoring to do that with government. And so, that's the first strategy.
+
+The second one is, you've heard us talk about before 21st Century Security and that is working beyond the five defense primes in our supply chains to bring the latest and most advanced Newtonian and Digital Technologies International Defense and that means we have to work at Lockheed Martin with a wider variety of companies from the tech sector to laser-guided weapons, supply chain companies that we may not be doing current business with and they can be startups to Microsoft sized corporations. So, we are structuring our company to be able to participate and cooperate and collaborate with that much broader range of partners to deliver this 21st Century Security concept.
+
+And so, Evolve is meant to complement what we already had. We have a ventures group, Lockheed Martin Ventures that deals with start-ups that have technology that are promising for our core business. On the other side, we have partnerships and agreements and arrangements with our big five defense prime, so to speak. So, Northrop Grumman, us and BAE, for example, work together on the F-35 aircraft and there are many, many of those.
+
+But what we needed in the middle was something to work with mid-sized companies and companies in the technology sector to work with us in ways that really don't have a traditional history with companies like Lockheed Martin and our peer group. And so, Evolve is now meant to be able to do joint ventures, co-investments, commercial arrangements with mid-sized to large companies outside of our normal peers[ph] so to speak, and deliver on new capabilities for space exploration and also for national defense.
+
+And so, Crescent is the business that will work with others outside of Lockheed Martin to figure out how to finance and then how to implement and how to sustain lunar service right for everything from transportation on the surface to basically the hoover[ph] for the moon, if you will, at the end of the day, to the communications and positioning navigation systems that you need to have on orbit around the moon, so that you can actually operate on the lunar surface with either robotics or with humans. So, Crescent designs to do that. The capital that we will deploy to build that type of business will be more creatively sourced, right. It will not just -- it will not come out of the disclosure statement that goes back to the DoD or NASA into our rates, right. It's going to be independently source. We may contribute, our partners may contribute directly, but they will be outside the rate structure and the federal acquisition regulations, so that we can get the full benefit of those investments over time, and also creative -- more creatively finance them and partner with others to do that.
+
+So that's the concept, that's why we're doing it and we intend to grow it without necessarily burdening the CapEx disclosure statement and ramifications of that to the company.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+And by breaking it out of the business area, business, say structure enables these ideas in these pursuits to really operate at a speed and agility level. It probably wouldn't otherwise be available to them working within the bureaucratic structure that we have in our business areas with the multi -- all the policies and procedures that we have. And so, we give them a little bit more flexibility to operate with some speed. And as Jim mentioned, ability to pursue co-investment by others as well.
+
+Operator
+The next question is from the line of Scott Deuschle from Credit Suisse. Please go ahead.
+
+Q - Scott Deuschle{BIO 20614132 <GO>}
+Hey, good morning. Jay, if I were to model Q2 -- Jay if were to model Q2 through Q4 space systems sales based off of Q1, and then just to adjust for increased number of weeks in those future reporting periods and go get around $12.8 billion space segment sales for the year versus the guidance midpoint of $11.6 billion. So basically 10% higher than what you've guided. So, curious if you comment on what prevents that type of upside case from happening or to ask another way, what the volume headwinds are and the remainder of the year relative to the first quarter? Thank you.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Yeah, it's a good question, Scott. And as I mentioned in my remarks, it's excellent growth from Next Gen Interceptor classified programs and National Security Space, areas that you would expect. But they also had some growth and I mentioned it, there was boosted, protect -- some protected comms programs Orion, fleet ballistic missiles, those are programs we're expecting to be a little bit more steady state. And so they just were -- they just benefited from some program timing here in the quarter.
+
+And just to give you an example, protected comms is up 50% in the quarter. We're expecting that to generally be flat for the year. Orion was up 20% in the quarter. We're expecting that to generally be that's generally be flat for the year.
+
+FBM was up about 20% in the quarter and now was pretty much the full year's worth of growth, all in the first quarter. And so, it's just these things all came together here in the first quarter that really caused this growth of 16%. We expect these programs I just mentioned really normalize in the balance of the year. We will continue to see some growth in some of these other programs. I will announce it probably some upside to their sales, but it's not $1 billion (inaudible), you're talking anywhere between $100 million to $200 million probably upside to where we are today.
+
+Operator
+The next question is from the line of George Shapiro with Shapiro Research. Please go ahead.
+
+Q - George Shapiro{BIO 1503724 <GO>}
+Yes. Jay, I wanted to pursue some of these other income numbers because they were actually a big part of it large beat this quarter relative to my expectation anyway. So if you look at the other net, that's in operating income, it was $2 million. You kept the guide at minus $325 million for the year. So what happens in the subsequent quarters. It's all negative a 100 plus or there is a -- some quarter that it's abnormally high. And then somewhat less, but other non-operating income was $49 million, you disclose $29 million of that was the venture stuff. What was the other $20 million? I left out the $29 million in the other net number, which was for deferred compensation adjustment.
+
+A - Jesus Malave{BIO 17897577 <GO>}
+Okay. Let me, so George, fair question. Just you may tackle a big question -- the big-picture question in terms of what happens for the balance of the year. Just on the investment gains, obviously, we'd saw that in the quarter. We talked about that being $0.18 implied because we're not changing it implies that will reverse in the balance of the year. So, we'll see. We'll get that an update in the -- in the second quarter update. We're halfway through the year and make a call on that.
+
+The other element, we just we're speaking about a little bit in terms of our investment in LM Evolve. We have some of those investments increasing in the balance of the year as well. And then there's so just residual corporate costs that we have flowing through. And so, all those things are allocated. We'll monitor those throughout the rest of the year and see whether or not, again I think we'll just make an assessment halfway through the year and where we are those things to the extent there's upside will make an update at that point in time.
+
+Operator
+The next question is from Ken Herbert from RBC Capital Markets. Please go ahead.
+
+Q - Ken Herbert{BIO 17666707 <GO>}
+Yeah, hi. Good morning. Jay or Jim, I wanted to see if you can provide a little more granularity on the TR-3 and the F-35 program. Specifically, it seems like that programs faced in ongoing delays in other headwinds in terms of adoption and implementation, but how is that impacting deliveries this year and how do you see that timing of that getting back on track?
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Yeah, Ken, it's Jim. In the round, we're in the very late innings of fully implementing this Tech Refresh 3. The point of it is really critical and that is -- it gives us much, much greater capability to really make the F-35 a true edge compute node in an open architecture Internet-of-Things constructed system.
+
+And so, the three elements of edge compute node in a 5G system, our data storage on-board vehicle, data processing on-board vehicle, multi path ability to get back to the cloud, right, finding the cloud is to whatever your enterprise is. And the TR-3 upgrade provides all of that. It's coming together of a number of components I'll call them and sub-components which is pretty intricate, fairly leading-edge for the aerospace industry to accomplish and it's being done.
+
+So, there have been some delays in some of the hardware and software. But we're really in the very late innings of getting this all together. We're literally in flight test right now. And we'll wrap all that up by October or December, et cetera. We've got to see with the test results are and work with the government to define exactly when everybody is ready to go and implement in our production system in the factory those software loads and that's where we're at now.
+
+So, I would consider this extremely high degree of difficulty dive and we're going to make sure that it's done right, and we can produce at rate in our Block 15, so that's what we're up to and we're working closely with the Joint Program Office to define that and make that successful. And we are seeing the demand for the aircraft both from the US and international customers really kind of blossom here lately. So, I think we're in good shape on the program.
+
+A - Maria Ricciardone Lee{BIO 17650740 <GO>}
+All right. Eloise, this is Maria. I think we've come to the top of the hour. So, I'm just going to quickly turn it back to Jim for any final thoughts.
+
+A - James D Taiclet{BIO 2108171 <GO>}
+Thanks, Maria. As we conclude, I'd like to say thank you to our 116,000 employees here at Lockheed Martin for their commitment to providing our customers the 21st century digital and physical technologies that will help them to tour conflict and win, if they have to.
+
+So thank you all again for joining us today. We look forward to speaking with you on our next earnings call in July. And Eloise, that concludes our call today.
+
+Operator
+Thank you. And ladies and gentlemen, that does conclude our conference for today. Thank you for your participation, and for using AT&T teleconference service. You may now disconnect.

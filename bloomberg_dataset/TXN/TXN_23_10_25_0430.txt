@@ -1,0 +1,318 @@
+Q3 2023 Earnings Call
+Company Participants
+Dave Pahl, Vice President and Head of Investor Relations
+Rafael R. Lizardi, Senior Vice President and Chief Financial Officer, Finance and Operations
+Other Participants
+Ambrish Srivastava, BMO Capital Markets.
+Harlan Sur, J.P. Morgan
+Joseph Moore, Morgan Stanley
+Ross Seymore, Deutsche Bank
+Stacy Rasgon, Bernstein & Co., LLC
+Timothy Arcuri, UBS
+Tore Svanberg, Stifel Institutional
+Toshiya Hari, Goldman Sachs
+Vivek Arya, Bank of America Securities
+William Stein, Truist Securities
+Presentation
+Dave Pahl{BIO 18870833 <GO>}
+Welcome to the Texas Instruments Third Quarter 2023 Earnings Conference Call. I'm Dave Paul, Head of Investor Relations, and I'm joined by our Chief Financial Officer, Rafael Lizardi. For any of you who missed the release, you can find it on our website at ti.com/ir. This call is being broadcast live over the web and can be accessed through our website. In addition, today's call is being recorded and will be available via replay on our website.
+
+This call will include forward-looking statements that involve risks and uncertainties that could cause TI's results to differ materially from management's current expectations. We encourage you to review the notice regarding forward-looking statements contained in the earnings release published today, as well as TI's most recent SEC filings for a more complete description.
+
+Today, we'll provide the following updates. First, I'll start with a quick overview of the quarter. Next, I'll provide insight into third quarter revenue results with some details of what we're seeing with respect to our end markets. Lastly, Rafael will cover the financial results, give an update on capital management, as well as share the guidance for our fourth quarter 2023.
+
+Starting with a quick overview of the quarter, revenue in the quarter came in about as expected at $4.5 billion, flat sequentially, and a decrease of 14% year-over-year. Analog revenue declined 16%, embedded processing grew 8%, and our others segment declined 32% from the year-ago quarter. Now, I'll provide some insight into our third quarter revenue by market. During the quarter, automotive growth continued and industrial weakness broadened. Similar to last quarter, I'll focus on our sequential performance as it's more informative at this time.
+
+First, the industrial market was down mid-single digits, with weakness broadening across nearly all sectors. The automotive market continued to grow and was up mid-single digits. Personal electronics was up about 20% off a low base. And next, communications equipment was down upper teens. And finally, enterprise systems grew upper single digits.
+
+Given where the market is now, it's a good time to remind everyone of our plan and areas of strategic investments. First, our confidence in the secular growth of semiconductor content per system, especially in industrial and automotive, remains high and we're well-positioned in these markets. Second, our long-term 300-millimeter manufacturing roadmap provides our customers with geopolitically dependable capacity.
+
+To support these buildouts and enable future growth, we continue to expect associated capital expenditures to be about $5 billion per year through 2026. In addition, we made good progress on our inventory replenishment, consistent with our long-term objectives to support growth and provide high levels of customer service.
+
+Rafael will now review profitability, capital management, and our outlook. Rafael?
+
+Rafael R. Lizardi{BIO 20006334 <GO>}
+Thanks, Dave, and good afternoon, everyone. Third quarter revenue was $4.5 billion, down 14% from a year ago. Gross profit in the quarter was $2.8 billion, or 62% of revenue. From a year ago, gross profit decreased primarily due to lower revenue, to a lesser extent, higher manufacturing costs associated with planned capacity expansion, and reduced factory loadings. As a reminder, LFAB-related charges transitioned to cost of revenue in the fourth quarter of 2022. Gross profit margin decreased 690 basis points.
+
+Operating expenses in the quarter were $923 million, up 7% from a year ago and about as expected. On a trailing 12-month basis, operating expenses were $3.7 billion or 20% of revenue. Operating profit was $1.9 billion in the quarter or 42% of revenue and was down 29% from the year-ago quarter. Net income in the third quarter was $1.7 billion or $1.85 per share. Earnings per share included a $0.05 benefit for items that were not in our original guidance.
+
+Let me now comment on our capital management results, starting with our cash generation. Cash flow from operations was $1.9 billion in the quarter $6.5 billion on a trailing 12-month basis. Capital expenditures were $1.5 billion in the quarter $4.9 billion over the last 12 months. Free cash flow on a trailing 12-month basis was $1.6 billion.
+
+In the quarter, we paid $1.1 billion in dividends and repurchased about $50 million of our stock. In September, we announced we would increase our dividend by 5%, marking our 20th consecutive year of dividend increases. This action reflects our continued commitment to return free cash flow to our owners over time. In total, we have returned $5.6 billion in the past 12 months. Our balance sheet remains strong with $8.9 billion of cash and short-term investments at the end of the third quarter. Total debt outstanding was $11.3 billion with a weighted average coupon of 3.5%.
+
+Inventory at the end of the quarter was $3.9 billion and days were 205, down 2 days sequentially. Inventory was up $179 billion in the third quarter, less than half the increase versus the prior quarter as we near our desired inventory levels. Therefore, we began to lower factory starts in the third quarter, which results in additional charges to the income statement. This impact is comprehended in our outlook.
+
+For the fourth quarter, we expect TI revenue in the range of $3.93 billion to $4.27 billion, and earnings per share to be in the range of $1.35 to $1.57 as we continue to operate in a weak environment. Lastly, we continue to expect our 2023 effective tax rate to be about 13% to 14%. As you are looking at your models for 2024, based on current tax law, we would expect our effective tax rate to remain about what it is in 2023.
+
+In closing, we will stay focused in the areas that add value in the long term. We continue to invest in our competitive advantages, which are manufacturing and technology, our broad product portfolio, reach of our channels, and diverse and long-lived positions. We will continue to strengthen these advantages through disciplined capital allocation and by focusing on the best opportunities, which we believe will enable us to continue to deliver free cash flow per share growth over the long term.
+
+With that, let me turn it back to Dave.
+
+Dave Pahl{BIO 18870833 <GO>}
+Thanks, Rafael. Operator, you can now open the lines for questions. In order to provide as many of you as possible an opportunity to ask your questions, please limit yourself to a single question. After our response, we'll provide you an opportunity for an additional follow-up. Operator?
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. At this time, we'll be conducting a question-and-answer session. (Operator Instructions) Our first question comes from the line of Stacy Rasgon with Bernstein Research. Please proceed with your question.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi, guys, thanks for taking my questions.
+
+My first one, I did want to ask about gross margins. So, I mean, depending on what I assume for OpEx next quarter, I'm getting something like 250 basis points of compression, maybe more. I know you talked a little bit about how some of that is the impact of utilization. Can you give us some feeling for, I guess, like the magnitude of the different drivers, utilization, lower revenue depreciation, pricing, and how we ought to be thinking about that trajectory as we get into the next year? Like, is there more to go, I guess, is what I'm asking.
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Yes. So thanks, Stacy. Let me try to help you with that. Of course, we -- for the forecast, we give a range on revenue and a range on EPS, not the pieces, but let me go through some of what I said for third quarter which applies for fourth quarter and beyond.
+
+So, for third quarter, like I said in the prepared remarks, in third quarter, gross profit decreased primarily due to revenues, so that's the first driver. Then to a lesser extent, higher manufacturing costs associated with planned capacity expansion, namely depreciation is the main one there, and reduced factory loadings, and that's the underutilization component.
+
+Then, as I also said in the prepared remarks, inventory, which is the other side of the coin, as we near desired levels of inventory, we'll begin lowering factory starts in the third quarter. So there was an impact in third quarter due to that on the income statement. There'll be a bigger impact in fourth quarter due to that. Beyond that, we're not forecasting, but of course that will depend on revenue expectations well into next year. Do you have a follow-up?
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+I do, thanks. So, you gave us a little color on the end market behavior in Q3. Can you give us some thoughts on, at least even qualitatively, what to expect by end market into Q4? And particularly for auto, it sounds like auto in Q3 was still strong. Do you still see that strength continuing into Q4 and the year-end?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes, Stacy, I'll take that. When you look at the guidance, it would suggest, and we believe that we continue to operate in a weak environment in general. And if there was something significant that was changing from one quarter to the next, as is our typical practice, we highlight that, and we just don't have anything to specifically call out for -- into fourth quarter.
+
+So thanks, and we'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Timothy Arcuri with UBS. Please proceed with your question.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. Dave, I also had a question on autos. It sounds like it's holding in there despite this broadening strike. And I guess the question is, are more of your customers on consignment in that business or is the split in autos about the same as that two-third/one-third versus the rest of the company? And I ask because I'm wondering sort of what you're seeing on the disty side that you would sell into autos. Do you see bookings at least weakening that would be more consistent with what we're seeing in terms of this strike and some of the weak macro numbers that we see?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Sure. Yes. And as we mentioned in the prepared remarks, it was up, auto was up mid-single digits sequentially. And it was up 20% when you look year-on-year. So obviously, that growth had continued. In general, I would say that, a market like automotive and personal electronics will have larger customers. Those larger customers tend to be biased to some more consignment.
+
+So we would have that probably more in automotive than if I contrast it to a market perhaps like industrial. But overall, as you know, we've moved to having closer direct relationships with customers, which would include the customers that we have in automotive. And I think we service pretty close to 1,000 or so different automotive OEMs.So there is quite a bit of broadness in who we serve there.
+
+You have a follow-on, Tim?
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+I do, Dave, yes. So what would it take to -- for you to think about cutting CapEx? And I ask because the plan was put into place when revenue was quite a bit higher than where it is today. Is there kind of a line in the sand for revenue where you would reconsider the plan? I know you've actually increased the plan while revenues continue to weaken, but is there some, like, tree around -- is there some -- if it weakens to this point, you would consider cutting CapEx. Just wondering if any comments there. Thanks.
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Yes, let me comment on that. We're very pleased with the progress on our manufacturing expansion. They will provide geopolitically dependable capacity for -- to support customer growth for the coming decade. And as you know, semiconductor content continues to increase and to provide us the ability to grow at that 10% growth rate that we talked about at the last capital management call. If the market requires that, we'll continue to make those investments. So we continue to expect $5 billion of CapEx per year in '23, '24, '25, and '26. So you should count on that.
+
+Let me also give everyone, as a reminder, these CapEx numbers are gross, meaning they do not include benefits from the ITC or grants from the CHIPS Act. So we're actively working through the grant application process with the CHIPS program office, which we believe will be meaningful to our manufacturing operations in Texas and Utah and will help support semiconductor growth for decades to come. And funding from the CHIPS Act grant was comprehended in our decision-making for these investments.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Great.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Thank you, Tim. We'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Ross Seymore with Deutsche Bank. Please proceed with your question.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Hi, guys. Thanks for letting me ask a question.
+
+In the third quarter, I think it was the first time in a few years that you guys just came in at the midpoint of your guidance. Usually, you beat it by 2%, 3%, 4%, something like that. So I guess my question is, anything strange in the linearity in the quarter, either by end market, just aggregate floatings, any color on that you could provide?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Nothing strange, Ross, I'd say that the revenue built as we went through the quarter. And I'd say just in general, it's reflective of a weak environment that we're operating in, so which is obvious from the guidance that we're giving.
+
+You have a follow-on?
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+I did. On the end market side of things, you said automotive was up about 20% year-over-year. I know, oftentimes, you go between giving sequentials or year-over-years, but could you give us year-over-years by the end markets, please?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Certainly. Certainly. Yes. So, industrial market was down mid-teens, I mentioned automotive was up about 20%, personal electronics was down about 30%, comms equipment was down about 50%, and enterprise system was down about 40%. So I think consistent with that weaker environment that we talked about. So, thank you, Ross. We'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Toshiya Hari with Goldman Sachs. Please proceed with your question.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hi, guys. Thanks for taking the question. I was hoping you guys could elaborate a little bit on the pricing environment. I think many of us have been picking up evidence of the pricing environment, particularly in Asia, intensifying over the past couple of months or couple of quarters. You don't really give pricing as a reason for gross margins to be down sequentially and year-over-year. But what kind of role is pricing playing? Has your strategy changed at all, whether it be on the analog side or MCU side?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. So thanks for that question. Always helpful to be able to clarify that. And first, I'll just start with pricing doesn't move quickly in our markets, nor is it a primary reason that customers choose our products. So, we're typically agreeing to pricing that's out to six months or on an annual basis for the following year, and so we're continuing to move through that. Our pricing strategy, as we mentioned before, hasn't changed. So, we're regularly monitoring what's going on with pricing. We always have a goal to remain competitive.
+
+And certainly, as supply and demand has come into balance or more closer to balance, we've said for some time that we would expect that pricing to behave like it has over the last couple of decades, meaning low-single-digit decline. So as we move out in time, that's what we're beginning to see. So really, no changes, other than going back to what we've seen over the last couple of decades.
+
+Do you have a follow-on?
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Yes, I do. Thanks, Dave. So, I guess over the past 12 months, OpEx is up about 10%, revenue is down about 10%. So, as we think about calendar '24, I was hoping you could give us a hint as to how to think about OpEx. And Dave, I think you used to give or you had given multiyear guidance on depreciation. How should we -- to the extent there are any updates, how should we think about '24 and '25 depreciation? Thank you.
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Yes. No, thanks for the question. I'll address both OpEx and depreciation. So, on OpEx, we've held a steady hand on OpEx for many years, and we'll continue to do so. So, as an example, to illustrate the point, from 2017 to 2021, we ran at about $3.2 billion of OpEx. And then in '22, it ticked up to $3.4 billion. And now, we're running at about $3.7 billion on a trailing 12-month basis. So you can see the steady hand and just a bit of an increase over the last few years. And that's -- as we have held a steady hand with our hires, our new college hires, and as we make investments to continue to strengthen the company in the case of R&D, the broad portfolio in the case, with sales and ti.com on the reach of our channels.
+
+Then on depreciation, so our CapEx expansions are unchanged. We've talked about that, addressed it with previous callers, so $5 billion of CapEx per year for the next '23 and three years beyond that, as we have been talking about. Now when it comes to depreciation, as time has passed, we have more clarity on what to expect on depreciation. So for fourth quarter, let me start fourth quarter of '23, we expect depreciation to increase on a quarterly basis at about the same rate as what we have been seeing throughout 2023. So essentially, we're going to end the year just shy of $1.2 billion, maybe $1.190 billion, $1.180 billion, $1.170 billion, somewhere in that range for the year. As an update for 2024, we expect depreciation to be between $1.5 billion and $1.8 billion, and for 2025 to be between $2 billion and $2.5 billion.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Very helpful. Thank you so much.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Thanks, Toshiya. Now we'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Ambrish Srivastava with BMO Capital Markets. Please proceed with your question.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Hi. Thank you. I had a question on factory loadings and inventory. So correct me if I'm wrong, I thought that thinking up until now has been, we've got to be ready for the upturn, and so we're building inventory for that, and you have highlighted that over several quarters, look, we're not -- we don't have a target, but you did raise the target in terms of how much inventory you want to carry. So this change, which I want to make sure I'm reading it right, that you're taking an underutilization charge because you've reached a desired level of inventory, is that a reflection that your expectation for the recovery is changing, i.e., you're expecting a slower ramp in revenues than what you perhaps were thinking a couple of quarters ago?
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Let me start, and Dave, if you want to chime in, but we have targets for where we want inventory levels to be, and that goes by product and by state of finish of those products. So for example, of the 80,000 different products that we have, more than the -- the vast majority of those are catalogs, meaning they sell to many, many customers, they last for a long, long time. So we can have so many years of inventory at the chip level or at finished goods level, in many cases, at both levels. And that's based on our internal process to set those.
+
+So those are the -- and in aggregate, that's added up to $4 billion to $4.5 billion. And that's what we've been kind of guiding to and we've been talking about. But what really matters is what happens at the very specific level on a part-by-part number. So as we have near those levels, and you see our inventory levels have increased about $500 million per quarter for two quarters, and then this last quarter, $179 million. So clearly, this is a deceleration on that growth, and that's on purpose, because as we near those levels, then we have slowed down the factory starts. That goes primarily with the fab, but also with the assembly test operations.
+
+And then we -- that slowdown will continue into fourth quarter. So the reverse, the other side of slowing your factory load is the underutilization charges. So as we near those levels, we are ready to be on the other side of this cycle for the upturn. And of course, it's not just inventory, capacity is really the bigger driver. But you know what we've been doing on that now for a number of years and where we're investing. But inventory really bridges that gap as an upturn happens until you get your factories really cranking at a higher level.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. And I'll just add and bring back to our capital management that we've been saying for, I think, over a decade now, our objective with inventory is to maintain high levels of customer service, keep our lead time stable, keep product availability really high. So as we talked about earlier, ti.com, really, essentially all of our catalog products are available for immediate shipment, lead times are stable. And so we are prepared for that next upturn when it does come. You have a follow-on, Ambrish?
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Yes, quick one, Dave. Just looking at the year-over-year, we had the fourth quarter double-digit year-over-year decline, and I look back many years. There have been other cycles where we have had multiple quarters of negative, but not that many times we have seen a double-digit kind of four or five quarter. Dave, just wanted your perspective on what you folks are seeing this cycle versus, and I know no cycle is the same, but just kind of give -- just help investors think about how to think about that double-digit four quarters. It could be potentially longer year-over-year decline. Thank you.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Sure, yes, and I think we all know as being students of studying the cycles over the years, they're all the same, and they're all different at the same time, and they're unique. The one thing that is unique, of course, with this cycle is how the markets have behaved differently. We've seen bifurcation and really lined up very well with when markets recovered.
+
+So PE was the first to recover and was very strong early on. The other markets followed very shortly after that, and automotive was last. As you remember, many automotive manufacturers struggled to restart their factories, and people weren't going to showrooms when we were in the midst of the pandemic. So really, as we've seen things begin to roll over, personal electronics was first. It was then followed by the other markets, and yet we still have automotive that's hanging in there.
+
+So, I think that's the one thing that's unique. And I think as we've learned and studied the cycles, our product portfolio has changed as well over time. But the best time to be preparing for the upturn is before it shows up. So, that's what we've been busy doing, and we think we're in a great position to support the next upturn and to continue to gain share.
+
+So, thank you, Ambrish. We'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Vivek Arya with Bank of America Securities. Please proceed with your question.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. I wanted to go back to automotive, just to make sure that I understood what you said. Do your comments imply that you are seeing a largely seasonal environment in Q4 with no changes in terms of orders to traditional or EV customers? And if that is the case, if I understood it correctly, isn't that surprising, given the macro headwinds that sector is facing?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Vivek, your question was on third quarter or on fourth quarter?
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+So what is being -- I think when you were asked before, you said that if there was anything abnormal, you would have mentioned it. So I assume that because you didn't mention it that it is normal.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. So yes, what I said is that there was something that we needed to explain the outlook, or unusual or however you want to describe it, we would do that. So I'm not -- I'm stopping at that point intentionally, and we'll finish up the quarter and report out what happens in fourth quarter. You have a follow-up?
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Yes. On depreciation, what is driving the division? Because your CapEx doesn't seem to be changing. And then kind of part B of that is, if I take that year-on-year delta, Rafael, I think it's about $400 million, $500 million or so incremental in '24. So at the current revenue run rate, that's a 2 to 3 point headwind to gross margin. I just wanted to make sure that I got those two points right.
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Yes, so for '24, I said $1.5 billion to $1.8 billion. And that is down from what you probably had before $2 billion. And for 2025, I said $2 billion to $2.5 billion. So that is down from $2.5 billion, which we had said before. And the reason, as you pointed out, CapEx is not changing, so that's not the reason. It's just as time has passed, we have more clarity on what to expect.
+
+So for example, depreciation on tools, that doesn't start until the tool is not only received, but installed and then qualified. And that's when depreciation starts. So that doesn't happen immediately. So as we have learned more as to how that process works with all the number of tools that we're receiving for the various factories, then we're providing an update on depreciation. Thank you.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+And the gross margin headwind? Is that -- did I have the calculation right? It's a 2 to 3 point headwind on gross margins?
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Well, so we've given you the tools to calculate gross margins. So let me remind everybody what that is. First is revenue. So if you pick the revenue that you believe is going to happen for the next several years, and this works on a quarterly basis, but of course in any quarter, there are a lot of puts and takes, but better to do it over longer horizons. So you start with revenue, then you fold that through at 70% to 75%, which by the way, that is reflective of the great, not only geopolitically dependable capacity that we're putting in place, but it is all that new fab capacity is 300 millimeters. So it has a structural cost advantage, not to mention that we're getting ITC and grant benefits as that is installed in the United States, so.
+
+But -- so then you fold that through at 70% to 75%. Then you need to account for the added depreciation. So this year is probably going to be close to $1.2 billion, and then next year, I just gave you $1.5 billion to $1.8 billion. So if you want to pick a point between that, then you get your added depreciation for 2024. And then, at a high level, that's it. But of course, in any given quarter -- even in any given year, but especially in any given quarter, you have puts and takes. And one of them that we're seeing right now is the underutilization. But that right now is a headwind, but that can also be a tailwind when we're on the other side, and we're increasing loadings. And what that does is that it comes back the other way, right? So -- but that's more of a tactical comment that happens in some quarters. Hopefully that answers your question.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Yes. Thank you.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Thank you, Vivek. We'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Joe Moore with Morgan Stanley. Please proceed with your question.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Yes, thank you. I wonder if you could walk us through the calculation on the underutilization charge. I mean, I think it seems like with over 200 days of inventory, you would see the cost impact of that in six months, but you're pulling it forward. Can you just talk about how you determine how much to pull forward?
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+Yes. Well, so it's an accounting process, and it's essentially when you're below what's considered normal utilization, that percent that you're below that norm, and that is generally determined by wafers. And the fab is wafer starts and outs in the assembly test operation as you're -- the number of units that you're producing, and you divide that by the capacity that you can get, the maximum capacity. You establish a normal, which is where you normally expect to be. So that could be 85%, 90%, 95%, depending on the situation. And whenever you're below that, then you take that percent that you're below, and then you take those fixed costs and go straight to the P&L instead of going into inventory.
+
+So some of those costs, I would call them fixed costs, they -- some of them are depreciation but it's not only depreciation, you have -- electricity, for example, is largely fixed. You use about the same amount of electricity whether a tool is running production or not, as long as it's plugged in. So you take that into account. And then at the end of the day, you're not creating money when you do that, you're just essentially putting it on the balance sheet or the P&L. And in this case, it's going directly into the P&L as an in-quarter charge, because that portion of the capacity is not producing.
+
+Now, one more comment. That gives us tremendous operating leverage on the other side of that, right? Because think about fixed cost. On the way down, they heard of it, but on the way up, they're fixed, right? So from a cash standpoint, on the way up, you don't spend any more, and then you get just tremendous cash fall-throughs on the revenue, particularly when it's 300-millimeter capacity at very low cost.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+You have a follow-on, Joe?
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great. Yes, thank you. Yes, separately on the comm infrastructure business seems quite soft, both quarter-on-quarter, year-on-year. I know that business isn't a focus for you guys, but can you talk about what's driving that weakness?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. And it's -- last year, it was about 7% of our revenue, Joe. So, we can find great opportunities in comms equipment. We continue to invest. We just don't think it has the secular growth that other markets like industrial, automotive have. So, we continue to make investments there.
+
+And, as we've talked about that market over the years, it's one that just tends to be choppy. We believe that they're continuing to adjust their inventory levels as we work our way through this quarter. And as I mentioned earlier, it's down 50%. So that's a pretty significant drop. So, yes -- so again, long-term, we think it's a great market, and we're positioned well there. But it will have these types of moves overall.
+
+Okay, thanks, Joe. Now we'll go to the next caller, please.
+
+Operator
+Our next question comes from Tore Svanberg with Stifel. Please proceed with your question.
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Yes, thank you, Dave. Thank you, Rafael. So you talked about operating in a weak environment. Could you also give us some color on bookings trends, maybe even the current run rate versus where you think consumption is? Just try to understand, and this goes back to Ambrish's question about four consecutive quarters of double-digit declines. So, yes, any color on bookings trends would be really helpful.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes, so as I mentioned, I think as part of another question on revenue order linearity, there was nothing unusual inside of that. Secondly, we -- obviously, we're describing the environment as being weak, and we don't have a system that tells us, are we shipping above or below demand. The strongest signal that we get is orders from customers.
+
+Now, as we talked about earlier comm or a market like personal electronics was the first market to go into the downturn, we've had a couple of quarters of growth inside of that market. Now it's up off of a very weak base, but we are seeing that as a trend. If you compare that to the industrial market, we had seen that, let's say -- let's call it about half of the sectors begin to weaken a couple of quarters ago. It was really this quarter that we saw that, that weakness is broadening.
+
+So customers, we believe, inside of markets like that, inside of markets like comms equipment that we said, they're adjusting their inventories as such. So again, that provides us the opportunity, both strategically with building the capacity and more tactically, building, putting in place the inventory to be able to support the next upturn because it will certainly come.
+
+Do you have a follow-on?
+
+Q - Tore Svanberg{BIO 3658854 <GO>}
+Yes, thank you, Dave. Very helpful. A follow-on for Rafael. Rafael, thank you for the depreciation numbers for the next few years. Do you also want to update us on the timing of the offsets to the depreciation, especially in relation to ITC and the CHIPS Act? Anything new there?
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+So, nothing new. Frankly, the ITC, the expectation is similar, which is about 20% to 25% credit on everything that is spent, all CapEx in the U.S. for fabs, so what we said back in February, that's going to be roughly $4 billion of the $20 billion or so that -- for CapEx, the $5 billion times four, so roughly about $4 billion of that we're going to get back on ITC, about one year offset. Of that, we have already accrued $1.2 billion on the balance sheet, so you'll see that on our balance sheet on the long-term assets. A portion of that we will get sometime next year, probably by fourth quarter next year, is when we expect to get that cash, so that's when the cash will start flowing in.
+
+As I mentioned in an earlier call -- on an earlier question, we are actively applying for the grant, so that's going to be in addition to the ITC. We're not counting on that, we don't have any numbers on that because you have to apply, you have to wait until the Department of Commerce makes a decision, but we're planning on receiving -- the funding from the CHIPS Act grant was comprehended in our decision, and we firmly believe we are very well positioned to receive those funds. And we're a great candidate for that, and we believe that will be meaningful to our manufacturing operations in Texas and Utah to support semiconductor growth and the objectives of the CHIPS Program Office.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Great. Thank you, Tore. Now we'll go to the next caller, please.
+
+Operator
+Our next question comes from the line of Harlan Sur with J.P. Morgan. Please proceed with your question.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Yes, thank you. Good afternoon. China headquarters shipments were about 20% of sales through the first half of this year. Just this geography has experienced the most significant decline. I think it was down like 33%, 35% year-over-year in the first half of this year. Much of your China business is focused on industrial. Is this geography continuing to contribute to the weakness here in Q4? And what other geographies are you seeing that is contributing to this broadening out of sort of the weak industrial trends?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. So let me -- I'll speak to what we saw in the third quarter and just in general, including industrial in China, continued to remain weak. So I think if we were having this call a year ago or so as trying to came out of COVID, I think most of us would have expected there to be a more significant rebound, which just hasn't materialized. So yes. And I think when you look at on a regional basis compared with the year ago, the only region that was up was Japan. So the other regions were down. And so, again, just describe that weakness as being very broad in nature. You have a follow-on, Harlan?
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Yes. Thank you. So your embedded business continues to hold up relatively well, right, trailing 12 months, it's up 8% year-over-year. You've talked about the positive strategy changes embedded. Last quarter, you also cited some constraints. I assume that those constraints have fully normalized. So do you anticipate embedded continuing to hold up, or do you anticipate this segment starting to weaken from here with some of the capacity constraints potentially easing?
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. As we talked about before, we had focused on changing the product strategy that we had inside of embedded. I'd say we're very pleased with the results that we have so far. Our first objective was to stabilize that business, and we continue to invest in it because we believe it has the long-term growth potential and contribution to free cash flow. So we're very pleased with where we're going.
+
+I think more tactically, as we talked about last quarter, we saw that business does rely more heavily on foundry suppliers. We began to see those -- that capacity begin to free up for us, and I think that, that was different because we had capacity in place to service analog, our own capacity there overall. So, yes, so again, we think that business long-term is going to be a great driver for us in the future.
+
+So, thank you, and I think we've got time for one more caller.
+
+Operator
+And our next question comes from the line of William Stein with Truist Securities. Please proceed with your question.
+
+Q - William Stein{BIO 15106707 <GO>}
+Great. Thanks for squeezing me in. Dave, can you remind us what's in the other segment besides calculators, and perhaps, why that end market was down so much more than the others? I know it's very seasonal from calculators, but there was a big drop year-over-year.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Yes. So, besides calculators, we have our DLP, or Digital Light Processor, products that are in there. So, those products are continuing to make their way through inventory correction overall. And calculators had a weaker back-to-school this season.
+
+Do you have a follow-on?
+
+Q - William Stein{BIO 15106707 <GO>}
+Yes. Perhaps something that hasn't come up in a while, but lead times, we were dealing with this golden screw issue for a while where there were quite a number of parts or quite a big part of the, let's say, all the available SKUs that had very extended lead times with revenue down as much as it is. I'm guessing that that's mostly resolved and lead times are like sort of stocked to four weeks for most things at this point, but if you could level-set me on that, the degree to which there are still extended lead times, that'd be really helpful. Thank you.
+
+A - Dave Pahl{BIO 18870833 <GO>}
+Sure. Yes. So -- and I may have mentioned this earlier, but almost all of our catalog products are available on ti.com for immediate shipment. And so, as we approach our desired level of inventory, we've got a product that is positioned both in finished goods as well as in wafer form to be able to restock that.
+
+Of course, lead times, therefore, are what I described, normal levels and continue to be consistent. And there's probably no time that we don't -- with so many different products and so many different customers, we'll have hotspots, but they're very few and far between, and our ability to close those is very -- we've got flexible manufacturing, as most of our production is fungible.
+
+So with that, I'll ask Rafael to wrap up the call for us.
+
+A - Rafael R. Lizardi{BIO 20006334 <GO>}
+All right. Let me wrap up by reiterating what we have said previously. At our core, we're engineers, and technology is the foundation of our company. But ultimately, our objective and the best metric to measure progress and generate value for owners is the long-term growth of free cash flow per share.
+
+While we strive to achieve our objective, we will continue to pursue our three ambitions. We will act like owners who will own the company for decades. We will adapt and succeed in a world that's ever-changing. And we will be a company that we're personally proud to be part of and would want as our neighbor. When we're successful, our employees, customers, communities, and owners, all benefit.
+
+Thank you, and have a good evening.
+
+Operator
+This concludes today's conference, and you may disconnect your line at this time. Thank you for your participation.

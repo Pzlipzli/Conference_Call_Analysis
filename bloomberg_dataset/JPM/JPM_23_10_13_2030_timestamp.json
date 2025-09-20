@@ -1,0 +1,548 @@
+[
+  {
+    "speaker": "Jamie Dimon",
+    "text": "Good morning, everybody. Before we start the actual call, I want to repeat something we just said on the press call. Before we get into discussions about third quarter earnings, I want to say how deeply saddened we all are about the recent horrific attacks on Israel and the resulting bloodshed and war. Terrorism and hatred have no place in our civilized world, and all of our hearts here at Moore and Chase go out to all who are suffering.",
+    "start": 27.9,
+    "end": 53.835
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Thanks, Jamie, and of course, I very much echo the sentiment. Now, let's turn to our third quarter earnings results. The presentation is available on our website, and please refer to the disclaimer in the back. Starting on Page one, the firm reported net income of thirteen point two billion dollars EPS of four point three three dollars on revenue of forty point seven billion dollars and delivered an ROTCE of twenty two percent. These results included six sixty nine million dollars of net investment securities losses in corporate and six sixty five million dollars of firm wide legal expense.",
+    "start": 54.989998,
+    "end": 89.17
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "On Page two, we have some more detail. Similar to last quarter, we have called out the impact of First Republic where relevant. For this quarter, First Republic contributed two point two billion dollars of revenue, dollars eight fifty eight million of expense, and one point one billion dollars of net income. Now focusing on the firm wide results, excluding First Republic, revenue of thirty eight point five billion dollars was up five billion dollars or fifteen percent year on year. NII ex markets was up four point eight billion dollars or twenty eight percent, driven by higher rates and higher revolving balances of card, partially offset by lower deposit balances.",
+    "start": 89.57,
+    "end": 127.225
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "NIR Ex Markets was up three seventy four million dollars or four percent, which included lower net investment securities losses than the prior year. And markets revenue was down one hundred and ninety million dollars or three percent year on year. Expenses of twenty point nine billion dollars were up one point seven billion dollars or nine percent year on year, primarily driven by ongoing growth in front office and technology staffing as well as wage inflation and higher legal expense. And credit costs were one point four billion dollars predominantly driven by net charge offs in card and included a one hundred and two million dollars net reserve release, driven by changes in the central scenario, primarily offset by card loan growth. On to balance sheet and capital on Page three.",
+    "start": 127.784996,
+    "end": 173.81
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "We ended the quarter with a CET1 ratio of fourteen point three percent, up about fifty basis points versus the prior quarter, as the benefit of net income less capital distributions was partially offset by AOCI. We had two billion dollars of net share repurchases this quarter, and the pace of buybacks will likely remain modest in light of the Basel III endgame proposal. In line with our capital hierarchy, we will continue to reassess the buyback trajectory as circumstances evolve or opportunities emerge. And on the topic of the Basel III endgame, you'll see that we added a couple of pages on it, so let's cover that now, starting on page four. Given the significance of this proposal for us, the broader industry, as well as households and businesses as end users, we thought it was important to spend time discussing it.",
+    "start": 175.345,
+    "end": 226.36
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And while we know there's interest in having us quantify the expected impact of this proposal in a lot of granular detail, it's important to start by asking why the proposed increase is so large, given the repeated statement over time by policymakers that banks are well capitalized and well positioned to deal with stress. Given that context, the absence of detailed analysis supporting a capital increase of this magnitude is disconcerting, and there's a lot that does not make sense to us. Starting with RWA, we've already said we expect the firm's RWA to increase by around thirty percent or five hundred billion dollars which results in capital requirements increasing by about twenty five percent or fifty billion One immediate thing to point out is that at four point five percent G SIB, a five hundred billion dollars increase in RWA requires twenty two point five billion dollars of additional capital, with no change in our systemic risk footprint. We've been on the record for a long time that G SIB was conceptually flawed and miscalibrated originally. Since implementation, the failure to address economic growth, despite the Fed themselves acknowledging this problem at the outset, has made matters worse.",
+    "start": 226.59999,
+    "end": 302.305
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And now all of those problems are being applied to an additional five hundred billion dollars of RWA. Our view is that the combined proposals could have adjusted the surcharge levels to keep dollars of capital associated with the G SIB buffer constant rather than simply multiplying the RWA increase by the existing surcharges. Another lens on the proposed increases is the introduction of RWA for operational risk and its clear overlap with op risk losses already capitalized through the stress capital buffer. Although there is limited disclosure from the Fed on this point, we have estimated that we have about fifteen billion dollars of operational risk capital embedded in the SCB based on the information the Fed does disclose. Once we capitalize with this new op risk RWA, our required capital will go up by around thirty billion dollars without any change to our portfolio.",
+    "start": 302.89,
+    "end": 357.215
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Now let's turn to page five, which shows the impact of the actual and proposed capital rules over the last few years. Zooming out from the details of this most recent proposal, this page reminds us of what's happened since twenty seventeen. Since then, SACR and the stress capital buffer have been adopted, and our GSIB surcharge will increase to four point five percent. So assuming the Basel III endgame and GSIB proposals are finalized in their current form, we would see a forty five percent increase in our capital requirements relative to that twenty seventeen starting point. This illustrates again how over calibrated these proposals are, and it's not done yet.",
+    "start": 358.015,
+    "end": 399.86
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "We still expect the Fed to incorporate CECL into CCAR, which will likely increase the SCB. And of course, given the absence of a fix to the GSIB clause, it continues to present a headwind into the indefinite future. And aside from those dynamics, there remains the longstanding issue of procyclicality in the overall capital framework. We think it's also important to point out that the agencies did actually have a choice here. While it may technically be true that the proposal is Basel compliant, Basel compliance does not mandate a twenty five percent increase in capital requirements.",
+    "start": 400.56497,
+    "end": 436.915
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Implementing the Basel III endgame consistently with how the Europeans have by retaining credit risk modeling and also addressing the compounding effects of G SIB and SCB would have achieved Basel compliance without creating this unnecessary increase in capital requirements. As you would expect, we will continue to engage and forcefully advocate during the comment period and beyond in a great deal of technical detail. For the purposes of this call, we wanted to make the equally important broader points about both the level of capital increase and the flaws in the construct of the framework itself, since coherent design is critical to the framework's durability over time. The current proposal exacerbates existing features that discourage beneficial scale and diversification. If it goes through as written, there will likely be significant impacts on pricing and availability of credit for businesses and consumers.",
+    "start": 437.315,
+    "end": 495.53497
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "In addition, the ongoing and persistent increase in the regulatory cost of market making for banks suggests that the regulators want dramatic changes to the current operation of the U. S. Capital markets. We believe that well regulated market makers that are committed to deploying capital to clients on a principal basis are a critical building block supporting the breadth, depth, and resilience of the American capital markets, which is vital to the U. S.",
+    "start": 496.16,
+    "end": 524.415
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Economy. So caution is warranted when proposing changes of this magnitude. With that, let's go to our businesses, starting with CCB on Page six. Consumer spend growth has now reverted to pre pandemic trends, with nominal spend customer stable and relatively flat year on year. Cash buffers continue to normalize to pre pandemic levels, with lower income groups normalizing faster.",
+    "start": 524.415,
+    "end": 550.85504
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Turning now to the financial results, excluding First Republic. CCB reported net income of five point three billion dollars on revenue of seventeen billion dollars which was up nineteen percent year on year. In banking and wealth management, revenue was up thirty percent year on year, driven by higher NII on higher rates. End of period deposits were down three percent quarter on quarter. We ranked number one in retail deposit share based on FDIC data and continued to solidify our leadership position in key markets.",
+    "start": 551.495,
+    "end": 582.72504
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Client investment assets were up twenty one percent year on year, driven by market performance and strong net inflows as we continue to capture yield seeking flows from our consumer banking customers. In home lending, revenue was down two percent year on year given a smaller market. Originations of ten point three billion dollars were up slightly quarter on quarter, but they remained down fifteen percent year on year. Moving to card services and auto. Revenue was up seven percent year on year, driven by higher card services NII on higher revolving balances, partially offset by lower auto lease income.",
+    "start": 583.62994,
+    "end": 620.63
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Part outstandings were up sixteen percent year on year due to strong account acquisition and continued normalization of revolve. And in auto, originations were ten point two billion dollars up thirty six percent year on year, as we saw competitors pull back and regained market share. Expenses of eight point five billion dollars were up seven percent year on year, largely driven by continued investments in staffing, primarily in front office and technology. In terms of credit performance this quarter, credit costs were one point four billion dollars driven by net charge offs, which were up seven twenty million dollars year on year, predominantly due to continued normalization of card. The net reserve build of forty nine million dollars reflected a three zero one million dollars build in card services, primarily offset by a two fifty million dollars release in home lending.",
+    "start": 621.35,
+    "end": 671.295
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Back to CIB on Page seven. CIB reported net income of three point one billion dollars on revenue of eleven point seven billion dollars Investment banking revenue of one point six billion dollars was down six percent year on year. IB fees were down three percent year on year, and we ranked number one with a year to date wallet share of eight point six percent. In advisory, fees were down ten percent. Underwriting fees were up eight percent for debt and down six percent for equity.",
+    "start": 672.31,
+    "end": 701.305
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "In terms of the outlook, we're encouraged by the level of capital markets activity in September, and we have a healthy pipeline going into the fourth quarter. Advisory has also picked up compared to the first half, but year to date announced significantly, which will continue to be a headwind. Payments revenue was two point one billion dollars up three percent year on year. Excluding equity investments, it was up twelve percent, driven by higher rates, partially offset by lower deposit balances. Moving to markets.",
+    "start": 701.91,
+    "end": 733.2
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Total revenue was six point six billion dollars down three percent year on year against a very strong third quarter last year. Fixed income was up one percent, driven by an increase in financing and trading activity in securitized products as well as improved performance in credit. This was predominantly offset by currencies in emerging markets coming off a very strong quarter last year. Equity markets was down ten percent, reflecting lower revenues across products compared to a strong prior year quarter, as activity was challenged by lower volatility. Security Services revenue of one point two billion dollars was up nine percent year on year, driven by higher rates, partially offset by lower deposit balances.",
+    "start": 733.52,
+    "end": 774.17
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Expenses of seven point four billion dollars were up eleven percent year on year, predominantly driven by higher legal expense and wage inflation. Credit costs were a net benefit of one hundred and eighty five million dollars driven by a net reserve release of two thirty million dollars reflecting the impact of net lending activity and net charge offs of forty five million dollars Moving to the Commercial Bank on page eight. Commercial Banking reported net income of one point seven billion Revenue of three point seven billion dollars was up twenty percent year on year, with Payments revenue of two billion dollars up thirty percent year on year, driven by higher rates. And gross Investment Banking and Markets revenue of eight twenty one million dollars was up eight percent year on year, reflecting increased M and A volume. Expenses of one point four billion dollars were up fifteen percent year on year, largely driven by an increase in headcount, including front office and technology investments as as well as higher volume related expense, including the impact of new client acquisition.",
+    "start": 775.175,
+    "end": 836.805
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Average deposits were down seven percent year on year and five percent quarter on quarter, primarily driven by lower non operating deposits as clients opt for higher yielding alternatives. Loans were up one percent quarter on quarter. C and I loans were flat, reflecting continued stabilization in new loan demand and revolver utilization. And CRE loans were up one percent, reflecting funding of prior year originations in real estate banking as well as lower payoff activity. Finally, credit costs were sixty four million dollars including net charge offs fifty million dollars and a net reserve build of fourteen million dollars Then to complete our lines of business, AWM on Page nine.",
+    "start": 837.525,
+    "end": 878.91
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Asset and Wealth Management reported net income of one point one billion dollars with pretax margin of thirty one percent. Revenue of four point six billion dollars was relatively flat year on year as higher management fees on strong net inflows and higher average market levels were offset by lower performance fees and lower NII from deposits. Expenses of three point one billion dollars were up three percent year on year, driven by continued growth in our private banking adviser teams and the impact of closing the JPMorgan Asset Management China and Global Shares acquisitions. For the quarter, net long term inflows were twenty billion dollars positive across all asset classes led by equities. And in liquidity, we saw net inflows of forty billion dollars AUM of three point two trillion dollars was up twenty two percent year on year, and client assets of four point six trillion dollars were up twenty one percent year on year, driven by continued net inflows and higher market levels.",
+    "start": 879.87,
+    "end": 937.53
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Finally, loans were flat quarter on quarter, while deposits were down five percent, driven by migration to investments, partially offset by client inflows. Turning to Corporate on Page ten. Corporate reported net income of nine eleven million Revenue was one point five billion dollars up one point eight billion dollars compared to last year. NII was two billion dollars up one point two billion dollars year on year due to the impact of higher rates. And NIR was a net loss of five zero six million dollars and included the net investment securities losses I mentioned upfront.",
+    "start": 938.01,
+    "end": 972.78503
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Expenses of four fifty six million dollars were up one hundred and fifty one million dollars year on year. To finish, we have the outlook on Page eleven. We now expect twenty twenty three NII and NII X markets to be approximately eighty eight point five billion dollars and eighty nine billion dollars respectively, with the increase driven by slower reprice than previously assumed. Consistent with what we've been saying throughout the year, while we don't know when it will normalize, we do not consider this level of NII to be sustainable. Our outlook for twenty twenty three adjusted expense is now approximately eighty four billion dollars And as a reminder, this is on an adjusted basis, which excludes legal expense.",
+    "start": 973.505,
+    "end": 1017.31
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Also, remember this outlook excludes the pending FDIC special assessment. And on credit, we now expect the twenty twenty three card net charge off rate to be approximately two point five percent, mostly driven by denominator effects due to recent balance growth. So to wrap up, we're pleased with another quarter of strong operating results. Throughout the year, we've been pointing out the various sources of significant uncertainty in all of those, including the geopolitical situation, economic outlook, rate environment, deposit reprice, and the impact of the Basel III endgame proposal are as prominent now as they have been in the recent past. But as always, we continue to prepare for a range of scenarios and are focused on being there for our clients and customers when they need us most.",
+    "start": 1017.63,
+    "end": 1065.83
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And with that, let's open the line for Q and A.",
+    "start": 1066.31,
+    "end": 1069.11
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Sure. Thanks, John. I think the themes are pretty much the same as we've seen in prior quarters. So as we talked a little bit about on the press call, we've been trying to be a little bit cautious about recognizing that we don't think the current levels are sustainable, and we do think that we'll have to reprice in some pockets to some degree, maybe tiering or whatever, at some point in the future. And of course that hasn't happened yet this year, so that's one factor.",
+    "start": 1112.815,
+    "end": 1137.445
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "In the meantime, the CD strategy is working well. We're going to continue to get very good feedback from the field, and we're capturing money in motion. And so we're seeing the sort of internal migration and the associated slow increase in deposit rate paid as a result of CD migration, but that's sort of working as we would have hoped, and so everything is kind of playing out according to plan, I would say. In terms of hire for longer, I think it just means that, you know, there will continue to be upward pressure on deposit pricing, both from internal migration and possibly from other effects. And in the end, as we always say, we're going to price products as a function of the competitive market environment.",
+    "start": 1137.605,
+    "end": 1181.09
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, I think I would say that while we're not predicting higher rates, and I'm sure Jamie will have something to say here, we believe in being prepared for it, and that's been our position for some time, and of course that's good results. And we continue to try to position ourselves so that neither significantly higher rates nor significantly lower rates present a particularly large challenge to the company. So probably at the margin, we're still a little bit biased for slightly higher rates, but do keep in mind that when modeling the duration of the balance sheet, higher rates do extend the duration, or rather shorten the duration on the deposit side, so that can be a factor as well.",
+    "start": 1193.945,
+    "end": 1235.145
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yes, a good question. I mean, as you know, obviously, the current levels in investment banking remain quite depressed, certainly relative to the very elevated levels that we saw during the pandemic, but even relative to sort of twenty nineteen, which is what you might consider the last normal year. We do eventually think we'll recover to those levels and hopefully recover to above those levels, recognizing that by the time it happens we will have had many years of economic growth in the meantime. And to be fair, while the current environment is a little bit complicated and mixed and there are some headwinds, as you pointed out, things have improved a little bit, and I think I would say our banking team is a little bit more optimistic than they were last quarter. So it feels to me like a little bit of a slow grind with some positive momentum, but obviously significant uncertainty in the outlook and some structural headwinds given lower levels of announced M and A and some regulatory headwinds on that side.",
+    "start": 1273.72,
+    "end": 1330.08
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, those are all good questions, Steve. I think it's probably too early to try to provide that level of quantification on either front. If I start first with the Puzzle three Endgame proposal, from our perspective, we're currently focused on advocating as aggressively as possible for the necessary changes, some of which are what you might call philosophical in nature or some of things I highlighted in my prepared remarks. But some of them are sort of very technical in nature, including things that we think might actually be mistakes on the proposal. And so talking a lot about optimizing away stuff that might change just feels like a bit premature at this point.",
+    "start": 1358.535,
+    "end": 1398.585
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "I would point out that given how significant operational risk RWA is as part of the proposal, you can think of that sort of as a generic tax across the entire spectrum, and it's therefore, in some sense, non optimizable. So we feel that it's important to manage expectations about the level of optimization that's possible once the rule is finalized, and hopefully some of these technical items are addressed. Also, it depends on your definition of optimization. Sometimes I use the term costless optimization, where it's just technical fixes that don't affect revenue and don't require you to exit businesses. I think that type of optimization will be harder to find than it has been in the past.",
+    "start": 1399.305,
+    "end": 1442.38
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "But, you know, as we pointed out, we may simply need to exit things. And that will be because it is better than the alternative, which would be to do activity that's shareholder value destructive, but it won't be costless. A good example of that is the renewable energy tax credit investment business, which as a result of the quadrupling of the risk weight may no longer make sense. Now that's one that we hope will be changed, but it's tricky because those are very long duration assets, so between now and the rule is finalized, it raises some questions about whether we want to put that stuff on the balance sheet. So sorry, a bit of a long answer, but then, yeah, on quantifying CECL and CCAR, I think we better wait for that one, because given the relative lack of transparency that we have into the Fed's exact modeling in terms of which quarter is the peak and so on and so forth, it's a little bit hard to predict what the exact impact of putting CECL on CCAR is going to be.",
+    "start": 1442.62,
+    "end": 1498.97
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "We just know probabilistically that it will, like everything else these days, tend to push capital higher.",
+    "start": 1499.61,
+    "end": 1505.4149
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yes. On the central scenario, you should read the research that gets put out by your competitors and our excellent research team. No, but in all seriousness, I think our US economists had their central case outlook to include a very mild recession with, I think, two quarters of negative zero five percent of GDP growth in the fourth quarter and first quarter of this year. And that then got revised out early this quarter to now have sort of modest growth, I think around one percent for a few quarters into 'twenty four. So just flowing that through our process while acknowledging that we're still skewed to the downside, we're still reserved to a significantly higher unemployment rate on a weighted average basis than is in the central case outlook.",
+    "start": 1542.13,
+    "end": 1589.885
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "So that number, which we've sometimes given you, is five point five percent this quarter. So it's really not much more complicated than that, we're just kind of following the process. And I think your other question was where am I seeing softness in credit? And I think the answer to that is actually nowhere, roughly, or certainly nowhere that's not expected, meaning we continue to see the normalization story play out in consumer more or less exactly as expected. And then, of course, we are seeing a trickle of charge offs coming through the office space.",
+    "start": 1589.885,
+    "end": 1626.26
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "You see that in the charge off number for the commercial bank, but the numbers are very small and more or less just the realization of the allowance that we've already built there.",
+    "start": 1626.26,
+    "end": 1635.22
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, so I'll let Jamie speak for himself on that point, but our job is to advocate. We're not going to guess what the sentiment is in Washington. It's a one thousand page rule proposal, as you know. We've got a big team of very smart people studying it very closely. You know, interestingly, we noted recently that in some of the analysis that they did about impact on lending, they sort of forgot about like a billion dollars the Fed in their preamble, they forgot about a billion dollars of operational risk RWA.",
+    "start": 1669.135,
+    "end": 1702.455
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "So it just highlights that there is the possibility, or seemed to have forgotten, they simply omitted the impact of the operational risk RWA on fees. So anyway, the point is, as long as it's complicated, it's technical. We do think there are probably some technical mistakes in there. We're going to forcefully advocate on all of those. And, you know, while we disagree with a lot of this stuff, these are technical issues that should be in some sense resolved technically, and, you know, hopefully they'll listen.",
+    "start": 1702.455,
+    "end": 1734.755
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "a correction on the rum. I meant to say trillion.",
+    "start": 1740.85,
+    "end": 1743.25
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, a couple of things. So let me do the timing question first. So we're being very clear that we are not predicting When is going to be a function of the marketplace and the rate environment and competitive dynamics and so on and so forth. So we're just really just trying to remind everyone to not bank on the current run rates, which we just don't think are sustainable. You'll be aware that before Investor Day earlier this year, we tried to quantify what we thought that kind of normalized range might look like, and we put a sort of mid 70s type number out there.",
+    "start": 1785.755,
+    "end": 1821.7499
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And at Investor Day, we talked about how the acquisition of First Republic was going to push that number up a little bit, although there was some overlap and so on and so forth. So anyway, with the benefit of time and having everything settled in a little bit, if you sort of push us for that of what does that number now look like, we think it's probably closer to about eighty, with all the obvious caveats that this is a guess and we don't know when, but we're just trying to point out that it's quite a bit lower than the current run rate. Got it.",
+    "start": 1822.1499,
+    "end": 1855.7399
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "Inside the company, some people think it will happen sooner, I. E. Me. Some people think it will happen later, I. E.",
+    "start": 1856.3799,
+    "end": 1863.1799
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "Jen and Mary Anne and Jeremy.",
+    "start": 1863.1799,
+    "end": 1864.46
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "I wasn't aware that I was in that camp, But I don't know. I don't know if I'm trying",
+    "start": 1864.635,
+    "end": 1868.395
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "have an opinion on that.",
+    "start": 1868.395,
+    "end": 1869.595
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, sure. So on loan growth, the story is pretty consistent with what we've been saying all year. So we've, of course, seen very robust loan growth in card, and that's coming from both spending growth and the normalization of revolving balances. As we look forward, we're still optimistic about that, but it'll probably be a little bit more muted than it has been during this normalization period. In auto, we've also seen pretty robust loan growth recently, both as a function of slightly more competitive pricing on our side as the industry was a little bit slow to raise rates, and so we lost some share previously, and that's come back now.",
+    "start": 1890.655,
+    "end": 1931.77
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Generally the supply chain situation is better, so that's been supported. As we look forward there, it should be a little bit more muted. And I think generally in wholesale, the loan growth story is going to be driven just by the economic environment. So depending on what you believe about soft landing, mild recession, no landing, you have slightly lower or slightly higher loan growth. But in any case, I would expect it to be relatively muted.",
+    "start": 1933.85,
+    "end": 1960.155
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And of course, home lending remains fairly constrained both by rates and market conditions, but also, and I think this is true across the board, we will be managing things actively, as mentioned, in Litopausal III, which may not change originations, but it will change what we retain.",
+    "start": 1960.86,
+    "end": 1982.7749
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yes, Gerard, I'd say a couple of things there. So first, it's not just credit, it's also deposit margin, right? So when we talk about over earning on NII, a disproportionate amount of that is coming out of the consumer franchise for all the reasons that we've talked about. But I would also point out, sometimes we don't like the word over earning because right now customers are happy and they're doing CDs. And the broader answer to your question about why we're able to do it effectively really comes back to a decade, two decade long history of investing for the future and recognizing that there's a holistic value proposition here that includes branches and the app and all the online services and the entire suite of products and services that is around this enterprise, which drives engagement and customer loyalty.",
+    "start": 2042.105,
+    "end": 2091.2551
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And we're seeing some of the benefits of that now, although we're not complacent. The competition is still there, the fintechs are still there, and we know we need to continue investing to preserve the value. And it's also true that the particular circumstances of the current rate and credit environment mean that the earnings are a little bit above normal, but that core franchise is extremely robust.",
+    "start": 2091.575,
+    "end": 2114.7
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "That's a good question, Gerard. I think it's a little bit bigger picture than that, and I'm not sure I get your question, it's a good question, but I'm not sure that the reported interest bearingnon interest bearing split is the best lens to look at. There's two for a couple reasons. So first, like between wholesale and retail, you know, we've got some amount of non interest bearing and wholesale that's part of the ECR product, and so you see some dynamics there that play out. And in consumer, you know, in a world where savings is paying a relatively low rate paid, a across checking and savings, the migration dynamics are probably not that different right now.",
+    "start": 2158.82,
+    "end": 2193.99
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "But then, of course, even within consumer, across both consumers and small businesses, you've got slightly different dynamics in terms of how people manage their operating balances. So I would tend to zoom out a little bit and see this as a holistic answer that's driven by internal migration from checking and savings to CDs, from ECR to interest bearing and wholesale, and then, you know, our potential response to the rate environment, the competitive environment, the overall level of system wide deposits in terms of product level reprice that may or may not happen at moments in the future.",
+    "start": 2194.15,
+    "end": 2230.9402
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "So Erica, think the simple answer to your question is those I believe that fourth quarter exit number equates to a ninety billion dollars run rate ex markets. We're kind of saying that we twenty two point five. Yeah, that's not what I meant to say.",
+    "start": 2285.82,
+    "end": 2298.635
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "She said twenty two point nine.",
+    "start": 2298.635,
+    "end": 2300.155
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Oh, didn't hear that. Okay. So call it ninety billion dollars run rate on an exit rate basis, and we're saying that we think something a bit more normal is closer to eighty dollars so that's one building block. Underneath that, I think one thing that's interesting actually is that as the percentage of the deposits which are CDs increases, the sort of balance between internal migration and betas and rate and volume is a little bit less binary and a little bit smoother. So when we look at this type of stuff and we model migration, balances, product level reprice, as you get out of that lower zero bound with zero percent CD mix world, things get a little bit smoother, I would say, overall.",
+    "start": 2300.235,
+    "end": 2347.705
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "So it'll be interesting to watch that, but it's obviously one of the most important things for us as a company right now, and we do everything we can to manage it, but it's also worth remembering that the big picture point is just the client franchise. As we've often said, we're very focused on primary bank relationships and we didn't lose any of those in the last cycle. We're not planning to lose any in this cycle, and that's what sort of a long term focus means for us.",
+    "start": 2347.705,
+    "end": 2373.39
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "And I would just say a quantitative tightening there. That will be a large number, and we don't exactly know the effect where wholesale, consumer, as remember, also the Fed has the RRP program, which is also sucking money into the Fed directly, reducing deposits. That's still a trillion too.",
+    "start": 2373.825,
+    "end": 2393.6902
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah. Okay, that's a good question, Erica. I think there's a couple of pieces in there. So let me take the most important piece first, which is the seventeen percent through the cycle target, are we keeping that or not in light of the Basel III endgame proposal? Short answer is we're not going to change that number today, but when you look at what we've disclosed, about a twenty five percent increase in capital, it's not you have to start by acknowledging that that is a major headwind to returns.",
+    "start": 2469.74,
+    "end": 2498.14
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "In simple terms, you talk about earnings power and returns, but they're two different things, right? We have to be a little bit pedantic and do numerator and denominator here. Okay, so say the numerator doesn't change, if you just dilute down the numerator by the increased capital, that's a significantly lower return number. I would say that that's probably the lower bound in terms of the impact of the Basel III endgame for a couple reasons. One is we are hoping for changes.",
+    "start": 2498.94,
+    "end": 2527.6401
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Two is once the rule is final, we will seek to reprice in the places where we can, and that'll be different consumer and in wholesale. Some of it will be product level, some of it will be relationship level. But, you know, that hopefully can mitigate some of it. But of course, the flip side of that is that's cost getting passed into the real economy, and that's part of the point that we've made about lowering availability of products and services in lending. There may be some opportunities for costless optimization.",
+    "start": 2527.96,
+    "end": 2559.87
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "I'm personally a little bit more pessimistic about those, but we've surprised ourselves on those points in the past, so we'll see. And then finally, yeah, we may stop doing certain things and we may exit things. But I wouldn't necessarily assume that that's going to do a lot to preserve returns at the seventeen percent. That's going to be about exiting things that are shareholder destructive, but not necessarily producing much higher returns, if you know what I mean. So that's that.",
+    "start": 2560.27,
+    "end": 2593.4849
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And then the other part of your question implicitly was talking about organic capital generation, and I think it's just very important to separate impacts on the economy and impacts on long term returns from our ability to meet the requirements. Of course, as Jamie always says, JPMorgan is going to be fine, and we're building a lot of capital, and we were managing capital conservatively, and we'll be able to build the necessary capital in order to achieve on time or early compliance, which is always what we strive to do. But that doesn't really have any particular bearing on the question of what the long term return target is or the impacts on the real economy.",
+    "start": 2593.565,
+    "end": 2630.945
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Do you want to start? Okay. So I mean, on green shoots, you know, you'll just note that our comments are cautious. I mean, there is momentum. I do think we are a little bit more optimistic than we were.",
+    "start": 2691.48,
+    "end": 2703.2751
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "But obviously markets have been bumpy, both equity markets and rate markets have been very whippy recently. So we don't want to get too carried away with optimism here. We are coming on and off a very low base, and so there's a hope and an expectation that we are on the path to normalization and improvement, and of course the overall economic picture, at least currently, looks solid. This sort of immaculate disinflation trade is actually happening. So those are all reasons to be a little bit optimistic in the near term, but it's tempered with quite a bit of caution.",
+    "start": 2703.5151,
+    "end": 2737.085
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "I would add caution. There has been an extraordinary amount of fiscal monetary stimulus still in the system. And you can't look at that, of course, it can drive markets and sentiment and sales and profits and all that, but it can't stay like this forever between Q2 if you've never had and how much the fiscal stimulus can continue at this rate before you have kind of the crowding out kind of factors. I I think people have to be very cautious. And of course, geopolitics, I think, is just an extraordinary issue we have to deal with.",
+    "start": 2737.7249,
+    "end": 2772.89
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "How do you prepare the company for that? We do one hundred stress tests a week, and we do multiple views of it, including geopolitical problems, interest rate problems, but usually geopolitics presents itself as usually as a deep recession or a mild recession, recession part of the world or markets going down a lot. And because markets do well, there's not a reason ever to say they could continue to do well. If you don't believe me, remember nineteen eighty seven, nineteen ninety, nineteen ninety four, the year two thousand, the year two thousand and nine, and people don't predict those inflection points. I just, but my caution is that we are facing so many uncertainties out there.",
+    "start": 2772.89,
+    "end": 2818.385
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "You just gotta be very cautious of what you're facing. And like I said, the other thing about the green shoots, regardless of that, we try to run the company so that we serve the clients day in and day out, better products and better services securely, safely and all those things. And that's the ultimate goal. We know there are going to be bad times. That's not a surprise to us that there are going be bad times.",
+    "start": 2818.385,
+    "end": 2840.95
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "We don't always know they're coming or where they're coming from, but we can keep on serving clients and doing good service with clients, you can build a good business kind of separate from what it does to your returns. That's a slightly different issue at this point, but we'll deal with that too when we figure out what to do.",
+    "start": 2840.95,
+    "end": 2855.495
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yes, let me do digital banking, Mike. I spent some time on this actually a couple weeks ago, and it's interesting to note this sort of extent to which the growth in digitally engaged consumers is higher than the overall growth in consumer accounts, meaning that you're continuing to increase the percentage of our consumers that are digitally engaged. And it sort of goes back to my prior",
+    "start": 2921.24,
+    "end": 2943.76
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "point about The percent who are digital only is much lower than that. For sure,",
+    "start": 2943.76,
+    "end": 2948.96
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "for sure. Which actually links to the broader point that, you know, what in terms of your question about how much is this helping the current NII story, it goes to the larger point of a holistic, through the cycle, multichannel, fully engaged customer strategy, which requires a lot of investment in branches, obviously, but also in digital services of all sorts. So in many ways, you you can see the current environment as a little bit of a payoff of that investment, but that's not like, therefore, we stop investing, obviously. Obviously. So I guess that's part of the answer.",
+    "start": 2949.1199,
+    "end": 2989.3252
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And I guess your other question is, you know, the benefits of being the biggest tech spender. I just think, like, it's sort of mandatory, right? I mean, we're big, and it's a very technology centric business, and the world is competitive, and everything's changing. Younger generations have different expectations, and we have to be nimble, and we have to be on our front foot. And otherwise, you know, we risk getting severely disrupted.",
+    "start": 2989.565,
+    "end": 3016.5952
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "I don't know if Jamie wants to add anything.",
+    "start": 3017.0752,
+    "end": 3018.675
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "The competition, when we look at it, it's Wells, you know, who's coming back, which I'm happy for you guys. It's obviously Marcus, it's Apple, it's Chime, it's Dave, it's you know, there are a lot of people coming up with these businesses in different ways. Some have been quite successful. It's Stripe and Payments, so we want to be very good and very competitive. Some of that tech spending is things which are almost a sine qua non, which is cybersecurity, data center resiliency, regulatory requirements, and things like that, which we simply are going to do and be very, very good at to protect the company.",
+    "start": 3018.675,
+    "end": 3054.8452
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "I don't agree with that statement. Banks have an extraordinary amount of proprietary data. In addition to when you do like a large language model, that's public data. It's got, you know, looking at everything in the Internet or everything that's ever been published or something like that. But AI is an extraordinarily good tool to use.",
+    "start": 3075.695,
+    "end": 3094.34
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "We just put a woman who's running it at our table, so it's data analytics, AI, etcetera, and there are multiple types of AI. So we use AI for risk, fraud, marketing, prospecting, and the management team's getting better and better to say, how can we use the data to do a better job to reduce errors, to serve clients better, to have a salesperson have copilot so they know why even the client's calling or something like that. So we simply have to do it. Does it create opportunity for for disruptors to come in? Yeah, of course.",
+    "start": 3095.445,
+    "end": 3127.965
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "That's always been true with technology, but we'll be quite good at it.",
+    "start": 3128.125,
+    "end": 3132.925
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yes, no, because you did ask a little bit about the expense outlook for next year. So I think at the conference we said I think the consensus was eighty eight billion dollars but we're still going through the budget process, etcetera, etcetera. So that's still true. I think we're still kind of in the ballpark, but I would say at the margin there's going be a little bit of upward pressure.",
+    "start": 3143.7202,
+    "end": 3161.335
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "Yeah, for public too or no?",
+    "start": 3161.335,
+    "end": 3162.695
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, this is all now including First Republic, and I think there'll be a little bit of upward pressure on that as we sort of do our usual thing and look at all the opportunities that we see and the investments that we want to make. So no surprise in that sense that we're going to invest prudently. Nothing dramatic, but probably little bit of upward pressure on the margin.",
+    "start": 3162.695,
+    "end": 3182.0852
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "Can I just answer it real quickly? We don't really know. It's a one-sided conversation generally. They say put in your comments, so everyone's going to put in extensive comments, kind of like you heard from Jeremy, and we don't really know. We don't really know what's going on inside the Fed, how many people get involved.",
+    "start": 3210.705,
+    "end": 3227.93
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "In my view, it's become a very politicized process as opposed to the technical analysis I think is required to do it exactly right. So we'll see.",
+    "start": 3227.93,
+    "end": 3236.97
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "So if you look at markets alone, it's a huge, I think, sixty percent increase in capital. And if you look at it, you can do that by product. For some products it's worth it for others, but generally it's bad across all products. Market making, but the really important thing is market making is a critical function. And if you look at the world, there are only so many large market makers who can make markets for governments, hospitals, cities, schools, states, IMF, World Bank, BlackRock, Blackstone, and all those various things who buy and sell for their clients in size.",
+    "start": 3266.625,
+    "end": 3303.895
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "And market makers have a different function than hedge funds, And I don't know what the real intent was with this. This is another one I think needs to be really thought through, what are trying to accomplish? We do market making quite safe. We've never lost the kind of money that people talk about in market making in the global market shock or something like that. But the other thing about market making, I do agree, it could actually force some people out.",
+    "start": 3303.895,
+    "end": 3329.0251
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "It will force lower positions, which is why I think it's a little risky, but it may also force more consolidation. And so clients, since they need it so much, there may be consolidation in unintended way in market making. And obviously more volatile markets because with all the constraints, the LCR, SLR, capital, etcetera, you will constantly be up against limitations in what you can do.",
+    "start": 3329.185,
+    "end": 3354.025
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah, and I think that last point of Jamie's is particularly important because, sure, if you want you can construct what I would consider a very optimistic argument that the higher cost of doing business will lead smaller scale players to exit, and that's a share gain opportunity for us. But if I refer back to the comments about the disincentives to beneficial diversification scale, getting bigger, especially in markets, is quite expensive from, for example, a GSIB perspective. And so you wind up kind of hemmed in on all sides, which is one of the reasons why we're sort of highlighting that it does seem like, you know, the only way out sometimes when you look at the cumulative effect of everything that's happened in markets over the last fifteen years is a fundamentally very different system. And, you know, while obviously",
+    "start": 3354.825,
+    "end": 3403.9502
+  },
+  {
+    "speaker": "Jamie Dimon",
+    "text": "Great opportunity for European market makers. Mean, a great opportunity. Like, they can do repo and FX and swaps and credit and stuff, you know, with thirty percent less capital. That is a big difference in, you know, that kind of business.",
+    "start": 3404.1902,
+    "end": 3417.975
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yes. I mean, wish I had sort of an answer that fit better into your framework, but in some fundamental sense we just kind of don't agree with the framework in the sense that, and we've been through this over the last couple of years, right? In a world where rates drop very suddenly and recover quite dramatically and credit becomes abnormally good and then rebounds and you've seen these very significant fluctuations in capital markets. We saw that twenty twenty one going into twenty twenty two, where the revenue environment can change a lot in the short term for reasons that can be largely out of your control. And while of course there are parts of our expense base which are in the short term directly sensitive to the revenue environment, and some of those adjust naturally and some of them we adjust more forcefully as a function of volumes, but other things are much more structural.",
+    "start": 3467.465,
+    "end": 3519.8052
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And the goal is to make sure that those other things are sized appropriately to what we believe sustainable through the cycle returns are. So we're always very focused on costs, you can be rest assured of that. That discipline internally is as aggressive as ever as we go through the budget cycle, but they're long term plays. And, you know, you really shouldn't expect us to see trying to generate cosmetically lower costs in response to a lower revenue environment where we didn't balloon the costs when the revenue became, as we've argued, unsustainably high.",
+    "start": 3519.8052,
+    "end": 3554.975
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "Yeah. So you're right about the contribution and about the runoff of loans, and it is notable, the net income, the First Republic related net income that we printed this quarter. So the first thing to say is that we don't think that that First Republic related net income number from this quarter is sustainable indicator of the future run rate. Some of the same dynamics that we've just talked about, in particular over earning on deposits or sort of above normal deposit margins, also apply to the First Republic franchise to some degree, so we would expect that to normalize. And probably more significantly, as I think you alluded to, we do have some accelerated pull to par on some of the commitments that we took on at a fair value discount as part of the acquisition, so that's a short term tailwind in the revenue that will come out of that over the next few quarters.",
+    "start": 3573.965,
+    "end": 3621.09
+  },
+  {
+    "speaker": "Jeremy Barnum",
+    "text": "And yeah, in terms of how it's going overall and deepening the relationships, that remains a focus, and I think more of that will happen as we continue the integration and we continue stabilizing. And yeah, I think as I said, I think on the press call, things are going well, arguably a little bit better than we'd sort of modeled as part of the acquisition, and we're happy to see that.",
+    "start": 3622.1301,
+    "end": 3645.385
+  }
+]

@@ -1,0 +1,279 @@
+Q4 2023 Earnings Call
+Company Participants
+Chantelle Breithaupt, Chief Financial Officier
+Ita Brennan, Chief Financial Officer
+Jayshree V. Ullal, Chief Executive Officer and Chairperson
+Liz Stine, Director of Investor Relations
+Unidentified Speaker
+Other Participants
+Aaron Rakers, Analyst, Wells Fargo
+Alex Henderson, Analyst, Needham and Company
+Atif Malik, Analyst, Citi
+Ben Reitzes, Analyst, Melius Research
+Ittai Kidron, Analyst, Oppenheimer
+James Fish, Analyst, Piper Sandler
+Karl Ackerman, Analyst, BNP Paribas
+Matt Niknam, Analyst, Deutsche Bank
+Meta Marshall, Analyst, Morgan Stanley
+Sebastien Naji, Analyst, William Blair
+Tal Liani, Analyst, Bank of America
+Tim Long, Analyst, Barclays
+Presentation
+Operator
+Welcome to the Fourth Quarter 2023 Arista Networks' Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. (Operator Instructions) As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website, following this call. Ms. Liz Stine, Arista's Director of Investor Relations, you may begin.
+
+Liz Stine{BIO 22543302 <GO>}
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' Chairperson and Chief Executive Officer; Ita Brennan, Arista's outgoing Chief Financial Officer; and Chantelle Breithaupt, Arista's incoming Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its fiscal fourth quarter ending December 31st, 2023. If you'd like a copy of this release, you can access it online from our website. During the course of this conference call, Arista Networks' management will make forward-looking statements, including those relating to our financial outlook for the first quarter of the 2024 fiscal year, longer-term financial outlooks for 2024 and beyond, our total addressable market and strategy for addressing these market opportunities, including AI, customer demand trends, supply chain constraints, component costs, manufacturing output, inventory management and inflationary pressures on our business, lead times, product innovation, working capital optimization and the benefits of acquisitions, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements.
+
+These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release. With that, I will turn the call over to Jayshree.
+
+Jayshree V. Ullal{BIO 1737637 <GO>}
+Thank you, Liz. Thank you, everyone, for joining us this afternoon for our fourth quarter 2023 earnings call. 2023 has been another memorable year for Arista. We gave initial guidance of 25% year-over-year revenue growth and instead achieved well beyond that at 33.8%, driving revenue to $5.86 billion, coupled with a record non-GAAP earnings per share for the year of $6.94, up in excess of 50% annually. Back to some Q4 specifics. We delivered revenues of $1.54 billion for the quarter, with a non-GAAP record earnings per share of $2.08 due to a one-time favorable tax rate. Services and software support renewals contributed approximately 17% of revenue. Our non-GAAP gross margins of 65.4% was influenced by improving supply chain and greater enterprise mix.
+
+International contributions for the quarter registered 22.3% with the Americas at 77.7%. This was one of our strongest-performing international quarters in recent history. Shifting to annual sector revenue for 2023. Cloud titans contributed significantly at approximately 43%. Enterprises, including financials was strong at approximately 36%, while the providers were at 21%. Both Meta and Microsoft are greater than 10% customer concentration at 21% and 18%, respectively. Despite multiple CapEx reductions last year and the normal volatility of cloud titan and AI pivot, we cherish our privilege status with both M and M. Speaking of AI, in fall of 2023, Andy and I attended the 50th golden anniversary of Ethernet at the Computer History Museum. It truly is a reminder of how familiar and widely deployed Ethernet is with the speed increasing by orders of magnitude from a share position, 2.95 megabits for file printed share to a terabit Ethernet switching in the AI and ML era.
+
+AI workloads are placing greater demand on Ethernet, as they are both data and compute-intensive across thousands of processes today. Basically, AI at scale needs Ethernet at scale. AI workloads cannot tolerate the delays in the network, because the job can only be completed after all flows are successfully delivered to the GPU clusters. All it takes is one culprit of worst-case link to throttle an entire AI workload. Three, improvements are being pioneered by Arista and the founding members of the Ultra Ethernet Consortium to improve job completion time. Number one, packet spraying, AI network topology needs packet spraying to allow every flow to simultaneously access all parts of the destination. Arista's developing multiple forms of load balancing dynamically with our customers.
+
+Two is flexible ordering P2 and AI job completion is the rapid and reliable bulk transfer with flexible ordering using Internet links to optimally balance AI-intensive operations, unlike the rigid ordering of InfiniBand. Arista is working closely with its leading mix vendors to achieve this. Finally, network congestion. In AI networks, there's a common in cause congestion problem whereby multiple uncoordinated senders can send traffic to the receivers simultaneously. Arista's platforms are purpose-built and designed to avoid these kind of hotspots, evenly spreading the load across multi-packs across our virtual output queuing, VoQ lossless fabric.
+
+In terms of annual 2023 product clients, our core, which consists of cloud AI and datacenter products are built upon our highly differentiated Arista Extensible Operating software system stack. It is successfully deployed across 10, 25, 100, 200 and 400 gig speeds. Our cloud networking products deliver power-efficient, high availability zones without doubling the cost of redundancy as datacenters demand insatiable bandwidth capacity and network speeds for both the front-end and back-end storage and compute clusters. The core drove approximately 65% of our revenue. We continue to gain share in our highest performance switching of 100, 200 and 400 gig ports to obtain the number one position, at approximately 40-plus percent, according to industry analysts.
+
+We have increased our 400-gig customer base from 600 customers in 2022 to approximately 800 customers in 2023. We expect both 400 and 800 gigabit Ethernet will emerge as important pilots for AI back-end GPU clusters. We are cautiously optimistic about achieving our AI revenue goal of at least $750 million in AI networking in 2025. Our second market is network adjacencies comprised of routing, replacing routers and our cognitive campus workspaces. We continue to make progress in campus aiming for the $750 million revenue by 2025 that we have shared at many Analyst Days. Our investments in cognitive wired and wireless, zero-touch provisioning and the introduction of AGNI, Arista Guardian for Network Identity as well as AVA sensors for threat mitigation is resonating well with our campus customers.
+
+The post-pandemic campus is seeking network as a service overlay and zero-trust network embedded in with high availability, observability and consistency across our OS and management domains. We are also successfully deployed in many routing edge and pairing use cases. Just in 2023 alone, we introduced six EOS software releases across 600 new features and 50 platforms. In fall of 2023, we introduced our WAN routing system with a focus on scale, encryption and WAN transit routing capabilities. It has positioned us well, giving our customers a seamless enterprise LAN and WAN portfolio. The campus and routing adjacencies together contribute approximately 19% of revenue. Our third category is network software and services based on subscription models such as Arista A-Care, CloudVision, DANZ Monitoring Fabric or DMF observability and advanced threat sensors for network detection and response.
+
+Arista's subscription-based network services and software contributed approximately 16% of the total revenue. We surpassed 2,400 cumulative customers with CloudVision pivotal to building a modern operating model for the enterprise. Please note that perpetual software licenses are not included here and accounted inside the core or adjacent markets. March 2023's headline has been mostly about AI. We are pleased with the momentum of enterprise and provider customers as well. Arista continues to diversify its business globally with multiple use cases and verticals. We have more than doubled our enterprise revenue in the last three years and we are becoming the gold standard for client to cloud to AI networking with one EOS and one CloudVision foundation.
+
+Our million-dollar customer logos increased steadily in 2023 at approximately 35% as a direct result of our campus and enterprise momentum. Three principles continue to differentiate us as we are poised to be a market-share gainer in the enterprise. One, best-in-class, highly available proactive products with resilience and hitless upgrades at multiple levels. Two, zero-touch automation for predictive client-to-cloud one-click operations that relies less on human staff or manual operations and is instead software-driven. And finally, prescriptive insights based on AIML autonomous virtual assist, AVA algorithms for increased security, observability and root cause analysis. Our foundational and network data lake architecture and the ability to gather, store and process multiple modalities of network data is the only way to reconcile all the incongruent silos for network operators. While legacy vendors that are 30 to 40 years old, our aiming for consolidation, Arista remains the only pure-play networking innovator earning top spots in Forrester Wave's programmable switching and customer validation in Gartner's voice of customer for campus in 2023. In December 2023, we conducted one of our largest customer events called Innovate in Vegas. Well, not my most favorite location, our customers and prospects founded very exciting and compelling for their network transformation initiatives. They resonate deeply with our Arista 2.0 vision building best-of-breed, data-driven networking platforms.
+
+In summary, as we wrap up another fantastic year in 2023, I am so proud of the team's execution across multiple dimensions. They have all worked tirelessly to improve our operational metrics such as lead times, gross margin and on-time shipments. Simply put, we outpaced the industry in quality, support and innovation. We set the direction for the future of networking working intimately with our strategic customers. Despite limited visibility at this time, we reiterate our double-digit growth of 10% to 12% from Analyst Day, aiming for approximately $6.5 billion in 2024. With that, I'd like to turn it one last time to review our financial metrics with Ita Brennan. Ita?
+
+Ita Brennan{BIO 16651666 <GO>}
+Thanks, Jayshree and good afternoon. This analysis, our Q4 and full year 2023 results and our guidance for Q1 2024 is based on non-GAAP and excludes our non-cash stock-based compensation impacts, certain acquisition-related charges and other nonrecurring items. A full reconciliation of our selected GAAP to non-GAAP results are provided in our earnings release. Total revenues in Q4 were $1.54 billion, up 20.8% year-over-year and towards the upper end of our guidance of $1.5 to $1.55 billion. Services and subscription software contributed approximately 17% of revenue in the fourth quarter, up from 16.8% in Q3. International revenues for the quarter came in at $343.5 million, or 22.3% of total revenue, up from 21.5% last quarter.
+
+This quarter-over-quarter increase largely reflected a healthy contribution from our in-region EMEA customers. Overall gross margin in Q4 was 65.4%, well above our guidance of approximately 63%, and up from 63.1% last quarter. As a recap for the year, we continue to see incremental improvements in gross margin quarter-over-quarter with higher enterprise shipments and better supply chain costs, somewhat offset by the need for additional inventory reserves as customers refine their forecast product mix. Operating expenses for the quarter were $262.7 million or 17.1% of revenue, up from last quarter at $255.6 million. R&D spending came in at $165 million or 10.7% of revenue consistent with last quarter, but reflecting lower level of new product introduction costs versus what we experienced in the first half of 2023 and what we expect for the first half of 2024.
+
+This reflects the timing of prototype and other costs associated with the development of next-generation products. Sales and marketing expense was $83.4 million or 5.4% of revenue, up from $79 million last quarter, with increases -- increased sales compensation and travel costs. Our G&A costs came in at $14.3 million or 0.9% of revenue, up from $12.1 million last quarter reflecting some seasonal fourth-quarter spending. Our operating income for the quarter was $744 million or 48.3% of revenue. Other income and expense for the quarter was a favorable $54.5 million and our effective tax rate was 16.8%. This slower-than-normal quarterly tax rate reflected the release of tax reserves due to the expiration of the statute limitations and some true-up of jurisdictional earnings mix. This resulted in net income for the quarter of $664.3 million or 43.1% of revenue.
+
+Our diluted share number was $318.85 million shares, resulting in a diluted earnings per share number for the quarter, up $2.08, up 47.5% from the prior year. Now turning to the balance sheet. Cash, cash equivalents and investments ended the quarter at approximately $5 billion. We did not repurchase shares of our common stock in the quarter. To recap our repurchase program to date, we have repurchased $855.5 million or 8 million shares at an average price of $107 per share under our current $1 billion Board authorization. This leaves $144.5 million available for repurchase in future quarters. The actual timing and amount of future repurchases will be dependent on market and business conditions, stock price, and other factors.
+
+Now turning to operating cash performance for the fourth quarter. We generated approximately $526.5 million of cash from operations in the period, reflecting strong earnings performance combined with some increase in deferred revenue offset by reductions in taxes payable. DSOs came in at 61 days, up from 51 days in Q3, second, the timing of shipments and seasonal strength and service renewal billings. Inventory turns were 0.07 times, down slightly to 1.1 last quarter. Inventory increased slightly to $1.95 billion, reflecting the ongoing receipt and consumption of components from our purchase commitments and an increase in switch-related finished goods. Our purchase commitments at the end of the quarter were $1.59 billion, down from $2 billion at the end of Q3. We expect to continue to reduce our overall purchase commitment number. However, we will maintain a healthy position related to key components, especially as we focus on new products.
+
+Our total deferred revenue balance was $1.51 billion, up from $1.195 billion in Q3. The majority of the deferred revenue balance and services related and directly linked to the timing and term of service contracts, which can vary on a quarter-by-quarter basis. Our product deferred revenue balance increased approximately $153 million over last quarter. This was ahead of our expectations for the quarter and yet again shows this balance can move significantly on a quarterly basis. As of now, we expect its balance declined somewhat in Q1 '24, but still be up significantly from Q3 '23 levels. Accounts payable days were 72 days, up from 44 days in Q3 and second, the timing of inventory receipt payments. Capital expenditures for the quarter were $6 million. I would now like to turn the call back to Jayshree. Jayshree?
+
+Jayshree V. Ullal{BIO 1737637 <GO>}
+Thank you, Ita. First of all, for an incredible eight and a half years as our Chief Financial Officer, we're going to miss you a lot and wish you all the best in your next innings. And if you ever miss an earnings call, please come, we'll invite you for one. Now, to describe our Q1 2024 guidance, it's my pleasure to introduce our incoming Chief Financial Officer, Chantelle Breithaupt for her very first earnings call at Arista. Welcome, Chantelle.
+
+Chantelle Breithaupt{BIO 22176833 <GO>}
+Thank you, Jayshree. Ita, congratulations on all that you've achieved during your tenure with Arista. Your partnership during our transition is greatly appreciated. Since joining Arista, I've been impressed by both the outstanding leadership team and the highly innovative engineering team and both serve a set of marquee customers that are redefining the future of networking. Arista began shipping products in 2008 and in 15 years, the annual bandwidth of the datacenters has grown 350 overall [ph]. And just the past two years, the annual bandwidth has doubled with Arista shipping a cumulative 75 million ports in that timeframe. Our acceleration of the data center switching market in recent quarters is evidenced by our market-share gains in the 20-plus percent range of both ports and dollars. I am thrilled to be joining Arista is such an exciting time.
+
+Now turning to our outlook for the first quarter of 2024 and the remainder of the fiscal year. We remain confident with our Analyst Day view which calls for fiscal year 2024 revenue growth of 10% to 12%. This reflects our outlook for moderated cloud spending after multiple years of accelerated growth combined with a continued growth trajectory in the enterprise business. For gross margin, we reiterate the range for the fiscal year of 62% to 64%, with tier-one '24 expected to be at the lower end due to a heavier cloud mix including some expected release of deferred revenue. In terms of spending, we expect to invest in gross spending faster than revenue, in line with our Analyst Day view, with an operating margin of approximately 42% in 2024.
+
+This incremental investment may include go-to-market resourcing and increased new product introduction costs to support our product roadmap. This latter trend is already evident in Q1 '24 as R&D is expected to rebound from the unusually low levels in the second half of 2023. On the cash front, we will continue to work to reduce our working capital investments and drive some further reduction in inventory as we move through the year. Our structural tax rate is expected to remain at 21.5%, back to the usual historical rate, up from the unusually low one-type rate of 16.8% experienced last quarter Q4 FY '23. With all of this as a backdrop, our guidance for the first quarter, which is based on our non-GAAP results and excludes any non-cash stock-based compensation in tax and impacts and other non-recurring items is as follows. Revenues of approximately $1.52 to $1.56 billion, gross margin of approximately 62% and operating margin at approximately 42%. Our effective tax rate is expected to be approximately 21.5%, with approximately 319.5 million diluted shares. In summary, I'm excited to lead Arista 2.0 journey as CFO. We will migrate our best-of-breed products to best-of-breed data-driven platforms, enabling our impressive TAM of $60 billion. With that, I'll now turn the call back to Liz for Q&A. Liz?
+
+Liz Stine{BIO 22543302 <GO>}
+Thank you, Chantelle. We will now move to the Q&A portion of the Arista earnings call. To allow for greater participation, I'd like to request that everyone please limit themselves to a single question. Thank you for your understanding. Operator, take it away.
+
+Questions And Answers
+Operator
+Thank you. We will now begin the question-and-answer portion of the Arista earnings call (Operator Instructions) Your first question comes from the line of Aaron Rakers from Wells Fargo. Please go ahead, your line is open.
+
+Q - Aaron Rakers{BIO 6649630 <GO>}
+Yeah, thanks for taking the question. And Ita, it's been great working with you, wish you the best in retirement. I guess my question is, Jayshree, just obviously the focus on AI and the build-out, the back-end networks based on 400 and 800 gig Ethernet. I'm just curious like as you -- as we progress through these last three months, how has your views evolved? And just remind us of the cadence of kind of product cycles that really set the table for Arista and this AI opportunity as we move through '24 and in particularly in the '25? Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Thank you, Aaron. And yes, we will all miss Ita. So our AI performance continues to track well for the $750 million revenue goal that we set last November at Analyst Day. To give you some color on the last three months, I would say, difficult to project anything in three months, but if I look at the last year, which may be last 12 months is a better indication, we have participated in a large number of AI bids. And when I say large, I should say they are large AI bids, but they are small number of customers actually to be more clear. And in the last four out of five AI networking clusters we participated on Ethernet versus InfiniBand, Arista has one, all four of them for Ethernet. One of them still stays on InfiniBand. So these are very high-profile customers, we are pleased with this progress. But as I said before, last year was a year of trials, this is the year of pilots and true production truly sets in only in 2025.
+
+Operator
+Great. Your next question comes from the line of Tal Liani from Bank of America. Please go ahead.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Hi. I'm trying to find a -- because we don't have the backlog contribution of last year, I'm trying to kind of dissect the numbers and see what's the correlation with core data center business and traditional compute. So if service sales -- service sales cycle is low and we see some declines in servers, does it mean that, at least in the short run excluding the backlog contribution, there is also a decline in the orders. Just how does it work between server demand and switching demand? Thanks.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, so, Tal, first of all, as you know, Ita and I or Chantelle and I would never really comment on bookings, orders, we find these all to be kind of useless metrics because ultimately what matters is what we ship, which is revenue. But just to sort of answer your question on ratio of CPUs or for that matter, GPUs in the future to the network, typically, we have to have the CPUs or GPUs come in before we can outfit the network. They kind of go hand-in-hand, but as you know in AI, we've been waiting for the GPUs and in the last couple of years, they've been waiting for everything with the long lead times. But I would say generally in the leaf architecture, they go hand-in-hand, where you have to create a rack of 1,000 servers or whether they're CPUs and GPUs. And generally, they look to rack and stack the cable, the CPUs and the network together; on the spine, which is our -- which connects all of our leaf, that decision can be made independently, even if the processors are not available. So on the leaf, it's more correlated; on the spine, it's not.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Great. Thank you.
+
+Operator
+Thank you. Your next question comes from the line of Sebastien Naji from William Blair. Please go ahead, your line is open.
+
+Q - Sebastien Naji{BIO 20272118 <GO>}
+Great. Thank you. I just wanted to start and echo everyone's commentary and wish you the best, Ita, it's been a pleasure. My question has to do with white box. People have been talking about the threat for white box since Arista has been around and it hasn't really impacted Arista's ability to grow. Can you maybe articulate why you believe in the world of AI networks, more of the market would not move to white box or vice-versa, maybe why more of the market would move away from white box?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+It's a good question, Sebastien. Thank you. Look I think white box is here to stay for a very long time as somebody just wants to throw away commodity products, but how many people want to throw away commodity in the datacenter. They are so mission-critical, and even more mission-critical for AI, if I'm going to spend multimillion dollars on a GPU cluster, then the last thing I'm going to do is put a toy network in, right. So to put the sort of in perspective, then we will continue to coexist with white box, there will be use cases where Arista's blue box or a standalone white box can run either SONiC or (inaudible) but many times the EOS software stack is really, really something they depend on for availability, analytics, automation, and thus, you can get your network for zero cost, but the cost of downtime is millions and millions of dollars.
+
+So we have always embraced white box, we coexist with it, but it continues to be a relatively small use-case in the larger mission-critical data centers for enterprise and for companies.
+
+Q - Sebastien Naji{BIO 20272118 <GO>}
+Thank you, Jayshree.
+
+Operator
+Your next question comes from the line of Matt Niknam from Deutsche Bank. Please go ahead, your line is open.
+
+Q - Matt Niknam{BIO 21568441 <GO>}
+Hey, thanks so much for taking the question. Maybe a higher-level strategy question. We've seen two of your key networking peers scale up through sizable M&A over the last several months. So can you talk a little bit about how you view the value of such scale in order to maybe better serve and target both the cloud and AI titan as well as enterprise verticals? Thanks.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, I know. But Matt, that's a good question. I think on the cloud and AI, we feel pretty bulked up to deal with those customers, because they don't look for size and bulk, they look for, as you know, networking innovation capabilities and this has been Arista's heritage for 10 years and we'll continue to be with the AI side goal for the next foreseeable 10 years. On the enterprise, there are multiple markets and size helps. I think if you are targeting the early adopters, service is traditionally done very, very well there. And the last three years is a good example of how well we've done that both in the datacenter and in the campus. If you look at the next category of sort of the not necessarily the screening early adopters, but maybe the fast followers, I think Arista will continue to do well there in the large enterprise.
+
+We are so underserved and underpenetrated in both the Fortune 1000 and the Global 2000, we've got a long, long ways to go. We probably have 20% of those customers, we got 80% of them left to go. And that -- I'm not even talking about the mid-market and the SMB, which is a whole other market that we are underserved in. So absolutely we need to make more investments in enterprise there, when I look at like what Anshul, Chris Schmidt, Ashwin are doing this is exactly where we're doubling down. This is exactly where we doubled down in the last three years, post-pandemic. And we have more than doubled our revenue and increased our local presence, because of this investment on the enterprise. I can't comment about consolidation of vendors, but vendors don't grow, 5 plus 5 sometimes is 10. But if you're careful on integration, five plus five can sometimes be seven, too.
+
+So that's somebody else's responsibility, not mine. I think we can get a lot of organic growth.
+
+Operator
+Your next question comes from the line of Meta Marshall from Morgan Stanley. Please go ahead, your line is open.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great, thanks. Jayshree. Maybe just a question, you noted limited visibility and understand that this is early during the year, but would you say that it's timing of when some of these back-end pilots scale into production, is it kind of level of front-end spending, is it enterprise projects, just like where you are finding just more commentary on the visibility comment. And then second question, you guys noted on the gross margin, but it's a portion of mix and kind of supply chain costs coming down. But just if there's any one bias towards what led to the gross margin upside in the quarter? Thanks.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah. I mean, maybe I'll take that last one first. I mean, a lot of the upside in the fourth quarter was really just customer mix, right? I mean we were wages [ph] heavily towards enterprise in Q4 not for any particular reason, it just happened to be that way and that kind of drove the margins higher.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+And Meta, to answer your question on enterprise and AI activity, I think Arista continues to drive the concept of US multi-domain routing campus, high availability, mission-critical enterprises for multiple verticals. We're making good progress there and this is going to be the heart of our mainstream innovation and go-to-market. On the AI side, we continue to track well. I think we're moving from what I'd call trials, which is connecting hundreds of GPUs to pilots, which is connecting thousands of GPUs this year, and then we expect larger production called clusters. I think one of the questions that we will be asking ourselves and our customers is how these production clusters evolve is going to be 400, 800 or a combination thereof. The role of Ultra Ethernet Consortium and standards and the ecosystem, all coming together very similar to how we had these discussions and 400 gig will also play a large part, but we're feeling pretty good about the activity, and I think moving from trials to pilots this year will give us considerable confidence on next year's number.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great, thanks.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of James Fish from Piper Sandler. Please go ahead, your line is open.
+
+Q - James Fish{BIO 18284975 <GO>}
+Hi, thanks for the question. Maybe Ita for you, and I'll miss having you (inaudible) here by the way, congrats on retirement. But what's causing the delay in being able to ship that we saw that product deferred revenue jump as much as we did or should we think about this as normal to see this level of jump in Q4 and based on what you've disclosed in the past, it doesn't seem like this is a normal jump. I guess what's the hang up and with supply chain starting to go the other way, supply more readily available, could we actually see the price increases you guys have enacted in the past, now have to be given back at some point in '24 and '25?
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah, James, I think the deferred If you think back to how this works and obviously it's been shipped for it actually be in deferred, All right? So I think that's, it's just timing. We've talked about this a lot over the past, I'm sure Chantelle is going to talk about it again in the future, right, is that it really is just purely timing of shipments and where we have some new type projects, new capability that we're trialing with the customer, that's causing it to get caught in the deferred, but it's not a fundamental underlying driver of the business. I think on pricing, and just very little is happening in terms of pricing adjustments that's kind of out-of-the-ordinary [ph] just normal pricing environment where we continue to compete for business, I don't think there's anything particularly different there and that we've seen.
+
+Q - James Fish{BIO 18284975 <GO>}
+Thanks (inaudible).
+
+Operator
+Your next question comes from the line of Ittai Kidron from Oppenheimer. Please go ahead, your line is open.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Thanks and congrats to you as well, Ita, I'll miss you. And Chantelle, good luck, of course, to you in your new role. I have a couple of ones from me. First of all, on the cloud mix, kind of declined a little bit on the year. Maybe you can tell us what are your underlying working assumptions for '24 and then more broadly on the '24 guide, Chantelle, Ita, it feels like, you're talking about, about $600 million increase year-over-year in revenue. It feels like half of it can already come from the AI networking giving your '25 targets and you seem very comfortable about your '25 targets, I would think '24 should be comfortable as well. So why -- if I assume that $200, $300 million come from AI networking this year, why should the rest of the business generate only $300 million to get to your annual targets? How, why such aggressive conservatism here on the guide?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Okay, Ittai, let me take the first question and then I'll pass it over to Ita and Chantelle for what you call conservatism. So first of all, our cloud mix is very strong, very good, but I think what you should take away from this is not that our cloud mix came down, but I enterprise did really, really well. And since 100% of the total pie, when something does really well, then the others look less so, so we're doing well on all three sectors. And we're very proud of the enterprise momentum. AI is going to come that is yet to come and certainly in 2023, as I've said to you, many many times that was a very small part of our number. But it will gradually increase. Okay, which one of my fantastic CFOs wants to take this conservatism question.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+So let's start the (inaudible). Thanks Ittai and thank you for the well wishes. I think coming into '24, it's a balanced view and the sense that we want to have multiple options to get to our year and so we'll work through what those mixes are and how to get to that performance that we've laid out for our guidance. I think that Jayshree very eloquently put in the sense of '23, '24, '25 of what we expect from AI going from trials to pilots to production. So we'll work through what that means in 2024, but I think to change anything in Q1 at this time, we're just going to go quarter at the time, especially with me coming in and we'll see how the year progresses.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+All right, good luck.
+
+A - Unidentified Speaker
+Yeah. Thank you.
+
+Operator
+Your next question comes from the line of Alex Henderson from Needham and Company. Please go ahead, your line is open.
+
+Q - Alex Henderson{BIO 1708531 <GO>}
+Ita, cant believe, you're leaving, going to miss you. So, g -ahead.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+No, she said she will miss you.
+
+Q - Alex Henderson{BIO 1708531 <GO>}
+I'm sorry, go ahead.
+
+A - Unidentified Speaker
+Go head, Alex. (inaudible).
+
+Q - Alex Henderson{BIO 1708531 <GO>}
+So the question I have really is what are you hearing from the field, particularly in the enterprise segment, there has been a lot of noise about indigestion of large move-outs of volume that had been shipped to various companies. And clearly, there is some concern that there is some over supply over the last year into the enterprise market, and I think you've talked to a lot of CEOs. What are they telling you in terms of where their IT spending intentions are for '24, where they think the spending is going relative to the networking gear versus alternative spending priorities? Thanks.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+And that's a good question, Alex. I certainly talk to a lot of CEOs. And if I rewind the clock to January last year, (inaudible) a lot, good to go then, we were going through this whole financial crisis, Silicon Valley Bank, this, that, the other. And if I now fast-forward to a year later, our momentum in the (inaudible) actually stronger now than it was a year ago. So (inaudible) customers are looking for that innovation, modern network model, CI/CD principles bringing DevOps, NetOps, SecOps all of this together and so Arista continues in my view, with the large TAM, we have in the enterprise of at least a $30 billion out of that $60 billion to have the opportunity to really deliver that vision of client to cloud, breakdown the operational silos and I would say today the CIOs recognize us as the pure-play innovator more than any other company.
+
+Q - Alex Henderson{BIO 1708531 <GO>}
+Great. Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Thanks, Alex.
+
+Operator
+Your next question comes from the line of Atif Malik from Citi. Please go ahead, your line is open.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Thank you for taking my question. This is -- thanks for providing that comments on the poor wins against InfiniBand. Now your networking competitor announced a collaboration with Nvidia on Ethernet AI enterprise solutions last week. Can you talk about what this means for your Ethernet back-end business if anything?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah. I don't understand the announcement as well as probably my competitor does, I think it has more to do with UCS and Cisco-validated designs. Specific to our partnership, you can be assured that we will be working with the leading GPU vendors. And as you know, Nvidia has 90% or 95% of the market. So, Jensen and I are going to partner closely, it is vital to get a complete AI network design going. We would also be working with our partners and AMD and Intel. So we will be the Switzerland of XPUs [ph] whatever the GPU might be. And we will look to supply the best network ever.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Tim Long from Barclays. Please go ahead, your line is open.
+
+Q - Tim Long{BIO 21123922 <GO>}
+Thank you. Yeah, Ita, good initiatives as well, Good luck. So wanted to follow-up a little bit more on that AI, Jayshree you talked about those wins. Could you just talk a little bit about, a little bit more color there? Do you think these deployments are going to be more sole-sourced or will there be multiple vendors? Did you face kind of a different competitive landscape than normal in these and what are you thinking about breadth of this business? I'm sure it's a lot of the really large customers as you said, right now, but can you talk a little bit about how you see this moving into whether it's other service providers or the enterprise vertical?
+
+Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, thanks Tim. Okay, so let me just step back and say, the first real consultative approach from Arista is to provide our expertise on how to build a robust back-end AI networks. And so the whole discussion of Ethernet versus InfiniBand becomes really important, because if you may recall, a year ago, I told you we were outside looking and everybody had an Ethernet -- everybody had an InfiniBand HPC cluster, that was kind of getting bundled into AI, but a lot of change in a year, and the popular product we are seeing right now and the back-end cluster for our AI is the Arista 7800 AI Spine, which in a single chassis with north of 500 terra bit of capacity can give you a substantial number of ports, 400 or 800, so you can connect up to 1,000 GPUs, just doing that and that's kind of deal parallel scale out can improve the training time dimensions, large LLMs, massive integration of training data and, of course, as we shared with you at the Analyst Day, we can expand that to a two-tier AIB from Spine with a sustained way [ph] CMP to support, close to 10,000 GPUs nonblocking, this lossless architecture for Ethernet.
+
+And then the overlay we will have on that with the Ultra Ethernet Consortium in terms of congestion control, package spring and working with a suite of UEC mix is what I think will make Ethernet the default standard for AI networking going forward.
+
+Now, will it be sole sourced, gosh, I would be remiss if I didn't tell you that our cloud networking isn't sole-source, so probably our AI won't be (inaudible) but today's models are moving very rapidly, relying on high-bandwidth, predictable latency that focus on application performance, requires you to be sole-sourced initially and over time, I'm sure they'll move to multiple sources, but I think Arista is very well-positioned for the first innings of AI networking, just like we were for the cloud networking to decade. And one other thing. I want to say is, although a lot of these customers are doing AI pivots, these AI pivots will result in revisiting the front-end cloud network too, so that this AI anatomy is being really well understood. And if you take a deep look at the centerpiece of it, which is all the GPUs, they have to connect to something very reliable and this is really where we come in and so this, being actively involved, has -- is going to pay a lot of dividends. But we're still very much in our first innings of AI.
+
+Q - Tim Long{BIO 21123922 <GO>}
+Great, Thank you.
+
+A - Unidentified Speaker
+Thanks, Tim.
+
+Operator
+Your next question comes from the line of Ben Reitzes from Melius Research. Please go ahead.
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+Hey, thanks for the question and obviously, Ita, it's been great working with you. Thanks for all you've done for us. I wanted to ask about your guidance and the conservatism from another lens here. With regard to 2024, since your November 9th Analyst Day, some things have changed. Microsoft, Meta and Google have all raised their CapEx forecast for 2024, obviously, your guidance for 2024 stays the same and I know you're usually conservative. And then for 2025. AMD upped their TAM very significantly for AI and by a multiple, and, I guess they're seeing something that many of us are seeing with regard to the future demand and you've kept your guidance of 750, I just, with that backdrop and the changes since November 9th, and you guys are keeping your guidance, I understand you're conservative.
+
+Do you mind addressing your conservatism or your guidance from those lenses, but with regard to '24 and '25, Jayshree?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+So Ben, I'm going to let my two CFOs speak to the conservatism. And then I'll add more color about that. Who wants to go first?
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+Okay, great.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Ben, (inaudible) it's Chantelle. I think, but, you know, a change from November to January-February timeframe, I don't think would change our guidance on the year, kind of similar to the question before. I think that our guide right now resembles where we think we're at in a sense of what we'll materialize in '24, we'll take it one-quarters at a time. The reflections of the changes you are mentioning, the timing of that, we have to wait and see, there's no guarantee that's within our 12-month guidance timeframe and what should we didn't see, but Jayshree...
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, I think that says it all. I mean, all the drivers that you mentioned are great drivers, the timing of everything that it's always complex, right, so we'll take it a quarter at a time to see how things play out.
+
+A - Unidentified Speaker
+And look, if conservatism changes to more optimism in the second half or more likely in 2025, will keep you posted.
+
+Q - Ben Reitzes{BIO 1880391 <GO>}
+All right, thanks a lot. Take care.
+
+A - Unidentified Speaker
+Operator, we have time for one last question.
+
+Operator
+Thank you. Your final question comes from the line of Karl Ackerman from BNP Paribas. Please go ahead. Your line is open.
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+Yes, thank you for squeezing me in and good evening from Paris. So there have been several companies with me (inaudible) supply chain that indicate the market for 800 gig and early deployments of 1.60 ports will begin in fact later this year for actually front-end networks and so I guess, why would I be wrong to conclude that your hardware sales would be a leading indicator of that and I guess, as a result, should cloud titan revenue grow at least in line with your outlook for 2024, double-digit growth?
+
+Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, thank you, Karl. Again, I'll step, history is a good indicator of future. And if you look at our 400 gig, everybody asked me the same question is that how can 400 gig taking off in 2019 or '20 and it turned out, it took our ecosystem several years and of course the pandemic didn't help whether it was optics and net for the whole entire thing to come together and, I don't doubt, we will have trials for 800 gig this year, but I think real production 800 gig will happen in 2025, I'd like to be proven wrong and maybe will come in sooner, in which case, like I said, we'll let you know.
+
+But at the moment, this is our best-case prediction.
+
+A - Unidentified Speaker
+Thanks, Karl.
+
+This concludes the Arista Networks Fourth Quarter 2023 earnings call. We have posted a presentation, which provides additional information on our results, which you can access on the Investors section of our website. Thank you for joining us today and thank you for your interest in Arista.

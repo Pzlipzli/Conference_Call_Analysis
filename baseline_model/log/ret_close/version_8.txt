@@ -1,0 +1,97 @@
+=== CMD ===
+python ./baseline_model/train.py --version 8 --name ret_close
+
+=== STDOUT ===
+[ret_close] train log1p(y) mu=0.0028, sd=0.0531
+Epoch 1/100:
+Train Loss: 1.098599
+Valid score: -0.005335
+
+Epoch 2/100:
+Train Loss: 1.012304
+Valid score: 0.006392
+
+Epoch 3/100:
+Train Loss: 0.966434
+Valid score: 0.005793
+
+Epoch 4/100:
+Train Loss: 0.934678
+Valid score: -0.003928
+
+Epoch 5/100:
+Train Loss: 0.895975
+Valid score: 0.003125
+
+Epoch 6/100:
+Train Loss: 0.857031
+Valid score: -0.008302
+
+Epoch 7/100:
+Train Loss: 0.813717
+Valid score: -0.023234
+
+Epoch 8/100:
+Train Loss: 0.778691
+Valid score: -0.036365
+
+Epoch 9/100:
+Train Loss: 0.744759
+Valid score: -0.062113
+
+Epoch 10/100:
+Train Loss: 0.748798
+Valid score: -0.074938
+
+Epoch 11/100:
+Train Loss: 0.675675
+Valid score: -0.081242
+
+Epoch 12/100:
+Train Loss: 0.682786
+Valid score: -0.120943
+
+Epoch 13/100:
+Train Loss: 0.635192
+Valid score: -0.138842
+
+Epoch 14/100:
+Train Loss: 0.611896
+Valid score: -0.155018
+
+Epoch 15/100:
+Train Loss: 0.594973
+Valid score: -0.157026
+
+Epoch 16/100:
+Train Loss: 0.616589
+Valid score: -0.190317
+
+Epoch 17/100:
+Train Loss: 0.575948
+Valid score: -0.231340
+
+Epoch 18/100:
+Train Loss: 0.498960
+Valid score: -0.223708
+
+Epoch 19/100:
+Train Loss: 0.495235
+Valid score: -0.238984
+
+Epoch 20/100:
+Train Loss: 0.536708
+Valid score: -0.253139
+
+Epoch 21/100:
+Train Loss: 0.530963
+Valid score: -0.264476
+
+Epoch 22/100:
+Train Loss: 0.452186
+Valid score: -0.283586
+
+Early stopping at epoch 22
+Restored best model at epoch 2 (Valid Score=0.006392)
+METRICS_JSON: {"MSE": 0.003242634469643235, "R2": -0.029629945755004883}
+

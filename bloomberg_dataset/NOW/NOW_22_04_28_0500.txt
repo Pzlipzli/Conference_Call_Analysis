@@ -1,0 +1,362 @@
+Q1 2022 Earnings Call
+Company Participants
+Bill McDermott, President and Chief Executive Officer
+Darren Yip, Vice President, Investor Relations
+Gina Mastantuono, Chief Financial Officer
+Other Participants
+Alex Zukin, Analyst, Wolfe Research
+Arjun Bhatia, Analyst, William Blair
+Brad Sills, Analyst, Bank of America
+Brad Zelnick, Analyst, Deutsche Bank
+Gregg Moskowitz, Analyst, Mizohu
+Karl Keirstead, Analyst
+Kash Rangan, Analyst, Goldman Sachs
+Keith Weiss, Analyst, Morgan Stanley
+Kirk Materne, Analyst, Evercore ISI
+Matt Hedberg, Analyst, RBC Capital Markets
+Phil Winslow, Analyst, Credit Suisse
+Samad Samana, Analyst, Jefferies
+Tyler Radke, Analyst, Citi
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. And welcome to the ServiceNow First Quarter 2022 Earnings Call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question-and-answer session. (Operator Instructions).
+
+Thank you. Darren Yip, Vice President of Investor Relations, you may begin your conference.
+
+Darren Yip{BIO 22306278 <GO>}
+Good afternoon and thank you for joining ServiceNow first quarter 2022 earnings call. Joining me are Bill McDermott, our President and Chief Executive Officer; and Gina Mastantuono, our Chief Financial Officer.
+
+During today's call, we will review our first quarter 2022 results and discuss our guidance for the second quarter and full-year 2020. Before we get started, we want to emphasize that some of the information discussed on this call such as guidance is based on information as of today and contains forward-looking statements that involve risks, uncertainties, and assumptions. We undertake no duty or obligation to update such statements as a result of new information or future events.
+
+Please refer to today's earnings press release and our SEC filings. Including our most recent 10-Q and 202110-K for factors that may cause actual results to differ materially from forward-looking statements. We'd also like to point out that we present non-GAAP measures in addition to and not as a substitute for financial measures calculated in accordance with GAAP. Unless otherwise noted all financial measures and related growth rates we discuss today are non-GAAP except for revenues, remaining performance obligations or RPO, current RPO, and cash and investments. To see the reconciliation between these non-GAAP and GAAP measures, please refer to today's earnings press release and investor presentation, both posted on our website at investors.servicenow.com. A replay of today's call will also be posted on our website.
+
+With that, I'll turn the call over to Bill.
+
+Bill McDermott{BIO 3075298 <GO>}
+Thank you very much, Dan, and good afternoon everyone. We really appreciate you joining our call today. We're pleased to once again report results that firmly beat expectations. In January, we reported a stellar 2021, today we are following that up with a very strong Q1. The constant currency numbers speak for themselves. Subscription revenue growth was 29%, CRPO growth was 30.5%, operating margin surpassed 25% and all were above the high end of our guidance range.
+
+In fact, our raised guidance today which Gina will cover shortly also speaks for itself as does the 52 deals over $1 million in Q1 that were up 41% year-over-year. It's clear that the world is beginning to understand the power of this platform. We said in January that our fast growth would accelerate in Q1 it did, now three months later we expect subscription revenue growth to accelerate for the full year. It will. We said that ServiceNow's fast growth will continue to be paired with the leverage of a global market leader.
+
+Now with our accelerating revenue growth and free cash flow, we're already approaching the Rule of 60 for the full year. We had strong adoption from existing and net new customers. Our rolling four quarter pipeline remains ever strong. We're delivering predictable fast growth with exceptional free cash flow. Overall we're super excited about the state of this business. We believe it sets us up really well for the remainder of 2022 and beyond.
+
+I do want to offer a few comments on what we're seeing in the broader marketplace. We talked about a sustained demand environment for the enterprise. While there are significant challenges in the world, particularly in the Eastern European situation, we have not seen a material impact on our market, to the contrary, the challenges underscore the urgency of investment in digital business. IDC continues to see a 23% year-over-year increase in the global public cloud market for 2022.
+
+We see similar indications of demand or ability which are consistent with or above the 10-year pre-COVID average. Leaders who do plan to adjust their technology budget plan to increase investments in 2022, one leader put it well, he said "Bill, if we slow investment in the short term we'll lose ground in the midterm, and we won't be in business for the long term" and the data tells the same story. The average tenure of the company in the S&P 500 has declined from 30 years in 1996 to 19 years in 2021, so it's very clear that businesses can no longer revert to a status quo posture no matter the environment.
+
+We're now in tech to compete world, if you look to our new customer acquisition here's what resonates. Businesses are shifting investments to technology, they get them to the right outcomes faster. Cloud-native platforms like ServiceNow are seeing a mixture to speed up new revenue streams and better experiences for people. When we see increased focus on topics like supply chain, risk, security, ESG, all of these convert perceived what was perceived as headwinds into much stronger secular tailwinds for ServiceNow.
+
+So the world's biggest problems are really ServiceNow's biggest opportunity, and it all adds up to what we said consistently the technology architecture is now the business architecture. This is the era for digital business. Our businesses are firing on all cylinders in this environment. Behind great experiences are great workflows which underscore the unique extensibility of the ServiceNow platform. So here it is, our core technology workflows business performed well in Q1. ITSM was in 11 of our top 20 deals with continued strong adoption of ITSM Pro. We continue to see strong attach rates from ITAM in 13 of our top 20 deals. Security and reps had a great quarter with a combined 13 deals in the top 20.
+
+Global biotech innovative Regeneron works with ServiceNow to increase productivity while decreasing costs. Global financial leader RBC works with ServiceNow for cloud and asset tracking. I'd also like to thank RBC for administering the ServiceNow ratio equality fund. The only way for companies to transform the customer experience is to fully integrate their employee experience. Customer workflows continue to see strong demand, particularly with our vertical skews. Barclays works with ServiceNow to automate cross-agency case management and compliance with EU data privacy requirements. In this post-pandemic economy, many businesses are creating direct-to-consumer business models, companies like Telefonica Brazil work with ServiceNow to better serve their next-generation customers, employee workflows were also strong in the quarter. HR was in 14 of the top 20 deals. Global healthcare solutions company Amerisource Bergen works with ServiceNow to transform their employee experience.
+
+In the digital business, era differentiation can't be borne, it must be built. ITC now forecasts $750 million net new applications will be created between 2023 and 2025 with the unprecedented demand the net new innovation together with a global shortage of professional developers, low code application development Is a massive market opportunity. While tech leaders see the value of citizen developers they don't want to sacrifice the enterprise-grade governance and security. This is what gives ServiceNow a unique differentiation in the local market. Look at Dai-ichi Life Insurance, one of the world's largest insurance companies which is standardized on app engine for all low code application development with creator workflows in 16 of the top 22 Q1 deals we see this trend accelerate.
+
+A leading manufacturer of print inks DIC works with ServiceNow as their new citizen developer platform. One of many such examples and a key takeaway. Businesses are no longer in the move to experiment. They go with what they know works which is why the world works with ServiceNow. We are the only one with a fully integrated platform architecture that can address every C-suite business challenge because enterprises are so focused now on fast time to value our new customer success subscription offering ServiceNow Impact also saw a strong demand in Q1 and as ever, the ServiceNow platform is the foundation for our ongoing success. We're encouraged by the extremely favorable reception from our San Diego platform release. In particular, users love the next experience which streamlines navigation, make search intelligent, and simplifies personalization all on our platform. We also unveiled a new automation engine which makes it simple for users to do robotic process automation on the ServiceNow Platform. Only ServiceNow can help businesses unify their approach to hyper-automation. We now orchestrate AI, RPA, and other key technologies on a single local platform. Fred Luddy, founded our company in San Diego. So this will be an especially proud moment for all of us. I'd like to personally salute our product and engineering teams for the transformational work they liver in our San Diego release. Congratulations team outstanding job.
+
+Looking forward, we see many positive developments that affirm our confidence in this business. Investment from our partner ecosystem continues to accelerate nicely. Thierry Delaporte, CEO of Wipro said the following Bill we couldn't be more excited about the potential of ServiceNow. You bring a whole new dimension to customer success and technology innovation, we are all in. This outstanding partnership with Wipro is only just getting started. We also have our signature event series Knowledge-22 taking place in May. Each of the four locations will demonstrate the high enthusiasm of the growing ServiceNow community. We will have a showcase in The Hague, New York City, Sydney, and Las Vegas. In addition to a fully digital experience, so please join us
+
+In closing, we had a great Q1, everything is lined up for us to follow suit in Q2 and for the full year. We're taking steps forward every day to our stated milestones $10 billion-plus by 2024, $15 billion-plus by 2026 and beyond. It's worth reiterating at this time that we remain on track to be the fastest ever to hit those thresholds.
+
+Finally, beyond the business results, I'd like to offer heartfelt support to our more than 18,000 ServiceNow colleagues worldwide for those confronting the humanitarian crisis, especially in Ukraine. Like so many of our customers and peers, ServiceNow is pursuing numerous opportunities to support relief efforts. By continuing to do well, we can further commit our company to doing good. This is firmly aligned to our purpose of making the world work better for everyone. Here lines our path to be the defining enterprise software company of the 21st century.
+
+Ladies and gentlemen, we are a company on the move. I'd like to thank you again for your time and your trust in ServiceNow, we're looking forward to addressing any questions you may have, and I'll now hand it over to our great CFO, Gina Mastantuono. Gina?
+
+Gina Mastantuono{BIO 16430022 <GO>}
+Thank you, Bill. Q1 was yet another fantastic quarter of execution. Enterprises are navigating a macro environment filled with a million challenges. our ability to continue delivering strong results exemplifies the resiliency of our business and the mission-critical nature of the Now platform. The breadth of our product offering and our geographic reach provide us a diverse array of opportunities for growth.
+
+While the FX headwind grew throughout the quarter ServiceNow outperformed across all of our Q1 guidance metrics. In fact, net new ACV growth accelerated year-over-year driving the fastest Q1 growth we've seen since 2018. We expect that momentum will carry into Q2 with net new ACV growth consistent with our very strong second quarter last year. As a result, we are raising the midpoint of 2022 subscription revenue guidance to more than offset the incremental FX headwind.
+
+Turning to Q1 results. Subscription revenues were $1.631 billion, growing 29% year-over-year in constant currency, exceeding the high end of our guidance range by $16 million. This reflects a 300 basis points acceleration in growth year-over-year. RPO ended the quarter at approximately $11.5 billion representing 31.5% year-over-year constant currency growth. Current RPO was approximately $5.69 billion representing 30.5% year-over-year constant currency growth, a one-point beat versus our guidance. From an industry perspective, we saw broad-based strength with energy, utilities, financial services, government, healthcare, life sciences, TMT, and transportation and logistics, all growing net new ACV by 40% or more year-over-year.
+
+Our renewal rate was best-in-class at 98% in Q1, as the Now Platform remains a core component of our customers' digital transformation efforts. The stickiness of our customer base has served as a solid foundation for us to build upon as our largest customers continue to expand. We finished the quarter with more than 1400 customers paying us over $1 million in ACV.
+
+We closed 52 deals greater than $1 million in net new ACV in Q1 up 41% year-over-year. This includes seven net new logo deals in the quarter further demonstrating our success with initiatives to land quality customers. Our portfolio outside of ITSM is also leading more of our largest customer lands nine out of our top 10 new customer deals were led by non-ITSM products.
+
+Turning to profitability, operating margins surpassed 25% driven by our revenue beat and a certain spend that shifted into Q2. Our free cash flow margin was 45%. We ended the quarter with a healthy balance sheet, including $5.5 billion in cash and investments putting us in excellent shape to continue investing in strategic initiatives that drive growth. Together, these results demonstrate our ability to drive a balance of growth and profitability, and perhaps even more relevant this year it also showcases the resiliency and predictability of our business model.
+
+While diversity of markets and customers provides stability in our results, the diversity of our employee base continues to make us even stronger. Last week, we released our second Annual Global Impact Report as the ServiceNow platform helps us fully integrate customer, employee, and technology experiences across our business, we'll continue to use the ServiceNow ESG management and reporting solution to manage, govern and report our progress. While we are early in our ESG journey we're extremely proud of our accomplishments in such a short time. We've made significant improvements in representation and hiring, we've tied executive compensation to both environmental and diversity goals, we fully distributed ServiceNow at $100 million Racial Equity Fund, we've continued to receive systemic pay equity. I'm happy with the progress we've made in 2021, but we're just getting started.
+
+Moving on to guidance. As the conflict in Ukraine intensified throughout Q1, we've continued to see an incremental strengthening of the US dollar resulting in further FX headwinds in 2022. However, on a constant currency basis, the underlying health of our business has remained ever strong.
+
+With that in mind let's turn to our 2022 outlook. We are raising the midpoint of our subscription revenue outlook by $23 million to more than offset the incremental $20 million headwinds we're seeing from FX, resulting in a net increase of $3 million. Our new range of $7.025 billion to $7.04 billion represents 26% year-over-year growth at 28.5% growth on a constant currency basis. A 50 basis point rise versus our previous outlook. This reflects our updated expectation for constant currency growth to now accelerate year-over-year. We continue to expect subscription gross margins at 86% up 100 basis points year-over-year. Operating margin of 25% and free cash flow margin of 31%.
+
+Finally, we expect diluted weighted average outstanding shares of 204 million. For Q2, we expect subscription revenues between $1.67 billion and $1.675 billion, representing 26% year-over-year growth, which is inclusive of a three-point FX headwind. On a constant currency basis, we expect subscription revenue growth to be 29%, 250 basis point acceleration from Q2 2021. We expect the RPO growth of 25% year-over-year or 28% on a constant currency basis.
+
+I'd note that for full-year 2022, we have a larger-than-average customer cohort that renewed in Q4. We will see between one and two points of increasing headwind in Q2 and Q3 CRPO growth, as well as those contractual obligations, wind down when the cohort renews though in Q4 those headwinds will subside and we expect to see CRPO growth to reaccelerate quarter-over-quarter. We expect an operating margin of 22%, which reflects the timing of marketing spend that shifted from Q1 into Q2 and some incremental FX. We expect 203 million diluted weighted outstanding shares for the quarter.
+
+In conclusion, Q1 was another outstanding quarter, a momentum that is setting us up for a great year. As Bill highlighted we're excited about our San Diego release. Our future innovation pipeline is robust as we seek to extend our market leadership deepening our competitive moat as the platform, the digital business. ServiceNow is incredibly well-positioned to become the defining enterprise software company of the 21st century.
+
+I'd like to invite you all to hear more about the momentum we are seeing and learn more about our new products and long-term opportunities at our upcoming Investor Day on May 24 in Las Vegas. Finally, I am extremely proud of our team's performance this quarter. Bill and I can't thank our employees enough for their continued hard work and dedication.
+
+And with that, I'll open it up for Q&A.
+
+Questions And Answers
+Operator
+(Operator Instructions). We ask that you please limit yourself to one question. Your first question comes from the line of Keith Weiss with Morgan Stanley. Your line is open.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Thank you guys for taking the question, and really nice quarter. Actually, two questions, one just on kind of the overall macro backdrop and how you guys are kind of performing so well against that, one, is there any geographic differences like are you seeing any difference in sort of behavior in Europe versus behavior in the US or Asia-Pac or is it pretty much consistent across the board. And two is there any like if you think about this period of time versus what we saw in 2020, right and we are dealing with the COVID pandemic. Are there any similarities or differences that you could point to in terms of what you're seeing now versus what you saw then?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Well, thank you very much. Keith. First of all, in terms of then and now in both cases, the world's biggest challenges are ServiceNow's biggest opportunities. If you remember we stepped right up to the emergency response, returning to work safely and that really spurred on whole new business for ServiceNow but more importantly to establish the brand as the leader. The case is also true now right you the war in Ukraine, the rising inflationary environment, interest rates and dislocated supply chains. These are all opportunities for the Now Platform because this is the unique attribute of ServiceNow.
+
+We are an enterprise software market leader, most of the companies where they have felt the negative impacts of the environment have a consumer business that will be probably impacted from these forces, but the enterprises are basically saying it's a tech to compete world and I have to invest now because I'm not ready in many cases falling behind. For example, just two years ago one-third of the business was getting done In digital formats, today it's two-thirds and two years it will be 90 plus percent, so if you don't get digital fast you lose.
+
+The other thing is we're in a war for talent in the global economy like that's never been seen before this level. And this unique attribute of how the software has to take care of the people you have to recruit and hire, particularly on board them, that's one of the moments of truth that nobody does the way we do it. So they feel part of the culture now where they're working from, and then of course you have to give them a consumable experience that differentiates you.
+
+That is also true for the customer at a direct to consumer level and obviously creating doubts on the local platform. So what I'm saying is the world needs these problems solved so we can help manage those macro effects that you talking about. So the environment feels somewhat like it did then in that context where we're redoubling our focus and our optimism across all employees anywhere in the world because all of our customers need us.
+
+So again, I think the unique differentiation is our clear focus on the enterprise and our consistent innovation, and on the geography scenario, it obviously will vary by quarter here and there. They're all strong. Americas was particularly strong, but all of our regions have strong pipelines and every reason to believe that it will be a consistent across-the-board effort everywhere in the world.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Outstanding. Congratulations again on a really nice quarter.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much, Keith.
+
+Operator
+Your next question comes from the line of Brad Sills with Bank of America. Your line is open.
+
+Q - Brad Sills{BIO 15854296 <GO>}
+Great. Thanks for taking my question and congratulations on a real nice quarter here. The thing that really stands out to me is just the broad strength that you're seeing across different departments ITSM, employee workflows, ITOM, security risk, these are multiple lines of business. My question is what has changed about the go-to-market such that you're able to bridge the gap across so many different departments, and find relevance for your solutions there is the global SI channel a key to that. Are there things that have changed and just your internal go-to-market as well. Thank you.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Brad, thank you for your kind words and also you answer something here. We became a platform company growth. We started out in IT where you have a very proud technical excellence for the IT leaders around the world, and they really get behind ServiceNow in a big way because they know it works and what happened along the way with this digital transformation world that we're living in right now. IT really became the business strategy because it's the only way to keep your business secure, it's the only way to make sure your employees can get what they need to do their work no matter where they are working from, it's the only way to reach out and innovate with those new next-generation customers who will only do business with you digitally, and ultimately the creator workflow is massive because the number of applications that will be developed in the next three years supersedes the number that has been built in the last half-century. and there's not enough engineers in the world to do that.
+
+And they are doing that in record numbers on ServiceNow but here is a big difference when we became the platform company the leaders that believed in us that were generally from the IT environment said wow with ServiceNow I can do all of this on one architecture, one platform, one data model and I can give all the constituents in my enterprise with the need to win whether they're in the HR department, sales and marketing, they could be in the field service or they could just simply be citizen developers trying to do something to help the company.
+
+Now I can do all that for the government, make sure it's compliant, and make sure the innovation is always tethered to the investments we've made in the past, so we can have a brighter future, and that's the big difference and internally we move to a solutions industry and persona and business impact company along the lines of the platform and everybody is super excited about where we're going.
+
+Q - Brad Sills{BIO 15854296 <GO>}
+That's great to hear. Thanks so much.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much, Brad.
+
+Operator
+Your next question comes from the line of Arjun Bhatia with William Blair. Your line is open.
+
+Q - Arjun Bhatia{BIO 17340929 <GO>}
+Perfect, thank you very much and I will add my congrats on a great quarter. Bill, I do want to follow-up on your conversation about inflation earlier, I'm sure you're seeing hosting costs go up, labor costs are increasing at the same time, right, with your product you're adding more value to customers. You've talked about ServiceNow being a deflationary platform, and you're innovating, but how do you think about pricing in this environment for your solution, is there an opportunity to be more aggressive as you add more value and to talk to maybe offset some of the costs that are increasing on the OpEx side?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+It's a really good question, Arjun. I think the main takeaway from this is when you are in a privileged position because technology has such a strong advantage. In software, if you do it right, you shouldn't have discount thresholds that behave like doing wrong. So, in software, if you can control your pricing algorithm and make sure that you're getting the price you deserve for your product because it has a well-constructed business impact that's been clearly defined with the customer, you find that you can actually improve price performance without exacting large enterprise change to the customer. And that's what we're really seeing, we're really seeing a professionalism around how we compose our story, the power and impact of the platform, and how we can make that fully transparent to our customers and we even invented an application that they're using on their business iPhones right now where they can see the impact of the projects they do with ServiceNow and the return on those investments as they are tethered to the original business case that was done at the point of sale, that's a level of precision that I am not aware of another enterprise company operating on. So it's really about value, it's really about business impact and our customers buying in.
+
+Q - Arjun Bhatia{BIO 17340929 <GO>}
+Perfect, thank you very much. Congrats again.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+You too. Thank you very much, Arjun.
+
+Operator
+Your next question comes from the line of Karl Keirstead with UBS. Your line is open.
+
+Q - Karl Keirstead{BIO 1542979 <GO>}
+Hi, thanks. Gina, I just wanted to give you a chance to elaborate on the U-shape CRPO trajectory in 2022, and in particular, I just wanted to clarify, the one to two-point sequential headwind to that metric. So, does that mean that the 28% guide in 2Q would be maybe 29%-30% normalized? And then in 3Q, do you get another one to two-point headwind before you get that acceleration in 4Q, love any color you can provide as I think others on the call would. Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thank you, Karl. That's exactly right. And so basically, what we're saying is that there is a one to two-point impact in Q2 and Q3 because of this new -- this large renewal cohort. And so if you think about renewal and a customer that at the end of Q4 2021 had $1 million, right, and that's up for renewal in Q4 in 2022, in Q4 of last year the CRPO was $1 million then in Q1, it would have had 750, and in Q2, it would have had 500, Q3 250. So, that's the impact that we're talking about and we've quantified it for you in between 1% to 2% and you've got it exactly right as you are talking about it within that.
+
+Q - Karl Keirstead{BIO 1542979 <GO>}
+Okay, super helpful. Thanks, Gina.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Of course.
+
+Operator
+Your next question comes from the line of Phil Winslow with Credit Suisse. Your line is open.
+
+Q - Phil Winslow{BIO 6300579 <GO>}
+Hi guys, thanks for taking my question, and congrats on another outstanding quarter. Bill, thanks for all the color you gave on just the feedback you're getting from customers in terms of just the prioritization of IT spending and ServiceNow and it really does feel like you're leaning into that opportunity. When I look at sales and marketing headcount that's a 25% year-over-year. My question is, I guess twofold, one is, what are your goals for hiring line for the year. Are there any areas where you think ServiceNow is going to be leaning into what would be geographic or vertical functionality and then Gina, what if you just comment on the sales productivity ramp time that you're seeing?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Hey, Phil, thank you very much. Phil, it's really wonderful about ServiceNow is we just crossed our 18,000 employee that will be onboarding in the next week or so, so we continue to be the place people want to work and that's super exciting because in this environment I get phone calls from other Boards of Director members is telling me that no boomerang going back to the company from ServiceNow because people are choosing so many options within the ServiceNow family. As you know we hire very heavily in R&D. This is an innovation machine, it's a growth machine and we also are cognizant of sales and marketing and make sure that the things we do tend to have a quota-carrying equation associated with them. So, the leverage is now for shareholders. So Gina will give you some of the facts and figures on it, but I think it's just super important to have a brand that's the place people want to be, especially in this very, very tight labor market for digital skills.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah, I will only add Phil, that you're seeing the numbers Q1 headcount up 28% year-over-year in this environment is pretty phenomenal and hats off to our HR function and recruiting function and all of the teams for being able to do that, but you're seeing it right, we continue to invest in sales and marketing, in R&D, and it's really about driving innovation and sales and marketing, really getting that strong go-to-market that we've been talking about.
+
+We talked about for the full year expecting hiring in the high '20s and we are absolutely on that trajectory to continue that. With respect to productivity with the sales, we're definitely seeing good productivity increases year-over-year in Q1 and expect to see that continue throughout the year. So, go-to-market teams are executing very well. We feel really good about the results.
+
+Q - Phil Winslow{BIO 6300579 <GO>}
+Awesome. Keep up the great work.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thank you. Thank you, Phil.
+
+Operator
+Your next question comes from the line of Samad Samana with Jefferies. Your line is open.
+
+Q - Samad Samana{BIO 17883999 <GO>}
+Hi, good afternoon. Congrats on just another very great quarter from you guys in a tough environment. Maybe during the quarter we went to the federal forum and it was great to see a tendency there would be very robust it felt like we were back to pre-COVID times and just curious, have you seen the demand to match that in particular with the higher DoD IL5 level certification. How should we think about that in terms about opening up new opportunities and expanding the TAM within the federal sector that you're targeting?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Well, thank you very much, Samad first of all for attending. We really appreciate. As you know that forum was really successful, it was done in person and it was the most successful federal forum we've ever had, and it happened post the COVID in a sense that people started to travel a little bit again. I think you called it really well, I think the big sensational outcome from that was, not only that US federal saw a 100% growth on a year-over-year basis and what we refer to as net new average contract value but you also see the certification IL5 really taking off and I believe that our partnership with Microsoft will show up very big especially congratulate Microsoft and SoFi on having a very strong quarter. I wish them well. It's fantastic, and we have a very good partnership with them, so I think we can solve a lot of problems for US Federal. It is a big market opportunity, and the president's management agenda and the administrations guide to their constituents is really from the government,to deliver results fast, drive digital transformation, and they are adopting the Now Platform as a standard and we're only one of a couple. They are three total including Microsoft that are IL5 certified, so I think, you caught on to something here that could be a wellspring of opportunity.
+
+I'll finally close off this, workplace service delivery capability of ServiceNow and our Safe Workplace applications have seen the strongest interest from federal customers and again that's fueled by the Biden administration's agenda and the call and I would give you as I remember it they said that federal will be the way to returning to work now. so this is a very strong business for us. Incidentally, the TAM for the government marketplace globally is an enormous TAM as you know, so being a leader in US Federal also we're doing a lot in state and local is quite a statement, and I think that that will drive growth around the world.
+
+Q - Samad Samana{BIO 17883999 <GO>}
+Very helpful. Thanks again for taking my question.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much. Appreciate it, Samad.
+
+Operator
+Your next question comes from the line of Kash Rangan with Goldman Sachs. Your line is open.
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+Thank you very much, and let me echo my congratulations on a spectacular quarter. Bill, I think you've got the macro argument pretty well nailed, I'm not going to ask that question, but I'm curious to get your thoughts as you scale the company to 15 plus I noticed a plus after 15. How do you think about distribution, given that you are probably a big distribution of the company? So far the customer count of 7,000, 8,000, 70 is very impressive big deal sizes. As we envision the life beyond 15 plus what is the go-to-market structure of the company look like looking at a two-tier, 3Q type distribution predominantly go to market, a high-end channel, help us envision the future to get to your target. Thank you so much and congrats.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much Kash for the question. So the distribution, I again reiterate our focus right now is on the enterprise, we are an enterprise software market leader, we have lots of work still left to do, and geographic expansion for the company. There is a huge opportunity in markets like Japan. Obviously, all across Europe, LATAM, I really like to focus on markets like Canada, of course, treat markets, the way they want to be treated in that localized style.
+
+We obviously have lots of expansion rates and the Middle East and other places and I'm looking to bellwether markets like Germany, France, and the UK, which already now starting to take off beautifully. So there's a geographic component. We also have segmented the way we develop software and take that software to market by industry. As you know, we're very focused on your industry of course financial services one, but there is telecom, there is manufacturing, there is every industry under the sun in motion, but we've gone strong with six including life sciences and so forth.
+
+And then persona base if you think about taking this platform across the enterprise, you have to speak intelligently to all the C-level executives that run the enterprise and we have a Rubik's Cube formula around the geography, the industry persona that's now being executed at an art form level by our great marketing and communications leader and his team. So I am super impressed with that.
+
+We also did something I think interesting with Lightstep that a lot of people haven't picked up on. Lightstep is a next-generation customer platform, and when you think about having one user experience across the whole enterprise where people are on different Internet and different screen styles to figure out what their observing you also have an observability platform that is a direct to consumer platform by design that I think is a precursor to many of the things we can do with the core, and also we can take the core and put it into pre-packaged ready-to-run solutions and build an ecosystem around that, and turn on a whole new channel of small and mid-market channel partners as we take the company everywhere.
+
+And for now, on the big partner channel, there isn't a single one out there in the top 10 that doesn't at least start with a B, meaning we don't have million-dollar conversations we have billion-dollar conversations we have even at the top one now chasing 10. So I mean, Kash, in short, we're going to chase every market opportunity all over the world and we're going to win, and we have a team that's ready to conquer this market like never before. It's so exciting here right now, Kash. I just wish you could be in the building to see it.
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+I can see it.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+On that note, I hope to see you on May 24 at Investor Day because we'll talk a lot about what we look like at $10, $15 billion plus, so hope to see you there.
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+I'm already there. Definitely see you there.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+That's great. But can us Kash, can you see the builder.
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+I can absolutely. Congrats. Thank you.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Kash.
+
+Operator
+Your next question comes from the line of Matt Hedberg with RBC Capital Markets. Your line is open.
+
+Q - Matt Hedberg{BIO 16655531 <GO>}
+Great, thanks for taking my question. Bill really as a follow-up to that last question, you mentioned observability. You guys recently launched an Internet management platform. I think it's really infused with Lightstep and observability, I wonder if you can talk about the importance of that offering and maybe just double click again on sort of why you think you're going to win in observability because it seems like a huge market opportunity for you guys.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Well, the first thing to recognize there, Matt, is huge market opportunities don't require anyone to lose for us to win. They are huge market opportunities. So, we will still integrate as we already do with the largest participants in that market, and we want them to be successful because customers have invested in them, and our way of going about things that's great. Let's make that customer successful together, that's why they integrate seamlessly into the Now Platform.
+
+At the same time, we have many customers that realize that ServiceNow can out-innovate just anybody in the marketplace, so they want us to do more for them. And clearly, observability was one of those categories, and we just got there a lot faster with Lightstep because we believe Ben and his team are the most innovative in the industry, and we're just so proud to have such trust and partnership with them and such big dreams together.
+
+So Lightstep launched incident response, as you said, it's the first new product since joining ServiceNow and it's big, so incident response will add a lot of context in automation through the Internet response process and customers are looking for that. By the way, they may even have more than one incident response vendor in there. So we don't rally against others what we try to do is work for the customer. We've put our hat -- hard hat on, roll up our sleeves, and go to work. Lightstep also launched an industry-first unification of observability analytics and we also did collaborative notebooks, so these innovations are breaking down those silos that I referenced between metrics and tracking and streamlining its critical SRE workflow space.
+
+So in Q1, for example, we signed some cool deals (inaudible), which we're very I'm proud of and that's a data network company as you know, and empowering the fintech and digital finance product space and they are using Lightstep for complete visibility into distributed architectures and they are allowing player to investigate CI CB issues and they're doing 20X times faster than they used to. And we also got Air Cable, again core brand next-generation brand and they're building collaborative applications and they're driving the reliability of complex distributed systems and proactively improving performance for users, and again more effectively monitoring and resolving both system-wide and specific customer issues, but they're doing it with only one and then are balancing people in and out of different experiences and this is what I keep going back to when you talk about real platform innovation and the integrity of a consumer-grade experience and you can do that across an entire enterprise. That's why I believe, our Board of Directors did a great job of defined -- defining enterprise software company with 21st century is doing it with a Desco 21 C logo and now we are waiting (inaudible) people at all as they think about Deskco 21 where you're innovating covering the customer or just driving the conversation, we know where we've gone.
+
+Q - Matt Hedberg{BIO 16655531 <GO>}
+Well said. Congrats, Bill.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much. Appreciate it.
+
+Operator
+Your next question comes from the line of Alex Zukin with Wolfe Research. Your line is open.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Hey guys, thanks for taking the questions, and congrats on a truly inspiring quarter and message in a tough, tough tape. I guess maybe just two for me. Bill, you talked, you talked about the health of the federal vertical on the call. I was wondering if you could also maybe comment on some of the other verticals that you're seeing success in and saw success in the quarter, how we should think about just greater verticalization in the product itself either for telco, or Finserv, or others. And then just a follow-up for Gina.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Sure. Sure. Well, thank you very much Alex for your very kind remarks, it means a lot to us. Our team is doing a really great job. When they hear that you just inspire us to go higher, and we appreciate it, so thank you. We've done a lot in terms of the vertical coverage and we have our great, Chief Operating Officer, CJ Desai now not only running all of engineering with what we believe to be the best engineering team in the business but also he is overseeing our industry orientation and the whole go to market around that and he teams up in a beautiful way with the go-to-market team our excellent leader Paul Smith and great regional presence, we have, so just super proud of our team.
+
+But banking is really simplifying the whole middle to back office operation context and financial services is going really well. I referenced Barclays, but there's just so many that are all in on ServiceNow. Our telecommunications solution it's really aligning customer care and service. Sean transforming just think about how communication service providers deliver great customer experiences and you can get away with certain problems, you have got to proactively anticipate these issues before they even come up and if they do come up, you've got to address them quickly to maximize availability and quality of service, so we're seeing a lot of traction in telecommunications to really becoming the standard across the board.
+
+We are super happy with manufacturing and what we're doing there. Operations, technology management, driving the whole notion of what these manufacturers are trying to do to have their critical technology available and provide visibility and security of all of their actions, I know one I would underscore is healthcare and life sciences and service management how do you connect cross-functional health systems and teams and simplify how people engage with the health care providers, payers, pharma companies, and medical device organizations. It's all about the patient experience, and high-tech -- and high-tech manufacturing and another one that's really come on strong for us.
+
+I mean I could give you more, but those are the ones that are just rocking right now. And one thing I'll give you is you can't give a customer a three-star Michelin experience unless you first with your employees and the Now Platform is really controlling the conversation now for enlightened decision-makers because they like got to pay them my IT excellence the employee experience and I've got to take care of my customers in a new and highly innovative way and this platform does the magic they need to be done but it does it in days or weeks, not months and months and months and years. And finally, in all these solutions we're cooperating with the systems of record. The customer knows that they are there and they've got them and they are very important to their business. So, we just come in quickly and make everything better for everyone.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+That's awesome very inspiring Bill. Gina. I guess the follow-up for you. You talked about accelerating growth in new ACV in the quarter. Again, which is quite rare for a company of your size to do quarter in quarter out, not to mention in this type of a macro environment. I guess the question is as the comps get tougher through the year, but you do start returning to more in-person events presumably more productivity from the sales force. Is it possible to see that type of new ACV momentum continue?
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+We -- I talked about in my prepared remarks that we expect Q2 to show accelerating net new ACV growth as well, right consistent. Whether that lasts for the full year, there is pretty -- pretty incredible comp, and so we obviously don't guide full-year net new ACV, Alex. So the reason I spoke about it specifically was really because I wanted everyone to feel confident that the CRPO guide, although slightly less than Q1 really had this impact, right. And then it wasn't driving -- it wasn't a result of the underlying bids, in fact, we are seeing accelerating net new ACV in Q1 and expect similar in Q2. So that was the reason for my comment. I am so proud of our entire organization for being able to drive an acceleration of the scale, at our scale, and just really excited about the momentum we're seeing into Q2. We feel really strong and good about the guide for the full year and the momentum that we're seeing in Q1, we expect to be consistent throughout the year.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Crystal clear, guys. Thanks so much. Congratulations.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much, Alex.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Gregg Moskowitz with Mizuho. Your line is open.
+
+Q - Gregg Moskowitz{BIO 5721834 <GO>}
+All right, thanks very much and I'll add my congrats on a really good quarter. Bill, we all tend to think about ITSM as the workhorse for ServiceNow but it's interesting that it was only included in 11 of your top 20 deals, which is quite a bit less than what we usually see. And I think you mentioned also that 9 of your top 10 were led by non-ITSM products. So, do you look at this, this Q1 result with respect to this metric as more of an anomalous outcome, or do you think it's reflective of ServiceNow increasingly landing and expanding with other workflow automation solutions?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Gregg, it's a great question. Actually, we are so encouraged with our core. Our core is growing beautifully. And if you look at the revenue outcome from our core it's right there at the corporate rate, so what you're seeing has nothing to do with any dilution in that core business. On the contrary, we've got an enormous uplift with our pro-skew as you know that's a 25% uplift. So, it's 30% penetrated now, so there's lots of people that like it and there's many more to go. So we have lots of room left on the approach to. If you think about the kind of customers where we're winning, I mean they are great brands, Amerisource Bergen Baptist Health, Regeneron, GIC Pharmacy. I mean, it goes on Royal Bank of Canada to Telefonica, Uber, Wipro, for example just like sort of complete generational change with it. So, let me make sure I make it clear. The core business has never been stronger, there is no revenue dilution whatsoever. What is happening, we are landing and expanding and you're right. The IT concept really did form the basis for us to move into the employee experience -- the customer experience. The whole creator workflow where citizen developers are now really creating the future they want to see to and without that ever solid magnificent core, none of that would have been possible. So, I want to really set the record straight, our team is doing great across all these segments. The newer or the younger ones are obviously going to get the more on land and expand opportunity, but though we love on our core and we love our leaders.
+
+Q - Gregg Moskowitz{BIO 5721834 <GO>}
+That's fantastic, super helpful. Thanks, Bill.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much. I really appreciate it.
+
+Operator
+Your next question comes from the line of Kirk Materne with Evercore ISI. Your line is open.
+
+Q - Kirk Materne{BIO 5771115 <GO>}
+All right, thanks very much and I'll echo the congrats on a really nice quarter. Bill when the pandemic hit you all were able to operate at a really high level virtually, but as a platform company, I was curious as to how beneficial it is to be able to actually see your customers in person and talk about the entirety of the solution as well as the ability to sort of move up the organization, meaning moving from the CIO suite up to the CEO level. I was just wondering if you could just expand on that a little bit because I think you're in a little bit different position than some other software companies that maybe only sell on one buying center. Thanks.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much, Kurt. I have to tell you one thing that did surprise me a little bit during the whole virtual environment and CEOs were looking for good conversations. So we were able to participate in those conversations then, which is obviously helping us now and we were also able to bring large scale management team gatherings with our team and their team. So we did good. But now that we're opening up we should do even better. So, I look at my calendar for the year. I'll catch my family here and there on the weekends because I'm leaving on Sunday for Europe and after that tour of Europe we will be hit major very soon after that. So we are going full speed to open up the company. We're doing these knowledge events in four distinct locations as I mentioned, our sellers are going out on the street and our management are going out on the street because that's where the customers are. Well and never forget that United Airlines commercial when a guy walks in, he has got a bunch of envelopes and looks to the management team sitting around the table gauging at themselves and he goes, let's go visit some customers so. I expect we're going to get a lot of tailwind out of that because you're right to build trust with net new logos. It happens in person. It's hard to do that in a digital format to really expand the relationship to an enterprise-scale it really does require a good meeting of the minds and emotional trust and we'll do that. So, I really think this is going to be another step-function improvement and ServiceNow's future because as a platform provider getting our customers healthy through some of the challenges that they are fighting through is a seminal moment in our history and I'm excited.
+
+Q - Kirk Materne{BIO 5771115 <GO>}
+Sounds good, thanks very much, Bill.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very, very much, appreciate it.
+
+Operator
+Your next question comes from the line of Tyler Radke with Citi. Your line is open.
+
+Q - Tyler Radke{BIO 20483599 <GO>}
+Hey, thanks for taking my question. I wanted to ask you about how you're seeing the new Impact program rollouts, your customers. And clearly, Bill, you talked a lot about some of the new products you're innovating on and delivering a lot of value to customers, but how are you just kind of threading that line between the price increases on existing products versus the new products that you're delivering and making sure that customers are able to take on the scope of new products, where you guys are really innovating on. Thank you.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Absolutely. I really appreciate the question. So here's the situation our customers need help.0 The impact part of this equation. Think of it much more and the value delivery context than any kind of price increase. It's really accelerating the value realization for the customer against the software that they've already invested in and they want to extract as much business impact as they possibly can. And for too long these customer relationships across every company you can think of is managed by a deck at a point of sale and then ultimately the sale is made and then the consultants come in, but it's kind of like job changes people do different things in a year later on saying, hey, how do we do with that implementation again, then we get what we bought for and what we are basically doing is making sure that they do and that there is a professional format in doing that.
+
+And not just with ServiceNow but also for our great partners. So just think of this concept that the Now Platform from ServiceNow is the place where every conversation takes place between the partner, the customer, and ServiceNow. There is no emails, there is no text, there is no chat on the side, it's all on one platform with everything detailed and spelled out and we measure everything In real-time with all the analytics and all the business outcome spilled out in a way that could be presented to any Board of Directors.
+
+So also on the pricing. Again I want to be clear we're not looking to make up for inflationary pressures by putting it on the customer. There are many new customers. There are many more logos. There are many more expansions to our platform. What we want to make sure is that we do think highly professional and we know the ranges we're, our professional expertise should be valued at and in that valuing and in that business impact to the customer a fair agreement is reached.
+
+We even developed a pricing structure that enables customers to partner with us and look at the enterprise value of doing things with ServiceNow not just one departmental value and I think that whole idea of being a solutions business impact platform company is resonating big time internally and external.
+
+Q - Tyler Radke{BIO 20483599 <GO>}
+Thank you very much.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+And incidentally, if you're interested we've done more than a 100 deals right now on ServiceNow Impact and what we're seeing is user adoption is speeding up, value is being accelerated and customer net promoter and satisfaction is going through the moon and as Gina said the retention rates prove the best in the business.
+
+Operator
+We have time for one last question. Your last question comes from the line of Brad Zelnick with Deutsche Bank. Your line is open.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Fantastic. Thanks so much for fitting me in and what a fabulous start to the year, guys, congrats to you, Bill, I really wanted to ask about the new automation engine as part of the San Diego release, can you remind us of your vision for RPA. What the interest level is and maybe the extent to which these are competitive standalone opportunities. We're more filling in the gaps of workflows that naturally are found on the Now Platform.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+So, it's a really great question. Thank you very much. As you know, this idea of hyper-automation workflows on the Now Platform it means a lot to our existing customers. So what they expect from ServiceNow is to remain that highly innovative Unicorn that we have been one that organically builds better more substantial product experiences with every passing day and in some cases they want us to integrate with other tools in the marketplace. But in other cases, if we can build it and it's all integrated into the Now Platform they would like ServiceNow to own all of that, and we give them choice.
+
+And what you see here and this latest release we brought together process, mining, automation, machine learning, RPA, and low code app development with a seamless combined product experience, and now, customers are going to be quickly innovating and improving the way workflows across the enterprise. So our job is to be helpful and integrate with all the market participants, especially when customers find that pleasing. So we also need to innovate ourselves and continue to build out this platform story in a way that's super compelling and it's generational and that's why I said when I first came to ServiceNow organic is delicious.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Awesome, Bill. Thank you. Look forward to seeing you in Vegas next month.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you. Thank you very much. I look forward to spend some time there.
+
+Operator
+It's all the time we have for questions. This does conclude today's conference call. Thank you for joining. You may now disconnect.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Goodbye.
+

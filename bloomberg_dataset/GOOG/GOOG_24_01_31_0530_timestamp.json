@@ -1,0 +1,338 @@
+[
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thank you. Good afternoon, everyone, and welcome to Alphabet's fourth quarter twenty twenty three earnings conference call. With us today are Sundar Pichai, Philip Schindler and Ruth Peratt. Now I'll quickly cover the Safe Harbor. Some of the statements that we make today regarding our business, operations and financial performance may be considered forward looking.",
+    "start": 58.120003,
+    "end": 78.185005
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Such statements are based on current expectations and assumptions that are subject to a number of risks and uncertainties. Actual results could differ materially. Please refer to our Forms ten ks and ten Q, including the risk factors discussed in our upcoming Form ten ks filing for the year ended December thirty one, twenty twenty three. We undertake no obligation to update any forward looking statement. During this call, we will present both GAAP and non GAAP financial measures.",
+    "start": 78.825005,
+    "end": 106.59499
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "A reconciliation of non GAAP to GAAP measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at abc. Xyzinvestor. Our comments will be on year over year comparisons unless we state otherwise. And now, I'll turn the call over to Sundar.",
+    "start": 106.674995,
+    "end": 127.619995
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Hello, everyone. Our results reflect strong momentum and product innovation continuing into twenty twenty four. Today, I'm going to talk about four main topics. One, our investments in AI, including how it's helping search. Two, subscriptions which reached fifteen billion dollars in annual revenue, up 5x since twenty nineteen.",
+    "start": 128.795,
+    "end": 151.25
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Subscriptions is growing strongly powered by YouTube Premium and Music, YouTube TV and Google One. Three, Cloud, which crossed nine billion dollars in revenues this quarter and saw accelerated growth driven by our Gen AI and product leadership. And four, our investments and focus to meet the growth opportunities ahead. First, AI and Search. As you know, we have long led the way in using AI to improve many of our products from Search to Ads to most of our consumer and enterprise products helping billions of people already.",
+    "start": 152.20999,
+    "end": 189.38501
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Last year brought new excitement around GenAI and I am proud of how we responded responsibly with deep advances in foundation models and a number of great launches. We closed the year by launching the Gemini era, a new industry leading series of models that will fuel the next generation of advances. Gemini is the first realization of the vision we had when we formed Google DeepMind bringing together our two world class research teams. It's engineered to understand and combine text, images, audio, video and code in a natively multimodal way and it can run on everything from mobile devices to data centers. Gemini gives us a great foundation.",
+    "start": 190.185,
+    "end": 232.98001
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "It's already demonstrating state of the art capabilities and it's only going to get better. Gemini Ultra is coming soon. The team is already working on the next versions and bringing it to our products. That starts with Search. We are already experimenting with Gemini in Search where it's making our Search Generative Experience or SGE faster for users.",
+    "start": 233.14,
+    "end": 256.875
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We have seen a forty percent reduction in latency in English in the U. S. I am happy with what we are seeing in the earliest days of SGE. It's available through Search Labs in seven languages. By applying generative AI to search, we are able to serve a wider range of information needs and answer new types of questions including those that benefit from multiple perspectives.",
+    "start": 257.355,
+    "end": 281.275
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "People are finding it particularly useful for more complex questions like comparisons or longer queries. It's also helpful in areas where people are looking for deeper understanding such as education or even gift ideas. We are improving satisfaction including answers for more conversational and intricate queries. As I mentioned earlier, we are surfacing more links with SGE and linking to a wider range of sources on the results page and we will continue to prioritize approaches that add value for our users and send valuable traffic to publishers. Beyond SGE, we are continuing to use AI to make searching more accessible and intuitive.",
+    "start": 281.995,
+    "end": 323.42
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Circle to search lets you search what you see on Android phones with a simple gesture without switching apps. It's available starting this week on Pixel eight and Pixel eight Pro and the new Samsung Galaxy S24 series. And Lens now offers generative AI overviews. You can add text to a visual search to ask questions about anything you see and get AI powered insights in the moment. In addition to search, we are also seeing a lot of interest in our AI powered solutions for advertisers.",
+    "start": 323.98,
+    "end": 357.18
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "That includes our new conversational experience that uses Gemini to accelerate the creation of search campaigns. Then there is Baud, our conversational AI tool that complements search. It's now powered by Gemini Pro and is much more capable at things like understanding, summarizing, reasoning, coding and planning. It's now in over forty languages and over two thirty countries around the world. Looking ahead, we will be rolling out an even more advanced version for subscribers powered by Gemini Ultra.",
+    "start": 357.875,
+    "end": 392.355
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "That's a good segue to subscriptions. As I said earlier, it's now a fifteen billion dollars business annually. YouTube is the key driver of our subscription revenues. Available in over one hundred countries and regions, YouTube Music and Premium have real momentum. They are engaging passionate users and driving great returns for the music industry and creators.",
+    "start": 393.715,
+    "end": 415.85
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "YouTube TV is also doing well. We've had great consumer feedback on the viewing experience. People love the navigation, multi view and unlimited DVR. NFL Sunday Ticket has found its perfect home on YouTube and Philip will talk about that more. Let me also talk about our subscription service Google One.",
+    "start": 416.995,
+    "end": 438.55
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "It's doing incredibly well with strong user growth. It provides expanded storage, unlocks exclusive features in Google products and allows us to build a strong relationship with our most engaged users. Google One is growing very well and we are just about to cross one hundred million subscribers. From here, we are going to bring in more AI features and look forward to more strong growth to come. Next, Google Cloud.",
+    "start": 439.11,
+    "end": 467.47
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Throughout twenty twenty three, we introduced thousands of product advances, including broad GenAI capabilities across our AI infrastructure, our Vertex AI platform and our new Duet AI agents. In Q4, our product and GenAI leadership enabled us to win and expand relationships with many leading brands including Hugging Face, McDonald's, Motorola Mobility and Verizon. Google Cloud offers our AI Hypercomputer, a groundbreaking supercomputing architecture that combines our powerful TPUs and GPUs, AI software and multi slice and multi host technology to provide performance and cost advantages for training and serving models. Customers like Anthropic, Character AI, Essential AI and Mistral AI are building and serving models on it. For developers building Gen AI applications, we offer Vertex AI, a comprehensive enterprise AI platform.",
+    "start": 467.63,
+    "end": 528.33
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "It helps customers like Deutsche Telekom and Moody's discover, customize, augment and deploy over one hundred thirty GenAI models including PALM, MedPalm, SecPalm and Gemini as well as popular open source and partner models. Vertex AI has seen strong adoption with the API requests increasing nearly 6x from H1 to H2 last year. Using Vertex AI, Samsung recently announced its Galaxy S24 series smartphone with Gemini and Imagine two, our advanced text to image model. Shutterstock has added Imagine two to their AI image generator enabling users to turn simple text prompts into unique visuals. And Victoria's Secret and Company will look to personalize and improve the customer experience with Gemini Vertex AI Search and Conversations.",
+    "start": 529.065,
+    "end": 583.93
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Customers are increasingly choosing Duet dot ai, our packaged AI agents for Google Workspace and Google Cloud Platform to boost productivity and improve their operations. Since its launch, thousands of companies and more than a million trusted testers have used dot ai. It will incorporate Gemini soon. In Workspace, Duet dot ai is helping employees benefit from improved productivity and creativity at thousands of paying customers around the world including Singapore Post, Uber and Woolworths. In Google Cloud Platform, Duet dot ai assists software developers and cybersecurity analysts.",
+    "start": 585.325,
+    "end": 624.745
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Dewit dot ai for developers is the only GenAI offering to support the complete development and operations lifecycle fine tuned with the customer's own core corpus and policies. It's helping Wayfair, GE Appliances and Commerce Bank write better software faster with AI code completion, code generation and chat support. With Duet dot ai and security operations, we are helping cybersecurity teams at Fiserv, Spotify and Pfizer. Our robust growth has been driven by strong direct and indirect channels. With ISVs, we have nearly tripled the number of co sell deals from twenty twenty two to twenty twenty three.",
+    "start": 625.32,
+    "end": 667.33997
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "In our ecosystem, there are nearly ninety thousand Google Cloud GenAI enabled consultants and Accenture has teamed up with Google Cloud to create a joint generative AI center of excellence. Next, let me turn to our focus and discipline as we pursue the opportunities ahead. Search, YouTube and Cloud are supported by our state of the art compute infrastructure. This infrastructure is also key to realizing our big AI ambitions. It's a major differentiator for us.",
+    "start": 667.955,
+    "end": 701.125
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We continue to invest responsibly in our data centers and compute to support this new wave of growth in AI powered services for us and for our customers. Through this, we are being disciplined in how we run the company. You have heard me talk about our efforts to durably reengineer our cost base and to improve our velocity and efficiency. That work continues. Teams are working to focus on key priorities and execute fast, removing layers and simplifying their organizational structures.",
+    "start": 701.365,
+    "end": 734.125
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "As just one example, our devices team has brought together different teams from across Nest, Fitbit and other teams into a new functional structure. This will help us pool resources and drive progress across our Pixel portfolio. Across different teams, we have wound down some non priority projects, which will help us invest and operate well in our growth areas. We are also improving our machine utilization, building on our years of experience and driving cost efficiencies in our computing infrastructure and operations. And through our supplier efficiency efforts and automation of certain processes, we have made major improvements in areas like procurement achieving significant savings.",
+    "start": 734.76495,
+    "end": 781.36
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "That's a snapshot of the quarter before I close a couple of other highlights. Pixel eight, our AI first phone was awarded Phone of the Year by numerous outlets. It now uses Gemini Nano with features like Magic Compose for Google Messages and more to come. In our Other Bets portfolio of companies, Waymo, which is deeply focused on safety, reached over one million fully autonomous ride hailing trips. And Isomorphic Labs entered into strategic partnerships with Eli Lilly and Novartis to apply AI to treat diseases, which has great potential.",
+    "start": 783.035,
+    "end": 818.46497
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Twenty twenty three was a year of profound innovation and product momentum. Thank you to our many partners. We succeed when our partners do and we are grateful for the work we do together. From our partners across the Android ecosystem who are on display at CES to our deep relationships with retailers, small businesses and advertising partners, to the next generation of AI startups and developers and many more. I also want to thank all of our employees for their hard work throughout twenty twenty three and the start of the new year.",
+    "start": 819.345,
+    "end": 853.32
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "I'm excited for what's ahead in twenty twenty four.",
+    "start": 853.64,
+    "end": 856.84
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Philip? Thanks Sundar and hi everyone. Google services revenues of seventy six billion dollars were up twelve percent year on year. In Google advertising, Search and Other revenues grew thirteen percent year on year, led again by solid growth in the retail vertical. We had particular strength in retail and APAC, a trend that began in the second quarter of twenty twenty three and continued through the end of the year.",
+    "start": 857.16003,
+    "end": 881.855
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "YouTube ads revenue were up sixteen percent year on year, driven by growth in both direct response and brand. And network revenues declined two percent year on year. In subscriptions, platforms and devices, which was previously named Google Other, year on year revenues increased twenty three percent driven by strong growth in subscriptions. Now for some color on the quarter and where we see continued upside for long term advertising growth. Over the last few calls, I have consistently highlighted how we're putting Google AI to work for our customers to deliver profitability and help them achieve their goals in a do more with less environment.",
+    "start": 882.75,
+    "end": 919.24
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "From a product perspective, in Q4, Performance Max remained a bright spot. We are also excited about the ManGen momentum. This is our big bet to help social advertisers find and convert consumers via immersive, relevant visual creatives across YouTube, including YouTube Shorts, Gmail and Discover. In a single campaign, you get access to over three billion users as they stream, scroll, connect and decide what to buy. Tens of thousands of advertisers are testing and on average seeing six percent more conversions per dollar versus image only ads and discovery campaigns.",
+    "start": 919.95996,
+    "end": 955.585
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "As we look ahead, we're also starting to put generative AI in the hands of more and more businesses to help them build better campaigns and even better performing ads. Automatically created assets help advertisers show more relevant search ads by creating tailored headlines and descriptions based on each ad's context. Adoption was up with strong feedback in Q4. In addition to now being available in eight languages, more advanced Gen AI powered capabilities are coming to ACA. And then last week's big news was that Gemini will power our new conversational experience in Google Ads.",
+    "start": 956.705,
+    "end": 991.335
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "This is open beta to U. S. And UK advertisers. Early tests show advertisers are building higher quality search campaigns with less effort, especially SMBs who are forty two percent more likely to publish a campaign with good or excellent ad strength. We can't wait to see how this continues to drive performance and level the playing field for advertisers of all sizes.",
+    "start": 991.99,
+    "end": 1014.715
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "As we shared last quarter, ads will continue to play an important role in the new search experience, and we'll continue to experiment with new formats native to SGE. SGE is creating new opportunities for us to improve commercial journeys for people by showing relevant ads alongside search results. We've also found that people are finding ads either above or below the AI powered overview helpful as they provide useful options for people to take action and connect with businesses. Looking at our strong search performance for the fourth quarter, retail was a highlight. We continue to see a stronger start to the season up to and including Cyber five.",
+    "start": 1015.59503,
+    "end": 1054.5499
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In Q3, we indicated that we were seeing early trends of consumers being very price conscious, and we saw this play out in Q4. With promotional demand at an all time high, deal seekers using Google had access to 2x the deals in the U. S. Versus last season as well as a better shopping experience. Launches included a one stop shop deals destination, new filters like get it fast and AI generated gifting recommendations in SGE.",
+    "start": 1054.87,
+    "end": 1082.4099
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "These new features drove incremental query growth during key shopping moments like Cyber5. Our proven AI powered ad solutions were also a win for retailers looking to accelerate omni growth and capture holiday demand. Quick examples include a large U. S. Big box retailer who drove a sixty percent plus increase in omni ROAS and a twenty two percent plus increase in store traffic using Performance Max during Cyber five and a well known global fashion brand, who drove a fifteen percent plus higher omnichannel conversion rate versus regular shopping traffic by showcasing its store pickup offering across top markets through pick up later on shopping ads.",
+    "start": 1082.65,
+    "end": 1124.0
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Moving on to YouTube. We are obviously pleased with YouTube's advertising revenue growth in Q4 and also significant growth in our subscription revenue. I will reiterate what I have said before. YouTube success starts with creator success. We give millions of creators more ways to create content and connect with fans and more ways to make money and build their own businesses than any other platform.",
+    "start": 1125.195,
+    "end": 1147.89
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "More creators means more content, which leads to more viewers. And via ads and subscriptions, these viewers fund our creators and drive the eyeballs and engagement our advertisers want. To keep this momentum going, we're focused on delivering value across four pillars: creation, viewers, monetization and responsibility. First, creation, which increasingly take place on mobile devices. We have invested in a full suite of tools, including our new YouTube Create app for Shorts to help people make everything from fifteen second Shorts to fifteen minute videos to fifteen hour live streams with a production studio in the palm of their hands.",
+    "start": 1148.29,
+    "end": 1185.825
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "GenAI is supercharging these capabilities. Anyone with a phone can swap in a new backdrop, remove background extras, translate their video into dozens of languages, all without a big studio budget. We're excited about our first products in this area, from DreamScreen for AI generated backgrounds to Aloud for AI powered dubbing. There is more to come. Number two, viewers.",
+    "start": 1186.225,
+    "end": 1210.53
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We continue to grow watch time across YouTube with strong growth in Shorts and Connected TV. Shorts remains a top priority. We have two billion plus logged in users every month, and we are averaging seventy billion in daily views. Connected TVs, or what we refer to as the living room, is where viewership is growing the fastest. We're investing to make this experience even better with interactive features tailored to TVs, plus the content people love.",
+    "start": 1211.0449,
+    "end": 1238.27
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Our creators, NFL Sunday Ticket and a range of live sports and studio content via YouTube TV and prime time channels. Put this all together and YouTube is the must have app on every connected TV. Monetization is pillar number three and realized through a combination of ad supported and subscription offerings. Advertising generates the bulk of our revenue, and we continue to invest heavily here. We have rolled out CTV first formats like thirty second non skippable ads and pause experiences as well as an industry first send to phone experience that lets people use a second screen to engage with ads.",
+    "start": 1238.665,
+    "end": 1276.4349
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "For Shorts, we have developed new formats that are less interruptive to viewers. It's early, we are learning, but excited by the opportunities for ads this can unlock. Shorts monetization continues to progress nicely. Our AI powered video formats from video reach and video view campaigns to demand gen and video action continue to make advertiser dollars go further and drive results across the funnel. We're also introducing new and existing advertisers to YouTube via sports content.",
+    "start": 1276.995,
+    "end": 1307.0149
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Ninety plus upfront and scatter advertisers, including Unilever, are partnering with YouTube in our first year across NFL Sunday ticket in game advertising opportunities. Our subscription offerings are also growing at a healthy clip. YouTube Music and Premium performed well. Premium users are delivering more value to our partners and YouTube than even ad supported users do. On average, each additional premium sign up boosts earnings for creators, music and media partners and YouTube itself.",
+    "start": 1307.495,
+    "end": 1337.185
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And we've made premium even more attractive with new features, bundles and other enhancements. We're also pleased with our first season of NFL Sunday Ticket. It gave creators new opportunities to create content and feed user engagement across traditional user content and professional sports content. Feedback on the user experience, including multi view, has been great. We're excited to continue to innovate here.",
+    "start": 1337.9501,
+    "end": 1360.5549
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Responsibility is our fourth pillar, and it underlines everything we do across YouTube. We continue to focus relentlessly on this. As always, deepening our relationships with key partners to bring them the best of Google is a key priority for us, and we continue to do this across industries in Q4. We just talked about Navelle. Sundar mentioned Samsung, among others, earlier.",
+    "start": 1361.4349,
+    "end": 1383.01
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Another highlight was our expanded partnership with Porsche to enhance customers' digital experiences with a deeper in vehicle integration of Google built in services, including Google Maps and Play. Whether it's continued collaboration with our partners and key ecosystems or putting Google AI to work for more customers, I am excited about the opportunities for continued impact in twenty twenty four. I will wrap with a huge note of gratitude to our customers and partners. Our success is only possible because of their success. And then to our Googlers for their outstanding work and focus this year.",
+    "start": 1383.7849,
+    "end": 1418.745
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Ruth, over to you.",
+    "start": 1418.905,
+    "end": 1420.585
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Thank you, Philip. We are very pleased with our full year results with twenty twenty three Alphabet revenues of three zero seven billion dollars up nine percent versus twenty twenty two, which added twenty five billion dollars to revenue for the year. We ended with a strong fourth quarter with consolidated revenues of eighty six point three billion up thirteen percent versus last year in both reported and constant currency. Search remained the largest contributor to revenue growth. My comments will be on year over year comparisons for the fourth quarter unless I state otherwise.",
+    "start": 1421.4651,
+    "end": 1455.215
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Total cost of revenues was thirty seven point six billion dollars up six percent. Other cost of revenues was twenty three point six billion dollars up five percent, with the increase driven primarily by content acquisition costs associated with YouTube subscription offerings. The growth rate also reflects the offsetting benefit of lapping one point two billion dollars in inventory related charges that we called out in the fourth quarter last year as well as a reduction in depreciation expense due to changes in estimated useful lives we made starting in the first quarter of twenty twenty three. In terms of total expenses, the year on year comparisons reflect an additional one point two billion dollars in exit charges that we took in the fourth quarter of twenty twenty three in connection with actions to optimize our global office space. As you can see in our earnings release, these charges were allocated across the expense lines in other cost of revenues and OpEx based on associated headcount.",
+    "start": 1456.1699,
+    "end": 1522.24
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Operating expenses were twenty five billion dollars up eleven percent, primarily reflecting an increase in R and D expenses, which were driven by the real estate charges, followed by compensation. Operating income was twenty three point seven billion dollars up thirty percent, and our operating margin was twenty seven percent. Net income was twenty point seven billion dollars and EPS was one point six four dollars We delivered free cash flow of seven point nine billion dollars which was affected by the timing of the ten point five billion dollars tax payment we made on October sixteen that we called out previously related to the deferral of certain tax payments to the fourth quarter. For the full year twenty twenty three, free cash flow was sixty nine billion dollars We repurchased a total of sixty two billion dollars of our Class A and Class C shares in twenty twenty three and ended the year with one hundred and eleven billion dollars in cash and marketable securities. Turning to segment results.",
+    "start": 1523.12,
+    "end": 1585.535
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Within Google services, revenues were seventy six point three billion dollars up twelve percent. Google search and other advertising revenues of forty eight billion dollars in the quarter were up thirteen percent, led again by growth in retail. YouTube advertising revenues of nine point two billion dollars were up sixteen percent, driven by both direct response and brand advertising. Network advertising revenues of eight point three billion dollars were down two percent. Subscriptions, platforms and devices revenues, which we previously referred to as other revenues, were ten point eight billion dollars up twenty three percent, primarily reflecting growth in YouTube subscription revenues.",
+    "start": 1585.535,
+    "end": 1630.4899
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "TAC was fourteen billion dollars up eight percent. Google services operating income was twenty six point seven billion up thirty two percent and the operating margin was thirty five percent. Turning to the Google Cloud segment. Revenues were nine point two billion dollars for the quarter, up twenty six percent. We're very pleased with the momentum of GCP with an increasing contribution from AI.",
+    "start": 1630.97,
+    "end": 1657.7599
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Google Workspace also delivered strong revenue growth, primarily driven by increases in average revenue per seat. Google Cloud delivered operating income of eight sixty four million dollars and an operating margin of nine percent. As to our other bets, for the full year twenty twenty three, revenues were one point five billion dollars and the operating loss was four point one billion dollars Results in the fourth quarter benefited from a milestone payment in one of the other bets. Turning to our outlook for the business. With respect to Google services, first within advertising.",
+    "start": 1658.1599,
+    "end": 1696.8649
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "We were pleased with the sequential revenue growth of search and YouTube advertising throughout twenty twenty three, which reflects the extraordinary work across our teams to drive improved experiences for users and attractive ROI for advertisers. As we enter twenty twenty four with advertising revenues of more than one hundred billion dollars higher than twenty nineteen, we remain focused on sustaining healthy growth on this larger base. Second, within subscriptions, platforms and devices. Our total revenues from subscription products reached fifteen billion dollars for the full year twenty twenty three, driven primarily by substantial growth in subscribers for our YouTube subscription offerings. The substantial increase in our subscription revenues over the past few years demonstrates the ability of our teams to deliver high value add offerings and provides a strong base on which to build, including through YouTube and newer services like Google One.",
+    "start": 1697.1849,
+    "end": 1759.4849
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Play had solid growth again in the fourth quarter, driven primarily by an increase in the number of buyers. In devices, we continue to make sizable investments with increased emphasis on our Pixel family, particularly with AI powered innovation, while driving further efficiencies across the portfolio. Turning to Google Cloud. We are pleased with operating performance in the year. Full year revenues of thirty three billion dollars were up twenty six percent versus prior year, ending with strong Q4 performance.",
+    "start": 1760.0449,
+    "end": 1792.225
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "The cloud team is intensely focused on bringing the benefits of Gemini, our industry leading AI technology, to enterprises and governments globally, and we are gratified with the level of engagement. The strong demand we are seeing for our vertically integrated AI portfolio is creating new opportunities for Google Cloud across every product area. In terms of profitability, the improvement in twenty twenty three reflects sustained focus across the team with the intent to maintain healthy profitability while we continue to invest to support long term growth. Turning to margins and expenses. As we have repeatedly stressed, we remain committed to our framework to durably reengineer our cost base as we invest to support our growth priorities.",
+    "start": 1793.01,
+    "end": 1839.445
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Key contributors to moderating our expense growth include: first, product and process prioritization to ensure we have the right resources behind our most important opportunities and to reallocate resources where we can second, organizational efficiency and structure. We're focused on removing layers to simplify execution and drive velocity. Both product prioritization and the organization design efforts result in a slower pace of hiring, as you can see with our headcount down year on year, reflecting the reductions we announced in the first quarter of twenty twenty three and a much slower pace of hiring. We will continue to invest in top technical and engineering talent. Finally, we continue to execute the other work streams to slow expense growth, including improving efficiency in our technical infrastructure, streamlining operations across Alphabet through the use of AI, increasing efficiency of our spend with suppliers and vendors through our central procurement organization and optimizing our real estate portfolio.",
+    "start": 1839.925,
+    "end": 1907.46
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "With respect to CapEx, our reported CapEx in the fourth quarter was eleven billion dollars driven overwhelmingly by investment in our technical infrastructure with the largest component for servers followed by data centers. The step up in CapEx in Q4 reflects our outlook for the extraordinary applications of AI to deliver for users, advertisers, developers, cloud enterprise customers and governments globally and the long term growth opportunities that offers. In twenty twenty four, we expect investment in CapEx will be notably larger than in twenty twenty three. With regard to other bets, we've been working to sharpen our investment focus while capturing the upside given compelling technology breakthroughs across the portfolio. For example, last week, Alphabet's X announced that it would be moving to spin out more projects as independent companies through external capital, giving X the opportunity to bring more focus to the breakthrough technologies it is working on to address some of the world's most pressing challenges.",
+    "start": 1908.1,
+    "end": 1973.495
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Thank you. Sundar, Philip and I will now take your questions.",
+    "start": 1973.975,
+    "end": 1977.6549
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thanks, everyone, for joining us today. We look forward to speaking with you again on our first quarter twenty twenty four call. Thank you and have a good evening.",
+    "start": 3410.525,
+    "end": 3418.33
+  }
+]

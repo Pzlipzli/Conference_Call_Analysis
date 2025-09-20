@@ -1,0 +1,244 @@
+Q4 2021 Earnings Call
+Company Participants
+Brian T. Olsavsky, Senior Vice President and Chief Financial Officer
+Dave Fildes, Director of Investor Relations
+Other Participants
+Brian Nowak, Morgan Stanley
+Colin Sebastian, Baird
+Dan Salmon, BMO Capital Markets
+Doug Anmuth, J.P. Morgan
+Eric Sheridan, Goldman Sachs
+Jason Helfstein, Oppenheimer
+John Blackledge, Cowen and Company
+Justin Post, Bank of America
+Mark Mahaney, Evercore ISI
+Presentation
+Operator
+Thank you for standing by. Good day, everyone, and welcome to the Amazon.com Q4 2021 Financial Results Teleconference. At this time, all participants are in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Today's call is being recorded.
+
+For opening remarks, I will be turning the call over to the Director of Investor Relations, Dave Fildes. Please go ahead.
+
+Dave Fildes{BIO 20638976 <GO>}
+Hello, and welcome to our Q4 2021 financial results conference call. Joining us today to answer your questions is Brian Olsavsky, our CFO.
+
+As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter. Please note, unless otherwise stated, all comparisons in this call will be against our results for the comparable period of 2020.
+
+Our comments and responses to your questions reflect management's views as of today, February 3, 2022 only, and will include forward-looking statements. Actual results may differ materially. Additional information about factors that could potentially impact our financial results is included in today's press release and our filings with the SEC, including our most recent Annual Report on Form 10-K and subsequent filings.
+
+During this call, we may discuss certain non-GAAP financial measures. In our press release, slides accompanying this webcast, and our filings with the SEC, each of which is posted on our IR website, you will find additional disclosures regarding these non-GAAP measures, including reconciliations of these measures with comparable GAAP measures.
+
+Our guidance incorporates the order trends that we've seen to-date, and what we believe today to be appropriate assumptions. Our results are inherently unpredictable and may be materially affected by many factors, including uncertainty regarding the impacts of the COVID-19 pandemic, fluctuations in foreign exchange rates, changes in global economic conditions and customer demand and spending, inflation, labor market, and global supply chain constraints, world events, the rate of growth of the Internet, online commerce and cloud services, and the various factors detailed in our filings with the SEC. This guidance also reflects our estimates to-date regarding the impacts of the COVID-19 pandemic on our operations, including those discussed in our filings with the SEC.
+
+Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, restructurings or legal settlements. It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
+
+And now, I'll turn the call over to Brian.
+
+Brian T. Olsavsky{BIO 18872363 <GO>}
+Thanks for joining us today.
+
+Let me start by once again acknowledging and thanking our employees around the world for their efforts. This was the second holiday season during this pandemic and it required exceptional collaboration and coordination among our employees and business partners to prioritize both, safety and customer experience. The team did a great job of delivering for customers this holiday.
+
+Now, let's discuss our fourth quarter financial results.
+
+For the fourth quarter, net sales were $137.4 billion, an increase of 10% year-over-year excluding the impact of foreign exchange. We continue to focus on offering the best experience for our customers across our businesses.
+
+On the consumer side, we welcomed millions of new Prime members in both the United States and international during the quarter, while continuing to see consistently high member renewal rates across geographies.
+
+Our third-party sellers, in particular, benefited from strong customer demand this holiday season. 3P sellers provided 56% of all unit sales in the quarter, the highest fourth quarter mix ever. And AWS saw continuation of the strong usage and revenue growth we've seen throughout 2021. AWS added more revenue year-over-year than any quarter in its history, and is now a $71 billion annualized run rate business, up from $51 billion run rate one year ago. Even on a large base, revenue increased 40% year-over-year.
+
+As I've mentioned in prior calls, we also encourage you to look at the multi-year compounded annual revenue growth rate since the onset of the pandemic to better put this revenue growth in perspective. Despite lapping 2020's extraordinary sales growth, we continue to see an increase in customer demand and sales during the remainder of 2021, even as the economy opened back up.
+
+For Q4, Amazon's two-year annual compounded growth rate was 25%, excluding impacts from foreign exchange, consistent with our rate in the third quarter. We've invested significantly to keep pace with this demand, including nearly doubling our operations capacity in the past two years, expanding our fulfillment center footprint while adding significant transportation assets to ensure fast, on-time delivery. There are now 1.6 million Amazon employees worldwide, also doubling in the two-year period.
+
+Our fourth quarter operating income was $3.5 billion. As we mentioned in the last earnings call, we did see more than $4 billion in costs from inflationary pressures and lost productivity and disruption in our operations. The inflation primarily relates to wage increases and incentives in our operations, as well as higher pricing from third-party carriers supporting our fulfillment network. Lost productivity in network disruptions were driven primarily by labor capacity constraints due to challenges in staffing up our facilities for peak. So, it's driven by the very tight labor market in the second half of 2021, and more recently, by the emergence of the Omicron variant.
+
+We do expect these cost challenges to persist into Q1, albeit adjusted for lower seasonal volumes relative to the fourth quarter. Our results also include approximately $1 billion year-over-year negative impact from lower fixed cost leverage in our fulfillment network.
+
+Recall that we saw very high unit volumes for most of 2020 and the first half of 2021, and our fulfillment network was running a close to 100% capacity during this time. Now, with more normal fulfillment capacity, our operating leverage decreases versus the comparable prior year periods. We'll expect to continue to see some negative year-over-year impact from this in Q1 of 2022.
+
+While we navigate these near-term headwinds, the fundamentals of our retail business are strong, and we are optimistic about the number of growth businesses and a strong innovation pipeline. AWS delivered another strong quarter of growth as enterprises and developers continued to look to AWS for critical, innovative cloud solutions. Now with a $71 billion annualized revenue run rate, AWS's revenue grew 40% year-over-year in Q4, our fourth consecutive quarter of revenue growth rate acceleration.
+
+We hosted our 10th re:Invent conference in the quarter, welcoming 26,000 in-person attendees and hundreds of thousands who attended virtually. re:Invent remains a highlight of the year for us because it's a great opportunity to introduce new services while engaging with customers and partners to better inform where we should be focusing next.
+
+We announced more than 115 new services and features during the event, as businesses spanning all major industries continue to choose AWS as their technology provider to speed up innovation in their organizations.
+
+In the past quarter alone, NASDAQ announced a multi-year partnership to migrate its North America markets to AWS, including their matching engine. Best Buy selected AWS as its preferred cloud provider for cloud infrastructure services. Meta, the parent company of Facebook, Instagram, and WhatsApp, selected AWS as its long-term strategic cloud provider to accelerate artificial intelligence research and development. And Stellantis, the parent company of Chrysler Dodge, Fiat, Jeep, and RAM, selected AWS as its preferred global cloud provider for vehicle platforms to accelerate new digital products and up skills global workforce.
+
+You can find more examples in our earnings release of how the world's largest companies such as Adidas, Goldman Sachs, Pfizer, Rivian, and more, are using AWS to transform their businesses.
+
+Overall, net income was $14.4 billion in the fourth quarter. While we normally focus our comments on operating income, I'd point out that this net income includes a pre-tax valuation gain of $11.8 billion related to our common stock investment in Rivian Automotive, which completed its initial public offering in November.
+
+Before we move to Q&A, there are three additional items I'll mention related to our disclosures. First, we are now separating advertising services revenue from other revenue as part of our revenue disclosures by groups of similar products and services. This updated presentation is provided in the supplemental financial information included in our earnings release.
+
+We're excited to continue innovating in areas like sponsored ads, streaming video, and measurement. Of course, advertising only works if we make it useful for Amazon customers, and when we create great customer experiences, we deliver better outcomes for brands.
+
+Second, we're prospectively updating the useful life of our servers and networking equipment, beginning in January. As a practice, we monitor and review the useful lives of our depreciable assets on a regular basis to make sure that our financial statements reflect our best estimate of how long the assets are going to be used in operations.
+
+We are increasing the useful life for servers from four years to five years, and network equipment from five years to six years. As a result, our first quarter guidance includes an approximate $1 billion of lower depreciation expense. We expect the quarterly impact of this change to decrease throughout the year.
+
+Although we're calling out an accounting change here, this really reflects a tremendous team effort by AWS to make our server and network equipment last longer. We've been operating at scale for over 15 years and we continue to refine our software to run more efficiently on the hardware. This then lowers stress on the hardware and extends the useful life both for the assets that we use to support AWS's external customers, as well as those used to support our own internal Amazon businesses.
+
+And finally, we will increase the price of Prime in the United States in Q1. We continue to make Prime better. In recent years, we've added more product selection available with fast, free, unlimited shipping, more exclusive deals and discounts, and more high-quality entertainment including TV, movies, music, and books.
+
+Since 2018, Prime Video has tripled the number of Amazon Originals. And this September, Prime Video will also release the highly anticipated the Lord of the Rings: The Rings of Power and become the exclusive home of Thursday Night Football, as part of an historic 11-year agreement with the National Football League.
+
+Since 2018, in the U.S., availability of same-day delivery has expanded from 48 metropolitan areas to more than 90. Items available for Prime Free Shipping have increased over 50%, and members have saved billions of dollars shopping on Prime Days. This is all on top of new program benefits like prescription savings, and fast, free delivery from Amazon Pharmacy, and the continually growing Amazon Music catalog for Prime members, as well as Prime Reading and Prime Gaming.
+
+With the continued expansion of Prime member benefits and the increased member usage that we've seen as well as the rise in wages and transportation costs, Amazon will increase the price of our Prime membership in the United States with the monthly price going from $12.99 to $14.99, and the annual membership going from $119 to $139. This is our first price increase since 2018.
+
+For new Prime members, the price change will go into effect on February 18th. For current Prime members, the new price will apply after March 25th, on the date of their next renewal.
+
+With that, let's move on to Q&A.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. At this time, we'll open up for questions. (Operator Instructions). Please hold while we poll for questions. Thank you. Our first question is coming from Eric Sheridan with Goldman Sachs. Please proceed with your question.
+
+Q - Eric Sheridan{BIO 22465717 <GO>}
+Thanks so much for taking the question. I want to come back to the comments in the release by Andy on same-day delivery. Can you talk a little bit about how many of those investments might be behind you versus ahead of you with respect to same-day delivery, and how that sets the company up with respect to either consumption behavior by consumers versus the competitive dynamic you're seeing against elements of like omni-channel and last mile delivery competitors? Thanks so much.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Hi, Eric. Sure, thing. So on same-day, again, there's multiple levels of fast shipping here from ultra-fast, which is essentially our grocery business in one to two hours, to same day, and last, and then one-day and two-day prime. We feel good about where we are. We're continuing to build capacity that enables us to hit those cut-offs. I think his comments were more around getting us back to our pre-pandemic levels for one-day delivery and improving upon that, and then getting same-day to more and more metropolitan areas.
+
+We're doing that globally as well, but we really think that that combination of speed for different product levels or -- product line, excuse me, really resonates with customers. And, there's a lot of new offers for free, or excuse me, or generally free shipping on fast basis. But we know how hard this is, and our goal is to do it, and do it at a price that we can make money on as well and have our cost structure commensurate with that. So that's where the difficult work comes in, but we like the progress we've made, developing our Amazon logistics capability over the last few years, and we've been adding, as we've mentioned, we've doubled the capacity in the network over the last two years. That is not all. Just to handle today's volume, it's also to handle getting closer to the customer and being able to ship faster. So we like where we stand. We know there's work to do on improving our customer service. We like the progress we have been making lately, but we think the future is bright on that dimension.
+
+Operator
+Our next question is from Brian Nowak with Morgan Stanley. Please proceed with your question.
+
+Q - Brian Nowak{BIO 16819013 <GO>}
+Thanks for taking my questions. I've two. Brian, the first one, you know there is a lot that's changed within the retail business, sort of pre-pandemic, post- pandemic, more same day, more grocery, more last mile investments, and then ad business. I'd be curious to hear as you sort of, as you think about the long-term profitability of the retail segment, has your view about how you think about long-term profitability or cash flow retail fallen at all post-pandemic because of the higher required investments? This is the first one.
+
+Then the second one, like the new disclosure, I'd be curious for any other disclosure about the number of engineers or the size of the teams? You are working on a lot of the innovation that you talked about that are sort of more around early-stage non-revenue generating projects so we can better understand that investment in Amazon? Thanks.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Sure. On the second one, we have a history of making long-term bets for customers and some of those fall into very small short-term revenue businesses. They all generally roll up into other revenue which you see is very small after we've separated out advertising. So I think that you do see it in our revenue disclosure generally, but a lot of our profitability has shown at the segment level and we'll continue to do that with the revenue disclosure.
+
+You ask about the business model, I think it's a good question, and we are -- as we reflect over the last two years, we are encouraged by a lot of things. You check them off there, the adoption of digital benefits, the use of grocery and how valuable that's become to customers, not to mention the acceleration of companies going to the cloud. The ability to double our fulfillment capacity over that time period including making major strides in our Amazon Logistics, sets us up well for the future. And -- but, we've been also dealing with a lot of disruptions during this time period. So the early way of disruption was handling volume without the capacity to handle it. And then quickly playing catch-up, and as that was starting to improve, labor took a turn in the United States, especially labor availability, and we've really had to scramble to add workers.
+
+We've been successful at it. We added over 273,000 employees in the last, half of last year. But I think if you look at the prior year, it was over 400,000. So there's a lot of expansion that's been going on in the network and we feel good about the basic contributors of profitability. There's -- if you step back, there's procurement margin on working with vendors and sellers as well. There's fees, in some cases, for 3P services and Prime as we just mentioned is going up. Advertising has certainly added a layer of contribution over the last few years. But again, that only works and is only successful if we make it a good customer experience.
+
+So we're really working hard to do that and that becomes a part of our ability to offer lower prices, better selection, and more convenience. So if you take those, those are all stable and strengthening areas. It's really the onus is on us to get our operational efficiency back in all of our areas of cost. We have, again, built a lot of capacity. We've hired a lot of people. Some of those people are still -- our teams are all battling Omicron right now. But we do see the sun coming out and getting better here over the next number of quarters and that's going to be where we're going to put a lot of our effort.
+
+Operator
+Our next question is from is from Doug Anmuth with J.P. Morgan. Please proceed with your question.
+
+Q - Doug Anmuth
+Thanks for taking my question. Brian, you've doubled your fulfillment network and also your headcount over the past two years. I believe you're about 2.5 years into this investment cycle. Where is Amazon in terms of emerging from this investment cycle? Can you see a slowdown in that big investment spending this year?
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Yes, let me -- let's talk a little bit about capital expenditures. And I'm going to do this with a inclusion of equipment finance leases, which is the residual that we saw sometimes lease on our infrastructure assets. We're doing less of it now, but we still do some and have done it historically.
+
+So, when you look at those numbers and how they've grown over the last few years -- but I'll give you the proportions, which I'm not sure we've initially shown before is, about 40%, just under 40% of that CapEx is going into infrastructure, most of it feeding AWS, but also certainly Amazon is a large customer of that as well as we build infrastructure for ourselves directly or through AWS. About just under 30% is fulfillment capacity, building warehouses, warehouse only, not transportation. And then just under 25% is transportation capacity and building out our ENTL Network, principally globally. The remaining 5% or so is small things like offices and stores and other capital areas.
+
+But those are the three main areas. If I look to the future, we're still working through some of our plans for 2022, but it's coming into focus a bit. We see the CapEx for infrastructure going up. We still have a very fast growing business that's growing globally, and we're adding regions and capacity to handle but usage of that still exceeds revenue growth in that business. So feel good about making those investments.
+
+On the fulfillment center side, that's about 30% of the spend in the last two years. We see that moderating and that will probably now match growth of our underlying businesses. I think there's always things that can kick up that growth rate, things like expansion of our FBA business, expansion of cube that maybe not be different than the square footage. So there's -- we want to have capacity to have a healthy retail and FBA business, because that fuels Prime and one-day delivery and two-day delivery and same-day delivery. So that's very important. But we see the FCPs likely moderating this year.
+
+And then the third piece is transportation. We still see additional levels of investment in that in 2022. So if you wrap that up, we expect CapEx, including equipment finance leases to increase year-over-year. I can't give you the exact percentage, but hopefully, it gives you a little more dynamic on what -- how we approach it.
+
+Operator
+Our next question is from Mark Mahaney with Evercore ISI. Please proceed with your question.
+
+Q - Mark Mahaney{BIO 3027058 <GO>}
+Okay. Thanks. You'd lay out all of these costs that you were expecting to see in the December quarter. Just talk to whether there were any real surprises to you. So that looks like you had a little bit greater leverage than you may have thought? And then use that to help us think about what the, I think you said the sun is coming out. Financially, does that mean that we're going to have a kind of nice improvement in operating margins as we go through the year as some of those temporary costs get temporized, and you get to absorb some of the more fixed cost? So just talk about where the surprise was in terms of those costs that you laid out for the December quarter, the $6 billion and how should -- we should think about those playing out as we go forwards? Thanks a lot.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Okay. Mark. Just remember that I'm sitting in Seattle. So my view of the sun coming out is a little different than perhaps where you are. But no, we do see things improving. We do -- let's step back to Q4. We had said that we would have about $4 billion of additional costs due to labor shortages and the inefficiencies that that caused as well as increased labor rates and shift differentials -- premiums and external transportation costs.
+
+We came in just slightly over that $4 billion. I think things went as expected. I would say that the hiring was strong, but we could have done better, we could have had more people. So we had to cover a lot of -- there's additional over time. The -- there's some higher cost from third-party transportation. But all-in-all, the challenge in Q4 was to staff -- raise, or excuse me, increase the staffing. And we said, we wanted to add 150,000 people or more, we added net-net about 140,000 in the quarter, 273,000 in the second half of the year.
+
+So as we turn the page into 2022, we feel good, better about labor, except Omicron has kicked up, and now you have a different type of labor issue, where there's a lot of people who are on leave of absences short term as they work to have a positive test on COVID and can get back into the workforce and protect their fellow workers. So there's instances where you're paying twice or 3x for the same labor hour. If someone is on leave, you're paying them and you're also paying potentially for someone who's covering the shift on over time. So there's cost pressure in Q1.
+
+I think, the good news is that the labor we're -- the labor challenge is not as great in Q1 as it is in Q4, Q3 and Q4. So we're hopeful on that. We have to work to now make our operations more efficient as we get staffing levels up. And we're going to plough a lot of our effort into increasing our transportation speeds and beating our pre-pandemic levels. So there's a lot of different challenges going on right now. The team is -- have been working heads down for over two years now. So they need -- we've got a great team and we have confidence that we will -- things will improve as we get through the year. So hopefully that answers your question.
+
+Operator
+Our next question is from Colin Sebastian with Baird. Please proceed with your question.
+
+Q - Colin Sebastian{BIO 6373379 <GO>}
+Thanks, and hey, Brian and Dave. Wanted to ask about AWS and nice acceleration in revenues there. Wondering if you could talk about maybe more specifically the drivers of that acceleration. Is the application layer maybe now large enough where you're seeing that contribute incrementally to growth? And I think in the release, you also highlighted infrastructure expansion globally. I think it might be interesting to add some context around the scale or distribution of the AWS business internationally outside of North America, if you could put some context around that? Thank you.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Sure, Colin. Thanks for your questions. On the growth rate, I think it's a combination of things. We've been adding resources in sales and marketing over the last few years and that is starting to pay off. There was some cut back in spending in the early parts of 2020 that were lapping, as people -- different companies had different COVID experience. Some, their volumes went through the roof; some, their volumes went through the floor.
+
+So as things have stabilized, I think, the lasting thing is that a lot of people made the commitment to go to the cloud, better understood the benefits of that, and probably accelerated their internal timelines for that. And we're there to help and we're working very hard to make that journey to successful one, and we have a strong team of sales and marketing professionals to help as well as new technical advisor. So that is what we're seeing and we're pleased with the acceleration of the business in the last four quarters. The -- we will see, we're also pleased with the efficiency of the infrastructure investment as I've mentioned. The expansion of useful life is not done on an accounting basis, unless you have proof that it's actually, we're seeing it in real life. So very positive indicators in AWS.
+
+A - Dave Fildes{BIO 20638976 <GO>}
+Hey, Colin. And it's Dave here, just following up on the international point. What we're seeing outside of the U.S. I mean are -- as part of that overall strong growth, we are continuing to see considerable momentum really around the world. It's -- customer is moving their workloads over to AWS at different phases. And so as you look at the release, some of the other announcements, there's a good diverse list of companies, Adidas in Germany migrated its SAP environment to AWS. In the Netherlands, Stellantis selected AWS as its preferred cloud provider. There's a number of really great companies' examples that are doing different big things at different stages of that migration. What's been important to us amongst many things is continuing to expand our global infrastructure footprint really to support this momentum we're seeing.
+
+So just this last fourth quarter -- in the fourth quarter, we opened the Asia Pacific region over in Jakarta. Then we've got announcements for plans to launch in Canada in the Calgary region next year or perhaps I guess 2023 or 2024. So a lot of work and a lot of momentum, those are just a few examples. But where we sit now, it's -- AWS has 84 availability zones in 26 regions around the world right now. And just in terms of the forward-looking roadmap, we have announced to launch 24 more zones in 8 more regions, and those will be here in the next couple of years.
+
+Operator
+Our next question is from Jason Helfstein with Oppenheimer. Please proceed with your question.
+
+Q - Jason Helfstein{BIO 2527987 <GO>}
+Thanks. So I just want to dig a little bit into third-party seller services. The growth slowed there even on a two-year stack. So maybe if you could talk about some of the factors that you think could be weighing on that?
+
+And then just on AWS, you kind of laid out some color there. Is there any bottlenecks to growth that you're still seeing? I mean you talk about why this was a very good quarter and having to do with some of the comps. But any bottlenecks to growth, either supply chain or employee related? Thank you.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Sorry. Jason, is your second question on AWS?
+
+Q - Jason Helfstein{BIO 2527987 <GO>}
+Yes, on AWS --
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Okay.
+
+Q - Jason Helfstein{BIO 2527987 <GO>}
+(Multiple Speakers).
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Yes. Sorry. Let me start with that. No, we don't see bottlenecks on the capacity side or probably the limiter in that business is our ability to work with customers to accelerate their timelines. So we're investing in and working hard to do that. So -- but operationally, we continue to add capacity as I mentioned on the capital section, capital discussion, and we expect that to increase year-over-year in 2022.
+
+On 3P the, the -- I think what you're seeing is a decreasing growth rate much like the rest of the business. As I mentioned earlier, we're dealing with the very high growth period from Q3 of 2020 through Q1 of 2021. So -- but on a two-year basis, you're still seeing 31% compounded annual growth in the 3P seller services revenue. Granted that was in the -- that was 34% last quarter, but it's maintaining. I think the bigger point is that sellers were definitely the big winners in Q4. The percentage of units up to 56% was a record for 3P. We continue to invest a lot to make sellers, help sellers be successful on our site. They are a big consumer of advertising as well, because they use it to build their brands and to add, enable customers to see their selection and make purchases. So we're very happy with the third-party seller services business and again looking for ways to help sellers be successful.
+
+Operator
+Our next question is from Justin Post with Bank of America. Please proceed with your question.
+
+Q - Justin Post{BIO 3469195 <GO>}
+Great. Maybe I'll talk about advertising services. What -- maybe tell us why you decided to break it out, if you haven't already? And then how much Prime Day might have been a factor in the deceleration? But bigger picture, how much room does that line have to grow bigger than G&B growth? How do we think about where you are on penetration on that? Thank you.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Yes. Let me start with why we broke it out. We have looked at the proportion of other revenue that is advertising services, and we got to a point where -- and I have been pretty much mentioning every quarter that for, the majority of that line item was advertising revenue, and we feel it's at a certain size. But -- and if we should break it out and then split the other off of that. So that was really the impetus for the change and we look at those things every year and end of year was a good time to do it as we start 2022.
+
+So hopefully, that's helpful for you to understand the growth rate without having to impute it from the other revenue. The growth rate in the quarter of 33%, it was down from 66% in Q4 of last year. Q4 last year obviously had Prime Day and it for first time. And Prime Day head carries a lot. I can't scale it for you, but there's a lot of advertising tied to Prime Day, obviously. So when that moves quarters, it generally has an impact on the run rates. We saw that a bit in Q2 of this year, when we did have Prime Day and it was lapping Q2, 2021, it was lapping the 2020 period that didn't have a Prime Day in it. So that'll move around a bit. But I think the bigger story here is the success we're having with sellers and vendors and making that a useful product for customers.
+
+A - Dave Fildes{BIO 20638976 <GO>}
+And Justin just to add to that, I mean, the priorities with advertising are, you know at a high level, it's improved the tool and usability. We think there's a great feedback loops with customers as Brian mentioned, to keep building and making that better. That results in building more relevancy and better engaging experiences. And again the more we can interact with the advertisers, the customers and learn and have more opportunities to hear from them and understand that, we can build better analytic tools, provide better measurement, give them better insight to performance. So really focused on serving brands.
+
+And it's in the sponsored ads space, but we've talked about video advertising is certainly a great opportunity. And as we've got properties like Fire TV, IMDb TV, Twitch, live sports, a lot of exciting things that have been going on in the live sports and certainly to come this year as well, both in the NFL here in the U.S., but overseas in a number of properties. Really excited to kind of work with folks. And again, this is about delivering good recommendations to customers and helpful when they're making their purchase decisions and giving them information around that, and that in turn of course helps the advertisers as well and have a great results. So I think that's one area that we're excited about. I think longer term, demand side platform opportunities with Amazon's DSP is something that we're continuing to work on and refine and we can focus on the customer as we always do.
+
+Operator
+Our next question is from John Blackledge with Cowen. Please proceed with your question.
+
+Q - John Blackledge{BIO 7387802 <GO>}
+Great. Thanks. So I had two questions. First, could you discuss how the supply chain affected the business in 4Q and how we should think about perhaps impacts from supply chain issues and 1Q '22 and for the year?
+
+And then the second question would be, do you expect to increase Prime pricing in non-U.S. markets? Thank you.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Hi, John. Thank you for your questions. First on the Prime question, we evaluate each country differently. We look at the relative price for the customer versus our cost to supply that and the usage and the value that we're creating for customers. We felt, especially after not raising the price in the United States since 2018, that the time was right to raise it and we think it's a much more valuable program today than it was in 2020, let alone 2018. So other countries we'll continue to evaluate every year and nothing else to announce right now.
+
+On supply chain, there's the specific things that I think we all see in the supply chain, where we're waiting for products, but as far as Amazon is concerned, we did a lot to combat the supply chain issues we saw in Q4 or anticipated in Q4. The bottled product ahead, we worked with vendors to secure inventory early. So I guess some cases paid early which had a working capital impact. We also worked very hard to open up channels of, existing channels of input into the country whether it was port capacity or a vessel capacity. So we did everything we knew how to as far as trying to get more capacity in a constrained market and we think it worked for our customers in Q4, as challenges remain in 20 -- I wouldn't say we're totally past that, but we don't expect it to be a big issue in Q1.
+
+Operator
+Our final question is from Dan Salmon with BMO Capital Markets. Please proceed with your question.
+
+Q - Dan Salmon{BIO 16010491 <GO>}
+Good afternoon, good evening, guys. Thanks for fitting me in. First, I just wanted to follow up a little bit and see on the advertising numbers, if there's any qualitative color that you could add, say, rough balance of performance advertising versus brand advertising, maybe U.S. versus rest of the world, anything you add would -- could be great.
+
+And then just second, Brian, you mentioned, the exclusive broadcast of Thursday Night Football and is one of the reasons supporting a higher price increase for Prime. Dave, you mentioned it as an element that is a dynamic new one for the advertising business. Maybe could we just return to that point as the sort of importance of live sports in the video space is incredibly important. Is that one that you see kind of taking the business to a new level at this stage?
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+Sure. Let me start that second question. So I didn't want to leave you with the impression that we raised prices because of Thursday Night Football. I just used that as an example of great new content that we've been investing in for Prime members to make the Prime Membership more valuable, as well as international sports. We had one of the highest-rated games in the Q4 with, I believe, it's Manchester United, and -- I'm going to mix up the team, sorry. Yes, I won't embarrass myself. But the -- so again, we've been working on getting sports properties that will be beneficial and valuable to Prime offering. We're still probably early on in that, we've had obviously success with premier league soccer, other soccer leagues around the world, tennis properties, and also probably, the marquee is the work with the NFL on Thursday Night Football.
+
+A - Dave Fildes{BIO 20638976 <GO>}
+Dan, in terms of just to breakout, I think, as we said before on advertising side, the sponsor products and brands, they make up the majority of the ad revenue today. We haven't given a split on a geographic basis, but yes, suffice to say, a lot of these efforts, as Brian talked about whether it's on the video advertising opportunities or in those sponsored products and sponsored brands efforts, we've replicated a lot of the tools and features and services around the world and are kind of constantly learning and building out the brand and the presence with that so we can make better inroads with customers over the long-term.
+
+A - Brian T. Olsavsky{BIO 18872363 <GO>}
+And certainly I won't leave you hanging, Dan. The Manchester United and Arsenal soccer game in December was the most watched Premier League match ever on our service with an estimated viewership of 4 million. So I think that is actually pretty interesting, because we've had a lot of increasingly good relationship with the Premier League, we've had Boxing Day games and we continue to be a valuable partner for each other.
+
+A - Dave Fildes{BIO 20638976 <GO>}
+With that, thanks for joining us on the call today and for your questions. A replay will be available on our IR website for at least three months. We appreciate your interest in Amazon and look forward to speaking with you again next quarter.

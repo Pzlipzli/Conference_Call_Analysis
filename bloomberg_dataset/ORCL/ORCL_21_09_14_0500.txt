@@ -1,0 +1,256 @@
+Q1 2022 Earnings Call
+Company Participants
+Ken Bond, Senior Vice President, Investor Relations
+Lawrence J. Ellison
+Lawrence Ellison
+9/2014-PRESENT | Oracle Corporation, CHAIRMAN/CTO/CO-FOUNDER
+1/2004-9/2014 | Oracle Corporation, CEO/CO-FOUNDER
+6/1995-1/2004 | Oracle Corporation, CHAIRMAN/CEO/CO-FOUNDER
+, Chairman of the Board and Chief Technology Officer
+Safra A. Catz, Chief Executive Officer
+Other Participants
+Derrick Wood
+J Wood
+1-415-646-7370
+PRESENT | Cowen Inc, ANALYST
+2010-4/2016 | Susquehanna Finl Group LLP, ANALYST:ENTERPRISE SOFTWARE
+UNKNOWN-2/2009 | Pacific Growth Equities Inc, ANALYST:TECHNOLOGY
+, Cowen and Company
+Kirk Materne, Evercore ISI
+Mark Moerdler, Sanford C. Bernstein
+Mark Murphy, JPMorgan
+Michael Turits, KeyBanc
+Raimo Lenschow, Barclays Investment Bank
+Presentation
+Operator
+Welcome to Oracle's First Quarter 2022 Earnings Conference Call. Now, I'd like to turn the call over to Ken Bond, Senior Vice President.
+
+Ken Bond{BIO 16482190 <GO>}
+Thank you, Erica. Good afternoon, everyone, and welcome to Oracle's first quarter fiscal year 2022 earnings conference call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information, can be viewed and downloaded from our Investor Relations website. Additionally, a list of many customers who purchased Oracle Cloud services or went live on Oracle Cloud recently will be available from our investor relations website as well.
+
+On the call today are Chairman and Chief Technology Officer, Larry Ellison; and CEO, Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking.
+
+Throughout today's discussion, we will present some important factors relating to our business which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from the statements being made today.
+
+As a result, we caution you from placing undue reliance on these forward-looking statements, and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock.
+
+And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking the questions, we'll begin with a few prepared remarks.
+
+And with that, I'd like to turn the call over to Safra.
+
+Safra A. Catz{BIO 3491281 <GO>}
+Thanks, Ken. And good afternoon, everyone. We had a great quarter as total revenue was $100 million above the midpoint of my constant currency guidance with outperformance coming from all parts of our business. EPS was also very strong and was $0.08 above the midpoint of my constant currency guidance.
+
+As the dollar strengthened from when I gave guidance and it strengthened significantly, we didn't get the benefit we would have gotten had it stayed at the same level throughout the quarter.
+
+Now from here on, I'll review our non-GAAP results using constant dollar growth rates, unless I say otherwise. So total cloud services and license support revenues for the quarter were $7.4 billion, up 6% in USD, up 5% in constant currency, and accounted for 76% of total company revenue.
+
+Total cloud revenues are now at an annualized revenue of $10 billion, with an accelerating growth rate that we expect will exit the fiscal year in the mid-20s. GAAP application subscription revenues were $3 billion, up 7% with Fusion apps up 26% in USD and 24% in constant currency. Our strategic back-office applications grew 25% in constant currency, including Fusion ERP up 30% and NetSuite ERP up 26%. GAAP infrastructure subscription revenues were $4.3 billion, up 3%,. And excluding legacy hosting services, infrastructure cloud services grew in the mid-30s, and we saw triple-digit booking growth this quarter. So I expect the infrastructure revenue growth will ramp higher through the fiscal year.
+
+OCI consumption revenue, which includes autonomous database, was up 80% in constant currency and cloud and customer revenue was up 44%. Database subscription revenues including database support and database cloud services were up 6% in USD, up 5% in constant currency and that's up from 4% last quarter.
+
+License revenues were $813 million, down 8% after its tough compare from last year's Q1. So all in, total revenues for the quarter were $9.7 billion, up 4% in USD, up 2% in constant currency. Operating expenses were up 3% this quarter. The gross margins for cloud services and license support was 84%. And the gross profit dollars grew 2%. I expect the full year growth in gross profit dollars for cloud services and license support will be similar to last year. Non-GAAP operating income was $4.3 billion, up 2% from last year, and the operating margin was 45%.
+
+The non-GAAP tax rate for the quarter was 18%, slightly below our base tax rate of 19%. And earnings per share was $1.03 in U.S. dollars, up 11% in USD and up 9% in constant currency. As a result of some discrete items, the GAAP tax rate was 8.4% and GAAP EPS was $0.86 in U.S. dollars, which was up 19% in U.S. dollars and up 16% in constant currency.
+
+Operating cash flow for the last four quarters was $15.3 billion, up 17% in USD. And our free cash flow over the same period was $12.6 billion, up 9% in USD with capital expenditures of $2.8 billion, also over the same period. CapEx for Q1 alone was $1.1 billion.
+
+We now have more than $39 billion in cash and marketable securities. The short-term deferred revenue balance is $10 billion, up 1% from a year ago due to timing differences in customer payments but with gross deferred revenue up 5% in constant currency.
+
+The remaining performance obligation or RPO, our balance is $38.7 billion, up 10% in constant currency due to strong bookings. Approximately 60% is expected to be recognized as revenue over the next 12 months. As we've said many times before, we're committed to returning value to our shareholders through technical innovation, strategic acquisitions, stock repurchases, prudent use of debt and a dividend.
+
+This quarter, we repurchased 94 million shares for a total of $8 billion. And over the last 10 years, we've reduced the shares outstanding by 46% at an average price that's about half the current share price. In addition, we paid out dividends of $3.2 billion over the last 12 months and the Board of Directors declared a quarterly dividend of $0.32 per share.
+
+Now to guide at what you're all waiting for. I remain highly confident that fiscal year '22 revenue growth will accelerate, because our fast-growing cloud businesses are becoming a larger portion of our total revenue. I see total revenue growth for fiscal year 2022, which is the one we're in, somewhere in the mid-single digits in constant currency and accelerating. Cloud is fundamentally a more profitable business compared to on-premise. And as we look ahead to next year, we expect company operating margins will be the same or better than pre-pandemic levels.
+
+Let me now turn to my guidance for Q2, and I'll review this non-GAAP basis. Assuming currency exchange rates remain the same as they are now, currencies should have a very minor positive effect on total revenue and EPS in Q2. Total revenue for Q2 are expected to grow between 3% to 5% in both USD and constant currency. Cloud service and license support revenue for Q2 are expected to grow more than 5% in both USD and constant currency and then climb higher through the second half of the fiscal year.
+
+Non-GAAP EPS for Q2 is expected to grow between 2% and 6% in both USD and constant currency and be between a $1.09 and $1.13. My EPS guidance for Q2 assumes a base rate of 19%. However, one-time tax events could cause actual tax rates for any given quarter to vary, both up and down. But I expect that in normalizing for these one-time tax events, our non-GAAP tax rate will average around 19% or so.
+
+And with that, I'll turn it over to Larry for his comments.
+
+Lawrence J. Ellison{BIO 1491757 <GO>}
+Thank you, Safra. Oracle's cloud business, infrastructure plus applications, has rapidly grown to $10 billion a year. Oracle and NetSuite were pioneers in cloud applications. Oracle and NetSuite being the very first cloud company of any kind, several years later, Amazon launched the very first cloud infrastructure company.
+
+Oracle Fusion ERP has over 8,000 cloud customers. NetSuite ERP has over 28,000 cloud application customers. Oracle is the overwhelming market leader in the global cloud ERP market. Oracle Cloud ERP is currently used by many of the largest most complex companies on earth. This past quarter in Q1, a company I couldn't name until now, a major portion of Bank of America went live on Oracle Fusion ERP, consolidating ledgers in 33 separate countries into one global cloud ledger.
+
+Also in Q1, another huge bank, Macquarie, the largest investment bank in Australia, went live with Oracle Fusion ERP. Also in Q1, Vanguard, the largest global mutual fund provider, went live with Oracle Fusion ERP. That's just in Q1, okay.
+
+So Oracle Fusion is building a very strong position in the world's largest financial services companies. HSBC, Bank New York Mellon, JPMorgan Chase, they are all live on Oracle's Fusion applications. We have started working with our strategic partners in banking to develop a new generation of cloud B2B financing and payment systems. There are things you can do in the cloud you could never do on-premise. There are opportunities in the cloud if you are the largest ERP supplier. There are opportunities to go into new businesses like financing and banking, with banking partners that would have been impossible with the old on-premise systems. And those are opportunities we are aggressively pursuing with the world's money-center banks. Banking and healthcare will be Oracle's two largest verticals going forward.
+
+Speaking of healthcare, Humana was an important fusion ERP win in Q1. In the infrastructure part of our cloud business, we continue to innovate in several technical areas. We have made great progress. And then now -- and we are now on our way into the big four global hyperscalers. And I'll give a list of those in case you don't know. They are Amazon, Microsoft, Oracle and Google. Note the order. I was not the one who sorted that list. Oracle has come a long way in the cloud infrastructure business. Our technology is getting really good and very competitive.
+
+And of course, we continue to deliver breakthrough innovations in areas where we have long been strongest, like database. The Oracle database remains unrivaled in running the world's biggest and most critical systems. And our other database, the open source system, MySQL, is now on a new generation. And it now includes an ultra high-performance in-memory query processor called HeatWave, plus a new set of management tools called the AutoPilot.
+
+Amazon's version of MySQL -- again, MySQL is an open source database, anyone can have it. Amazon took a version of MySQL, renamed it Aurora, and put it up in AWS. Now the open source version of MySQL -- the old version of MySQL pre-HeatWave is very, very slow in query processing. In fact, the way you use Aurora, typically in Amazon over the years, is you do your transaction processing in Aurora, also known as MySQL. And then when you do your query processing, you move your data out of Amazon's MySQL, old Aurora, and put into a thing called Redshift, a data warehouse system from Amazon. Recently, Snowflake has come up with a data warehouse that runs at AWS. And Snowflake is competing quite effectively against Redshift, because Snowflake runs on multiple clouds. And Snowflake, like Redshift, is way faster at queries than the old MySQL or Aurora.
+
+Okay. So Oracle introduces this new version of MySQL, this new generation of MySQL. That's the HeatWave. And the customer reaction has been stupendous. Simply for the reason that over and over again, they measure Oracle's MySQL to be 100 times faster than Amazon's Aurora for query processing.
+
+Now this was actually not unexpected. The old MySQL, which is Aurora, that's what Aurora is, the old MySQL, it's terrible for query processing. What was unexpected is that Oracle MySQL proved to be more than 10 times faster than Amazon Redshift or Snowflake for query processing. So suddenly there's one database that you can do transaction on open source database you can do transaction on, MySQL with HeatWave. And that same database, MySQL with HeatWave, is the fastest place to run your queries. So you don't need to move your data into Redshift or Snowflake anymore just to do queries.
+
+This has excited so many customers that they asked us over and over again. We made it available this quarter. Oracle's MySQL HeatWave is available at the Oracle Public Cloud, but they asked that we would make it available on other public clouds. And we thought that's what our customers want. That's what we're going to do. So we plan to make Oracle MySQL with HeatWave available on other public clouds in addition to the Oracle Public Cloud and compete aggressively where we have huge technical advantages over Amazon Aurora, Amazon Redshift, and perhaps most interestingly, huge technical advantages, performance and cost over Snowflake.
+
+I'll turn it back to Safra.
+
+Safra A. Catz{BIO 3491281 <GO>}
+Thanks, Larry. Ken, I think we're ready to take questions.
+
+Ken Bond{BIO 16482190 <GO>}
+Yes. Absolutely. Erica, if you could please prepare the audience for questions, please.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+(Operator Instructions) Our first question comes from Raimo Lenschow with Barclays.
+
+Q - Raimo Lenschow{BIO 4664646 <GO>}
+Thank you and congrats from me as well and especially on the RPO disclosure and growth there. My question is around Fusion and NetSuite. We obviously are in the recovery -- in a somewhat recovery scenario, and I'm looking at your professional services as well which kind of is kind of very strong there.
+
+Can you talk a little bit about what you're seeing there in terms of people wanting to do now that it coming out of the pandemic more around digital transformation and hence, you actually an extra boost on the month despite what you saw already beforehand or how do I have to think about the dynamic there? Thank you.
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Raimo, maybe I'll start and then Larry can add in. I think that one of the things has become incredibly obvious during this pandemic is that companies that have closer digital relationships with their customers, their employees and their suppliers are doing much better than those that don't and the work from home and all the data that capabilities whether it's mobile or otherwise, once you have that implemented your ability to adapt to changing business situations is so much better if you've moved to the cloud and also capabilities that you may need can be supplied by a vendor like ourselves where, for example, as we've discussed we rolled out health and safety to our HCM customers.
+
+So they could better work with their employees and monitor and advise them regarding COVID. And there's no question that digital transformation is the top goal of companies and those companies that had been delaying or moving slowly, have brand new urgency on it. And of course, because we are ranked and I think it's our third year in a row in the top right-hand quadrant on Gartner, really with no one even close to us. We are the number one choice of for moving to Fusion ERP and other back office application.
+
+So, for us, I have to say that there's just incredible, incredible momentum and commitment from our from prospects and customers and for companies who have been on-premise either with our products or historically with SAP, where they just can't continue like they did.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Yeah, I'll add -- your question about services. We have pretty much made the migration away from on-premise implementations where all of our staff is focused on cloud implementations and during that transition, every time we go through one of these transitions, it looks like something isn't growing or worse yet something is shrinking.
+
+Well, in this case, the on-premise stuff went down till it's almost went away. And basically all of the implementation services you see for applications are cloud implementations, we've now made that the migration and that should just grow steadily as demand for those systems increases. We really don't have a lot of competition, that's the understatement of the year in cloud ERP, I'd love to know who the competitors are.
+
+SAP has -- it doesn't have a product. When we bit -- we're in a competition with SAP right now and we've just gotten, we just found out, we got yeah, we got we're bender of choice. And their big thing was well SAP doesn't have a cloud product. They have hosting, they're willing to put a custom computer in Amazon and just build a specialized version for the customer, that's not the cloud.
+
+We update our applications every three months the entire fleet of 8,000 Fusion customers are updated every three months. The entire fleet of 28,000 NetSuite customers are updated every six months. You get SAP they install it and then they probably will update it again five years from now. It's an on-premise system they don't have a cloud system we're winning every deal against them everyone and we're taking a lot of their customers away.
+
+Q - Raimo Lenschow{BIO 4664646 <GO>}
+Okay. Thank you.
+
+Operator
+Our next question comes from Mark Moerdler with Sanford Bernstein.
+
+Q - Mark Moerdler{BIO 16855032 <GO>}
+Thank you very much for taking my questions. And congratulations on the size and strength of the IaaS plus SaaS cloud. OCI GEN2 past Google GCP in the Gartner IaaS pass feature functionality ranking this month. Let me ask, is the functionality checkbox enough to capture market or do you believe that customers fundamentally deal OCI different than AWS, Azure, and GCPNY? Thanks.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Well, well I think the big question was I think the big issue that remains open about Oracle. And I would say, probably still remains open about Oracle is can Oracle compete with database against Amazon?
+
+It's an interesting question, because Amazon doesn't really have it and what Amazon has like 13 separate databases, where the Oracle database, we do everything in a single database. We don't think an application should talk to five or six separate databases. We think it's a very, a very risky security architecture.
+
+But the question is, Amazon's the big leader in Cloud, we're the big leader and databases. Well, if forced to choose, will they pick the Amazon cloud and a database other than the Oracle database. And are they willing to move to migrate their Oracle applications to the Oracle Cloud to get the Oracle all the security and performance advantages of the Oracle database. That's the big that's then the big question out there.
+
+And with our cloud good enough to compete with Amazon and Google and Microsoft. And I think, we have answered those questions. It's not only good enough to compete it in many cases, it's much better for security, for performance, for reliability, we -- for cost we're cheaper and that one of the reasons we have such a big ISV business. Well, and so many people have left Amazon and come to the Oracle Cloud was because we cost less. So we have significant cost advantages.
+
+And I think this is a another big step to proving that the Oracle Cloud is part of the big four. It's not a big three, it's a big four. I'm not including the Chinese players because they're regional, not global. I'm counting the Gartner's sequence and the Gartner sequence is Amazon, Microsoft, Oracle, Google and if we're in the big four and virtually every important database application on Earth runs, I mean, not everyone but the vast majority run on the Oracle database.
+
+If those migrate to the Oracle Cloud, we have a very, very large business and we're seeing people moving more and more things to the Oracle cloud now and this Gartner report will just help move that along quite nicely.
+
+Q - Mark Moerdler{BIO 16855032 <GO>}
+Thank you, appreciate.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+But by the way, it's not just a Gartner report, if they come and look and they run, if they do a comparison a straight-up comparison us Google, us Amazon they move -- they test the application in both places, we win all of those. It's when they don't come and look then we have a problem.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thank you, Larry. Erica, next question please.
+
+Operator
+Our next question comes from Derrick Wood with Cowen and Company.
+
+Q - Derrick Wood{BIO 4963641 <GO>}
+Great. Thanks for taking my question. Safra, a nice job at accelerating recurring revenue growth while still growing operating income and Q1.
+
+Last quarter you had alluded to the fiscal '22 being more of an investment here for you guys. So you can you just remind us how you're thinking about balancing topline growth versus operating income growth or operating margins for the fiscal year and maybe touch on where you want to be adding more investments to help with accelerating growth either from a geo perspective or a product go-to-market standpoint?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Well you and your colleagues have been following Oracle for a long time. And you know that when we talk about investing, we still focus on increasing profitability, okay. We're not like many of these other companies that when they invest, they lose money or they don't make more money. We will make more money this year while investing and accelerating, than we did before.
+
+So, that's our expectation is we don't have to pick, we've never believed we have believed we have to pick, because we have differentiated products that are very high value, we have, you know how we run the company. We don't waste money, we spend it on things that bring returns and we're very careful about that.
+
+But we have so much demand worldwide right now for really our cloud product lines pretty much across the board, whether it's our database services, our cloud to customer, our OCI Gen2, our Fusion products, it's just such a great time that even though we're going to invest more, we will make more. And so, we just don't think you have to pick one or the other, it's just a matter of this is an important time for us to invest, but we're going to make more money.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Yeah, I'd like to just second that with an example in the past recent history where when we bought NetSuite, we considered NetSuite strategic. We thought that this was, this is a company that should be growing even faster than it was independently as a part of Oracle.
+
+And so we made a number of investments in NetSuite, and we've seen their growth rate, NetSuite's gotten bigger obviously, but their growth rate has increased. And we've invested, but we've made more money and we're growing faster in NetSuite.
+
+So I think that's the south of the model that Safra likes to implement and it seems to be working pretty well at NetSuite. We don't see why it would be any different in a larger business like the Oracle public cloud.
+
+Q - Derrick Wood{BIO 4963641 <GO>}
+Understand. Thanks for the color.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Next question, please?
+
+Operator
+Our next question comes from Kirk Materne with Evercore ISI.
+
+Q - Kirk Materne{BIO 5771115 <GO>}
+Thanks very much and thanks for letting me ask the question. I guess Larry, can you sort of double click on OCI and specifically, I was curious what you're seeing with some of your early OCI customers in terms of net expansion meaning, how are those customers growing with you in terms of either network loads or new infrastructure services.
+
+And within those customers, do you feel like you're taking wallet share versus some of the other public vendors just to give us a sense on how those might act as a proxy for others? Thanks.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Absolutely. We have corporate customers that have been with us for a while that are constantly that are expanding, maybe the most interesting thing about this is are the ISVs. Because the ISVs that I mean, they're in the cloud business. I mean that's their whole business. They run, their primary expenses, running their cloud operations.
+
+And when a number of those companies move from Amazon to Oracle, I mean, give you a bunch of examples, then they really take a close look at the economics of what they're doing the reliability of the system. Zoom is a famous example, but there are a bunch of other ISV examples of companies that have moved from Amazon to Oracle.
+
+And, of course, so that is really very encouraging, but our corporate we're seeing it now in our corporate customers as well. They move a workload that works. They way they move in on, two or three more workloads. That's continuing.
+
+So we think again, this Gartner report is one more step in the right direction in terms of encouraging our corporate customers to move even more workloads and accelerate the rate, but have we seen a pattern? Yes.
+
+We move a workload with for a customer move a second workload a third workload, once they understand it works smoothly and the economics are advantageous well there they just move more workloads on a continuous basis and that's what we're experiencing.
+
+Q - Kirk Materne{BIO 5771115 <GO>}
+Thank you.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Next question please.
+
+Operator
+Our next question is from Michael Turits with KeyBanc.
+
+Q - Michael Turits{BIO 1720659 <GO>}
+Hey, Larry and Safra. I wanted to ask about clouded customer. I think you mentioned Safra it's growing 40%. So what, what tailwinds and if there are any headwinds is clouded customer seeing and is that is that now able to start driving sustainable database acceleration beyond the acceleration that you saw this quarter?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Yeah, I mean, one of the things I didn't mention was that consumption at clouded customer is up over 150%. So, you need to understand that, once clouded customers, they take awhile to setup and then once they start getting set up because, it's a little bit more complicated.
+
+We follow a very, very special security model. And what we do is it's really a land and expand model. The customer brings in some workloads. And then they realize how incredible it is. And it runs their database workloads, it runs there runs their other workloads so quickly, so cost effectively that it just builds and momentum.
+
+The thing that as I said, it takes a while to actually land and get it all set up, but now it's gotten to be a good size and then it's just accelerating for us. And so that's really where we're at. It is a global product. It is completely differentiated and it is very profitable for us.
+
+So, and if it fits and need of our customers because remember, their Oracle workloads in particular, really, really run amazingly, but also, those are their most important workloads often and those have to be perfect and that's and that's really, they have to be secure, they have to be perform it, they have to be always up and they have to be economical for them and it's just a, it's a perfect match for what they need.
+
+Q - Michael Turits{BIO 1720659 <GO>}
+Great thanks, Safra.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Next question, please.
+
+Operator
+Our final question comes from Mark Murphy with JPMorgan.
+
+Q - Mark Murphy{BIO 20253142 <GO>}
+Yes. Thank you very much. So, you seem to have pivoted your CapEx approach a bit from just-in-time purchases to carrying a bit of a capacity buffer. So that you can deploy the all these OCI wins.
+
+I'm just curious Safra, does it take a quarter or two and then you have enough of a buffer there or do you see such a pipeline for OCI demand that this CapEx rise perhaps could last a while longer which might be good news for future revenue growth?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Well, I don't like to be caught short that's for sure. And so I want to make sure I have enough, but we do have enormous demand, frankly.
+
+So this is what I always call a high-class problem, but weird we try to make sure that we manage it very, very carefully. I thought it was worth it to take on quite a bit more inventory but it is getting used up very quickly all the time and we stay very, very focused on being able to deliver to our customers the demand but we have such accelerating demand that we have to stay vigilant to make sure we've got what we need, where we need it and in the quantities that we need it.
+
+Q - Mark Murphy{BIO 20253142 <GO>}
+Thank you very much.
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Thank you. Ken, we can't hear you?
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thank you. A telephone replay of this conference call will be available for 24 hours on our investor relations website. Thank you for joining us today. And with that, I'll turn the call back to the operator for closing.
+
+Operator
+Thank you for joining today's Oracle first quarter 2022 earnings conference call. We appreciate your participation, you may now disconnect.

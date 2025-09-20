@@ -1,0 +1,377 @@
+Q3 2021 Earnings Call
+Company Participants
+Douglas R. Bettinger, Executive Vice President and Chief Financial Officer
+Timothy M. Archer, President and Chief Executive Officer
+Tina Correia, Corporate Vice President, Finance and Investor Relations
+Other Participants
+Blayne Curtis, Analyst, Barclays
+Christopher James Muse, Analyst, Evercore ISI
+Harlan Sur, Analyst, J.P. Morgan
+John Pitzer, Analyst, Credit Suisse
+Joseph Moore, Analyst, Morgan Stanley
+Krish Sankar, Analyst, Cowen and Company
+Stacy Rasgon, Analyst, Bernstein Research
+Timothy Arcuri, Analyst, UBS
+Toshiya Hari, Analyst, Goldman Sachs
+Vivek Arya, Analyst, Bank of America Securities
+Weston Twigg, Analyst, KeyBanc Capital Markets
+Presentation
+Operator
+Good day, and welcome to the Lam Research Corporation's March 2021 Quarter Financial Conference Call.
+
+At this time, I would like to turn the conference over to Tina, Corporate Vice President of Investor Relations and Corporate Finance. Please go ahead.
+
+Tina Correia{BIO 20814110 <GO>}
+Thank you, and good afternoon everyone. Welcome to the Lam Research quarterly earnings conference call. With me today are Tim Archer, President and Chief Executive Officer; and Doug Bettinger, Executive Vice President and Chief Financial Officer. During today's call, we will share our overview on the business environment, and we'll review our financial results for the March 2021 quarter and our outlook for the June 2021 quarter. The press release detailing our financial results was distributed a little after 1:00 P.M. Pacific Time this afternoon. The release can also be found on the Investor Relations section of the Company's website along with the presentation slides that accompany today's call.
+
+Today's presentation and Q&A includes forward-looking statements that are subject to risks and uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see accompanying slides in the presentation for additional information.
+
+Today's discussion of our financial results will be presented on a non-GAAP financial basis, unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in today's earnings press release. This call is scheduled to last until 3:00 P.M. Pacific Time. A replay of this call will be made available later this afternoon on our website.
+
+And with that, I'll hand the call over to Tim.
+
+Timothy M. Archer{BIO 7502648 <GO>}
+Great. Thank you, Tina, and thank you to everyone joining the call today. Lam posted excellent results in the March quarter, with record revenues from both systems and install-base business, as well as record cash flow from operations and record earnings per share. Our performance reflects solid execution by Lam employees and our partners worldwide despite ongoing COVID-19 related impacts. The investments we are making in manufacturing and supply chain resiliency are enabling us to support our customers needs amid a broad based strengthening in semiconductor demand. We are very optimistic on our positioning and see continued strong growth for Lam in the future.
+
+Let me first begin by updating our expectations for wafer fabrication equipment spending. Since our last earnings call, we have seen WFE spending plans increase for the calendar year. Our outlook for 2021 WFE is trending above $75 billion, and we now believe the WFE spending in the second half of the calendar year will be higher than the first half across all device segments. Several factors are at play in driving this robust WFE growth. First, secular tailwinds such as AI, 5G and IoT continue to strengthen. And over the past year, COVID-19 related impacts, like work and learn from home has accelerated adoption of these technologies. Second, the complexity of manufacturing advanced semiconductor devices continues to increase at a rapid rate, leading to a rise in equipment capacity [ph] across all segments. Third, innovative consumer products are incorporating more semiconductor enabled functionality, driving faster growth in semiconductor content per growth.
+
+On our last call, we talked about new gaming consoles as an incremental driver for semiconductor demand and WFE. A similar example is, what you see in wearables. These devices are utilizing an increasing number of sophisticated sensors, manufactured using mature technology nodes, to deliver added functionality such as body temperature measurement, heart rate monitoring and blood oxygen sensing. Wearables are integrating these sensors with advanced node semiconductors, that deliver lower power and lower latency, in addition to the computation capability required to support new AI and machine learning enabled applications. This is having a marked effect on semiconductor content in these products in today's wearables contained nearly double the amount of DRAM and four times the amount of NAND versus five years ago.
+
+Semiconductors are also capturing a greater share of the value within the electronic supply chain, and we see 2021 semiconductor revenues and electronics revenues breaking out of the historic averages over the last 15 years. And finally, the growing importance of semiconductors to global industries has led governments in the U.S., Europe and Asia to call for actions to mitigate supply chain risk, which will likely include increased investment in regional semiconductor manufacturing capacity. When combined, these four factors of accelerated technology adoption, growing complexity, increasing semiconductor content and real capacity investment support a compelling case for a strong multi-year WFE spending environment. One in which Lam is executing extremely well.
+
+In 2020, we gained share across both etch and deposition, including significant gains in conductor etch. We expect to deliver overall share growth again in 2021. Our positive momentum demonstrates how we are successfully positioning Lam, as the partner of choice for our customers at a time when technology complexity is increased heavily [ph]. 3D scaling of device and packaging architectures, will be a primary focus of the industry for the remainder of this decade, and Lam approaches this challenge with unique experience. We were the leader in enabling the transition to 3D devices through our early engagement in etching. And as a result, we've built enduring leadership positions in the most critical etch and deposition applications.
+
+And as the 3D NAND roadmap is evolving to multi-stack scaling for higher layer counts, our technical contribution continues to grow. To integrate multiple stacks to build taller devices, innovative solutions are required for stress management, etch selectivity and defect control. The increase in complexity of multi-stack scaling is creating new product opportunities for Lam, and this quarter we recorded a key deposition win for a multi-stack enabling film at a leading memory customer. Through our leadership in the 3D NAND market, Lam has developed a portfolio of products and acquired the expertise in high volume manufacturing to help customers highly complex 3D scaling challenges across other device segments.
+
+In Foundry/Logic, the adoption of 3D like gate all around or nano sheet type structures introduces unique processing requirements. In the last earnings call, I highlighted the momentum of our latest conductor etch system, KIYO GX, which utilizes an innovative plasma pulsing capability to deliver superior high aspect ratio etch results for nano sheet structures. In order, we saw additional application wins with Kiyo at multiple Foundry/Logic customers. We are also seeing share gains with our new suite of selective etch products, designed for ultra high selectivity removal processes previously performed using systems. Related to the challenge to the back end of line scaling, we are taking new approaches to deposit lower k materials and deliver better interface control.
+
+New material duration schemes enabled us to win multiple 5-nanometer back end of line applications. And in the March quarter, we extended our wins to more advanced nodes as well. In addition to device scaling, we remain equally focused on our customers' objectives to improve cost and operating efficiency in their fabs. You will recall, recently announced our new Vantex dielectric etch process module on the Sense.i platform. Vantex on Sense.i delivers best-in-class Etch Technology and brings to market unique and innovative solutions to lower overall cost of ownership.
+
+The Sense.i platform architecture increases wafer output per square meter of fab space. New RF power designs consume less energy to support cost and ESG roadmaps, and advanced equipment intelligence and self-maintenance capabilities minimize required on-site human intervention. With semiconductor demand at unprecedented levels, these factors have become critical differentiators as customers look to cost effectively and sustain ramp capacity on advanced nodes. As a result, we continue to make solid progress on Sense.i adoption at leading customers. Our focus on helping customers solve productivity and manufacturing challenges is also reflected in the excellent performance of our installed base business, where we are seeing outstanding growth.
+
+CSBG revenue eclipsed $1.3 billion in the March quarter, yet another record. We are executing very well in this business. And as we sit here today, we are tracking ahead of the growth model that we shared with you at last year's Investor Day. All product lines within CSBG had record revenues in the quarter. Our upgrades business is expected to roughly double over the two-year period ending in 2021. By enhancing productivity and extending the installed base capability for multiple generations, our upgrades business plays an important part in our customers' cost reduction roadmaps. In Reliant, we see specialty technologies, continuing to grow in areas like CIS, Power and RF devices.
+
+In Spares, we successfully closed with a key customer, the single largest annual contract in the company's history, which includes commitments for critical leading-edge parts. And lastly, we are seeing great progress in services. Big data and equipment intelligence are playing an increasingly critical role in the operation of advanced semiconductor fabs. This quarter, we closed a multi-region data services license contract with a major memory manufacturer to provide enhanced tool data to enable their smart manufacturing roadmap. Additionally, our services team completed the first year of a comprehensive multi-year Equipment Intelligence Services contract at another major memory producer. System performance under this contract exceeded objectives, leading to a significant return on investment for the customer.
+
+So, to conclude, we are in an environment where industry fundamentals continue to strengthen. The strategic relevance of semiconductors is reaching new heights and semiconductor capital equipment is well positioned to benefit. Amidst strong WFE spending, Lam is delivering great results and making foundational investments in new products and infrastructure to drive continued outperformance.
+
+Thanks again for joining today and now here's Doug.
+
+Douglas R. Bettinger{BIO 16159085 <GO>}
+Great. Thanks, Tim. Good afternoon, everyone, and thank you for joining us today, during what I know is a busy earnings season. I hope you and your family safe and healthy since we last spoke with you.
+
+Lam delivered outstanding results for the March quarter with record quarterly revenue and strong profitability metrics. For the quarter, our revenue and gross margin came in above the midpoint of our guidance in both operating income and earnings per share were above the guidance range. We've continued our excellence and execution, not only in delivering impressive financial results, but also on being our customers' most trusted partner. We delivered revenue for the March quarter of $3.85 billion at the high end of our guidance range, which was an increase of 11% from December quarter. Our solid revenue performance was mainly due to an increase in Foundry related systems as well as record performance in our customer support business group or CSBG, where we had increases in all parts of that business. Our customers' fabs are running at high utilization levels, which drives the need for consumption of spare parts and services.
+
+First let's focus on our systems revenue where we saw continued strength in the memory segment, which represented 62% of systems revenue in the March quarter. The NAND segment was 48% of our systems revenue compared with 51% in the prior quarter with customers investing in higher 3D device layer count and added capacity to address the overall broad demand for storage bits. The March quarter NAND systems revenue amount reached a record level again demonstrating Lam's leadership position in the NAND segment. Customers were primarily investing in equipment for 96 and 128 layer class devices.
+
+In DRAM, we had 14% of our March quarter systems revenue in this segment, compared to 17% in the prior quarter. DRAM investments consisted of both conversion and capacity additions with concentration in the 1y, 1z and 1-alpha nodes. We expect to continue to see healthy and prudent levels of investment in the overall memory segment in calendar year 2021. We had our highest quarterly revenue level in the March quarter for the Foundry segment and it came in at 31% of our systems revenue compared with 26% in the quarter. We're seeing leading-edge investments focused on 5-nanometer as well as spending related to mature technology nodes required to meet higher demand for specialty or consumer oriented integrated circuits.
+
+And finally Logic and Other contributed the remaining 7% of systems revenue in the March quarter, up slightly from the prior quarter level at 6%. Let me now shift to the regional profile of our revenue. The China revenue -- the China region came in at 32% of our total revenues, down slightly from 35% December quarter. The majority of the China spending this quarter was from domestic Chinese customers. The Korea region was also strong for us in the March quarter representing 31% of revenues, which is up 10 points from the prior quarter. And as Tim mentioned, we achieved another record quarter of revenue for our customer support business group coming in at $1.3 billion, which is an increase of 13% from December and up over 50% versus the same quarter in 2020.
+
+The growth we've seen in each of the sub-segments of this business is a testament to the value we're providing to our customers for technology and productivity enhancements as well as the strength of this market supported by our Reliant product line. We're also supporting customers request for increasing spare parts purchases to support both higher equipment utilization and some level of inventory stocking. We expect continued strength in CSBG through the remainder of the year.
+
+Let me now shift to profitability. March gross margin was 46.3% generally in line with our expectations. And I'll remind you, as I always do gross margin fluctuates quarter-to-quarter due to overall business levels along with customer and product mix. We do continue to incur higher freight and logistics cost because of the COVID environment and we expect these costs will remain until we see anomalies of airfreight volumes.
+
+Operating expenses for the March quarter were $567 million slightly higher than the prior quarter, reflecting our commitment to manage expense levels while we invest to grow the company. We prioritize their spending towards R&D, which represents over two-thirds of our operating expenses enabling us to build on our deposition and ex-leadership positions. Operating income exceeded $1.2 billion in the March quarter with operating margin coming in over the guidance range at 31.6%. Our non-GAAP tax rate for the quarter was 7.8%, which came in lower than we expected due to incremental deductions from equity compensation for annually vesting that occurred during the quarter.
+
+As we've discussed in the past, we will have fluctuations in the tax rate from quarter-to-quarter and you should continue to expect the ongoing tax rate to be in the low teens level for the '22 calendar year. I would mention, we continue to monitor potential tax changes that could come from the new administration in the United States. Other income and expense was approximately $42 million in expense, which is lower than the prior quarter and lower than the typical run rate primarily due to marketing items like foreign exchange and interest rates.
+
+And as a reminder, beginning in the March quarter of last year, the benefits and costs of our employee deferred compensation plan are no longer mismatched in our non-GAAP results. The mismatch was $8 million for the March '21 quarter and you can see the details of this in the GAAP reconciliation table of our earnings release. We paid $187 million in dividends and allocated over $900 million towards share repurchases tracking nicely with our committed Lam capital return plans. Our buyback in the quarter went to a structured repurchase program, which was supplemented with open market repurchases. Diluted earnings per share came in at $7.49 above the guidance range. This was the result of the higher revenue and gross margin as well as the ability that I mentioned in the tax rate.
+
+Our diluted share balance was down from the December quarter level coming in at 145 million shares as we expect. The share count includes the dilutive impact of approximately 500,000 shares from the 2041 convertible notes. An additional mention is that late in the March quarter we issued a redemption notice for the 2041 convertible notes. As of March quarter end, we had approximately $17 million remaining on these notes. This redemption would require the last of the convertible notes in our capital.
+
+Let me shift to balance sheet. Cash and short-term investments, including restricted cash decreased slightly to $6 billion from $6.3 billion in the prior. The decrease was attributed to the capital return activity, offset by the strong performance we had in the March quarter, cash flows from operations, which came in at a record level of $0.2 billion. Days sales outstanding decreased to 66 days in the March quarter from 76 that we saw in December. This improvement was driven by strong cash generation with the higher level of business. And as I alluded to last quarter, the timing collections across the December and March quarters.
+
+Inventory turns were flat with the prior quarter, coming in at 3.2 times. Given the overall demand strength we're seeing, as well as our focus to mitigate potential supply chain disruptions. Inventory turns will likely remain at these current levels for the foreseeable future. Non-cash expenses included approximately $56 million for equity compensation, $61 million for depreciation and $18 million for amortization. Capital expenditures for the March quarter were down slightly versus the December level coming in at $90 million.
+
+As I noted in our last earnings call, we're investing to support the expanding operations at our new Malaysia factory, our manufacturing facility in Ohio, that's focused on critical spare parts and the upcoming Korea Technology Center. We expect to see somewhat higher levels of capital expenditures in 2021, as we support these critical growth initiatives. The head count level ending the March quarter was approximately 13,100 regular full-time employees. Resources have been added in our factories to meet the increased output levels in this robust business environment. Within this, we opportunistically bought out our Asian joint venture manufacturing facility, that is focused on our Reliant product line. This added capital growth and headcount that we saw in the quarter. Additionally, we've added field service and R&D personnel with a focus on delivering best-in-class technology services and solutions to our customers.
+
+Now looking ahead, I'd like to provide you our non-GAAP guidance for the June 2021 quarter. We're expecting revenue of $4 billion plus or minus $250 million. Gross margin of 46.5% plus or minus 1%. Operating margins of 32% plus or minus 1 percentage point. And finally, earnings per share of $7.50 plus or minus $0.50 based on a share of approximately 144 million shares.
+
+So in summary, I'm quite pleased with our operational execution, which is reflected in the strong financial performance of the Company. We now see greater strength in WFE as we go through calendar 2021, with the second half looking stronger than the first half. We are guiding to continuing record financial performance for the company, and we are well on the path to achievement of our growth objectives that we spoke to you about at our Investor Day in March of last year. I personally never been so excited for the things that semiconductor industry is enabling. And I'm proud of the results, Lam has continued to deliver enabling this industry.
+
+That concludes my prepared remarks. Operator, please open up the call for questions.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) We'll take our first question from Harlan Sur with J.P. Morgan.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Good afternoon, and congratulations on the strong results and execution. And I assume that, given the strong demand trends across leading edge and lagging edge, that the team has seen extended leading-edge [ph] tools. Wondering if you can quantify, is the team already starting to book into the second half of this year? And if I'm a customer that places an order today for one of your tools, when will this tool actually be producing wafers? Is it 9 months from now, 12 months from now? Would appreciate any insights.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Yeah, Harlan. Thanks for the question. Yeah, obviously, for a lot of reasons we're not going to divulge our lead times on this call. But we will say that, clearly what we said is unprecedented demand, and combining that with COVID impacts capacity is tight and it has extended our lead times. We would say, our visibility into our future is quite good at this point. But we don't want to go into exactly how long it takes for a customer, in order to get it qualified at this point for competitive reasons, ours and our customers.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+I appreciate that. If I think about the fundamental environment, right, if I look at your Memory business, and I look at your customers. So both NAND and DRAM pricing fundamentals continue to move higher, combination of strong demand, relatively disciplined supply spending. In fact, relatively just disciplined supply spending since the last peak in 2018. Most of your customers are anticipating that DRAM and NAND bit demand will exceed bit supply growth here in 2021. I know, you guys do a pretty good job on the analytics side around supply and demand. I'm just wondering, how you see the supply-demand balance in Memory, especially as we move through the back half of this year and factoring in the incrementally better WFE outlook that you outlined today?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Yeah. I'll go ahead and make a couple of comments, and then Doug chime in with some of the specifics on the bit supply. Clearly, we've said, even though entering this year, we felt it was going to be a very good year for memory for a couple of reasons. One, DRAM had gone through a couple of years of very conservative spending. And so there was some pent-up demand, there for spending both on technology and some capacity. From the NAND perspective, we talked a lot about the increasing spend related to layer transitions, that were going to be occurring this year. And so we have seen that playing out. I think you combine that with again growing demand across many, many different end-market segments. And also, the need to add capacity both in a greenfield perspective as well as conversions and that's led to an ongoing stronger outlook. We do model obviously bit supply and demand, I'll let Doug talk a little bit about what we're seeing there.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yeah. Harlan, thanks for the question. Yeah, we came through '19, where spending was held pretty closely in check and even through a good chunk of '20 and maybe all the way through '20 for DRAM. And when you look at the two years of investment there, exiting last year and you look at supply growth, it was below where longer-term demand growth was in both NAND and DRAM. And I think you saw that and are still seeing in the pricing. And as a result, our customers respond, we see them responding carefully, prudently is the way I'd like to describe it, consistent with where they see demand growth. And the investments we're starting to see increased somewhat in both NAND and DRAM are result of that.
+
+We continue to believe long term NAND demand to be in the mid-high 30% in bit supply and not caught up with that yet, and that's why investment is up. Similarly in DRAM, we think longer-term demand is in high teens, maybe approaching 20%. And as a result, the supply growth is being invested in to try to get caught up with that. That's really what we see going on.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Thank you for the insights.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Thanks, Harlan.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Thanks, Harlan.
+
+Operator
+Thank you. We'll take our next question from John Pitzer with Credit Suisse.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Yeah. Good afternoon guys. Congratulations of strong results. Tim, Doug, I want to talk a little bit about kind of market. Tim, in your prepared comments, you talked about your expectation for this being another market share gaining year for you. And at the Analyst Day, a year ago, I think to your 2023 model, you guys had sort of embedded, it's sort of 4% to 8% points of share in etch and dep. I'm just kind of curious to what extent was that sort of time-sensitive versus volume sensitive? And as WFE kind of gets ratcheted up here at a faster rate, do you expect share gain to happen more quickly? And while you're on the topic of share, the perception on Wall Street, is that you guys are extremely well positioned in the NAND market? But I think perhaps people are underestimating your positioning in kind of Logic/Foundry. Kind of curious as you can talk about the areas outside of NAND where you feel most comfortable about share growth this year and going forward.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yeah, sure. John, I'll start this one. I think it's a -- it's a great question and I would actually say this breaking it in this way of time versus volume (Technical Difficulty) where we already put us a very strong leadership position like 3D NAND increased WFE volume helps the share gain immediately, but that -- it's not just a volume story because time progresses and transitions occur to greater numbers of layers. We actually see both more equipment needing to be purchased to deposit and etch those thicker stacks, but also new applications that get created that again expand our SAM and with time, even build on a really strong NAND position. So there's kind of an element of both volume and time in there. On Foundry/Logic, a little bit of the same although I think most people know that we have -- we've laid out a story of how some of the technical inflections really do create new opportunities for Lam to introduce new products gained share and build a strong position in Foundry/Logic.
+
+I would say there definitely is a time element and that we need technology transitions to occur. I need to go from 7 to 5 and 5 to 3 and ultimately 3 to 2, because we're focused on catching the new applications that are being created by the most difficult technical challenges. And so, in my prepared remarks, I talked about things like nano sheets, gate all around the 3D lite inflections that are occurring and those, there is a time element. They have to beat those nodes have to ramp and they're not ramping just yet.
+
+We talked about EUV and our new dry resist process. Again a great opportunity for Lam to enter into a space that's in Foundry/Logic that we just haven't been enough to at this point, but we -- those are future nodes looking opportunities to Lam over the next several years. And so again I think that's why what you hear from us is confidence that we benefit from the strong environment we're in now. So we're laying the foundation for an even stronger future as time evolves.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+That's helpful. Thank you.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Thanks, John.
+
+Operator
+Thank you. We'll take our next question from Stacy Rasgon with Bernstein Research.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi, guys. Thanks for taking my question. I wanted to talk about the customer service business. Can you give us some idea of how much of the strength in the quarter. I mean from the Reliant on mature node tool set. I get the idea that there is more mature node capacity right now. Do you feel like that is a long-term trend. Is that sustainable? And maybe if you could give us some any further color on the amount of the CSBG group is actually coming from upgrades and I guess the same question. Are there -- is there more like a one-time element to that or do you think kind of the run rate of what we're seeing right now is sort of a sustainable driver for that business going forward?
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yes, Stacy. Thanks for the question. Maybe I'll take this and let Tim to add on afterwards. I think both Tim and I said in our script all components of CSBG business delivered record performance last quarter. You're right about the Reliant product line, very much focused on maybe trailing edge 28-nanometer and above nodes, another record. I think we're printing double-digit number of quarters where we've delivered records there because of things you're referencing or referring to. Upgrades were very strong, which is always a high ROI for the customers to get increased capability from the installed base. Spares were very strong.
+
+Think of that has been driven by utilization in the industry broadly speaking utilizations are very high. I see our customers trying to build a little bit of inventory in Spares similar to what we're doing with our own inventory because of concerns about different supply chain disruptions.
+
+So, in the service, service also correlates with utilization in the industry. So I would say when you think about what's going on in the totality of CSBG, $1.3 billion, up 50% from a year ago is hitting on all four cylinders that I've just mentioned and each of them have their own unique tailwinds that are driving the business.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+So, I think terms wise.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Maybe just...
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Sorry. Go ahead, Stacy.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+No, no. Please go ahead.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+No, I was just going to add on. I think to your point about the sustainability of upgrades. I think the one key point is that we've said the installed base grows every year. And so really that is our opportunity. So we naturally by Lam shipping like in a year like this so many new systems on into the field. Our SAM expands for upgrades every single year. And so we really do think that through innovation and coming up with ideas for how the customers extend the capabilities of tools and improved productivity.
+
+It's in our hands to continue to deliver greater revenue capture from every one of those tools that's out in that installed base. And so I think that's quite sustainable and then to your point of the lagging edge, clearly there is a very strong demand at this point and kind of to the first question about capacity constraints and lead times that problem doesn't get solved probably in a very short order of time.
+
+And we you think about sustainability there it goes to this point, I made in my talk about, it's about semiconductor content in everything enabling new functionality and many of those items are making great use of mature technologies. So we've seen that business just grow quarter after quarter after quarter, expanding with the overall market. So I think both have a strong sustainability component to the revenues.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Do you think will be possible to give us some rough split of how the customer service business breaks up right now between those four categories? Upgrade line in spares and services?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+We haven't quantified it and I'm not going to now. I think the color we have given is the spare parts piece of it is the largest component, but we haven't quantified it.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. Thank you very much guys.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Thank you.
+
+Operator
+Thank you. We'll take our next question from Timothy Arcuri with UBS.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. Actually I had two. I guess the first one, Doug, obviously CSBG is running like roughly 15% above your 2020 (Technical Difficulty), and you gave that a little bit over a year ago. So, I guess, the first question is sort of what did you under appreciate in that model a year ago? I know that WFE in your systems business has really just taken off, and maybe that's the answer that you are still growing double the installed base and that's just taken off more than you thought. And then I had a second question as well.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yeah, I mean, Tim alluded the chamber count, clearly it's been a very strong year. And so chamber count is higher than I think I would have thought a year ago. Industry utilization was probably stronger than I would have expected a year ago as well and upgrades is probably benefiting from that also Tim. So there's probably an aspect of it in each of the segments. And, yes, we are certainly ahead of the model that we gave you a year ago. I'm not ready to update the model. But clearly we're ahead of where that model is.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Yeah. Okay, thanks. And then also I keep getting a lot of questions on NAND and your business and you guys do a great job mapping NAND WFE back to bits. And my math says we're running close to $5 billion a quarter in NAND WFE right now and it sounds like you think that goes up into the back half of the year. So if that's right and then I tie it back to your comments that you mapped kind of $15 billion a year to drive mid '30s bit growth and then I think you said $350 million for each 100 basis points beyond that. That would sort of scale up to like 45% bit growth maybe as high as 50% just on like a run rate basis. So I keep getting pinged on that from people asking about that. So can you sort of tie those numbers back? Thanks.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+I don't know if I can do all the math that you just test on the call, Tim. I mean investment ebbs and flows. It ebbs and flows in each of the end markets both in NAND. We did say we expect the second half to be stronger investments in all aspects of the market, including NAND, yeah, it's up this year from where it was last year. It's getting caught up with kind of the under-investment we saw in 2019 to a certain extent you're still seeing very strong pricing.
+
+And as a result, people are investing trying to get caught up with where demand is honestly and it will ebb and flow. It won't go up every single quarter. We see a very strong investment this year and I think it's going to continue in the long-term to be very strong. All right. But I can't do all the math that you just asked sitting here on the call. I'd be happy to follow-up on that.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks, Doug. Cool. Thanks.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Thanks, Tim.
+
+Operator
+Thank you. We'll take our next question from Krish Sankar with Cowen and Company.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Hi. Thanks for taking the question and congrats on the very strong results. I have two. What is the short-term and what is the long-term question. The short-term question for Doug is, is there a way you can quantify, how your second half revenue is going to trend with the first half? Or do you think CSBG revenues would outperform system revenues in calendar '21? And then I had a follow-up for Tim.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Krish, did you say second half earnings? I didn't quite catch.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Second half revenues versus first half revenues, and would CSBG be greater than system revenue growth this year?
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yeah. You know Krish, we guide one quarter a time and then we give you color about what we see for the year. I'll remind you what we tried to say. We see WFE in the second quarter [ph], which is good for the trajectory of our business. So you can read into that, what you think for our revenues but WFE is stronger is going to be a good thing for us. We just guided, June up to $4 billion. So that's as much I'm going to give you on the revenue side. So, yeah, it's been like a pretty strong year, and we see the second half spending stronger than the first half across all of WFE. And what I said -- yeah, Krish, what I said on CSBG is, I expect it to be a strong year for CSBG, a continued strong, give you a hard number on it, but all the tailwinds that I described look like they're continued.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Fair enough. Thanks, Doug. I mean, just a follow-up for Tim, a longer-term question. When you look at like some of the upcoming technologies like gate all around, it looks like selective removal etch would be important in addition to epi. So, I'm kind of curious how is Lam positioned for gate all around? And is there a way you can quantify the dollar or revenue opportunity for Lam?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+No, I don't think, I don't think there is a way we can do that. But what we've said is that, Lam-SAM expands in every technology node. And clearly gate all around (inaudible). What we tried to point out is, again, what's sort of the embodiment of our product and technology strategies to identify new applications, new requirements, that emerge when device technology changes or when architectures change. And ensure that Lam is positioned early for those, with products and with our customers, so that when they change happens, we're in a great position to win those. We're giving you a few examples, not all of the examples. But I think that's again, it's just to give you a sense that when these inflections occur, where we have a track record of doing quite well. So why we keep pointing back, it's the same strategy we executed through the 3D NAND inflection and ultimately over time it's built for us an incredible business. And so, I think, gate all around is coming as an opportunity for us in that way. We pointed out EUV and the ultimate changes in the way patterning is done and what we see any way for opportunity for driver assist as another, while not gate all around focused. It's kind of the same technology nodes where those changes occur. So, we see promise in Foundry/Logic for our future.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Thanks, Tim and Doug.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Thanks, Chris.
+
+Operator
+Thank you. We'll take our next question from C.J. Muse with Evercore.
+
+Q - Christopher James Muse{BIO 18608702 <GO>}
+Yeah. Thank you for taking the question. I guess, first question, you talked about second half WFE higher than first half. Curious what magnitude of upside, which could support versus simply just being sold out and pushing demand into the first half of '22? And as part of that, can you speak to the timing of ramping capacity in Malaysia and bringing more resources on for you guys?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Okay. C.J., let me let me get -- go on this one. Clearly what we've said is that capacity is tight. And, so, for the very first question I probably could have even added, if a customer would order a tool today, when they get it, I won't divulge, but I mean, clearly it will not be adding to qualified capacity this year. I mean, that sort of gives you some sense of where lead times and such are. But we do have a couple of events coming in the second half of the year, that are meaningful for us. And that is expansion of our Asian manufacturing facilities. Doug, talked about the buyout of our JV in Taiwan as an opportunity for us to take a bit more control over that entity and continue ramping, and Malaysia is a second half 2021 story for us in terms of its ramp. And so we are confident in long-term capacity needs for the company and we want to be able to support and return lead times back towards more historical levels for the company. And as I said, we're extended now, part of this capacity expansion is to return those more to normal as we get towards the end of the year.
+
+Q - Christopher James Muse{BIO 18608702 <GO>}
+Very helpful. As a quick follow-up, for domestic China revenues, was that primarily NAND and as part of that were you able to obtain a license for SMIC yet?
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+C.J., demand in local China customer base is broad based. Trailing edge foundry, little bit of DRAM, a little bit in NAND. This to license for our large foundry customer in China, no update. We're still waiting to hear back from the government.
+
+Q - Christopher James Muse{BIO 18608702 <GO>}
+Great. Thank you.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Thanks, C.J.
+
+Operator
+Thank you. We'll take our next question from Toshiya Hari with Goldman Sachs.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hi guys. Thanks for taking the question and congrats on the strong results. Doug, I wanted to follow up on China. I guess, I've been a little bit surprised, how long your China business has been over the past quarter or two, despite some of the restrictions placed on -- placed on SMIC. What's been the offset to the upside in your China business, you just talked about broad-based demand. But did anything standout over the past quarter or two? And how are you thinking about calendar '21, local China WFE on a year-over-year basis? And I've got a quick follow-up.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yeah, sure. I'll take a crack at it. I mean, it's broad based. First thing, I'll remind you that when you see our regional revenue, it's a shift to fab location. So it's -- there is a balance between local China and global multinationals taken equipment at their -- in their fabs in China. I did say that the majority more than half last quarter where the local Chinese customers. The quarter before, in the December quarter, it was the other way around, it was more MNC oriented. So it's pretty broad and it's been relative to the local China component of it. It's a broad set of customers. Some, you probably know, but I would tell you there is a long tail of smaller customers that maybe you're just getting to know or maybe you don't know yet. So it's a broad set of people investing. And thinking about WFE from local China this year, it's up from last year. It's growing, across lagging edge, logic nodes and memory.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Got it. And then as a quick follow-up on CSBG, Doug, you mentioned the long-term growth outlook, there is now better relative to what you presented last year, at your Analyst Day. Is that simply a function of the 2021 base being higher or has something changed structurally or fundamentally in CSBG? You talked about the chamber count obviously being higher and utilization rates being higher, but anything kind of structural that has changed over the past 12 months? Thank you.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+No, I wouldn't point anything structural. It's -- we're shipping more chamber, so that's -- it's a bigger opportunity from, I guess, I think of an available market standpoint. And then it's pieces of all four components in CSBG.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Thank you.
+
+Operator
+Thank you. We'll take our next question from Joe Moore with Morgan Stanley.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great. Thank you. May I follow-up on that last question. Doug, you made the comment that you can see the services business, you be very surprised to see it, not grow each year. And obviously the chamber count growing is a nice kind of lead indicator. But when you talk about a lot of the drivers of higher utilization, people building inventory of spares, things like that, that are sort of a function of this very tight supply environment that we're in. Do you see those things turning into headwinds next year? And I mean still seems like you're likely to grow given the growth in chamber count? But the outperformance versus chamber count can that continue beyond this kind of very strong near-term environment?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+I don't have any different view of the business, Joe. I have a hard time seeing it not growing every year. It doesn't mean it's going to grow every single quarter. But we're shipping a lot of chambers this year, which is what the momentum of the business going into next year and beyond. Not every component of it may grow every year, but we're feeling really good about where it's going. And like I said, the chamber count is an important metric to think about future business opportunity.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yeah. And Joe, if you know remember, at our Investor Day we showed an objective we had about revenue capture per chamber as well. And so I pointed out in my comments, a couple of places, we're making progress. It is about trying to develop some of these data and equipment intelligence, services offerings, also productivity upgrades. Clearly, customers are focused on trying to get as much output out of existing installed base as they can and those types of services and upgrades help them do that. And in that way, as chamber count grows, we're also expanding SAM for those. So, that's another reason why we believe year-on-year, we can continue to grow that installed base business.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great. Thank you.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Thanks, Joe.
+
+Operator
+Thank you. We'll take our next question from Vivek Arya with Bank of America Securities.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. I had two as well. First on the NAND side. I was hoping you could give us a sense for how much of the market right now is -- versus greenfield deployments? And how does that compare to what it was last year? And does this ratio impact the benefit you can derive from the market? Like does the spending intensity change, right, depending on whether there is more conversion versus greenfield?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Yes. Vivek, I'll take that one first and let Doug comment. But fundamentally there is -- and I said this on our last call, our view for this year is a bit more greenfield investment this year than last year. There's also more conversion investment as well. So the overall market is up. But there is an important difference in terms of the capital intensity per bit in the greenfield, which is higher. Conversions are more efficient.
+
+But what's unique for Lam is those conversions, our share, our capture of the WFE is much higher in the conversions. And so while we really do sell the same things in both instances, in the conversion, it's mostly etch and deposition equipment that's required to continue to build those taller stacks. And so we do very well there.
+
+So this year, it's a blend of both. But I think that, again, it's one of the reasons why, as we look going forward, every tool that gets installed for a greenfield, ultimately, as customers transition to higher layer counts, those tools will ultimately need to be upgraded and move forward through that next layer count. And that means our opportunity for the installed base business just continues to grow, the more fabs ultimately that we built for NAND.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+All right. Very helpful, Tim. And for my second question, if I take a longer-term view of WFE, what we have seen is that, historically, it will grow for two, at most three, and then it will kind of consolidate there for a few years. And then, it will take another big step-up. When I look at the WFE outlook for this year, this will be the second year of very strong growth. How do you think about WFE intensity from these levels? And when do you think we should start to bake in any incremental benefits from the regionalization or increased domestic manufacturing headlines that we see in U.S. and Europe?
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Yes. It's a great question, and we were -- there's no doubt when you have strong years, people start wondering when you'll get a year of the strong. We haven't talked about whether 2022 is up or -- but we have said, we feel we are in a strong multiyear environment. We think it's too early to really know how all these factors I talked about play out in any given year. But over the longer term, we see these new technologies and increasing content, we definitely know increasing complexity. You're hearing that from all of our customers. Increasing complexity is increasing equipment capital intensity.
+
+And then your regional comment, another bit of a wildcard, but definitely positive, given everything that is going on that you're seeing in chip shortages and all the discussions there. So I think those items, they will play out over a multiyear period. Recent -- we're kind of aligned with recent things we've read in the media that say, chip shortages don't get solved in 2021. Regional capacity investment ambitions don't get solved in just a couple of year period. These are multi-year trends that we think are tailwinds for semiconductor capital equipment.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you, Tim.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Thanks, Vivek.
+
+Operator
+Thank you. We'll take our next question from Blayne Curtis with Barclays.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Hi, guys. Thanks for squeezing me in. Just I want to ask specifically an analysis of DRAM market, it's been an undersupply. You haven't seen kind of any company, you really see a big uptick. Just the fact, that is what's going on there and if you see any uptick as you look in the back half of the second year. And then just for Doug, just when you laid out your long-term targets, obviously, a $75 billion WFE is higher than that. You're dealing with higher shipping costs. But just a perspective on, I don't know when you're going to be able to sell the shipping cost or perspective on getting that margin back from the 33% to 34% target that you laid out?
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yes. So you really -- you've got two questions here, Blayne, what's going on DRAM and then what's going on the target model. I'll take a cut at both and then let Tim comment on either one. Yes, we see -- DRAM investment, when I look at it, it's a pretty consolidated set of customers.
+
+And I just view them prudently managing capacity, prudently managing where they see pricing, prudently managing how they bring capacity online and paying attention to profitability is really what I see going on. And so that's why when we look at this year, the first half, DRAM still is fairly muted in terms of level of investment, and you see it ticking up a little bit in the second half as the industry tries to bring supply closer to where demand is. It's just in a pretty healthy place is how I see it. And, yes, that's all -- that's what I get there. Relative to the long-term model, a couple of things to think about. First on the logistics costs. We're going to be dealing with elevated logistics costs until global airfreight gets back to a more normalized level. I don't know when that's going to happen. I think it's going to require some level of consumer travel again because a lot of stuff flies around in the belly of commercial aircraft. And so I'm optimistic it gets progressively better, but we're still seeing headwinds for the foreseeable future.
+
+Then relative to the financial model getting at slightly higher profitability, first, I feel great about where we just guided, right, 32% operating income at the midpoint, that would be the second highest level of profitability the company has generated in its 40 plus year history. So I'm feeling good about what's going on there. There's a time component to the profitability as well, which has to do with some of the things that we talked about on the call today, ramping a factory in Asia -- in the Asia regions where cost structure is a little bit better, dealing with those freight logistics costs. I still feel really good about attaining that financial model. And I think actually, you're seeing demonstration of it this year from us already. I don't know, Tim, if you want to add anything.
+
+A - Timothy M. Archer{BIO 7502648 <GO>}
+Yes. No, I think the only thing I would add is, clearly to echo Doug's comment, we're extremely happy with the 32% guide. And in the same vein, we're investing a lot for our future. I mean, Doug mentioned the Malaysia factory, which will help, new Korea technology center coming up, put us closer to our customers, accelerate solutions, bolster our opportunities per share gain across both Memory and Foundry/Logic, new products that are coming out.
+
+I mean, I can't remember a time when Lam has had more new products coming out, really focused on key technology inflections across all device segments. And so we're very happy, we're delivering these financial results and making these investments that we think make us much stronger going forward.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Thanks, Doug.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Thanks, Blayne.
+
+A - Tina Correia{BIO 20814110 <GO>}
+Excuse me. Operator, we have time for one more question, please.
+
+Operator
+Thank you. We'll take our last question from Weston Twigg with KeyBanc Capital Markets.
+
+Q - Weston Twigg{BIO 15419233 <GO>}
+Hi, thanks for taking my question. First, I just wanted to ask a follow-up on CJ's question around your revenue capacity capability in the back half of the year. It sounds like it maxed out in terms of your system revenue heading into the June quarter, and it loosens up a little bit. But can you give us a feel for what that peak could be? Is it $2.8 billion? Is it $3 billion just from, sort of, boundary in terms of what you're limited by -- from a revenue perspective?
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Yes. Weston, I'm going to quantify for you, but we're making investments across all of the factory network. We talked about taking ownership of a Taiwan factory. We talked about ramping a new factory in Malaysia. We're trying to squeeze incremental capacity out of what the other existing locations to try to get those lead-times back to a more normalized level that Tim was referencing. And so as we do those things, our capability will get bigger. I'm not going to quantify it for you, but we're working on all of that stuff.
+
+Q - Weston Twigg{BIO 15419233 <GO>}
+Okay. So, it just sounds like -- as long as we think about a gradual improvement over time, we should be -- and don't get too crazy, which should be in the ballpark. The other question I have is just in terms of revenue growth drivers. And wondering if you could just give us a feel for the rate of growth of your systems revenue that's driven by 10-nanometer and below in logic versus some of the older nodes where you're also seeing pretty good growth, is the rate similar? Are you seeing -- still seeing quite a bit faster growth at the leading edge, which is what we typically expect?
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+The majority of the spending in Foundry/Logic is at those leading edge nodes. Even though there is a broad-based set of investment occurring, Wes, because of the capital intensity at the leading edge node that's usually what drives a lot of what's going on.
+
+Q - Weston Twigg{BIO 15419233 <GO>}
+Okay. That's what I would expect. Perfect. That's helpful. Thank you.
+
+A - Douglas R. Bettinger{BIO 16159085 <GO>}
+Okay. Thanks, Wes.
+
+Operator
+Thank you. I'll turn it back to management for closing remarks.
+
+A - Tina Correia{BIO 20814110 <GO>}
+Thank you, operator, and thank you all for joining our call today. We appreciate your time.
+
+Operator
+This concludes today's call. Thank you for your participation. You may now disconnect.

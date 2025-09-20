@@ -1,0 +1,358 @@
+Q1 2023 Earnings Call
+Company Participants
+Balaji Krishnamurthy, Head of Investor Relations
+Dara Khosrowshahi, Chief Executive Officer
+Nelson Chai, Chief Financial Officer
+Other Participants
+Brian Nowak, Morgan Stanley
+Deepak Mathivanan, Wolfe Research
+Doug Anmuth, JPMorgan
+Eric Sheridan, Goldman Sachs
+John Colantuoni, Jefferies
+Justin Post, Bank of America Merrill Lynch
+Lloyd Walmsley, UBS
+Mark Mahaney, Evercore ISI
+Ron Josey, Citi
+Ross Sandler, Barclays
+Presentation
+Operator
+Good morning and welcome to Uber Technologies Inc's Q1 2023 Earnings Conference Call. All participants are in a listen-only mode. After the speakers' presentation, we will conduct a question-and-answer session. As a reminder, this conference call is being recorded.
+
+I would now like to turn the call over to Balaji Krishnamurthy, Head of Investor Relations. Thank you. Please go ahead.
+
+Balaji Krishnamurthy{BIO 22042896 <GO>}
+Thank you, operator. Thank you for joining us today and welcome to Uber's first quarter 2023 earnings presentation. On the call today, we have Uber CEO, Dara Khosrowshahi; and CFO, Nelson Chai.
+
+During today's call, we will present both GAAP and non-GAAP financial measures. Additional disclosures regarding these non-GAAP measures, including a reconciliation of GAAP to non-GAAP measures are included in the press release, supplemental slides and our filings with the SEC, each of which is posted to investor.uber.com. As a reminder, these numbers are unaudited and may be subject to change.
+
+Certain statements in this presentation and on this call are forward-looking statements. Such statements can be identified by terms such as belief, expect, intent and may. You should not place undue reliance on forward-looking statements. Actual results may differ materially from these forward-looking statements and we do not undertake any obligation to update any forward-looking statement we make today, except as required by law. Required by law.
+
+For more information about factors that may cause actual results to differ materially from forward-looking statements, please refer to the press release we issued today, as well as risks and uncertainties described in our most recent annual report on Form 10-K for the year ended December 31, 2022 and in other filings made with the SEC when available.
+
+We published our quarterly earnings press release, prepared remarks, and supplemental slides to our investor relations website earlier today and we ask you to review those documents, if you haven't already. We will open the call to questions, following brief opening remarks from Dara.
+
+With that, let me hand it over to Dara.
+
+Dara Khosrowshahi{BIO 2037795 <GO>}
+Thanks, Balaji. Uber is off to a strong start in 2023 with gross bookings up 22% year-on-year in constant currency. Trips outpaced gross bookings growth and accelerated to 24% growth from 19% last quarter. Adjusted EBITDA of $761 million exceeded the high end of our guidance, and we delivered strong incremental adjusted EBITDA margin of 12% and record free cash flow of $549 million.
+
+Over the past two years, we've consistently delivered results that have exceeded both investor expectations and our own internal plans. Even as we perform well, we're acutely aware that expectations have only continued to increase for scaled platforms like ours.
+
+We're working to accelerate our path to GAAP net income by optimizing our entire P&L, every single line item. Despite any macroeconomic uncertainty, I'm more confident than ever in our prospects and remain committed to best-of-breed cash flow growth. The Uber platform has never been stronger, our own expectations have never been higher, and we're excited to leave no doubt as to the scope of our ambitions for exceptionally profitable growth.
+
+With that, let's open it up -- the call for questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. Our first question comes from Doug Anmuth from JPMorgan. Please go ahead. Your line is open.
+
+Q - Doug Anmuth
+Thanks so much for taking the questions. Dara, good EBITDA upside, the 400 -- $549 million in free cash flow and talking about GAAP operating income this year. I think headcount flat to down this year. Do you believe you need to tighten up the cost structure anymore? And how do you balance those considerations with product and growth?
+
+And then secondly, just in terms of AI, you talked about improvements on ETAs and onboarding. What are some of the other ways you envision AI driving the consumer experience for Uber?
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yes, absolutely. So, I think as far as the cost structure goes, listen, we manage the cost structure dynamically based on the environment that we're seeing. And I think the results speak for themselves in terms of our bookings growth, trip acceleration on a quarter-on-quarter basis.
+
+And then, you look at our EBITDA that we delivered well above Street expectations, well above our guidance. And the forward EBITDA, $800 million to $850 million that we guided to, again, even at the low end above what Street expectations were. So we will be managing our cost structure to the opportunities ahead, and also, with a very strong kind of dose of discipline. So, even in a market where we're gaining category position, we expect our headcount to be flat down for the balance of the year. And that is going to be our starting point as we go into next year as well.
+
+So, I think you're going to see pretty extraordinary leverage in terms of the top-line and bottom-line. The incremental EBITDA that we delivered this last quarter was 12%, which is well above the 7% target that we talked about. And if you look at our guidance, the incremental EBITDA that we're talking about for Q2 is about 10%, which remains well above our targets.
+
+If the business slows down, and we don't expect it to slow down materially, we will adjust. And I think Nelson, myself, the rest of the team have demonstrated the ability to deliver in good markets and bad markets. Remember, this is not a fair-weather company, we've been through a lot of difficult things, we came out of COVID. So just the muscle, the P&L muscles are there.
+
+And hopefully, you'll remember, early last year, before everyone else was raising alarms about the reality of today's capital markets and discipline needed, we raised the alarms internally and we took action early so that we didn't have to be reactive like a lot of other tech companies have been. So like, we're innovating, we're building while a bunch of people are restructuring. And I think that's a good position to be in.
+
+As far as AI goes, we are looking full stack at AI. I think a lot of people obviously want to talk about the sexy kind of new consumer applications. I would tell you that I think that the earliest and most significant effect that AI is going to have on our company is actually going to be as it relates to our developer productivity. Some of the tools that we're seeing in terms of co-pilot are going to allow our devs to kind of be super-devs and to be able to innovate more, build more faster, having co-pilot along with them. And that will essentially leverage and accelerate innovation across the platform. And this is with a platform that I think is innovating faster than anyone else.
+
+I think on the cost side, you can see chatbots powering a lot more experiences as opposed to, let's say, live agents. I think the quality of those chatbot experiences is going to increase with AI with a voice that can be more human, that can -- interactions that can be more complex, et cetera. And then, we will look to surprise and delight.
+
+Pick me up at the airport, I'm arriving in American flight 260 on Tuesday. And we will know who you are, where your home is, what kind of cars you like, et cetera, and AI can power those kinds of experiences. So it's going to go from productivity to cost to delight. And we're thrilled. It's a wonderful toy that hopefully will return significantly going forward for the company.
+
+Q - Doug Anmuth
+Thank you, Dara.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+You bet.
+
+Operator
+Our next question comes from Ross Sandler from Barclays. Please go ahead, your line is open.
+
+Q - Ross Sandler{BIO 15948659 <GO>}
+Hey, guys. Congrats. Question on the rides take rate. So you mentioned in the prepared remarks that both rider and driver incentives were down pretty nicely in the U.S. and your category position's stable. So, is that the primary driver of the improvement in rides take rate? And kind of looking forward, how much more lend you see to kind of continue that trend of reducing incentives while holding category share? Thanks a lot.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Yes, so as Dara mentioned, we optimize our marketplace in order to both make sure that we are driving and overachieving against the guidance that we put out on the bottom-line. But certainly, we also want to try to allocate and drive growth on the top-line as well. And so, right now, things are working quite well if you look at both the top-line as well as the bottom-line growth in the quarter. And so, I would say it's a combination of both.
+
+So, we leaned in a lot, as you know, last year, in terms of bringing drivers back. And so, the marketplace is much more healthy from a supply perspective. So periodically, we will put in some more incentive to continue to drive demand. And again, what I would say is that we work very hard at balancing our marketplace, because it's not just delivering the EBITDA and the free cashflow that we're promising, but we are trying to continue to grow the company at scale. And so, you saw that our gross bookings were up 22% on a constant basis and the Mobility business even higher.
+
+And so, as we go into next year, what's actually exciting about it is our trip growth is actually accelerating faster. And again, for us, that's our marketplace working. And so again, you'll see us continue to toggle back between the two and our focal point really is on continuing to drive our company at scale on the top-line and over-deliver against our commitments on the bottom.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+And Ross, just to add one point is part of the take rate increase that you saw Q4 to Q1 on the Mobility business is seasonal. Q4 tends to be very, very busy from a demand perspective. So, we put more money, so to speak, into incentives to make sure that supply is balanced.
+
+Q1, usually demand is a bit lower and supply is elevated. Therefore, we can take down incentives, which has the effect of increasing our take rates. If you take a look, if you ignore the merchant model kind of the accounting adjustments that we had, our take rate kind of Q4 to Q1 went from, call it, 21.4% to 21.1%. So there's a slight decrease, slight -- sorry, it was the other way, it went to 21.4% from 21.1%. So there's a slight increase in take rate, but most of that is seasonal. And really, it's as Nelson said, we're managing for the entire P&L and take rate is just one element of the P&L.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Yes, so what Dara is referencing is the business model change in the UK that happened last March. And so you're seeing that overlap, which -- so that was the -- what Dara pointed out.
+
+Q - Ross Sandler{BIO 15948659 <GO>}
+Thank you.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Next question?
+
+Operator
+Our next question comes from Brian Nowak from Morgan Stanley. Please go ahead. Your line is open.
+
+Q - Brian Nowak{BIO 16819013 <GO>}
+Great. Thanks for taking my questions. I have two. The first one, I appreciate the new, the rider cohort data in the slide deck. I'd be curious to hear a little more detail about which use cases or products are sort of driving this strong new user cohort frequency and spend behavior that you're using, that you're seeing.
+
+And then the second one on Delivery, you're talking about acceleration in the business is really healthy. Can you just talk to us about which products or regions are driving that acceleration and how we should think about that over the course of the year? Thanks.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yeah, Brian, in terms of the mobility cohorts, which are positive kind of on a year-on-year basis and then the newer cohorts are actually even more healthy in terms of in terms of trip frequency, it comes really from the amalgamation of all of the work that we are doing on the platform.
+
+Supply is strong, ETAs are coming down, surge came down from Q4 to Q1, and that's resulting in higher conversion rates in terms of how many sessions does a rider have and do they convert on that session. So the quality of the marketplace is clearly having an effect, but at the same time, we're innovating and we're adding a ton of new products and choices for the rider as well.
+
+Reserve is an example. I talked about 20% now of our airport drop-offs being reserved trips, and what we're finding is that Reserve has a combination of riders who used to use our on-demand marketplace now using Reserve to make sure that they're sure that they're kind of guaranteed availability or guaranteed a much higher reliability. But it's also bringing new riders into the system as well that are -- it's a use case, travel is a strong use case with high average fares as well. So, I think it's a combination of marketplace health and innovation around new use cases that is driving the frequency that we are seeing.
+
+In terms of Delivery, as far as the growth there and the acceleration drivers, one is just that we had Omicron comps earlier in the year. So if you look at January, Delivery volumes were a bit lighter just because of comps and then we saw acceleration going into February and March, and we expect strong growth for the balance of the year.
+
+And the other factor in terms of Delivery is, again, the customer cohort data is actually quite healthy. Earner eater retention has improved significantly. So eaters are staying with the platform. Frequency is up and a higher percentage of our eaters and riders, but especially eaters are members, and as you know, members spend 4x the amount that non-members do. So all of that is adding up to continue healthy growth for the platform, both on the Mobility side and on the Eats side as well.
+
+Q - Brian Nowak{BIO 16819013 <GO>}
+Great, thanks Dara.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+You're welcome. Next question?
+
+Operator
+Our next question comes from Eric Sheridan from Goldman Sachs. Please go ahead, your line is open.
+
+Q - Eric Sheridan{BIO 22465717 <GO>}
+Maybe following up on that with two on the Delivery side of the equation. Dara, you called out in the letter improving your category position in large markets. Can you give us a little bit better sense of what you see as the key investments to improve category position are, and how investors should think about the growth output or the yield from those investments looking out over the medium-term to long medium?
+
+And then second, with respect to the Delivery business, how should we think about market share dynamics broadly in the Delivery business versus where you see yourself as the best positioned to compete where there's an overlap between the Uber One subscription and the Mobility business where that might put you on a competitive footing that's different than markets where that may not be as prevalent? Thank you.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yeah, absolutely, Eric. So I think on the Delivery side, we're seeing the result of a couple of factors. First of all, we've got the power of the platform in that we have our Mobility business that is actively upselling our Mobility customers to our Eats product. The audience that we have on the Mobility business is the largest audience in the world in terms of any of our Mobility competitors. And we're the only players who -- scale players who are kind of upselling from Mobility to Delivery and then vice-versa.
+
+So against our competitors, who are mono-arm competitors, who are delivery-only competitors, we have a source of low-cost traffic, significantly low-cost traffic. Our Mobility business sends us more customers than we get from Facebook and Google and Snap and all of these different platforms combined. And that's just a structural advantage that we have against the overall market, certainly against the competitors.
+
+And then, I think we're executing particularly well algorithmically as it relates to improving our marketplace efficiency on the Delivery side, higher percentage of batching orders and using deep learning techniques to drive down cost per transaction on the Delivery side.
+
+You add on top of that our advertising product, which continues to grow at high rates, advertisers are up 70% year-on-year using our platform, and you get some pretty powerful economic drivers that's allowing us to deliver the kinds of bottom-line that you saw on our Delivery business, which is well ahead of estimates, while gaining category position in 9 of our top 10 markets on a global basis.
+
+So, I think that it's happening broadly. It's not 5 out of 10, it's 9 out of 10 markets where we're gaining category position. And I do think it's the power of the platform. And again, we see it in almost every single market out there.
+
+Q - Eric Sheridan{BIO 22465717 <GO>}
+Great. Thank you.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Sure.
+
+Operator
+Our next question comes from Justin Post from Bank of America. Please go ahead, your line is open.
+
+Q - Justin Post{BIO 3469195 <GO>}
+Great. Thanks. Nelson, maybe just give us an update on the EBITDA progress. If you take $850 million x4, you're already over $3 billion run rate. What are the drivers to get over $5 billion here? Is it network efficiencies, marketing spend, leverage on personnel? How are you thinking about the growth from here? And then I noticed you had some interesting comments on the taxi business. Just high level, how much that's helping your mobility growth. Thank you.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Okay, so I'll handle the first half of it. So, again, when we put out the targets last year, our expectation was, at least achieve them on the top-line, but over-deliver on the bottom. And we're five quarters into putting out a 12-session plan. And I think history shows that we've overachieved every quarter and we intend to continue to do so.
+
+So, again, if you take the Q2 trajectory, which is actually what you're referencing, we don't stop there, right? So, we're continuing to invest in our marketplace and continue to grow the marketplace. And we actually are optimizing every single line of the P&L and we're seeing those benefits. And so, last year, we talked a lot about the cost per trip benefits we're getting on delivery. This year, you heard us talk a little bit about our R&A and some of the benefits we can have there, and these are big dollars. And so, the platform really is operating quite well.
+
+And so, like, what we're doing is we work with our teams and work with our product, our tech folks to make sure we're just optimizing the platform. So to be able to grow 22% constant currency at our scale year-over-year, it's hard, right? It's tremendous, what we're doing here and be able to deliver the incremental.
+
+So, I think what you should think through is more about where we think we're going to end up next year, understanding that we think we'll continue to outpace on the bottom-line. And you heard the commentary about, we think we were 12% incremental margins in Q1. Right now, if you look at the midpoint of the guidance, it's 10%.
+
+And so, our expectation is that we'll continue to do better, and importantly, generate a lot of free cash flow that we think is going to ramp in the coming quarters. So while we're not touching upon new guidance for 2024 or the out years, hopefully we're building track record to show you that the company is really operating at a high level right now.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Justin, as it relates to the taxi market, we don't disclose, let's say, taxi bookings. When we look at hailables, which is taxi two-wheelers, three-wheelers in certain markets, that's a business that's already over $1 billion. But really, the way that we look at our portfolio is a set of growth bets that we're making. These are taxi two-wheelers, three-wheelers, low cost, our UberX share, high capacity vehicles that we're investing in, our Uber for Business, Uber for Health, and then newer products like Reserve that are creating entirely kind of new instances for our riders to use the service.
+
+If you add up all those growth bets, we're about a $6 billion run rate, growing at 100% year-on-year. So, we talked about when we put together a growth platform, we talked about 50% of our growth coming from our base business, 35% of our growth coming from new bets, 15% of our growth coming from certain international expansion. It's the traditional Uber business, but with a twist.
+
+And if you look at our growth bets, our growth bets were about 10% of our volume in Q1, they're about 20% of our growth in Q1. And they also account for 20% of new riders coming onto the platform. So not only are they a big part of our growth in kind of a new business segment that we're building, but we're introducing an entirely new audience to the Uber platform and those new riders tend to use other products.
+
+They'll come in on U4B, they'll use this main line, they'll come in on low cost, and then they'll treat themselves to an UberX or a Comfort as well. So we see taxi as a part of a portfolio. Nelson and his team are constantly allocating capital to the base business, to the growth bets as well in a dynamic way to deliver the kinds of top-lines and then excellent bottom-lines that you're seeing.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+So think about it. Our GBs are up 22% on a constant basis, just to go back to that. And our EBITDA is up 4x year-over-year. And so, again, I think that we really are pulling all the levers to make sure we deliver top and bottom-line growth. And so, again, I think we're both very confident that we'll continue to do that in the coming quarters.
+
+Q - Justin Post{BIO 3469195 <GO>}
+Great. Thanks, Nelson. Thanks, Dara.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Sure.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Thank you. Next question?
+
+Operator
+Our next question comes from Lloyd Walmsley from UBS. Please go ahead. Your line is open.
+
+Q - Lloyd Walmsley{BIO 15125459 <GO>}
+Thanks a lot. Two, if I can. First, just kind of continuing on the last question, appreciate the color on hailables in the new format. I guess on that international side of the medium-term growth, what is the update, the latest update on some of the markets you flagged at the Analyst Day, like South Korea, Spain, and Germany?
+
+And then second one, following-up on some of the earlier Delivery questions, like how much do you think of the benefit you guys are seeing in terms of market share is a function of product improvements versus maybe more discipline across the competitive landscape, just with the rising cost to capital? You flagged I think Japan in particular, but like anything --? Do you feel like those are also part of the benefit and like where are we in seeing the benefit of just a more rational competitive landscape? Thanks.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yes, I'll start. In terms of the international markets, a couple that I would call out are Spain, Germany, and Turkey. Spain is a highly regulated market, but we're having a ton of success, in terms of adding supply into our marketplace, earnings are strong, demand is strong, and Spain is growing at very significant rates. And we believe we're gaining category position in Spain.
+
+Same with Germany, it's a market that we started on, probably around four years ago, and it has developed very well. We're playing by the rules, and Germany is the largest GDP in Europe, so it's a very, very large market to go after. We're seeing promise both on the Mobility side and the Delivery side in Germany. We're happy with that development.
+
+A couple of other markets are Turkey, where Turkey is a taxi market, and our innovating around hailables and building a taxi product has allowed us to penetrate into that market as well. And then Argentina as well, showing real promise in South America.
+
+We're seeing with working with South Korea and Japan, the market development there is slower than we'd like, frankly, and it's partially because of regulatory issues as it relates to dynamic pricing, et cetera. We're not really -- we're not able to kind of flex all of the muscles of the marketplace of what makes Uber great, especially on the pricing side. We think pricing reform there will benefit drivers, and we think it's absolutely something that will help out the market, but it's taking a little more time than we would like.
+
+And then, Nelson, do you want to talk about the second?
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Yes, on the delivery. So, yes, you're partially correct. I think the rationalization of the marketplace is driven by the higher cost of capital. As you know, we've led in terms of trying to drive companies towards profitability, and frankly for me, companies need to make free cash flow. And so, we've led from the front on that and certainly, everybody's had to follow given where the market is right now.
+
+And so, we are seeing the benefit of having a bigger and then frankly and more efficient platform. And it's allowing us to really make progress in certain marketplaces, like most of Asia, and particularly the UK are big callouts in the first quarter. And importantly, what's important now is that right now, if you look at our top 20 delivery markets, so overall on delivery, we're generating 2% EBITDA margin. We're profitable in 15 of our top 20. And actually, 6 of our top 20 markets today in the first quarter are already above our long-term targets.
+
+So we're growing our market, our category position. We're gaining, we're growing at the top-line, and we're delivering on the bottom-line. I think that's just a good formula. But certainly, the overall cost of capital increases and what's going on in the broader world has helped when you have the broadest and the most efficient platform, and one where we have the benefit of going cross-platform.
+
+Q - Lloyd Walmsley{BIO 15125459 <GO>}
+Okay. Thank you, guys.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Thank you.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Thank you. Next question?
+
+Operator
+Our next question comes from Mark Mahaney from Evercore. Please go ahead. Your line is open.
+
+Q - Mark Mahaney{BIO 3027058 <GO>}
+Thanks. I wanted to ask about two questions. On the advertising side, what traction you're seeing for advertising on the Mobility side. And then, in terms of the Uber One program. In the prepared comments, you talked about seeing really nice traction, record high levels in North America. Could you talk about in the rest of the world? And also kind of the -- what -- if there are product development areas you want to lean into to make the Uber One program even more attractive. Thank you.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yeah, absolutely. We are very happy overall with our ad products. We talked about the number of advertisers who are using our product growing 70% to 345,000 businesses. And the majority of our revenue is, to be clear, is on Uber Eats. It's obviously a big, growing platform along with the new products that we're launching on the new vertical ad side with sponsored items in the U.S. that are designed for CPG advertisers.
+
+We continue to see strong momentum on the Mobility side with Journey Ads. And these Journey Ads are getting us premium CPMs because if you think about the Uber rider, this is a very high demographic rider. They tend to be younger, so obviously more open to first rate brands and advertising. They tend to be mobile, they tend to be urban, and they go places. They are moving and they are spending. So, we are seeing very high CPMs as it relates to our mobility advertisers.
+
+One of the newer products that we're quite excited about are car tops that you see in certain cities like New York City, and also tablets that we're launching in certain cities as well. These are newer formats and what's exciting about these new formats is that they are a way for us to improve driver earnings.
+
+So for example, with car top, the driver who has a car top will make an average of $100 extra a week, as it relates to those earnings. So if drivers are making more money, retention is higher, supply hours are higher, and they're happier and making more which helps out the marketplace. So, we're quite optimistic about our prospects there.
+
+As it relates to Uber One, I'd say strength across the board. We are -- the goal of Uber One is really we are giving a discount to our best customers in order to drive frequency. And we continue to see Uber One members spend 4x more than non-members. Retention is 15% higher than non-members as well and Uber One continues to be a higher and higher percentage of our bookings. It's about 27% now and we have a target of driving that to 50% plus.
+
+And in certain markets outside of the U.S., Uber One penetration is significantly higher than that 50% target. So that's not a theoretical target, that's a target that is absolutely achievable. And I will also add that Uber One members are profitable and what we find is it's a very, very effective way essentially to drive frequency and higher engagement with our customer base.
+
+Q - Mark Mahaney{BIO 3027058 <GO>}
+Okay, thank you.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+You're welcome. Next question.
+
+Operator
+Our next question comes from Deepak Mathivanan from Wolfe Research. Please go ahead, your line is open.
+
+Q - Deepak Mathivanan{BIO 17464056 <GO>}
+Great, thanks for taking the questions. Dara, your competitor in the U.S. is going through a transition currently. How do you think about the potential impact of this on the U.S. ride share market? And philosophically, what is Uber's priority between kind of defending category position and profitability, if for some reason, competition intensifies in this space?
+
+And then a second question maybe for Nelson, you noted in response to a prior question that you intend to outperform on EBITDA. Certainly, the incremental margins have been great, but wanted to ask if there is any update on your thinking on top-line bookings for 2024. Since you provided the guidance at the Analyst Day, FX has been a headwind and some markets are on different trajectory. Wanted to ask if you have any updated thoughts on '24 top-line growth. Thank you so much.
+
+A - Nelson Chai{BIO 3480355 <GO>}
+So I'll go first and Dara can answer the competitive question second. So, certainly, if you think about what we did in the first quarter, right, 22% constant currency and even 19% reported across our business is extremely strong, especially given some of the headwinds on freight. And if you just think about think about what we're doing in terms of the forecast in Q2, so we expect our core Mobility and Delivery businesses' growth bookings to grow 18% to 22%, depending where you are in the guidance on a constant currency basis.
+
+So, as we said, we are committed and we are enabled because we have been so efficient in terms of operating the business and getting the leverage, and we've been mindful about our costs to be able to invest back in some of the products that you've heard Dara talk about already today. And so, we are seeing some of that meaningful benefit as we think about going into '24.
+
+And so, again, we are trying to do both, which is continue to invest in products that we think will enable us to deliver against the top-line. But importantly, we expect to continue to do what we've been doing, which is over-deliver against the bottom and generate a very, very strong free cash flow in the coming quarters.
+
+And so, again, I would just say that we spend a lot of time on capital allocation inside the company. And right now, the formula is working quite well because we're able to do both, as well as, again, invest in new geographies and invest in new products. And I think you should just expect that to continue.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yeah. And Deepak, as far as the trade-off between CPM and profitability, the first thing I would say is, I hope that we have demonstrated over the past six, seven quarters that that's a false trade-off. We've been consistently gaining category position. And as you've seen, we've been delivering on profitability at a rate well in excess of our internal targets and in excess of external expectations, right, 12% this last quarter.
+
+And again, Delivery delivering essentially record adjusted EBITDA, $288 million in adjusted EBITDA, over 20% incremental margins, while gaining category position in 9 out of our 10 markets. And it's a combination of the team executing really well, our being the scale player, our being the global player and our having the power the platform that our competitors don't.
+
+As far as what we are seeing domestically with Lyft, obviously, they're going through a lot of changes. It's a very, very strong brand. It's not going anywhere and what we're seeing is they're looking to price competitively with us and we think that sets up a competitive environment where we're competing on brand and we're competing on service and ETAs and accuracy, reliability, et cetera. So, we think it sets up a constructive competitive environment going forward.
+
+We haven't seen any signal otherwise, but I think you'll have to ask them that question when they report their earnings, as far as what their strategy is going forward. But so far, what we see is constructive and we don't see any reason why it would change.
+
+I do think a more disciplined marketplace, I think the market has said very, very clearly, that the days of paying for share and essentially using shareholder money to buy share temporarily, those days are over. And so, we think the overall competitive environment for tech generally, but especially in our market, is going to be constructive going forward.
+
+Q - Deepak Mathivanan{BIO 17464056 <GO>}
+Great. Thank you so much.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Thank you. Next question?
+
+Operator
+Our next question comes from John Colantuoni from Jefferies. Please go ahead. Your line is open.
+
+Q - John Colantuoni{BIO 18293515 <GO>}
+Hey, thanks for taking my questions. I wanted to look at the U.S. and Canada cohort figures again. I'm curious why frequency among the pre-COVID cohorts in 2022 was lower than the newer cohorts. Is there something about demographics or adoption of reserve for the newer cohorts or something else that's causing the higher frequency? And mainly, I'm curious if there's an opportunity to improve adoption of Reserve or Uber One in the older cohorts.
+
+And then second question -- oh, sorry. Go ahead.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+No, go ahead. Go ahead and ask your second question and then we'll answer it.
+
+Q - John Colantuoni{BIO 18293515 <GO>}
+Yes, just quickly on Freight, Freight's been falling short on expectations from industry headwinds. Can you just sort of update us on how you envision performance for that business trending throughout the year? And when you think about ROIC and capital allocation to build that business relative to your core Mobility and Delivery businesses, are you looking for opportunities to pair back a bit or even to look for strategic opportunities to monetize that business to help accelerate your path to GAAP, profitability, and investment grade? Thanks.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yes, absolutely. So I think on the first one, Nelson will take the second one, in terms of frequency of cohorts, we think it's exactly what you talked about, which is it's the product set. If you look at our product set today versus 2019, the breadth of product that that we have available to our Mobility riders is significantly higher than it was, whether it's Reserve or reimagined X Share, et cetera.
+
+There are just more opportunities for someone to use our products. And that's resulting in higher frequency kind of on a year-on-year basis. But if you look at each cohort, the 2021 cohort, their frequency increases as well, as we have healthy pricing, healthy availability and then newer products available for them.
+
+Also, remember that our membership program, we think over a period of time, is just mathematically going to drive higher frequency across the business. It'll have a higher impact, because the incrementality generally is higher for Delivery than Mobility. But it should also show up in Mobility as well.
+
+So these are very, very strong, as you know, kind of frequency numbers, they're only getting better. And we think as we continue to innovate around new products, we should be able to have industry-leading frequency, especially since we are able to bring in users on our Rides platform or Eats platform and cross-sell them in a way that no one else can.
+
+Nelson, you want to talk Freight?
+
+A - Nelson Chai{BIO 3480355 <GO>}
+Sure, so first of all, on Freight from a macro perspective, we this is -- are at a macro low in terms of the cycle. And so, what happened was a lot of supply entered the market broadly. And a lot of the supply chain challenges that came during COVID have arrested. So right now you're seeing a very over-supplied market. So that really impacts rates and it really impacts the combination of spot versus contract rates.
+
+And so, that's actually going on globally and you probably will see that as you think about other freight carriers and certainly in the brokerage space.
+
+In terms of its impact, it -- as we think about the guidance that we put out, as we think about getting towards GAAP operating profit, those are all taken to account into the guidance we make, into the statements we've made. And so, while we think about from a capital allocation perspective, it is important to note that we raise excess external capital to fund Freight and we actually fund it separately. And in fact, even the employees of Freight are getting Freight equity as well. And so there's a separate Board that manages it as well.
+
+So, Freight really is something that we still believe in. The team continues to make progress, in terms of digitizing a very analog business. We are in a very challenging part of the cycle. And again, we have a lot of optionality around it. But again, the team does make progress and Lior and the team are making very good progress in terms of some of the applications there. But again, we're in a tough part of the cycle and it has no impact, if you will, or minimal impact, as we think about the guidance that we give with the corporate perspective in terms of generating both GAAP operating profit as well as free cash flow.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+I think just one other note going back to frequency to add, one of the reasons why we're quite optimistic about our frequency on the Mobility side is, if you look at the 2019 cohort, actually, UberPool, which was a high frequency but extremely low margin product, negative margin product for us, was a much more significant part of the portfolio than UberX Share is now.
+
+We are now launching UberX Share, I would say, in the right way with economics at work. We are aligning incentives between the rider and the driver and ourselves in terms of pricing as well. So, as we expand UberX Share, as consumers experience it and we're seeing strong signal there, we think that could be an additional tailwind for frequency going forward in addition to general experience and the membership program.
+
+Next question?
+
+A - Balaji Krishnamurthy{BIO 22042896 <GO>}
+This will be the last question.
+
+Operator
+Our last question will come from Ron Josey from Citi. Please go ahead. Your line is open.
+
+Q - Ron Josey
+Great. Thanks for taking the question. I wanted to ask a little bit more about Uber One, just given it now accounts for 27% of gross bookings. Talk to us a little bit more about the programs just to drive continued adoption of Uber One. And then, in the letter, as it relates to Delivery, there was talk about investments around grocery, convenience, just newer verticals within Delivery. Would love to hear the progress there as well. Thank you very much.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Yeah, absolutely, Ron. So, in terms of our Uber One program, while adoption of Uber One is incredibly important, we're actually more focused on retention. Any time that you build a membership program, it's easy to get, call it, initial numbers up, but if your retention statistics are not where kind of we want them to be, then at some point, you're going to hit a wall.
+
+So, actually, if you look at the team and what their priorities are, it's very much on retention, making sure that the experience of an Uber One member is first rate. If they get a delivery that's late, kind of we make it up for them. Making sure that even details like payments for renewal, payment failure rates are minimized, et cetera. All of this work that is kind of gritty work kind of behind the scenes is actually our priority in making sure that we improve retention rates for our membership program.
+
+If we improve retention rates and we're quite confident that trends are definitely moving in the right direction, then you'll see overall membership continue to increase. And obviously, higher retention means happier members as well. So, that really is the focus of the group. And it's definitely showing up in the increased penetration as it relates to our overall gross bookings.
+
+You will see more experiential benefits of the Uber One. Right now, it's all about discounts, and discounts are awesome, and a much higher percentage of our members just logically should be using the program, because they will save a ton of money. But also, we will look for experiential benefits, like let's say, priority dispatch during certain periods to introduce into the program as well. Those are unique benefits that we can offer that really no one else can offer.
+
+As far as New Verticals, we're very, very optimistic on our progress there. We're now at in excess of a $5 billion annualized gross bookings run-rate. The business is growing 30% year-on-year. And really, it's a disciplined investment path into the category. What we're most excited about is the product itself. We are introducing the native grocery experience to a much larger audience across the company. And as we have done that, we have seen the percentage of Uber Eats customers who then order from New Verticals increase nicely. It's about 300 basis points year-on-year in terms of the percentage of Eats customers who use New Verticals.
+
+And then, it's all about selection. It's about launching new retail partners. So selection by partners like Coles in Australia, they're the second largest grocer. As we add selection, as experience continues to improve, those Eats customers who use New Verticals are going to be happy and they're going to come back. So the trend here is positive, but we have a very long way to go. Our ambition for New Verticals are multiple to the $5 billion that we're at now, but it is going to take disciplined growth to get there. And I think by the results that you've seen, you have seen us able to invest in new products like New Verticals, but at the same time deliver substantial increases in margins at the same time. And I think it'll be more of the same going forward, if we do our jobs.
+
+A - Balaji Krishnamurthy{BIO 22042896 <GO>}
+Great. Let's wrap it up there. Thank you, everyone, for joining.
+
+A - Dara Khosrowshahi{BIO 2037795 <GO>}
+Thank you very much for joining, and we'll talk to you next quarter.
+
+Operator
+This concludes today's conference call. Thank you for your participation. You may now disconnect.

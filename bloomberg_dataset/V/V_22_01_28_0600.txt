@@ -1,0 +1,360 @@
+Q1 2022 Earnings Call
+Company Participants
+Alfred Kelly, Chairman & Chief Executive Officer
+Jennifer Como, Vice President, Investor Relations
+Mike Milotich, Senior Vice President, Investor Relations
+Vasant Prabhu, Vice Chair & Chief Financial Officer
+Other Participants
+Dan Perlin, Analyst, RBC Capital Markets
+Darrin Peller, Analyst, Wolfe Research
+David Togut, Analyst, Evercore Partners
+Harshita Rawat, Analyst, Bernstein
+Jason Kupferberg, Analyst, Bank of America
+Ken Suchoski, Analyst, Autonomous Research
+Lisa Ellis, Analyst, MoffettNathanson Research
+Rayna Kumar, Analyst, UBS Securities
+Sanjay Sakhrani, Analyst, KBW
+Tien-Tsin Huang, Analyst, J.P. Morgan
+Presentation
+Operator
+Welcome to Visa's fiscal First Quarter 2022 earnings conference call. All participants are in a listen-only mode until the question-and-answer session. Today's conference is being recorded. If you have any objections, you may disconnect at this time.
+
+I would now like to turn the conference over to your host from investor relations Ms. Jennifer Como and Mr. Mike Milotich. Ms. Como, you may begin.
+
+Jennifer Como{BIO 20121273 <GO>}
+Thanks, Jordan. Good afternoon, everyone, and welcome to Visa's fiscal first quarter 2022 earnings call. Joining us today are Al Kelly, Visa's Chairman and Chief Executive Officer; and Vasant Prabhu, Visa's Vice Chair and Chief Financial Officer.
+
+This call is being webcast on the Investor Relations section of our website at www.investor.visa.com. A replay will be archived on our site for 30 days. A slide deck containing financial and statistical highlights has been posted on our IR website.
+
+Let me also remind you that this presentation includes forward-looking statements. These statements are not guarantees of future performance, and our actual results could differ materially as a result of many factors. Additional information concerning those factors is available in our most recent reports on Forms 10-K and 10-Q, which you can find on the SEC's website and the Investor Relations section of our website. For non-GAAP financial information disclosed in this call, the related GAAP measures and reconciliation are available in today's earnings release.
+
+And with that, let me turn the call over to Al.
+
+Alfred Kelly{BIO 2121459 <GO>}
+Jennifer, thank you, and good afternoon to everybody and thanks for joining us. Amidst much uncertainty this quarter resulting from the ongoing COVID pandemic, Visa's financial performance was very strong. Our net revenues grew 24% year-over-year, non-GAAP EPS was $1.81, up 27% and our financial performance was driven by record volumes, transactions and credentials.
+
+In Q1, we crossed the $60 billion payment transaction mark for the first time in history, up 26% from two years ago. Visa cards were used 28 million times per hour in the last quarter and we also increased our card credentials to over $3.8 billion, up 10% in one year. I'm going to leave the rest of the details to Vasant, as I want to focus on the future.
+
+As we look ahead, we expect accelerated revenue growth versus pre-COVID over the coming years, driven by our three strategic levers of consumer payments, new flows and value-added services. Many current trends in payments, including A2A, RTP, buy now pay later, crypto and wallet are enabling new ways to pay. These represent opportunities for Visa where we are extraordinarily well-positioned to utilize our unique strength in global network to help them grow and scale.
+
+Let me start by talking about consumer payments, the opportunity to displace cash and check is enormous. At our last Investor Day, we said it was $18 trillion. In Q1, we saw debit cash volumes at Visa grow 6% while debit payment volumes grew 19%. While cash displacement is certainly a reality, global personal consumption expenditure of cash and check grew at a CAGR of 2% over the 10 years ending in 2019. When we look at the opportunity ahead, if you assume global cash grows at 1% annually, industry-wide digital penetration of personal consumption expenditure when it reached 90% for several decades.
+
+For example, in Latin America, until a few quarters ago, there was more cash volume than payments volume on Visa credentials. In fact, in the past year, there has been a nearly 6.5 points shift and payments volume is now 55% of the total volume even with cash in Latin America growing 10% this past quarter. We have expanded acceptance locations in Latin America by almost 30% in the past year to 18.5 million locations and we've grown credentials over 20%.
+
+This quarter, we signed an eight-year agreement with Santander Chile, one of the largest issuers in the country. And in Brazil, we recently signed a deal with Banco XP, one of the country's largest digital banks with over 3 million customers. Brazil remains a growth market with payments volume growth up more than 1.5 times historic levels in recent quarters.
+
+The key to digitizing cash is that the onramps to our network have never been easier to access. Wallet providers have been rapidly issuing Visa credentials that they see value in an open-loop ecosystem. Naranja X is a rapidly growing Argentinian wallet using Visa cards with 2 million credentials issued between prepaid and debit over the last two years. This quarter, we renewed our partnership with PayPay Bank, which enables accounts to PayPay wallet users. PayPay is one of the fastest growing digital wallets in Japan with 42 million users and the bank already has 4 million Visa debit users.
+
+We recently extended our partnership with Safaricom, the operator of M-PESA to cover African markets outside of Kenya, where M-PESA has 50 million customers. We're also providing onramps for crypto players creating connectivity with fiat economies. There are over 65 crypto platforms and exchanges that are partnered to issue Visa credentials. This quarter Visa credentials in crypto wallets had more than $2.5 billion in payments volume, which is already 70% of the payments volume for all of fiscal 2021.
+
+In addition to embedding credentials in crypto platforms, we continue to innovate around our settlement and crypto API capabilities, which has been key differentiators for us for fintechs and financial institutions that are looking to extend crypto capabilities to their customers. We will continue to lean into the crypto space, and our strategy is to be a key partner to provide the connectivity, scale, consumer value propositions, reliability and security that is needed for crypto offerings to grow.
+
+Earlier this month, we previewed CBDC payment APIs currently in development, which would able -- which would enable central banks to connect their therium-based CBDCs with Visa rails through a wallet with digital issuance capabilities, enabling consumers to spend with CBDCs at any Visa merchant.
+
+We partnered with ConsenSys to develop this concept, which was selected as one of the winning entries out of 300 ideas from 50 countries at the global CBDC challenge as part of the Singapore Fintech Festival judged by the representatives from the IMF, the World Bank, the Bank of International Settlements and the central banks of Brazil, India, Kenya, and Indonesia.
+
+In the face-to-face world, tap to pay continues to accelerate growth. Let me highlight progress in a few larger markets. In Brazil, the tap to pay penetration has increased from 5% to 24% in the past year. In India, where we have increased merchant locations 30% since fiscal year 2019 to 6 million at the end of fiscal year '21, the tap to pay penetration is nearly doubled to 16% in the same period. And all of these efforts have helped to fuel our 40% plus year-over-year growth rate in payments volume in India this past quarter.
+
+In the United States, we're nearing 20% tap to pay penetration with key metro cities showing even stronger growth. LA, Seattle, Detroit, Orange County, Miami and Salt Lake City have all surpassed 25%, San Francisco, San Jose and Oakland are up over 30% and New York has reached 45%.
+
+E-commerce is also key to digitizing payments and e-commerce merchants are certainly growing as our relationships with them. We successfully closed the U.S. co-brand deal with Shopify, a key e-commerce platform with millions of global merchants and entrepreneurs. The Shopify Balance card will allow Shopify's U.S. merchants to access funds from sales by the next business day and receive cash back on everyday business expenses like shipping and marketing.
+
+Buy now pay later or BNPL continues to grow and we're seeing more and more BNPL fintechs issuing Visa credentials. Visa is enabling their shift to open-loop, so that their value proposition to consumers can scale through Visa's broad acceptance. Last quarter, I mentioned Corner [ph], and this quarter I'm pleased to announce that Affirm has chosen Visa as their network partner for the Affirm debit plus card as well as renewing the virtual card business. We look forward to supporting Affirm's continued growth through Visa's wide acceptance and reach.
+
+BNPL fintechs are increasingly using Visa virtual cards to settle with merchants driving triple-digit payments volume growth year-over-year in the United States. BNPL fintech consumers also continue to use their cards to pay off their instalments with active cards growing 50% in the same period.
+
+For traditional issuers, we have a network installment solution called Visa Installments, which enables our financial institution clients to seamlessly offer BNPL -- BNPL capabilities through an existing credit credential on any Visa transaction. In Canada, one of the countries where we are launching the capability, we now have commitments from issuers and acquirers representing the majority of payments volume.
+
+Credentials on our network of networks through BNPL, crypto, other fintechs and our traditional issuers bring compelling value propositions like identity protection, fraud prevention, dispute resolution, security, loyalty and more to consumers. This tremendous value motivates consumers to use their Visa credential online or in face to face versus cash A2A, RTP or even blockchains.
+
+So to summarize, the opportunity in consumer payments is huge and has an incredible long term runway. Onramps to our network of networks have never been easier. We provided compelling consumer value proposition and the advances in new ways to pay are good for Visa and these payment providers Visa is enabling utility and scale for BNPL, crypto and wallets and all other new entrants.
+
+Now let me move to progress with use cases in new flows which represents $185 trillion opportunity, 10x that of consumer payments. We are seeing a large appetite from our partners and experiencing significant growth. A key driver is Visa Direct, which targets $65 trillion opportunity across P2P, B2b, B2C and G2C. These are all use cases that Visa didn't really serve just five years ago. By aggressively pursuing these flows with are more compelling solution, Visa is seemingly displacing alternatives that rely on fragmented and dated technology, not the other way around. Visa transaction growth was 35% this quarter.
+
+In the U.S., domestic P2P is currently our largest use case and also our lowest yielding one. As we scale and grow other geographies and use cases, especially those that are cross border, we expect the revenue yield to increase. Regardless of the yield, Visa Direct is accretive given it mostly leverages our existing platforms and capabilities.
+
+Usage is growing with banks signing on for global remittances using cards or accounts. Among them the Qatar Islamic Bank, one of the largest banks in Qatar and CIBC and Simplii Financial in Canada, Visa Direct is also enabling FinTech, Chime and neobank Vero in the U.S. for account to account money movement.
+
+Usage has also expanded across several other use cases this quarter, such as payouts to DoorDash Dashers in Canada. We also recently signed an agreement with Toast to leverage Visa Direct on several fronts. First, near instant cash flow access to daily sales and loan disbursements for their 48,000 plus restaurant customers; and second, for fast tip payouts in earned wage access for their restaurant client employees.
+
+Visa Direct is a compelling capability because we offer incredible reach to more than 5 billion cards and accounts, global scale, a leading technology stack, world-class security and 24/7, 365 reliability. All of which is easy to access through hundreds of partners across our global network of networks reaching bank accounts through a combination of card, ACH and RTP systems in more than a 175 countries.
+
+In the B2B new flows opportunity, we expect future growth to have several vectors. Let me just highlight a couple. First B2B card issuance in both physical and virtual cards where we have a leading share. This quarter in India after partnering with leading B2B neobank Open for several years, we signed the deal for credit and debt issuance as well as the implementation of Visa Direct. In virtual card, we're expanding to new verticals. One recent example is health care. And this quarter, we signed an agreement with a direct healthcare company, Nomi Health, a health care provider that serves 30,000 people per day across 10 U.S. states for its claims payment solution.
+
+A second vector a B2B growth is large ticket account-based cross-border payments through Visa B2B Connect which links our global payments infrastructure with best-in-class capabilities to address the primary pain points of existing solutions. In Latin America, Visa B2B Connect is available in nearly 30 countries and we've enrolled partners in more than a third of those countries already. One partner is CIBanco a leading bank in Mexico. Since enabling the solution in March of 2021, the bank has grown Visa B2B Connect volumes double digits every quarter and has processed thousands of payments and hundreds of millions of payments volume. We also recently added Sberbank, the largest bank in Russia, Eastern and Central Europe which will be live and processing transactions later this year.
+
+So to summarize, new flows, the opportunity is 10 times consumer payments. Our capabilities and value proposition are strong versus the competition, and we expect revenue yield to continue to improve as we scale and grow Visa Direct especially in cross-border use cases.
+
+Now let's move to value-added services. In Q1, revenue grew over 20% and we expect strong growth to continue. One example is Visa Consulting and Analytics. In addition to our crypto offerings that I mentioned earlier, we recently launched a specialized global crypto advisory practice to help financial institutions eager to offer customers a crypto solution, retailers who are looking to delve into NFTs or central banks exploring digital currencies.
+
+Another example is Visa authentication. In Europe, we have tripled the use of Visa's new authentication technology EMV 3DS since the start of 2021 and this is coincided with a reduction in card-not-present fraud by 28% and it has also positively impacted the transaction authorization rates.
+
+And we are launching new capabilities to build for the future. Visa Acceptance Cloud enables clients to move embedded payment processing software from individual devices to the cloud, eliminating the need for expensive terminals as well as the cost and time to certify the processing software. In addition, clients can access value added services from fraud management to BNPL.
+
+We also recently closed our acquisition of Currency Cloud. We believe the combination of Currency Cloud's APIs on the front end, which provide real-time foreign exchange capabilities and our settlement capabilities across our network of networks, we will have a very compelling value proposition. Together, we can enable new use cases and payment flows, particularly as we expand the cross-border use cases we provide our clients including B2B Connect and Visa Direct. We can extend our FX platform for easier connectivity for fintechs and non-financial institution partners and we can offer real time FX rates and improved transparency for our partner customers.
+
+So to summarize value-added services, we will continue to bring Visa's innovation to the payments ecosystem. We are diversifying our revenue mix and this will help us retain and win business and grow revenue well into the future.
+
+In conclusion, as I think about Visa's future, I'm extremely optimistic and energized. While much has been written about new payment types being potentially disruptive to Visa, we see a lot more opportunity than disruption. Our global infrastructure is providing connectivity through our network of networks to power more traditional payment types and newer ways to pay and move money. Our interconnectivity, security, reliability, consumer and fraud protections, risk management and other value-added services offer a superior experience. We expect to attract more and more transactions, which will continue to fuel our growth at an accelerated rate.
+
+With that, let me turn it over to Vasant.
+
+Vasant Prabhu{BIO 1958035 <GO>}
+Thank you, Al. Good afternoon, everyone. Our fiscal 2022 is off to an excellent start with net revenues up 24% and GAAP EPS up 29%. Non-GAAP EPS adjusted for items including investment gains and litigation accrual was up 27%. In constant dollars, net revenue growth was approximately a point higher at 25% and non-GAAP EPS approximately 1.5 points higher at over 28%.
+
+A few key highlights. We had a very sharp recovery in cross-border travel in October and November as much of the globe ex-China moved to reopen borders or announced timetables to open borders and lifted restrictions such as quarantines. As a result, card present and card-not-present travel which exited September at an index of 61 to 2019 rose steeply to hit an index of 72 for the first quarter. Border re-openings came sooner than we had anticipated, and as we've seen throughout 2021, consumers are very quick to act.
+
+As Omicron hit, some borders shut and some restrictions were reinstated. However, as we speak, borders are being reopened and restrictions lifted and we expect the travel recovery to resume as we head into February. Payments volumes remained robust through the quarter globally. With the index to 2019 stepping up relative to the prior quarter by 2 points in the US and 6 points internationally, the credit recovery continued and debit growth remained strong and stable.
+
+U.S. holiday retail spending was especially strong, more than 40% over 2019. E-commerce continued to gain share of retail spending up 5 points since 2019. The impact of Omicron on domestic volume has been modest. As the Omicron wave crest globally, we expect the impact to ease as it has in markets such as South Africa and the UK, which were among the first to be hit.
+
+Revenue growth was very strong across our three growth engines. Consumer payments and new flows' net revenues grew in the mid 20% range and value-added services' revenues grew over 20%. We significantly stepped up the pace of our stock buybacks during the quarter. We acquired 19.4 million shares for $4.1 billion at an average price of $2 -- $210, and our Board authorized a new $12 billion stock buyback program in December. Also in late December, we closed the Currency Cloud transaction.
+
+Now on to the details. In constant dollars, global payments volume was up 20% year-over-year and 26% versus 2019, each accelerating 3 points to 5 points versus the last quarter, led by continued strength in debit as well as improving credit spending. Excluding China, total payments volume growth was 22% or 31% higher than 2019, and 4 point to 5 point acceleration from the fourth quarter. U.S. payments volume grew 22%, up 32% over 2019, both higher than Q4.
+
+Credit grew 27% and improved 6 points to 23% above 2019 helped by affluent consumer and small business spending. Debit grew 18% year-over-year and remained very strong at 43% above 2019, similar to the last quarter. As you can see debit spend has remained resilient even as credit recovered.
+
+U.S. card present spend grew 25% and was 17% above 2019, improving 2 points at its highest level yet in the pandemic driven by fuel, retail and entertainment spending. Card-not-present volume excluding travel grew 16%, 52% above 2019, similar to last quarter.
+
+E-commerce growth remains robust, even as card present spend continues to recover. U.S. retail spending during the holiday season grew double-digits and more than 40% above 2019 levels, both of which are very strong by historical standards. The share of holiday card present retail spending improved a few points from last year, but was still 5 points lower than 2019 as the shift towards e-commerce over the past decade continues. Retail shopping is happening earlier in the holiday season than it used to, which is a trend that started last year. As a result, relative to 2019, November volume was stronger than December. U.S. holiday spending trends are fairly consistent with other major markets around the world.
+
+International constant dollar payments volume excluding China grew 22% and was 29% above 2019, improving 7 points from the fourth quarter. A few regional highlights. Latin America was up 44% year-over-year and 66% above 2019, accelerating 8 points from the fourth quarter with robust performance across the region fueled by cash digitization and client wins. Our CEMEA region remained strong, up 31% and 58% from 2019 levels, accelerating 10 points from the fourth quarter, also fueled by cash digitization and client wins. Europe was up 17% and 23% from 2019 improving 3 points from the last quarter due to strong performance across Continental Europe. Asia Pacific, excluding China remains our weakest region, up 16% both year-over-year and versus 2019, but the recovery is finally underway with an 11 point improvement from Q4, mostly due to relaxed restrictions. The largest improvements were in Australia, India, Southeast Asia and Japan.
+
+Global process transactions were up 21% year-over-year and 26% over 2019, 2 points better than the fourth quarter, accelerating less than overall volume growth due to higher ticket sizes. Constant dollar cross border volume excluding transactions within Europe was up 51% year-over-year and was 1% above 2019 volumes, a 15 point improvement from the fourth quarter.
+
+Cross border card-not-present volume growth excluding travel continued to strengthen up 26% year-over-year and 50% above 2019, 7 points higher than the fourth quarter as consumer engagement continues to grow. Cross border travel related spending excluding intra-Europe grew 102% year-over-year and was 72% of 2019 levels improving an extraordinary 14 points from the fourth quarter to the first quarter.
+
+The recovery in the first two months of the quarter versus 2019 was very fast and broad based with outbound travel from each of our regions improving more than 10 points relative to 2019 from September to November. Inbound travel to the U.S., Canada, CEMEA on Europe, all improved above 20 points during that time, while Latin America and Asia each improved at least 5 points. This recovery was driven by a combination of border openings, the relaxing of restrictions and pent-up demand.
+
+Countries such as the U.S., Singapore, Thailand, Australia, Chile, Argentina and many more reduced friction for inbound travelers. The U.S. to Europe corridor remained open. This steep travel recovery started to lose momentum in the last week of December as Omicron spread around the globe. We expect this to be short-lived.
+
+Moving now to a quick review of first quarter financial results. Service revenues grew 19%, slightly better than the 18% nominal growth in Q4 payments volume, helped by increased utilization of card benefits and small pricing modifications. Data processing revenues grew 19%, slightly below the 21% process transaction growth, mostly due to exchange rate changes. International transaction revenues were up 50% consistent with nominal cross border volumes excluding intra-Europe. Other revenues grew 17% led by consulting data and marketing services, as well as travel related benefits.
+
+Revenue growth was robust across our three growth engines. Consumer payments grew in the mid-20s led by improving cross border volume and continued strong domestic volumes and transactions. New flows also grew in the mid-20s driven by Visa Direct and the carded B2B recovery. Visa Direct transactions grew 35%. We are lapping very strong quarters from last year which is moderating U.S. growth rates. Meanwhile, the international business is ramping fast as the growth from use cases such as cross-border remittances, earned wage access and marketplace payouts.
+
+Commercial or B2B volumes grew 28% year-over-year and up 26% over 2019, a 5 point improvement from the prior quarter, mostly in credit. The growth is helped by share gains and the portfolio of diverse spend categories that is not overly dependent on T&E.
+
+Value-added services revenue grew over 20% led by risk and identity, as well as consulting and data services. Growth was driven by new client adoption, increased usage among existing clients and international expansion. Client incentives were 25.1% of gross revenues, about 1 point below our expectations. This was a result of a significantly better revenue mix due to the faster than expected recovery of our cross-border business. As our revenue mix continues to normalize with the cross-border recovery, it will help this ratio.
+
+GAAP operating expenses grew 24%, inclusive of $145 million litigation provision associated with U.S. Interchange Multidistrict Litigation case. Non-GAAP operating expenses grew 16% in line with our expectations. We recorded gains from our equity investments of $231 million. Excluding investment gains, non-GAAP non-operating expense was $110 million. Our non-GAAP tax rate of 19.3% was in line with expectations. Our first quarter tax rate is typically a little lower than the full year rate. GAAP EPS was $1.83, non-GAAP EPS was $1.81, up 27% over last year. Including our quarterly dividend of $0.375 per share and our stock buybacks, we returned $4.9 billion of capital to shareholders in the quarter.
+
+A few comments on our trends through the first three weeks of January. On a year-over-year basis, U.S. payments volume was up 13% with debit up 4% and credit up 25%. As you assess these numbers, it is important to remember that there was a government stimulus disbursement which caused a surge in debit spending in early January 2021. January spend growth versus 2019 was up 40% with debit up a robust 52% and credit up 29%. These trends are relatively consistent with performance in our major markets around the world.
+
+Processed transactions grew 17% year-over-year, up 37% versus 2019, lagging volume growth due to larger ticket sizes. Cross border volume excluding transactions within Europe on a constant dollar basis grew 44% year-over-year and was 4% above 2019. Card-not-present non-travel growth remained strong at 67% above 2019, up 17 points from the first quarter. The cross border travel recovery has stalled since late December due to Omicron indexing at 72 to 2019 in line with the first quarter. Borders are reopening and we expect the recovery to resume in February. Total cross border volume was 14% above 2019.
+
+Moving now to our outlook for the second quarter. Domestic volume growth has stayed robust and stable for the past three quarters. While Omicron has had some recent impact, it has been modest and will ease the wave crest. This is also the case with e-commerce growth both domestic and cross-border. We are assuming that these trends continue.
+
+The swing factor is cross border travel. As discussed the cross-border travel recovery was very rapid in October and November as the U.S. border reopens and many countries ease restrictions or announced plans to do so. With Omicron surging some restrictions were put back in place and some reopening plans were put on hold. However, restrictions are being eased and borders are reopening. We're assuming the cross-border travel recovery resumes in February.
+
+As such, we expect net revenues to grow at the high end of high teens in the second quarter, including over 1 point of exchange rate drag. Incentives should grow at a similar rate as the first quarter, which is a percent of gross revenues will likely be in the 25.5% to 26.5% range based on volumes, renewal activity and cross-border performance.
+
+We expect organic non-GAAP operating expenses growth at the high end of mid-teens with some additional investment spend. The inclusion of currency cloud will add another 1.5 points to non-GAAP operating expense growth.
+
+Tax rate is expected to come in at the high end of the 19% to 19.5% range. We can also update some of the planning assumptions for the full year we had shared with you in October. Domestic payments volumes and cross-border e-commerce volumes as well as the associated transactions are largely in line with expectations.
+
+At the end of December, we were running significantly ahead on cross border travel index to 2019 relative to our assumptions in the fall. As such, we are now assuming that the cross border travel index to 2019 excluding intra-Europe and the fiscal year 10 points ahead of our prior assumptions are at 90%. Inclusive of intra-Europe travel, this would be back at 2019 levels.
+
+With these updated assumptions, net revenue for the full year would grow at the high end of high teens, including 1 point of exchange rate drag. Obviously, revenue growth would be higher if the cross-border recovery is more robust in the second half and more akin to what we saw in October and November. With revenue mix improving from higher cross border volume, incentives as a percent of gross revenue would range between 25.5% to 26.5% for the year.
+
+We expect organic non-GAAP operating expenses growth at the high end of mid-teens. The inclusion of currency cloud will add another point to non-GAAP operating expense growth. Tax rate is expected to be at the upper end of the 19% to 19.5% range.
+
+On a GAAP and non-GAAP basis, the impact of currency cloud is not material for the year. As a reminder, in our non-GAAP numbers, we make adjustments to exclude amortization of intangibles and non-recurring acquisition related costs.
+
+In summary, FY '22 is off to an excellent start. We expect our growth this year will be well above the pre-COVID rate as borders -- as cross-border recovers. This will likely continue into fiscal year '23.
+
+Beyond that, we are confident the business can sustain a revenue growth rate above pre-COVID levels for three reasons. First, an acceleration away from cash and check for merchant payments both domestic and cross-border as digitization becomes pervasive across consumers and businesses globally. Second, acceleration of cash, check and wire transfer displacement as our new flows initiatives penetrate a broad range of new use cases with very large total addressable markets. Third, sustainable high teens growth across our value-added services both from existing services and new offerings. As new flows and value-added services become a larger part of our revenue mix growing faster than consumer payments, the sustainable growth rate will continue to rise. We are and will continue to invest in the capabilities required to capture the extraordinary growth opportunity ahead of us.
+
+With that, I'll turn this back to Mike.
+
+Mike Milotich{BIO 20581476 <GO>}
+Thank you, Vasant. We're now ready to take questions.
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question comes from Darrin Peller from Wolfe Research. Your line is open.
+
+Q - Darrin Peller{BIO 16385359 <GO>}
+Thanks, guys. Nice job. Al, can you start off by revisiting what you see as the key sustainable factor that's probably accelerated somewhat as the pandemic regress. Whether that services or it's just volume generally having shifted over faster? And then I guess on that note, as we get cross-border improving, we should get a pretty big pass through to the bottom line. I'm just curious, your thought process around the potential for reinvestment versus rewarding shareholders? Thanks a lot, guys.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Darrin, I think, first, in near term, I think the upside is going to come from continued recovery of travel and the affluent customer getting back in the in the mix of spending at the levels they were pre the pandemic.
+
+In terms of the sustained longer term opportunities, I think they come at a number of places. First, e-commerce adoption is going to be very sticky and millions of millions of people around the world went to e-comm. And for the first time during the pandemic, continued cash displacement is without question going to continue. There's just simply more ways to pay, which is going to drive volume. Geographic expansion for us is the other area where we're going to get sustained growth over time. And then I think continuing to penetrate both in new flows and opportunities that we have with Visa Direct. B2B Connect and other areas within B2B plus our ability as we capture more transactions to be able to sell our value-added services. So I think there is a good number of levers that we can push that provide terrific growth for us going forward.
+
+In terms of your second question, I'll let Vasant weigh in as well. Look, Vasant talked about our updated planning assumption on cross border where we think we're going to be about 10 points better than our original planning assumption. And certainly that is going to be helpful for us. As we look ahead, we're going to continue to, I think, be very balanced in our thinking. We are conscious about making sure that our level of investment is at the appropriate levels against the right initiatives to make sure that we are managing the business and being able to fund growth initiatives into the future. But we're also conscious of making sure that we're careful about our expenses as we go forward as well, Darrin.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yeah. I mean, going back to your question about shareholders and returning cash to shareholders, we did step up our dividend. It's $1.50 per quarter now. We did that last quarter. And then as you saw, we accelerated our stock buybacks. Our stock buyback is programmatic, but when we see opportunities we step it up. And clearly our cash flows are better. We felt there was an opportunity and we stepped up our buybacks. As Al said, I mean, our first priority is investing in our core business. There's plenty of opportunity here for growth. Second would be acquisitions that enhance our capabilities like Currency Cloud, and hopefully soon, we closed on Tink. And then of course we've always been returning cash to shareholders most of our free cash flow in the form of dividends and buybacks.
+
+Q - Darrin Peller{BIO 16385359 <GO>}
+Thanks, guys.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Thanks, Darrin.
+
+Operator
+Our next question comes from Rayna Kumar from UBS. Your line is open.
+
+Q - Rayna Kumar{BIO 17409639 <GO>}
+Good afternoon, Al and Vasant. Thanks for taking my question. So as you both highlighted, you're debit volume remains very strong. Can you discuss how much of that strength is coming from Visa Direct and how sustainable that growth is in '22, of course, excluding the second quarter comp issue with the government stimulus? Thank you.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Rayna, it's a couple of points that it's been consistently that through the entire run of the pandemic.
+
+Q - Rayna Kumar{BIO 17409639 <GO>}
+Got it. Thank you.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Yeah.
+
+Operator
+Our next question comes from Harshita Rawat from Bernstein. Your line is open.
+
+Q - Harshita Rawat{BIO 18652811 <GO>}
+Good afternoon. Thank you for taking my question. I want to ask about inflation. Vasant, can you remind us how does inflation impact you? You obviously get benefits in purchase volumes, but how does it impact ticket sizes, consumer behavior in your view? And can you also talk about the cost in personnel expense aspect of it? Thank you.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Sure. In terms of inflation, as it relates to our revenues, as you know our service fees, cross border, et cetera are denominated primarily in basis points on ticket size. So to the extent that there is inflation driving up ticket size clearly it's beneficial to us. When it comes to transactions processing, our fees are generally tried to number of transactions.
+
+Right now of course the size of the basket has gone up. Some of it is because of inflation, some of it is because it's just gone up through the pandemic. Some of it has to do with the fact that some of the smaller transactions you've got in a normal world like people going and buying themselves lunch at work or a cup of coffee, we're losing some of those transit. And so that causes ticket size on a mix basis to go up, which will recover, and that will be good for our transactions business.
+
+And in general, when people are ordering in through e-commerce, basket sizes are tended to go up. So the basket size increase we see now is partially inflation, partially at some elements like the ones I just went through. So net-net, I mean we had a beneficiary of inflation. And in terms of wage inflation, generally speaking, I mean we expect some, everybody is seeing it. But overall, I mean it's reasonable at this point and we'll update you as time goes by, if it's more than we expected.
+
+Al, I'm sure you have things to add.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+No, I think it was a very complete answer, Vasant. The only other factor that you didn't mention relative to ticket sizes is something I said in answering, I think, Darrin's question that as the affluent segment which is the segment that whose spending went down the most during the pandemic comes back in. Obviously, they tend to have higher ticket sizes as well. So there is a number of factors that drive ticket sizes actually getting to precision on causality and what the different weighting of those different factors are is virtually impossible.
+
+Q - Harshita Rawat{BIO 18652811 <GO>}
+Okay. Thank you very much.
+
+Operator
+Our next question comes from Sanjay Sakhrani from KBW. Your line is open.
+
+Q - Sanjay Sakhrani{BIO 7390132 <GO>}
+Thanks. So Al, you talked about the many reasons in your opening that you expect the growth to be a significant tailwind with many of the partners and products that you cited. It's interesting because many of the doubters sort of speak to that as the reason to be concerned about the outlook. I'm just curious, what do you think they're missing?
+
+And I just had a follow-up for Vasant. In terms of the updated cross border guidance, does that assume that there is a gradual improvement after February or that the people go back to traveling like you saw in November and December? Thanks.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Sanjay, I'd say a couple of things. One is that much of the innovation that we have seen is coming in ways to pay. And we're in network that is agnostic to the different ways people want to pay. We are truly a global open network that is willing to embrace fintechs and bigger players who want to introduce new ways for consumers to pay. We're not going to decide who is a winner or a loser. I'm not here to predict how big BNPL will get or crypto will get, I don't know. But I think that our job is to lean in and support them and give them a chance to have their capabilities or their ways to pay run on our network. Ultimately, the consumer will decide who wins and loses based on the value that they believe that they are seeing, as well as the user experience.
+
+I also think that the fact of the matter is if you look out over time, open networks win over close networks. And Visa is a truly open global network with incredible reach and scale. And what ends up happening in any kind of closed situation is that after the initial excitement and initial pop, people run into a wall where it gets much more difficult to scale their businesses. And when somebody comes in and does business with us where we can make our 80 million or really closer to 100 million merchants available to them and help bring scale instantly, and prevent people from having to, for instance, go merchant by merchant in order to scale their business, we can do it much more quickly and much more efficiently for them.
+
+So I think that this kind of distinction between how to pay and a network like ours that is enabling multiple ways to pay is a distinction I think that people haven't fully appreciated.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yeah. Going back to your second question on cross border, I think what's become evident from multiple data points over the last six months to nine months is that when borders open, it's like a switch turning on. The reaction is almost immediate. There is massive pent-up demand and consumers are quick to act. And what we saw in October and November was really the world opening up ex-China. And if it hadn't been for Omicron that trend was quite extraordinary.
+
+Between September and November, we saw a very steep increase in cross-border travel driven by the opening of the U.S. border, the opening up of most borders in Europe. And what we started to see in October was many Asian countries, which had been the most restrictive excluding China of course either opened up or announced a timetable for opening up. So that tells you that opening borders, which is something that is hard to predict because governments control it can have a sizable and immediate impact.
+
+In terms of your question as to what is our assumption, our assumption is for steady improvement through the year, but we know it won't be steady. I mean there will be periods when borders open and we could see some sharp improvements, and there may be occasional periods where if there is another variant and maybe some flattening out just as we saw in January. But the bottom line is, it is very clear that when borders are open, things will move very fast to normalize.
+
+Q - Sanjay Sakhrani{BIO 7390132 <GO>}
+Thank you.
+
+Operator
+Our next question comes from Ken Suchoski from Autonomous Research. Your line is open.
+
+Q - Ken Suchoski{BIO 20676294 <GO>}
+Hi. Good evening, Al and Vasant. Thanks for taking the question. I wanted to follow up on the cross-border business. I mean some really solid results there. And I'm just curious to get your thoughts. Can you talk about whether this business gets back to pre-COVID trend growth? Or do you expect the cross-border business to get back to pre-COVID trend levels meaning this cross border revenue and volume eventually catch up to where it would have been had COVID not happened?
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Well, I think, the short answer is, we fully expect to get back to pre-COVID trend levels meaning whatever the trend line was we will get back to that trend line. And at least initially, the mix will be a little different because the part of the business that is growing well above trend is the cross-border e-commerce business. The part of the business that right now is below trend -- below the trend line is the travel business.
+
+The e-commerce business cross border is clearly one that we think can sustain above trend growth rates relative to pre-COVID. And if the travel business returns only to the pre-COVID growth rates, which we see no reason why it wouldn't, so let's assume it grows about pre-COVID growth rates, gets to the trend line and then begins to grow at pre-COVID trend rates. We see no reason why that isn't the case. There is a possibility because of the e-commerce business that the cross-border business in total can grow faster than pre-COVID growth rates after it gets back to the pre-COVID trend line. I assume that is sort of what you were asking.
+
+Q - Ken Suchoski{BIO 20676294 <GO>}
+Yeah, that's exactly right. Thanks a lot for that. I appreciate that.
+
+Operator
+Our next question comes from Lisa Ellis from MoffettNathanson. Your line is open.
+
+Q - Lisa Ellis{BIO 18884048 <GO>}
+Hi. Good afternoon. Thanks for taking my question. I had a couple strategic questions related to the Visa Acceptance Cloud announcement. First, is this open to all types of card payments or is it Visa only? And then second, how are you monetizing Visa Acceptance Cloud? And then the last one is, how should we think about the interplay between the Visa Acceptance Cloud and your ecosystem of acquirers and payment facilitators, given that many of them have their own solutions in the POS space. I mean is this -- are they embracing it or is it potentially competitive with their solution? Thank you.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Lisa, first of all, it's early days with it. Our approach on this is to not charge for it because we think it's extremely valuable for the ecosystem to expand acceptance. And that's really the driving strategic force for us here is to drive acceptance. And certainly, my expectation is that once we can get the transaction on our network we will have more opportunity to sell things like value added services over time. But despite the fact that our network has 100 million merchant locations, there is still a long tail of merchants around the world that are not accepting. And it's important that we do everything we can to bolster the acceptance footprint that we have around the world.
+
+Operator
+Our next question comes from Jason Kupferberg from Bank of America. Your line is open.
+
+Q - Jason Kupferberg{BIO 6867809 <GO>}
+Hey guys, thanks for taking the question. Just wanted to take the temperature a bit on the global regulatory landscape. Does it feel more or less risky than say where we were pre-pandemic. I mean, just given the political climate in the U.S., there is still the merchant litigation in Brooklyn. The Fed's proposing some changes to the Durbin amendment. There were some recent reports out of the UK from the Payment Systems Regulator there. So just wanted to see how you're thinking about that overall or any areas of risk we should be potentially mindful of? Thank you.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Jason, for as far as long as I've been involved in payments, there's always been regulatory issues and discussions and -- that take place around the world. So it's really part of being in the business. I do not think there has been any material change in the environment in the last quarter or for that matter in the last year. I do think that the pandemic has helped.
+
+The governments recognized a couple of things though. One is the incredible importance of digitization because at a time when people around the world were locked down, they were able to continue to order food and order items delivered to their house because of digital payment ecosystem that is reliable and secure around the world. I also think that during this time governments realized that they should become more digital. And we during this period helped a number of governments with the issuance of stimulus money, or in some cases, there was money to recognize first responders and healthcare workers and those kinds of things. So I think there is more discussions going on with governments related to digital payments, and we're helping them more.
+
+I'd also say that the subjective central bank digital currencies opens up and gives us an opportunity to talk to central bankers who in many cases are seeking our counsel, as to what they should potentially being able to do. And I think that's a very good thing because it allows us to have inevitable avenues to potentially talk about other things that they might be contemplating from a regulatory point of view. So, I guess, in summary -- in sum, I'd say regulatory attention is nothing new. There hasn't been any material change and we continue to engage thoughtfully and frequently around the world with regulators.
+
+Q - Jason Kupferberg{BIO 6867809 <GO>}
+Okay. Thanks for that.
+
+Operator
+Our next question comes from Tien-Tsin Huang from JP Morgan. Your line is open.
+
+Q - Tien-Tsin Huang{BIO 6065319 <GO>}
+Hey, thanks. Good to connect with you all. Just on the strong mid-20s revenue growth this quarter, I know that was nicely ahead of the high teens you talked about last quarter that you expected. Was it primarily cross border that drove the upside or surprise I'm just curious if there's any other colors that you would point to because I know you've fielded a lot of cross-border questions? And then just quickly on rebates and incentives, I guess, the outlook 50 bps better than prior guidance, is that also primarily the results of cross-border and the other impact from pricing, et cetera? Thank you.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Yeah, you're right, Tien-Tsin. I mean, the cross border outperformance in the first quarter was primarily cross border, but we also had value added services performing quite a bit better than we expected. So strong value added services was also a contributor. So those would be the -- sort of the two main drivers.
+
+As you know when service -- when payments volumes outperform, we booked the revenue with a lag. There was outperformance on payments volumes too, but that doesn't show up in the quarter. It certainly wasn't anywhere on the order of magnitude as our cross-border outperformance, but there was definitely -- there would have been higher service revenues had there been no lag.
+
+The other part of your question -- the other part of the question was...
+
+Q - Tien-Tsin Huang{BIO 6065319 <GO>}
+Rebates and incentives.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Oh, yeah, rebates and incentives. Yes. We had been saying for a while that those numbers were going up because of the mix change away from cross border. We thought coming into this quarter that we'd be somewhere in the region of 26% at the low end of the prior range we had. We were a whole point lower entirely because our mix improved because of cross-border and the reduction in the range for the year is also driven by the improvement in the mix, since we now expect the cross-border business to be stronger than we had originally expected.
+
+Q - Tien-Tsin Huang{BIO 6065319 <GO>}
+Yeah. So it's all mix. Glad to hear it. Thank you.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Tien-Tsin, the only thing I would add is that I think we also had a very strong holiday period. And as Vasant pointed out in his remarks, or in answer to one of the questions, we've seen this phenomena of the holiday season stretching and it's no longer really Black Friday to Christmas Eve, it's really starting early in November driven by the incredible increase in the adoption of e-commerce.
+
+Q - Tien-Tsin Huang{BIO 6065319 <GO>}
+Got it. Thank you, both.
+
+Operator
+Our next question comes from David Togut from Evercore ISI. Your line is open.
+
+Q - David Togut{BIO 1496355 <GO>}
+Thanks so much for taking my question. Looking at the upgrading your cross border travel forecast for the rest of this year, does any of that include reopening of China? And if it doesn't, what impact would a China reopening have on the impact of -- on cross border travel payments obviously depending on timing?
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yeah, I mean we don't sort of -- no one corridor accounts for a big chunk of our volume. So you know China opening or not, don't have to make specific assumptions on that. We certainly expect some opening in Asia. The big surprise in October before Omicron hit was Asia was opening up faster than we expected. So for example, Thailand pretty much opened up all the resorts. Now they did pause, but they reopened them again now, now that the Omicron wave seems to be passing.
+
+We saw Singapore announced a phased opening plan and I believe they're still on track to do that. We even saw Indonesia, India ease restrictions, so more kinds of people can travel to India without -- and Indonesia without quarantines and things like that. China is completely shut, and it's hard to predict when it opens. So I would say on balance, we are not counting on the big recovery of the Chinese business, but otherwise, the big swing factor at this point is how quickly Asia opens and how restrictive is it after opening.
+
+Q - David Togut{BIO 1496355 <GO>}
+Understood. Thank you very much.
+
+A - Mike Milotich{BIO 20581476 <GO>}
+We have time for one more question.
+
+Operator
+Our final question comes from Dan Perlin from RBC Capital Markets. Your line is open.
+
+Q - Dan Perlin{BIO 1758057 <GO>}
+Thanks. And thanks for sneaking me in at the end here. The question I have is, Al, you outlined a ton of great opportunities for future growth. But in many instances, there's like just so many, it's hard to kind of pull these things together. So when you take a higher kind of elevated look, and you think about it from a secular growth versus cyclical mix of your revenues, where does it sit today versus maybe in the prior pandemic and how should we be thinking about that mix shift to get you to that accelerated growth path? Thank you.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yeah. I can start and I'm sure Al will add. I mean look in the short run, the cyclical recovery is by far the biggest driver of the growth. Having said that, I mean underneath the cyclical recovery, which is most acute right now in cross-border, you can see that other components of the business are not only stable but also growing at an above trend levels.
+
+So if you look at our payments volumes, you know credit is in a recovery mode, but debit is very resilient even as credit recovers, and is at a growth rate if you do a CAGR over the time period pre-pandemic, it's a higher CAGR than it was pre-pandemic. The same is true for e-commerce growth. You could say the same about our value-added services and new flows.
+
+So while the biggest driver of short-term growth being above trend is the recovery component. If you look below it, the underlying sustainable and secular growth trends are also about trend relative to where they were pre-pandemic.
+
+A - Alfred Kelly{BIO 2121459 <GO>}
+Yeah, I'd agree with all of that. And if we look at our growth by certain verticals, incredible growth in home improvement and food and drug, and a lot of that I think is because there's all kinds of new models. People are buying online and picking up or buying online and getting delivery. A lot of these new ways of shopping and paying is going to help us drive growth in new ways going forward.
+
+Q - Dan Perlin{BIO 1758057 <GO>}
+Great. Thank you.
+
+A - Mike Milotich{BIO 20581476 <GO>}
+And with that, thank you all of you for joining us today. Do you have additional questions, you can feel free to contact or email, Jennifer or I. We're happy to help you and have a great evening. Thanks so much.

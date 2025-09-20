@@ -1,0 +1,296 @@
+[
+  {
+    "speaker": "Jessica Moore",
+    "text": "Please note that today's meeting may include forward looking statements relating to, among other things, the company's future financial performance, product development, market position and business strategy and the anticipated separation of the company's Consumer Health business. You're cautioned not to rely on these statements, which are based on current expectations of future events using the information available as of today's date and are subject to certain risks and uncertainties that may cause the company's actual results to differ materially from those projected. In particular, there is significant uncertainty about the duration and contemplated impact of the COVID-nineteen pandemic. A further description of these risks, uncertainties and other factors can be found in our SEC filings, including our twenty twenty one Form ten ks, which is available at investor. Jnj dot com and on the SEC's website.",
+    "start": 45.905,
+    "end": 102.7
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Additionally, several of the products and compounds discussed today are being developed in collaboration with strategic partners or licensed from other companies. These slides acknowledge those relationships.",
+    "start": 103.435005,
+    "end": 115.035
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Good morning, everyone. This is Joaquin Duato, Chief Executive Officer of Johnson and Johnson. Thanks for joining us today. I am accompanied by Joe Wok and Jessica Moore, and we have the privilege to share our second quarter financial results and answer questions you have regarding Johnson and Johnson's business. During my first six months as CEO, I have had the opportunity to reconnect in person with colleagues, customers and stakeholders around the world.",
+    "start": 116.83,
+    "end": 151.8
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "These conversations have energized me about the future of Johnson and Johnson. They have also made clear the critical role our company plays as a leader in bringing innovative healthcare solutions to patients and customers both today and long into the future. And they further validated that the three strategic priorities I outlined earlier this year will continue to guide us in twenty twenty two as we deliver on our mission to transform the future of human health. Let me remind you of those priorities. First, we will continue to advance our industry leading success in pharmaceuticals by delivering the innovative pipeline we highlighted at our Pharmaceutical business review last November.",
+    "start": 152.28,
+    "end": 204.7
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "This includes our goal to grow this sector to sixty billion dollars by twenty twenty five with growth in every year including years facing the Stelara loss of exclusivity and continuing to deliver above market compounded annual growth of at least five percent. In the second quarter, we saw evidence of this plan coming to fruition with the launch of CARBICTI in April. And in May, we received conditional marketing authorization in Europe. In addition, talcetamab was granted FDA breakthrough therapy designation in June. I have great confidence in the strength of our current portfolio, which remains underappreciated and in our robust pipeline to meet our long term goals and to deliver transformational medicines that help improve and save lives.",
+    "start": 205.26,
+    "end": 262.63998
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Our second priority, continue to strengthen our performance in medtech. Over the past several years, this acceleration in performance has been driven by the delivery of differentiated solutions as well as improved commercial execution. We expect this improvement to continue enabled by our innovative pipeline as well as the potential for expansion into higher growth market segments. Currently, eleven MedTech platforms each delivered over one billion dollars in revenue annually. And based on the most recent results, we are gaining or holding share in nearly all of these.",
+    "start": 263.765,
+    "end": 311.13
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "With the positive momentum in this business and our improvement in competitiveness, MedTech has delivered six percent adjusted operational growth in the first half of twenty twenty two. We believe MedTech will continue to be a significant source of value for our investors and our stakeholders. Third, we are separating our Consumer Health business to create two market leading standalone companies. This separation can be a significant opportunity for value creation. The two new global entities will be well positioned to thrive in their respective markets and drive greater strategic and financial success.",
+    "start": 311.93,
+    "end": 359.165
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We are making excellent progress and remain on track to complete the separation in twenty twenty three. In the second quarter, we announced the global leadership team for the new consumer health organization led by Thibault Mongon as CEO designate and Paul Rue as CFO designate. Having worked with both Thibault and Paul for many years, I'm confident that we have selected the right leadership team to lead the new consumer health company in its next chapter. The new Johnson and Johnson comprising our pharmaceutical and medtech businesses will remain the largest, most diversified healthcare products company in the world with over eighty billion dollars in sales. With enhanced operational focus, the new Johnson and Johnson will be poised to bring integrated, comprehensive, disease centric technology and innovative solutions to enhance patient care.",
+    "start": 359.805,
+    "end": 423.13498
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Our balance sheet will remain strong, us to pursue both organic and inorganic opportunities in higher growth markets across both segments, while maintaining our strong dividend distribution. With these key priorities in place, we are confident in our ability to execute on both our short term and long term objectives. We are very pleased to have delivered solid sales and earnings growth through the first half of twenty twenty two, reporting adjusted operational sales and EPS growth of eight percent and eight point five percent respectively. Joe and Jess will share details reflecting above market adjusted operational sales growth from pharmaceuticals and continued resiliency in both medtech and consumer health results that stand out given the current global macroeconomic challenges. We are well positioned across the globe to sustain our leadership position in healthcare.",
+    "start": 423.87,
+    "end": 490.41
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We aspire to accelerate growth while maintaining the diversification in our business and our discipline around capital allocation, which have been foundational to our success for over the past one hundred and thirty five years. I look forward to addressing your questions soon, but for now, I will turn the call over to Jessica to discuss those details. Jess?",
+    "start": 490.57,
+    "end": 515.0
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thank you, Joaquin. This is Jessica Moore, Vice President of Investor Relations for Johnson and Johnson. As a reminder, you can find additional material, including today's presentation and associated schedules on the Investor Relations section of the Johnson and Johnson website at investor. Jnj dot com. We continue to implement enhancements in order to assist you in evaluating our performance.",
+    "start": 515.4,
+    "end": 541.23
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "In addition to today's presentation and associated schedules, we will be posting the transcript of today's call as well as an Excel version of key financial schedules. I will now review the second quarter sales and P and L results for the corporation and the three segments. Following, Joe will provide additional business and financial commentary before sharing an overview of our cash position, our capital allocation priorities and updated guidance for twenty twenty two. The remaining time will be available for your questions. We anticipate the webcast will last up to sixty minutes.",
+    "start": 541.79,
+    "end": 579.18
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Now let's move to second quarter results. Worldwide sales were twenty four billion dollars for the second quarter of twenty twenty two, an increase of three percent versus the second quarter of twenty twenty one. Operational sales growth, which excludes the effect of translational currency, increased eight percent as currency had a negative impact of five points. In the U. S, sales increased two point three percent.",
+    "start": 579.875,
+    "end": 606.57
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "In regions outside the U. S, our reported growth was three point eight percent. Operational sales growth outside the U. S. Was thirteen point nine percent with currency negatively impacting our reported OUS results by ten point one points.",
+    "start": 607.835,
+    "end": 624.73
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Excluding the net impact of acquisitions and divestitures, adjusted operational sales growth was eight point one percent worldwide, two point four percent in the U. S. And fourteen point two percent outside the U. S. Turning now to earnings.",
+    "start": 625.20996,
+    "end": 642.635
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "For the quarter, net earnings were four point eight billion dollars and diluted earnings per share was one point eight zero dollars versus diluted earnings per share of two point three five dollars a year ago. Excluding after tax intangible asset amortization expense and special items for both periods, adjusted net earnings for the quarter were six point nine billion dollars and adjusted diluted earnings per share was two point five nine dollars representing increases of four point three percent and four point four percent, respectively, compared to the second quarter of twenty twenty one. On an operational basis, adjusted diluted earnings per share increased ten point nine percent. I will now comment on business segment sales performance highlights. Unless otherwise stated, percentages quoted represent the operational sales change in comparison to the second quarter of twenty twenty one and therefore exclude the impact of currency translation.",
+    "start": 643.035,
+    "end": 706.995
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "As stated last quarter, we plan to keep our comments brief to leave more time for Q and A. Please refer to the slides for additional segment and franchise commentary. Beginning with Consumer Health. Worldwide Consumer Health sales of three point eight billion dollars decreased one point three percent with a decline of three point six percent in the U. S.",
+    "start": 707.73,
+    "end": 730.055
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "And growth of zero point six percent outside the U. S. Operational sales growth, which excludes the effect of translational currency, increased two point three percent as currency had a negative impact of three point six points. Excluding the impact of acquisitions and divestitures, worldwide growth was two point nine percent. Results were primarily driven by strategic price increases, growth in OTC outside the U.",
+    "start": 730.215,
+    "end": 757.635
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "S. Due to a strong cold, cough, and flu season and digestive health category recovery. This growth was partially offset by a weaker allergy season and supply constraints in the U. S, although these have improved from prior quarters. Furthermore, the Consumer Health business was negatively impacted by regional COVID-nineteen mobility restrictions, mainly affecting the Skin Health Beauty franchise.",
+    "start": 757.635,
+    "end": 783.41504
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Moving on to our Pharmaceutical segment. Worldwide Pharmaceutical sale of thirteen point three billion dollars increased six point seven percent with growth of four point two percent in the U. S. And nine point eight percent outside of the U. S.",
+    "start": 784.135,
+    "end": 799.53
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Operational sales growth, which excludes the effect of translational currency, increased twelve point three percent as currency had a negative impact of five point six points. Excluding the impact of acquisitions and divestitures, worldwide growth was twelve point four percent. Excluding COVID-nineteen vaccine sales, worldwide operational sales growth was eight point six percent. Results in the quarter were impacted by unfavorable prior period adjustments offset by favorable discounts. Pharmaceutical growth was driven by our broad portfolio of products paired with strong commercial access and execution, enabling us to continue to deliver above market adjusted operational sales growth, including five assets with double digit growth in the quarter.",
+    "start": 799.85004,
+    "end": 849.44
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Growth was due to strength from DARZALEX, STELARA, ERLEADA and TREMFYA, along",
+    "start": 850.16003,
+    "end": 855.52
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "with our",
+    "start": 855.52,
+    "end": 855.84
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "paliperidone long acting portfolio, which was partially offset by biosimilar competition for REMICADE along with a decrease in IMBRUVICA sales. DARZALEX and ERLEADA continue to drive strong operational sales growth with increases of forty six point one percent and fifty six point nine percent, respectively. ZEVARA growth of eighteen point six percent was driven by strong market growth and meaningful share gains in Crohn's disease and ulcerative colitis. This represents five point four points and seven point four points of share gain, respectively, in the U. S.",
+    "start": 855.84,
+    "end": 895.58496
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Results in the quarter benefited from favorable discounts, partially offset by unfavorable prior period adjustments for a net favorable impact of approximately four hundred basis points. Tremfya grew twenty nine point seven percent, driven by market growth and share gains in psoriasis and psoriatic arthritis. This represents two point three points and three point two points of share gain, respectively, in the U. S. Results in the quarter were impacted by an unfavorable prior period adjustment of approximately seven fifty basis points and unfavorable patient mix.",
+    "start": 896.58,
+    "end": 934.25006
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "IMBRUVICA operational sales declined seven point two percent worldwide due to increased competition, particularly in the U. S. IMBRUVICA maintains its market leadership position worldwide and continues to drive operational growth outside of the U. S. Despite ongoing competitive pressures.",
+    "start": 935.21,
+    "end": 952.825
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Given these results, we remain confident in our ability to deliver our eleventh consecutive year of above market adjusted operational sales growth in twenty twenty two. I'll now turn your attention to the MedTech segment. Worldwide MedTech sales of six point nine billion dollars decreased one point one percent with growth of one point six percent in the U. S. And declines of three point six percent outside of the U.",
+    "start": 953.79,
+    "end": 979.875
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "S. Operational sales growth, which excludes the effect of translational currency, increased three point four percent as currency had a negative impact of four point five points. Excluding the impact of acquisitions and divestitures, worldwide growth was three point four percent. Operational sales also grew sequentially versus the prior quarter despite headwinds related to regional COVID-nineteen mobility restrictions as well as labor and supply constraints. Drivers for growth across the medtech business include procedure recovery, focused commercial strategies, and differentiated new products driving enhanced or sustained market share positions in nearly all of our eleven priority platforms, each generating over one billion dollars in annual sales.",
+    "start": 979.875,
+    "end": 1030.0349
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "For additional context, all franchises were affected by regional COVID-nineteen mobility restrictions and selling days had an immaterial impact on results in the quarter. Now turning to our consolidated statement of earnings for the second quarter of twenty twenty two. I'd like to highlight a few noteworthy items that have changed compared to the same quarter of last year. Cost of products sold deleveraged by fifty basis points, primarily driven by increased supply network related costs with the COVID-nineteen vaccine and inflation partially offset by favorable mix. We continue to invest strategically in research and development at competitive levels, investing fifteen point four percent of sales this quarter.",
+    "start": 1030.5149,
+    "end": 1075.62
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "The three point seven billion dollars invested was a nine point one percent increase versus the prior year, primarily due to portfolio progression in pharmaceutical and med tech. The other income and expense line was an expense of two seventy three million dollars in the second quarter of twenty twenty two compared to a net income of four eighty eight million dollars in the second quarter of twenty twenty one. This was primarily driven by litigation, higher unrealized losses on securities, and consumer health separation costs in the current year, partially offset by favorable employee benefit plan related items. Regarding taxes in the quarter, our effective tax rate was seventeen point six percent versus five point eight percent in the same period last year. This was primarily driven by a twenty twenty one one time tax benefit from an internal reorganization of certain international subsidiaries.",
+    "start": 1076.18,
+    "end": 1136.13
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Excluding special items, the effective tax rate was fifteen point four percent versus fourteen point eight percent in the same period last year. I encourage you to review our upcoming second quarter ten Q filing for additional details on specific tax matters. Lastly, I'll direct your attention to the box section of the slide where we have also provided our income before tax, net earnings, and earnings per share adjusted to exclude the impact of intangible amortization expense and special items. Now let's look at adjusted income before tax by segment. In the second quarter of twenty twenty two, our adjusted income before tax for the enterprise as a percentage of sales increased from thirty three point four percent to thirty four percent, primarily driven by favorable product and segment mix, partially offset by inflation and portfolio progression in R and D.",
+    "start": 1136.93,
+    "end": 1193.2899
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Pharmaceutical margin improved from thirty nine point four percent to forty two percent, primarily driven by favorable product mix and brand marketing expense leverage. MedTech margins declined from twenty eight point six percent to twenty six point five percent, driven by inflation, unfavorable product mix and increased investments to support new product launches and research and development. Finally, Consumer Health margins declined from twenty eight point six percent to twenty five point nine percent due to commodity inflation, partially offset by supply chain efficiencies and onetime favorable items in twenty twenty one. This concludes the sales and earnings portion of the Johnson and Johnson second quarter results. I'm now pleased to turn the call over",
+    "start": 1193.61,
+    "end": 1242.565
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "to Joe Walk. Joe? Thank you, Jess. As Joaquin and Jess commented, our results remain solid across our three segments in the second quarter and through the first half of twenty twenty two, particularly in light of macroeconomic headwinds such as inflation, select countries experiencing continuing impact from COVID-nineteen and geopolitical matters. Our sustainable resilient business continues to deliver on the robust operational guidance that we set forth at the beginning of the year, while advancing breakthrough innovation and fostering patient access to make a positive impact across many areas of healthcare.",
+    "start": 1242.565,
+    "end": 1281.6299
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "As previously discussed, we did build in a healthy assumption to account for inflation in our January guidance, planning for increased costs in labor, energy and transportation. We noted in April and are doing so again today that these pressures will continue to impact margins in the third and fourth quarters and into twenty twenty three. As such, we continue to pursue mitigation efforts, including cost improvement initiatives, strategic price increases and contract negotiations with external supply partners. As for segment performance and key events in the quarter, in MedTech, you may recall that performance in Q2 twenty twenty one was the strongest of the year for most of the medtech peer set, including Johnson and Johnson, making this second quarter our toughest comp. On a sequential operational basis and in line with our expectations, we did see an acceleration in sales even considering the regional COVID-nineteen related mobility restrictions this quarter.",
+    "start": 1282.59,
+    "end": 1344.1249
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "As Joaquin noted, we are focused on continuing the strong cadence of innovation in this business, which includes launches such as the next generation ECHELON three thousand stapler, a digitally enabled device demonstrating improved patient outcomes based on clinical evidence. It also includes the EmboGuard balloon guide catheter designed to optimize the removal of blood clots and reduce procedure time in the treatment of ischemic stroke. In pharmaceuticals, we continue to advance our pipeline and delivered operational sales growth of eight point six percent excluding the COVID-nineteen vaccine in the second quarter, notably above what we delivered in the first quarter of this year. We continue to outpace the market. During the second quarter, we recorded our first sales in the U.",
+    "start": 1344.765,
+    "end": 1394.225
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "S. Of CarVicti, a CAR T therapy for the treatment of multiple myeloma developed together with Legend Biotech and received the European Commission approval in May. We also presented new data across our broad oncology portfolio at the American Society of Clinical Oncology and the European Hematology Association in June. If you haven't done so already, I encourage you to listen to the fireside chat with Peter Levoits, our global R and D head of oncology, about this promising new data, which can be found on our website. A quick update on our COVID-nineteen vaccine for which we suspended sales guidance last quarter.",
+    "start": 1394.225,
+    "end": 1436.87
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Recognizing the global progress on vaccine development and distribution against COVID-nineteen and the amount of existing global supply, we are modifying our COVID-nineteen vaccine research programs and manufacturing capacity to levels that meet all customer contractual commitments. This will result in incremental costs for the year, which will be reflected as a special item. We are proud of the role our vaccine continues to play in the fight against COVID-nineteen. In our consumer health business, similar to med tech, Q2 of twenty twenty one was last year's strongest quarter with ten percent adjusted operational sales growth. We remain focused on our twenty twenty two performance objectives of delivering above market growth in our over the counter medicines business, while overcoming industry wide supply constraints and inflationary pressures that are primarily impacting our skin health business.",
+    "start": 1437.43,
+    "end": 1493.8
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "We continue to be excited about the creation of the new consumer health company. Great work is being done by our teams to affect this complex transaction. We look forward to sharing the new consumer health company's name and branding, as well as the headquarters location in the months ahead. Similarly, we look forward to sharing transaction options and further financial details adhering to regulatory policies later in twenty twenty two. Finally, I would like to offer my congratulations to Thibault, Paul and the rest of the leadership team regarding their recent appointments.",
+    "start": 1494.52,
+    "end": 1528.9049
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Turning now to cash and capital allocation. We generated free cash flow of approximately eight billion dollars in the first half of the year. As of the end of the second quarter, we have approximately thirty two point six billion dollars of cash and marketable securities and approximately thirty two point six billion dollars of debt for a net neutral cash position. Our capital allocation priorities remain unchanged. Investing in innovation that delivers meaningful products to address unmet needs continues to be our top priority.",
+    "start": 1529.7849,
+    "end": 1562.695
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "In the first half of the year, we increased R and D investment by approximately nine percent compared to the first half of twenty twenty one. The dividend priority Joaquin referenced translated to us distributing six billion dollars to shareholders so far this year. We also continue to vigorously evaluate acquisition opportunities that would enhance the current portfolio, build upon our capabilities and enable us to play in higher growth markets while yielding solid financial returns. Moving to full year twenty twenty two guidance and key considerations, the major takeaway is we are maintaining the midpoints of our guidance for adjusted operational sales growth of seven percent at ninety seven point eight billion dollars and adjusted operational earnings per share of ten point seven zero dollars or nine point two percent growth for the full year. Given our confidence in delivering full year guidance, based on what we know today, we are tightening the adjusted earnings per share range from ten point six five dollars to ten point seven five dollars on a constant currency basis.",
+    "start": 1563.83,
+    "end": 1629.0399
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Regarding the remainder of the P and L, there are a few updates. Due to the prolonged impact of inflationary pressures, we are updating our operating margins to be flat versus twenty twenty one. Regarding interest expense, based on our year to date experience, we have reduced the expense to a neutral position. Again, given year to date trends, we are increasing and tightening our other income estimate to be a range of one point four billion dollars to one point five billion dollars to reflect the favorable impact of employee benefit related items. That may appear light given the current run rate, but we have some onetime items such as real estate sales and Johnson and Johnson Development Corp.",
+    "start": 1630.08,
+    "end": 1674.0951
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Gains, which we don't expect to repeat in the second half of this year. Finally, we are lowering our effective tax rate estimate, which is reflective of current law, to a range of fifteen point zero percent to fifteen point five percent based on our year to date progression. As we always do, let me give you a sense of the impact currency may have on potential full year reported results, specifically the strengthening U. S. Dollar.",
+    "start": 1674.0951,
+    "end": 1700.195
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Utilizing the euro spot rate relative to the U. S. Dollar as of last week at one point zero, there is an incremental unfavorable currency impact of one point five billion dollars on reported sales and an unfavorable zero two zero dollars impact for the estimated reported adjusted earnings per share versus the projection utilized in April's guidance. The full year unfavorable impact is now projected to be four billion dollars on reported sales and zero six five dollars on reported adjusted earnings per share. As this chart illustrates, it's not just that the Euro and U.",
+    "start": 1701.01,
+    "end": 1738.26
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "S. Dollar have reached parity, something we haven't seen in nearly two decades. It's also the rapid pace at which the fluctuations are occurring, a dynamic only experienced a few times over that same period. In addition, while it's much too early to comment on twenty twenty three, we do think it is helpful to point out what the currency impact may be if current assumptions for our estimate holds. Of the current zero six five dollars unfavorable impact I just referenced, about zero three zero dollars to zero three five dollars will carry over into twenty twenty three's EPS.",
+    "start": 1738.26,
+    "end": 1770.17
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Certainly, there's a long way to go before we finalize next year's outlook, but wanted to give you a sense of how to think about the foreign currency impact. Back to the current year, in terms of twenty twenty two quarterly phasing considerations for your models, we continue to estimate that the back half will improve over the first half with a slight bias for higher growth in Q4 over Q3. In Consumer Health, we have seen quarter over quarter reduction in supply disruptions that we anticipate will continue. We also expect to see the benefit of recent strategic price increases in the back half of the year. Finally, the fourth quarter of twenty twenty one had lower growth than the third quarter, resulting in an easier comparison.",
+    "start": 1771.135,
+    "end": 1818.52
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "For MedTech, we expect the second half to be stronger than the first half, driven by market recovery from continued enhancement of our competitive position through commercial execution and uptake from our recently launched products. We expect the fourth quarter twenty twenty two to be slightly stronger than the third quarter. COVID-nineteen continues to be a dynamic situation regionally and we continue to monitor any related impacts. For pharmaceuticals, we anticipate delivering another year of above market adjusted operational sales growth in our base business, with sales modestly accelerating through the end of the year. To close out the prepared remarks, Johnson and Johnson has continued to post solid results as our teams navigate a challenging external environment.",
+    "start": 1819.4,
+    "end": 1865.845
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Our financial performance reinforces our confidence in our ability to grow and deliver near and long term value. That is only possible because of our employees around the world who we'd like to thank for remaining focused on delivering our innovative healthcare solutions and results for all of our CRADO stakeholders. Joaquin, Jess and I will now turn the discussion to the Q and A portion of the call.",
+    "start": 1866.165,
+    "end": 1888.7
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Kevin, can",
+    "start": 1888.995,
+    "end": 1889.715
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "you please provide instructions for those participants on the call wishing to ask a question?",
+    "start": 1889.715,
+    "end": 1894.0349
+  }
+]

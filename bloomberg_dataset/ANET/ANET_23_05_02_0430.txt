@@ -1,0 +1,511 @@
+Q1 2023 Earnings Call
+Company Participants
+Anshul Sadana, Chief Operating Officer
+Ita Brennan
+Ita Brennan
+5/2015-2/2024 | Arista Networks Inc, SENIOR VP/CFO
+2/2014-5/2015 | Quantumscape Corp, CHIEF FINANCIAL OFFICER
+7/2010-2/2014 | Infinera Corp, CHIEF FINANCIAL OFFICER
+, Chief Financial Officer
+Jayshree Ullal
+Jayshree Ullal
+7/2025-PRESENT | Arista Networks Inc, CHAIRMAN/CEO
+12/2023-7/2025 | Arista Networks Inc, CHAIRMAN/PRES/CEO
+10/2008-12/2023 | Arista Networks Inc, PRESIDENT/CEO
+, President and Chief Executive Officer
+Liz Stine, Investor Relations
+Other Participants
+Aaron Rakers, Analyst, Wells Fargo
+Alex Henderson, Analyst, Needham
+Amit Daryanani, Analyst, Evercore
+Antoine Chkaiban, Analyst, New Street Research
+Ben Bollin, Analyst, Cleveland Research Company
+David Vogt, Analyst, UBS
+Erik Suppiger, Analyst, JMP Securities
+George Notter, Analyst, Jefferies
+Ittai Kidron, Analyst, Oppenheimer & Co.
+James Fish, Analyst, Piper Sandler
+Matt Niknam, Analyst, Deutsche Bank
+Meta Marshall, Analyst, Morgan Stanley
+Michael Genovese, Analyst, Rosenblatt
+Michael Ng, Analyst, Goldman Sachs
+Sami Badri, Analyst, Credit Suisse
+Samik Chatterjee, Analyst, JP Morgan
+Sebastien Naji, Analyst, William Blair
+Simon Leopold, Analyst, Raymond James
+Tal Liani, Analyst, Bank of America
+Tim Long, Analyst, Barclays
+Unidentified Participant
+Presentation
+Operator
+Welcome to the First Quarter 2023 Arista Networks' Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question and answer session. Instructions will be provided at that time. (Operator Instructions) As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call.
+
+Ms. Liz Stine, Arista's Director of Investor Relations, you may begin.
+
+Liz Stine{BIO 22543302 <GO>}
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks' President and Chief Executive Officer and Ita Brennan, Arista's Chief Financial Officer. This afternoon, Arista Networks issued a press release announcing the results for its Fiscal First Quarter ending March 31, 2023. If you would like a copy of the release, you can access it online at our website.
+
+During the course of this conference call, Arista Networks management will make forward-looking statements. Including those relating to our financial outlook for the second quarter of the 2023 fiscal year, longer term financial outlook for 2023 and beyond, our total addressable market and strategy for addressing these market opportunity, including AI, customer demand trend, supply chain constraints, component costs, manufacturing output, inventory management and inflationary pressures on our business, lead times, product innovation, working capital optimization and the benefits of acquisitions, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC, specifically in our most recent Form 10-Q and Form 10-K and which could cause actual results to differ materially from those anticipated by these statements.
+
+These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call. Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release. With that, I will turn the call over to Jayshree.
+
+Jayshree Ullal{BIO 1737637 <GO>}
+Thank you, Liz, and happy Monday everyone and a happy month of May. We delivered revenues of $1.35 billion for the quarter with a non-GAAP earnings per share of $1.43. Services and software support renewals contributed approximately 13.5% of the revenue. Our non-GAAP gross margins of 60.3% was influenced by supply-chain overheads and Cloud Titan concentration. We expect our gross margins to improve every quarter throughout this year. International contribution registered at 17.5% with the Americas strong at 82.5% for the quarter.
+
+While we will shift to reporting our vertical segments on an annual basis, I would like to share some overall trends you're seeing. We do expect Cloud Titans will moderate compared to our 2022 triple digit growth while enterprise is likely to be more steady state. It is evident that our lead times are improving. Our visibility to customer forecast therefore are now beyond six months or now below six months, I should say, and they're shrinking.
+
+Despite macro uncertainty, we endorse consensus of 26% annual growth to approximately $5.5 billion revenue in 2023. On the product side, we made many exciting Q1 announcements. At OFC 2023, we introduced our vision for Linear Drive Optics for intra and inter datacenter connectivity at 800 gig and beyond. This was a highlight for both Arista and the optical industry at large, delivering the promise of low power and improved price performance for demanding AI workloads. Speaking of AI, the mandate to avoid idle states in expensive and large AI processor clusters requires that specialized AI network. Key characteristics include wire rate and lossless delivery of large and synchronized burst of data at 400 to 800 gig speeds. Today, the combination of RDMA mix, RDMA stands for Remote Direct Memory Access and ROCE which is RDMA over converged Ethernet, along with the switches allows Ethernet to become that predictable transport network. Ethernet of course bring familiarity, great economics, massive installed base standards with industry wide interoperability and many merchant silicon options. This is supporting compute and data intensive workloads based on generative AI Inference and large language model training application.
+
+Arista's cloud customers are resonating with our AI and switching strategy for platforms. Presently, we are in the midst of trials, leading to production deployments this year in 2023. We expect AI networking to become meaningful throughout the year and through the decade ahead. In Q1 2023, Arista also formalized our new entry into the Wide Area Network with our WAN routing system. Our enterprise-class routing platform is based on carrier and cloud neutral transit with CloudVision Pathfinder Service. Not surprisingly, we support Arista's EOS operating system stack delivering that operational model for network as a service and wide area as a service.
+
+We are targeting mission-critical enterprises where high mark [ph] volume and encrypted traffic matter in a modern WAN. Arista has partnered with Equinix to develop and deploy the WAN routing system and WAN routing will be included as part of our network adjacency category.
+
+In the non-cloud category, we have registered a solid number of million dollar customers, which is a direct result of our momentum in the enterprise and campus throughout the past year. Let me illustrate with a few customer wins. The first use case is an international government win. The customer's objective was to detect illegal activities such as money laundering, terrorism, scams and other criminal behavior in real-time by collecting and analyzing data. Arista's data-driven AI clusters optimize this network assurance for mission-critical AI and ML workloads. Using advanced features like micro burst and fan-in congestion management, ultra-deep packet buffer memory with latency analyzer provides real time telemetry, visibility, automation and dynamic controls for their AI and ML datacenters, all based on open-standards Ethernet.
+
+Our second win continues on the international scene and highlights our ever-growing strength in the education vertical, where Arista's proposals for edge campus platforms ranging from power over Ethernet switches, wireless access points and automation was a decision factor. We leveraged CloudVision CUE cognitive unified edge coupled with Arista validated design as an automation framework across multiple distributed location bringing unmatched flow visibility.
+
+The next win is in the US financial sector. This customer had grown organically and inorganically through acquisitions and is looking to modernize their entire infrastructure, moving their data closer to the cloud to enable a hybrid cloud architecture. This design included multiple greenfield datacenters hosted in Equinix requiring active-active 400 gigabit Ethernet spine securely encrypted datacenter interconnect and Internet connectivity at each site. For a smooth upgrade in their campus environment without disruption to their end-users, Arista's SSU or Smart Systems Upgrade feature played a prominent role.
+
+We also help them build a digital twin of their environment modeling their designs for automation. The next customer highlights healthcare as a critical win for network monitoring and security analysis tools at their remote datacenter facility. This holistic view of port mirroring session for traffic analysis from all their remote datacenter was a superior approach. Arista's centralized DMF DANZ Monitoring Fabric was better than disparate and expensive tools at each remote location. Our final customer win was looking for real-time in-house video streaming and editing capabilities. Video would be stored on their storage array, which we -- which could be connected at 100 gigabit Ethernet and then accessed and rendered by the clients, be they PCs or Macs with 25 gigabit Ethernet. Arista's core strength in the media vertical comes from its deep buffer virtual output queuing architecture with our R3 platforms. The simplicity, scalability and flexibility aligns this -- shows this elegant design and highlights our strength in the media and entertainment vertical. So as you can see, this is a recurring theme in all our customer wins, where Arista is deploying innovative solution based on a consistent architecture allowing each and every customer to modernize their network with the power of our platform.
+
+And with that, I'd like to hand to Ita, our CFO for financial metrics.
+
+Ita Brennan{BIO 16651666 <GO>}
+Thanks, Jayshree and good afternoon. The analysis of our Q1 results and our guidance for Q2 '23 is based on non-GAAP excludes all non-cash, stock-based compensation impacts, certain acquisition related charges and other non-recurring items. A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release.
+
+Total revenue in Q1 $1.351 billion, up 54% year-over-year and well-above the upper-end of our guidance $1.275 billion to $1.325 billion. We continue to experience improvements in component supply in the quarter, supporting our consistent levels of manufacturing output and some improvement in lead time. Services and subscription software contributed approximately 13.5% of revenues in the first-quarter, down from 15.8% in Q4. This largely reflects an accelerated growth in product revenues while services and software, continue to grow on a more consistent basis.
+
+International revenues for the quarter came in at $236 million or 17.5% of total revenue dDown from 23.5% last quarter. This quarter-over quarter reduction largely reflected an unusually high contribution from our EMEA and region customers in the fourth quarter. Overall, we continue to see outsized growth in the US, largely due to ongoing domestic strength from our cloud titan customers.
+
+Overall gross margin in Q1 was 60.3%, in-line with our guidance of approximately 60%. We continue to recognize incremental supply-chain costs in the period, combined with a healthy cloud mix. Operating expenses for the quarter were $257.5 million or 19.1% of revenue, up from last quarter at $235.3 million. R&D spending came in at $164.8 million or 12.2% of revenue, up from a $153.2 million last quarter. This primarily reflects increased headcount and new product introduction costs in the period. Sales and marketing expense was $75.9 million or 5.6% of revenue compared to $67.4 million last quarter with increased headcount costs and higher variable compensation expenses. Our G&A costs came in at $16.8 million or 1.2% of revenue consistent with last quarter. Our operating income for the quarter was $556.8 million or 41.2% of revenue. Other income and expense in the quarter was a favorable $17.7 million and our effective tax-rate was 21.2%. This resulted in net income for the quarter of $452.5 million or 33.5% of revenue. Our diluted share number was 315.6 million shares resulting in a diluted earnings per share number for the quarter of $1.43, up 70% from the prior year.
+
+Now turning to the balance sheet, cash, cash equivalents and investments ended the quarter at approximately $3.33 billion. In the quarter, we repurchased $82.3 million of our common stock at an average price of $111.9 per share. We have now repurchased $825.5 million or 7.8 million shares at an average price of $106 per share under our current billion dollar Board authorization. This leaves a $174.5 million available to repurchase in future quarters. The actual timing and amount of future repurchases will be dependent on market and business condition, stock price, and other factors.
+
+Now turning to operating cash-flow in the first-quarter, which generated approximately $275 million of cash from operations in the period reflecting strong earnings performance partially offset by ongoing investments in working capital. DSOs came in at 57 days, down from 67 days in Q4, reflecting a strong collections quarter with good linearity of billings. Inventory turns were 1.3 times, down from 1.6 times last quarter. Inventory increased to 1.7 billion in the quarter, up from 1.3 billion in the prior-period, reflecting the receipt of components from our purchase commitment and a slight increase in Switch related finished goods.
+
+Our purchase commitments at the end-of-the quarter were $2.9 billion, down from $3.7 billion at the end of Q4. We expect this number to continue to decline in future quarters as component lead times improve and we work to optimize our supply position. Our total deferred revenue balance was $1.092 billion up from $1.04 billion in Q4. The majority of the deferred revenue balance is services related and directly linked to the timing and term of service contracts, which can vary on a quarter-by-quarter basis. Our product deferred revenue balance was flat to last quarter.
+
+Accounts payable days is 55 days, up from 43 days in Q4, reflecting the timing of inventory receipts and payments. Capital expenditures in the quarter were $5.6 million.
+
+Now turning to our outlook for the second-quarter and beyond. As we move through 2023, we expect to resolve the final kinks in the supply-chain, allowing for more consistent manufacturing output and improving lead times to our customers. We do however expect this reduced lead times to also result in reduced visibility, customers no longer needing to make purchase decisions so far are in advance of deployment. In addition, we expect some moderation in customer spending, especially with our cloud titan customers following a year of accelerated demand in 2022.
+
+All that being said, we believe customer engagement and current deployments across the business, support the current consensus revenue growth rate in 2023 of approximately 26%. In terms of quarterly trends, you should expect moderating Year-over-Year growth as the year progresses with more difficult prior year comps. On the gross margin front, beginning in Q2, we expect to see some steady improvement as we consume fewer broker parts and have the opportunity to optimize manufacturing output, while maintaining a healthy contribution from our cloud customers.
+
+Now turning to spending and investing. We continue to monitor the overall macro environment carefully while prioritize our investments as we move through the year. This would include a focus on targeted hires in [ph] R&D and go-to-market as the team sees the opportunity to acquire talents. On the cash front, while we will continue to focus on supply-chain and working capital optimization, you should expect some continued growth in inventory on a quarter-by-quarter basis as we receive components from our purchase commitment. With all of this in the backdrop, our guidance for the second-quarter based on non-GAAP results and excludes any non-cash stock-based compensation impact and other non-recurring items is as follows.
+
+Revenues of approximately $1.35 billion to $1.4 billion, gross margin of approximately 61%, operating margin at approximately 40%. Our effective tax-rate is expected to be approximately 21.5%, with diluted shares of approximately 317 million shares. I will now turn the call-back to Liz. Liz?
+
+Liz Stine{BIO 22543302 <GO>}
+Thank you, Ita. We will now move to the Q&A portion of the Arista earnings call. To allow for greater participation, I'd like to request that everyone please limit themselves to a single question. Thank you for your understanding. Operator, take it away.
+
+Questions And Answers
+Operator
+We will now begin the Q&A portion of the Arista earnings call. (Operator Instructions) Your first question comes from the line of Aaron Rakers with Wells Fargo. Your line is now open.
+
+Q - Aaron Rakers{BIO 6649630 <GO>}
+Yeah, thanks for taking the question. I'm just curious, kind of the commentary around the hyperscale cloud as component lead times shrink, how would you characterize, if at all the visibility in that vertical, and specifically, how maybe that's evolved or changed relative to, let's say, the commentary or the thoughts a quarter ago. Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, hi Aaron, I'll kick it off and maybe Anshul can help me. As you know, historic visibility with the cloud titan if you [ph] -- if you take-out, if you subtract the last two years, which were largely supply-chain related was typically two quarters, right. And for a period of time last year and the year before, we were starting to get four quarters of visibility. As our lead times are improving, our visibility is also shrinking especially with that segment because they can make decisions closer to our lead times, so I would say, our visibility has reduced from last year to this year-by two quarters and is roughly six months.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you, Aaron. You can go-ahead and take the next question.
+
+Operator
+Your next question comes from the line of Antoine Chkaiban with New Street Research. Your line is open.
+
+Q - Antoine Chkaiban{BIO 21142044 <GO>}
+Hi, thank you very much for taking my question. So at the CMD, I think you provided an AI intensive Network TAM of Q3 [ph] billions in the next few years and during last earnings, Broadcom said that their Ethernet switch chips deployed in AI was well over 200 million in '22 and the forecast that this could grow to well over 800 million in '23. So I imagine that that would correspond to $4 billion, $5 billion [ph] in revenues. This is therefore already well-above the time that you estimated it. Am I missing anything or did the TAM expand considerably more than you were anticipating at the CMD?
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+Sure, Antoine [ph], hi this is Anshul. As you know, there is a lot of talk about AI and it's a very exciting topic in many ways. First, you have to separate out numbers that Broadcom has given you versus where our customers will deploy system, right, so there's an offset of when they ship chips versus when they can ship systems and often by quarter, sometimes it could be as long as a year right, given the lead times and so on, that are going on in the market.
+
+Second, I think AI is still in its infancy. I don't think we know really how big it will be. It's clearly on a very good trajectory, it will keep on growing and it is a great opportunity for us for sure. And we're doing very well with some of our top customers as Jayashree has talked about in the primary script as well.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, and just to add to what Anshul said, our forecast of $2 billion to $3 billion was more in the 2025 arena. Market analysts are already showing larger numbers than that 2025 to 2027 arena. I think market analysts are already projecting it's double that. And certainly Broadcom is enthusiastically looking at their chip deployment. But again, as I -- Anshul alluded, by the time Broadcom has a chip, the chip gets built into a system by us and then the system gets deployed by our cloud customers. It can be one to two years.
+
+Q - Antoine Chkaiban{BIO 21142044 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Samik Chatterjee with JP Morgan. Your line is open.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Yeah, hi, thanks for taking my question. If you don't mind, can we just dive in -- dig a bit deeper into the inventory number. I think, getting a few questions on that. Obviously, a material step-up in the inventory in the quarter, particularly the -- as you mentioned, lead times for your products are now six months, do we sort of conclude that your lead times will take a step-function down if you have this much inventory at this point and if lead -- if your visibility into demand is starting to come in a bit, why sort of maybe help me think about why the inventory continues to sort of move-up higher from here rather than sort of start to come down in-line with your visibility into demand. Thank you.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Samik, this is Ita. When you think about the purchase commitments that we have and that we made some time ago. Right. We're going to have to continue to work-through those as we go through the rest of this year, particularly on some key components, there were long lead times, we have to place [ph] commitment for kind of this year well, earlier last year in order to secure those -- that supply. So those components will continue to commence [ph] inventory and obviously will go out of inventory as well as we build product et cetera. So we have a healthy deployments pipeline in front of both on the system side, but we are still going to gather components based on when those purchase commitments were made and the timing of those purchase commitments.
+
+So if you look at the total of inventory plus purchase commitments, it came down in excess of 400 million this quarter and we'll continue to kind of work that down over-time. But you will see the shift from purchase commitments into inventory parts and then obviously we'll sell that inventory.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+And Samik, just to add to -- we're not managing the business as just-in-time inventory. As Ita said, we have 72 week lead times still on many of our components even -- even with the supply chain improvements. So we have to plan ahead, and if we want to get products to our customers in 6 to 12 months, a similar position on the inventory and especially do so on common components where we feel confident that there is demand, and we will continue to fulfill that demand this year and next year.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Thank you. Thanks for taking my question.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Thanks Samik.
+
+Operator
+Your next question comes from the line of David Vogt with UBS. Your line is open.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Great, thank you guys for taking my question. I just want to follow-up, basically on the question on AI inventories and sort of revenue growth expectations for the second-half. So if I'm hearing you correctly, it sounds like you think given tough comps and sort of spending patterns from the Titan Group is going to come down, bring revenue growth down to about 15% in the second-half on a year-over-year basis, and yet, no, as you just mentioned inventories still need to come down.
+
+So how do we square that with sort of the optimism in the marketplace that looks like -- you took your TAM up from about $40 billion to about $50 billion for datacenter and campus in the deck. I'm just trying to square the deceleration that you're talking about versus sort of the expanded TAM that you're also kind of highlighting in the deck. Thanks.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Hey David. I think, first of all the TAM we took up was for 2027, not Q3, Q4, 2023 just to be clear. And I think, we continue to feel very optimistic about our long-term demand in enterprise cloud and AI. So we shouldn't confuse the comps and difficultly of comparing Q3 2022 with Q3 2023 with our long-term demand and TAM both our valid statements. So -- but as you know, the cloud is a volatile market and the Titans will spend a lot one year and then spend a little less the other year as they're digesting it and deploying it, so if you look across multiple years, we're going to have a strong demand and do well.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+And David, this is very consistent what we talked about last quarter, right. I mean we're [ph] -- because of the comps and the pattern of the comps, we're going to grow quarter-by-quarter growing each quarter consecutively, but you will see that deceleration, just because of how last year kind of revenue trended as well, right, so I don't have [ph] anything new here. In fact we probably took up the overall number a little bit to get to the 26%.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Right, we said 25% in November and now, we are saying 26%.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Right. Thank you. Thanks guys.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Meta Marshall with Morgan Stanley. Your line is open.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great, thanks. Maybe just zeroing in kind of on the Cloud Titans vertical, you mentioned kind of reduced visibility, but just wanted to clarify, had you seen any changes in orders or any push-outs, kind of within the quarter of orders or -- and within kind of your near-term guidance of orders that you thought were going to take place, that are maybe getting pushed out. Thanks.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, Meta, I'll let Anshul answer the question, but I would say, it's sort of a given and take. Some things are getting pushed out and some are getting pulled in. The silver lining is clearly AI and that's not getting pushed out. But some of the deployments of cloud regions are getting pushed out. Anshul, you want to add to that?
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+Meta [ph] if I can add some more color to key areas that we've been tracking. I know, we only want to talk about AI. If you [ph] remember this -- this DCI market and backbone, which is what started the 400 gig cycle in the first place. Those deployments are progressing as expected as well. So that part is steady-state and obviously AI is growing compared to what been here before.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great, thank you.
+
+Operator
+Your next question comes from the line of Sebastien Naji with William Blair. Your line is now open.
+
+Q - Sebastien Naji{BIO 20272118 <GO>}
+Hi thanks for taking the question. Just given this discussion around generative AI, maybe can you frame for us the advantages of Ethernet for building out these AI network fabrics and any metrics you might have that highlight these advantages versus something like InfiniBand?
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Sure. I think, I've said this before, but I think the -- the number-one advantage of Ethernet is the fact that you're building a standard space multi-vendor highly interoperable network, where everything from trouble [ph] troubleshooting to familiarity when you're connecting to the GPU clusters is very well-known. So from a best-of-breed horizontal approach, Ethernet can win every time and Ethernot [ph] technology has generally struggled. Having said that, the vertical approach that InfiniBand adopted for high-performance computing can be applied to GPU clusters as well. So I think, it all depends on the customer's clusters and how large they are and the larger they become, the more it favors Ethernet.
+
+Q - Sebastien Naji{BIO 20272118 <GO>}
+Great, thank you.
+
+Operator
+Your next question comes from the line of Tal Liani with Bank of America. Your line is now open.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Hi, guys. Thanks very much. I want to ask about non-cloud titans. The other part. Last year, it grew about 14.5% and it was supposed to grow by your guidance kind of -- supposed to grow much faster this year. What happened this quarter? And again, you don't provide exact numbers even qualitatively, what happens this quarter with non-cloud titans, how is demand shaping up? When it comes to orders, I'm trying to neutralize the supply chain issue. Thanks.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, now, good question. Enterprise demand is pretty strong and steady. In fact, I would go as far say the customer activity has been just as strong as last year and some of these macro things we hear about, we -- we are experiencing less of it perhaps because we are a small fish in a big ocean. Right. So that said, obviously, our revenue has a high component of subtitling [ph] concentration in Q1. So the demand doesn't translate into direct revenue contribution in a specific quarter, but, I think, you will see a number far greater than the 15% through the year.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Got it.
+
+Operator
+Your next question comes from the line of Michael Ng with Goldman Sachs. Your line is open.
+
+Q - Michael Ng{BIO 18285376 <GO>}
+Hey, good afternoon. Thank you for the question. It was encouraging to hear about the endorsement of consensus of 26% year-over-year growth, I was just wondering, if you could talk about what you're assuming as it relates to AI production deployments because you did talk about that trial that was underway. And any other areas of optionality that you would call out, perhaps the DIY to branded switches within web scale Cloud Titans, any updates there would be helpful. Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Sure, Michael. As we said, the 7800 is Arista's flagship AI platform. And we have spent the better part of last year, maybe even the year before, Anshul and you can correct me, doing a tremendous amount of simulation on how we work with GPU clusters and different types of network interface cards. The performance, the lossless, dealing with bursty [ph] traffic, the latency, the transaction. And we believe that this will be a critical year and seeing those trials come into production.
+
+So we do expect AI to be meaningful this year as opposed to not material in the last couple of years and we believe the 7800 will be the flagship product for that.
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+And if I can just answer your other indirect question, your question was, (inaudible) boxes.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+We should blue box [ph].
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+The -- we've said this before. I think we are maintaining status quo. We are doing very well with our customers, we're not afraid. And we don't believe the market is shifting back to white boxes at all. In fact, the co-development efforts are even more intense than before, but I think, largely speaking, we've achieved status quo, I think that's where the market stays for now.
+
+Q - Michael Ng{BIO 18285376 <GO>}
+Thanks, Jayshree, thanks Anshul.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Thank you.
+
+Operator
+Your question. Your next question comes from the line of Alex Henderson with Needham. Your line is now open.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+Great, thanks. I've got a question. I want to split it into two pieces. The first one is as you're looking at market-share in the AI arena, does the networking piece gain share within the AI wallet budgets. And then second, I know that you've had a very significant share advantage in high-speed, you've gained significant share from your competitors for every year that I can remember. And I guess the question is will AI drive an acceleration in your share given your dominant experience so-far in delivering it. So share within the -- the CapEx wallet and then share within the AI market. (Multiple Speakers) questions.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Alex, let me go back to your high-speed acceleration question, first, and then we'll talk about the market-share in AI because we're still trying to grappling with what is the market for AI right now. In terms of high-speed, I think we've now got some killer use cases for 400 and 800 gig with AI, so you will see our strength is going from strength-to-strength with 100, 200 in some cases and now 400 and 800 with AI being that killer application driving our high-speed acceleration. We feel more confident of it now, otherwise, you could argue, what is the use-case for 400 and 800 gig. So that makes us very positive.
+
+Specific to AI wallet share, quite honestly, the greatest component of AI today is the processors, that is 80%, maybe 90% of the spend and applications, obviously that go with that. So if they're vertically-integrated, we may not see as much of it, but if customers choose the horizontal best of breed, we will absolutely get our share of wallet there.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+Great, thank you so much.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Thank you, Alex.
+
+Operator
+Your next question comes from the line of Amit Daryanani with Evercore. Your line is now open.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Good afternoon, thanks for taking my question. I guess, I just want to go back to this reduced visibility that you're seeing with -- with Cloud Titans. Maybe is it your sense that you just have extra long visibility at four quarters, you're not [ph] going back -- going back to two quarters, which is normal or do you think that the risk that it actually ends up in outright pause at some point given these companies did have a really big spending cycle with you in the last four, five quarters already. I'm just wondering, like is this a return to normalcy or you think there's risk that we end-up in a pause with one or both of them the way we did in 2019? Thanks.
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+Hi Amit, this is Anshul, our customers have been waiting for two and half years for this moment, so that they can return back to normalcy. Supply-chain is recovering. These customers follow component beta spreads [ph] obviously as well. To a great extent, we are coming back to where we used to be per COVID levels, nothing different, nothing more than that.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Operator [ph] next question please.
+
+Operator
+Your next question comes from the line of Fahad Najam as an independent Analyst. Your line is open.
+
+Q - Unidentified Participant
+Hey, thank you for taking my question. Jayshree, I wanted to or Anshul, I wanted to ask you a question on Broadcom's recent introduction of their Jericho3-AI chip. And it kind of reminds me of the time when they first introduced their Jericho2 and Jericho2C and you were the earliest adopters of that technology and that led to your significant gains in the Leaf-Spine architecture, so is the -- is Jericho3 a similar upgrade cycle and should we think about the same advantages you guys are enjoying in this forthcoming cycle as you did in the previous cycle? Anything you can tell us in terms of the comparison.
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+Fahad, a good way to look at this market and the introduction of J3, J3 AI, you know 400 gig is not going to end quickly and suddenly get replaced with Jericho3. 400 gig will go on for some time. Customers will take time to make changes and -- but especially when they don't need more bandwidth just yet. At the same time, you will see (inaudible) 800 gig technology and that the complementary chip that was also announced which is Tomahawk 5. So between Tomahawk 5 and Jericho 3 AI, the AI team's (inaudible) as quickly as the market can get them out there. And you may have read some white papers that were also published, along with the announcement that showed that Jericho 3 AI scales to very large clusters, right, they can scale to 4,000 GPUs quickly at 800 gig and the cluster performs at 10% better throughput than InfiniBand.
+
+So that is why there is such need for this technology out there and everyone access to get it, but just remember, the chips have just been announced. It takes time to get the chips, build systems, look at your customers, go for [ph] the trials and then go to high-volume production.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+It's a very exciting multiyear journey and we really value our partnership with Broadcom, but what you're seeing here is 100 gig for mainstream enterprises, 400 gig for the cloud and 800 gig and beyond for AI use cases.
+
+Q - Unidentified Participant
+Appreciate the answer. Thank you.
+
+Operator
+Your next question comes from the line of Matt Niknam with Deutsche Bank. Your line is open.
+
+Q - Matt Niknam{BIO 21568441 <GO>}
+Hey, thanks for taking the question. Just to go back to the macro discussion. I'm just wondering, were there any regions, customer verticals where you maybe saw some greater than usual slowness or lengthening sales cycles, particularly later in the quarter? Thanks.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, Matt, I'd say that usually we see very strong activity in the month of March. But in Q1, we did see some seasonality in certain regions, especially internationally. And I don't know how to -- one quarter doesn't a trend make, but we're definitely watching this.
+
+Q - Matt Niknam{BIO 21568441 <GO>}
+Okay, and has that changed at all-in early April?
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Too early to say, no, you mean, has it changed in a -- in a sense, it's improved in April? Is that your question?
+
+Q - Matt Niknam{BIO 21568441 <GO>}
+That's right. Yeah.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+April is good so-far.
+
+Q - Matt Niknam{BIO 21568441 <GO>}
+Okay, thank you.
+
+Operator
+Your next question comes from the line of Michael Genovese with Rosenblatt. Your line is now open.
+
+Q - Michael Genovese{BIO 15740093 <GO>}
+Thanks for taking the question. Just one question from me. But -- so basically when, it's about timing on AI and when do we think switching will inflect and I guess maybe the actual question is what's your outlook on 2024 cloud spending. I mean, we've talked a lot about the next six months, but and what about 2024, or how do you -- how are you thinking about that right now? Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+(Multiple Speakers) Can we tell you six months before '24 spending because we don't know, we don't have the visibility.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Little early for that yet, Mike.
+
+Q - Michael Genovese{BIO 15740093 <GO>}
+But what about on the timing on switches. I mean, as you go through all of this GPUs or processing units now, training all these things, when -- when do you think the timing for switching deployments will inflect positively?
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+You're asking specifically AI or Cloud Titans spending because they are two different (Multiple Speakers)
+
+Q - Michael Genovese{BIO 15740093 <GO>}
+Well, specific. I mean, AI is clearly happening now. But -- but 80% to 90% of the spending is in [ph] stuff that you don't do. When do you think that there'll be a significant uptick in that percentage of switching deployments in AI cluster datacenters?
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Well, as I said, I think last year was the year of trials. This year, we will see some production and it will certainly accelerate in '24 and '25, specific to AI. But again, that's a small spend relative to our larger cloud spend where we'd like to see more visibility on how the cloud regions are getting built-out et cetera.
+
+Q - Michael Genovese{BIO 15740093 <GO>}
+That's clear [ph]. Thanks for clarifying that distinction. Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of James Fish with Piper Sandler. Your line is open.
+
+Q - James Fish{BIO 18284975 <GO>}
+Hey, ladies, nice quarter and Anshul, as well, of course. Purchase commitment. I wanted to circle back there as well. It's moving down as you guys anticipated, but obviously, you guys are much larger business than you were pre pandemic, so I guess, how are you guys thinking about the level of normalcy of purchase commitment as we kind of work-through this. And obviously, you talked about that we'll see sequential impact to cash-flow still on the inventory as we kind of convert that purchase commitment to inventory. Is that something that should reverse that in early 2024? And how should we kind of think about free-cash flow conversions, for this year now [ph].
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, look, I think if I had my way, the purchase commitment number will come down significantly over the next, I don't know, 12 to 18 months, right because we don't need it once we start to see some of component's lead time to come in. So we need to -- we obviously need to manage that, some have long-lead times, that we do want to receive and you will see that grow in inventory, some will look to reposition, if we can. But obviously, there is a keen focus on kind of managing that number now. But the net of it is, I think you grow inventories through -- through the year, it will consume some cash and then it will flip in 2024, where we will actually start to kind of generate more cash as we start to bring that inventory number down.
+
+Do we ever go back to where we were before? I think, probably not. I mean, we probably will carry a little bit more inventory and more buffers haven't just gone through what we went through the last couple of years, but it should certainty -- come down from where it's today.
+
+Q - James Fish{BIO 18284975 <GO>}
+And any thoughts on the free-cash flow conversion for the year?
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah. I think for this year inventory is the consumer of cash, so it's probably, it's hard to know exactly what that look like, but I think every quarter will increment that inventory balance as we go through the year that will consume some cash, but I mean the P&L is highly cash positive with the guidance that we put out, so I think, we'll still be generating a healthy amount of cash but we will build inventory balance.
+
+Q - James Fish{BIO 18284975 <GO>}
+Yeah, understood. Thank you, Ita.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Ittai Kidron with Oppenheimer. Your line is open.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Thanks. Hi, ladies. Nice quarter. Ita, I wanted to dig into the comments on gross margin, where you expect them to improve through the year? Two things there, number one. What -- now the supply-chain is getting better, what is it in the supply chain that's still expensive that's hurting you on the gross margin side and how does that get mitigated? And second, the improvement that you anticipate, is that just a reflection of the mix, meaning cloud perhaps moderating to your point, or is most of the improvement driven again by supply-chain? A better pricing on the supply-chain side.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah. I mean, I think in Q1, we were still consuming broker parts and other parts that we had purchased prior, right, because we obviously had to prepare for the quarter, that should get better in Q2 and then even more so as we go through the rest of the year, where we will stop consuming those legacy if you like broker parts that we have in the pipeline. So that will definitely help. The other thing that's important is now that we don't have to stop-start (inaudible) we can focus on manufacturing, we can focus on driving manufacturing, driving efficiencies there et-cetera.
+
+So we should see some improvements come out of that as we go through the year, I'm not assuming a whole lot of a change in the mix of business, maybe a little bit more, but not a lot just because we have a deployment pipeline for cloud, right, in this discussion that we're having about cloud is more, when do they need to place orders for the next deployments. Now that there isn't deployments in front of us right now. Right. So I think, that's an important distinction. Right. So I think we are -- we're pretty happy with how the cloud business has kind of -- is slotted out through the rest of the year.
+
+The question becomes, when do they place new orders with these shorter lead times. And when can we see what -- what that -- those new orders will look like.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Ben Bollin with Cleveland Research. Your line is open.
+
+Q - Ben Bollin{BIO 7475003 <GO>}
+Good afternoon, everyone. Thanks for taking the question. Ita, I guess, more specific for you. Could you share any thoughts around OpEx with respect to R&D and sales and marketing, how those have evolved through the year given the visibility and supply and what you're seeing out there? Thank you.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah. I think we, and we talk about a little bit in the script but -- when we are continuing to hire and we are continuing to to make some investments and we'll -- we will continue to do that, certainly within the envelope as we think about the business for the year-to-date. We will continue to do that. It probably doesn't grow quite as fast as the topline. We will see. Right. But we are continuing to increment that quarter-over-quarter. And you'll see us continue to grow those investments, but again it's -- it's head count around our (Technical Difficulty) and go-to-market and really looking for good talents in places where we -- win this opportunity. Right. But we will continue to invest given the envelop of business that we have (Inaudible)
+
+Q - Ben Bollin{BIO 7475003 <GO>}
+Thank you.
+
+Operator
+Your next question comes from the line of Tim Long with Barclays. Your line is open.
+
+Q - Tim Long{BIO 21123922 <GO>}
+Thank you. Can I ask a two-parter on the adjacencies. The first, just curious on the campus side, obviously you guys have been growing nicely there. How do you -- how do you think that tends to be more macro-sensitive, so how do you view being able to grow the same level in that sector when there becomes more macro headwinds like we're starting to see. And then on the routing side, I'm curious, now that you're out with the full platform, Jayshree if you or Anshul, if you can just give us a little view of kind of what -- what feedback has been and what you think the kind of the revenue path would look like for increased routing business? Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Tim, I think on the campus side, the TAM is somewhere between $10 billion and $15 billion, so I don't want to make macro an excuse, because I think we have fantastic demand because of our fantastic products. That said, obviously, the way we will see the campus demand manifest is we may see longer decision cycles if the macro continues, but the actual interest in our products is just very solid. very good, because they're still operating. We are still aiming for our first $1 billion [ph] here in the next few years, so I think, it's -- we are looking good. On the WAN routing, Anshul, you want to add some comments. It's been a very exciting launch, lot of demand, it's still too early, right?
+
+A - Anshul Sadana{BIO 16683800 <GO>}
+But then there's lot of disruptions happening in the market even at the edge, right, and you talk about campuses, they're going to talk about what's inside the building, but there's an edge that connects to the outside too. We have heck of interest from our customers in the period. It is a bit too early, we just announced this offering. So too early to jump up and down and say, it's lots of numbers yet, we launched it as it goes, but having the integrate solution is important to go after the broader enterprise market.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Our existing customers (Multiple speakers) They see the National affinity to our CloudVision and US stack. So that would be the national spot.
+
+Q - Tim Long{BIO 21123922 <GO>}
+Okay. Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Thank you for your question.
+
+Operator
+Your next question comes from the line of Erik Suppiger with JMP Securities. Your line is open.
+
+Q - Erik Suppiger{BIO 1756547 <GO>}
+Yeah, thanks for taking the question. Can you speak at least qualitatively about how much backlog you are using up at this point and how long do you expect to continue working down backlog orders on a quarterly basis?
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah, I love to talk about backlog (Multiple speakers) we're going to do that. Look, I think it all comes back to lead times, right. Lead times is the driver of all (Technical Difficulty) customers have to place orders to those lead times, as lead times improve customers (Technical Difficulty) shorter lead times, they will slowly kind of navigate our way back to a more normal visibility window and lead-time window right, where I think, we've taken the first steps with that now. Right.
+
+But that's going to take time to get there, but that's what will happen as lead times will naturally bring visibility back to something more normal, but that's going to take some time, I think we are at the very beginning of that now.
+
+Q - Erik Suppiger{BIO 1756547 <GO>}
+Is that a multi-year process?
+
+A - Ita Brennan{BIO 16651666 <GO>}
+I don't know, when we're back to normal, it will take -- it will take time to get back to normal.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah we've pretty much said, it will take us the back-half of 2023, so I think normal is really next year.
+
+Q - Erik Suppiger{BIO 1756547 <GO>}
+Okay, thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Okay, thanks Erik.
+
+Operator
+Your next question comes from the line of Simon Leopold with Raymond James, your line is now open.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thanks for taking the question. Just a quick one if we could get a metric, the RPO value and in terms of my question. It does seem as if you've had a number of announcements around some software capabilities around your campus and enterprise-focused products. And it feels like you've sort of built-up a critical mass. I'm wondering, how you look at that strategy in terms of its maturity and its readiness in terms of the software behind the campus portfolio, if there is anything still missing? Thank you.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, thanks, Simon. I think, most of our software is not standalone software, it's bundled either in CloudVision or EOS, there is very few standalone pieces, of course, there's the NDR and the DANZ Monitoring Fabric, specific to the campus, I would say, they tend to look at it more as a solution, where they bring in wired, wireless, they want an automation framework with CloudVision, they want some security capabilities. In RSA, we announced some of the missing gaps we filled. Historically, we've partnered with other vendors for network access control and Arista introduced its first one.
+
+I will talk about it more next quarter, but I think some of the gaps, we are now starting to fill ourselves, but in the campus, it always tends to be a combination of platforms and software never standalone software alone.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Yeah, the RSA thing [ph] announcement was actually sort of where my question was coming from, it felt like that was in my mind, maybe one of the final gaps and that's what I'm really trying to understand here.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah, I'm going to save it for next quarter, but I'll just give you the condensed version, it's -- the Arista Guardian for Network Identity AGNI, means fire in India -- in Indian language, Sanskrit, so we will quell some of the ice with our fire.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Sounds good. And just the RPO values. Do you have that handy?
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah. I think it's up, it's up about between $50 million, $60 million quarter-over-quarter, it did tick up a little bit on the software and services side, but not -- in that range, still small numbers, long way to go.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Yeah.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thank you.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Thanks Simon
+
+Operator
+Your next question comes from the line of Sami Badri with Credit Suisse. Your line is open.
+
+Q - Sami Badri{BIO 20178177 <GO>}
+Hi. Two number questions, one is, could you just give us an idea on-campus revenues in 1Q '23 and that's going to trend in 2023 and then for Cloud Titans, is that expected to grow double digits, any kind of reference that you could make for what Cloud Titans is going to do for the balance of 2023?
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Yeah. I don't think we're going to try to fidget [ph] the vertical spread. I think what we've said is we think, our two biggest customers will be at least 10% customers for the year. But always reticent on that front.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+And we feel good about that. They're good partners and despite all the volatility, we will have a good year with them.
+
+And on campus, I think I gave you a number for 750 million by 2025, I'll stick with that, how about we give that to you towards the end-of-the year, when we really achieve something.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Hey, thank you, David [ph]. Operator, we have time for one last question please.
+
+Operator
+Your final question today comes from the line of George Notter with Jefferies, your line is now open.
+
+Q - George Notter{BIO 1556662 <GO>}
+Hi guys, thanks a lot. I guess just following-on some of the questions about visibility and customers. Any evidence of customers building inventory of your products, whether that's just stand alone inventory or whether it's inventory that may be installed in the network, but not being fully utilized? I guess, what I'm really asking is, any thoughts about excess inventory rather than just kind of the normal buffers that are out there? Thanks.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Well I think you, asked the question well and you almost answered it. It's just normal buffers, there is nothing excess in inventory we are seeing, nothing abnormal.
+
+A - Ita Brennan{BIO 16651666 <GO>}
+Our supply has been so constrained, George, I mean, we're just starting to come out.
+
+A - Jayshree Ullal{BIO 1737637 <GO>}
+Gosh, if they have some, we'd like to know how they got it.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks so much.
+
+Q - George Notter{BIO 1556662 <GO>}
+Super, thank you.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you. This concludes the Arista Networks' first quarter 2023 earnings call. We have posted a presentation, which provides additional information on our results, which you can access on the Investors section of our website. Thank you for joining us today and thank you for your interest in Arista.
+
+Operator
+Thank you for joining, ladies and gentlemen, this concludes today's call. You may now disconnect.

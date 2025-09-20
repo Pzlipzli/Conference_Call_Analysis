@@ -1,0 +1,506 @@
+[
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thank you. Good afternoon, everyone, and welcome to Alphabet's first quarter twenty twenty four earnings conference call. With us today are Sundar Pichai, Philip Schindler and Ruth Parat.",
+    "start": 27.279999,
+    "end": 46.615
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Now, I'll quickly cover the Safe Harbor. Some of the statements that we make today regarding our business, operations and financial performance may be considered forward looking.",
+    "start": 46.855,
+    "end": 68.67
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Such statements are based on current expectations and assumptions that are subject to a number of risks and uncertainties. Actual results could differ materially. Please refer to our Forms ten ks and ten Q, including the risk factors. We undertake no obligation to update any forward looking statement. During this call, we will present both GAAP and non GAAP financial measures.",
+    "start": 69.215,
+    "end": 90.1
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "A reconciliation of non GAAP to GAAP measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at abc. Xyzinvestor. Our comments will be on year over year comparisons unless we state otherwise. And now, I'll turn the call over to Sundar.",
+    "start": 90.58,
+    "end": 112.994995
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thank you, Jim, and hello, everyone. It was a great quarter led by strong performance from Search, YouTube and Cloud. Today, I want to share how we are thinking about the business and the opportunity more broadly. Of course, that's heavily focused on AI and Search. Then I will take you through some highlights from the quarter in Cloud, YouTube and beyond.",
+    "start": 114.36,
+    "end": 151.16
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Let's discuss our momentum and strategy. Taking a step back, it took Google more than fifteen years to reach one hundred billion dollars in annual revenue. In just the last six years, we have gone from one hundred billion dollars to more than three hundred billion dollars in annual revenue. Of course, Search continues to power that as you see in our Q1 results. But in addition, we expect YouTube overall and Cloud to exit twenty twenty four at a combined annual run rate of over one hundred billion dollars This shows our track record of investing in and building successful new growing businesses.",
+    "start": 152.44,
+    "end": 191.235
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Now let's look at how well we are positioned for the next wave of AI innovation and the opportunity ahead. There are six points to make: one, research leadership two, infrastructure leadership three, innovation and search four, our global product footprint five, velocity and execution six, monetization paths. First, our foundation of research leadership. We have been an AI first company since twenty sixteen, pioneering many of the modern breakthroughs that power AI progress for us and for the industry. Last week, we further consolidated teams that build AI models under Google DeepMind.",
+    "start": 191.635,
+    "end": 231.22002
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "This will help simplify development and establish a single access point for our product teams as they build generative AI applications with these models. The teams are making rapid progress developing Gemini and other models. In February, we rolled out Gemini one point five Pro, which shows dramatic performance enhancements across a number of dimensions. It includes a breakthrough in long context understanding, achieving the longest context window of any large scale foundation model yet. Combining this with Gemini's native multimodal understanding across audio, video, text, code and more, it's highly capable.",
+    "start": 231.86,
+    "end": 264.29
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We are already seeing developers and enterprise customers enthusiastically embrace Gemini one point five and use it for a wide range of things. Beyond Gemini, we have built other useful models including our Gemma Open models as well as Imagine Visual models and others. Second, infrastructure leadership. We have the best infrastructure for the AI era. Building world leading infrastructure is in our DNA starting in our earliest days when we had to design purpose built hardware to power search.",
+    "start": 264.77002,
+    "end": 298.29
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Our data centers are some of the most high performing, secure, reliable and efficient in the world. They've been purpose built for training cutting edge AI models and designed to achieve unprecedented improvements in efficiency. We have developed new AI models and algorithms that are more than one hundred times more efficient than they were eighteen months ago. Our custom TPUs now in their fifth generation are powering the next generation of ambitious AI projects. Gemini was trained on and is served using TPUs.",
+    "start": 298.995,
+    "end": 331.325
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We are committed to making the investments required to keep us at the leading edge in technical infrastructure. You can see that from the increases in our capital expenditures. This will fuel growth in cloud, help us push the frontiers of AI models and enable innovation across our services, especially in search. AI innovations in search are the third and perhaps the most important point I want to make. We have been through technology shifts before to the web, to mobile and even to voice technology.",
+    "start": 331.965,
+    "end": 360.605
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Each shift expanded what people can do with Search and led to new growth. We are seeing a similar shift happening now with generative AI. For nearly a year, we have been experimenting with SGE and Search Labs across a wide range of queries. And now we are starting to bring AI overviews to the main search results page. We are being measured in how we do this, focusing on areas where Gen AI can improve the search experience while also prioritizing traffic to websites and merchants.",
+    "start": 361.325,
+    "end": 403.82
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We have already served billions of queries with our generative AI features. It's enabling people to access new information, to ask questions in new ways and to ask more complex questions. Most notably, based on our testing, we are encouraged that we are seeing an increase in search usage among people who use the new AI overviews as well as increased user satisfaction with the results. And with Circle to Search, people can now circle what they see on their Android screens, ask a question about an image or object in a video and get an AI overview with Lens. Fourth, our global product footprint beyond search.",
+    "start": 404.22,
+    "end": 443.885
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We have six products with more than two billion monthly users, including three billion Android devices. Fifteen products have zero five billion users and we operate across one hundred plus countries. This gives us a lot of opportunities to bring helpful GenAI features and multimodal capabilities to people everywhere and improve their experiences. We have brought many new AI features to Pixel, Photos, Chrome, Messages and more. We are also pleased with the progress we are seeing with Gemini and Gemini Advanced through the Gemini app on Android and the Google app on iOS.",
+    "start": 445.005,
+    "end": 493.475
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Fifth, improved velocity and execution. We've been really focused on simplifying our structures to help us move faster. In addition to bringing together our model building teams under Google DeepMind, we recently unified our ML infrastructure and ML developer teams to enable faster decisions, smarter compute allocation and a better customer experience. Earlier this year, we brought our search teams together under one leader And last week, we took another step bringing together our platforms and devices teams. The new combined team will focus on delivering high quality products and experiences, bolstering the Android and Chrome ecosystems and bringing our best innovations to partners faster.",
+    "start": 494.91498,
+    "end": 524.295
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We also remain focused on long term efforts to durably reengineer our cost base. You can see the impact of this work reflected in our operating margin improvement. We continue to manage our headcount growth and align teams with our highest priority areas. This speeds up decision making, reduces layers and enables us to invest in the right areas. Beyond our teams, we are very focused on our cost structures, procurement and efficiency.",
+    "start": 524.615,
+    "end": 560.435
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And a number of technical breakthroughs are enhancing machine speed and efficiency, including the new family of Gemini models and a new generation of TPUs. For example, since introducing SGE about a year ago, machine costs associated with SGE responses have decreased eighty percent from when first introduced in labs driven by hardware, engineering and technical breakthroughs. We remain committed to all of this work. Finally, our monetization path. We have clear paths to AI monetization through ads and cloud as well as subscriptions.",
+    "start": 560.995,
+    "end": 594.17004
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Philip will talk more about new AI features that are helping advertisers including bringing Gemini models into Performance Max. Our cloud business continues to grow as we bring the best of Google AI to enterprise customers and organizations around the world. And Google One now has crossed one hundred million paid subscribers and in Q1 we introduced a new AI premium plan with Gemini Advanced. Okay, those are the six points. So now let me turn to quarterly highlights from Cloud and YouTube in a bit more detail.",
+    "start": 594.81,
+    "end": 636.635
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "In Cloud, we have announced more than one thousand new products and features over the past eight months. At Google Cloud Next, more than three hundred customers and partners spoke about their generative AI successes with Google Cloud, including global brands like Bayer, Cintas, Mercedes Benz, Walmart and many more. Our differentiation in cloud begins with our AI hypercomputer, which provides efficient and cost effective infrastructure to train and serve models. Today, more than sixty percent of funded GenAI startups and nearly ninety percent of GenAI unicorns are Google Cloud customers. And customers like PayPal and Kakav Brain are choosing our infrastructure.",
+    "start": 637.59503,
+    "end": 673.77496
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We offer an industry leading portfolio of NVIDIA GPUs along with our TPUs. This includes TPU v5p, which is now generally available and NVIDIA's latest generation of Blackwell GPUs. We also announced Axion, our new Google design and ARM based CPU. In benchmark testing, it has performed up to fifty percent better than comparable x86 based systems. On top of our infrastructure, we offer more than one hundred and thirty models, including our own models, open source models and third party models.",
+    "start": 674.36,
+    "end": 719.955
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We made Gemini one point five Pro available to customers as well as Imagine two point zero at Cloud Next. And we shared that more than one million developers are now using our generative AI across tools including AI Studio and Vertex AI. We spoke about how customers like Bristol Myers Squibb and Etsy can quickly and easily build agents and connect them to their existing systems. For example, Discover Financial has begun deploying GenAI driven tools to its nearly ten thousand call center agents to achieve faster resolution times for customers. Customers can also now ground their GenAI with Google Search and their own data from their enterprise databases and applications.",
+    "start": 721.395,
+    "end": 758.15
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "In Workspace, we announced that organizations like Uber, Pepperdine University and PennyMac are using Gemini and Google Workspace, our AI powered agent that's built right into Gmail, Docs, Sheets and more. We also announced Google Vids, a new application to create stories in short video format. And we introduced Gemini for meetings and messaging and Gemini Security for Workspace. Customers are choosing Workspace because they have deep trust in our powerful security and privacy features. Our cloud business is now widely seen as the leader in cybersecurity.",
+    "start": 758.71,
+    "end": 797.31
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "I saw this firsthand when I went to the Munich Security Conference in February. Cybersecurity analysts are using Gemini to help spot threats, summarize intelligence and take action against attacks, helping companies like American Family Insurance aggregate and analyze security data in seconds instead of days. Turning next to YouTube, which continues to grow and lead in streaming. We announced that on average, viewers are watching over one billion hours of YouTube content on TVs daily. AI experiments like DreamScreen will give anyone the ability to make AI generated backgrounds for YouTube Shorts.",
+    "start": 798.095,
+    "end": 839.58496
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And on subscriptions, which are increasingly important for YouTube, we announced that in Q1, YouTube surpassed one hundred million music and premium subscribers globally, including trialers. And YouTube TV now has more than eight million paid subscribers. Finally, in Other Bets, Waymo's fully autonomous service continues to grow ridership in San Francisco and Phoenix with high customer satisfaction and we started offering paid rides in Los Angeles and testing rider only trips in Austin. Overall, it was a great quarter and there is more to come. IO is in less than three weeks followed by Brandcast and Google Marketing Live.",
+    "start": 840.14,
+    "end": 854.86
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "I want to thank our employees around the world who are at the heart of this progress and who continue to focus on building innovative products, helpful services and new opportunities for businesses and partners around the world. Thank you. Philip?",
+    "start": 856.435,
+    "end": 883.21
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Thanks, Sundar, and hi, everyone. Google services revenue of seventy billion euros were up fourteen percent year on year. Search and other revenues grew fourteen percent year on year, led again by solid growth in the retail vertical, with particular strength from APAC based retailers, which began in the second quarter of twenty twenty three. YouTube ads revenues were up twenty one percent year on year, driven by growth in both direct response and brand. Network revenues declined one percent year on year.",
+    "start": 884.08496,
+    "end": 928.275
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In subscriptions, platforms and devices, year on year revenues increased eighteen percent, driven again by strong growth in YouTube subscriptions. Let's now talk about a few highlights from the quarter from a product innovation and advertising performance perspective. First, it bears repeating that AI innovation across our ads ecosystem is core to every aspect of our product portfolio, from targeting, bidding, creative, measurement and across campaign types. We've talked about how solutions like Smart Bidding use AI to predict future ad conversions and their value in helping businesses stay agile and responsive to rapid shifts in demand and how products like Broadmatch leverage LLMs to match ads to relevant searches and help advertisers respond to what millions of people are searching for. This is foundational.",
+    "start": 929.13995,
+    "end": 959.1
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "As advances accelerate in our underlying AI models, our ability to help businesses find users at speed and scale and drive ROI just keeps getting better. We're especially excited about the doors GenAI is opening for creative capabilities, helping deliver on the premise of getting the right ad to the right user in the right moment. Look at Performance Max. In February, we rolled Gemini into PMax. It's helping curate and generate text and image assets so businesses can meet PMax asset requirements instantly.",
+    "start": 959.66,
+    "end": 979.735
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "This is available to all U. S. Advertisers and starting to roll out internationally in English, and early results are encouraging. Advertisers using generation are sixty three percent more likely to publish a campaign with good or excellent ad strength. And those who improve their Pmax ad strength to excellent see six percent more conversions on average.",
+    "start": 981.27,
+    "end": 1020.06
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We're also driving improved results for businesses opting into automatically created assets, which are supercharged with Gen AI. Those adopting ACA see, on average, five percent more conversions at a similar cost per conversion in Search and Performance Max campaigns. And then there's demand gen. Advertisers are loving its ability to engage new and existing customers and drive purchase consideration across our most immersive and visual touch points like YouTube, Shorts, Gmail and Discover. Hollywood film and TV studio Lionsgate partnered with Horizon Media to test what campaign type would deliver the most ticketing page views for its The Hunger Games, Ballad of Songbirds and Snakes film.",
+    "start": 1020.38,
+    "end": 1049.89
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Over a three week test, demand gen was significantly more efficient versus social benchmarks, with an eighty five percent more efficient CPC and ninety six percent more efficient cost per page view. Lionsgate has since rolled out Demand Gen for two new titles. We're also bringing new creative features to Demand Gen. Earlier this month, we announced new generative image tools to help advertisers create high quality assets in a few steps with a few simple prompts. This will be a win for up leveling visual storytelling and testing creative concepts more efficiently.",
+    "start": 1051.155,
+    "end": 1076.0599
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And then there's obviously search generative experience, which Sundar talked about. I'll add that innovation in the user experience on search has historically opened up new opportunities for advertisers. We saw this when we successfully navigated from desktop to mobile. We're continuing to experiment with new ad formats, including search and shopping ads alongside search results in SGE. And we shared in March how folks are finding ads either above or below the SGE results helpful.",
+    "start": 1076.585,
+    "end": 1135.2749
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We're excited to have a solid baseline to keep innovating on and confident in the role SGE, including ads, will play in delighting users and expanding opportunities to meet user needs, which brings me to Search and our strong performance in the first quarter. In Q1, Retail was again a top contributor. Our focus remains on driving profitability and growth for retailers, helping them optimize digital performance for both online and off line as well as innovate across our shopping and merchant experiences. Highlights include continued upsides for retailers, leading into agile budget and bidding strategies across Search, Pmax or both take home goods retailer IKEA, who leaned into Google's store sales measurement to understand its total omnichannel revenue opportunity across Search. By measuring 2.3x more revenue and using value based bidding solutions to bid to its omnichannel customers, IKEA drove a significant increase in omni revenue in Q1 and is now scaling this strategy globally.",
+    "start": 1136.235,
+    "end": 1160.6799
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We also expanded local inventory ads into twenty three countries, helping drive shopper confidence and off line sales. Retailers can convert intent into action by showcasing in store availability, pricing, pickup options, and more all in one ad format. Moving to YouTube. Last quarter, I went deep into our strategy. It all starts with creation, which drives viewership, which leads to monetization.",
+    "start": 1161.16,
+    "end": 1196.075
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "A few updates to build on Sundar's remarks. First, creation, which is all about giving creators the tools to create amazing content, grow their audiences and build their businesses. In twenty twenty three, more people created content on YouTube than ever before, and the number of channels uploading Shorts year on year grew fifty percent. We also hit a new milestone with three million plus channels in our YouTube Partner Program. We recently shared that YPP has paid out more than any other creator monetization platform, including over seventy billion euros to creators, artists and media companies over the last three years.",
+    "start": 1196.795,
+    "end": 1219.53
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "From a viewer's perspective, watch time across YouTube continues to grow with strength in both Shorts and CTV. According to Nielsen, YouTube has been the leader in U. S. Streaming watch time for the last twelve plus months. In the first quarter, Living Room benefited from a combination of strong watch time growth, innovation in the user and advertiser experience and a shift in brand advertising budgets from linear TV to YouTube.",
+    "start": 1220.905,
+    "end": 1250.895
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Viewers are watching YouTube because they expect to access everything in one place across screens and formats, their favorite creators, live sports, breaking news, educational content, movies, music and more. And advertisers continue to lean in to find audiences they can't find elsewhere, which brings me to monetization. We're pleased with our Q1 performance across both our ad supported and subscription offerings. Sundar covered subscription growth. On the ads front, direct and brand were both strong this quarter.",
+    "start": 1251.375,
+    "end": 1286.645
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Shorts monetization continued to improve, with Shorts ads now supported on mobile, tablet, living room and desktop and available to both performance and brand advertisers. In the U. S, the monetization rate of Shorts relative to in stream viewing has more than doubled in the past twelve months, including a ten point sequential improvement in the first quarter alone. Just last week, we introduced new ways for brands to get the most out of their Shorts ads with new lineups on YouTube Select, including sports, beauty, fashion and lifestyle and entertainment. For YouTube advertisers, increasing brand lift is one of the core goals.",
+    "start": 1286.805,
+    "end": 1328.05
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In Q1, we saw strong traction from the introduction of a Pause Ads pilot on Connected TVs, a new, non interruptive ad format that appears when users pause their organic content. Initial results show that Pause Ads are driving strong brand lift results and are commanding premium pricing from advertisers. Before I wrap, two quick highlights on how we're helping our partners transform and accelerate impact with the best across Google. Number one, to help McDonald's build the restaurant of the future, we're deepening our partnership across cloud and ads. Part of this includes them connecting Google Cloud's latest hardware and data technologies across restaurants globally and starting to apply Gen AI to enhance its customer and employee experiences.",
+    "start": 1329.235,
+    "end": 1362.395
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Number two, WPP. At Google Cloud Next, we announced a new collaboration that will redefine marketing through the integration of our Gemini models with WPP Open. WPP's AI powered marketing operating system already used by more than thirty five thousand of its people and adopted by key clients, including The Coca Cola Company, L'Oreal and Nestle. We're just getting started here and excited about the innovation this partnership will unlock. With that, a huge thank you to our customers and partners, many of whom we're excited to see at Google Marketing Live and Brandcast in just a few weeks.",
+    "start": 1362.555,
+    "end": 1369.035
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And a huge thank you, as always, to our incredible teams for their agility and hard work this quarter. Ruth, you're up.",
+    "start": 1371.37,
+    "end": 1407.1
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Thank you, Philip. We are very pleased with our financial results for the first quarter, driven in particular by strength in Search and Cloud as well as the ongoing efforts to durably reengineer our cost base. My comments will be on year over year comparisons for the first quarter unless I state otherwise. I will start with results at the alphabet level, followed by segment results and conclude with our outlook. For the first quarter, our consolidated revenues were eighty point five billion dollars up fifteen percent or up sixteen percent in constant currency.",
+    "start": 1407.66,
+    "end": 1467.83
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Search remained the largest contributor to revenue growth. In terms of total expenses, the year on year comparisons reflect the impact of the restructuring charges we took in the first quarter of twenty twenty three of two point six billion dollars as well as the seven sixteen million dollars in employee severance and related charges in the first quarter of twenty twenty four. As you can see in our earnings release, these charges were allocated across the expense lines in other cost of revenues and OpEx based on associated headcount. To help with year on year comparisons, we included a table in our earnings release to adjust other cost of revenues, operating expenses, operating income and operating margin to exclude the impact of severance and related office space charges in the first quarter of twenty twenty three versus twenty twenty four. In terms of expenses, total cost of revenues was thirty three point seven billion dollars up ten percent.",
+    "start": 1468.655,
+    "end": 1536.5499
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Other cost of revenues was twenty point eight billion dollars up ten percent on a reported basis, with the increase driven primarily by content acquisition costs associated with YouTube, given the very strong revenue growth in both subscription offerings and ad supported content. On an adjusted basis, other cost of revenues were up thirteen percent year on year. Operating expenses were twenty one point four billion dollars down two percent on a reported basis, primarily reflecting expense decreases in sales and marketing and G and A, offset by an increase in R and D. The largest single factor in the year on year decline in G and A expenses was lower charges related to legal matters. On an adjusted basis, operating expenses were up five percent, reflecting first in R and D, an increase in compensation expense primarily for Google DeepMind and Cloud and second, in sales and marketing, a slight increase year on year, reflecting increases in compensation expense primarily for cloud sales.",
+    "start": 1537.4299,
+    "end": 1574.7849
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Operating income was twenty five point five billion dollars up forty six percent on a reported basis, and our operating margin was thirty two percent. On an adjusted basis, operating income was up thirty one percent and our operating margin was thirty three percent. Net income was twenty three point seven billion dollars and EPS was one point eight nine We delivered free cash flow of sixteen point eight billion dollars in the first quarter and sixty nine point one billion dollars for the trailing twelve months. We ended the quarter with one hundred and eight billion dollars in cash and marketable securities. Turning to segment results.",
+    "start": 1574.945,
+    "end": 1617.2299
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Within Google services, revenues were seventy point four billion dollars up fourteen percent. Google search and other advertising revenues of forty six point two billion dollars in the quarter were up fourteen percent, led again by growth in retail. YouTube advertising revenues of eight point one billion dollars were up twenty one percent, driven by both direct response and brand advertising. Network advertising revenues of seven point four billion dollars were down one percent. Subscriptions, platforms and devices revenues were eight point seven billion dollars up eighteen percent, primarily reflecting growth in YouTube subscription revenues.",
+    "start": 1617.5499,
+    "end": 1657.445
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "TAC was twelve point nine billion dollars up ten percent. Google services operating income was twenty seven point nine billion dollars up twenty eight percent and the operating margin was forty percent. Turning to the Google Cloud segment. Revenues were nine point six billion dollars for the quarter, up twenty eight percent, reflecting significant growth in GCP with an increasing contribution from AI and strong Google Workspace growth, primarily driven by increases in average revenue per seat. Google Cloud delivered operating income of nine hundred million dollars and an operating margin of nine percent.",
+    "start": 1658.005,
+    "end": 1687.9648
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "As to our Other Bets, for the first quarter, revenues were four ninety five million dollars benefiting from a milestone payment in one of the Other Bets. The operating loss was one billion Turning to our outlook for the business. With respect to Google services, first within advertising, we are very pleased with the momentum of our ads businesses. Search had broad based strength across verticals. In YouTube, we had acceleration in revenue growth driven by brand and direct response.",
+    "start": 1688.445,
+    "end": 1730.89
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Looking ahead, two points to call out. First, results in our advertising business in Q1 continued to reflect strength in spend from APAC based retailers, a trend that began in the second quarter of twenty twenty three and continued through Q1, which means we will begin lapping that impact in the second quarter. Second, the YouTube acceleration in revenue growth in Q1 reflects in part lapping the negative year on year growth we experienced in the first quarter of twenty twenty three. Turning to subscriptions, platforms and devices. We continue to deliver significant growth in our subscriptions business, which drives the majority of revenue growth in this line.",
+    "start": 1731.29,
+    "end": 1775.995
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "The sequential quarterly decline in year on year revenue growth for the line in Q1 versus Q4 reflects in part the fact that we had only one week of Sunday ticket subscription revenue in Q1 versus fourteen weeks in Q4. Looking forward, we will anniversary last year's price increase in YouTube TV starting in May. With regard to platforms, we are pleased with the performance in Play driven by an increase in buyers. With respect to Google Cloud, performance in Q1 reflects strong demand for our GCP infrastructure and solutions as well as the contribution from our Workspace productivity tools. The growth we are seeing across cloud is underpinned by the benefit AI provides for our customers.",
+    "start": 1776.72,
+    "end": 1808.7999
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "We continue to invest aggressively while remaining focused on profitable growth. As we look ahead, two points that will affect sequential year on year revenue growth comparisons across Alphabet. First, Q1 results reflect the benefit of leap year, which contributed slightly more than one point to our revenue growth rate at the consolidated level in the first quarter. Second, at current spot rates, we expect a larger headwind from foreign exchange in Q2 versus Q1. Turning to margins.",
+    "start": 1808.7999,
+    "end": 1868.0399
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Our efforts to durably reengineer our cost base are reflected in a four hundred basis point expansion of our Alphabet operating margin year on year, excluding the impact of restructuring and severance charges in both periods. You can also see the impact in the quarter on quarter decline in headcount in Q1, which reflects both actions we have taken over the past few months and a much slower pace of hiring. As we have discussed previously, we are continuing to invest in top engineering and technical talent, particularly in cloud, Google DeepMind and technical infrastructure. Looking ahead, we remain focused on our efforts to moderate the pace of expense growth in order to create capacity for the increases in depreciation and expenses associated with the higher levels of investment in our technical infrastructure. We believe these efforts will enable us to deliver full year twenty twenty four Alphabet operating margin expansion relative to twenty twenty three.",
+    "start": 1868.6799,
+    "end": 1922.9099
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "With respect to CapEx, our reported CapEx in the first quarter was twelve billion dollars once again driven overwhelmingly by investment in our technical infrastructure with the largest component for servers followed by data centers. The significant year on year growth in CapEx in recent quarters reflects our confidence in the opportunities offered by AI across our business. Looking ahead, we expect quarterly CapEx throughout the year to be roughly at or above the Q1 level, keeping in mind that the timing of cash payments can cause variability in quarterly reported CapEx. With regard to other bets, we similarly have work streams underway to enhance overall returns. Finally, as I trust you saw in the press release, we are very pleased to be adding a quarterly dividend of zero two zero dollars per share to our capital return program as well as a new seventy billion dollars authorization and share repurchases.",
+    "start": 1923.7899,
+    "end": 1945.175
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "The core of our capital allocation framework remains the same, beginning with investing aggressively in our business as you have heard us talk about today given the extraordinary opportunities ahead. We view the introduction of the dividend as further strengthening our overall capital return program. Thank you. Sundar, Philip and I will now take your questions.",
+    "start": 1948.12,
+    "end": 1964.8849
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thanks, Brian. To your first question, look, think broadly, we've always found that over many years when things work well on the organic side, monetization follows. So typically, the trends we see carry over well. Overall, I think with generative AI in Search, with our AI overviews, we are definitely I think we will expand the type of queries we can serve our users. We can answer more complex questions as well.",
+    "start": 1965.365,
+    "end": 1972.4849
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And in general, that all seems to carry over across query categories. Obviously, it's still early and we are going to be measured and put user experience upfront, but we are positive about what this transition means.",
+    "start": 1972.8049,
+    "end": 2008.72
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "And on the second question in terms of the various work streams, as both Sundar and I said, we remain very focused on ongoing efforts to slow the pace of expense growth, what we've been calling durably reengineering our cost base. And I made this point in opening comments that we are very cognizant of the increasing headwind we have from higher depreciation and expenses associated with the higher CapEx. And so these efforts are ongoing and they're very much the same that we've talked with you about previously. It starts with product and process prioritization, all of the work around organizational efficiency and structure. These are ongoing.",
+    "start": 2008.72,
+    "end": 2009.2
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "And so as an example, the work that Sundar talked about combining devices and services with our platforms and ecosystems, product areas are really good example because unifying the teams not only helps us deliver higher quality products and experiences, but we think it enables us to move with greater velocity and efficiency. And then the other work streams we've talked to you about in the past, like all of the work around technical infrastructure, Sundar alluded to streamlining operations within the company through the use of AI, what we're doing with procurement with our suppliers and vendors, which he also referenced the work you've seen on real estate optimization. These are all ongoing work streams, which is why we have them under the umbrella durably reengineering our cost base, and they are ongoing.",
+    "start": 2012.32,
+    "end": 2046.8049
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thanks, Doug. On SG and in Search, look, I think it tends to really we are seeing early confirmation of our thesis that this will expand the universe of queries where we are able to really provide people with a mix of factual answers, a link to sources across the web and bring a variety of perspectives, all in an innovative way. And we've been rolling out AI overviews in the U. S. And U.",
+    "start": 2046.8049,
+    "end": 2062.2
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "K, trying to mainly tackle queries, which are more complex, where we think the SG will clearly improve, the experience. We've already served billions of queries and it seems to cut across categories, but we are still continuing our testing and we'll keep we are metrics driven in these areas. And so we'll but I am optimistic that, it clearly improves the user experience. Users are telling us that and we are seeing it in our metrics and we'll continue evolving it through the course of this year.",
+    "start": 2063.16,
+    "end": 2101.785
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "And then in terms of CapEx, as I said in opening comments, we do expect the quarterly CapEx throughout the year to be roughly at or above the twelve billion dollars cash CapEx we had here in Q1. As I said, can always have variability in the reported quarterly CapEx just due to the timing of cash payments, but roughly at or above this level. And it really goes to Sundar's comment, opening comment that we're very committed to making the investments required to keep us at the leading edge infrastructure to support the growth in cloud, all the innovation and search that he and Philip has spoken about and our lead with Gemini. I will note that most nearly all I should say of the CapEx was in our technical infrastructure. We expect that our investment in office facilities will be about less than ten percent of the total CapEx in twenty twenty four roughly flat with our CapEx in twenty twenty three but is still there.",
+    "start": 2101.785,
+    "end": 2145.6802
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "And then with respect to twenty twenty five, as he said, it's premature to comment, so nothing to add on that.",
+    "start": 2151.68,
+    "end": 2157.7952
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thanks, Eric. Great question. Obviously, I think the AI transition, I think it's a once in a generation kind of an opportunity. We've definitely been gearing up for this for a long time. You can imagine we started building TPUs in twenty sixteen.",
+    "start": 2159.315,
+    "end": 2196.655
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "So we've definitely been gearing up for a long time. The real opportunities we see is the scale of research and innovation, which we have built up and are going to continue to deliver. I think for the first time, we can work on AI in a horizontal way and it impacts the entire breadth of the company, be it Search, be it YouTube, be it Cloud, be it Waymo and so on. And we see rapid pace of innovation in that underlying. So it's a very leveraged way to do it, and I see that as a real opportunity ahead.",
+    "start": 2199.11,
+    "end": 2228.03
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "In terms of the challenges, I think making sure I think we are constantly think it's been a mindset shift which we've been driving across the company to make sure that we are embracing this opportunity, but being very efficient in how we are approaching it, making sure we are redirecting our people to the highest priorities across the company, building on our twenty years of experience in driving machine efficiencies year on year, so that we can put our dollars to work as efficiently as possible. So making sure balancing all of that moving forward in a very bold and responsible way at the same time, those are the important things to get right from my perspective.",
+    "start": 2228.03,
+    "end": 2265.6301
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Yes. Look, this is a great question. First of all, I mean, let's start with the fact that YouTube performance was very strong and this quarter. And on Shorts, specifically in the U. S, I mentioned how the monetization rate of Shorts relative to in stream viewing has more than doubled in the last twelve months.",
+    "start": 2265.87,
+    "end": 2326.79
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "I think that's what you, were referring to. And, yes, we're obviously very happy, with this development. The way to think about it is advertisers really only spend with us when they see a positive ROI. So, you can assume, that this wouldn't be happening, unless it were to work for advertisers, in the short term and also in the long term. That's an important part, I think.",
+    "start": 2327.4548,
+    "end": 2333.135
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Overall, Shorts is a long term bet for the business. It has really helped us respond to both creator and viewer demand for short form video. We talked about the strong growth averaging seventy billion daily views. I mentioned a number of channels. Uploading has increased fifty percent year over year.",
+    "start": 2335.375,
+    "end": 2336.655
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "So again, very happy with this development. And to your question, structural reasons, whether we can't get to a match here, I have a hard time seeing those at the moment over time.",
+    "start": 2338.7349,
+    "end": 2343.82
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "So the increase in CapEx as Sundar said and I said really reflects the opportunity we continue to see across the company. It starts with all that we're doing in support of the foundation model, the hold the Gemini foundational model. But then also clearly the work across cloud on behalf of cloud customers and the growth that we're seeing with GCP and the infrastructure work there. And then of course as both Sundar and Philip talked about the application across search, YouTube, and more broadly the services that we're able to offer. So it's the growing application and our focus on ensuring that we have the capacity to deliver in support of the services and opportunities we see across Alphabet.",
+    "start": 2344.46,
+    "end": 2377.4502
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "And it really goes to the second part of your question, which is that as we're investing in CapEx and applying it across our various businesses, it opens up more service and products, which bring revenue opportunities and we're very focused on the monetization opportunity. It does underlie everything that we're doing in Google services and Google Cloud. And as Sundar noted, we're at the same time very focused on the efficiency of all elements of delivering that compute capacity from hardware, software and beyond.",
+    "start": 2378.4102,
+    "end": 2397.71
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "On your first question, look, I said this before, but to be clear, we view this moment as a positive moment for Search. And I think it allows us to evolve our product in a profound way. And Search is a unique experience. People come and they get to be it if you want answers, if you want to explore more, if you want to get perspectives from across the web and to be able to do it across the breadth and depth of everything they are looking for And the innovation you would need to keep that up, I think it's what we've been building on for a long time. And so I feel we are extraordinarily well set up, particularly given the innovation path we are on.",
+    "start": 2397.79,
+    "end": 2432.8801
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And overall, I view this moment as a positive moment. So that's how I would say it. On the second part, Ruth?",
+    "start": 2433.44,
+    "end": 2477.535
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Oh, I would just say from Sundar's opening comments, it's just the ongoing momentum that we've seen in the business that we've been talking about the ongoing growth, the strong performance. And so what were really getting at in that comment, what Sundar was getting at is that we've continued to build strong businesses over time and that just helps dimension it. We had similar comments last quarter when you talk about our subscription business. We're really proud of all the work that teams are doing across the company building new strong opportunities delivering for users, for customers, for advertisers in profound ways since that was just helping to dimension what we have built over the years.",
+    "start": 2482.06,
+    "end": 2487.82
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thanks. Look, on the cloud side, obviously, it's definitely a point of inflection overall. I think the AI transformation is making everyone think about their whole stack and we are engaged in a number of conversations. I think, be it AI infrastructure, people really looking to Vertex AI, given our depth and breadth of model choice, or using Workspace to transform productivity in your workplace, etcetera. So I think the opportunities there are all related to that, both all the work we have built up and AI being a point of inflection in terms of driving conversations.",
+    "start": 2488.62,
+    "end": 2512.49
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "I think you will see us do it both organically and with a strong partner program as well. So we'll do it with a combination. And the challenges here are always and for there are switching costs to cloud and the challenges we see is how do we make it easier for people. There's a lot of interest, but there's definitely barriers in terms of people, switching. And so that's an area where we are constantly investing to make it, easier for our customers.",
+    "start": 2513.13,
+    "end": 2531.0151
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And, with regard to your Sports Rights question, look, I mean, we've had long standing and significant partnerships with the most popular, sports league, here in the U. S. Around the globe, federations, teams, athletes, broadcasters. And obviously, these partnerships in combination with our very vast audience of sports fans drives investment and subscription experiences across many offerings, NFL Sunday Ticket, YouTube TV, YouTube Prime Time channels and so on. But there's nothing, that we have to announce at the moment.",
+    "start": 2533.41,
+    "end": 2551.375
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We're obviously always looking at where we can create more value for our users, for advertisers, for creators, but nothing specific to talk about at this moment.",
+    "start": 2551.375,
+    "end": 2574.59
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Look, I think, if you look at what users are looking for, people are looking for information and an ability to connect with things outside. So, I think there will be a set of use cases which you will be able to do on device. But for a lot of what people are looking to do, I think you will need the richness of the cloud, the web and you have to deliver it to users. So, think so again, to my earlier comments, I think through all these moments, you saw what we have done with Samsung, with Circle to Search. I think it gives a new way for people to access Search conveniently wherever they are.",
+    "start": 2575.385,
+    "end": 2594.46
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And so I view this as a positive way to bring our services to users in a more seamless manner. So I think it's positive from that perspective. In terms of on device versus cloud, I'm there will be needs which can be done on device and we should to help it from a privacy standpoint. But there are many, many things for which people will need to reach out to the cloud. And so I don't see that as being a big driver in the on cloud versus soft cloud in any way.",
+    "start": 2594.7,
+    "end": 2605.795
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Look, on the first question on Search, not much more to add to what I said, but what we have seen and remember we have been in live experiments just for a few weeks in U. S. And U. K. And on a slice of our queries where and all indications are positive that it improves user satisfaction.",
+    "start": 2608.115,
+    "end": 2609.395
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We see an increase in engagement, but I see this as something which will play out over time. But if you were to step back, this moment, there were a lot of questions last year and we always felt confident and comfortable that we would be able to improve the user experience. People questioned whether these things would be costly to serve and we are very, very confident we can manage the cost of how to serve these queries. People worried about latency. I think we are when I look at the progress we have made in latency and efficiency, we feel comfortable.",
+    "start": 2611.075,
+    "end": 2616.515
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "There are questions about monetization and based on our testing so far, I'm comfortable and confident that we'll be able to manage the monetization transition here well as well. It will play out over time, but I feel we are well positioned. And more importantly, when I look at the innovation that's ahead and the way the teams are working hard on it, I am very excited about the future ahead.",
+    "start": 2617.58,
+    "end": 2638.635
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thanks everyone for joining us today. We look forward to speaking with you again on our second quarter twenty twenty four call. Thank you and have a good evening.",
+    "start": 2638.635,
+    "end": 2660.995
+  }
+]

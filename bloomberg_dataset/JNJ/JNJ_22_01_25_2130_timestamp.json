@@ -1,0 +1,650 @@
+[
+  {
+    "speaker": "Jessica Moore",
+    "text": "Good morning. This is Jessica Moore, Vice President of Investor Relations for Johnson & Johnson. Welcome to our company's review of business results for the fourth quarter and full year of 2021 and our financial outlook for 2022. Joining me on today's call are Joaquin Duato, Chief Executive Officer; and Joe Wolk, Executive Vice President, Chief Financial Officer. A few logistics before we get into the details.",
+    "start": 29.09,
+    "end": 57.760002
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "This review is being made available via webcast, accessible through the Investor Relations section of the Johnson & Johnson website at investor.jnj.com, where you can also find additional materials including today's presentation and associated schedules. Please note that today's presentation includes forward-looking statements regarding, among other things, our future operating and financial performance, and the anticipated separation of the company's consumer health business. We encourage you to review the cautionary statement included in today's presentation, which identifies certain risks and factors that may cause the company's actual results to differ materially from those projected. In particular, there is significant uncertainty about the duration and contemplated impact of the COVID-19 pandemic and other marketplace dynamics.",
+    "start": 58.16,
+    "end": 113.75
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "This means that results could change at any time and the contemplated impact of COVID-19 on the company's business results and outlook is a best estimate based on the information available as of today's date. A further description of these risks, uncertainties, and other factors can be found in our SEC filings, including our 2020 Form 10-K and subsequent Form 10-Q, along with reconciliations of the non-GAAP financial measures utilized for today's discussion to the most comparable GAAP measures. These materials are also available at investor.jnj.com. Several of the products and compounds discussed today are being developed in collaboration with strategic partners or licensed from other companies.",
+    "start": 114.31,
+    "end": 165.345
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "This slide acknowledges those relationships. Moving to today's agenda, I will review the fourth quarter sales and P and L results for the corporation and the three business segments, and additionally, full-year 2021 results for the enterprise. Joe will provide some additional business commentary, insights about our cash position and capital allocation deployment, and our guidance for 2022. Joaquin will close the call by sharing his perspective on the healthcare environment and his strategic priorities as the new CEO of Johnson & Johnson. The remaining time will be available for your questions.",
+    "start": 165.665,
+    "end": 204.13
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "We anticipate the webcast will last up to ninety minutes. Now to recap the fourth quarter. Worldwide sales were $24.8 billion for the fourth quarter of 2021, an increase of 10.4% versus the fourth quarter of 2020. Operational sales growth, which excludes the effect of translational currency, increased 11.6% as currency had a negative impact of 1.2 points. In the U.S., sales increased 3%. In regions outside the US, our reported sales growth was 18.5%. Operational sales growth outside the US was 21.2%, with currency negatively impacting our reported OUS results by 2.7 points. Excluding the net impact of acquisition and divestitures, adjusted operational sales growth was 12.3% worldwide, 3.1% in the US, and 22.4% outside the U.S.",
+    "start": 204.53,
+    "end": 269.415
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "I would like to remind everyone that our 2020 fiscal year included additional shipping days, which negatively impacted 2021 fourth-quarter growth by approximately 400 basis points and full-year growth by about 100 basis points. These impacts can be roughly applied across all segments, but were more heavily skewed to the U.S. Turning now to earnings. For the quarter, net earnings were $4.7 billion and diluted earnings per share were $1.77 versus diluted earnings per share of $0.65 a year ago.",
+    "start": 270.055,
+    "end": 310.115
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Excluding after-tax intangible asset amortization expense and special items for both periods, adjusted net earnings for the quarter were $5.7 billion and adjusted diluted earnings per share were $2.13, representing increases of 14.4% and 14.5%, respectively, compared to the fourth quarter of 2020. On an operational basis, adjusted diluted earnings per share increased 17.2%. For the full year 2021, consolidated sales were $93.8 billion, an increase of 13.6% compared to the full year 2020. Operationally, full-year sales grew 12.2%, with currency having a positive impact of 1.4 points. Sales growth in the US was 9.3%.",
+    "start": 310.9,
+    "end": 367.485
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "In regions outside the US, our reported year over year sales growth was 18.2%. Operational sales outside the US grew by 15.3%, with currency positively impacting our reported OUS results by 2.9 points. Excluding the net impact of acquisition and divestitures, adjusted operational sales growth was 12.8% worldwide, 9.5% in the U.S, and 16.6% outside the U.S.",
+    "start": 368.19,
+    "end": 399.38
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Net earnings for the full year 2021 were $20.9 billion and diluted earnings per share were $7.81 versus diluted earnings per share of $5.51 a year ago. 2021 adjusted net earnings were $26.2 billion and adjusted diluted earnings per share was $9.80, representing increases of 22.2% and 22%, respectively, versus full-year 2020. On an operational basis, adjusted diluted earnings per share increased by 20.2%. Beginning with Consumer Health, I will now comment on business segment sales performance for the fourth quarter, highlighting items that build upon the slides you have in front of you. Unless otherwise stated, percentages quoted represent the operational sales change in comparison to the fourth quarter of 2020 and therefore exclude the impact of currency translation.",
+    "start": 400.5,
+    "end": 462.76
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "While not part of the prepared remarks for today's call, we have provided additional commentary on our website for the full year 2021 sales by segment to assist you in updating your models. Worldwide consumer health sales totaled $3.7 billion and grew 1.8%, with growth in the U.S. Of 1.3% and 2.1% outside the U.S.",
+    "start": 463.40002,
+    "end": 488.06003
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Excluding the impact of acquisitions and divestitures, worldwide adjusted operational sales growth was 2.9%. Consumer health was negatively impacted by the 2020 additional shipping days worth approximately 400 basis points, which can be roughly applied to all franchises, as well as industry-wide external supply constraints, primarily due to raw material availability and labor shortages largely reflected in our skin health and beauty business, worth approximately 360 basis points. Adjusting for these items, solid results were primarily driven by above-market growth in OTC. E-commerce continues to have strong double-digit growth. Finally, when comparing to 2019, consumer health grew approximately 4% in the quarter.",
+    "start": 488.46002,
+    "end": 540.02
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "When adjusting for acquisition and divestitures, sales growth was closer to 5%. Over-the-counter medicines globally grew 15.8% due to increased incidence in U.S. Adult and pediatric fever and worldwide category recovery in cough, cold, and flu and digestive health. The U.S.",
+    "start": 540.34,
+    "end": 559.835
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Also saw share gains primarily in Tylenol and Motrin. Strength was seen across multiple areas in the portfolio, including analgesics, upper respiratory, digestive health, naturals, and anti-smoking aids. The skin health and beauty franchise declined 7.1% driven by external supply constraints primarily in Neutrogena and OGX and divestitures worth approximately 230 basis points, primarily due to Sedona, the salon-based portion of Doctor. Salabo and Asia Pacific.",
+    "start": 559.835,
+    "end": 595.13495
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Declines were partially offset by market recovery and e-commerce strength. Oral care declined globally 6.5% as compared to strong double-digit growth in the prior year, driven by the floss divestiture divestiture worth approximately 170 basis points and category declines in EMEA. Declines were partially offset by successful brand building and promotional campaigns in Asia Pacific. The baby care franchise declined 0.8%, with U.S.",
+    "start": 595.64,
+    "end": 625.97
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Declines of 7.5% and growth of 1.3% outside the U.S. Declines were driven by prior year retailer stocking and external supply constraints in the U.S, partially offset by e-commerce growth of Aveeno Baby and Asia Pacific. Wound care declined 6.4% primarily due to the divestiture of the professional tape business worth approximately 150 basis points, partially offset by strong performance of Band-Aid brand adhesive bandages in the U.S.",
+    "start": 625.97,
+    "end": 659.12
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Women's health grew 1.3%, driven by market recovery in Latin America. Moving on to our Pharmaceuticals segment. Worldwide pharmaceutical sales of $14.3 billion grew 17.9%, enabled by strength in all regions, with U.S.",
+    "start": 659.12,
+    "end": 678.125
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Sales increasing by 4.2% and OUS sales increasing by 36.9%. Worldwide sales included a $1.6 billion contribution from the COVID-19 vaccine. Excluding the net impact of acquisition and divestitures, worldwide growth was 18.6%. Our strong portfolio of products and commercial capabilities has enabled us to deliver the tenth consecutive full year of worldwide above-market adjusted operational growth. Our Immunology Therapeutic area delivered global sales growth of 7.1%, driven by strong performance of Tremfya and Stellara, offset by declines in REMICADE due to biosimilar competition.",
+    "start": 678.125,
+    "end": 723.73
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Tremfya was up 82.8% worldwide, with continued share growth and additional penetration into the psoriatic arthritis indication. US share increased nearly three points in both the psoriasis and psoriatic arthritis indications. ZILARA grew 5.1% worldwide, driven by strong share gains in Crohn's disease and ulcerative colitis, with increases of roughly four points and roughly six points, respectively, in the US. Current quarter growth was impacted by a negative prior period rebate adjustment and reserve adjustment recorded in Q4 2021 in the US, worth approximately 700 basis points on worldwide growth for the quarter versus the prior year. Our oncology portfolio delivered another robust quarter with worldwide growth of 12.3%.",
+    "start": 724.70496,
+    "end": 779.6
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "DARZALEX continued its double-digit performance with 33.4% growth in the quarter, driven by share gains, increased penetration of the subcutaneous formulation in the US and EU, and continuing launches globally. DARZALEX grew share across all lines of therapy, with nearly eight points of share growth in the US this quarter. EYLEA grew 61.3% worldwide, driven by strong share uptake, increased market penetration in the US, and new launches outside of the US. IMBRUVICA maintained its market leadership position, however declined 3.1% worldwide due to competitive pressures from novel oral agents. US decline was partially offset by growth in all regions outside of the US.",
+    "start": 780.635,
+    "end": 827.6
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Neuroscience grew 7.1% worldwide, driven by the paliperidone long-acting portfolio, posting market and share growth due to increased new patient starts, strong persistency globally, and the launch of INVEGA Hefyra in the quarter. The cardiovascular, metabolism, and other business declined 13.8% worldwide due to competitive pressures in Invokana and biosimilar competition for Procrit. Our pulmonary hypertension portfolio was roughly flat, driven by COVID-19 market constraints and generic entrants and other pulmonary hypertension, offset by U.S. Share uptake in both Opsummit and UpTravy.",
+    "start": 828.95996,
+    "end": 871.34503
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "I'll now turn your attention to the Medical Devices segment. Worldwide medical devices sales were $6.9 billion growing 5.3%. Excluding the net impact of acquisition and divestitures, primarily the divestiture of ASP, adjusted operational sales grew 5.6% worldwide. The medical devices market continued to be impacted by COVID-19, with the Omicron variant contributing to a softening of recovery trends in medical and surgical procedures, especially late in the quarter. Consistent with prior COVID-19 surges, impacts were more acute in areas deemed to be more deferrable in nature, including spine and knees.",
+    "start": 872.465,
+    "end": 917.18
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Comparing to 2019, medical devices grew about 4% on an adjusted operational basis. On a full-year basis, medical devices growth versus 2019 was just over 4.5%, building on the pre-COVID growth momentum. Interventional solutions continued to demonstrate strong performance, delivering another quarter of double-digit worldwide growth at 15.3%, driven by market recovery, successful penetration of new products, and commercial execution across both electrophysiology and Cernivis. Advanced Surgery grew 7.6% worldwide driven by market recovery, expansion into Tier II and III hospitals in China, and performance of newer products such as N Seal X1 and Energy, Echelon Plus and EndoCutters, and SurgiCel powder, and biosurgery. Monarch system orders in the fourth quarter marked the highest number of orders in any quarter since launch, More importantly, as a positive indicator of Monarch technology adoption and patient treatment regimens, we continue to see strong growth in the number of Monarch enabled bronchoscopy procedures, with total procedures since launch exceeding twelve thousand.",
+    "start": 917.58,
+    "end": 993.33
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "In fact, 2021 Monarch procedures more than doubled those performed in the prior year. General surgery grew 1.7% worldwide, led by wound closure, primarily due to market recovery coupled with innovation penetration. Inventory dynamics in the prior year negatively impacted wound closure U.S. Results by about 350 basis points and positively impacted results outside the U.S.",
+    "start": 993.73,
+    "end": 1022.49
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "By about 250 basis points. Worldwide orthopedics declined 0.7% versus prior year, reflecting the continued impact of COVID-19 on procedures. Worldwide trauma delivered growth of 2.0%, driven by continued market stabilization and the success of recently launched products, partially offset by competitive pressures in China. The positive impact on growth from prior year inventory contractions in China was primarily offset by the additional shipping days in 2020.",
+    "start": 1022.49,
+    "end": 1058.26
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Worldwide hips grew 2.7%, driven by continued strength from our portfolio including the ACTI Stem and technologies such as VELIS hip navigation, sustaining our leadership in the anterior approach, Growth in the outpatient surgery channel in the US and market recovery outside the US were additional contributors to growth. Worldwide knees was relatively flat with a decline of 4.2% in the US and growth of 6.5% outside the US. The US market was negatively impacted by COVID-19 and healthcare resource constraints on procedures. These impacts were partially offset by strong growth in the outpatient channel and positive momentum from recently launched products, including the Velis robotic assisted solution and our ATTUNE portfolio. Growth outside the US was driven by market recovery and success of products such as ATTUNE Revision.",
+    "start": 1059.545,
+    "end": 1119.14
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Lastly, in orthopedics, worldwide spine declined 9.4%, primarily driven by a deceleration in procedure volumes related to COVID-19 and health system resource constraints. Partially offsetting this decline are the positive impacts from the continued success of new products such as XPAC, Conduit, and Symphony, and prior-year inventory reductions in China contributing approximately 360 basis points to worldwide growth. Worldwide vision grew 11%. Contact lens and other grew 7.1% worldwide. US growth of 9.4% was driven by successful commercial campaigns and adoption of recently launched AccuVue OASIS multifocal for presbyopia.",
+    "start": 1119.925,
+    "end": 1167.41
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "US growth was impacted by inventory fluctuations in both the current and prior year, worth about 550 basis points. Growth outside the US of 5.8% was driven by market recovery coupled with strength of new product launches such as AccuView Divine Fresh. Surgical vision grew 22.1% globally, with both the US and OUS businesses growing double digits. These positive results were driven by market recovery and share gains from recent differentiated product launches across all surgical vision product lines, including Technis iHands and Technis Synergy intraocular lenses used in cataract surgery. Now regarding our consolidated statement of earnings for the fourth quarter of 2021, I'd like to now highlight a few noteworthy items that have changed on the statement of earnings compared to the same quarter last year.",
+    "start": 1167.81,
+    "end": 1222.3699
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "As reported earlier, our adjusted earnings per share of $2.13 reflects a reported increase of 14.5% and an operational increase of 17.2%. Cost of products sold leveraged by 270 basis points, primarily driven by favorable mix within the pharmaceutical business. A reduction in prior year COVID-19 related costs in the medical devices business, and favorable mix within the enterprise with a larger portion of sales from the pharmaceutical business. Selling, marketing, and administrative margins remained relatively flat, driven by increased brand marketing expense in the consumer health business, mostly offset by expense leveraging in the pharmaceutical business. We continued to invest in research and development at competitive levels, investing 19% of sales this quarter.",
+    "start": 1223.1699,
+    "end": 1275.09
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "This was higher than the fourth quarter of 2020 by 110 basis points, driven by portfolio progression in the pharmaceutical business and higher investment in the medical devices business. The other income and expense line is a net expense of $9 million in the fourth quarter of 2021 compared to net expense of $2.4 billion last year. This was driven by lower litigation expenses. Regarding taxes in the quarter, our effective tax rate increased to 2.1% compared to a benefit of 5.5% in the fourth quarter of 2020. This increase was primarily driven by the prior year tax benefit associated with litigation expenses, partially offset by one-time tax benefits in the fourth quarter of 2021.",
+    "start": 1275.49,
+    "end": 1325.2549
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Excluding special items, the effective tax rate was 10.4% versus 11.4% in the same period last year. I encourage you to review our upcoming 2021 10-K for additional details on specific tax matters. Lastly, I'll direct your attention to the boxed section of the slide, where we have also provided our income before tax, net earnings, and earnings per share adjusted to exclude the impact of intangible amortization expense and special items. Let's now look at adjusted income before tax by segment. In the fourth quarter of 2021, our adjusted income before tax for the enterprise as a percentage of sales increased from 24.9% to 25.6%, primarily driven by the COVID-19 recovery.",
+    "start": 1326.0549,
+    "end": 1377.3749
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "The following are the main drivers of adjusted income before tax by segment. Medical devices improved by 160 basis points, driven by recovery of prior year COVID-19 production-related slowdowns and related inventory impacts. Consumer health margins declined by 460 basis points, primarily driven by increased brand marketing expenses and inflationary pressure, partially offset by supply chain efficiencies. The improvement in pharmaceutical margins of 110 basis points was primarily driven by favorable product mix and selling, marketing, and administration leverage. This slide provides our full-year consolidated statement of earnings.",
+    "start": 1378.095,
+    "end": 1421.82
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "As reported today, our full-year 2021 adjusted earnings per share of $9.80 reflects a reported increase of 22% and an operational increase of 20.2%. The growth is primarily related to COVID-19 recovery realized predominantly in our medical devices business. Lastly, I would direct your attention to the boxed section of the slide, where we have also provided our income before tax, net earnings, and earnings per share adjusted to exclude the impact of intangible amortization expense and special items. Moving to the next slide. Our full-year 2021 adjusted income before tax for the enterprise improved by 170 basis points versus 2020.",
+    "start": 1422.06,
+    "end": 1468.655
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Looking at the adjusted pretax income by segment, Medical Devices improved by 870 basis points to 25.7%, primarily driven by recovery of prior year COVID-19 production-related slowdowns and related inventory impacts. Pharmaceutical margins declined by 150 basis points to 40.5%, primarily driven by R and D portfolio progression. Consumer health margins were flat at 23.8%, driven by increased brand marketing expense and inflationary pressure, partially offset by supply chain efficiencies. We continue to advance our strong pipeline of innovative medicines and products. This progress is supported by our commitment to investment in R and D that have increased $2.6 billion or 21% on a full-year basis.",
+    "start": 1469.135,
+    "end": 1522.9349
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "In the quarter, we received approval by the European Commission for the long-acting injectable antipsychotic therapy by AMLE for the maintenance treatment of schizophrenia in adult patients. This approval makes by AMLE the first twice-yearly treatment for adults living with schizophrenia, providing the longest available dosing interval for an antipsychotic medication to be approved in Europe. Additionally, Ribrovant received conditional marketing authorization in EMEA. Ribrovant, a bispecific therapy targeting both EGFR and c-Met, is the first treatment approved for patients with non-small cell lung cancer with EGFR exon twenty insertion mutations after failure of platinum-based therapy. Finally, we submitted a Biologics License Application to the U.S. FDA seeking approval of teclistamab for the treatment of patients with relapsed or refractory multiple myeloma as aligned with our strategy to expand treatment options for multiple myeloma patients. Teclistamab is an investigational, off-the-shelf, T-cell redirecting, bispecific antibody targeting both BCMA and CD3. Consistent with our disciplined approach to portfolio prioritization, we are discontinuing the SELECT Phase III study assessing the efficacy and safety of selexipag as an add-on to the standard of care therapy in patients with inoperable CTAP, as the study did not meet its primary endpoint. Medical Devices announced a strategic collaboration with Microsoft to further develop a secure and compliant digital ecosystem with a goal of connecting devices across the entire portfolio.",
+    "start": 1524.0549,
+    "end": 1630.605
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "This collaboration will help enhance the use of artificial intelligence and machine learning in order to generate insights leading to smarter, less invasive, and more personalized solutions across the entire patient care continuum. This concludes the sales and P and L highlights for Johnson and Johnson's fourth quarter and full-year 2021. I am now pleased to turn the call over to Joe Walk.",
+    "start": 1631.005,
+    "end": 1655.575
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Thank you, Jess, and thanks to everyone for joining us to discuss our fourth quarter and full-year 2021 results and our outlook for 2022. We continue to manage the implications of COVID-19 globally, but it is encouraging to see the resilience of our business, driven by the dedication of countless health care professionals and the 136,000 Johnson and Johnson colleagues around the world. Their collective commitment and focus on providing health care solutions enabled us to deliver another year of strong financial performance. Our Pharmaceuticals segment delivered a tenth consecutive year of above-market adjusted operational sales growth. Medical devices continued to manage through the ongoing impact of COVID-19 to experience a partial recovery, and consumer health grew competitively while navigating industry-wide supply constraints.",
+    "start": 1656.375,
+    "end": 1711.4099
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "All of this culminated in Johnson and Johnson posting adjusted operational sales growth of 12.8% and adjusted earnings per share growth of 22% for the year, while also investing in our business for the future. We are well positioned as we head into 2022. Before we recap our year-end cash position and guidance for 2022, I'd like to touch on the announcement we made in the fourth quarter regarding our intent to separate our consumer health business to create two market-leading companies. As independent companies, the new Johnson and Johnson and the new consumer health company will each be better positioned to exercise more focused strategic and capital decisions. We intend for each company to possess compelling financial profiles that reflect the strengths and opportunities of each business, enabling each company to be in a position to enhance the strong results that you've come to expect.",
+    "start": 1712.4551,
+    "end": 1771.1599
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "As far as where we stand in the process, we have established a very strong, largely separate team focused on advancing the separation, and the financial and operational work streams are well underway. As conveyed in November, the Board of Directors' intent is for the plan separation to occur through the capital markets, and there are multiple capital market separation pathways being considered. Depending on the pathway, there are different SEC requirements that must be adhered to. In order to preserve optionality on the various separation pathways, we cannot at this time disclose specific consumer health financial information not previously disclosed or that which is associated with the separation. As such, you can expect that consumer health, as well as the rest of our business, will be reported as it has been reported previously for the entirety of 2022.",
+    "start": 1772.905,
+    "end": 1830.3799
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "We can, however, provide a high-level timeline for some non-financial items which may be of interest. In the first half of 2022, we anticipate announcing key executive leadership appointments for the new consumer health company, with plans to provide the new company name and headquarters location around the middle of this year. In the second half of 2022, we plan to provide the updated path forward and applicable financial information, such as refined stand-up cost estimates and potential short-term dis-synergies. Finally, consistent with our previous communications, we expect to execute the separation in 2023. You have our ongoing commitment, working within the regulatory framework, to provide transparent updates for material decisions on a timely basis.",
+    "start": 1831.395,
+    "end": 1882.9899
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Let's now discuss our 2021 year-end cash position and future capital allocation priorities. We generated free cash flow for the year of nearly $20 billion At the end of 2021, we had approximately $32 billion of cash and marketable securities and approximately $34 billion of debt for a net debt position of $2 billion We are pleased that 2021 was another record year in terms of R and D investment at $14.7 billion a 21% increase over our previous all-time high recorded in 2020. We recognize that investment in innovation is critical to our future growth profile and remains a top priority from a capital allocation standpoint. Given that we are at our lowest levels of net debt in almost five years, progressing towards a net cash position, we anticipate leaning in on some of our other capital allocation priorities beyond internal R and D. This includes building upon the 59 consecutive years of annual dividend increases.",
+    "start": 1883.71,
+    "end": 1951.9648
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "It also includes, as Joaquin has mentioned in recent forums, utilizing our cash to complement the current portfolio with acquisitions that build upon our capabilities, address portfolio gaps, and play in higher-growth markets while yielding solid financial returns. We will assess opportunities of all sizes however, our preferred option is tuck-in deals, which typically offer greater value creation. It is also important to note that should we find the right opportunities, the consumer health separation work stream will not prevent us from forging ahead. And finally, with respect to capital allocation, modest share repurchases may be evaluated as part of our capital deployment actions. Let me provide a few comments regarding our guidance for full-year 2022, which encompasses expectations for our three business segments.",
+    "start": 1952.5249,
+    "end": 2008.4249
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "In our Pharmaceuticals business, we will continue to drive innovation and market-leading sales growth with continued expansion of existing brands such as Darzalex, Tremfya, Stellara, Erlita, and the recently launched Ribrovant for lung cancer. We are particularly excited about the anticipated FDA approval for Carvicti, our BCMA CAR T therapy for patients with relapsed/refractory multiple myeloma. We believe this medicine is best-in-class, showing unprecedented results in clinical trials. In our medical devices business, we expect COVID-19 and hospital staffing to continue to be a dynamic variable, likely more impactful in the first half of 2022 as we cycle through Omicron. Our 2022 guidance assumes continued medical devices market recovery, but it also assumes, as you have heard us say previously, enhanced competitiveness.",
+    "start": 2009.3049,
+    "end": 2069.57
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Almost all of our priority platforms are holding or gaining share based on third-quarter 2021 year-to-date information, illustrating the positive business momentum versus 2019 when only about 50% of our platforms were holding or gaining share. This improved market performance enables us to maximize the value of recently launched products. In consumer health, we are confident that our well-balanced portfolio positions us well. Consistent with current global macroeconomic trends, we are experiencing the impact of inflationary pressures, including higher input costs across our business and more significantly with respect to consumer health. These external challenges include availability and cost of certain commodities, labor and transportation.",
+    "start": 2070.13,
+    "end": 2118.9248
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Similar to competitors, we are instituting price increases across our consumer health portfolio in 2022, enabling us to remain competitive as we continue to deliver the products that consumers love and trust. So with that backdrop, let's get into the details for the full-year 2022 guidance for you to consider in updating your models. Starting with sales, we expect operational sales growth for the full year 2022 between 7.0% and 8.5%. This guidance is provided on a constant currency basis, reflecting how we manage our business performance. We estimate the negative impact from net acquisitions and divestitures to be negligible, and thus are comfortable with your models reflecting the same range as adjusted operational sales growth in the range of 7.0% to 8.5%, or $100.3 billion to $101.8 billion Our 2022 sales guidance includes approximately $3 billion from our COVID-19 vaccine.",
+    "start": 2120.12,
+    "end": 2190.6301
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "The majority of this volume is outside of the U.S. For low- and middle-income countries corresponding to previously signed advanced purchase agreements. As you know, we do not predict currency movement, but for context, utilizing the Euro's spot rate relative to the U.S.",
+    "start": 2191.425,
+    "end": 2208.1099
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Dollar as of last week at 1.14, there is an estimated negative impact of foreign currency translation of approximately 150 basis points, resulting in an estimated reported sales growth of between 5.5% and 7.0% or 6.2% at the midpoint compared to 2021, representing a range of $98.9 billion to $100.4 billion for 2022. As done in the past, I will provide a few qualitative comments related to quarterly phasing. Starting with consumer health, the supply constraints that were mentioned as part of Jess's commentary for the quarter will continue into 2022. We estimate that the majority of that impact will be experienced in the first half of the year, primarily in the first quarter and primarily in skin health/beauty. We therefore expect second-half performance to outperform the first half.",
+    "start": 2208.1099,
+    "end": 2269.43
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "In medical devices, we expect some COVID-19 headwinds and hospital staffing shortages to continue into 2022, but anticipate market recovery as global health systems treat new patients and work through procedure backlogs. Given this, we expect market recovery to improve as the year progresses and greater contribution from the new products launched in 2021 for an overall better second half. Finally, in pharmaceuticals, we anticipate our market-leading performance will be fairly stable throughout the year, with perhaps some modest adjustments for timing of events associated with alliance revenue or tenders. We are monitoring reports surfaced by large insurers that recent office visits are slightly down in both primary care and specialists. I'll continue to go through the items on our P and L, starting with operating margin.",
+    "start": 2270.39,
+    "end": 2327.88
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "We expect 2022 adjusted pretax operating margin to improve by approximately 50 basis points, driven by operating expense leverage, partially offset by continued inflationary pressures in cost of goods sold. Regarding other income and expense, the line on the P and L where we record royalty income, the return on assets and actuarial costs associated with certain employee benefit programs, as well as gains and losses related to the items such as investments by Johnson and Johnson Development Corp, litigation, and write-offs. We expect this to be between $1.2 billion and $1.4 billion for 2022, consistent with 2021 levels. Finally, we are comfortable with you modeling net interest expense of between $0 million and $100 million. We are also projecting a higher effective tax rate for 2022 in the range of 15.5% to 16.5% based on current assumptions for geographic mix and certain international tax legislation changes for research and development expenses in 2022. Considering all these factors, we are guiding adjusted earnings per share in the range of $10.60 to $10.80 per share on a constant currency basis, reflecting operational or constant currency growth of approximately 8.2% to 10.2% or 9.2% at the midpoint.",
+    "start": 2328.395,
+    "end": 2424.215
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "While not predicting the impact of currency movements, assuming recent exchange rates previously referenced, our reported adjusted operational earnings per share for the year would be negatively impacted by approximately $0.20 per share, resulting in adjusted reported earnings per share in a range of $10.40 to $10.60 or $10.50 at the midpoint, reflecting growth of 7.1% versus the prior year. We expect the company's COVID-19 vaccine to contribute approximately an incremental $0.20 to earnings per share in 2022. That concludes my prepared remarks. I am now thrilled to welcome Joaquin Duato to his first earnings call as the CEO of Johnson and Johnson. Joaquin, as a colleague who has worked alongside you for the past several years, it's clear that health care and providing good health for everyone, everywhere is not just your business, but a passion.",
+    "start": 2425.4949,
+    "end": 2487.5103
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "I am excited to welcome you in your new capacity and look forward to continuing to partner with you, the Executive Committee, and our colleagues across the globe in our mission to change the trajectory of health for humanity. Over to you, Joaquin.",
+    "start": 2487.9102,
+    "end": 2502.195
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you, Joe, and good morning, everyone. It is a pleasure to join you all for my first earnings announcement as CEO of Johnson and Johnson. We appreciate everyone tuning in today, and thank you for your interest in our company. Despite continued and evolving impact from COVID-19 globally, Johnson and Johnson delivered another strong year of sales and earnings growth. Full year Johnson and Johnson adjusted operational sales growth of 12.8% reflects the tenth consecutive year of adjusted operational above-market growth from pharmaceuticals, the ongoing positive growth momentum from medical devices, and continued competitive growth in consumer health.",
+    "start": 2502.835,
+    "end": 2549.1401
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "These strong results contribute to my confidence in our ability to achieve 2022 operational sales and earnings per share growth in the high single digits, with EPS growth that is higher than sales despite macroeconomic factors such as inflation. This coupled with our differentiated portfolio of pipeline innovation further strengthens my confidence in our long-term growth potential. In recent months, I have been busy meeting and listening to our customers, partners, and members of the Johnson and Johnson family around the world. As part of these conversations, I have thought about the underlying constant of our business, the secret ingredient to our success. It is our people, their dedication and their eagerness to ask the toughest questions and seek the boldest and bravest answers.",
+    "start": 2549.54,
+    "end": 2605.17
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "I'm deeply optimistic about our future, and I feel energized about the potential for our business. In the last two years, COVID-19 has changed global perceptions and attitudes towards health care. It has shown us that there is significant opportunity for change and improvement in order to better serve patients, customers, and communities around the world. The global response to the pandemic has also created a renewed sense of optimism about the power of science. Around the world, people are focused on personal and societal health in new and urgent ways.",
+    "start": 2605.81,
+    "end": 2644.985
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And importantly, people are demanding that companies deliver on their promises and act with purpose. Johnson and Johnson will continue to answer that call. We strongly believe the future ahead of us looks brighter and healthier for every patient and consumer. We are determined to achieve this future, grounded by the same mission and credo that always guided us. In 2022, we will run our business as we always have, with these segments, maximizing opportunities for each individually.",
+    "start": 2645.305,
+    "end": 2679.125
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And I would like to share a bit about our near-term priorities, as we focus on successfully creating a new independent consumer health company, as well as continuing to build on our individual global leadership in pharmaceuticals and medical devices, while enhancing synergies, which uniquely position us to accelerate growth and bring differentiated therapies that span both segments. At the end of last year, I laid out my top three priorities for a new era for Johnson and Johnson, and those priorities remain unchanged. These priorities are equally important for our success and include driving medical devices to become a best-in-class performer. We continue to focus on improved execution, as evidenced by market share momentum, as well as our improved cadence of innovation and organic and inorganic expansion into higher growth markets and market segments. We have eleven platforms in medical devices, which are over $1 billion. And as we have shared previously, we're gaining or holding share in almost all of this.",
+    "start": 2679.285,
+    "end": 2749.31
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "This includes building upon our global market-leading positions in areas like electrophysiology, biosurgery, and contact lenses, and gaining market share in areas where we have been more challenged, like surgical vision. The team has also launched over twenty new products during 2021, including the Velis robotic assisted solution in orthopedics, and two new interocular lenses in surgical vision. Next, delivering on our pharmaceutical business commitments and long-term growth goals. We are continuing to build upon our promising pharmaceutical pipeline, which we expect to continue to deliver above-market growth rates and are focused on our previously announced long-term goal of growing to a $60 billion segment by 2025. We are continuing to maximize the value of our existing medicines with thirteen marketed medicines across six therapeutic areas, each to exceed $1 billion in revenue by 2025.",
+    "start": 2749.71,
+    "end": 2813.6602
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We expect to file thirty-six significant line expansions for these thirteen products through 2025. Here, it is important to note that these expansions are largely de-risked because their products are in the market today, so there is good insight into their overall profiles. In addition, we expect fourteen novel therapy filings through 2025, each with the potential to exceed $1 billion in revenue, and five of these with the ability to exceed $5 billion. We remain confident in our ability to manage through the potential patent expiries, as we have done in the past, and continue to grow at above-market rates. And finally, ensuring the successful creation of the new consumer health company. In the coming year, we will take the steps necessary to be in a position to separate our consumer health business from our pharmaceutical and medical device businesses during 2023.",
+    "start": 2814.455,
+    "end": 2874.2952
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "This will advance more targeted business strategies, accelerate growth, and deliver improved health outcomes for both patients and consumers, which ultimately will deliver greater value to shareholders. Our consumer health business is competitive in terms of growth, and over the past few years has made significant progress improving the margin profile. And as we advance towards a successful new standalone consumer health company, we will continue to drive this business with the same focus we always have. Our best-in-class team is delivering science-backed innovation across OTC, skin health, and our specialty business, with a focus on digital, consumer-centric solutions, and a seamless end-to-end customer experience. As Joe noted, we continue to believe that a fit-for-purpose corporate structure and a dedicated capital allocation strategy will provide the consumer health business with the agility and flexibility to continue to grow its iconic portfolio of brands and innovate new products in the fast-paced consumer market.",
+    "start": 2874.615,
+    "end": 2944.355
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And we expect this new and independent company with nearly $15 billion in 2021 sales will continue to be a global leader in the consumer health industry. And the new Johnson and Johnson, at nearly $80 billion in sales in 2021, will continue to be the largest, most diversified health care company in the world, and will retain the benefits of scale, will enhance our ability to be more focused with our operations, making the new Johnson and Johnson poised to bring integrated and comprehensive care to patients through the use of new technology and innovative science. As we continue to focus on our three sectors today, we have no intention of sitting on the sidelines. Our strong financial position, along with the clear priorities we have for our business, position us well to deliver near-term financial expectations and invest for the long-term value creation. We'll have the flexibility to continue to invest in innovation and maintain our track record of growing our dividend, while aspiring to be bolder with strategic value-creating acquisitions that will enhance the new Johnson and Johnson in higher growth markets.",
+    "start": 2944.8801,
+    "end": 3021.295
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "At this critical time for health care and our global society, we understand the significant role we play, and we accept the responsibility and challenges of the future. I hope you will all join us as we step forward into this new era. Thank you. And with that, let me turn it back to Jess to open the Q and A.",
+    "start": 3022.1748,
+    "end": 3042.5151
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thank you, Joaquin. We will now move to the Q and A portion of the webcast. Rob, can you please provide instructions for those on the line wishing to ask a question?",
+    "start": 3042.995,
+    "end": 3053.0999
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you. Thank you for the question. As we commented, our strong financial performance in 2021 is enveloped in a very strong financial profile, giving us the latitude to manage both for the long term while meeting the short-term expectations of the financial community. As Joe commented, too, we are about to turn from a net debt to a net cash position for the first time in over four years. So we have the flexibility to continue to grow our dividend, be bolder in strategic acquisitions and enhance the new J and J position in higher growth markets.",
+    "start": 3096.635,
+    "end": 3141.51
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And if warranted, we also would consider share repurchase programs. I believe that these priorities position us well for the future. And I think it's important to consider that when we get into 2022, we'll continue to manage the business as a three sector one, The separation and the creation of the new consumer company, it's not going to slow us down of any priorities. So we continue to think about how we are going to opportunistically deploy cash for both organic and inorganic initiatives. And in other words, I wanted to make clear that if the right opportunities are there, both in medtech and in pharmaceuticals, the work stream of the separation help us back from forging ahead.",
+    "start": 3141.5898,
+    "end": 3196.4102
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "When it comes to pharmaceuticals, as you mentioned, we presented our outlook for the business in our November R and D review, and we explained to you that we were anticipating we are anticipating above-market growth rates reaching $60 billion by 2025, growing every single year there. So when we think about those results, it's important to remember that we do not factor there any future acquisitions or collaborations and that we are confident to reach those goals without inorganic activity. That said, one of the pillars of our success has been our agnostic view related to innovation and our desire to lean in for the new Johnson and Johnson for opportunities to build our current portfolio. And our current portfolio, both in pharma and medtech, remains there, and we need to look for that to enhance our growth profile. In fact, over the past five years, our investments in organic R and D and externally sourced innovation have been about equal.",
+    "start": 3199.9302,
+    "end": 3268.075
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We continue to look to opportunities to be able to enhance our pharmaceutical portfolio, and we have been very proficient in identifying opportunities that have a high probability of success very early on, as we have done, for example, with Legion. And also, we have been good at looking at post-proof-of-concept opportunities like we did with Momenta. In the future, we'll continue to look for all types of opportunities, early on post-proof-of-concept, and we also will look at other opportunities of larger in size that will have to fulfill a higher bar from a financial perspective given the higher operational complications that these opportunities may take. But yes, we are constantly looking at M and A as a key source of growth for our business. Our position in cash today makes us being more aggressive in that area, and we'll continue with our focus on tuck-in acquisitions, but not excluding if the situation is granted to look at medium-size also opportunities.",
+    "start": 3268.555,
+    "end": 3334.51
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "Yeah, Luis. Thanks for the question. This is Joe. I would just say, maybe to further elaborate on Joaquin's points, With respect to your question on valuations, it's really hard to say whether there's been a capitulation or a recognition that values have come down. I think we probably need to see a little bit longer period of that. I don't think things are out there necessarily on sale.",
+    "start": 3335.63,
+    "end": 3360.425
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "But I will say that it really just takes two parties to agree on a valuation that makes sense. And a lot of times the valuation is driven by the capabilities, the skills, the scientific expertise that we have that maybe that potential partner or acquired asset does not have at that time. So that's kind of the way we look at it. Again, I don't think there's a capitulation, but we are seeking to use some of the cash on the balance sheet in a very disciplined, responsible way, that compensates shareholders for the risk that we're bearing on their behalf where we can create great value.",
+    "start": 3360.5051,
+    "end": 3394.1
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thanks, Louis. Next question, Rob?",
+    "start": 3396.02,
+    "end": 3398.66
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Yeah, good morning, Larry. Thanks for the question and your interest. I would say it's somewhat a tale of two cities. If you look at surgical procedure volume in the fourth quarter, it eroded over the months of October, November, December. I would say it was roughly flat in the early part of the quarter relative to twenty nineteen, which we think is a more appropriate comparison, to down about five percent. The most pronounced area was clearly orthopedics, which is the most elective segment of our portfolio. However, there's probably some reason for optimism if you look at diagnostic volumes in the fourth quarter. So that averaged roughly, let's call it seven percent. It was a little bit stronger in October than it was in December, but still very positive relative to levels that were experienced in twenty nineteen.",
+    "start": 3432.2651,
+    "end": 3482.6099
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "So we think there is a backlog that is potentially building of diagnosed cases that have yet to be scheduled. That being said, as you've heard from a number of outlets at this point, it really is about the hospital staffing and being able to accommodate surgeries from that perspective. We are seeing reduced cases with respect to Omicron, and we think that will play favorably. The first couple weeks in January, and probably limiting this to a week, maybe two, saw little bit of a bleed over from what we experienced in December around surgical procedures. But I do think that's going to improve with each passing month and with each passing quarter as the year goes on.",
+    "start": 3482.6099,
+    "end": 3525.865
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And then as you heard from Joaquin as well as Jess, we are favorably positioned to capitalize on a much more stable market given our improved competitiveness from where we were just a few years ago. In addition to the enhanced pipeline, last year we introduced over twenty products, same expectation for this year as well. So once the market gets to be a little bit more stable, hopefully no more future variants, and hospital administrators who have done a great job through the pandemic continue to modify their plans to ensure appropriate staffing, we think we will be in a very good position to not only approach market growth, but hopefully exceed it.",
+    "start": 3526.32,
+    "end": 3567.86
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "I would continue building upon Joe's comment that the Omicron surge results, we anticipate that the markets will continue to improve as the year progresses. It is very difficult to predict when Omicron is going to peak, but we are beginning already to see cases decreasing in areas where the surge began, like, for example, in the U.K, and some regions in the U.S. Already nearing peak.",
+    "start": 3567.86,
+    "end": 3595.57
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "So while COVID-19 may temporarily delay necessary medical and surgical interventions, the vast majority of these procedures cannot be ignored completely. And at the same time, hospitals, as Joe was referring, are getting better at dealing with these situations. So while the path is not going to be linear, we expect an improvement as the year starts to go on. And the fundamentals of the medtech market remain intact with disease prevalence and the needs for surgery and change. So we believe we are optimistic about the value of the markets in the long term, and we are optimistic about our medtech business and its ongoing recovery and improvement in the overall competitive position.",
+    "start": 3595.57,
+    "end": 3642.25
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "So when we are facing 2022 on the medtech side, both from a market perspective and also from a Johnson and Johnson perspective, we look at it optimistically. And we think that the situation will clearly improve as Omicron surge resolves and the year progresses.",
+    "start": 3642.25,
+    "end": 3658.285
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thank you, Larry. Rob, next question, please.",
+    "start": 3659.565,
+    "end": 3662.205
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you, Joe. So overall, as I have commented in our Pharmaceutical Analyst Day and also in the different conferences I have participated, medtech, it's going to be a key priority for me in my tenure. I see medtech and pharmaceuticals being the core of the new Johnson and Johnson that, as Joe commented, will remain the largest and more diversified health company. So clearly, medtech, it's going to be a key area of focus for us in every aspect. When it comes to medtech and its market performance, I have to highlight that we have seen a very clear ongoing recovery in our medtech performance.",
+    "start": 3735.635,
+    "end": 3780.17
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We went from 1.5% growth in 2017 to nearly 4% in 2019, and we are ending the year at 4.6%. And when you adjust for the fifty-third week, we are in about 5%, too. So we are clearly improving our performance in the med tech space, driven by some market segments which are really delivering in a very strong way. For example, in Interventional, our growth ending the year was 15.3% or in Vision, our growth ending the year was 11%. So we have clearly outstanding performance there.",
+    "start": 3780.17,
+    "end": 3818.87
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And in most of the platforms that we participate, we are gaining share or maintaining share improving our position. It's difficult for me to bracket exactly what the growth is going to be and when it's going to happen, but our goal clearly is to make our med tech sector a best-in-class performer. So that's going to be a defining element of my tenure, and we are going to be working towards that. We are going to be improving our commercial execution, as we are doing today. We'll continue to invest in our organic pipeline that is delivering.",
+    "start": 3819.11,
+    "end": 3855.115
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We have had the highest level of innovation in our medtech business in 2021 ever. And our pipeline today has the highest value as measured by net present value that we have ever had. And also, we recognize that we need to do and we need to continue to be active in external innovation in order to be able to participate in markets where growth is occurring that we are not participating today or to build upon adjacencies in our existing businesses that are going to further our growth. So as in any business, when it comes to the resource allocation, we'll continue to drive our winners, and we'll try to efficiently manage the areas in which we are more challenged. And we'll continue to look for opportunities externally that will complement our portfolio and will enable us to enter into higher growth markets.",
+    "start": 3855.195,
+    "end": 3911.5151
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Overall, our past acquisitions suggest that we have been good in managing smaller deals and tuck-in deals, and that is our base case. But at the same time, we don't have an artificial ceiling in our deal size. We are always looking for any opportunity that exists in the marketplace. But as I said before, when I was commenting about pharmaceuticals, we do know that larger deals are much harder to make work, both financially and operationally, and they will always have a higher bar. So very important for us and for the new Johnson and Johnson, the focus in our medtech business and how much we are going to prioritize this area of our business.",
+    "start": 3911.915,
+    "end": 3956.4001
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thanks, Josh. Rob, next question, please.",
+    "start": 3958.015,
+    "end": 3960.655
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Yes. Thanks for the question, Chris. With respect to operating margins, I think the fifty basis points is probably something that is reasonable to expect this year given some of the inflationary pressures that we've outlined likely to be experienced in the first half of this year. That being said, given the size of our company, we do think we can always improve kind of the infrastructure, our operating model to find some leverage in the P and L. I won't commit to any to say it's each and every year.",
+    "start": 4024.38,
+    "end": 4055.54
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "I think that's going to be very much dependent upon the opportunities that are presented to us in any given year. And if we've got an opportunity to invest disproportionately in R and D on a particular asset, we will do that. And we just have to size up that opportunity. But I do think, you know, as a general rule, given the size of our company, that we should find some opportunity to operate where we can leverage. I would like to see us, as we separate the company, maybe be relabeled as more of a growth company, and therefore, we may reposition that, taking that top line growth and putting that back into the business. But as you can see, even in recent years, we've had, I would say, significant operating margin improvement, but we have not starved investment.",
+    "start": 4055.54,
+    "end": 4107.425
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "R and D was up over last year's record setting year by two point six billion dollars or twenty percent, as Jess mentioned. So we feel that we're finding that right balance, and we'll continue to do so moving forward.",
+    "start": 4107.985,
+    "end": 4120.5503
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you. And when it comes to your question, Chris, about M and A in the medtech business, our aspiration in medtech is to be the first or the second in the markets that we participate. And if we are in markets that if we are not in markets that are growing, we also have a path to get there, right? Recently, we have divested some of the businesses like diagnostics, stents, diabetes, where we came to the conclusion that it was difficult to get into this number one, number two position and that was better to sell that business in order to create value. So given the recent divestment activity, what I want to emphasize, and I have alluded at the outset, is that my priority now is to be more on the acquisitive side and to be more aggressive on the acquisition side, identifying products that complement our portfolio but play in higher growth markets or market segments that we are today.",
+    "start": 4121.915,
+    "end": 4184.3745
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "So that's the change in outlook that you are noticing.",
+    "start": 4184.375,
+    "end": 4187.5747
+  },
+  {
+    "speaker": "Joseph J. Wolk{BIO 19812977 <GO>}",
+    "text": "And Chris, my job will be to keep him disciplined, right? But at least he's",
+    "start": 4188.6147,
+    "end": 4191.815
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Wonderful. Thank you, Chris. Next question, Rob?",
+    "start": 4191.815,
+    "end": 4196.96
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Yes. So Matt, let me start with some of the inflationary pressures that we're seeing and how we're offsetting those. So in consumer, there's, I would say, select products within the portfolio. Think skin, health and beauty, as mentioned in the prepared remarks, where lubricants and things of that nature are in shorter supply. There are some, I'd say, probably increased labor costs with respect to third-party manufacturers, and we're obviously seeing heightened transportation costs.",
+    "start": 4510.1753,
+    "end": 4543.3447
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We are, like the competitors in the consumer space, offsetting some of those costs with select price increases in our portfolio, where we can still provide those trusted brands and products to people without really impacting the elasticity or the demand of those products overall. We think we can strike that right balance as others have. In medical devices, I would say it's around the labor input costs and some of the staffing related to COVID-19, I would say in the sense of overstaffing to some degree. But those are costs that are clearly managed. They're, much like pharmaceuticals, are not prices that we can increase.",
+    "start": 4543.425,
+    "end": 4586.59
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And in fact, the stellar performance that you saw in pharmaceuticals was the sixth consecutive year where we actually had negative price. So the growth that you see is more than one hundred percent of volume due to the innovation and the ability to address unmet medical needs. And with medical devices, most of those, specifically in the U.S, are contractual by nature, so there's limited opportunity there as well. So where we can, specifically in consumer, we're looking to pass some of those cost increases on.",
+    "start": 4586.75,
+    "end": 4618.6797
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "In other spots, we continue to have supply chain initiatives, manufacturing initiatives that have been in place really for a number of years as part of our overall cost management program.",
+    "start": 4620.125,
+    "end": 4631.165
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you. So going into medtech R and D and medtech innovation, let me start by the fact that during 2021, we launched over twenty significant products across each segment of the medical device business. Some examples of that, for example, in electrophysiology, we had a limited launch of our Qdote Micro in Europe. Qdote is a first-in-kind smart microcatheter, which is designed to deliver about two to three times the amount of energy, and at the same time, reduce the total patient exposure, and provided exposure to (inaudible) and reduced total procedure time, and that's helping us in driving our position in electrophysiology. In orthopedics, we continue our enhancements in orthopaedic knees, both with the differentiated next-generation Velis robotic assisted system.",
+    "start": 4632.02,
+    "end": 4694.4097
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And at the same time, we had the introduction in December of the ATTUNE cementless fixed bedding base. So these introductions are making us more competitive in the knee space, in the knee arena. In advanced surgery, we have some augmentations to our energy portfolio with our Enceal X1 curve jab tissue sealer. And in vision, we introduced our AccuView OSS multifocal contact lenses. And in surgical vision, our intraocular lenses, Technis A HANS and Technis Synergy.",
+    "start": 4694.65,
+    "end": 4732.825
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "So great innovation which is driving our better performance in market performance. When it comes to our pipeline, there are a number of exciting things coming up. For example, our next-generation diagnostic catheter in electrophysiology, and also a potential solution in pulse field ablation. So all these areas make us believe that we are going to remain extremely competitive in electrophysiology. We continue to prioritize the expansion of our bellies digital surgery, potentially into the hip space, and also foot and ankle solutions in orthopedics.",
+    "start": 4732.825,
+    "end": 4775.8794
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And specifically to your question on digital surgery, that's a very important area for us. We have a bold ambition there, and we are already making progress. The first launch was our Monarch robotic system. Our Monarch robotic system, it's enabling endoluminal bronchoscopies, and we have already launched it in the U.S, and it's progressing really well.",
+    "start": 4776.1997,
+    "end": 4807.4
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "And we are also studying our Monarch robotic system to deliver energy and also a payload of pharmaceuticals for being able to do local treatment of early lung cancer lesions. At the same time, we have also submitted a five ten expansion of Monarch for a potential treatment in kidney stones that will give us an expanded market in this area. I commented on our successful launch of our robotic system with VELIZ, And we recognize that we will have to continue to be committed to developing OTAVA and entering into the general surgery market with a highly competitive offering. And we are working through that as soon as possible. And we will provide updates as we progress.",
+    "start": 4807.48,
+    "end": 4860.56
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thank you, Matt. Rob, next question?",
+    "start": 4863.6,
+    "end": 4865.92
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you. Thank you. And as I have commented in the past occasion, Daniel, our preference is clearly both in medtech and in pharma, to look for earlier-stage deals or smaller tuck-in deals in which we can deploy our own capabilities in development, manufacturing and commercialization in order to create value. And that's where we have been successful, and we are always trying to look for opportunities in that context in market segments that are going to enable us to enter into higher growth areas or to complement through adjacencies our existing portfolio. So that is the way we have been creating value in a very significant way both in pharma and medtech.",
+    "start": 4946.55,
+    "end": 4993.445
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "While our past history always suggested smaller deals, as I said before, we don't have an artificial ceiling as far as deal size. It has to be something that has to be workable financially and in terms of value-creating for shareholders. And typically, larger deals are harder to make work, both financially and operationally. So that's where we make it more of an emphasis in areas where we have a higher chance of creating value. We are open to midsize and larger deals, and we have demonstrated that we have done that in the past, like we did, for example, with Actelion.",
+    "start": 4994.1646,
+    "end": 5037.4897
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "But we tend to prefer this small new molecule, new device that we can, as I said before, apply a lot of our scientific technology, regulatory expertise, and ultimately create these one billion dollars platforms that we have both in medtech and in pharmaceutical. So that's our preference. That's our strategy. But we always remain open to investigate any opportunity or possibility that may be out there. It just has a higher bar from a financial and operational perspective.",
+    "start": 5038.05,
+    "end": 5068.5195
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Thank you, Danielle. We have time for one last question. Rob, last question, please?",
+    "start": 5070.235,
+    "end": 5075.5947
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Chris, and you know, let me take this opportunity also to express how optimistic we are about the future of pharmaceuticals, and we expressed in our pharmaceutical R and D Day that we are very confident of being able to continue to deliver about market growth through the Stellara patent expiration in the U.S. We are also very confident on the strength that we are showing also in immunology, for example, with Tremfya growing eighty eight percent and really exceeding expectations. So we are very confident on the potential of Tremfya, which has exceeded already two billion dollars in sales and has gained share both in psoriasis and psoriatic arthritis. So very, very positive we are going to provide you updates as time goes by.",
+    "start": 5118.8896,
+    "end": 5183.185
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We'll see how things play out with the competitor that it's going to go patent. We'll also learn from our experience with Remigade, which will be a very good proxy for us. And have no doubt, as we approach twenty twenty three, we'll be able to provide you a more accurate guidance of what we expect. We as I said, we remain optimistic that we'll be able to deliver growth during the stellarapatin expiration every single year.",
+    "start": 5183.585,
+    "end": 5212.765
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you, Chris.",
+    "start": 5218.365,
+    "end": 5219.085
+  },
+  {
+    "speaker": "Jessica Moore",
+    "text": "Yeah. Thank you, Chris. And thanks to everyone for your questions and your continued interest in our company. We apologize to those we couldn't get to because of time, but don't hesitate to reach out to the Investor Relations team as needed. I will now turn the call back to Joaquin for some closing remarks.",
+    "start": 5219.085,
+    "end": 5236.21
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "Thank you, everyone, and thank you for your comments and questions today. And this is my first call as CEO of Johnson and Johnson. Every day as I get into this job, I am reminded of the importance of our mission to continue to work in changing the trajectory of health for humanity. And it's a purpose that energizes everyone at Johnson and Johnson, the one hundred and forty thousand employees of Johnson and Johnson. We are proud of our performance in twenty twenty one and believe we are extremely well positioned for twenty twenty two.",
+    "start": 5236.715,
+    "end": 5271.485
+  },
+  {
+    "speaker": "Joaquin Duato",
+    "text": "We look forward to keep you informed throughout the year. And until then, please be well. Thank you very much.",
+    "start": 5271.565,
+    "end": 5277.8853
+  }
+]

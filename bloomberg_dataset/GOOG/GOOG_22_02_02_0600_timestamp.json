@@ -1,0 +1,446 @@
+[
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thank you. Good afternoon, everyone, and welcome to Alphabet's Fourth Quarter 2021 Earnings Conference Call. With us today are Sundar Pichai, Philipp Schindler, and Ruth Porat. Now I'll quickly cover the Safe Harbor. Some of the statements that we make today regarding our business, operations, and financial performance, including the effect of the COVID-19 pandemic on those areas, may be considered forward-looking, and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+    "start": 63.01,
+    "end": 93.17
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "For more information, please refer to the risk factors discussed in our Forms 10-K and 10-Q filed with the SEC, including our upcoming Form 10-K filing for the year ended December 31, 2021. During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP to GAAP measures is included in today's press release, which is distributed and available to the public through our Investor Relations website located at abc.xyz/investor. And now, I'll turn the call over to Sundar.",
+    "start": 93.89,
+    "end": 128.03
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thank you, Jim, and Happy New Year, everyone. The last few months have been challenging for communities everywhere because of Omicron. I'm grateful for the frontline healthcare workers who are helping us through it and glad to see signs that this wave is receding in many parts of the world. Whether it's helping people find a COVID testing center, learn a new skill or launch a new business, our mission to organize the world's information and make it universally accessible and useful is as relevant today as it's ever been. In 2022, we will stay focused on evolving our knowledge and information products, including Search, Maps and YouTube to be even more helpful.",
+    "start": 129.735,
+    "end": 170.605
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Investments in AI will be key and will continue to make improvements to conversational interfaces like the Assistant. I will begin by touching on a few highlights from Q4. Our new AI models are helping to create information experiences that are truly conversational, multimodal, and personal. For example, Multitask Unified Model, or MUMP for short, has improved searches for vaccine information. And soon, we'll introduce new ways to search with images and words simultaneously.",
+    "start": 171.54001,
+    "end": 203.19002
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "In October, we introduced a new AI architecture called Pathways. AI models are typically trained to do only one thing. With Pathways, a single model can be trained to do thousands, even millions of things. From MUM to Pathways to BERT and more, these deep AI investments are helping us lead in search quality. They are also powering innovations beyond search.",
+    "start": 203.99,
+    "end": 228.315
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "For example, DeepMind's protein folding system, AlphaFold, was recently recognized by Nature and Science Magazine as a defining breakthrough. To illustrate the scale of the team's achievement, it took scientists more than fifty years to figure out the structure of one hundred and fifty thousand proteins. The DeepMind team has now expanded that number to one million and they think they will get to more than one hundred million this year. Philip will talk in great detail about our advertising business, which also benefits from our investments in AI. It's been a very strong quarter for Ads.",
+    "start": 228.955,
+    "end": 264.63
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Our teams have helped millions of businesses of all sizes and launched dozens of important features to help them get the most out of their online marketing spend. These businesses are the backbone of our global economy and the heart of our community, so helping them thrive is more important than ever. We are also seeing exciting momentum at YouTube. YouTube Shorts continues to drive significant engagement. We just hit five trillion all time views and have over fifteen billion views each day globally.",
+    "start": 264.87,
+    "end": 296.8
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "This is helping our creator community reach newer and bigger audiences. In fact, more people are creating content on YouTube than ever before. Last year, the number of YouTube channels that made at least ten thousand dollars in revenue was up more than forty percent year over year and we are continuing to improve support for artists and creators. More creators than ever are earning money from our non ads products like Super Chat and channel memberships and the Shorts Fund is now available in more than one hundred countries. Another big area for investment is combining the best of AI software and hardware to deliver helpful experiences across our family of devices.",
+    "start": 297.36,
+    "end": 338.995
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "In Q4, we set an all time quarterly sales record for Pixel. This came in spite of an extremely challenging supply chain environment. The response to Pixel six from our customers and carrier partners was incredibly positive. And AI is making Pixel even more helpful. As one example, Live Translate detects whether a chat message is in a different language and automatically translates it in up to forty eight languages.",
+    "start": 339.715,
+    "end": 367.26498
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We are also focused on ensuring devices across the Android and Chrome ecosystems work well together. For example, at CES last month, we announced that we are working with Acer, HP and Intel to bring great experiences to their devices. Also announced at CES, the new Ripple Open Standard will broaden the capabilities of RADAR technology, opening the door for new products and services. Another priority is ensuring our products and services are private, secure and safe. To that end, I'll note our new privacy sandbox proposal called Topics API.",
+    "start": 368.54498,
+    "end": 404.22003
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We think it will be a big improvement for protecting user privacy, while also ensuring businesses are able to thrive online. We'll begin testing this year and look forward to feedback from the industry. Next on to cloud. It's been a big year, so let me go a bit deeper this quarter. In Q4, cloud revenue grew forty five percent year over year to five point five billion dollars Alphabet's backlog increased more than seventy percent to fifty one billion dollars most of which is attributed to Google Cloud.",
+    "start": 404.94,
+    "end": 437.36
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "This growth comes from many leading businesses, including Albertsons and LVMH digital natives, including Box and Spotify and public sector agencies, including the Commonwealth of Massachusetts, the Defense Innovation Unit and the USDA. Our sales force, which we have more than tripled since twenty nineteen, delivered strong results across geographies, products and industries and we continue to invest. For the full year twenty twenty one compared with the full year twenty twenty, we saw over eighty percent growth in total deal volume for Google Cloud Platform and over sixty five percent growth in the number of deals over one billion dollars Our partner ecosystem is helping accelerate our growth. For the full year twenty twenty one compared with the full year twenty twenty, The number of customers spending more than one million dollars through the marketplace increased by 6x. Customer spend through channel partners on GCP more than doubled and the number active certifications within our top global systems integrators more than doubled as well.",
+    "start": 438.465,
+    "end": 507.01
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Our product leadership continues with more than two thousand new cloud products and feature releases in the last year. These were in four categories: First, our data cloud and our AIML platform is helping organizations like Cartier, Grupo Roche and Mitsubishi Heavy Industries understand and use their data intelligently across multiple clouds. Our fast, secure data sharing capability helps the National Cancer Institute advance breast cancer research. Our unified data lake and data warehouse, which brings together unstructured and structured data, helps TELUS and Tyson Futz improve their understanding of customers and our AIML platform helps CN deliver better customer experiences. Second, our open multi infrastructure enables customers like BBVA and Wells Fargo to run machine critical systems on our cloud.",
+    "start": 508.61,
+    "end": 564.46
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We believe new auto scaling in our Kubernetes engine, which allows customers to run fifteen thousand node clusters, outscales the competition by up to ten times. Our Edge cloud helps us grow in telecommunications, driving partnerships in Q4 with Indosat, Oridu, Hutchison, Telenor and Verizon. They joined existing customers and partners including Ericsson, Reliance Jio and Nokia. Third, our cybersecurity products are helping product organizations like ANZ Bank, Meditech and Wayfair as a trusted cloud provider. VirusTotal helps protect organizations from software supply chain vulnerabilities.",
+    "start": 565.1,
+    "end": 606.66504
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Chronicle and Security Command Center help organizations detect and protect themselves from cyber threats and our fraud prevention and identity verification solutions are protecting over five million websites. Finally, our secure communication and collaboration platform, Google Workspace, is helping public sector organizations like USAID and the USAFO's research laboratory as well as global brands including Colgate and Roche adopt secure hybrid work. Our new Work Safer program launched in Q4 provides the highest security for e mail, meetings and documents by bringing together Google Workspace, Titan Security Keys, Zero Trust and other security advances. Customers come to Google Cloud because of our expertise in bringing enterprises and consumer ecosystems closer together. One example is Shopify.",
+    "start": 607.305,
+    "end": 664.135
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "From Black Friday through Cyber Monday, Shopify reported six point three billion dollars in global sales by forty seven million customers, all safely transacted on Google Cloud. Importantly, we have made progress operating twenty fourseven on carbon free energy and continue to provide customers the cleanest cloud in the industry. On to our other bets. October marked the one year anniversary of our Waymo One fully autonomous commercial ride hailing service in Arizona. In San Francisco, hundreds of riders are using Waymo One as part of our Trusted Tester program with many more on the waiting list.",
+    "start": 664.775,
+    "end": 703.08
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And Waymo Via continues delivering freight into the Southwest U. S. Developing partnerships with key industry players. Before I close, I want to say how proud I am of Google's work to help the economic recovery around the world. Nearly a third of small business owners say that without digital tools, they would have had to close their business during the pandemic.",
+    "start": 703.56,
+    "end": 725.655
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Digital skills have also been a lifeline to help people find jobs and grow their careers. Since twenty fourteen, we have provided digital skills training to over ninety million people around the world. In the months and years ahead, technology will help unleash new opportunities globally, especially as hundreds of millions more people come online in places including Southeast Asia and Africa. With that, let me thank Googlers everywhere for their contributions this quarter and throughout twenty twenty one. Over to you, Philip.",
+    "start": 726.78,
+    "end": 760.39996
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Thanks, Sundar. Hi, everyone. It's great to be here today. We're pleased with the growth in Google services revenues in the fourth quarter. Year on year performance was driven by broad based strength in advertiser spend and strong consumer online activity.",
+    "start": 762.07996,
+    "end": 774.40497
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In the fourth quarter, retail was again by far the largest contributor to year on year growth of our ads business. Finance, media and entertainment and travel were also strong contributors. Before we dive into some of the trends that drove this quarter's performance, let's zoom out for a second. Quarter after quarter, for the last twenty some months, we said that the world is in flux, that the recovery is uneven, that uncertainty is the new normal. Q4 proved no different.",
+    "start": 774.88495,
+    "end": 799.565
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "What we know for certain though is that businesses are the lifeblood of a thriving economy, and our role in helping them remains more important than ever. AI continues to power our ability to help via insights, new tools and automation. In fact, the same cutting edge AI that's advancing our understanding of everything from search to protein folding is also driving innovation across our ads products. Let's start with automation. It's become a key differentiator for businesses in navigating complexity and efficiently reaching customers wherever they are in a privacy first way.",
+    "start": 799.565,
+    "end": 831.335
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Our newest campaign, Performance Max, went global in November and has been quickly embraced by advertisers. It brings the best of Google Ads, AI and automation together to let brands promote their businesses across all Google services from a single campaign, helping them drive more online sales, leads and or foot traffic. It's also an example of how we are radically simplifying our products and making them easier for customers to use. French children's wear retailer Petit Bertaux tested Pmax over a three week period, return on ad spend jumped thirty five percent, click through rates increased forty percent and valuable insights were gleaned into what messaging resonated most. We've also evolved our insights tools.",
+    "start": 831.815,
+    "end": 871.83
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Four new features launched in Q4, including demand forecasts, which uses ML to help businesses predict forward looking trends and better understand what goods to stock and what services to offer when. Whether it's insights, automation or new features, our work to help businesses more easily connect with their customers has been nonstop. On top of the one hundred plus enhancements made to our ads products every quarter, we have launched two hundred plus features and tools since March twenty twenty. A recent example, we made it easier for businesses to claim and verify their business profile on Google Search and Maps and respond to customer messages directly in search. In Germany, completed business profiles receive an average of over five times more calls versus those that aren't.",
+    "start": 872.07,
+    "end": 915.10504
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "For an SMB, that can be really meaningful. Let's transition to retail, where we had a terrific quarter. Since the beginning of the pandemic, we have seen ongoing shifts in consumer spending patterns. Pre COVID, each year, we saw increased spikes in demand between Black Friday and Cyber Monday. What's interesting is that in twenty twenty and again in twenty twenty one, we actually saw shoppers start shopping earlier and spending more throughout the quarter.",
+    "start": 915.10504,
+    "end": 939.33496
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In Q4, we also saw apparel lead year over year retail query growth with hobbies and leisure close second. I've said it before, I'll say it again. The future of retail is omnichannel. And we continue to invest in new features and next gen experiences so merchants and shoppers can benefit. Global searches for gift shops near me jumped sixty percent year over year in October, with searches for gifts near me up seventy percent in Google Maps.",
+    "start": 939.415,
+    "end": 966.605
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "People increasingly want to know what's available nearby before they get to the store. Our new in stock filter helps with just that. Shoppers can find local stores that carry the products they want right from search, like a new tennis record or that last minute birthday gift. Showing in store availability helps businesses attract local customers, and they've caught on. One in four local offers across shopping and Google dot com are taking advantage of our curbside pickup badge.",
+    "start": 966.765,
+    "end": 994.055
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "People also want deals. They are looking for value. For shoppers, we made it possible to browse and discover the hottest deals from major moments like Black Friday and Cyber Monday on search. For merchants, we made it even easier to list promotions via automated imports from third party integrations like Shopify and WooCommerce. Moving inventory, attracting new customers and building brand loyalty during the holidays and beyond got a lot easier.",
+    "start": 994.615,
+    "end": 1018.855
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In Q4, the number of merchants using promo features jumped two eighty percent year over year. Retailers are also turning to us to help them transform and accelerate growth. Take Warby Parker, who drove a thirty two percent year over year increase in its Q3 sales by not only opening stores and expanding its contact lens business but also by tapping into Google across surfaces. Omnichannel bidding, smart shopping campaigns and an expanded presence in maps to promote in store eye exams contributed to Warby's success. And it's since launched its first ever brand awareness campaign on YouTube, which brings me to YouTube, where our commerce opportunity remains really exciting.",
+    "start": 1019.01495,
+    "end": 1059.1399
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We're making it easier for viewers to buy what they see and simpler for advertisers to drive action with innovative solutions like product feeds and video action campaigns and emerging formats like live commerce. Backcountry dot com generated a twelve:one return on ad spend with product feeds in twenty twenty one and plans to double its investment in twenty twenty two, while Samsung, Walmart and Verizon partnered with creators to host shoppable holiday live stream events in the U. S. As for our brand business, momentum remains strong. We continue to make inroads in unlocking TV brand budgets, and we're still in the early innings of what's possible with Connected TV.",
+    "start": 1059.22,
+    "end": 1097.3699
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Let's take a minute to double click into the full funnel trend I talked about last quarter. YouTube's ability to drive both massive reach and action is becoming more clear to more advertisers. In a recent study, Doctor advertisers who added YouTube branding formats not only drove increased reach but also averaged nine percent more conversions. At the same time, we see more brand advertisers adding action, like Nike Korea, which saw higher conversion rates and drove fifty percent plus incremental reach by adding video action. Another huge focus for us is continuing to deliver for our partners and key ecosystems, all while delighting users.",
+    "start": 1097.85,
+    "end": 1133.9249
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Our expanded partnership with Snap to deliver a first of its kind quick tap to snap feature is a great example. On Pixel 4a with five gs or newer Pixel phones, users can Snapchat directly from their lock screen, making Pixel the fastest phone to make a Snap. Then across our Pixel and AR teams, we are working with the NBA to create exciting, immersive experiences for fans using three d and AR technology. And the delighting doesn't stop there. With Adobe, we are collaborating on a multiyear journey to bring Photoshop, Illustrator and its other flagship products to the web, a testament to the web as a first class platform for creativity and productivity.",
+    "start": 1134.6449,
+    "end": 1172.265
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "As we close out another extraordinary and challenging year, I want to express deep gratitude to our customers and partners for their trust and collaboration. Our success is only possible because of their success. I also want to say a gigantic thank you to our product, engineering, partnerships, sales and many support teams for their outstanding work and unwavering commitment to helping our users, customers and partners. Ruth, over to you.",
+    "start": 1173.49,
+    "end": 1201.1299
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Thank you, Philip. We are very pleased with our performance in the fourth quarter and for the full year, which reflected broad based strength in advertiser spend and strong consumer online activity as well as substantial ongoing revenue growth from Google Cloud. My comments will be on year over year comparisons for the fourth quarter unless I state otherwise. We will start with results at the alphabet level followed by segment results and conclude with our outlook. For the fourth quarter, our consolidated revenues were seventy five point three billion dollars up thirty two percent or up thirty three percent in constant currency, rounding out a strong year.",
+    "start": 1201.5299,
+    "end": 1239.98
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Our total cost of revenues was thirty three billion dollars up twenty six percent, primarily driven by other cost of revenues, which was nineteen point six billion dollars up twenty five percent. The biggest factors here were first, content acquisition costs, primarily driven by costs for YouTube's advertising supported content, followed by costs for subscription content second, hardware costs and third, costs associated with data centers and other operations, including depreciation, which were offset in part by the impact of the change in useful lives made at the beginning of twenty twenty one. Operating expenses were twenty point five billion dollars up thirty five percent. In terms of the three component parts of OpEx, first, the increase in R and D expenses was driven primarily by headcount growth. Second, the growth in sales and marketing expenses was driven primarily by increased spending on ads and promo for the twenty twenty one holiday season in contrast to the sizable pullback in the fourth quarter of twenty twenty.",
+    "start": 1240.3,
+    "end": 1306.705
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Finally, the increase in G and A reflects the impact of charges relating to legal matters as well as charitable contributions. Operating income was twenty one point nine billion dollars up forty percent and our operating margin was twenty nine percent. Other income and expense was two point five billion dollars which primarily reflects unrealized gains in the value of investments in equity securities. Net income was twenty point six billion dollars We continue to generate strong free cash flow with eighteen point six billion dollars in the quarter and sixty seven billion dollars in twenty twenty one. We ended the year with one hundred and forty billion dollars in cash and marketable securities.",
+    "start": 1307.6649,
+    "end": 1347.64
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "We also repurchased a total of fifty billion dollars of our shares in twenty twenty one. Let me now turn to our segment financial results. Starting with our Google Services segment. Total Google Services revenues were sixty nine point four billion dollars up thirty one percent. Google Search and other advertising revenues of forty three point three billion dollars in the quarter were up thirty six percent with broad based strength across our business, led again by strong growth in retail.",
+    "start": 1347.88,
+    "end": 1379.52
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "YouTube advertising revenues of eight point six billion dollars were up twenty five percent, reflecting strength in both direct response and brand advertising. The deceleration in the growth rate versus the third quarter of twenty twenty one was driven primarily by lapping a strong recovery in brand in the fourth quarter of twenty twenty. Network advertising revenues of nine point three billion dollars were up twenty six percent driven by AdMob. Other revenues were eight point two billion dollars up twenty two percent driven primarily by growth in hardware, which benefited from the successful launch of the Pixel six and Pixel six Pro as well as the addition of Fitbit revenues, followed by YouTube non advertising revenues. In terms of Google services cost, TAC was thirteen point four billion dollars up twenty eight percent.",
+    "start": 1380.16,
+    "end": 1432.22
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Google services operating income was twenty six billion dollars up thirty six percent and the operating margin was thirty seven percent. Turning to the Google Cloud segment. Revenues were five point five billion dollars for the fourth quarter, up forty five percent. GCP's revenue growth was again greater than Cloud's and that reflects significant growth in both infrastructure and platform services. Strong revenue growth in Google Workspace was driven by solid growth in both seats and average revenue per seat.",
+    "start": 1432.46,
+    "end": 1464.7
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Google Cloud had an operating loss of eight ninety million dollars As to our Other Bets, for the full year twenty twenty one, revenues were seven fifty three million dollars The operating loss was five point three billion dollars for the full year twenty twenty one versus an operating loss of four point five billion dollars in twenty twenty. Let me close with some comments on our outlook. We are nearly two years into a global pandemic that has brought unprecedented change and uncertainty in the macro environment. Throughout these difficult times, Googlers have remained focused on delivering helpful services for users and partners as well as on driving innovation for long term growth. In terms of outlook by segment for Google services, we are very pleased with our year on year revenue growth in Q4 and for the full year twenty twenty one, which continued to be driven by broad based advertiser strength and strong consumer online activity.",
+    "start": 1465.1,
+    "end": 1523.8401
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "The year on year growth rate also reflected a benefit from lapping COVID related weakness in twenty twenty, which obviously will not be a factor in twenty twenty two. Within other revenues, we are pleased with the momentum from Pixel six and Pixel six Pro reflected in our hardware revenues in the fourth quarter. As a reminder, hardware revenues in twenty twenty one also reflected the acquisition of Fitbit, which we lapped a couple of weeks ago. With respect to Play, the underlying consumer spend and engagement trends remained healthy in the fourth quarter. That being said, in twenty twenty two, Google Play's contribution to revenue growth will reflect the fee changes we started to implement in the third quarter of twenty twenty one.",
+    "start": 1524.5549,
+    "end": 1571.5299
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "In terms of investment levels within Google services, we are focused investing meaningfully in the many opportunities we see for growth. Turning to Google Cloud, twenty twenty one represented another year of substantial growth. Our investments in our go to market organization, product innovation and partner ecosystem have been paying off as we help customers with their digital transformation. You can see that Google Cloud revenues increased by forty seven percent for the full year twenty twenty one compared to twenty twenty, with GCP revenues continuing to grow at a faster rate than cloud overall. While cloud operating loss and operating margin improved in twenty twenty one, we plan to continue to invest aggressively in cloud given the sizable market opportunity we see.",
+    "start": 1572.1699,
+    "end": 1619.815
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "We do remain focused on the longer term path to profitability and over time operating loss and operating margin should benefit from increased scale. At the Alphabet level, in the first quarter, based on current spot rates, we expect the foreign exchange impact on reported revenues to be a headwind. With respect to Alphabet headcount, we added nearly six thousand five hundred people in the fourth quarter and the majority of hires were for technical roles. We continue to attract great talent and expect a strong pace of hiring in twenty twenty two across Alphabet. Turning to CapEx.",
+    "start": 1620.215,
+    "end": 1658.1
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "The results in the fourth quarter primarily reflect ongoing investment in our technical infrastructure, most notably in servers, to support ongoing growth in both Google services and Google Cloud. We also increased the pace of investment in fit outs and ground up construction of office facilities. In twenty twenty two, we expect a meaningful increase in CapEx. In technical infrastructure, servers will again be the largest driver of spend. With respect to office facilities, after fairly muted CapEx over the past two years, we are reaccelerating investment in fit outs and ground up construction.",
+    "start": 1658.1799,
+    "end": 1696.95
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Recently, you have also seen us pursue real estate acquisitions where they make sense. For example, last month, we announced plans to purchase for one billion dollars a previously leased headquarters building in London. And in the first quarter, we have completed the two point one billion dollars purchase of a New York office building that we announced in the third quarter of twenty twenty one. Thank you. And now Sundar, Philip and I will take your questions.",
+    "start": 1697.99,
+    "end": 1723.47
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thanks. Look, anytime there is innovation, I find it exciting, and I think it is something we want to support the best we can. The web has always evolved and it's going to continue to evolve and, you know, and as Google, we have benefited tremendously from open source technologies and so, do plan to contribute there. There's several areas of interest. AR is a big one.",
+    "start": 1779.93,
+    "end": 1808.85
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "The computing layer, we've been investing there for a long time and will continue to play a role. And it's something both, not just at the computing layer, the services layer, be it Maps, YouTube, Google Meet, etcetera, I think will contribute a lot. On Web3, we are definitely looking at block chain and such an interesting and powerful technology with broad applications, so much broader again than any one application. So, as a company, we are looking at how we might contribute to the ecosystem and add value. Just one example, our cloud team is looking at how they can support our customers' needs in building, transacting, storing value and deploying new products on blockchain based platforms.",
+    "start": 1809.17,
+    "end": 1851.855
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "So, we'll definitely be watching the space closely and supporting it where we can. Overall, I think technology will continue to evolve and innovate and we want to be pro innovation and approach it that way.",
+    "start": 1851.855,
+    "end": 1866.9498
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "On YouTube, look, one of the YouTube from day one, it's been very focused on making sure, we can support creators well. It's been a big part. And even recently, I mentioned in my remarks earlier, about the growth we are seeing, not just in ads, but beyond ads with, Super Chat channel memberships and so on. Susan mentioned in her creative letter that, while early, they'll be taking a look at NFTE and so on, with a view towards making sure the user experience works, but there is value. We are constantly thinking about how we can support and do more for creators.",
+    "start": 1960.775,
+    "end": 2004.225
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "So, that's going to be an integral part. I think all the commerce experiences we are thinking about in YouTube is a whole additional layer of opportunity. And, again, it's another area where it all feels very early to me. We are seeing tremendous traction in YouTube across, newer areas, be it podcasts, gaming, learning, sports. And so across all these areas, we'll kind of take a vertical specific look and see how we can support creators better.",
+    "start": 2004.8201,
+    "end": 2034.24
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Yes. Thank you so much for your question. Look, consumers now have a lot of different ways to access information and more than they have ever had before. And search is just one of them. But we are constantly trying to innovate and improve the experience for both users and advertisers over the long term.",
+    "start": 2139.5952,
+    "end": 2154.37
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And as I have discussed previously, I can share some of the questions we actually ask ourselves to give you a sense of how we think about the opportunity. So the first one obviously, are we the best place users turn when they need information or want to discover and be inspired, So things like queries and discover. And we are focused on providing better and more comprehensive answers to more types of questions and we need to obviously deliver high quality relevant info for all types of queries, including ones where they may be looking for specific brand or product or just look for an inspiration. And how people search is changing and it needs to become more multimodal, more conversational. So what does that mean for ads, for example?",
+    "start": 2154.37,
+    "end": 2191.6301
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "So getting user experience right across commercial queries is essential way beyond obviously the area that you mentioned. And there is a lot of innovation that goes into this. The second part is really are we providing the most relevant ads when and where consumers are. And we only want to show ads when they are helpful to people on eighty percent of the searches actually we show no top ads and most of the ads that you see are on searches with commercial intent. And yes, we are for those with commercial interest, the question is really how do we provide the best answer in a way that's meaningful to users and where advertisers actually have something relevant to offer.",
+    "start": 2191.95,
+    "end": 2228.675
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And then the last, the third point is really the questions around and this goes again for the vertical you mentioned, but for many, many beyond. Are we delivering the most conversions for advertisers at the best ROI? And there is a lot of intelligence in our auction to deliver great ROI for advertisers, but there is always more we can do. And we are delivering or are we delivering the most relevant users by leveraging our users' signals? Are we building the best creatives by combining advertisers' assets in ways that make it compelling for user?",
+    "start": 2228.675,
+    "end": 2256.8298
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Have we predicted the value of the user for that advertiser so we can help appropriately bid for each search with a unique user and query combinations we need? Can we fully measure what users do after they click on ads from buying something to making phone calls to downloading apps and all across devices? So those are a lot of different things how we think about the runway ahead.",
+    "start": 2257.595,
+    "end": 2278.5403
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Maybe quickly on YouTube and Commerce. Look, one thing I would say is across both search, YouTube and other there's a lot of common infrastructure that's getting done, right. So, this is focused on merchants, onboarding merchants and all the back end, so that we can have the broadest and the most comprehensive inventory available. And there, our partnership with other e commerce platforms is a basic foundational layer we are putting in. And specifically on YouTube, while pretty early, there's a lot of pilots underway.",
+    "start": 2279.4202,
+    "end": 2313.09
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Just we have introduced a creative tagging pilot program, so that viewers get a choice to browse, learn and shop products featured in the favorite videos, piloted shopping live streams with brands like Walmart and Target and more broadly, including product feeds more globally in video action campaigns. So, is a lot more to do. Super early also on testing how shopping can be integrated with Shorts. And so, again, early, but I find the opportunity space here, pretty broad and it's exciting. Okay.",
+    "start": 2313.57,
+    "end": 2346.43
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "On the first part, we obviously are investing deeply in AI R and D across both Google AI and DeepMind. And so, and then we take that and apply it across the company, but particularly in the context of search. And so, that's what underlies BERT, MUM, pathways and Lambda to power conversational experiences. And so, when I look at the tip of three about as to where the research on the AI side is progressing, it's progressing at an incredibly rapid pace. We are committed to leading there.",
+    "start": 2401.29,
+    "end": 2442.145
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "And then, we have real good interfaces between the AI teams and our core product areas, product area teams, including search to kind of productize this. So, primarily, I think you're going to continue to see us lead in search quality. I just find the world of information is only continuing to grow, and it's getting increasingly multimodal in nature, just like we took the leap from text to images, thinking through video, audio, incorporating it and then providing it back to users regardless of whether they are typing, speaking or looking at something, wanting an answer. You know, that's the journey between AI and search and we'll continue doing that.",
+    "start": 2442.145,
+    "end": 2483.67
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Yes, thank you. Look, I said earlier that travel was a contributor to our year on year ads growth in Q4. And we were encouraged by the performance we saw throughout much of the quarter, but we found that user behavior tends to reflect what's going on in the world. And demand really continues to vary based on location and type of activity, and this has been more pronounced in light of Omicron. We've seen changes in traveler search behavior as preferences have evolved.",
+    "start": 2583.8699,
+    "end": 2609.0452
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Searches for outdoor destinations like beaches, parks and camping have increased, while searches for museums, for example, have declined. Overall, I think it's fair to say that travel has generally been sensitive to outbreaks and that there's still unevenness that makes it too soon to say what trends are here to stay and which pre pandemic habits are coming back. That said, as people think about where they want to go next, are coming to us to help them navigate a patchwork of information. In fact, from the end of August to the end of October, searches for travel rules were up over six times globally year over year. And we have launched a ton of new features to make it easier for people to understand changing travel restrictions and requirements.",
+    "start": 2609.0452,
+    "end": 2647.96
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And similarly for travel partners, we have pivoted our product strategy in big ways to help whether it is with Flight Demand Explorer and Travel Insights to help partners predict demand over making it free for hotel and travel companies and now tour and activity operators to list their booking links. And I am sure you also sustainability news in October, new info on CO2 and Google Flights, eco friendly hotels, eco friendly routes and maps. So lots of important work is being done here actually to help our users and businesses drive more sustainable choices and just overall help our travel partners and the industry at large.",
+    "start": 2648.2,
+    "end": 2682.19
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "So I can take the one for Sundar. So the Chrome team has been really focused and working independently on Privacy Sandbox, which you all know is our initiative to build privacy preserving on device technologies that will power the future of digital advertising and obviously as a result of free and open web. And just last week, we announced our news Privacy Sandbox proposal called Topics and Topics was informed by our own learnings plus widespread, let me call it community feedback from our earlier flock trials and will now actually replace our flock proposal. I urge you all to read last week's blog for the details. But basically, the Topics API will allow advertisers to show relevant ads to people based on their interests, inferred from the websites they visit all in a more private way for users.",
+    "start": 2779.315,
+    "end": 2823.08
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And from an advertiser perspective, which is a big part of your question, it's obviously way too early to share more because we're just opening this up to the world. We expect to make it available for testing by the end of Q1, but we're really focused on designing for both parties from an advertiser and the privacy point of view and are committed to making sure goals are met on both sides. On the second one, the Connected TV opportunity, streaming in the living room has exploded. We've seen it firsthand. Connected TV is our fastest growing screen, and we think there's a ton of runway ahead.",
+    "start": 2823.24,
+    "end": 2855.905
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Brands are getting the best of all worlds. The precision of digital with the scale of linear and a lot more relevance. They can personalize ads at scale and use video ad sequencing to tell powerful stories. And we've recently added action to the mix. Video action campaigns were upgraded in October to automatically include CTV inventory, which means users get a more helpful viewing experience and brands get to drive more online sales and or leads.",
+    "start": 2856.225,
+    "end": 2879.8298
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And just think about it like the traditional TV screen, dead screen that viewers have essentially stared at for decades is now starting to come alive with the ability to drive conversions and it's pretty cool. Measurement is also obviously a key component to success here and we want to make sure that advertisers can fully measure their YouTube CTV video investments across YouTube and YouTube TV for an accurate view of true incremental reach and frequency and so on. And in the U. S, advertisers actually can do this now via Comscore and Nielsen. So all in all, we are excited by the opportunities ahead with Connected TV.",
+    "start": 2880.5151,
+    "end": 2911.965
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "So two things. On the on AI and advertising, I'll after I answer the second part, pass it to Philip to give more details. But definitely, again, the overarching thing is the same AI advancements, we want to make it simpler for advertisers to run campaigns and there is a lot that goes behind it to drive that simplicity. And Philip can give a bit more details there. On your question about congressional antitrust bills, As a company, we have always been constructive in how we have approached, and we are open to sensible updated regulations.",
+    "start": 3048.4102,
+    "end": 3092.065
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "It's important that technology is beneficial to society. And so, for example, there are many areas where there is widespread agreement. We have, called for privacy regulations, particularly at the federal level, updating protections for children and so on. On some of the current proposals, they quite don't address those issues. There are areas, where we are genuinely concerned, that they could break a wide range of popular services we offer to our users, all the work we do to make them, make our products safe, private, secure, etcetera, and in some cases can hurt American competitiveness by disadvantaging solely U.",
+    "start": 3092.4648,
+    "end": 3137.845
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "S. Companies. So, broadly, when we think about building many features, do we have to think on each feature? We ship three thousand features in search alone every year. How do we make sure that complies with all the regulation?",
+    "start": 3137.845,
+    "end": 3155.58
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Where do we proactively need approvals and so on? So, those all can have unintended consequences. We are very worried about the impact on small business and local retailers as well as their customers as well. Having said that, we are committed to approaching it constructively. We always want to engage and do things in a way that's beneficial for society.",
+    "start": 3155.58,
+    "end": 3176.795
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We cover Performance Max, we talked about it, we talked about Insights page. In Search, I would say we see an emergence of a real, let's call it, a better together story fueled by machine learning and automation. Advertisers are leaning more into automation using responsive search ads to create and select the best performing creatives, matching with more relevant search queries using broad match keywords, setting optimized bids with auction time signals via smart bidding. So those are a few examples.",
+    "start": 3188.21,
+    "end": 3219.7402
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We're using more AI to help advertisers measure their results and bid intelligently with data driven attribution, for example, which uses very advanced ML to more accurately understand how each marketing touch point actually contributed to a conversion, all obviously while respecting user privacy, broad match keywords are a big part of this. We have responsive ads on display and discovery. They use text image and video assets from advertisers and predict the best combination of assets to show in any size or format on Google properties or the display network. Yes, so I think AI and ML will only get better and so will our tools. And we are helping advertisers lean into automation and identify new opportunities as a central part really of their recovery and growth strategies.",
+    "start": 3220.2202,
+    "end": 3261.615
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thanks, Steven. Great question. And I think that trend is going to continue. You mentioned, obviously, payments, and definitely, it's informed our payment strategy globally. In general, we are trying to think deeper about these newer markets, both it really lines up with our mission of building a more equitable Internet for everyone.",
+    "start": 3312.825,
+    "end": 3337.11
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "A couple of the things we have done recently, a year ago, we announced a ten billion dollars Google for India digitization fund. And it's a reflection of our confidence in the future of India, its digital economy, our desire to build products there, which we think will help us globally. And last year, in October twenty twenty one, we announced a plan to invest one billion dollars in Africa, again, with the goal of supporting entrepreneurs, helping businesses with their digital transformation and beginning to build products in Africa for African users, which I think will help us take learnings outside. I already see it, you know, when I look at YouTube in India, some of the commerce ideas we talked about earlier, you may see us first stride in India first, because we can get quicker feedback, very dynamic, youthful population. And so, you know, we'll do it there and then roll it out globally.",
+    "start": 3338.9849,
+    "end": 3398.225
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thanks, everyone, for joining us today. We look forward to speaking with you again on our first quarter twenty twenty two call. Thank you, and have a good evening.",
+    "start": 3413.0698,
+    "end": 3421.23
+  }
+]

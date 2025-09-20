@@ -1,0 +1,401 @@
+Q3 2024 Earnings Call
+Company Participants
+Christopher Edmonds, President, Fixed Income & Data Services
+Jeffrey Sprecher, Chair & Chief Executive Officer
+Katia Gonzalez, Manager of Investor Relations
+Stuart Williams, Chief Operating Officer
+Warren Gardiner, Chief Financial Officer
+Other Participants
+Alex Kramm, UBS
+Alexander Blostein, Goldman Sachs
+Benjamin Budish, Barclays
+Christopher Allen, Citi
+Craig Siegenthaler, Bank of America
+Daniel Fannon, Jefferies
+Kenneth Worthington, JPMorgan Securities
+Simon Finch, Redburn Atlantic
+Presentation
+Operator
+Hello, everyone, and welcome to the ICE Third Quarter 2024 Earnings Conference Call and Webcast. My name's Lydia and I'll be your operator today. After the prepared remarks, there will be an opportunity for you to ask questions. (Operator Instructions)
+
+I'll now hand you over to Katia Gonzalez, Manager of Investor Relations, to begin. Please go ahead.
+
+Katia Gonzalez{BIO 23106830 <GO>}
+Good morning.
+
+ICE's third quarter 2024 earnings release and presentation can be found in the Investor section of ice.com. These items can be archived, and our call will be available for replay.
+
+Today's call may contain forward-looking statements. These statements, which we undertake no obligation to update, represent our current judgment and are subject to risks, assumptions, and uncertainties. For a description of the risks that could cause our results to differ materially from those described in forward-looking statements, please refer to our 2023 Form 10-K, 2024 third quarter Form 10-Q, and other filings with the SEC.
+
+In our earnings supplement, we refer to certain non-GAAP measures. We believe our non-GAAP measures are more reflective of our cash operations and core business performance. You'll find a reconciliation to the covalent GAAP terms in the earnings materials.
+
+When used on this call, net revenue refers to revenue net of transaction-based expenses, and adjusted earnings refers to adjusted diluted earnings per share. Throughout this presentation, unless otherwise indicated, references to revenue growth are on a constant currency basis. Please see the explanatory notes on the second page of the earnings supplement for additional details regarding the definition of certain items.
+
+With us on the call today are Jeff Sprecher, Chair and CEO; Warren Gardiner, Chief Financial Officer; Stuart Williams, Chief Operating Officer; Lynn Martin, President of the NYSE; and Chris Edmonds, President of Fixed Income & Data Services.
+
+I'll now turn the call over to Jeff.
+
+Jeffrey Sprecher{BIO 3310847 <GO>}
+Thank you, Katia. Good morning, everyone, and thank you for joining us.
+
+Ben Jackson is not able to join today's call as he's recovering from successful knee surgery. Our Chief Operating Officer, Stuart Williams, is in the room with us today. Ben plans to be back in a few days' time.
+
+Let's start by turning our call over to Warren.
+
+Warren Gardiner{BIO 18036655 <GO>}
+Thanks, Jeff. Good morning, everyone, and thank you for joining us today.
+
+I'll begin on Slide 4 with a summary of our record third-quarter results.
+
+Third-quarter net revenues totaled a record $2.3 billion, including record transaction revenues of $1.1 billion and record recurring revenues of $1.2 billion. Pro forma for the acquisition of Black Knight, total revenue increased by 7% versus last year and is up 6% through the first three quarters of 2024. Third-quarter adjusted operating expenses totaled $960 million, up 1% year-over-year on a pro forma basis. As a result of this strong performance; adjusted pro forma operating income increased by 12% versus the prior year, reaching a record $1.4 billion, with adjusted earnings per share totaling a record $1.55.
+
+Moving to the balance sheet.
+
+We reduced debt outstanding by approximately $600 million during the quarter, ending the period with adjusted leverage of approximately 3.5x EBITDA.
+
+Before I move to our segment results, I will note a few guidance items. As we look to the fourth quarter, we expect OTC and other revenue to be in the range of $75 million to $80 million. As the third quarter benefited from several items we do not anticipate we'll repeat.
+
+In addition, and similar to last year, in light of the strong performance in our cash equities business, where revenues are up 15% year-to-date, we are providing customers with a regulatory fee holiday, which we expect will reduce OTC and other revenues by $15 million to $20 million in the fourth quarter.
+
+Shifting to expenses. We expect fourth quarter adjusted operating expenses to be in the range of $977 million to $987 million, including approximately $10 million to $15 million of items that we also do not expect will repeat.
+
+Lastly, full-year CapEx is now expected to be in the range of $700 million to $740 million, largely driven by key data center investments originally planned for 2025. We expect these investments will yield expense efficiencies upon project completion in 2026.
+
+Now let's move to Slide 5, where I'll provide an overview of the performance of our exchange segment.
+
+Third quarter net revenues totaled a record $1.3 billion, up 12% year-over-year. Record transaction revenues of $890 million, were up 17%, driven by a 34% increase in our interest rate business and record energy revenues, which grew 23% year-over-year. This strong energy performance was on top of 42% growth in last year's third quarter, and included a 16% increase in our oil complex, 24% growth in global natural gas revenues, and 60% growth in our environmental business.
+
+In addition, towards the end of October, open interest is up 23% year-over-year, including 32% growth in global interest rates and 26% growth in our energy markets.
+
+Shifting to recurring revenues, which include our exchange data services and our NYSE listings business, revenue totaled $364 million, which included a few million dollars related to auto recoveries.
+
+Underpinning growth in our recurring revenues was our broader exchange data services, which was once again led by the continued expansion of our global energy and environmental network. In our listings business, while less than half of global IPOs have met the standards to list so far in 2024, the NYSE has helped to raise $14 billion in new proceeds, welcoming 43 new operating companies, representing 7 of the top 10 IPOs and 8 of the top 10 performing IPOs year-to-date. In addition, NYSE continued its leadership on transfers, welcoming 10 operating companies year-to-date.
+
+Turning now to Slide 6, I'll discuss our Fixed Income & Data Services segment.
+
+Third quarter revenues totaled a record $586 million, including transaction revenues of $125 million. On a year-over-year basis, growth in munis, corporates, as well as CDS clearing activity was offset by lower treasury trading at ICE bonds, and slightly lower member interest revenues. Record recurring revenues totaled $461 million and grew by 6% year-over-year.
+
+In our fixed income data & analytics business, revenues also increased by 6% year-over-year to a record $295 million, driven by growth in pricing and reference data and nearly 30% growth in our index business, which benefited from both rising markets and fund flows into ETFs that track ICE indices. Importantly, ETF AUM tracking ICE indices ended the third quarter at a record $674 [ph] billion.
+
+Other data and network services revenues increased by 5% in the third quarter. Growth was driven by our ICE global network, as recent data center investments have come online, growth in our consolidated feeds business, and continued strength in our desktop solutions, driven in part by adoption of our energy desktop by both commercial customers and traders. These are just a few examples of investments we have made, following our 2015 acquisition of IDC to continuously increase and enhance the content on our network, as well as our underlying technology to drive growth.
+
+Please flip to Slide 7, where I'll discuss our mortgage technology results.
+
+Third quarter revenues totaled $509 million. Recurring revenues totaled $387 million. Recurring revenues declined year-over-year. As expected, they stabilized relative to the second quarter, driven by an improvement in Data & Analytics and offset by the semi-annual removal of retired loans on our servicing platform, as well as lower minimums on Encompass.
+
+Similar to the last several quarters, while the majority of Encompass customers renewed at higher minimums, we also had customers renew at lower minimums. Importantly, lower minimums at renewal are also paired with a higher price per closed loan or transaction fee, a dynamic that will provide more material tailwind to revenues as the origination market normalizes.
+
+Transaction revenues totaled $122 million, up slightly year-over-year and relative to the second quarter, driven by revenue related to Encompass closed loans and applications, as well as an increase in MERS registrations.
+
+Looking at the fourth quarter, we expect total IMT revenues to be between $495 million and $505 million, with the delta relative to the third quarter, largely driven by purchase market seasonality and related transaction revenue.
+
+While mortgage origination volumes appear to have stabilized and seem likely to trend around these levels in the near term, we will continue to invest in developing new products, enhancing our technology and our existing product suite, as well as expanding our network, all of which will further position our end-to-end platform to generate growth when market conditions normalize.
+
+In summary, we delivered record third quarter results, including record revenues, operating income, and adjusted EPS, building upon our record first half results and representing the best year-to-date performance in our company's history. As we look to the balance of the year, we remain focused on meeting the needs of our customers; continue to drive growth and creating value for our shareholders.
+
+I'll be happy to take your questions during Q&A, but for now, I'll hand it over to Stuart.
+
+Stuart Williams{BIO 20333158 <GO>}
+Thank you, Warren, and thank you all for joining us this morning.
+
+Please turn to Slide 8. For over two decades, we've worked closely with our customers to develop a network of diverse, liquid, and globally interconnected energy markets. This network provides the critical feedback loop required to solve near-term supply and demand imbalances, and the long-term price signals needed to efficiently allocate capital investment to meet forward-looking demand.
+
+Today, our customers across the globe leverage our markets to help balance the demands of energy security, affordability, and sustainability while allocating the capital necessary to meet rising energy demands critical to economic growth and managing the risks associated with a complex geopolitical environment.
+
+The breadth and depth of our global platform, not only drove another record quarter across our energy complex, but importantly, it positions us to capture secular tailwinds, including the globalization of natural gas and the clean energy transition, trends we began investing in over a decade ago.
+
+Through constant reinvention and innovation, Brent has firmly established itself as the global benchmark for crude oil, pricing roughly three-quarters of the world's internationally traded crude, and from which prices are discovered in the U.S. Gulf Coast via ICE's Midland WTI Futures markets, and in the Middle East and Asia via ICE Murban and Dubai futures markets.
+
+Reflecting this dynamic, volume in our global oil complex increased 17% year-over-year. This strong performance includes records across Brent WTI; Midland WTI; and Murban, and contributed to record oil revenues, which grew 16% in the quarter. These strong trends have continued into October, with record total oil open interest up 28%, and Brent options up 86% year-over-year.
+
+These critical pricing relationships extend to refined oil products, where ICE's low sulfur gas oil markets similarly anchors price discovery for refined products globally, with markets such as ICE's Heating Oil futures, and ICE Singapore Gas Oil reflecting regional dynamics in the U.S. and Asia, respectively.
+
+We continue to see strong growth across refined products, with gas oil open interest up 63% year-over-year, supporting double-digit growth across the refined products complex, including growth in cleaner fuels such as ICE's global marine fuel and biofuel markets.
+
+Today, cleaner energy sources, including global natural gas and environmental markets, account for roughly 45% of our energy revenues, up from one-third a decade ago, and have grown 21% on average over the past five years, including 34% growth year-to-date. This strong performance has been a key contributor to the 13% average growth rate in our energy platform over that timeframe, including 29% growth year-to-date.
+
+The globalization of natural gas through liquefied natural gas or LNG, has created virtual pipelines across oceans, removing the dependency on fixed pipeline infrastructure and storage. This, together with the ongoing liberalization of the natural gas market and buyers increasingly favoring short-term contracts and spot market procurement, has put the more natural gas in motion over longer distances with a greater number of touchpoints along the value chain from production to consumption, creating a truly global commodity.
+
+Furthermore, given its abundance, lower emissions, and lower switching costs, we expect natural gas to continue to benefit from increasing energy demands, particularly in the developing world, and the ongoing focus on decarbonization.
+
+Since the year 2000, energy consumption in non-OECD countries has more than doubled, with much of this growth coming in the form of coal. Last year, global coal consumption hit an all-time high, primarily supported by Asia, where coal still accounts for nearly 50% of the region's energy supply.
+
+According to statistics, published by the Energy Institute, the coal switching opportunity in Asia alone represents more energy than the total energy consumption in North America across all primary energy sources.
+
+In addition, the power demands of accelerating innovation, including artificial intelligence, are expected to require significant new generation capacity, boosting demand for natural gas. These factors have caused markets across Europe, Asia, and North America to become increasingly interconnected, accelerating demand for deep, liquid, and global risk management tools.
+
+This evolution has driven the development of new trading relationships, as illustrated by record participation in our natural gas portfolio in the third quarter. This has been accompanied by volume and revenue growth, with each growing double-digits on average over the past five years, including 34% and 32% growth year-to-date, respectively.
+
+In addition, open interest trends remain strong through October, up 27% year-over-year, including a 51% increase in our TTF complex, a 53% increase in our Asian JKM market, and a 24% increase in our North American gas business.
+
+As the Brent of natural gas, our Title Transfer Facility Benchmark, or TTF, continues to be relied upon by an increasing number of market participants, with market participation growing 15% on average over the past five years. In the third quarter, volumes in our TTF complex increased 16%, year-over-year, driving revenue growth of 19% versus 2023.
+
+In Asia, underpinned by surging economic growth and a focus towards cleaner forms of energy. Our Japan-Korea Market or JKM, continues to reach important milestones, setting records across key liquidity indicators in the third quarter, including participation, volume, and open interest. Importantly, the extent to which global gas markets are interconnected was once again reinforced by JKM execution patterns, with over 60% of JKM volumes executed via the JKM-TTF spread.
+
+In North America, market participants seeking to manage exposure to U.S. natural gas pricing dynamics continue to gravitate towards ICE's Henry Hub contracts for the liquidity ICE offers in longer-dated tenors, along with the linkage to our exclusive regional basis markets, which span 70 trading hubs across North America. In the third quarter, volume in our North American gas complex increased 39% year-over-year.
+
+Finally, with Canada expected to significantly ramp up its LNG export capacity from 2025, increased exports from the West Coast of North America to Asia should add a further dimension to the supply equation. ICE's Calgary-based natural gas exchange, or ICE NGX, has operated in the Alberta natural gas and electricity futures market for 30 years, developing the AECO Hub into one of North America's most liquid spot and forward energy markets.
+
+ICE offers liquid markets in TTF, JKM, Henry Hub, and the North American basis markets, such as AECO, offering a broad range of natural gas benchmarks with trading hubs across Europe, Asia, and North America. As the global landscape of LNG exports, geopolitical forces, and shifts towards cleaner energy all continue to evolve, we see these dynamics continuing to favor our growing global gas complex well into the future.
+
+As policy discussions on how best to deliver global sustainability objectives continue to evolve, our liquid and transparent environmental markets, first launched almost two decades ago, continue to see growth, providing transparent, market-based pricing for both positive and negative externalities. Here, we have seen the number of active market participants grow double-digits on average over the past five years, including record participation in the third quarter, up 14% year-over-year. At the same time, our North American environmental complex reached record volumes in the quarter, increasing 70% versus prior year.
+
+While volumes in our European emission allowance futures and options increased 45%, this strong performance has contributed to the 49% growth in our environmental revenues year-to-date, including 60% growth in the third quarter.
+
+In summary, as the confluence of increasing energy demand, evolving supply chains, and the energy transition continues to introduce new complexities, uncertainties, and volatility into energy markets, our global environmental markets, alongside our global gas, oil, coal, and power markets, provide the critical price transparency and risk management tools that will enable participants to navigate this multi-layered and non-linear transition.
+
+Before I hand over to Jeff, I wanted to briefly touch on our interest rate markets, which hit record volume during the quarter, increasing 50% year-over-year. A mixed inflation picture, low unemployment, weaker economic data and ongoing geopolitical uncertainty continue to drive demand for interest rate risk management. ICE's liquid multi-currency, short-term interest rate complex includes the key benchmark, Euribor, SONIA and SARON markets used to manage short-term interest rate risk in Euros, Pound Sterling and Swiss francs respectively.
+
+As the benchmark for managing short-term Euro interest rate risk, ICE's Euribor volume increased 47% year-over-year in the third quarter, with open interest up 15% in October. The latest addition to ICE's multi-currency STIR complex, the Euro Short-Term Rate or ESTR continues to break records across all liquidity metrics, including open interest, hitting a record 681,000 contracts during October.
+
+ICE's SONIA market, the benchmark for managing UK interest rate risk traded a record 14 million contracts in September, contributing to 53% growth year-to-date. Trends towards the end of October remain robust, with open interest up 71%.
+
+ICE also hosts the Gilt Futures market, the benchmark for the UK government bond yield curve, where volume is up 30% year to date, including 42% growth in the third quarter, with open interest up 92% year-over-year.
+
+The disparity between the expected relative paths for the central banks has been a consistent theme over the last year. This has been beneficial for our rates franchise, both in terms of volume and open interest, and looks set to continue as our customers rely on the deep liquidity and capital efficiencies at ICE.
+
+With that, I'll hand it over to Jeff.
+
+Jeffrey Sprecher{BIO 3310847 <GO>}
+Thank you, Stuart.
+
+Please now turn to Slide 9. Operating marketplaces with strong network effects is a core expertise at ICE. Today, we do so across an array of asset classes, geographies, and customer types. In the U.S. home mortgage market, we're following the proven playbook that we've applied across other asset classes.
+
+We're leveraging leading technology, mission critical data, and our network expertise to build innovative solutions that improve workflow efficiencies and connect market participants to one another. With a touchpoint to nearly every market participant in the U.S. mortgage space, we have connectivity to a customer base in need of the automation that our digital network provides for.
+
+September marked our one-year anniversary since we closed on the acquisition of Black Knight, so I thought it would be appropriate to give you an update on how this company and its technologies have been integrated into our network. By adding Black Knight's servicing technology, with its over 100 servicing clients and robust data and analytics to our network, ICE assembled a true life-of-loan offering that spans from the point of consumer acquisition all the way through to the secondary capital markets. We organized once disparate assets into a unified network that communicates seamlessly from end to end. The construction of a mortgage can begin with our industry-leading customer engagement suite.
+
+We brought together Ellie Mae's Velocify and Consumer Connect platforms and married them to Black Knight's marketing automation solution called Surefire, tying together the pieces required for a complete customer engagement suite. Surefire leverages data to create effective marketing campaigns, nurtures them to the mortgage application, and educates and informs borrowers throughout the funding process. Additionally, this platform provides direct channel outreach after the loan closing to help capture repeat business.
+
+Velocify is the sales automation solution that enables loan officers to capture missed opportunities and communicate with borrowers to close loans faster. And Consumer Connect provides a state-of-the-art digital mortgage experience to the consumer for the home buying process.
+
+We've unified these systems, which now seamlessly operate as one, to feed the Encompass loan underwriting platform. With Encompass, we successfully added a browser-based front end for loan underwriting and integrated new automation tools.
+
+And we added more ways to partner and extend the platform by increasing network APIs. Lenders can take advantage of products that are integrated via our partner network, while partners are able to build and release distributed products just one time. And once released, lenders can use a partner product across all of ICE Mortgage Technology's lender-facing applications. In addition, we connected data assets from Black Knight, including: property tax, flood, and closing fee information, into Encompass.
+
+We also moved AllRegs, our market-leading tool for compliance-related information, into the ICE Cloud. And we deeply integrated it into Encompass. We enhanced this offering by incorporating a generative AI model, so that natural language inquiries generate loan program information and guideline summaries from the most comprehensive compliance library available in the industry, covering nearly 1 million pages.
+
+We previously mentioned that we took a product formerly called AIQ, extended its capabilities to further automate data extraction and integrated it into Encompass. This product now known as ICE Data and Document Automation or DDA, captures the information provided by a borrower. Whether a document was shared by a portal, email, fax, or scan, DDA normalizes it, standardizes its naming, and puts everything in the correct order. This creates consistency, uniformity, and efficiency.
+
+A team of about 200 of our technologists have further expanded the capabilities of DDA by building sophisticated income and credit analyzers to deploy one of the most important new technologies to be offered in the U.S. mortgage space. These sophisticated analyzers transform formally manual operations into automated exception-based workflows. Key steps in the underwriting process are accelerated, including investigation to determine the credit worthiness of a wide range of borrowers, for GSE Guaranteed Loan Eligibility, or for HUD's Affordable Loan Program for a given metropolitan statistical area.
+
+This comes at a time when prospective homebuyers are facing the most daunting affordability challenges in four decades, and at a time when many borrowers have non-traditional income streams that don't neatly fit on a Form W-2. These new analyzers drive greater operational efficiency to help lower mortgage origination costs for lenders and ultimately borrowers.
+
+We continue to invest in our product and pricing engine by providing additional options to lenders, servicers, and their funding partners. We've connected our network directly to Fannie, Freddie, and Ginnie Mae for seamless pricing inquiries.
+
+As a result, we went live with 32 new price engine clients this year, accompanied by a strong pipeline of 19 others that are currently in the implementation phase. We also deployed our team to bring Black Knights Loan Servicing onto our network, recently announcing the integration of Encompass underwriting system with the MSP servicing system, with documents now moving straight from origination through to servicing.
+
+Taking it a step further, we also incorporated DDA into MSP, so that servicers can quickly identify any critical information that may be missing from a loan file as the documents progress. And we cemented this integration milestone with the signing of JPMorgan Chase to also utilize this platform for their servicing business.
+
+We continue to enhance the MSP loan servicing loan servicing technology since our acquisition of Black Knight by investing in a new user interface called MSP DX. This interface modernizes access and control of the legacy loan servicing platform and streamlines key tasks across loan onboarding, investor reporting, and customer service.
+
+It allows users to seamlessly retrieve data and evoke servicing actions through a conversational user interface. And its expanded capability facilitates loan triage, providing users with an efficient view of relevant information when working on loan exceptions. We've also further automated the credit dispute processes to help mortgage servicers meet their 30-day reporting obligations under the Fair Credit Reporting Act. Our expertise at digitization has led to continued innovation for the secondary market for home mortgages.
+
+In the third quarter, we went live with our MBS Mortality Indicator, which leverages data sets across ICE Mortgage Technology and ICE Data Services to produce daily trading signals for agency residential MBS pools. We believe these signals are significantly more accurate at predicting near-term prepayments than the legacy products in the market.
+
+In summary, we've assembled and expanded a leading customer engagement suite, underwriting tools, pricing systems, closing tools, registration tools, servicing systems, and the resulting data, and integrated them into ICE's network for the U.S. mortgage industry.
+
+ICE brings together the key industry stakeholders from origination to final settlement in a single network ecosystem. That's roughly 85% of all U.S. home mortgages connected to more than 3,000 lenders; 48,000 settlement agents and closing attorneys; 2,500 county governments, the GSEs; 80,000 notaries; 100 loan servicing companies; 1,000 mortgage-backed security investment firms, and thousands of third-party data and service providers, who can now communicate with one another via a common data standard on a robust network operated under ICE's cyber overlay.
+
+We believe that we've created a platform where every new participant who joins this network makes the platform increasingly more valuable to its other users. Essentially, we've moved ICE from selling software to offering a growing network for the management of the home mortgage lifecycle. Throughout this journey and consistent with our approach across other asset classes, we've remained focused on executing on our strategy of relieving pain points across the mortgage workflow while investing ahead of secular growth to enhance the value proposition of our network.
+
+Turning now to Slide 10. Since our founding, ICE has operated with a strategy to build tools and markets for institutions and consumers, which operate in the white space of the inefficiencies of legacy markets. We seek to do so in a manner that enables us to grow our earnings in all economic conditions, so that ICE is truly an all-weather growth story.
+
+Our record third quarter following up on our unsurpassed first-half results are a testament to the execution of this strategy. The business model that we've intentionally built and the value of our strategic capital allocation; it's how we've grown our adjusted earnings per share every year that we've been a public company.
+
+And finally, I'd like to retell you that a decade ago, ICE sought to expand into global financial markets by merging LIFE, the London International Financial Futures Exchange with our London-based Commodity Exchange and Clearinghouse in order to create a global risk management powerhouse.
+
+With great respect, I'd like to end my prepared remarks by acknowledging the contributions of Sir Brian Williamson and Hugh Freedberg who built, saved and nurtured that LIFFE Exchange. This world recently lost both gentlemen, and I hope that as they look down upon us, they regard my colleagues and I as worthy stewards of their vision. And I hope they smile along with us at our record interest rate derivative activity in the third quarter up 50% year-over-year.
+
+Let me now turn the call back to our moderator, Lydia, and we'll conduct a question-and-answer session until 09:30 Eastern time.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. (Operator Instructions)
+
+Our first question today comes from Alex Kramm, with UBS. Please go ahead.
+
+Q - Alex Kramm{BIO 6910027 <GO>}
+Yes, hey, good morning, everyone.
+
+I'm going to start with an unanswerable question, I think, as I think about the energy business as we think about the end of the year and into 2025. Obviously, a lot of detail here in terms of the structural opportunities, and clearly that's reflected in the open interest growth that we've seen, and obviously volume since year two. But look, clearly it's been a solid environment as well from a trading perspective, in particular in the fourth Q -- fourth quarter with some of the volatility we've seen from the Middle East. So clearly there's been some beta help here as well.
+
+So I'm just wondering, I know it's very difficult, if you can separate the alpha and the beta a little bit and how you think about that heading into 2025? What's repeatable? And where are you a little bit worried that the trading environment may not be as good? Thank you. I know it's a lengthy question.
+
+A - Jeffrey Sprecher{BIO 3310847 <GO>}
+Alex, this is Jeff. And since that's an unanswerable question, let's put the new guy on it, and ask Stuart if he can handle it.
+
+A - Stuart Williams{BIO 20333158 <GO>}
+Thanks, Jeff. And thanks, Alex, for the question. It is a great question.
+
+Perhaps the way to think about this, and I think you picked up on a really important point there, Alex, when you referenced open interest. So, as unanswerable as it might be, open interest is always a good indicator of future volume, because this is -- these are positions being placed by real market participants.
+
+And those positions will need to be managed in the future as markets evolve. But the other way we think about this is that there is a linkage between the geopolitical events, which you referenced in your question, which do create short-term volatility, but which also creates often new supply chains, which then will leverage other parts of that matrix product setup that we've got, which spans energy types and geography and the environmental market.
+
+So just giving you an example of that, one of the things we saw after Europe's efforts to remove Russian hydrocarbons from its supply chain, we saw new supply routes coming from the Middle East up into Europe, which we'd never foreseen when we first set up ICE Futures Abu Dhabi, but that's what happened. And so what we find is a lot of these geopolitical events create different supply chain opportunities, which continue to drive growth in different parts of our energy markets.
+
+The focus that we've had over the last 20 years, though, has been to create that network of markets that provides a pricing point at each geography, energy type, and environmental touchpoint, so that whatever happens, whether it's geopolitical, whether it's supply chain changes, however the market evolves, we have the opportunity to provide that tool to our customers and can benefit off the back of that.
+
+The other point I would make, just in closing the answer, is we're very clearly at an inflection point where the growth we've seen over the last 20 years in absolute energy consumption is set to continue. About 80% of the world's population lives in, non-OECD countries, which on average, on a per capita basis, only uses one-third of the energy of the equivalent people living in OECD countries. Put differently, energy consumption could well double over the next 25 years, according to many economists. And a lot of that is going to be in places in the developing world, where contracts like JKM and TTF and Brent and Dubai and Murban are critical in managing price risks around those areas.
+
+So, we feel pretty good about the opportunity ahead of us, but as you say, it's pretty difficult to quantify that.
+
+Operator
+Our next question comes from Craig Siegenthaler with Bank of America. Please go ahead.
+
+Q - Craig Siegenthaler{BIO 22511361 <GO>}
+Hi, good morning, everyone.
+
+We had a question on the new partnership between ICE, bonds, and market access. So how will this partnership enhance your liquidity pool and client value proposition, and will we see it translate into stronger market share trends. If I could just squeeze one more in, could this lead down the road to a closer relationship with market access, ranging from a full acquisition or a strategic minority equity investment?
+
+A - Christopher Edmonds{BIO 16223539 <GO>}
+Greg, it's Chris Edmonds. Thanks for the question.
+
+I probably will avoid the second one you asked. But, look, the partnership with market access, it really gives us an opportunity where we have a very unique client base that is different than the market access traditional client base. But there are different pools of liquidity because of what they represent.
+
+And so this gives the opp -- this combination gives us the ability for all of our clients to make sure they have access to the liquidity they're looking for. Still early days, but it has gone very well for both of us. We're both happy with it. Spoke with them yesterday. Things continue to progress in a positive way there. And we will look to add other instruments along the way as the market continues to evolve and into the future. But, like I said, I'll probably avoid the last question you asked there. Thanks.
+
+Operator
+Our next question comes from Ben Budish with Barclays. Your line is open.
+
+Q - Benjamin Budish{BIO 21236661 <GO>}
+Hi. Good morning, and thanks for taking the question.
+
+I just wanted to dig in a little deeper to the fourth quarter IMT guidance. It looks like, at least, I know you tend to be a little bit more conservative than the NDA forecast, but they show sort of an expected pickup between, refis and purchases together. So just curious if you could kind of comment on that.
+
+And then maybe could you perhaps remind us, how should we be thinking about your overall sensitivity to pickup in transactions, given there's a minimum component? Like, how would you describe the current level of activity? Are most of your customers below that minimum level such that incremental transactions don't add as much? Like, how should we sort of be thinking about that in Q4 and into next year? Thank you very much.
+
+A - Warren Gardiner{BIO 18036655 <GO>}
+Yes, Ben, that's a good question and thank you for it.
+
+So, in terms of the first part of that question, so the fourth quarter guidance, as I said, it does assume some -- a slower purchase market. And we see that in every fourth quarter, generally speaking, that trends off. And that generally happens in the first quarter as well for what it's worth. It's just the weather, frankly, at the end of the day, and people looking at houses and buying houses. So that's a typical pattern that we see.
+
+I think in terms of how that compares to what the NDA may be expecting, I don't know that that has really captured the sharper move, higher in interest rates and mortgage rates over the last few weeks. So there may be a little bit more of an aggressive assumption on what refinancing may be looking like in that particular period. And so we base -- what we're looking at is really what we're seeing on the application front and what we're seeing on the closed loan front, in terms of what we can see in the next quarter or so.
+
+So I think it's a pretty good guide in terms of what one would expect for the quarter, given where we were a month through here. And it generally takes sort of take sort of 30, 60 days to close a loan. So those application volumes, can be pretty indicative of what this quarter will look like.
+
+A - Jeffrey Sprecher{BIO 3310847 <GO>}
+On your second question, yes, look, we still have a significant portion of the customers that are under their minimums today, but each quarter, that's getting better. And in fact, the third quarter was the best in two years or so, a little over two years, and that's been steadily improving throughout this year. So, not only does an improving loan market help that, but so does the fact that, we have actually been renewing some of these customers towards lower minimums as well. And so the bar, if you will, is a little bit lower.
+
+And so, we've seen that transaction getting better the last few quarters, albeit still small, and customers, are crossing over their minimums, that being a big reason why it's improving. But we are, that is a big reason why we are actually outperforming, in terms of our transaction revenue, relative to the market is some of those customers, crossing over that minimum, not paying transaction fees in the prior period and now paying transaction fees. And I think, as that market normalizes, you're going to see that continue.
+
+Operator
+Our next question comes from Dan Fannon with Jefferies. Please go ahead.
+
+Q - Daniel Fannon{BIO 7135149 <GO>}
+Thanks. Good morning.
+
+So, Warren, another question for you just on expenses. Curious about the step up in the 4Q, kind of what's driving that. And then I know it's early, but thinking about the building blocks for '25, if you can kind of give us the framework to think about maybe versus previous years.
+
+And also, in the context of the mortgage business, if we do see a pickup in activity, the incremental margin of that business, as we think about volume is starting to pick up more materially with rates changing, as we go into next year.
+
+A - Warren Gardiner{BIO 18036655 <GO>}
+Great. Thanks, Dan. Good question.
+
+So, as I noted, in terms of the fourth quarter, there's about $10 million to $15 million of one-time expenses that you'll want to take out of that, in terms of thinking about a core run rate. Those one times were several items, really, across different areas of the business, unrelated, that kind of hit all towards, we incurred, if you will, or realized we were going to incur towards the end of this quarter. So, I think if you take that, you're probably down to $970 or so versus the $960 we had this quarter.
+
+And the difference there is going to be on the SG&A side to a degree. We did have a little bit lower marketing and customer acquisition costs in the third quarter that should pick up a bit in the fourth quarter, a little bit higher professional services fees as well that will come in next quarter, or in the fourth quarter, I should say.
+
+So, I think as you're thinking about next year, the $970, that's probably a good jumping off point, and to annualize that, of course, and then think about a similar framework that we've used in the past, where we're going to invest in our people, we'll invest in the business, the technology, and continue to do that as we've seen us do the last number of years. So, I think that will be a fair way to be thinking about it. As we move in to the next year, we will of course give you more granular guidance we get there.
+
+On your second question on the incremental margins, you're 100 % right. As the transaction backdrop improves and the market backdrop improves for loan originations, those are -- it's somewhat similar, if not entirely similar, to what you would expect and see, in our futures business or at the New York Stock Exchange, where the transaction revenues have pretty high incremental margins on them. So that will certainly be a benefit to the segment margin, and to the overall margin as that loan market normalizes.
+
+Operator
+Our next question comes from Chris Allen with Citi. Your line is open.
+
+Q - Christopher Allen{BIO 4689198 <GO>}
+Yes. Good morning, everyone. Thanks for taking the question.
+
+I wanted to circle back a little bit on energy. I'm kind of curious where you see pockets of opportunity from a customer perspective, whether it's customers overseas trading U.S. benchmarks or natural gas moving into the crude markets.
+
+And then I also wanted to ask about the sustainable aviation fuel market. There has been reports about energy majors investing in Brazil, and just given ICE's position in sugar and energy, seems like a great opportunity. So wondering how you think about that from a market development opportunity side?
+
+A - Stuart Williams{BIO 20333158 <GO>}
+Hi, Chris. This is Stuart. Yes, thanks for the question.
+
+Starting with your question on the customer base, we're seeing -- as you heard in my prepared remarks, we're seeing a significant increase and continued growth in our customer base, the participation in our markets. That's really two factors. We're seeing net new participants coming into our marketplace, particularly out in Asia as hedging strategies continue to mature out there. But we're also seeing participants pivot from markets they've been active in historically, into new markets. So for example, people that have historically been trading a lot of Henry Hub on our very regular, in our TTF market and getting involved there.
+
+In terms of how that mix evolves, more-and-more customers are having global exposures. One of the side effects of the globalization of gas is that gas players globally, and particularly in the U.S., now that the U.S. is a major export of LNG, need to be cognizant of, and have risks to manage in respect of prices not just in the U.S., but globally. So we've got a lot of global producers in the U.S. that are now looking at both TTF numbers as well as Henry Hub numbers, and indeed some of our basis numbers to figure out whether it's best to pipe that gas internally, to whether it's for data center usage or other power usage in the U.S. or to export that in the form of LNG to whether it's Europe or Asia.
+
+So we're seeing a lot of our U.S. participants now actively trading and holding positions in markets like TTF and JKM. I think the other trend, just pivoting quickly to oil, which has been very interesting, you'll recall that a few years ago, we set up a new market in the U.S. Gulf Coast to better reflect the export price of Permian WTI coming out of the U.S. Gulf Coast.
+
+And again, as the U.S. continues to export more and more Permian-grade WTI, and as that grade is now linked into Brent, we're seeing a lot more physical participants in the U.S. Permian producers using our numbers to price their exports out of the U.S. Gulf Coast. You might have seen, just this last week, the shale producer, Continental Resources announced that it was switching its Permian pricing to ICE's HOU contract, which is replacing a differential to WTI Cushing. So that's all pointing in a good direction at the increased participation.
+
+Just pivoting then to your second question around sustainable aviation fuel, or SAF, it is definitely a market we're looking at. What I referenced in my prepared remarks around biofuels markets, which ICE is very active in, we're seeing strong growth there. So that'll be the area that SAF plays into, and as, again, you alluded to, we're seeing increasing correlation between the sugar markets and the energy markets as a decent chunk of that sugar supply ends up in energy. So you're quite right, this is an opportunity, it's early days in the SAF market, the market structure is still evolving in that space, but we continue to monitor that as time goes on.
+
+Operator
+Our next question comes from Alex Blostein with Goldman Sachs. Your line is open, please go ahead.
+
+Q - Alexander Blostein{BIO 15412167 <GO>}
+Hey, good morning, everyone. Thank you for the question.
+
+Jeff, a little bit of a maybe bigger picture mortgage question for you guys. Obviously, you talked a lot about the progress you're making in sort of integrating various parts of the mortgage network. It's always been an important part of the thesis for you guys, lots of work behind the theme -- scenes, sorry, despite the fact that the environment obviously hasn't been particularly helpful here.
+
+So when do you expect all these efforts to show up in better revenue growth? So in other words, do we need to see a much better, broader industry volume, so sort of kind of like beta help, or you think some of these things could actually show up in better revenue trajectory into 2025, regardless of what industry volumes look like?
+
+A - Jeffrey Sprecher{BIO 3310847 <GO>}
+That's a good question. And I tried to make the point in my prepared remarks that we really have moved to operating a network, and I made the point that every new market participant that joins the network, makes the network more valuable to all the existing participants. And so that phenomenon is not really volume related. It's really helping others take costs out. And our expectation is that as we help reduce the cost of underwriting and placing a mortgage into the capital markets that we'll participate in some of that benefit.
+
+Separately, Warren talks a lot about normalizing transaction volumes. And when we look at that, you can simply look over a decade before the COVID crisis or even back to year 2022, and you can see volumes that had they run through our platform would have contributed substantially to both the top and bottom line. So we do feel like there will be a mean reversion that will get the transactions obviously hard to predict, but in the meantime, we're going to just keep driving that efficiency through the network.
+
+Operator
+The next question comes from Simon Finch with Redburn Atlantic. Your line is open.
+
+Q - Simon Finch{BIO 16051907 <GO>}
+Hi, thanks for taking my question.
+
+I wanted to actually ask a longer term question just about the environmental markets, please. Perhaps you could -- could you frame the growth that we're seeing in terms of what, the stages we're in, in terms of the emissions coverage of the schemes such as the European ETS, and then ultimately how to think about the cadence of that growth as we move through the next five years, and then very long, in the very long term, what -- how do we think about that market opportunity or that market existing in the point that we eventually get to net-zero? Thanks.
+
+A - Jeffrey Sprecher{BIO 3310847 <GO>}
+Thanks, Simon. Good question.
+
+Yes, I think the way we're thinking about this from a macro perspective, then I'll drill down into your specific question on the European ETS. Carbon pricing, our view as market operators is that carbon pricing is going to be the most effective way to help channel investments that are needed in order to drive the complete reduction of carbon. And we've seen this very effectively play out in the UK, as the UK drove coal out of its merit order using carbon pricing, the European Union on a similar kind of trajectory.
+
+So what we're seeing over the last couple of years is the dialogue around the importance of pricing carbon, and then more broadly, environmental externalities is evolving, more governments, more policymakers are engaging with the subject and seeing the benefits of cap and trade systems, which have been so successful in Europe and the UK, and also in certain areas of the U.S. And so we are seeing more discussions around more coverage of carbon markets.
+
+And then within the existing carbon markets, touching on your question on the European ETS, we're seeing the broadening of the coverage of those carbon markets. So only about 40% of the European emissions was covered under the EU ETS. That is now being extended to 80% as the ETS extends to other parts of the industry like shipping and that sort of thing. So, the underlying market, if you like, is expanding, which is also driving additional volume there.
+
+And then, of course, the other nascent market in the space, if you think of the compliance markets as the one end of the spectrum. On the other end, the so-called voluntary carbon markets or the carbon credit markets is another area where we continue to see discussions.
+
+Market structure there, again, is still very nascent, but what we've been working on in the meantime is putting in place a number of the building blocks that will be required for that market to scale if it is ever going to scale, things like reference data. So we've got a product called ICE CRED, which normalizes and standardizes all of the reference data that's available across the carbon credit landscape. That reference data is now available in ICE Chat, where we're seeing a lot of the transaction activity, really OTC, bilateral trading activity of carbon credits, referencing that reference data. And we've also got a number of futures contracts, including the CORSIA Futures contract, which we launched recently, which is really the credit market used by the aviation industry.
+
+So, again, that's the second part of the market, which is much less mature, but we are seeing increasing interest as participants start to engage with our reference data, and with ICE Chat transactions on that front.
+
+Operator
+Our next question comes from Ken Worthington with JPMorgan. Your line is open.
+
+A - Jeffrey Sprecher{BIO 3310847 <GO>}
+Hi.
+
+Q - Kenneth Worthington{BIO 3303320 <GO>}
+Hi. Good morning. Thanks for taking the question.
+
+Stuart, more for you, trial by fire. If we think about the globalization of gas driving your TTF and JKM contracts, we're seeing the growth of TTF far exceeds the LNG capacity that has come online in recent years.
+
+There's some sort of multiplier, maybe it's speculators following hedgers. So how do you think about this relationship between molecules in motion, the need to hedge, and what ends up ultimately is, I guess I'll call it normalized volume? And if LNG capacity is going to double over the next three years, what is reasonable to expect for this LNG relationship with TTF and JKM, which you called out as sort of a non-linear relationship?
+
+A - Stuart Williams{BIO 20333158 <GO>}
+Yes, thanks for the question, Ken.
+
+I think the other dynamic to keep in mind when you're thinking about the volume on a futures contract versus the underlying market is the length of the curve. So we've got liquid pricing in TTF now going out 10 years. And so that's 10 years worth of supply is the thing you need to be thinking about as you think about the hedging volumes on the exchange. But look, it's -- the thing -- the dynamic we're seeing is, as you said in your question, the demand for LNG is growing significantly, and we see that as being a significant part of both the Asian growth story, but also the Asian move to cleaner energies. So there's no question in our minds that LNG supply is going to need to increase significantly.
+
+The other dynamic here is, because there is more liquid pricing in the marketplace, looking at the likes of TTF and JKM, more and more buyers and sellers are referencing TTF and JKM in the physical contracts. And so what that means is, you're seeing less fixed price and more indexed transactions in the physical market, which provides the optionality not just of taking LNG from point of production to point of demand, but also you can, as you see in the oil market, have shifts en route, changing direction, because odds have opened up.
+
+So what we're seeing in the gas market as part of this globalization story is a real modernization of the market structure, where physical molecules are going to the best price. And as those prices evolve with greater transparency, those physical movements move with them.
+
+So net-net, what that means is, there are more participants needing to hedge more molecules along more supply chain routes, and we see that overall growing. And then again, to my earlier comments, liquidity down the curve is getting really strong. So we're seeing longer-dated hedging, coming into the TTF contract as well.
+
+Operator
+Thank you.
+
+We're out of time for further questions, so I'll now hand you back to Jeff Sprecher, Chair and CEO, for any closing comments.
+
+A - Jeffrey Sprecher{BIO 3310847 <GO>}
+Well, thank you, Lydia.
+
+And thank you all for joining us this morning. We'll look forward to updating you again soon as we continue to innovate for our customers, and continue our momentum to drive growth with an all-weather business model. And I hope that today you avoid the witches and zombies, and have a safe Halloween.
+
+Operator
+This concludes our call. Thank you for joining. You may now disconnect your line.

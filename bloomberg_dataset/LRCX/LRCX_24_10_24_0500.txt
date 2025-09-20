@@ -1,0 +1,390 @@
+Q1 2025 Earnings Call
+Company Participants
+Doug Bettinger, Executive Vice President, Chief Financial Officer
+Ram Ganesh, Investor Relations
+Tim Archer, President and Chief Executive Officer
+Other Participants
+Atif Malik, Analyst, Citi
+Blayne Curtis, Analyst, Jefferies
+CJ Muse, Analyst, Cantor Fitzgerald
+Chris Caso, Analyst, Wolfe Research
+Harlan Sur, Analyst, JPMorgan
+Joe Moore, Analyst, Morgan Stanley
+Krish Sankar, Analyst, TD Cowen
+Srini Pajjuri, Analyst, Raymond James
+Stacy Rasgon, Analyst, Bernstein Research
+Tim Arcuri, Analyst, UBS
+Toshiya Hari, Analyst, Goldman Sachs
+Vivek Arya, Analyst, Bank of America Securities
+Presentation
+Operator
+Good day, and welcome to the Lam Research September Q1 Earnings Conference Call. All participants will be in a listen-only mode. (Operator Instructions) Please note, this event is being recorded.
+
+I would now like to turn the conference over to Ram Ganesh, Vice President of Investor Relations. Please go ahead, sir.
+
+Ram Ganesh{BIO 20521689 <GO>}
+Thank you, and good afternoon, everyone. Welcome to the Lam Research quarterly earnings conference call. With me today are Tim Archer, President and Chief Executive Officer, and Doug Bettinger, Executive Vice President and Chief Financial Officer. During today's call, we will share our overview on the business environment and we'll review our financial results for the September 2024 quarter and our outlook for the December 2024 quarter. The press release detailing our financial results was distributed a little after 1:00 p.m. Pacific Time. The release can also be found on the Investor Relations section of the company's website along with the presentation slides that accompany today's call.
+
+Today's presentation and Q&A include forward-looking statements that are subject to risks and uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see accompanying slides in the presentation for additional information. Today's discussion of our financial results will be presented on a non-GAAP financial basis, unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in the accompanying slides in the presentation. This call is scheduled to last until 3:00 p.m. Pacific time. A replay of this call will be made available later this afternoon on our website.
+
+And with that, I'll hand the call over to Tim.
+
+Tim Archer{BIO 7502648 <GO>}
+Thank you, Ram, and good afternoon, everyone. Lam posted a strong September quarter with revenues and earnings per share higher than the midpoint and profitability above the high end of the guided ranges. These results mark the fifth consecutive quarter of revenue growth for the company. When combined with our solid outlook for the December quarter, Lam's performance points to strong execution in an industry environment where NAND spending has yet to recover. Our view on calendar year 2024 WFE remains mostly unchanged. Spending is expected to be in the mid-$90 billion range. We continue to see AI driving strong investments in leading-edge logic nodes as well as advanced packaging segments, including high-bandwidth memory or HBM.
+
+We expect domestic China WFE will be down in the second half relative to the first half with China's share of Lam's overall revenue normalizing to the 30% range in the December quarter. Per our normal cadence, we will provide the full details of our 2025 WFE outlook on our January earnings call. However, at this point, our early view for next year is for WFE growth from the -- from 2024's mid-$90 billion range. More importantly, we see an outstanding opportunity for Lam to outperform overall WFE growth in 2025. This is due to the critical role that etch and deposition play as fundamental enablers of higher performance more scalable semiconductor device architectures. Lam is strongly positioned to benefit both from improvement in NAND spending and increased customer investments across multiple technology inflections.
+
+In NAND, we expect the spending recovery to be driven primarily by technology upgrades, which is a highly favorable dynamic for Lam, given our industry-leading position in critical NAND processes. In foundry/logic, and DRAM, we are set to benefit from growing investment in gate-all-around, backside power distribution, advanced packaging, and dry EUV resist processing. Each of these advancements is more etch and deposition intensive and we have talked about our progress in these areas over the past several quarters. We expect to see increasing adoption across all four inflections in 2025.
+
+First on NAND, this segment has seen a prolonged cyclical downturn, but technology conversions to more advanced nodes will be critical to meeting the increased demand for high-speed, high-capacity enterprise SSDs, as well as satisfying the need for low-cost, high-capacity storage in client devices. Currently, over two-thirds of bits are still manufactured using older sub-200 layer technologies. We believe customers will continue converting this capacity to more advanced nodes in 2025. With the industry's largest installed base of 3D NAND equipment, Lam should benefit disproportionately as these upgrades occur. Furthermore, NAND manufacturers must also address the growing challenge of word line resistance. This sets up an important materials migration from tungsten to molybdenum, or moly, which offers superior thin-film resistivity, simplifies the process of minimizing leakage, and yields the lowest resistance.
+
+Lam has more than a decade of learning embedded in our metal atomic layer deposition, or ALD applications, with customer engagements on moly across NAND, DRAM, and foundry/logic. We have production wins for the moly transition in NAND that will scale in 2025 with foundry/logic and DRAM ramps to follow. Outside of NAND, we continue to build momentum in gate-all-around nodes with our selective etch tools, including recent wins and a large foundry/logic customer. In advanced EUV patterning, our latest conductor etch tool with DirectDrive technology is gaining ground, with broader adoption across key customers. In the evolution to backside power distribution in foundry/logic, we see expansion of our served market and share in dielectric etch and copper plating in 2025 due to the introduction of additional (inaudible) formation steps and new metal layers.
+
+Advanced packaging has been a highlight this year, driven by the performance needs of advanced AI devices. Lam established early technological leadership in deposition for advanced packaging. Our unmatched experience in copper plating hardware design and process technology is enabling SABRE 3D to deliver best-in-class coplanarity, uniformity, and defectivity at high throughput. This has translated into significant market share gains in 2024 and strong momentum as we look ahead into 2025. Our SABRE 3D revenue has more than doubled this year as both the number of 2.5D and 3D packages and the metal layer count per package has grown. As the complexity of advanced packaging continues to increase over time, more stringent performance requirements should play to Lam's strengths.
+
+Finally, in our customer support business group, or CSBG, we are seeing strong customer pull for productivity enhancement, extendibility, and reuse of Lam's installed base of tools. In both DRAM and NAND, there is intense focus on lowering bit cost through efficient reuse of the installed base. This has led to recent market share wins where upgrades of existing Lam installed base systems provided better value than the new build alternatives offered by competitors. Similarly, our customers' focus on installed base productivity is driving greater adoption of Lam's equipment intelligence services with an additional 500 process chambers subscribed in the past quarter.
+
+So to wrap up, as we look at the changes ahead for every leading edge device and every advanced package, we see more and more opportunity for Lam. The AI era is here. We have transformed our business and expanded our product portfolio to prepare for this next generation of semiconductor industry growth. Our investments are in the early stages of paying off. I'm looking forward to sharing more about why we believe the best is yet to come for Lam at our Investor Day on February 19 in New York City. Now, here's Doug.
+
+Doug Bettinger{BIO 16159085 <GO>}
+Excellent. Thank you, Tim. Good afternoon, everyone, and thank you for joining our call today during what I know is a busy earnings season. Before I start, I want to remind everyone that on May 21, 2024, we announced a 10-for-one stock split, which was effective October 2nd of 2024. All references made to share or per-share amounts in my remarks have been adjusted to now reflect the stock split. We delivered strong results in the September 2024 quarter. Our revenue and earnings per share came in above the midpoint of our guided range, while both gross margin and operating income percentage exceeded our guidance range. I'm pleased with the company's continued strong revenue and profitability execution, as well as our solid generation of free cash flows for the quarter, which came in at $1.46 billion or 35% of revenue.
+
+Let's look at the details of our September quarter financial results. Revenue for the September quarter was $4.17 billion, which was an increase of 8% from the prior quarter. Our deferred revenue balance at the end of the quarter was $2.05 billion, an increase of $495 million from the June quarter. This grew mainly due to customer advanced payments. I believe our deferred revenue balance will trend lower into calendar year 2025, but you will likely continue to see fluctuation quarter-to-quarter. From a segment perspective, September quarter systems revenue in memory was 35%, roughly in line with the prior quarter level of 36%. Within the memory segment, though, DRAM increased, coming in at 24% of systems revenue versus 19% in the June quarter. DRAM spending was focused on technology upgrades to 1-alpha, 1-beta, and some initial ramp of 1-gamma nodes to enable DDR5 and high bandwidth memory.
+
+The non-volatile memory segment represented 11% of our systems revenue, which was down from 17% in the prior quarter. This decline is driven by the timing of one customer's sequentially lower investment in specialty DRAM that we characterized as a non-volatile investment because it has a non-volatile component in the device. The NAND segment has experienced a prolonged down cycle compared to historical norms. However, we anticipate that spending will increase in calendar 2025 as utilization rates improve to more normal levels and our customers begin to invest in conversions to 256 [ph] and 384-layer class devices.
+
+The foundry segment represented 41% of systems revenue, a slight decrease from the percentage concentration in the June quarter of 43%. In dollar terms, spending was relatively unchanged quarter-to-quarter. The logic and other segment was 24% of our systems revenue in the September quarter, up from the prior quarter level of 21%. The increase was driven by an uptick in both leading edge and specialty node logic devices.
+
+Now, I'll discuss the regional contribution of our total revenue. The China region accounted for 37%, down slightly from 39% in the prior quarter, and a little bit stronger than we expected. Most of our China revenue continued to come from domestic Chinese customers. And as Tim mentioned, we expect spending from this region will decline in the December quarter, I think perhaps to approximately 30% of December's revenue. Our next largest geographic concentration was Korea at 18% of revenue in the September quarter, which was flat with the June quarter. And finally, Taiwan and the United States rounded up the remainder of the Top 4 regions. Our customer support business group generated approximately $1.8 billion in revenue for the September quarter, up 4% from the June quarter and 25% higher than the same period in 2023. The sequential dollar growth was split evenly between Reliant Systems and all other components of CSBG. The spare parts component of CSBG continues to be the individual largest piece of this business unit's revenue.
+
+Let's turn to gross margin. The September quarter came in at 48.2%, which exceeded our guided range. Gross margin decreased a little sequentially, however, reflecting a decline in customer mix as well as an increase in incentive compensation. These factors were partially offset by improved factory utilization as we continue to make progress on our operational initiatives. Operating expenses for September were $722 million, up from the prior quarter amount of $689 million. The increase was partly due to growth in program spending as well as higher incentive compensation tied to the company's increased profitability outlook. R&D accounted for 67% of the total spending.
+
+Operating margin for the current quarter was 30.9%, slightly above the June quarter level of 30.7% and above the high end of our guidance range, primarily because of the higher revenue and continued strong gross margin performance. Our non-GAAP tax rate for the quarter was 13.8%, generally within range of our expectations. Our estimate is for the tax rate to continue to be in the low- to mid-teens range in the near term. Other income and expense for the September quarter came in at $13 million in income compared with $19 million in income in the June quarter. The decrease in OI&E was primarily due to foreign exchange fluctuations. OI&E will continue to be susceptible to market-related variations that could cause some level of volatility quarter-to-quarter.
+
+Let me pivot to the capital return side of things. We allocated approximately $1 billion to open market share repurchases and we paid $261 million in dividends in the September quarter. I just highlight that, in August, we announced a 15% growth in the dividend, in line with our plan to deliver an annual growth in the dividend. And I just mentioned, since paying our first dividend in 2014, we have now raised the dividend in 10 consecutive years. We have $9.8 billion remaining on our Board authorized share repurchase plan. And we continue to track towards our long-term capital return plans of returning 75% to 100% of our free cash flow.
+
+For the September quarter, diluted earnings per share was $0.86, above the midpoint of our guided range. The diluted share count was approximately 1.3 billion shares, which was a reduction from the June quarter. On the balance sheet, our cash and cash equivalents totaled $6.1 billion at the end of the September quarter, up from $5.9 billion at the end of the June quarter. The increase was largely due to cash from operating activities, offset by cash allocated to share buyback, dividend payments, and capital expenditures. Days sales outstanding was 64 days in the September quarter, an increase from 59 days that we saw in the June quarter. Inventory at the end of the September quarter totaled $4.2 billion. Inventory turns improved to 2.1 times from the prior quarter level of 1.9 times. We will continue to manage inventory levels to the best of our ability to align with customer demand.
+
+Our non-cash expenses for the September quarter included approximately $80 million for equity compensation, $80 million in depreciation, and $14 million in amortization. Capital expenditures for the September quarter were $111 million, up $10 million from the June quarter. Capital spending was mainly centered on lab investments in the United States and Asia, as well as manufacturing facilitization supporting our global strategy to be close to both customers' development as well as manufacturing locations. We ended the September quarter with approximately 17,700 regular full-time employees, which was an increase of approximately 500 people from the prior quarter. Headcount growth was predominantly in field and factory personnel to support increased tool installation as well as growing manufacturing activity levels.
+
+Let's now turn to our non-GAAP guidance for the December 2024 quarter. We're expecting revenue of $4.3 billion, plus or minus $300 million. Gross margin of 47%, plus or minus 1 percentage point. The gross margin guidance is reflective of a quarter-to-quarter headwind in customer mix. Operating margins of 30%, plus or minus 1 percentage point. This reflects our continued commitment to managing our expense level as we prioritize critical R&D investment areas. And finally, earnings per share of $0.87, plus or minus $0.10, based on a share count of approximately 1.29 billion shares.
+
+So let me wrap up. We continue to execute well in 2024. I believe that's reflected in our September results as well as guidance for the December quarter. We're on track to achieve modest improvement in our operating leverage for the full calendar year as we prioritize critical investments to extend our technology differentiation, while carefully managing overall spending levels. The investments we're making position Lam well to benefit from the architectural and materials inflections we see ahead. We believe that we will continue to gain traction and outperform the overall growth in WFE in calendar year 2025. We continue to see 2025 as a growth year in both WFE, and more importantly, Lam's top line.
+
+Operator, that concludes our prepared remarks. We would now like to open up the call for questions.
+
+Questions And Answers
+Operator
+Certainly. We will now begin the question-and-answer session. (Operator Instructions) And our first question today comes from Tim Arcuri with UBS. Please go ahead.
+
+Q - Tim Arcuri{BIO 3824613 <GO>}
+Thanks a lot. Tim and Doug, I know that you don't want to project 2025 WFE and I'm not asking you to give us a number, but can you just talk about the puts and takes, I guess, particularly around China? I mean, obviously, there's going to be some additions to the entity list, but it seems like even a bigger factor might be the consolidation of some of this legacy node stuff. It seems like there's a huge consolidation of a lot of these fabs that have been built that are ultimately connected to either Huawei or BYD. So can you just talk sort of conceptually about the puts and takes, and particularly about China? I mean, it's down about 10 points of your revenue. Thanks.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Sure. Thanks, Tim, and thanks for not pressing us on an early 2025 guide. We are trying to -- we realize there's a lot of questions and we are trying to give some additional color where we can. We said that we believe year-on-year WFE overall would be up next year. Specifically, our view for China WFE next year would be that it is lower. For all -- you can pick all the variety of reasons that you may have just listed. And that as a percent of Lam's total revenue, China would represent a lower percentage next year than this year. And so I think that's about all we can say right now. Obviously, in January, we'll give a lot more color on the full market.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+And I'd just add a little bit. Tim, outside of China, though, think about everything else going on, leading-edge foundry and logic continues to be quite good, DRAM continues to be pretty robust with DDR5 and high-bandwidth memory. What the trailing-edge specialty node stuff does outside of China, I think, we'll, as an industry, work our way through the inventory positions we're in. So trends are actually pretty good most -- in most of the industries. I'd just remind you of that and I know you know that.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, and I think, Tim, that's -- maybe the thing gets lost when we talk about percentages is we talked about a tremendous number of technology inflections and investments during my prepared remarks, none of which would actually be occurring in China as a result of the either restrictions already in place or the technology nodes that they're at or the fact that, again, NAND for instance, for us, those upgrades would be generally occurring outside of domestic China. The nodes like gate-all-around obviously are outside of domestic China. And so when you think about percentages, the stronger those trends are for Lam and for the industry, then naturally, that's why we would see China continuing to trend lower as a percent of our total revenue.
+
+Q - Tim Arcuri{BIO 3824613 <GO>}
+Right, thanks. And then just like super quick, Doug, for you. So CSBG was up. It was better. Can you talk about that? And I guess maybe does that tie also into deferred being up a lot? Is that like Reliant related? Thanks.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, a little bit. What you heard me say is the growth in CSBG was a combination of growth in Reliant and then everything else. So Reliant was pretty strong again last quarter. So yeah, Tim, that's part of it.
+
+Q - Tim Arcuri{BIO 3824613 <GO>}
+Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah. Thanks, Tim.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks.
+
+Operator
+And our next question comes from Harlan Sur with JPMorgan. Please go ahead.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Yeah. Good afternoon, and thanks for taking my question. Last call, you guys talked about NAND utilizations moving higher, driving growth in spares. Did you see that trend continue into the September quarter? And you've talked about confidence on NAND WFE growth outlook for next year. Is the confidence level as strong on WFE spending growth outlook relative to, let's say, 90 days ago? And are you starting to get some order and forecast visibility to support that?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, Harlan, I think that what I'd like to point out on NAND is it's a combination of things. We continue to see utilization being strong for the capacity that's in place. But what I was talking about in my prepared remarks was this need for what we would consider to be higher-quality bits, higher-performance to meet the needs of enterprise SSDs and other applications that are now tied to sort of this move in AI. And so when we think about it, this is going to drive -- even if you're not looking as an industry to add a lot more bit capacity itself, you're going to want to shift that two-thirds that is manufactured still in the 1xx-layer technologies, you're going to shift that to nodes that are taking advantage of things like sell under array or being able to do QLC, the moly transition we talked about, all of those things allow a NAND manufacturer to be a lot more competitive for the parts of the market that are seeing a lot of strength.
+
+And so the reason that is so important for Lam is we play a really critical role and we capture a very high percentage of all of those upgrades. So our anticipation is that the industry will be still in a recovery mode next year. But if most of the spending is directed towards technology upgrades and it's pulling in all of those things I just talked about, that's right where Lam's product portfolio plays. It's really our sweet spot. And so that's why we're optimistic on NAND almost regardless of whether WFE itself like rises a tremendous amount. It's really -- spending will be in our favor.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Yeah. No, appreciate that. And then AI and accelerated compute dynamics continuing very strong, right? Obviously, that's pulling the need for more HBM memory, as you mentioned last call. You talked about driving more than $1 billion in HBM revenues this year. Is that number even higher now? And I'm wondering if you can maybe quantify the HBM outlook for this year. As we look into next year, although HBM bit supply is only going to represent 6%, 7% of total bit supply, it's going to account for something like 20%, 25% of total DRAM wafer capacity, right? And that in and of itself is up 60%, 70% versus this year. How are you thinking about sort of the growth trajectory of your HBM and advanced packaging business next year and even over the next several years?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, sure, Harlan. I think we'll -- we're not probably going to give a new milestone number, but we did talk about this $1 billion achievement in our advanced packaging business really driven by the strength in AI. What I would say is, since the last call, that part of our business has continued to strengthen, even beyond what we had originally thought. I highlighted some of that in my commentary around the SABRE 3D, the copper plating. It's just a very strong part of the business right now. And I think the companies that have good exposure to it, which primarily companies like etch and deposition companies, are seeing outsized benefit right now from that trend.
+
+I don't think advanced packaging slows down anytime in -- from my view and from my conversations with customers. It's a -- it's an enabling technology that's allowing system level performance that's very hard to achieve through chips themselves. And I mean it requires really this architectural change. So we're very positive on advanced packaging next year. And when we get to January, we'll probably highlight a little bit more about what we see in terms of new numbers for that segment.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Thank you, Tim.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks, Harlan.
+
+Operator
+And our next question comes from Toshiya Hari with Goldman Sachs. Please go ahead.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hi, thanks so much for taking the question. I had two as well. First, Tim, you talked about the adoption of moly and 3D NAND. And you also mentioned leading-edge foundry and logic and DRAM to follow in the out years. I was hoping you could help us sort of translate some of that, maybe not just specific numbers, but how we should be thinking about your ability to grow the business with moly in '25 and beyond. Is it a net gain opportunity for you or because you're already quite strong in that space, is there an offset to the introduction of moly?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, it's -- it is an area where we're quite strong already in the tungsten, as you point out, especially in NAND, but it still turns out to be a net gain for us as -- again, there is certain benefit that comes from upgrades and moving technology forward and there's additional benefit if you're basically selling in new high value-add technologies for our customers. And so, again, the fact that it helps resolve some of the word line issue -- word line resistance issues that exist and really is a major materials migration that then can sort of carry the industry forward for several nodes after that, it's a kind of step-up for us in terms of business through that transition. And then as we see those same transitions occur in foundry/logic and DRAM, I think it represents a gain opportunity for us there as well out into future years.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Got it. Thank you. And then my follow-up is on leading-edge foundry/logic. I both -- I think both you and Doug characterize -- characterize that area as an area of strength. A peer of yours, last week, they kind of lowered their '25 outlook based on some of the competitive dynamics going on in that space. I think there's one customer that's doing really well, maybe two others that are doing not so well. Is the net-net in your view, as it pertains to the '25 outlook, is that unchanged relative to 90 days ago? Or have you seen any kind of shifts in the outlook when you think about overall leading-edge foundry and logic? Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Well, I don't think -- I don't think it's really changed from our perspective in the last 90 days, but that's because, generally, if I think about what's driving our business, it's a little less as to do with volume as much as technology inflections. And so as you move forward from a node that wasn't gate-all-around to one that's gate-all-around, that creates opportunities for Lam that some companies, it might actually be somewhat of a similar opportunity. But for Lam, because we can now penetrate new tools like selective etch and ALD at rates that we had not been able to previously, we think that that may be why it hasn't changed as much for us. We see it as a positive opportunity.
+
+We also see -- again, we can't put an exact timing on it, but we have said we believe in 2025, you start to see the introduction of what we would consider to be quite etch and depth-intensive inflections like the backside power distribution, and further advanced packaging use in leading-edge logic/foundry. And so those are things that I think primarily benefit companies with portfolios that look like Lam, assuming that position is strong. So I don't know, I can't speak to everybody's outlook, but I know that the way we look at these technology transitions, they're quite favorable for our portfolio setup.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Very helpful. Thank you so much.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Toshiya.
+
+Operator
+And our next question comes from Vivek Arya with Bank of America Securities. Please go ahead.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for my question. For the first one, going back to China, so it's indicated down about, I think, $250 million or so in calendar Q4. Does China stay at these levels or for the next several quarters, can it build off of it? Does it decline? What is sort of the broad assumption? And I think, Tim, in the last earnings call, you had suggested '25 could be a decent year for China, but that view seems to have changed somewhat and I'm curious what changed, what markets, what are the signals. So just kind of China versus December levels and then what has changed in the overall China view for '25?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Vivek, maybe I'll take it. It's Doug. Yeah, China is trending down a little bit right now, but let me be very, very clear, it's not going away. It's just trending lower as a percent of our overall revenue. That's partly due to the fact that, yeah, we -- as we sit here today, we look at China WFE is lower next year, but other things are strengthening at the same time. So when you look at the percent of the total revenue, it's trending a little bit lower. But let me be very clear, it's not going away.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, I think, Vivek, that was a -- if I made the comment about China being a decent year next year, it's --basically I think it's the comment Doug just made, which is we always have expected it to normalize as Lam's business in our strongest markets like NAND and now some of these new emerging areas like advanced packaging really come on even more strongly in 2025. And so we've always expected as a percentage of our total revenues, it would trend down. And so I don't know if the outlook has changed dramatically in the last few months.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+And then for my follow-up, maybe one on gross margins, so I think Q3, you beat quite nicely up. So what drove that? And I think for calendar Q4, it's coming to 47%. So as we look out, Doug, over the next several quarters, given that the China mix will be lower, should we assume that 47% as the baseline and then you get some leverage on top of it or just how should we conceptually think about calendar '25 gross margins versus calendar '24? Is there a scenario where you can keep gross margins flattish year-on-year calendar year?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Vivek, thanks for the question. Yeah, listen, there's many, many things that move gross margin around in the near term here, customer mix, product mix, operational efficiency, so forth. We've been trying to signal for a while that, hey, this customer mix stuff is going to be a little bit of a headwind as China percent of total begins to soften a little bit, and you're seeing that in the December guide. However, if you remember back when business turned down at the end of '22 into '23, we embarked on what we described as operational efficiency initiatives, trying to pivot the company, grow that footprint in the factories in the Asia region, which as business grows, we'll benefit from those operational efficiencies.
+
+So you're beginning to see some of that, or maybe more than some, you're beginning to see that show up. If you remember before China ticked up as a percent of our revenue, we were at, I don't know, roughly 46%, and now you kind of see us at 47%. So we've -- we pivoted the company actually in a beneficial way from a cost standpoint, and you'll still see more of that as we go forward. But there's a lot of things that move gross margin around. I'm not going to get into guiding it specifically, but that's some of the stuff you should be thinking about.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Vivek.
+
+Operator
+And our next question today comes from CJ Muse with Cantor Fitzgerald. Please go ahead.
+
+Q - CJ Muse{BIO 6507553 <GO>}
+Yeah, good afternoon. Thank you for taking the question. I guess for first question, I was hoping to focus on CSBG and Reliant. As you think about a world where China is slowing down, is that a piece that we should be thinking about, at least as part of CSBG, that would decline? And just for my indication, as you think about slower China, is that better or worse in terms of CSBG revenue intensity for you guys?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, CJ, I mean, from a Reliant standpoint, when you think about investment in the specialty nodes or maybe the trailing edge nodes, that's where Reliant will ebb and flow. And obviously, you know where the restrictions sit in the China region. And so mainly that's what you've got going on in China, but there's other components of it as well, right. Outside of China, there's a decent profile of investment there. But yeah, as WFE perhaps reduces a little bit in China, that will be a bit of a headwind for the Reliant business unit. The other components of it though, spare, service upgrades will have a lot to do with what's going on globally in the overall capacity of every process node.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. I think, CJ, I would just add, I mean, I mentioned a couple of these -- a couple of things around the equipment intelligence. In previous calls, we've talked about our cobot activity. I think that as leading-edge devices continue to grow and also become more complex, the need for these types of data-driven troubleshooting and tool matching capabilities and even sort of automated maintenance will become a bigger part of our CSBG revenue stream as well. So we look to that as an area where we can continue to keep seeing [ph] moving forward.
+
+Q - CJ Muse{BIO 6507553 <GO>}
+Very helpful. And then I guess maybe on OpEx, you started the year, Doug, talking about the need to invest for projects that you have real line of sight for growth and OpEx will narrowly outgrow top line this year. Curious, are you at the state where you are funding what you need to fund? And how should we think about operating leverage into calendar '25?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, CJ, thanks for the question. Yeah, we funded pretty much everything that as we came into the year, we expected that we needed to fund. In fact, maybe even a little bit more, right. Revenue turned out to be probably a little bit stronger. And in fact, you remember as we began the year, I was suggesting -- we were suggesting that you wouldn't see leverage from us this year. And in fact, you actually have. We've delivered over a full percentage point of operating margin leverage at the midpoint of the December guide. So I think we all feel pretty good. Tim and I feel pretty good about what we've been able to do. As we get into next year, depending on how WFE grows, how our top line grows, I hope we'll be able to continue to deliver some leverage into next year as well.
+
+Q - CJ Muse{BIO 6507553 <GO>}
+Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, CJ.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks.
+
+Operator
+And our next question comes from Krish Sankar with TD Cowen. Please go ahead.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Yeah, hi. Thanks for taking my question. I have two of them. First one, Tim, I understand -- thanks for the early view on calendar '25 WFE and you said that Lam revenue should outgrow or continue to outgrow WFE. Historically, is -- outperformance happened during strong NAND years and you do expect NAND WFE to grow. But I'm just wondering, is NAND still going to be the driver, especially with all this noise around cryo etch, maybe to 2026, even not 2025? I'm just trying to figure out what are the drivers for outperformance for Lam in calendar '25. And then I have a follow-up.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. Well, I think you probably did see the announcement from Lam on our Cryo 3.0 technology not too long ago. And so I think that some of that noise is what Lam is creating around the benefits of new technology upgrades to our own systems. And so I think the most important thing to think about with NAND is that the most efficient way to go from a certain layer count to a higher layer count and get the new -- benefits of those new technologies is to upgrade the installed base you already have in your fab. And so that's why we're talking about this high capture rate Lam has around NAND upgrades and how that's beneficial both for us and for our customers.
+
+And so, I think 2025, whatever the WFE spend is in NAND, it will be dominated by those technology upgrades. And Lam is by far in the best position to deliver both the technology and the economic value to our customers. So that's kind of the way I see the NAND's end market playing out next year. And it's a little too early for us to say exactly what the spending will be. But again, the requirements for those higher quality bits, I think, are being discussed and talked about in light of these new AI applications pretty publicly.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+I think, Krish, it's everything else that we've been -- we've also been talking about for a while, right, advanced packaging, backside power, gate-all-around, dry photoresist, right. Tim talks about this every time in his script because we're going to outperform in those areas too. So when you layer these two things together, that is where our confidence comes from.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. I think the -- I mentioned in the script the -- this comment, which I assume people are picking up on, but it's the etch and depth intensity of the technology inflections that are coming. I think the technology landscape, it is changing somewhat and it's beneficial to companies that are well-positioned to help in the building of these three-dimensional architectures that exist, whether it's backside power distribution, which is effectively a three-dimensional architecture on the backside of the wafer, or the advanced packaging, 2.5D and 3D packages, those get built by etch and deposition equipment. And so as those parts of the market are kind of the outperformers because of what they do for power consumption and high power, high computation devices, what they're doing in terms of enabling these multi-chip packages, I would expect etch and depth to continue -- would actually outperform WFE with those as the underlying technology trends.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Got it. Got it. Very helpful. And then just a quick follow-up for Doug. The inventory level has been pretty -- like you have been managing it really well. You're talking about a upcycle next year. Historically, you kind of start building inventory maybe a quarter or two before. Kind of curious, is it more you're unclear of the shape of the recovery next year or is it more the inventory management has gotten -- has changed and is much more efficient that it's kind of more like just in time? Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah. I mean, you got to actually peel the onion back on inventory at one level beneath just what's the total number to understand this. So a lot of the inventory, when you think back to when business turned down, a lot of it was in memory and specifically in NAND. And so a lot of the inventory we have, just to build tools that go into the NAND segment. And so you'll only really be able to move that inventory lower when NAND business ticks up, which obviously, we think that will happen this year. So that's a little bit of a -- you've got to wait for that. Offsetting that, though, other things are strengthening. Obviously, you saw the guide at $4.3 billion, and so you have to have components ready to build the tools that go into those segments. So those are the two things that you have to think about relative to the total balance.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Thanks, Doug.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Chris.
+
+Operator
+And our next question today comes from Srini Pajjuri with Raymond James. Please go ahead.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Thank you. A couple of follow-ups at this point. Tim, on your comment about WFE growing next year, I'm just curious, either by market segment or by a product segment, where would you say you have the best visibility and where do you think there is still some uncertainty out there?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Okay, well, we'd start getting very close to giving a full 2025 outlook if I go through all that detail. But I think that, obviously, some of our comments, one is, we believe NAND has been in a very prolonged down-cycle. And so it's not too much of a stretch to say that we would see NAND WFE higher, we're not going to quantify that, but again, higher and driven by these technology upgrades that I just talked a lot about. I think that we said that leading-edge foundry/logic, we continue to see quite strong, and with many of those investments targeted towards new technology pull-ins that help with performance and power consumption.
+
+And then, finally, we think advanced packaging, I think it's not a stretch to say that we believe advanced packaging WFE, I made the comment, it's gotten stronger in just the last 90 days. And so I don't see what would prevent that from continuing to trend higher as we move through 2025. And then we said China WFE lower, and so you're kind of like there's a -- there are puts and takes, but in general, a lot of things that are key to us, we think, trend higher.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Great. Thank you. That's helpful. And then another follow-up, Tim. I guess, on the tech transitions that you talked about, and there are a lot of questions on NAND, et cetera, but I looked at your product, I mean your revenue mix, logic and foundry is like 60% of your mix today, quite different from what it used to be. So you talked about things like backside power, GAA, et cetera, increasing the intensity for you. I'm just curious, outside of just the deposition and etch intensity going up, how do you think about your market share because we hear about these tech transitions from some of your competitors as well. It looks like a lot of you are benefiting, but I'm just curious as to how you think about your market share. What is the implied market share assumption when you say you're going to outperform WFE next year?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. Well, I think that in some of these areas, I talked about specifically, we think about what foundry/logic -- leading-edge foundry/logic is really doing is it is pulling in nodes like gate-all-around. For us, that allows us to gain -- expand SAM and gain share in markets where we didn't previously compete. So every selective win -- etch win for us is basically new market. ALD is expanding in new share market for us. So we do have opportunities where, again, we've -- I talked about transforming our product portfolio and we've expanded the product portfolio to address those markets. And so, for us, many of those are not only their new wins and their share gain, and for those who've already been participating in those markets at prior nodes and prior technologies, you probably see a lot more replacement revenue versus actual share gain. So I think that is one thing that distinguishes Lam, is that we're coming from a historically lower exposure to that particular segment.
+
+Advanced packaging, again, very strong product portfolio for that. Backside power, I think everybody knows we're extremely strong in terms of our positioning in copper plating. There's a lot more usage, you add more metal layers onto the backside of the wafer, represents share gain, overall WFE when you see changes coming like that. So I think you're right to say that a lot of people are going to benefit from continued technology advancement and general equipment intensity increases overall, but we do think that etch and deposition increases faster than many of the other segments, and therefore Lam has an opportunity to gain share.
+
+Q - Srini Pajjuri{BIO 5862807 <GO>}
+Very clear. Thanks, Tim.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Srini.
+
+Operator
+And our next question today comes from Stacy Rasgon with Bernstein Research. Please go ahead.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi, guys. Thanks for taking my questions. First, I wanted to drill again a bit more into the China gross margin trade-off. So clearly, if WFE is growing and your share is growing next year, but China is down, your China mix does get worse. And I know you don't want to guide gross margins, but do you think that the other drivers you have on gross margins can be enough to offset the negative mix from -- like China mix went down to 25% of your revenue next year, like is there enough around the other drivers you have to try to offset that? I'm just -- I'm wondering if I should be thinking about the Q4 gross margin as the floor, as the trough, and then growing from there with some of the other drivers. How do I think about that?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah. Stacy, listen, some of the things I pointed to, you have to think through it holistically. And part of it will depend on revenue levels. And obviously, I'm not going to guide specificity into next year. But we have done a whole bunch relative to pivoting the footprint of the company to be closer to where the customers' fabs are, lower cost structure, more affordable supply chain, shorter freight distances. I mean, those things are going to be beneficial as we get into a growing top line, offset by some of that customer mix. I'm not going to give you specifics yet because I'm not sure exactly what revenue is next year, but I feel pretty good about our ability to continue to drive the operational side of gross margin improvement. And then the customer mix will be one of the things we're working to overcome. But I'm not going to give you enough specificity that you want right now. But certainly, we'll do that as we get into next year on the next call.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Okay. And at a minimum, I guess you do see revenues up at least. So that should be a positive.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, it should be, Stacy, yeah.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Okay. Got it. Thanks. For my follow-up, I want to drill in a little of this NAND tech transition versus capacity. I think I understand the idea that tech transitions are lower WFE, but you have a big installed base and your share is higher. From a dollar basis, what is better for you, a capacity-driven market or a technology transition market? I know you've said you're agnostic, but I don't -- I just don't see how that can be true. So like what am I missing?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Well, I mean, I guess, when we talk about outperformance of WFE, then there's no doubt that tech transition market is better for us. I think that there's been a lot of questions. I think what we've been trying to address is perhaps some of the skepticism about the desire and need for the market right now to invest in significant additional capacity. And so whether that's true or not, that will be our customers' decision. But what we're saying is that regardless of within that, that's why we gave this two-thirds of bits that fill sub-200 layers, we believe there is a need both technically and economically to move those forward to more advanced nodes.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+I'm just asking if -- would your NAND dollars be higher in a capacity-driven market or an upgrade-driven market? That's what I'm trying to understand.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Well, it depends on the overall level of investment, Stacy. It's not a straightforward question. We get a decently higher share of spend when it's a transition or an upgrade year, but the industry obviously spends less. But our relative outperformance in a situation like that, which is largely what we see next year, we're going to outperform more. Then the rest of it, you have to get into the specific numbers, which obviously we're not going to do right now.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Okay. That's helpful. Thank you, guys. Appreciate it.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Stacy.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Sure.
+
+Operator
+And our next question today comes from Atif Malik with Citi. Please go ahead.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Hi, thank you for taking my questions. My first question is on China WFE. It sounds like you're expecting China's WFE to come down, but not as much as your peer that reported last week. They're expecting their China sales to come down 30% next year. Are there dynamics between lithography and depth etch that will help explain why lithography could be coming down faster or maybe it's something to do with your Reliant business or spare parts or anything, if you have any thoughts on that?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Atif, obviously, it's extremely hard, if not impossible, for us to compare what someone else is thinking versus what we think because we don't know what they're thinking for sure, to be perfectly honest. I would observe though, if you look at how much perhaps some of our peers' growth in that specific geography grew versus what we did, the numbers are very different, right, and the lead times are very different between different tool types. And so some things ships sooner than others. And so you can't make a direct comparison because, frankly, I don't know exactly what somebody else has seen. But others have grown a lot more in that region than we have. And so you have to kind of factor all of this stuff in. I don't know, Tim, if you want to add anything.
+
+A - Tim Archer{BIO 7502648 <GO>}
+No, no, I think it's just -- it's very hard to make those comparisons for all the reasons that Doug just mentioned there, especially in terms of the rate at which people have been shipping at this point and lead times, and so not much more we can say.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Thank you. And then my follow-up, Tim, I was positively surprised to see that one of your large memory makers in Korea is adopting dry resist for their 1c DRAM sixth generation process. We've been under an impression that maybe dry resist happens when the high-NA too [ph] come out. Have there been any changes in terms of the adoption curve for dry resist?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Well, we -- I don't know how dry resist ever got intricately tied to high NA other than what we've said, is when you get to high NA, we had believed that there likely is no other choice. But clearly, we've been working hard. There are -- to (inaudible) earlier, based on all of the benefits we've talked about with dry EUV and dry EUV processing in general, which is multiple steps, it's the underlayer, it's the resist, it's the dry develop, and in those cases, there's economic benefits from having to be able to shorten the exposure. We've talked about pattern fidelity benefits. There's benefits from using the dry develop versus a wet process in terms of defectivity. And so I think that you just with each customer, you reach a point where they see enough of those benefits tipping over to where they make the change. And so it's not necessarily tied to any particular node. And so I think that -- I think that we'll see over time customers adopted different technology nodes.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Atif.
+
+Operator
+And our next question comes from Joe Moore with Morgan Stanley. Please go ahead.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. Thank you, guys. Sorry to ask about China again. But as you make these comments about December and next year, how are you thinking about the commerce department export controls? Have you had -- I'm not asking what you think the decision will be, but have you had conversations where you have some kind of general sense of what the restrictions may be? Or are you kind of guessing like the rest of us? And if you're guessing, how are you making those guesses?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, I think that the view we've given you contemplates our best understanding of -- and our best estimate of what we think will happen. And so I don't know if you call that a guest, an educated guest. I mean, I doubt all of you guys are just guessing. You have sources of information. I mean -- and so I think that that's just -- that's our view. And the best we can say right now is what we've said about our -- how we see China WFE both through the next quarter as well as into next year.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Okay. That's helpful. Thank you. And then as you think about December, if China drops down to 30%, you've got double-digit growth ex-China. I mean, first of all, am I being too literal and precise about that? And -- but if you are going to grow double digits ex-China, kind of what gives you the confidence around that?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+I mean, Joe, it's the same thing we do every time we guide you with numbers. We understand what customers expect from us, what we think they're going to order, what -- to the best of our ability, every single region of the world is going to do every single customer, every single fab, and so forth. We put it together the same every single quarter, and that's what we've just done. And the only thing we've done incrementally here because there's been so much chatter about China is give you a number on China, which normally we don't do any geographic stuff. But the $4.3 billion we just guided you to, we've gone through the same process we do every single quarter to put the data together to support that.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Excellent. Thank you so much.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+You're welcome.
+
+Operator
+And our next question today comes from Blayne Curtis with Jefferies. Please go ahead.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Thanks for squeezing me in and now I feel bad that Joe said one more on China because I had one more in China. But I'm just kind of curious, I think (inaudible) to the beginning, $250 million is the math to come out in December. I guess, going into this, the expectation was that like the Chinese DRAM would be front-end loaded. And I guess, you've seen -- I think you recognize that as non-volatile, that it's come down. So I'm assuming that's less of a headwind. So I guess, roundabout way of saying, should CSBG be down in December, it would seem like that would be the bulk of the $250 million that comes out. Just can you dial us in a little bit as to where -- what segment that headwind is in?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Man, Blayne, I don't know if I can answer your question. Is it possible CSBG is down next quarter? Sure, it's possible. The Reliant component does attach to the specialty node stuff, which is obviously correlated to a certain extent with China, not only but elsewhere also. But there's other stuff going on in there that ties to upgrade cycles and utilization and so forth. I don't know if I'm helping you. I'm just kind of rambling here a little bit.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+It's fine. I just want to ask you also, I think the messaging on NAND is a lot more positive. I think people have gotten incrementally more negative on timing of NAND. Just kind of curious the timing that you'll see those upgrades. Obviously, you've had this headwind from the Chinese customer, but do you expect that tailwind to be a tailwind kind of the rest of this calendar year or is it truly a '25 tailwind?
+
+A - Tim Archer{BIO 7502648 <GO>}
+No, we were -- I mean, we were speaking about that primarily from a 2025 perspective and didn't give any timing within that particular year. It's just, again, predicated on this idea that the down-cycle has been quite long and the -- which has put a number of -- quite a large portion of the capacity at technology nodes that we think can be significantly improved for current uses through technology upgrades. And those are the conversations we're having with customers. We'll give more on the timing once we have a better view of it as we move into early next year.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Got you. Thanks so much.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+All right. Thanks, Blayne. Operator, we will take one more question.
+
+Operator
+Sure thing. And our final question today will come from Chris Caso with Wolfe Research. Please go ahead.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Yes, thank you. I guess a question on DRAM and not a little [ph] discussion on that heading into next year. What's your view on the trends you're seeing there? And again, have they -- there's been a lot of mixed signals on that. Has that changed in the last 30 days -- last 90 days for you?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+No, Chris, it really hasn't changed in the last 90 days. You've got a product cycle in DRAM, DDR4, going to DDR5, you've got the high-bandwidth memory that's going on in there that's pulling through need for incremental equipment. We believe that grows again next year. I don't think too much has changed relative to our outlook in DRAM. Yeah.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Okay, thanks. Just as a follow-up and it'll be one more close it out on one more China question. With what you said about China 30% of revenue exiting the year, is it safe to say by what always hold with the expectation for some of the other segments, foundry/logic for NAND to grow next year that most likely that China comes in if we look for the full year at below 30% of revenue -- below 30% of total revenue as we look in the whole year? Obviously, I know it depends upon what your total revenue looks like, but it feels like you're seeing growth elsewhere and probably not in China from a fourth quarterly level. Is that at least a rational way to think about it?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Chris, it's not unreasonable to be thinking about it that way. And frankly, like I said, we're not guiding '25 numerically yet. It's possible that China trends down below 30%, for sure. It's too soon for us to get numerically specific on next year, but we will certainly do that on the call next quarter.
+
+Q - Chris Caso{BIO 4815032 <GO>}
+Got it. That's helpful. Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah. Thanks, Chris. Operator, that concludes the call here. Thanks everybody for joining, and I'm sure we'll be talking to most of you as the quarter progresses.
+
+Operator
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.
+

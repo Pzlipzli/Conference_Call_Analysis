@@ -1,0 +1,424 @@
+Q3 2022 Earnings Call
+Company Participants
+Devinder Kumar, Executive Vice President, Chief Financial Officer and Treasurer
+Lisa Su, President and Chief Executive Officer
+Ruth Cotter, Senior Vice President, Worldwide Marketing, Human Resources and Investor Relations
+Other Participants
+Aaron Raikers, Wells Fargo
+Ambrish Srivastava, BMO
+Blayne Curtis, Barclays Capital
+Chris Danely, Citigroup
+Harlan Sur, JP Morgan
+Harsh Kumar, Piper Sandler
+Joseph Moore, Morgan Stanley
+Matt Ramsay, Cowen & Company
+Ross Seymore, Deutsche Bank
+Stacy Rasgon, Bernstein Research
+Timothy Arcuri, UBS
+Toshiya Hari, Goldman Sachs
+Vivek Arya, Bank of America Global Research
+Presentation
+Operator
+Hello, and welcome to the AMD Third Quarter 2022 Earnings Call. At this time, all participants are in listen-only mode. (Operator Instructions). A question-and-answer session will follow the formal presentation. As a reminder, this conference is being recorded.
+
+It's now my pleasure to turn the call over to Ruth Cotter. Please go ahead, Ruth.
+
+Ruth Cotter{BIO 16509123 <GO>}
+Thank you, and welcome to AMD's third quarter 2022 financial results conference call. By now, you should have had the opportunity to review a copy of our earnings press release and accompanying slides. If you do not reviewed these documents, they can be found on the Investor Relations page of www.amd.com. We will refer primarily to non-GAAP financial measures during this call. The full non-GAAP to GAAP reconciliations are available in today's press release and slides which are posted on amd.com as mentioned.
+
+Participants on today's conference call are Dr.Lisa Su, our Chair and Chief Executive Officer; and Devinder Kumar, our Executive Vice President and Chief Financial Officer and Treasurer. This is a live call and will be replayed via webcast on our website.
+
+Before we begin today, I would like to note that Mark Papermaster, Chief Technology Officer and Executive Vice President, Technology and Engineering will attend the Wells Fargo Technology Media and Telecommunications Summit on Wednesday, November 30, and our fourth quarter quiet time is expected to begin at the close of business on Friday, December 16.
+
+Today's discussion contains forward-looking statements based on current beliefs, assumptions and expectations speak only as of today and as such, involve risks and uncertainties that could cause actual results to differ materially from our current expectations. Please refer to the cautionary statement in our press release for more information on the factors that could cause actual results to differ materially.
+
+Now with that, I'd like to hand the call over to Lisa. Lisa?
+
+Lisa Su{BIO 5791223 <GO>}
+Thank you, Ruth, and good afternoon to all those listening in today. Our third quarter revenue and gross margin came in below our expectations due to softening PC demand and substantial inventory reduction actions across the PC supply chain. Despite the macro backdrop, overall revenue grew 29% year-over-year to $5.6 billion, as our data center, gaming and embedded segments, each delivered significant year-over-year growth and performed in line with our expectations. We also expanded gross margin and grew net income year-over-year, highlighting the strength of our business.
+
+Turning to the business results. Starting with our data center segment. Revenue increased 45% year-over-year and 8% sequentially to $1.6 billion. We delivered our 10 straight quarter of record server processor sales, driven by strong demand for 3rd Gen EPYC processors, and initial shipments of our nextgeneration Genoa CPU to select the customers. Cloud revenue more than doubled year-over-year and increased sequentially as multiple hyperscalars expanded deployments of EPYC processors to power their internal properties, and more than 70 new AMD instances were launched by Microsoft Azure, Amazon, Tencent, Baidu and others in the quarter.
+
+In enterprise, OEM revenue was down sequentially as server OEMs continued working through match set issues and some business has slowed the pace or scale of their purchases based on the macro uncertainties. Looking at the broader competitive landscape, our third-gen EPYC CPUs in market today are the highest performance and most energy-efficient x86 server CPUs available. And we expect to further extend that lead with our next-generation 5nm Genoa processors which delivers significant performance, energy efficiency and TCO advantages for both hyperscalers and enterprise workloads. We will publicly launched Genoa next week, and our revenue production to support initial cloud deployments and the introduction of 4th Gen EPYC processor platforms by HP Enterprise, Dell, Lenovo, Super Micro and others.
+
+Looking at our broader data center portfolio. As expected data center GPU sales were down significantly from a year ago, when we had substantial shipments supporting the build-out of the Frontier exascale supercomputer. We made good progress with our data center GPU software enablement work in the quarter, including announcing our role as a founding member of the PyTorch Foundation. We look forward to working closely with the largest cloud providers, as we drive a standards based approach to the development of popular PyTorch deep learning software framework.
+
+Demand from data center customers for our adaptive, smartNICs and DPU products was strong during the quarter. We had record sales of our Xilinx FPGA and networking data center products led by demand from cloud and financial customers. Sales of our Pensando DPUs also ramp significantly from the prior quarter driven by cloud adoption. The addition of Pensando DPUs to our product portfolio has been very well received by customers, highlighted by our enterprise customer pipeline doubling in the few months since the acquisition closed. We were excited to support VMware's launch of its next-generation cloud virtualization platform in the quarter.
+
+Our Pensando DPUs will be included in the first validated server and HCI solutions supporting the new VMware virtualization offerings from Dell, HPE and others, that will make it much easier for enterprise customers to build more performance and secure data centers powered by our industry-leading DPUs. Taking a step back, we have built significant momentum in our data center business. As we have consistently executed our server CPU roadmap, and expanded our solutions capabilities with the addition of the Xilinx and Pensando products to our portfolio.
+
+We remain on track to further expand our product portfolio in 2023, with the launches of our edge and telco optimize Ciena and cloud optimize Bergamo processors. With 128 cores and 256 threads per socket, we expect Bergamo will further extend our performance in energy efficiency leadership in cloud workloads. Customer response has been very strong based on the performance, features and software compatibility Bergamo delivers. We believe our broad family of leadership CPUs, GPUs, FPGAs, Adaptive SoCs and DPUs position us well for long-term growth and share gains in the data center.
+
+Now turning to our client segment. Revenue declined 40% year-over-year to $1 billion. Our client processor shipments were below PC consumption in the third quarter. As we work closely with our customers to reduce downstream inventory. Desktop channel sell through increased from the prior quarter driven by increased demand for our Ryzen 5000 series CPUs, and the launch of our Ryzen 7000 series processors and AM5 platform in September.
+
+We launched our 5-nanometer Ryzen 7000 series processors to strong reviews based on delivering leadership performance in gaming productivity and content creation applications. We expect Ryzen 7,000 CPU sales to ramp this quarter, aligned with the launches of a broader range of mainstream enthusiasts AM5 motherboards.
+
+Now turning to our gaming segment. Revenue increased 14% year-over-year to $1.6 billion as strong semi-custom sales offset a decline in gaming graphics. We delivered our sixth straight quarter of record semi-custom SoC sales. As demand for the latest game consoles remain strong and Sony and Microsoft prepared for the holiday season. Gaming graphics revenue declined in the quarter based on soft consumer demand and our focused on reducing down stream GPU inventory. We will launch our next-generation RDNA 3 GPUs later this week, that combined our most advanced gaming graphics architecture with 5nm triplet design.
+
+Our high-end RDNA 3 GPUs will deliver strong increases in performance and performance per watt compared to our current products, and include new features supporting high resolution, high frame rate gaming. We look forward to sharing more details later this week.
+
+Looking at our embedded segment. Revenue increased significantly year-over-year to a record $1.3 billion, driven by growth from aerospace and defense, industrial and communications customers. Demand across our core markets remain very strong. We had record sales to aerospace and defense, and automotive customers, who are increasingly using our FPGA and adaptive SoC products, to enable differentiated capabilities and features in their products.
+
+Record communications market revenue was driven by growth from both wired and wireless customers. We saw particular strength in North America led by new 5G wireless installations and expanded wired infrastructure deployments. Overall demand for ours Xilinx products remain strong as we continue to leverage AMD scale to secure additional supply to address this demand.
+
+Longer-term we're very excited about the growth opportunities in our embedded business. We closed multiple higher revenue design wins in the quarter with automotive, networking, emulation and prototyping, communications and aerospace and defense customers. We're also seeing new design win opportunities and deeper engagements with many of our embedded customers, based on the expanded breadth of our adaptive SoC, FPGA, CPU, GPU and DPU product portfolio.
+
+In summary, we are well-positioned to navigate the current market dynamics based on our leadership, product portfolio, strong balance sheet and growth in our data center and embedded segments. We have three clear priorities guiding us. First and foremost, we're focused on executing our roadmaps and delivering our next generation of leadership products. Second, we're building even deeper relationships with our customers as we make AMD a fundamental enabler of their success.
+
+And lastly, we remain very disciplined in how we manage the business. We will continue to invest in our strategic priorities around the data center, embedded and commercial markets, while tightening expenses across the rest of the business and aligning our supply chain with the current demand outlook. The secular trends driving increased demand for high performance and adaptive computing in the cloud at the edge and across intelligent and devices, remain unchanged and provide a strong backdrop for long-term growth.
+
+Now I'd like to turn the call over to the Devinder to provide some additional color on our third quarter financial performance. Devinder?
+
+Devinder Kumar{BIO 17763436 <GO>}
+Thank you, Lisa, and good afternoon, everyone. AMD reported third quarter results in line with the preliminary results, we announced last month. While we are pleased with the performance of our data center, gaming and embedded segments each of which grew significantly year-over-year. Our third quarter results also reflect lower than expected client segment revenue. Third quarter revenue was $5.6 billion up 29% from a year ago, gross margin was 50% up 150 basis points from a year ago, primarily driven by higher revenue in the embedded and data center segments partially offset by lower client revenue and $160 million of inventory, pricing, and related charges in the graphics and client businesses.
+
+Operating expenses were $1.5 billion compared to $1 billion a year ago, as we continue to scale the company. Operating income was up 20% from a year ago to $1.3 billion driven by revenue growth and higher gross margin. Operating margin was 23% compared to 24% a year ago due to higher operating expenses. Net income was $1.1 billion, up $202 million from a year ago. Our earnings per share was $0.67 per share, compared to $0.73 per share a year ago, primarily due to lower client segment revenue.
+
+Now turning to our reportable segments. Starting with the data center segment, revenue was $1.6 billion, up 45% year-over-year driven by strong growth in third generation EPYC server processor revenue. Data center operating income was $505 million, or 31% of revenue compared to $308 million or 28% a year ago. Higher operating income was driven primarily by stronger revenue, partially offset by higher operating expenses.
+
+Client segment revenue was $1 billion, down 40% year-over-year due to reduced processor shipments resulting from a weak PC market and a significant inventory correction across the PC supply chain. Client operating loss was $26 million, compared to operating income of $490 million or 29% of revenue a year ago, primarily due to lower revenue.
+
+Gaming segment revenue was $1.6 billion, up 14% year-over-year driven by higher semi-custom product sales partially offset by lower graphics revenue. Gaming operating income was $142 million, or 9% of revenue, compared to $231 million or 16% a year ago. The decrease was primarily due to lower graphics revenue and inventory, pricing and related charges.
+
+Embedded segment revenue was $1.3 billion, up $1.2 billion from a year ago, primarily due to the inclusion of Xilinx embedded product revenue. Embedded operating income was $635 million, or 49% of revenue compared to $23 million, or 30% a year ago, driven primarily by higher revenue.
+
+Turning to the balance sheet. Cash, cash equivalents and short-term investments for $5.6 billion at the end of the third quarter. During the quarter, we repaid the 7.5% senior notes totaling $312 million that matured in August and deployed $617 million to repurchase common stock. We have $6.8 billion in remaining authorization for stock repurchases.
+
+Cash from operations was $965 million, and free cash flow was $842 million compared to $764 million in the same quarter last year. Inventory was $3.4 billion, up approximately $721 million from the prior quarter, driven primarily by client products, and new products ramping in the second half of the year.
+
+Now turning to our financial outlook. Today's outlook is based on current expectations and contemplates the near-term macroeconomic environment. For the fourth quarter of 2022, we expect revenue to be approximately $5.5 billion, plus or minus $300 million, an increase of approximately 14% year-over-year and flat sequentially. The year-over-year growth is driven by embedded and data center segments, partially offset by a decline in the client and gaming segments. On a sequential basis, embedded and data center segments, I expected to grow offset by declines in the client and gaming segments. In addition for Q4 2022, we expect non-GAAP gross margin to be approximately 51%, non-GAAP operating expenses to be approximately $1.55 billion or 28% of revenue. Non-GAAP interest expense, taxes and other to be approximately $175 million based on a 13% effective tax rate, and diluted share count to be approximately 1.62 billion shares.
+
+For the full year, we expect revenue to be approximately $23.5 billion, plus or minus $300 million, an increase of approximately 43% led by growth in the embedded and data center segments. We expect non-GAAP gross margin to be approximately 52%.
+
+In closing, we continue to focus on executing our long-term strategy, while navigating current market conditions. We will prioritize the key investments for product roadmaps and long-term growth, while taking several near-term cost management actions including prudently controlling operating expenses and headcount growth, while actively managing inventory in line with our revenue expectations.
+
+With that, let me turn the call over to Ruth for Q&A session. Ruth?
+
+Ruth Cotter{BIO 16509123 <GO>}
+Thank you, Devinder. Kevin, if you could please poll the audience for questions.
+
+Thank you, Devinder. Pam, Kevin, if you could, please poll the audience for questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Certainly. We'll now be conducting a question-and-answer session. (Operator Instructions) Our first question today is coming from Aaron Raikers from Wells Fargo. Your line is now live.
+
+Q - Aaron Raikers
+Yeah. Thanks for taking the question. I have one question and one quick follow-up. I guess as we look at your client piece of the business being down sequentially in the current quarter. As we work through inventory digestion at your customers, I'm curious to just how you -- how you're thinking about kind of the clearing out of that inventory. Do you think we find a bottom coming out of the December quarter? Or any kind of thoughts of just that kind of full expectation of flushing of inventory in the PC market for you guys?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Sure, Aaron, thanks for the question. So, clearly, the PC business has been very volatile and underperformed for us in the third quarter. I think as we go into the fourth quarter, we are guiding that -- Embedded in our guidance is that PCs will be down again in the fourth quarter. We believe that will be a significant step in clearing inventory between the third quarter and the fourth quarter. And of course, we'll monitor the macro conditions, but we'll certainly exit the year in a better place.
+
+Q - Aaron Raikers
+Yeah. And then as a quick follow-up, on the server side of the business, I think in the past, you've talked about your ability to shifting somewhat supply constraint. I'm just curious if you have an update on the supply situation in the server CPU, especially as we look towards the Genoa processor ramp in the next quarter or two.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Sure. So in the -- on the server side, we certainly have been ramping up our overall supply. I think we made good progress on that throughout the year. We have more supply in Q4 than we had earlier in the year, and some of those investments are coming online here in the fourth quarter. So, we expect, as we go into 2023 with the Genoa launch not to be supply constrained based on what we currently see.
+
+Q - Aaron Raikers
+Yeah. Fair enough. Thank you.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Thanks.
+
+Operator
+Thank you. Next question is coming from Toshiya Hari from Goldman Sachs. Your line is now live.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Thanks so much for taking the question. Lisa, I wanted to ask a question on the outlook for 2023, specifically in the server CPU business. I know it's early and difficult to predict, but given the supply comment that you just made, given what you're hearing from customers, both on the cloud side as well as the enterprise side, and to ramp up your new products, how are you thinking about the positives there versus the macro, which continues to be a headwind? I think many of us have -- your business is growing in Data Center kind of in the 20% to 30% range. Is that a fair place to be or is that little too optimistic given what you know today?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. So, it is a little bit early to talk about 2023 precisely. But maybe let me give you a backdrop of where we see the Data Center market today. As you said, in the near term, there are some overall macro headwinds that are affecting all markets, including the Data Center market. Now it varies by segment.
+
+And so, if I go through each of the segments, what we're seeing is, I think, North America cloud is probably the most resilient out of the segments within the Data Center market. And this is where AMD is the strongest, we've had very good progress at the North American cloud vendors. And we continue to believe that, although there may be some near-term, let's call it, optimization of, let's call it, individual footprints and efficiencies at individual cloud vendors over the medium term. As we go into 2023, we expect growth in that market, particularly customers moving more and more goods to (Inaudible) just given the strength of our product portfolio and overall, Genoa on coming forward.
+
+As we look through the other segments, I think China is -- has been very weak in 2022 and we're not forecasting a significant recovery in 2023, so we'll see how that goes.
+
+And then on the enterprise side. I would say, enterprise is probably most impacted by the macro. So we have seen customers taking longer to make decisions and perhaps being a little bit more conservative on CapEx. That being said though, we feel very good about our value proposition, we feel very good about our product portfolio, and we believe, even in a little bit of a choppy market that we can gain share across that business.
+
+So overall, I think our Data Center trends are good, and we need to work through the macro as everyone does.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+That's helpful. And then as my follow-up question on gross margins, maybe for Devinder. So you're guiding Q4 gross margins up about 100 basis points, which is good to see, but you're still 300 basis points below where you were in Q2. And since then, obviously, Client is down significantly, your Data Center business is very resilient, and so is the classic Xilinx business. So from a mix perspective, you should be in a better place. What's driving down gross margins in Q4, I guess, versus Q2? Are you recognizing another inventory hit or is it something else? Thank you.
+
+A - Devinder Kumar{BIO 17763436 <GO>}
+No inventory hits, first of all, Toshi. On the gross margin, as you said, Q2, 54%. If you go all the way to Q4, 51%, primarily as the weak PC market and client margins coming down. For example, if you look at Q3, all other businesses were in line with expectations, and client margins came in lower.
+
+We also have in the data center, a place cloud weightage, which has lower ASPs, so that also has an impact on margins. And then, as Lisa mentioned earlier, some of the new capacity that we have from a supply standpoint. There are some additional costs from the supply capacity agreements and those are baked in into the Q4, 51% margin guidance.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Thank you.
+
+Operator
+Thank you. Next question is coming from Stacy Rasgon from Bernstein Research. Your line is now live.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi, guys. Thanks for taking my questions. For the first one, I wanted to ask about the extra week in Q4. How much revenue is that driving on an overall basis, as well as in Data Center, specifically? Is there -- I don't know how linear those -- that -- particularly that business is. Is there any sort of -- is there any material impact from that extra week?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah, Stacy. We're not really counting on a material impact from the extra week. I think, if you look at the pluses and minuses in the quarter, the guidance for Q4 really is around sort of PCs and, let's call it, Gaming being lower, and again, those are -- with all the holidays in place, we're not counting on too much there. And then, Data Center is -- Data Center, Embedded are higher, but we're not expecting that the extra week has a material impact.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. Thank you. For my follow-up, I want to ask about units versus pricing in Q3 and Q4. I know, in Q3, you specifically mentioned pricing has an impact. And it sounds like you're suggesting client margins are coming down. I know that's just a cost or there's a pricing impact also. But like, what did units and pricing do in client in Q3? And what are you expecting on -- into Q4?
+
+A - Lisa Su{BIO 5791223 <GO>}
+No, for -- Stacy, so I think if you look at the third quarter it was -- there are a lot of dynamics in the client business. So market was weak, in particular, consumer was weak, and we have more of a footprint in consumer. So in that framework, we saw units come down but we also saw ASPs come down on a sequential basis. Now, I will say that ASPs were still up on a year-over-year basis. So we've been, let's call it, disciplined in our -- in this pricing environment. We did see some pricing dynamics in the quarter and we didn't chase unprofitable business and we'll continue to be sort of watching that space. So that was the pluses or minuses as it relates to client ASPs.
+
+And as we go into the fourth quarter, again, I think we're forecasting for a competitive environment given the market weakness, and that's embedded in the guide.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. That's helpful. Thank you, guys.
+
+Operator
+Thank you. Next question is coming from Vivek Arya from Bank of America. Your line is now live.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. For the first one, I just wanted to clarify, what is the client revenue we should be thinking about for Q4, is it $800 million, $900 million, any help there? And, I guess, Lisa, the bigger question there is, what does client recovery look like? Do you get back to the $2 billion quarterly rate, do you get to $1.5 billion? And I ask that because your competitor was suggesting that next year the PC TAM would only be down 4% or 5%, which seems a little bit optimistic. What do you think AMD is kind of and what kind of PC TAM does AMD have in mind for next year, so that we get a sense for how de-risked the model is from a PC perspective?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. So, a couple different points, Vivek. Let me just answer the sort of the expectations around Q4. I would say, we're guiding, let's call it, modestly down for Client and Gaming. And obviously, we're coming off of what is already a low base in Q3. We want to do that to correct the sort of the inventory situation as quickly as possible, and as a result, we're going to under ship consumption again in the fourth quarter to do that.
+
+As it relates to next year, I think there are a lot of factors. I mean, this year PCs will be down quite a bit, let's call it, high teens close to 20%. As we go into next year, I think, the industry is calling mid-single digits. I think that would be a good case. I think we should model down to minus 10%. And again, within our PC business, we expect -- as we get through this inventory correction -- I mean, we have very good products and I feel very good about our product portfolio and very good about our platforms overall. So, I do think the PC business will recover as we go into 2023, but you'll have to work through these dynamics over the next quarter or so.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Understood. And for my follow-up. Devinder, maybe one for you on gross margins. How much of the write-offs and pricing actions that you're taking and -- that you took in Q3 and are taking in Q4, how much are they recoverable in Q1? So let's say, hypothetically Q1 revenue is the same as Q4 revenue, what can gross margins be? How much of the actions are recoverable?
+
+And basically, how do you start getting back to the prior trend of 54% gross margin because the longer-term target is over 57%? So if client revenues don't really grow that much, are there actions that can help you get back to your prior gross margin trajectory? Thank you.
+
+A - Devinder Kumar{BIO 17763436 <GO>}
+Let me try to answer it this way. If you look at Q3, in and of itself, we came in with about 50% gross margin. We had $160 million of charges, which are inventory pricing and related charges. If you adjust for those, the margin for -- in Q3 is about 52%. And we had guided for 54%, we came in at 52%, and primarily that's due to two reasons, right? You have the client weak PC market and obviously, the client margins are down. As I said earlier, the rest of the business has performed per the expectations.
+
+We have to work through what's going over the PC market over this quarter, next quarter, and maybe early '23, and then we come back and talk about the margins. I do feel good about the products we are introducing, especially the new products, and we have the ability to increase margins from where we are right now, guiding 51% and then taking it up from there.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+But is the $160 million recoverable? I guess that's really my question.
+
+A - Devinder Kumar{BIO 17763436 <GO>}
+Those were mostly inventory writes or pricing actions we take largely, I would say, not recoverable if that's what you're asking.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+I mean, can you get back to this 52% that you would have been normalized? Like you -- I expect, if you don't take these actions in Q1, then should you be at a higher gross margin in Q1 versus Q4?
+
+A - Devinder Kumar{BIO 17763436 <GO>}
+I won't guide Q1, but I -- what I'll say is, from the 51% that we have in Q4, we can improve from there.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+Operator
+Thank you. Next question is coming from Matt Ramsay from Cowen. Your line is now live.
+
+Q - Matt Ramsay{BIO 17978411 <GO>}
+Thank you very much. Good afternoon. Lisa, I have one question on the Data Center segment and then a follow-up on client. On the Data Center business, if you look back to the pre-announcement a month ago, I think there was a little bit of maybe -- came in a little bit under where we were modeling, I'll just say that way. And so I got a ton of questions on that. And I was really interested in some of the comments that you made in your script about how cloud revenue still more than doubled year-over-year. And anyway, just confirming that I got that right.
+
+And maybe if you could help us break down your Data Center business a little bit between the strength in cloud that I would expect to continue given the CapEx commentary we've heard, but there were obviously some headwinds from enterprise that you called out and clearly, from HPC, both on CPU and GPU. So I think that would be helpful to just break it down. Because I was surprised but that cloud revenue was as strong as it was given where the numbers came in the quarter. Thank you.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah, sure Matt. So, if we're focused on the third quarter, what I would say is, cloud revenue did more than double, enterprise revenue was down. And then on the GPU side, because we had a strong quarter in the -- third quarter of 2021, that was down to and perhaps that wasn't quite in your modeling. But the larger dynamics are, as I said earlier, the North America cloud is probably the best out of all of the -- all the Data Center segments. There is some impact on macro though. I mean, I think everyone is aware of that, that there's a little bit of pullback in CapEx spending. That being the case, I think our market share is very good there and will -- we expect it to continue to grow.
+
+And as the business becomes more cloud weighted -- there have been a few margin questions, so I'll just mention, as the business becomes more cloud weighted that tends to have a little bit of downward pressure on the margin. But our goal right now is footprint and expanding our footprint across cloud and enterprise. I will say, even in a weak enterprise market, as we go forward over the next few quarters, we feel really good about how we're positioned. And the platform solutions that are coming out with all of our OEM partners (Technical Difficulty). I think on a quarter-by-quarter basis, you may not get the model exactly right. But I think on a longer-term basis, I think the product portfolio and the product capabilities should help us continue to gain share.
+
+Q - Matt Ramsay{BIO 17978411 <GO>}
+Thank you, Lisa. That's helpful, I think, to highlight the cloud momentum continuing. I guess as my follow-up, I wanted to kind of revisit what we've learned over the last three or four months in the PC market. It's super dynamic times out there and obviously, things have changed in demand really, really quickly from when you guys guided back at the beginning of August until the pre-announcement. And I just kind of wanted to walk back through sort of the dynamics of how the quarter progressed from -- when you guys gave the original guidance. I guess, obviously, the market went down, there was inventory corrections and whatnot. But just, how quickly did you guys see that?
+
+And I guess the real question coming out of this is, how are you thinking about changes you might make in monitoring inventory levels or working with your channel partners? Just any changes you're thinking about making and operationally to the business to sort of protect from this kind of thing in coming -- and I guess going forward? Thanks very much. Any color there would be really helpful.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Sure, Matt. So yes, the third quarter, the PC market was very volatile. Going into it, we expected the market would be weak. It was weaker than we expected. And the weakest portion of the market is the consumer market, where we tend to be more heavily weighted. I think the thing that perhaps, we saw in the market is, we all -- as the overall macro economy has also weakened, customers in general across the board have just become more cautious. So, even as they were selling through their inventory, they were not replenishing stock to the same levels.
+
+And frankly, we were coming off of a supply-demand imbalance, wherein the first half of the year people were actually trying to gather inventory (Technical Difficulty) in a supply-constrained situation. So it is a very dynamic situation, I would say. I think that we have great partnerships across the supply chain. I feel good about the visibility that we have. I think the market will continue to be volatile but we will -- we're all sort of biased towards reducing inventory levels so that we can better react to the market factors and the market situation. So hopefully that helps a little bit.
+
+Q - Matt Ramsay{BIO 17978411 <GO>}
+No, no, definitely appreciate that, Lisa.
+
+Operator
+Thank you. Next question today is coming from Joe Moore from Morgan Stanley. Your line is now live.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great. Thank you. I wonder if you could talk a little bit about your visibility in the Xilinx part of the business, to the extent that we've seen some weakening in kind of broader markets here and there, but generally, it's okay. Like, can you just talk about how long your visibility extends there? How you feel about growth into next year?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah, absolutely, Joe. So the Xilinx business or our Embedded business has been performing just extremely well. Another very strong quarter in Q3 and we have -- we see growth into the fourth quarter. We have been very focused on what's happening within the various sub-segments. I think the nice part of the business as is that, it had -- it's very broad-based. So we have seen -- communications was up for us, aerospace and defense very strong, automotive was also up for us here in the third quarter.
+
+We did see some weaknesses. Consumer was weak. There was some sub-segments of industrial, so test and measurement was weaker in the third quarter. So we do see the puts intakes there, but overall, I would say, the business has strong visibility. We're still supply-constrained in certain nodes and some of the legacy nodes. We've made a lot of progress on supplies, so we're seeing additional supply come in in Q4 and that leads us to good confidence in Q4.
+
+We expect the first half -- again, we have multiple quarters of visibility just given the lead times in that business, and we'll be watching it very carefully. But I would say, overall, the products portfolio is strong and we've also gained some share in that business as well.
+
+Q - Joseph Moore{BIO 17644779 <GO>}
+Great. Thank you very much.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Thanks.
+
+Operator
+Thank you. Next question today is coming from Ross Seymore from Deutsche Bank. Your line is now live.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Hey, everybody. Thanks. So let me ask couple questions quickly here. Lisa, if you could give us a little color? You talked about the fourth quarter being, I guess, down modestly in Client and Gaming. Can you give relatively similar color for Data Center and Embedded, just because the volatility between segments obviously has been huge over the last couple of quarters?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Sure, Ross. Well, since -- on an absolute level, we're talking about flattish from Q4 to Q3, 555[ph] versus 556[ph]. So modest decline in Client and Gaming. Within Gaming, we would expect consoles to be down in the fourth quarter, given they're coming off of Q3, which is their peak. That's offset a bit by our new graphics launch, that is occurring in the next few weeks.
+
+And then as it relates to Data Center and Embedded, it's about the same. Let's call it, modest plus as we go forward, we expect, again, cloud to be stronger than enterprise and that some of the margin dynamics that we were asking earlier. And Embedded, as we get more supply, modestly up as well.
+
+Q - Ross Seymore{BIO 20902787 <GO>}
+Great. That's perfect. And then as my follow-up, one for either you or Devinder. As we think about OpEx for next year, how do you guys' philosophically balance the desire to stick to your business model that you laid out at your most recent Analyst Day versus the desire to continue to spend, continue to gain market share, put out the great new products and execute that you've done so well. Are those kind of buffers conflicting against each other? And how, if so, do you reconcile that confliction?
+
+A - Devinder Kumar{BIO 17763436 <GO>}
+I think the key thing is, we continue to invest in the strategic areas, in Data Center and Embedded and the product roadmaps. The macroenvironment has weakened the softness in the PCs, and we are taking actions to reduce expenses, especially in the rest of the business, besides what I talked about earlier in terms of the areas of focus. And we have slowed down hiring. So you're right, Q4, if you look at an E2R basis is high, but we are very disciplined in terms of what we're going to do. Expense actions do take time to kick in. And we expect as we go out into 2023, the E2R comes more in balance with the revenue and we managed it in line with the revenue out in time.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. And maybe Ross, if I just add on top of that. I think we have the opportunity -- we have multiple levers in OpEx, so we are going to be very disciplined, as Devinder said. That being the case, I mean, we feel very good about our strategic direction around Data Center, Embedded, and the Commercial markets. So we want to continue to invest there, where we will be more conservative on the consumer-facing portions of our business, and that's how we'll manage through 2023.
+
+Operator
+Thank you. Next question is coming from Ambrish Srivastava from BMO. Your line is now live.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Hi. Thank you very much. Lisa, I wanted to come back to the PC. The PC business is such a big disparity between your 3Q guide and what Intel guided to, or reported versus what they are guiding to in 4Q. And usually, things normalize over a longer period of time, but I just wanted to understand, is it a case of they took their medicine earlier and AMD continue to over ship versus demand? Just kind of help us understand. And there seems to be also a dynamic that Intel is raising pricing in 4Q, so there was some pull-in ahead of that. And I'm -- I have -- I've been getting a lot of questions myself. I don't understand such a big disparity, so any help would be very helpful.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Sure, Ambrish. Look, I think -- again, let me comment on our business, right? So -- for our business, as we exited the first half of the year, I think, we were planning for a sort of a reasonable PC market in the second half. Usually, the third quarter is higher than the first half, and the third and fourth quarter are seasonally higher. And so that's what we were building to, together with our customers by the way, with that expectation. I think, the market weakness as well as just the overall caution in the environment just caused people to behave a bit differently and that really required us to work together with our customers on the inventory corrections.
+
+And as you said, there were some temporal sort of dynamics. And we're aware of those temporal dynamics. Some of it is very sort of very aggressive pricing that we chose not to follow. And again, that's a decision that we made. And others are, as you might expect there might be some temporal optimization that people are doing. I don't think there's anything fundamental. I think fundamentally our product portfolio is strong. I think we have a very good platforms in place and we'll work through this. I fully agree that it's kind of a messy market environment that we have to work through, but we will work through it.
+
+Q - Ambrish Srivastava{BIO 4109276 <GO>}
+Got it. Got it. Thank you. And then, I had a follow-up for you, Devinder. Just talk about capacity opening up at the foundries. And we have this conversation at the Analyst Day about the headwind to free cash flow, given your need or desire to secure capacity. Is that going to temper off now -- taper off as we go through the remainder of the next few quarters as there should be more capacity that's available, plus on the PC side you should need much less than what you needed a couple of quarters ago? Thank you.
+
+A - Devinder Kumar{BIO 17763436 <GO>}
+Yeah, I mean, the capacity agreement that we're working on, which have some benefit especially as Lisa talked about earlier in the service business, these are long-term agreements we put in place and to support the growth of the business. Given the market a backdrop, we work actively with our suppliers in aligning supply with timing of revenue and ramp our products, and that's something that we are able to do with our suppliers given what's happened to the market. So there is -- from that standpoint, some flexibility overall, and that's something we'll work through over the next two to three quarters.
+
+Operator
+Thank you. Next question is coming from Harlan Sur from JP Morgan. Your line is now live.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Good afternoon. Thanks for taking my question. In Data Center, the team continues to expand in number of compute[ph] instances with your cloud customers on Milan. Seems like the momentum is tearing up and to the ramp of your fourth generation, Genoa platforms. I think this is a very good dynamic. I think you guys have good visibility here. So how long does the Milan momentum continue into next year? And are your cloud customers already qualifying Genoa? And when do you expect Genoa to start to kick into high volume ramp?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Thanks for the question, Harlan. So, yes, look, we're very happy with our Milan sort of workload ramp. We are continuing to ramp Milan here this year and then into next year as well.
+
+As it relates to Genoa, we did start initial shipments of Genoa to our strategic customers in the third quarter, and that is continuing in the fourth quarter, so we're ramping production in the fourth quarter. A lot of the, let's call it, the qualifications or the first instances are being qualified here in the fourth quarter into the first quarter. And what we've said before is that Milan and Genoa are going to actually co-exist for quite some time, just given how competitive both are. Genoa is a new platform. It's new DDR5 and PCIe 5 and that takes a bit longer for people to qualify. And so we would expect both to continue to ramp in 2023, and that's how we're planning the business.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Great, thank you. And despite the macro concerns and as you mentioned some near-term workload optimization, your North American cloud customers, I mean, they're still growing their cloud services business at a strong 30%, 40% year-over-year growth rate. And I assume at these types of growth rates like the consumption of compute, networking, storage workloads, and therefore installed utilization, like, this is all quite strong and driving the need to build out more compute capacity. Is this what's driving the team's sort of strong midterm outlook for this segment? Or is it more function of your strong product lineup with Genoa and continuing to capture greater compute share for both?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah, right, Harlan. I would say, it's a little bit of both, and I think you said it well. In the very near term, there is a little bit of optimization that each cloud vendor is doing, but in the medium term, what our customers are telling us is, they need more compute. And the more compute is for additional workloads building out. It's also for upgrade of, let's call it, older computes. Given our new products have very strong TCO, power efficiency, given the cost of power and energy around the world, we're actually seeing that also be a driver for some of the conversion to AMD in the cloud as we go into 2023.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Thank you, Lisa.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Thanks, Harlan.
+
+Operator
+Thank you. Next question is coming from Chris Danely from Citi. Your line is now live.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Hey, thanks, gang. So, if we take the macro out of it, can you just go through your share expectations in desktop, notebook, and server, let's just say, for the next 12 months or so?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Let's see. I'm trying to think, how do I take the macro out of it? So your questioning -- put the actual TAM aside and just talk about where we're going from a share standpoint, is that your question?
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Yeah. You can say relatively, where you expect to gain more or less (Multiple Speakers) like that.
+
+A - Lisa Su{BIO 5791223 <GO>}
+I got it. I got it. Okay. Yeah, I want to be responsive to the question. Well, let's start with the Data Center. I think, in the Data Center, we believe that we will continue to gain share. We expect to continue to gain share in both cloud and enterprise. We are more underrepresented in enterprise. And so, again, that's a key focus for us. But as we just stated in the last few questions, I think, North America cloud, in particular, I think, we see line of sight to significant new deployments based on our current roadmap.
+
+In the desktop and notebook business, our focus is on certain segments. So we're very focused on premium, we're very focused on gaming, and we're focused on commercial. I think in those areas there are, again opportunities for us to continue to gain share.
+
+I think in desktop, DIY business, or sort of the desktop channel business, we have a strong line-up. We just launched the new Ryzen 7000 series. We have additional products that we'll launch next year as well. And that's sort of the puts and takes in the various businesses.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Sure. And then as my follow-up, I guess, just getting back into the macro. So you mentioned that ASPs are getting -- or at least pricing is getting a little tough in CPUs. This downturn in PCs continues into next year and if it spreads into the Data Center market, how do you think of pricing going forward? And would you choose to maybe give up some share, if your competitor remains aggressive on price and the environment stays difficult?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Chris, I think we're -- we have a very strong value proposition. Our strategy is not to lead on price. So, if you look at -- look in the Data Center, although price is one factor, we find price is not the leading factor in the majority of the selections. There is work for us to do in terms of workload optimization and that's where a lot of our focus has been in the Data Centre. So, hopefully, that answers that piece.
+
+As it relates to the PC business, it is more price sensitive. We have seen it become more price sensitive. I think again, where we have a strong value proposition, we will continue to be very competitive. But even back a year ago, we didn't choose to compete in the cloud[ph] market, because again that was just not profitable business for us. And so we're going to be disciplined and ensuring that what we're taking is profitable business.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Got it. Thanks, Lisa.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Thank you.
+
+Operator
+Thank you. Next question is coming from Timothy Arcuri from UBS. Your line is now live.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Hi, thanks a lot. I had two. Lisa, first, I wanted to ask about U.S.-China trade. And I guess the recent restrictions, they didn't seem to have too much direct impact on you, but the direction of travel seems pretty clear. And you report China as 25% of revenue, but that's sell-in. So I'm wondering if maybe you can help us with what China is on a consumption basis, and kind of how you handicap where your China TAM is going? When you're making these investment decisions, how do you think about the U.S.-China trade and 0the direction of travel? And then I had a follow-up too. Thanks.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Sure, Tim. So we are certainly watching the situation very closely. Upon reviewing all of the new regulations as they have gone into effect, it is minimal impact on our revenue in the near term. We're certainly working very closely with Commerce and the rest of the U.S. Government on how those are ruling out.
+
+And then I think on a medium-term basis, again, my view on these things is, we will always follow the U.S. regulations and understand the need for National Security. The majority of our China business is, let's call it, non-Data Center. So it is more in the PC business as well as in some of the consumer-facing businesses. So, we are paying attention to that as we go forward in the business. But for the near term, we have not seen any significant impacts, and we'll continue to follow it very closely.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Thanks a lot, Lisa. And then, I guess, I wanted to ask a question about PCs. So you guided in late July and it seemed like things were fine and then we lost basically $1 billion basically in two months. It would seem like those were massively weak months, and I would think that maybe there's been some improvement in the run rate when you kind of head into Q4. Does that mean inventory is sort of being down a little bit? I mean the market probably only absorbed, I don't know, 50 million units in Q3 and you annualize that, you're at 200 million units a year. It's like hard-to-get PCs that bad next year. So I'm just kind of wondering if you can comment on sort of the run rate because August and September must have been terrible months. Thanks.
+
+A - Lisa Su{BIO 5791223 <GO>}
+The PC market certainly was volatile in the third quarter. I would say that we did drain a good amount of inventory in the third quarter. I think we are -- our guide indicates a desire to drain more in the fourth quarter, and I think we will make progress in that. And of course, it all depends on how the macro behaves over the next couple of months. But like I said, I think we are -- we have good visibility into the various market factors and we're planning for a weaker PC environment in the fourth quarter.
+
+Q - Chris Danely{BIO 3509857 <GO>}
+Thank you, Lisa.
+
+A - Ruth Cotter{BIO 16509123 <GO>}
+Thank you. (Multiple Speakers) Operator, we'll take two more questions, please.
+
+Operator
+Certainly. Our next question is coming from Blayne Curtis from Barclays. Your line is now live.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Hey, thanks for taking my question. I want to go back to just the pricing question prior. If you look at the decline in your client business a little over 50%, is there a way to think about units versus pricing there? And I think there's a couple of factors (Inaudible) curious your thoughts, mix away from the high end, but then you mentioned competition just kind of your thoughts as to that impact to pricing as well.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. So, Blayne, it was certainly more units. I think Stacy asked the question earlier. ASPs were down sequentially, but they were up year-over-year, so the decline was more driven by units, but there was an ASP factor on a sequential basis. And then, in terms of what we see in the market. I would say that as the market weakened, there was sort of more pressure at the high end, in terms of just velocity and desire to clear inventory. And so, the mix did mix towards lower ASPs and towards more incentives to clear that inventory.
+
+As it relates to longer term though, I don't feel like there's a longer term significant mix change, if that's what you were asking.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Well, I guess, the second part -- maybe I'll ask the second part is, gross margins are down 100 basis points from Q3 to Q4, mix is kind of going in your favor with Data Center and Embedded. But then I guess, you're saying PCs are not down that much, so I can't -- I guess, I was figuring maybe pricing is not that bad either. So I guess, that's a long way of asking. Again, what's the reason for the core margins to be down 100 basis points from Q3 to Q4?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. Okay, so let me try that. So if you think about what we see in the business, there's a couple of factors. So if you say, excluding the charges that we described $160 million in Q3, we were about 52%, we're guiding to 51%. We do see the client market continuing to be weak. We want to make sure that we have -- we do clear additional inventories. We do see in Data Center a mix to -- when the mix is higher for North America cloud that tends to be lower ASPs, just given the environment in that business.
+
+And then, Devinder mentioned that, as we increase capacity, particularly in the server market, there were some -- and we have some additional capacity coming online and that has a bit of cost impact. So, those are the couple of factors that get you to the 51%.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Thanks.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Sure.
+
+Operator
+Thank you. Our final question today is coming from Harsh Kumar from Piper Sandler. Your line is now live.
+
+Q - Harsh Kumar{BIO 3235392 <GO>}
+Yeah. Hey, guys. First of all, thanks for squeezing me in. Lisa, I had a question of the near-term, to call it, midterm view of the Data Center market. Do you think that the Data Center market is inherently growing in the December quarter, the market not AMD? And do you think -- and/or do you think you're growing because you're launching Genoa?
+
+And to that point, you talked about dislocations in the -- in sort of the Cloud and the Data Center market. I was curious, what specifically are you seeing and if you could differentiate between -- are you seeing just slower growth, or is the inventory that's built up. And then I've got a follow-up.
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. So -- look, what I would say is, again on a very discrete basis, I wouldn't say the overall Data Center market is necessarily up, just given the macro impact there is some impact on overall spending.
+
+In terms of our business, we do have a weighting towards North America cloud, that tends to be sort of the most resilient part of the market. And then, as it relates to what's happening in the market. Like I said, I think what's happening is enterprise is weak. I think that is overall people -- businesses are just being more cautious. China is weak and has been weak all year. And then in cloud, in general, there's not a -- in general, every customer are bit different in what they're trying to do. Some are just optimizing inventory, some are optimizing footprint and then some are continuing to build. And so, I wouldn't call it a market per se, I would call it their individual instances for each customer.
+
+What's helpful for us is, what we're talking about is not just Q4 with our customers, we're really talking about what do they need for all of 2023. I mean, we are coming from a place where we were supply constrained and so we're planning for the capacity that's necessary. And there, we see which workloads are moving and when are they moving each of the workloads. And so that gives us some visibility into what their spending plans are for 2023.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Very helpful, Lisa. And then for my last follow-up. Can you talk about the Gaming market in general? Of course, September, you mentioned as a peak quarter, so December will be off some. But is this also the peak Gaming year in 2022? And should we be thinking that Gaming will be down? Or just because these things are still so hard to get, you kind of go buy a PS5, you still can't get your hands on it easily. So, do you think there's more legs left to the growth next year?
+
+A - Lisa Su{BIO 5791223 <GO>}
+Yeah. So Harsh, we do believe that there is still some pent-up demand, especially coming into this holiday season. So Q3 was the peak for us this year, Q4 is down seasonally as you might expect. Going into next year, I think there are puts and takes, I would say, the best way to model at this point is to model Gaming segment flattish. And let's see how the holiday season goes. But that would be the way we would call it at this point.
+
+Operator
+Thank you. We reached the end of our question-and-answer session. I would like to turn the floor back over for any further or closing comments.
+
+A - Ruth Cotter{BIO 16509123 <GO>}
+Thanks, Kevin, and thank you everybody for tuning in today. And then we look forward to connecting with you all throughout the quarter. And we have two important product launches coming up here in the next ten days, so we'll look forward to that engagement. Thanks, everyone. This concludes the call.
+
+Operator
+Thank you. You may now disconnect and have a wonderful day. We thank you for your participation today.

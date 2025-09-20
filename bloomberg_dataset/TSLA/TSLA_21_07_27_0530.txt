@@ -1,0 +1,463 @@
+Q2 2021 Earnings Call
+Company Participants
+Andrew D. Baglino, Senior Vice President of Powertrain & Energy Engineering
+Elon R. Musk, Technoking, Chief Executive Officer & Director
+Lars Moravy, Vice President - Vehicle Engineering
+Martin Viecha, Sr.Director for Investor Relations
+Zachary J. Kirkhorn, Master of Coin & Chief Financial Officer
+Other Participants
+Colin Rusch, Oppenheimer
+Pierre Ferragu, New Street Research
+Rod Lache, Wolfe Research
+Presentation
+Operator
+Good day, and thank you for standing by. Welcome to the Tesla Second Quarter 2021 Financial Results and Q&A Webcast. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. (Operator Instructions) Please be advised that today's conference is being recorded. (Operator Instructions).
+
+I would now like to hand the conference over to your speaker today, Martin Viecha, Senior Director of Investor Relations. Please go ahead.
+
+Martin Viecha{BIO 17153377 <GO>}
+Thank you, and good afternoon, everyone. And welcome to Tesla's second quarter 2021 Q&A webcast. I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q2 results were announced at about 1 p.m. Pacific Time in the update deck we published at the same link as this webcast.
+
+During this call, we will discuss our business outlook and make forward-looking statements. These comments are based on our predictions and expectations as of today. Actual events and results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+
+During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up. Please press star one now if you would like to join the question queue. But before we jump into Q&A, Elon has some opening remarks. Elon?
+
+Elon R. Musk{BIO 1954518 <GO>}
+Sure. So, to recap, Q2 2021 was a record quarter on many levels. We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla history. I'd really like to congratulate everyone at Tesla for amazing job. This is really an incredible milestone.
+
+It also seems that public sentiment towards EVs is at an inflection point. And at this point, I think almost everyone agrees that electric vehicles are the only way forward.
+
+Regarding supply chain, while we're making cars at full speed, the global chip shortage situation remains quite serious. For the rest of this year, our growth rate will be determined by the slowest part in a our supply chain, which is a -- there's been a wide range of chips that are, at various times, the slowest part in the supply chain.
+
+I mean, it's worth noting that if we had everything else, if we had vast numbers of vehicles and cells, we would not be able to make them -- everything except the chips, we wouldn't be able to make them. The chip supply is fundamentally the governing factor on our output. It is difficult for us to say how long this will last, because we don't have -- this is out of our control, essentially. It does seem like it's getting better, but it's hard to predict.
+
+So, in fact, even achieving the output that we did achieve was only due to an immense effort from people within Tesla. We were able to substitute alternative chips and then write the firmware in a matter of weeks. It's not just a matter of swapping out a chip; you also have to rewrite the software. So, it was an incredibly intense effort of finding new chips, writing new firmware, integrating it to vehicle and testing in order to maintain production.
+
+And I'd also like to thank our suppliers, who work with us. And there have been many calls, midnight, 1:00 a.m., just with suppliers in resolving a lot of the shortages. So, thanks very much to our suppliers.
+
+Let's see. In terms of FSD subscription, we were able to launch full self-driving subscription last month. And we expect it to build slowly and then gather a lot of momentum over time. Obviously, we need to have the full self-driving build widely available for it really to take off at high rates, and we're making a lot of progress there. So, yes, I think FSD subscription will be a significant factor probably next year.
+
+Regards to Giga Texas and Giga Berlin, we're actually doing this earnings call from Giga Texas. So, we're in the factory right now doing this earnings call -- this earnings call. And the team has made incredible progress here. You can see the pictures online, and see that there was basically nothing a year ago. And this large, mostly complete, large factory, a year later. So, really great work by the Giga Texas team. And then also a great work in Berlin-Brandenburg with the team there. So, we expect to be producing the new design of the Model Y in both factories in limited production later this year
+
+It's always like it's not -- it's hard to sort of explain to people, who have not been through the agony of a manufacturing ramp. Like why can't you just turn it on and make 5,000 a week. This is -- it is so hard to do manufacturing, it is so hard to do production. The best approximation, there are 10,000 unique parts and processes that have to work. And the greater growth of production goes as fast as the least lucky and dumbest of those 10,000 things. And a bunch of them are not even in our control, so it's insanely difficult.
+
+I'm fond of saying that prototypes are easy and production is hard. And arguably, the really remarkable thing that Tesla has done is not to make an electric car or to be a car startup, because there have been hundreds of car startups in the United States and outside the United States, so the thing that's remarkable is that Tesla didn't go bankrupt in reaching volume production. That's the amazing part, because everyone else did. Because they all thought the prototype or the idea was the hard part, and it is not; it is trivial by comparison with actual production.
+
+So, it's always worth noting that of all the American car companies, there are only two that have not gone bankrupt, and that is Ford and Tesla. So, the seeds of defeat are sown on the day of victory. And we must be careful that we do not do that. They're often -- if you look at history, so often that the seeds of defeat are sown on the day of victory. We will endeavor not to make that the case at Tesla.
+
+So, let's see. The model lines in Texas, and made in Texas and Berlin, will look very much like the Model Ys we currently make, but there are substantial improvements in the difficulty of manufacturing. So, for example, the Model Y made here and in Berlin will have a cast front body and a cast rear body. Whereas the one in California has a cast rear body, but not a cast front body. We're also aiming to do a structural pack with 4680s cells, which is a mass reduction and a cost reduction. But we're not counting on that as the only way to make things work.
+
+We have some backup plan with a non-structural pack and 2170s essentially. So, at scale production, we obviously want to be using 4680s and a structural pack. From a physics standpoint, this is the best architecture; and from an economic standpoint, it is the lowest cost way to go, so the lightest, lowest cost.
+
+But there's a lot of new technology there, so it is difficult to predict with precision when does it work and when you reach scale production. An Drew is going to talk a bit more about the 4680 production. We are making great progress on 4680 cells, but there are -- there is a tremendous amount of innovation that we're packing into that 4680 cell. And so it's not simply a minor improvement on state-of-the-art. There are, and we went through this on the battery cell day, really dozens of -- half a dozen major improvements and dozens of small improvements. So, I think it will be great. But it's difficult to say when the last of the technical challenges will be solved.
+
+So, in conclusion, our team continues to make huge efforts to make our factories run at full speed, which is very difficult. We have had some factory shutdowns due to part shortages. And we hope those will be relieved in the coming weeks and months. And we're making great progress on full self-driving. Solid progress is not easy to see, because this has to go to foundational software level. And so, then it's updating sort of a two steps forward, one step back situation. But over time, should do two steps forward, one step back, and keep going, you do move forward. So, I'm highly confident that the cars will be capable of full self-driving. If they have a full self-driving computer and the cameras, I'm confident that they will be able to drive themselves with the safety levels substantially greater than that of the average person.
+
+Once again, thanks to all of our employees, who are making this a breakthrough year for Tesla and an incredible quarter. Thanks, guys.
+
+Martin Viecha{BIO 17153377 <GO>}
+Thank you very much, and we have some follow-up remarks from Zachary Kirkhorn.
+
+Zachary J. Kirkhorn{BIO 20940148 <GO>}
+Yes. Thanks, Martin; and thanks, Elon. Just to reiterate, Q2 was a great quarter for the Tesla team with strong improvements across the business. In particular, auto gross profit and margin excluding credits increased substantially. This was primarily driven by better cost optimization across our factories, good execution against our cost reduction plans, as well as increases in production and delivery volumes. There was some benefit from pricing action, mostly in North America. However, it was small in the context of the other contributors.
+
+Note that the Model S and X program was at a slight loss for the quarter due to the relatively low volume. In supply chain challenges including expedites continued to provide cost headwinds. Additionally, it's encouraging to see the progress made on profitability within our energy and services and other businesses. While there's some benefit to looking at our progress quarter-over-quarter, I find it more helpful to look at progress over a slightly long-term horizon.
+
+Over the last two years, our vehicle delivery volumes have more than doubled. This volume increase was made possible by a steady decrease in ASPs of more than 10%, driven by a roadmap to increase affordability and shifting mix towards our more affordable vehicles. Yet over that same period of time, our auto gross margin excluding credits has increased nearly 10 percentage points to our highest yet since the introduction of Model 3. This is only possible, because our average cost per vehicle has reduced by more than the reduction in average price. This is a remarkable achievement in the context of the volume growth and ASP reduction as mentioned, and a testament to the hard work by the Tesla team.
+
+Additionally, OpEx as a percentage of revenue has declined and in particular SG&A, representing the work we've done to become more efficient as we scale the Company while still making the required R&D investments to support our future. As a result, our GAAP operating margins have risen from negative to double-digit, in line with what we have guided. By managing our overhead costs and driving higher volumes, our P&L is benefiting from the marginal profitability of each incremental unit; or said differently, we are recognizing the benefits of scale and improved fixed cost absorption.
+
+With strong operating cash flows and cash balance, we are putting that cash to use. CapEx continues to tick up, primarily driven by capacity investments in Austin, Berlin, and Shanghai. Additionally, each quarter, we are using our cash to retire legacy debt, which was taken on at a time when interest rates and company risk were much higher than in today's environment.
+
+As I mentioned before, our 2021 volumes will skew towards the second half of the year as we push for continued sequential increases in volume. Despite the great work so far managing the instability of the supply chain, these challenges remain and are unfortunately increasing in pain with the higher volume. As we work to the uncertainty, we want to ensure we do our best to manage customer wait time as well as the impact these interruptions have on our employees and costs. And as Elon mentioned, volume growth will be determined by parts availability as we have the factory capacity ready and are in a strong demand position. I'm excited to see the progress made by the Tesla team as we continue building the business and strengthening our financials. Thank you very much.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Great. Thank you very much, Zach. And now let's go through the retail investor questions on say.com. The first question from Robert M. Is, Tesla's website still says Cybertruck production is expected to begin in late 2021. Can Tesla share more details on the current status of the Cybertruck and confirm if production is still (Technical Difficulty)
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Okay.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Lars, do you want to --
+
+A - Lars Moravy
+Sorry, we cut out there for a second. Yeah, the Cybertruck is currently in its alpha stages. We finished the basic engineering architecture of the vehicle. With the Cybertruck, we're redefining how the vehicle is being made. As Elon said, it carries much of the structural pack and large casting designs of the Model Y being built in Berlin and Austin. Obviously, those take priority over the Cybertruck, but we are moving into the beta phases of Cybertruck later this year and will be looking to ramp that in production in Giga Texas after Model Y is up and going.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, it's just worth reemphasizing that the extraordinary difficulty of ramping production of large manufactured items. With risk of being repetitive, it is essentially easy to make prototypes or sort of handbook small volume production. But anything produced at a high-volume, which is really what's relevant here is it's going to move as fast as the slowest of the say rough order magnitude 10,000 unique parts and processes. And so, you can have 9,999, but just one is missing -- I mean we were missing, for example, like -- a big struggle this quarter, was the module that controls the airbags and the seatbelts. And obviously you cannot ship a car without those.
+
+And that -- that's -- that limited our production severely worldwide, in Shanghai and at Fremont. So, it's like it wouldn't have mattered if we had 17 different car models, because we -- they won't need the airbag module, so it's just irrelevant.
+
+So, the -- in order for Cybertruck and Semi to scale to volume that's meaningful for customer deliveries, we've got to solve the chip shortage working with our suppliers. The dealers kind of say, why don't you just built a chip fab. Okay, well -- okay, that would take us even moving like lightning 12 to 18 months. So, it's not like -- you can just whip up a chip fab; it's just like, yeah, let's make a chip fab. So, some of these things are -- yeah, anyway, it is quite a trial dealing with all of the constraints of scaling a large manufactured object.
+
+I think it may be the case that Tesla is scaling -- I think we might be the fastest in history ever for scaling a large manufactured object. I think maybe the Model T would have been comparable back in the day, the Ford Model T; probably Internet knows the answer. But I think we may be just scaling large manufactured objects at the fastest rate in history or I'd like to know who did it faster so we can learn from them. So, it's worth just noting that, you know, in the grand scheme of things, it's not bad.
+
+So, yeah; so, the Cybertruck and Semi, actually both are heavy users of cell capacity. So, we got to make sure we have the cell capacity for those two vehicles or it's kind of pointless. We can make a small number of vehicles. But the effective cost if you make a small number of vehicles is insane, like this would only cost $1 million a piece or more. And there's a reason why you think the volume production, which is to get the economies of scale that'll get the cost down. So, we are looking at a pretty massive increase in cell availability next year, but it's not like in January 1, it's -- it comes through -- it ramps up through the course of next year. But even without Tesla --
+
+(Technical Difficulty)
+
+Hello? Okay. Even without Tesla cell production, maybe our suppliers will be able to deliver about twice as much cell output in next year as this year.
+
+Drew, do you want to talk more about that?
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. Given concerns over cell bottleneck and growth, our target is to grow cell supply ahead of the 50% year-on-year growth targets of the vehicle business and also enable increased energy storage deployments.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+So, yeah, cell suppliers are tracking to double their production in 2022.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes, it's worth noting like if you have a target of certain number, that doesn't mean it happens like as sure as night follows day, it hits the target. So, if there is some calamity in the world that interrupts the supply chain, then it will be less. But the contracts that we have with cell suppliers call for roughly a doubling of cell supply to Tesla in 2022. And we have to juggle these exponential -- this whole bunch of exponential graph sort of overlay on top of each other and small changes and where you are on the X axis of time can quite substantially change the area under the probe. So, what we're thinking of doing is like it's depending on -- especially overshooting on cell supply for vehicles. And then as we have to say, excess cell supply in one month or another, then routing that cell output to the Megapack and Powerwall; or by the same token, if we're prioritizing vehicle production, if there's a shortage of cell for some reasons, then we will throttle down Megapack and Powerwall production. So, it could be -- something's got to give basically.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Or if there's a disruption in the vehicle production --
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+-- in the outlet for cell --
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes, exactly. There's a tremendous amount of inertia in the supply chain. So if we say it to a supplier, we want you to double cell output, well, even doing that in a year is very difficult and then that system has a tremendous amount of momentum, it is like a plateau of supertankers; it's insane.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Speaking of which from a raw material perspective, we also have long-term contracts to secure our supply chain to also enable its growth. So, we're not just looking at the suppliers, but upstream from there.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, exactly.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Which is more flexible.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, exactly. As mentioned, things will move as fast as the slowest part of the entire supply chain, which goes all the way back to raw materials, lithium, and nickel and that kind of thing. And there is sometimes misperception that Tesla uses a lot of cobalt, but we actually don't. Apple uses, I think, almost 100% cobalt in their batteries and cell phones and laptops, but Tesla uses no cobalt in the iron phosphate patch and almost none in the nickel-based chemistries.
+
+So, on a weighted average basis, we might use 2% cobalt compared to say Apple's 100% cobalt. Anyway, so it's just -- it's really just not a factor, we expect basically to have zero cobalt in the future. So, you know, I do say with -- I think probably there is a long-term shift more in the direction of iron-based lithium-ion cells rather over nickel. As the energy density of sort of iron ore -- the iron phosphate might as well support iron phosphate -- taken for granted, but iron-based cells, lithium-ion cells and nickel-based lithium-ion cells, I think probably we'll see a shift. My guess is probably two-thirds iron, one-third nickel or something on that order.
+
+And this was actually good, because there's plenty of iron in the world. There's an insane amount of iron, but nickel is -- there is much less nickel and there's way less cobalt. So, it is good for relieving the long-term scaling to move to iron-based cells mostly. And I think long-term -- possibly all -- there's a good chance that all stationary storage that is Powerwall and Megapack move to iron. It seems most likely the case since you do not need to transport it and there's less of volume that's constraint for stationary storage. So, then nickel would be for really for long-range road transport, ships, and aircraft that kind of thing.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. Let's go to the second question from retail, which is Elon has said that Tesla will be opening up the Supercharger network to other EVs later this year. Can you share some more details on how this will be structured? Will this be select brands or will they contribute to the growth of this network?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes. We're currently thinking it's a real simple thing, where you just download the Tesla app and you go to a Supercharger, and you just indicate which store you are in. So, you plug in your car even if it's not Tesla, and then you just access the app and say, turn on the store that I'm in for how much electricity. And this should basically work with I think almost any manufacturers' cars.
+
+There will be a time constraint. So, if the charge rate is super slow, then somebody will be charged more, because the biggest constraint at the Superchargers is time, how occupied is the store. And we'll also be smarter with how we charge for electricity at the Supercharger. So, rush hour of charging will be more expensive than -- car is charging, because there are times when the Superchargers were empty and times when they're jam-packed, and so it makes sense to have some time-based discrimination.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yes, we've been doing that and it's been working.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+And people will respond and it helps with utilization and things like that.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, exactly. So, yes, I think we're -- in Europe and China and most part of the world, it's the same connector for everyone. So, this is a fairly easy thing to do, developed our own connector, which in my opinion is actually develop supercharging. Tesla was the only one, who had a high powered charging and it was standard. So, we developed our own connector, which in my opinion it's actually the best connector. It's small and light, looks good. So, an adapter is needed to work for EVs in North America, but people could buy this adapter, and we anticipate having it available at the superchargers as well if people don't of steal them or something.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+We have a good solution to that.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Okay. So, that's constraint on North American thing.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+That's basically a vestige of history. But I think we do emphasize that it is -- our goal is to support the advent of sustainable energy. It is not to create a walled garden and use that to bludgeon our competitors, which is sometimes used by some companies.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+I think, it's also important to comment that increasing the utilization of the network actually reduces our costs, which allows us to lower charging prices for our customers, makes the network more profitable, allows us to grow the network faster, so it's a good thing there. And no matter what, we're going to continue to aggressively expand the network capacity, increasing charging speed, improving the trip planning tools to protect against site congestion using dynamic pricing as Elon mentioned.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+And just continue to focus on minimum wait time for all customers.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. Obviously, in order for this to be -- for the Superchargers be useful to other car companies' cars, we need to grow the network faster than we're growing vehicle output --
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+-- which is not easy. We're growing vehicle output data at a -- at hell of a rate. So, Superchargers need to grow faster than vehicle output. So, this is a lot of work for the Supercharger team, but it is only useful in the grand scheme of things. It's only useful to the public if we're able to grow faster than Tesla vehicle output.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+So, that is our goal.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you very much. And the third question is, Elon said 4680 cells aren't reliable enough for vehicles. Is this referring to cycle life degradation or something else? Please update us on the progress of 4680s? And what still needs to be done to make them reliable enough for vehicles?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. I mean, really, this is not -- we'll definitely make the 4680 reliable enough for vehicles, and I think are at the point, where in limited volume it is reliable enough for vehicles.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+The -- again, going back to like limited production is easy, prototype production is easy, but high-volume production is hard. There are a number of challenges in transitioning from sort of small-scale production to large volume production. And not to get too much into the leads of things, but right now, we have a challenge to grow up with basically the -- what's called calendaring or basically squashing the cathode material to a particular height. So, it just goes through these rollers and gets squashed like pizza dough basically, but very hard pizza dough. And it's causing -- it's denting the calendar rolls. This is not something that happened when the calendar rolls were smaller, but it's happening when the calendar rolls are bigger. So, it's just like -- we're like, okay, we weren't expecting that.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. It's not -- it's not a like science problem, it's an engineering problem. It's not a question of if, it's a question of when.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+And the team is 100% focused on resolving these limiting processes as quickly as possible.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Exactly.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. And on the reliability side, as Elon mentioned, we have successfully validated performance and the lifetime durability of the 4680 cells produced in Kato. And we're continuing ongoing verification of that reliability. We're actually accruing over 1 million equivalent miles on our cells that we produce every month. In our testing activities, the focus on that is very clear. We want high-quality cells for all of our customers. And yeah, we're just focused on the unlucky limiting steps in the facility. And with the engineers focused on those few steps remaining, we're going to break through as fast as possible.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Meantime, we're -- we have a massive amount of equipment on order and arriving for the high-volume cell production in Austin and Berlin. And -- but obviously, given what we've learned with the pilot plant, which is in Fremont, which is really quite a big plant by most standards. We will have to modify a bunch of that equipment, so it won't be able to start immediately. But it seems like, correct me if I'm wrong, but we think, most likely, we will hit an annualized rate of a 100 gigawatt hours a year sometime next year.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+We'll have all the equipment installed --
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+-- to accomplish a 100 gigawatt hours and it's possible.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+That by the end of the year, we will be at an annualized rate of 100 gigawatt hours by the end of the year.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. I mean, My guess is more likely than not, above 50% of reaching 100 gigawatt hours a year by the end of next year on the annualized rate, something like that.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+It could shift by a little bit, so --
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah, and --
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+-- but it's like nothing as Drew mentioned, nothing fundamental.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+No.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Just a lot of work.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. And even to the large roller question, Elon, right, like on the anode side, the large rollers work great, no concerns. And so, we're just learning as we go. And the nice thing about having that facility on a fast-track like we had it, and we talked about it at battery day, was really de-risking the big factories here --
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+-- we've done and we've learned a lot. And with each successive iteration, the ramp up and the equipment installation will be faster and more stiff.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+All right. Thank you very much. And the last question from retail is from Emmett. Can Elon do an interview with one of our YouTube channels once or twice a year? I would nominate David Lee on Investing or Rob Maurer's Tesla Daily channels as first possible candidates.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. I guess, yeah, I'll do your interview. I mean spare my head, like if I'm doing interviews and I can't do actual other work. So, it's not -- there's only so much time in the day. So, but right, yeah, I'll do it once. No, I wouldn't do it annually, but I'll do it once. I think also like this is the -- wouldn't say the last time I'll do earnings call, but this is the -- I will no longer be default doing earnings calls. So, obviously, I'll do the annual shareholder meeting, but I think going forward I will most likely not be on earnings calls, unless there's something really important that I need to say.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you. Now let's go to institutional questions. The first one and we covered a lot of this already. Can you please update us on timelines for the start of production of Berlin and Austin, Model Y Cybertruck and the Semi? Do you expect the ramp of Cybertruck to be as difficult as it is a new process?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+I think Cybertruck ramp will be difficult, because it's such a new architecture. I mean it's going to be a great product. This might, I think it will be our best product ever, but it does a lot of fundamentally new design ideas in Cybertruck. Nobody's ever really made a car like this before -- a vehicle like this before. So, there will probably be challenges, because there's so much unexplored territory. Yeah.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. I think question 2 and question 3, we can skip, given we have already addressed it. I'll go to question 4. In five years' time, how much faster or better could you be at manufacturing capacity expansion, using current pace and what are the biggest issues you need to solve to get to that rate?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Well, like I said, I think we might be the fastest growing company in history for any large manufactured item. So those who have not actually been involved in manufacturing around have just no idea how painful and difficult it is. It's like there's -- you got to eat a lot of glass -- and -- for automating production ramp is hard.
+
+A - Lars Moravy
+Yeah. I mean I think, if you look at the expansion we've done in Shanghai, that factory was built in less than a year and ramped in five to six months to full volume.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+It took longer than that. Took longer than that, about a year.
+
+A - Lars Moravy
+And when you consider cut-and-paste, we've repeated that in Fremont and whatever. But now with Berlin and Austin, we have new factories and new designs. And so there's always challenges as you said, Elon, with new designs and ramping that. But I think having teams in three locations or three continents will definitely expand our ability and our capacity to grow more lines, rather than just having the one factory in Fremont that we had year and half ago.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. So, I mean for Shanghai, it's simply incredible the team built the factory in 11 months, but it took longer than -- it's longer than building the factory. It took longer than that to actually reach volume production -- high volume production. So, took about a year. So when you put a factory in a new geography, in order for that factory to be efficient, you have to localize the supply chain. So, there's no such thing as cut and paste. It does not exist.
+
+And obviously, it would be insane to do vehicle production in Europe and send vast numbers of parts from North America. That would be -- that would make producing in Europe, for example, just crazy. You've got to localize the supply chains, have efficiency, and then you're moving as fast as your least lucky, least goods supplier. Yeah, some of these supply chains, when you go like three or four layers deep. Its frankly, I feel at times that we are inheriting force majeure on Earth. So if anything goes wrong anywhere on Earth, something happens to mess up the supply chain. So, yeah.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. I think the human capital growth of having factory here in Berlin, Shanghai and Fremont does a lot of stuff, maybe not exponentially grow, but hopefully --
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+We are exponentially growing.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. Hopefully, maintain that exponential growth.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. So it also -- it takes a while to hire old people and train old people to operate the factory. The factory is like giant cybernetic collective. And you can't just hire 10,000 people and have them -- have work instantly. It's not possible.
+
+I really encourage more people to get involved in manufacturing. I think especially in the U.S., like this is just not in an area where all that many smart people have gone into. I think U.S. has an over-allocation of talent in finance and law. It's both a criticism and a compliment. I'm not saying we shouldn't have people in finance and law, I'm just saying this might be -- maybe we have too many smart people in those arenas really. Maybe? So--
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Manufacturing is fun.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, manufacturing is great. It's a very interesting problem to solve, and obviously you can't have stuff unless someone makes it. That's how you get stuff. Yeah.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay. Thank you very much. And let's go to the last investor question. Does Tesla plan to offer more services beyond FSD or high-speed connectivity as part of its subscription bundle going forward? What areas in particular present an opportunity?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. We don't have a lot of ideas on this to be frank. Really, full self-driving is the main thing. Things are obviously headed towards fully autonomous electric vehicle future. And I think Tesla is well-positioned and frankly is the leader objectively in both of those arenas, electrification and autonomy.
+
+So as always, it's always temping to strike client analogies with other companies, whatever. But really the value of fully electric autonomous fleet is extremely gigantic, boggles the mind really. So that will be one of the most valuable things that is ever done in the history of civilization.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you very much. And now let's go back to analyst Q&A please.
+
+Operator
+Thank you. (Operator Instructions.) Our first question comes from Colin Rusch with Oppenheimer. Your line is open.
+
+Q - Colin Rusch{BIO 15823117 <GO>}
+Thanks so much guys. Can you speak to the attached rates for FSD so far? And where you're targeting in terms of the subscription numbers?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. It's not worth commenting on right now, it's not meaningful. We really need both full self-driving, at least, the beta to be widely available, so anyone who wants it can get it. Otherwise, it'll be pointless to read anything into where things are right now. And so -- yeah.
+
+Q - Colin Rusch{BIO 15823117 <GO>}
+Okay. And then just the follow up there is about the cadence of the regulatory environment, keeping up with the technology. Are you seeing meaningful evolution in terms of the regulators really understanding the technology and beginning to set some standards here sometime in near term?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+At least in the U.S., we don't see regulation as the fundamental limiter. We've obviously got to make it work and then demonstrate that the reliability is significantly in excess of the average human driver, for it to be allowed -- for you to be able to use it without paying attention to the road. But I think we have a massive fleet. So it will be, I think, straightforward to make the arguments on statistical grounds, just based on the number of interventions, especially in events that would result in a crash.
+
+At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with autopilot on is 100% or 200% or more safer than the average human driver. At that point, I think it would be unconscionable to not to allow autopilot, because the car just becomes way less safe. It would be sort of like shake the elevator analogy. Back in the day, we used to have elevator operators with like a big switch that -- and they operate the elevator and move between floors. But they get tired or maybe drunk or something or distracted and every now and again, somebody would be kind of sheared in half between floors. That's kind of the situation we have with cars.
+
+Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking. And today obviously we just get an elevator, we press the button for which floor we want, and it just takes us there safely.
+
+And it would be quite alarming if those elevators were operated by a person with a giant switch. That's how it would be with cars.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you. Let's go to the next question please.
+
+Operator
+Next question comes from Rod Lache with Wolfe Research. Your line is open.
+
+Q - Rod Lache{BIO 1528384 <GO>}
+Hi, everybody. Your cost of goods sold per vehicle is already down to the mid $37,000 range in the quarter. It's down $5,000 year-over-year despite some of the inefficiencies that you talked about. And I know that a lot is going to change from here, just given how mix is going to evolve. But if you're successful on the structural pack and front and rear castings in the launch of the 4680 cell, can you just maybe give us a sense of what a successful outcome would look like, maybe a year from now? Obviously, a lot has to go right, but just any kind of broad framework for us to think about.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes, it's really difficult for us -- to make specific predictions it's very difficult. I think we felt confident of say at least a few percent growth year-over-year next year, and maybe it's a 100%. But that's -- we need a lot of crystal balls to figure out exactly what it's going to be. And it is literally impossible to make a specific prediction. But at least 50, maybe 100, something like that.
+
+Q - Rod Lache{BIO 1528384 <GO>}
+Okay, and maybe just separately from this. Can you just clarify what the status is of some of the advances in battery manufacturing, things like dry cathode mixing that you talked about on battery day. What's the timeline? How are those evolving?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah (multiple speakers)
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah. We commented on it today, already actually, but in the facility at Kato, over 90% of the processes have demonstrated rate there, but we are limited by the unlucky few that have not. And that's what we're working on. One of them that Elon mentioned was running the full-scale cathode calendar. We're working through some improvements that we need to make to that equipment, and to the actual raw material itself to not have those limitations.
+
+But again, it's an engineering problem. It's not a question of if, it's a question of when. On the mixing side, we haven't actually really had any challenges specific to your question. Fundamentally, we're still happy with the dry process direction in terms of the factory footprint, complexity, utility, consumption, space, and overall complexity simplification.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+And I mean, and the cost associated with everything that I just mentioned.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. We don't have programs [ph] as dry cathode, I mean, it's a -- I don't know, maybe it's like 10 or 15% of the cost of equipment or something like that? I don't know, 20% maybe.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yes. 10%, closer to 10%.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yes, and so it's like -- just like people don't think like this is like the Messiah or something, wet versus dry reduces. To dry is like 10% less cost than wet. So it's not -- 10%, slow, nothing to sneeze at, especially if you're making hundreds of gigawatt hours a year. But it's not the Messiah, basically. Yeah.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Thank you very much. We can go to the next question, please.
+
+Operator
+Next question comes from Pierre Ferragu with New Street Research. Your line is open.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+Hi. Thanks very much for taking my question. I have another question, actually, on batteries, but on a slightly different angle. I was wondering how you're looking at your sourcing strategy for the 4680. You've talked a lot about all the work you're doing to develop your in-house production.
+
+But what about asking other battery manufacturers to do 4680 cell with their own technology? Maybe less innovation than what you guys are lining up internally. And I was wondering if the first 4680 cells that we see on the road will definitely come from Tesla's own manufacturing lines, or whether it would be coming actually from outside suppliers as well. And I have a quick follow-up.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, we are, in fact, working with our existing suppliers to produce 4680 format cells. And this is just a guess right now. But I see it sort of like consolidating around 4680 nickel-based, structural pack, and for long-range vehicles. And then not necessarily a 4680 format, but some other format for iron-based cells.
+
+So we right now, we kind of have the Baskin Robbins of batteries situation, where there's -- we've so many formats and so many chemistries, that it's like we've got like 36 flavors of battery at this point. This is just -- this results in an engineering drag coefficient where each variants of cell chemistry and format requires, to an amount of engineering to maintain it and troubleshoot, and this inhibits our forward progress. So it is going to be important to consolidate to maybe ideally two form factors, maybe three, but ideally two. And then just one nickel chemistry and one iron chemistry, so we don't have to troubleshoot so many different variants.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah, and towards that end, we are engaging with the suppliers that we've had good partnerships with on 4680 designs to enable that new application, and so far so good. They're working on -- they're bringing their core competencies to bear on that, we're not mandating like what's going on inside, but it's been a good collaboration.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. We do expect to see significant increases in supply from our existing suppliers, in addition to the cells that Tesla's making. So it's both. Sometimes, I get questions from our cell suppliers like, are we just going to make all the cells ourselves? We're like, no, please make as many as you possibly can and supply them to us.
+
+We have a significant unmet demand in stationary storage. Megapack is basically sold out through the end of next year, I believe.
+
+A - Andrew D. Baglino{BIO 21161872 <GO>}
+Yeah.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+We have a massive backlog in Powerwall demand, the demand to Powerwall versus production is an insane mismatch. Now part of that problem is also the semiconductor issue. So we used a lot of the same chips in the Powerwall as you do in a car, so it's like, which one do want to make? Cars or Powerwalls? So we need to make cars, so therefore Powerwall production has been reduced. But as the semiconductor shortage is alleviated, then we can massively ramp up Powerwall production.
+
+I think we have a chance of hitting an annualized rate of a million units of Powerwall next year, maybe, toward on the order of 20,000 a week. But again, dependent on cell supply and semiconductors. But in terms of demand, I think there's probably demand in excess of a million Powerwalls per year. And actually, just a vast amounts of the Megapacks for utilities.
+
+As we all transition to sustainable energy production, solar and wind are intermittent and by their nature really need battery packs in order to provide a steady flow of electricity. And when you look at all the utilities in the world, this is a vast amount of batteries that are needed. That's why, long term, we really think sort of combined Tesla and suppliers need to produce at least 1,000 gigawatt hours a year, and maybe 2,000 gigawatt hours a year.
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+Okay. Great. Thank you. And I have a quick question. I know, Elon, you don't think it's meaningful today, but I'd be curious to know if you have any thoughts about when you announced the new pricing on the FSD ring from $10,000 and thrown to $199 without looking. I'd be curious to understand how it affected behavior in issues, so like a massive effect, affecting the service. And I'm not thinking about people looking at it as a message, but more to try the most advanced version of autopilots, and to try it. In the first days, even on the pricing, have you seen like a very significant spike in the tech rate? And can you give us a sense of how big it was?
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Okay. You're asking like, is the FSD tech rate too expensive and that's why we're doing subscription? Or I'm not sure if I understand your question correctly?
+
+Q - Pierre Ferragu{BIO 15753665 <GO>}
+No, my question is from the time you announced like the subscription at $199 the amounts, how much did the tech rate increase like the (inaudible) people who basically took the subscription about the new car? So, how it was when they had to pay 10 grand upfront.
+
+A - Zachary J. Kirkhorn{BIO 20940148 <GO>}
+Yeah. This is Zach here. I think we're still early in understanding how FSD subscription will unfold. But a couple of data points here. So, we took a look at our backlog to see customers in our backlog, who have ordered FSD, did they cancel presumably to go to subscription after they take delivery? And the level of cancellations there, we're not seeing cannibalization there, it's possible that that changes, but that was also part of our pricing strategy at $99 and $199.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah, and we--
+
+A - Zachary J. Kirkhorn{BIO 20940148 <GO>}
+Also part of our pricing strategy at $99 and $199.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+Yeah. Like any given price is going to be wrong, so we'll just adjust it over time as we see the value proposition makes sense to people. So, we're just really -- I'm not thinking about this a lot right now. We need to make Full Self-Driving work, in order for it to be a compelling value proposition. Otherwise, people are kind of betting on the future. Like right now, does it make sense for somebody to do FSD subscription? I think it's debatable. But once we have Full Self-Driving widely deployed, then the value proposition will be clear. And at that point, I think basically everyone will use it, or it could be a rare individual who doesn't.
+
+A - Martin Viecha{BIO 17153377 <GO>}
+Okay, thank you very much for your help. And I think that's all the time we have for today. Thanks for all your questions, and we'll speak to you again in three months' time. Have a good day, everyone.
+
+A - Elon R. Musk{BIO 1954518 <GO>}
+All right. Thank you.
+
+Operator
+This concludes today's conference call. Thank you for participating. You may now disconnect.
+

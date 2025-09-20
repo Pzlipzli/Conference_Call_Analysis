@@ -1,0 +1,364 @@
+Q3 2023 Earnings Call
+Company Participants
+Doug Bettinger, Executive Vice President and Chief Financial Officer
+Tim Archer, President and Chief Executive Officer
+Tina Correia, Vice President, Investor Relations
+Other Participants
+Atif Malik, Analyst, Citi
+Blayne Curtis, Analyst, Barclays
+C.J. Muse, Analyst, Evercore
+Harlan Sur, Analyst, J.P. Morgan
+Joe Moore, Analyst, Morgan Stanley
+Krish Sankar, Analyst, Cowen & Company
+Sidney Ho, Analyst, Deutsche Bank
+Stacy Rasgon, Analyst, Bernstein Research
+Timothy Arcuri, Analyst, UBS Securities
+Toshiya Hari, Analyst, Goldman Sachs
+Vijay Rakesh, Analyst, Mizuho
+Vivek Arya, Analyst, Bank of America Securities
+Presentation
+Operator
+Good day and welcome to the Lam Research March 2023 Quarter Financial Conference Call. Today's conference is being recorded. At this time, I'd like to turn the conference over to Tina Correia. Please go ahead.
+
+Tina Correia{BIO 20814110 <GO>}
+Thank you, operator, and good afternoon, everyone. Welcome to the Lam Research quarterly earnings conference call. With me today are Tim Archer, President and Chief Executive Officer; and Doug Bettinger, Executive Vice President and Chief Financial Officer.
+
+During today's call, we will share our overview on the business environment and we will review our financial results for the March 2023 quarter and our outlook for the June 2023 quarter. The press release detailing our financial results was distributed a little after 1:00 P.M. Pacific Time this afternoon. The release can also be found on the Investor Relations section of the company's website along with the presentation slides that accompany today's call. Today's presentation and Q&A includes forward-looking statements that are subject to risks and uncertainties reflected in the risk factors disclosed in our SEC public filings. Please see accompanying slides in the presentation for additional information. Today's discussion of our financial results will be presented on a non-GAAP financial basis unless otherwise specified. A detailed reconciliation between GAAP and non-GAAP results can be found in the accompanying slides in the presentation. This call is scheduled to last until 3:00 P.M. Pacific Time. A replay of this call will be made available later this afternoon on our website.
+
+And with that, I'll hand the call over to Tim.
+
+Tim Archer{BIO 7502648 <GO>}
+Thank you, Tina, and welcome everyone. Lam's March quarter results reflect strong execution, with revenues, operating margins and EPS all exceeding the midpoint of our guidance. Foundry related system revenues achieved [ph] record levels demonstrating our solid progress in both leading-edge and specialty technology segments. We continue to prioritize investments in long-term technology roadmaps, customer support and operational transformation, while prudently managing near-term, spending and profitability.
+
+As our June quarter guidance indicates the near-term demand environment remains challenging. We expect 2023 WFE spending to be in the low-to-mid $70 billion range. With additional weakness primarily from memory customers, partially offset by domestic China-related demand. On the China front, we see incremental strength in mature node logic and memory segments. Recently, the US government notified us for the clarification to the rules issued last October governing exports to China. This notification, allows us to ship certain products that we had originally excluded from our expectations. We expect to ship these tools in the second-half of 2023.
+
+Overall, memory customers continue to lower fab utilizations, slow technology conversions and reduced investments in capacity additions to limit bit output and drive inventory down to normalized levels. We expect memory spending for the year to decline approximately 50% from 2022, led by NAND. Memory spending in 2023 is at a historic low as a percentage of total WFE. We believe this level of investment is unsustainable to support long-term growth in bit demand, especially considering the data-intensive applications such as AI are still in the early stages of adoption and can have approximately 3 times the DRAM and 8 times the storage content of regular server.
+
+In addition, advances in memory architecture, such as DDR5 are driving process technology evolution and larger die sizes. As these trends accelerate, Lam's established leadership in memory, positions us to outperform. As we benefit not only from investments in new tools for capacity, but also from the technology upgrades to our large installed base of tools. Our installed base for memory has increased close to 40% compared to the last down cycle. It is a valuable platform for growth when memory customers begin to ramp utilization back to normal levels and convert existing lines to next-generation nodes. While Lam clearly stands to benefit when memory conditions improve, this is one aspect of our growth opportunity, rising manufacturing complexity tied to key technology inflections is positive for both overall capital intensity and more importantly Lam's areas of product strength.
+
+For example, EUV patterning and gate-all-around devices our two important inflections, where Lam has made significant investments in new products for processing at the atomic scale. We are gaining traction with these new products, yet they are in the early stages of the ramp with the majority of growth still in front of us. If we look at patterning, it is already a multi-billion dollar opportunity for Lam. We have a leading share position in this segment and we are broadening our footprint as EUV adoption scales.
+
+Lam's Etch solutions have been developed to enhance productivity of EUV, by creating well-defined, smooth patterns with minimal EUV photon exposure. Our pulse plasma capabilities help reduce line width roughness, which is a particularly challenging problem as EUV resist become thinner at future nodes. Lam's Etch portfolio is on-track to win close to 75% share of these EUV patterning applications. Also as the pattern is etched into the film stack, the hardness and stress in the films has a strong influence on pattern fidelity. Precise control of film properties is a hallmark of our deposited hard mask films. We are already the process tool of record for critical applications in the foundry logic segment for EUV patterning, with continued growth expected as EUV adoption expands. Addressing EUV scalability challenges is also the central goal behind our dry resist technologies. Last year we saw the first adoption of our dry development and underlayer processes for EUV applications by a major memory customer. Our progress extended to include a second large memory player in the March quarter.
+
+Today, I'm pleased to provide another update. A key foundry logic customer is set to adopt our dry resist deposition, dry development and underlayer solution for their EUV applications, and we will start recognizing revenues for these products in calendar 2023. Looking ahead, the challenges of EUV patterning will continue to grow at every technology node, and in particular when high NA EUV adoption dictates the need for even thinner EUV resists. With our differentiated pattern etch, hard mask and dry resist solutions, we see our product portfolio becoming increasingly vital to the industry's scaling roadmap.
+
+Moving to gate-all-around, this inflection introduces what we consider to be the first true 3D logic device from a processing perspective. It requires new etch and deposition capability to address the geometric complexity performing the all-around characteristics of the transistor. Processing for gate-all-around, just as the name implies, must take place on top of, underneath, and inside the device where reactants need to reach spaces that are perpendicular to the usual reaction directions. The 3D nature of gate-all-around architecture is well suited to atomic layer deposition and atomic layer etching solutions, making a key inflection that plays to our strengths. For Lam, the transition to the gate-all-around node is close to a $1 billion incremental opportunity per 100,000 wafer start per month capacity. Our expectation is for our share in this market to be at least as good as our overall goals for the company.
+
+To address the manufacturing challenges of gate-all-around devices, Lam has launched several new products including our Selis, Prevos and Argos suite of selective etch tools, with more to come into future. These tools can etch and treat all surfaces of the device with ALE-like precision. Our selective etch tools have achieved process of record positions at multiple customers for gate-all-around applications and we saw continued momentum in the March quarter, with additional shipments to key customers. Atomic level control is also increasingly critical in depositing films in the complex geometries very close to the transistor. Our differentiated approach uses a radical-based plasma ALE reactor to deliver high-performance films with high-volume manufacturing ready productivity. Multiple customers have now adopted Lam's ALD, low-case spacers and nitride films and we see this demand growing in future nodes.
+
+In summary, we are working through a lower WFE year in 2023 by managing near-term expenses, strengthening our operational capabilities and prioritizing R&D investments by the critical manufacturing inflections. Our focus remains on ensuring that when WFE growth resumes, the criticalities of our products to our customers' plans and the value of our installed base, which has grown nearly 40% since the last downturn, put us in a strong position to outperform.
+
+Thank you. And now I'll turn it over to Doug.
+
+Doug Bettinger{BIO 16159085 <GO>}
+Great. Thank you, Tim. Good afternoon, everyone, and thank you for joining our call today. Our March 2023 quarter financial results came in at or over the midpoint of our guidance ranges for all financial metrics. We generated over $1.6 billion of free cash flow during the quarter, which was a record level for the company. Overall, we not only delivered financial performance in line with our guidance for the quarter, but we also made great progress on our business transformation and cost-saving initiatives.
+
+Let me now move to our revenue and profitability results. Revenue for the March quarter was $3.87 billion, down 27% from the prior quarter. Systems revenue was the main driver of the decrease given the decline in WFE investments, most notably in memory. As expected, with the improvement in supply chain constraints, we are exiting the March quarter, having completed shipments for nearly all of our outstanding back order systems. Back orders are now at what I would characterize as normalized levels. However, our deferred revenue balance is higher than historic levels, remaining flat with the prior quarter with a balance of $2 billion. This deferred revenue balance reflects the impact of increased customer cash and advance deposits tied to orders from newer customers, which is offset by the decline related to the completed back orders. The advance payments will remain in deferred revenue until we ship the related tools. And I would just mention that we do expect the majority of these deposits to convert to revenue during calendar year 2023.
+
+Looking at the revenue segment details for the March quarter. The percentage of systems revenue in memory was 32%, which is a decline from the prior quarter level of 50%. I would mention this is the lowest level of memory concentration for us in a decade. Within memory, the NAND segment represented 23% of our systems revenue, down from the December quarter level of 39%. And DRAM decreased sequentially coming in at only 9% of systems revenue compared with 11% in the December quarter. With the current weakness in memory investments, we anticipate a further decline in both NAND and DRAM revenue in the June quarter.
+
+In foundry, conversely, we had a record dollar level of revenue in the March quarter, representing 46% of our systems revenue, higher than the percentage contribution in the December quarter, which was 31%. We had positive momentum in both leading and mature node devices, and I'm pleased with the progress we've made in this segment of the market. We are seeing particular concentration in the mature node investments this year. The logic and other segment had continued strength with a contribution of 22% of systems revenue in the March quarter compared with 19% in the prior quarter. Investments were from a broad array of logic IBMs in multiple regions.
+
+Let me now shift and discuss the regional contribution of our total revenue. Korea and China were at the top of the list with each coming in at 22% of the total. The Korea region had a slightly higher concentration in the March quarter, up from 20% in the December quarter. China was down from 24% in the prior quarter and the reduction was largely attributed to the US government sales restrictions for certain Chinese domestic customers, which were put in place in early October of 2022. Notably, in the United States, we had a record revenue from a dollar perspective in the March quarter, which represented 16% of our total revenues, an increase from the prior quarter level of 10%. And finally, Taiwan decreased to a concentration of 18% as compared with 19% in the December quarter.
+
+Our Customer Support Business Group generated revenue in the March quarter, totaling approximately $1.6 billion, which was a decrease of 7% from the December quarter, but 14% higher than the March quarter in calendar 2022. CSBG continues to be a resilient part of our business model, representing over 40% of our March quarter revenue. We saw utilization levels decline at the memory customers, which negatively impacted both spares and service businesses, but Reliant systems and upgrade revenues increased in the March quarter, given the demand strength we're seeing in mature node devices. The specialty technology market is performing better than overall WFE, and I expect this part of the business to continue to perform well during calendar year 2023.
+
+Let me now pivot to our gross margin performance. The March quarter came in at 44%, right at the midpoint of our guided range and down from 45.1% in the December quarter. The quarter-on-quarter decrease was tied to the lower business volumes as well as customer and product mix. The company is focused on improvements in cost inefficiency to enhance profitability, which is aligned with our plan to expand gross margin by at least 1 percentage points exiting calendar year 2023. Operating expenses were $608 million in the March quarter, down 11% from the prior quarter amount of $686 million. We executed on cost-savings actions and managed spending across the company, while prioritizing investments in support of our customers' roadmaps. R&D expenses comprised nearly 70% of our operating expenses, which is a high point for the company. The March quarter operating margin was 28.3% and above the midpoint of guidance, mainly because of the cost-saving actions and expense management that we undertook.
+
+Our non-GAAP tax-rate for the quarter was 13.1%, in-line with our expectations. Looking into calendar 2023, we believe the tax-rate will be in the low-to-mid teens with fluctuations expected quarter-to-quarter. Other income and expense came in for the quarter at $8 million in expense, lower by approximately $30 million from the prior quarter. The decrease in expense reflects increased interest income due to the higher cash balances as well as rising interest rates. OINE will continue to be subject to market related fluctuations that will cause some level of volatility each quarter. On the capital return side of things in the March quarter, we allocated approximately $483 million to open-market share repurchases. Additionally, we paid $234 million in dividends in the quarter. We continue to track towards our long-term capital return plans of returning 75% to 100% of our free cash flow. First quarter diluted earnings per share was $6.99 at the higher end of our guidance range. Diluted share count was down to 135 million shares, on-track with our expectations and obviously lower a little bit in the December quarter.
+
+For the balance sheet, cash and short-term investments including restricted cash at the end-of-the March quarter totaled $5.6 billion, up from $4.8 billion at the end-of-the December 2022 quarter. The increase was largely due to collections, offset by cash allocated to share buyback, dividends and capital expenditures. Day sales outstanding were 77 days in the March quarter, an increase from 70 days in the December quarter. Inventory turns declined from the prior quarter to 1.9 times and we ended the March quarter with a slightly higher inventory dollar balance. We will continue to manage inventory balances during the calendar year.
+
+Non-cash expenses for the March quarter included approximately $74 million in equity compensation, $78 million in depreciation and $14 million for amortization. Capital expenditures for the March quarter were $119 million, down from the December quarter level by approximately $44 million. March quarter investments were mainly for our Malaysian factory, the Korea Technology Center and other product development activities. As we discussed in the January earnings call, we had a workforce reduction within the March quarter of approximately 1,400 people. Additionally, we reduced 700 temporary workers. We incurred a charge for the workforce actions in the March quarter of approximately $99 million, primarily reflecting severance-related payments. This charge was somewhat higher than our original estimate due to more impacted people with the somewhat higher seniority level.
+
+We also incurred other one-time charges in the quarter for product rationalization decisions as we prioritize technology investments within the company and for transformation costs related to projects to improve our systems and operations. We anticipate will incur one-time costs in the range of $250 million within calendar year 2023, which is inclusive of the $144 million that we expensed in the March quarter. We ended the March quarter, with approximately 18,700 regular full-time employees, which is a slight decrease in prior quarter. Due to the timing of our quarter end and our restructuring actions, a significant amount of the headcount reduction we undertook won't be reflected in the headcount number until the June quarter.
+
+Now let's turn to the non-GAAP guidance for the June 2023 quarter. We are expecting revenue of $3.1 billion, plus or minus $300 million. The sequential decline reflects a soft memory environment and the normalization of back order systems that occurred in the March quarter. Gross margin of 44%, plus or minus 1 percentage point. Operating margins of 25.5% plus or minus 1 percentage point and finally earnings per share of $5 plus or minus $0.75 b ased on a share count of approximately 134 million shares.
+
+So then, let me summarize. 2023 is proving to be a challenging environment for our memory shipments, but I'm pleased with the progress we're accomplishing against this challenging backdrop. We continue to make progress on growing our technology leadership and focusing on our operational efficiencies. We will emerge from this number of led downturn is stronger,, better-positioned, more efficient company. In closing, I'd just mentioned one more thing, that as we look at the profile of WFE spending this year, it now appears to be a little bit second-half weighted.
+
+Operator, that concludes our prepared remarks, Tim and I would now like to open up the call for questions.
+
+Questions And Answers
+Operator
+(Operator Instructions). The first question will come from C.J. Muse with Evercore.
+
+Q - C.J. Muse
+Yeah, good afternoon. Thank you for taking my question. I guess the first question would be on deferred revenues. Exiting last quarter I think you talked about trying to get to $1.5 billion and then we normalized there, whereas on this call, you said you expected to revenue the majority of these deposits in calendar '23. So can you help us understand the moving parts there and what kind of contribution in the June quarter guide will come from the deferred revenue line.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah C.J., I got it a little bit wrong last quarter is what I would tell you between cash invest deposits from some of our newer customers ended up being a little bit more than we expected. Offsetting that to a certain extent, was the decline in back orders. So we got that part, exactly right. But what I didn't get when I told you $1.5 billion would be the normalized level was this cash and advanced deposits. I think that is going to be around for a little while and like I said. I think the majority of that will revenue during calendar year '23, clearly in the second half. I don't think a whole lot of it shows up in the June quarter if any of it.
+
+Q - C.J. Muse
+Okay, very helpful. And then I guess to follow-up on your last comment around WFE being a little bit more second-half weighted, that seems like a seismic shift. I guess, is that just the magnitude of the types that you've seen kind of in the first-half or has anything else changed? And I guess as you think about that, if you do have the benefit of deferred revenues in the second-half and WFE be higher, it certainly would suggest that second-half total revenues should be nicely higher than the first-half?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, C.J. I mean. I think that, commentary on second-half being a little bit higher, I think, has something to do also with the fact that we talked about incremental weakness, clearly, our June quarter has been weaker than we probably thought as we came into the year. So some of that shows up in the back-half. I think it is simply a case of customers continuing to make pretty aggressive adjustments, both in utilization tools as well as overall spending. That's what we're seeing here in the first half. We also talked about the fact that with some clarification on the China restrictions, there would be additional shipments that occur through China in the second half that weren't originally anticipated. So it does help us with WFE in the second half as well.
+
+Q - C.J. Muse
+Thank you.
+
+Operator
+And the next question will come from Timothy Arcuri with UBS.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks a lot. Tim, if I take your comments and I combine them with Applied's and ASML's earlier today, obviously, there is this huge explosion in demand coming from China lagging edge. How sustainable do you think this is? It sort of feels kind of like given the restrictions they are just taking what they can get, which is now they are pouring all their money into lagging edge. So does that worry you that maybe that's not sustainable or is there something going on there, where there is real demand backing that?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Well, I believe that there is real demand. I mean, every region I think is trying to build up regional capability to manufacture all types of semiconductors. And as you just said, in China, this is one area that they have the ability to create that capability and also they have the demand to consume it as well. And so I think from that standpoint, it's good demand for us and for others in the industry. I think in a bigger sense this regional, call it, self sufficiency or regional resilience that's being built, I think is going to have a long-term impact on spending in the industry.
+
+And so we're not trying to sort of play the game of, is it or is it not sustainable? We're talking to our customers and in some cases, these are new projects that are coming up. We do our own assessment of whether or not they will be able to invest, if they have the technology. And I think that with not only US CHIPS Act, but recent news on the European Chips Act, I think that this is something that is -- it's going to have a positive impact on spending for the industry, across both leading edge and these trailing edge specialty technology segments for quite some time.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Thanks. And then I guess, Doug or Tim, can you just provide more color on -- you said that there has been some clarification of the export rules, can you give an example of what can ship now that was assumed to not be able to ship in the past?
+
+A - Tim Archer{BIO 7502648 <GO>}
+It's exactly the same as what was issued in the October 7 rules in terms of technology limits. We want to be very clear on Lam staying compliant with the restrictions. And so at the time we had given the guidance for the year, we said $2 billion to $2.5 billion of impact. We knew we were looking for clarification on how to determine whether some shipments that were in there could be made. That's why there was a range. And so now with that clarification on how you determine what can and can't ship, we've added those tools back into our forecast. But if you look at the rules that are there, it's exactly what was printed on October 7.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Tim, just to put some numbers around it, it's a few hundred million dollars, I think as we look at revenue for the year for Lam.
+
+Q - Timothy Arcuri{BIO 3824613 <GO>}
+Okay, Doug. Perfect, perfect. Thank you so much. I appreciate that.
+
+Operator
+And our next question will come from Krish Sankar with TD Cowen.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Yeah, hi. Thanks for taking my question. I have two of them. First one, just a follow-up on the China question. Doug, just like trying to like put all your -- all the comments together with back-half loaded WFE, some of the relaxation of China constraints and strong demand from lagging in China, is it fair to assume June quarter is the trough quarter for you from a revenue standpoint? And heading into back half, your gross margin should improve as you start shipping more to China? And then I had a follow-up.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah. I mean, Krish, what I said is, it's a slightly second half weighted WFE year. And by the way, I'll just clarify if there is any confusion about the deferred cash and advance deposits that are sitting there, that's in the WFE number. So that's part of the second half weighting as well, just so everybody is clear about that. And then, Krish, yeah, when I look at what we're doing with the cost structure and how we're sort of pivoting where we do what we do, I've been talking, I think this second quarter about a view that we should exit the year at least 1 percentage point gross margin higher than where we are. Still believe that is the trajectory that we're on.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Got it. Super helpful. And then just a technology question for Tim. You have the slide on gate-all-around and you spoke about the opportunity in ALD and ALE, I'm kind of curious because ASM International is a leader in ALD and why would customers shift to someone else versus an incumbent just because of gate-all-around? Are there any gate-all-around specific technology issues that your ALE is addressing that the incumbent is not? Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks. It's a good question, because I guess the point is, we have a very strong position in ALD across a number of different types of films. And what I'm trying to speak to is, there are specifically new types of challenges introduced. And in the end, customers select tools based on the film performance, the deposition capabilities, the tool productivity, reliability and manufacturing, lots of different factors. I think these are areas that just over the years Lam has excelled in the -- I think we can fit in ALD as well.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Thanks, Tim.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. Thanks, Krish.
+
+Operator
+And the next question will come from Joe Moore with Morgan Stanley.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. Thank you. I think you mentioned you saw some impact from utilization on the CSBG business in the March quarter. Can you talk about what that looks like for the next couple of quarters? Are you seeing impact from lower memory utilization within those numbers? And then as a follow-up, can you give us some sense of as Reliant keeps getting presumably bigger, how much of the -- what's in CSBG has actually kind of more in the Reliant tools side? Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, let me take a crack at the utilization. I mean obviously you've heard a lot within the memory industry about utilization cuts and even some throughout different segments of the market. That clearly hits our spares and services business as customers look to save money in the near-term, they idle tools. They also burn off some of the inventory they might have built up over the last couple of years. And so, that's clearly showing up in CSBG. Eventually that runs its course and our expectation is that, there's going to be, especially on the memory side, you'll start to see CSBG revenues improve likely long before you start to see us talk about much higher WFE. That's because customers will start bring those tools back online and you'll see CSBG revenues increasing.
+
+You will then also see customers start to do some of the technology upgrades that they've been kind of holding off on doing in the installed base that will also show up in our CSBG revenue. And then finally, we will ultimately see increases in WFE for capacity additions. And so I think that's where we'll see continuous improvement in CSBG. We're not going to put a timeframe on it, but it is causing us to be able to hold [ph] now and I think we will get back to that point and we say CSBG is a business we can grow kind of year-on year, if it's not this year with utilization cuts.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Great. And then sometimes with the Reliant as at least qualitatively as how much the business is from Reliant now?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Joe, I'll chime in on that one. I think I started saying last quarter that the two biggest components of CSBG are now spares and Reliant. And that continues to be true in the most recent reported quarter. Reliant is doing extremely well with more mature specialty node investments that we've been talking about. So that's benefiting and the utilization stuff that Tim talked about is a little bit of a headwind for spares. So -- but they are still the two largest components of CSBG.
+
+Q - Joe Moore{BIO 17644779 <GO>}
+Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah. Thanks, Joe.
+
+Operator
+And the next question will come from Harlan Sur with J.P. Morgan.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Hi, good afternoon. Thanks for taking my question. Your North American business again drove strong growth, right. Part of it is your share gains. But how much of the growth is simply you've got the one big US customer that wasn't contributing to WFE intensity for six years because they were stuck on one node, but now they're back on-track, while trying to drive five node migrations in four years. So strongly contributing to foundry and logic WFE intensity. How much of the growth is share gains versus just this customer capitalizing WFE intensity?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, Harlan, I think we're seeing -- we're obviously seeing a combination of both. I mean, share gains and it's not isolated to any one customer. What I dedicated a lot of my prepared remarks to was the progress we're making, expanding our SAM and our product portfolio, primarily focused on foundry logic. We recognize and we've said that this is an area that we've been under-indexed, which means that it's an area of significant growth opportunity for the company. And you see just a number of new products we've introduced, whether it be for the EUV inflection or it's the gate-all-around inflection. And so it's SAM [ph] expansion driving our growth and it's also share gains within that expanded SAM and it's across all foundry logic customers. We had some element of both.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+I appreciate that. And then can you also mentioned in your prepared remarks. I'm sorry, I missed some of that, but you announced some new wins with your dry photoresist processed module system solution. Can you just talk more about that? And when do you expect customer adoption curve to start to drive some meaningful revenues for the team here?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. Well, yeah -- what I announced, sorry if you missed, it was the -- last year we announced one memory customers and adopted some elements of the dry resist technology solution. In March, second memory customer did as well and then more recently the -- a large foundry logic customer has chosen to adopt the resist deposition dry development as well as the underlayer processes. And so those are -- that's a really nice expansion across both memory, which is obviously DRAM using EUV, memory and foundry logic. I think it sets us up well for continued momentum.
+
+Customers -- look everybody knows that EUV adoption is growing, and as I commented is becoming more challenging as people look for better productivity, they look for better technology capability within the resists. And I think that these are trends that are setting up well for us. I mentioned we'll be revenuing some tools, starting this year. So that's -- that's a very nice to milestone for us. And then I guess if you point you back, we had sized this at approximately $1.5 billion in revenue over the five-year timeframe. And I think as adoption continues to grow the size of the subject [ph] and continue to grow for Lam.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks, Harlan.
+
+Operator
+And the next question come from Vivek Arya with Bank of America Securities.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. The first one on just the memory market. Is second-half better or worse than the first-half for you in terms of your memory shipments? I'm just trying to gauge whether June has also kind of the bottom for memory or is there more to follow-on the memory side. And I think related to it, one of your customers have said that for them, their WFE in memory could be down even in the next fiscal year. And I know it's the fiscal and not a calendar year view. But do you think that's an industry-wide view or just in terms of how customers are thinking about 24 WFE on the memory side? So just kind of a near kind of memory question.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Vivek. I don't want to get into which segment is doing what in the first or second-half. I mean, memory is at a pretty low-level right now and we did say in the prepared remarks June is even lower than March and March was at a 10-year low in terms of our shipment and revenue anyway into -- into that space. Hard to see a whole lot lower than we're seeing right now. I don't want to go into though parsing a little bit of growth in the second-half, where it comes from, but memory is at a pretty low-point right now, I would say.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+And on the '24 WFE, again not trying to get a '24 view specifically, but I think one of your customers has been public about reducing memory WFE, even in their fiscal '24. Do you think that's the customer specific view or is that an industry-wide view that memory WFE could stay under pressure next year or is it too early to make that assertion?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. I guess I can say that, in 2022, you might recall, we gave you the 2023 outlook about a quarter early. I think think three quarters early might be a little early for '24. So, I don't think we're going to give WFE for '24. But what I point to is that, as Doug just said, you look it's from -- we signaled last -- in the September quarter call that '23 would be down in WFE. I think we were the first to do so, that's because we saw this decline in memory. We're already -- our revenue from December '22 to the June guide, we just gave down 40%.
+
+So we're well into this cycle. And just as I laid out. I think we're going to see as we move through the remainder of this year and into next year, utilizations of eventually come back technology conversion start to occur. And then finally, WFE starts to tick back up. And the great thing about the cost cuts that Doug talked about is, we've put ourselves in a position that we don't feel we have to be able to call the exact quarter when that's going to happen. But we think we're well into it and operating the company well at these levels and with some upside to come.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+And just a quick follow-up. Doug, maybe one for you on the OpEx side. Is this sort of reflecting all the OpEx actions or do you think that September or December OpEx could decline further? I mean that's the last time you guys were at this OpEx level, you were able to report revenues that were significantly higher. So kind of just two parts, is this kind of the bottom in OpEx and then should we see a lot more leverage, right as the end-market start to grow?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, Vivek. I think the majority of the cost actions we've taken, certainly, I talked about $99 million of headcount-related severance, that's largely complete. So, I think a lot of it has already kind of in the run-rate. Certainly, if you look at where we're at in June, it's down again quite a good amount. So Vivek, I'd also just add to that, I spent a lot of time talking about the work we're doing to broaden our product portfolio and expand really Lam strength beyond memory into some of the fast-growing inflections that are occurring elsewhere.
+
+I think this quarter was nearly 70% of our OpEx spent in R&D. And so we're absolutely committed to supporting the technology roadmaps to grow this company and so we're watching that. Obviously, if we see further deterioration, I think you can count on us to manage this business prudently. But at this point, we want to also be prepared for when the market does come back, and we know it will come back, that we are prepared to support our customers with the engineering capabilities and the new products and all the technologies that they're going to want to buy at that time. So we're really working that balance and that's what you see in our spending levels right now.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you.
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Thanks, Vivek.
+
+Operator
+And moving on to Stacy Rasgon with Bernstein Research.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi guys. Thanks for taking my questions. For the first one, I want to go back to these new customers that are in the deferred balance. I guess, are they -- are they all Chinese? And can you give us a view of which end-markets that additional deferred revenue is going? Like, is it all foundry and not memory, because. I know you've got one of the big Chinese memory prices on the entity list. I'm assuming you're not able to sell anything to them. So just a little bit of color on is all Chinese or not and what are the end-markets that are actually driving it.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, Stacy. The end-markets are primarily foundry and logic. The mature node, foundry and logic and I will acknowledge, it's got a decent Chinese footprint to it.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it,. Got it. And so I guess we -- you've got some -- I guess it's $500 million, right, because, I mean the deferred is like $2 billion and you said they are the $500 million reduction that you expanded -- expected that to be there before it's actually there and this was offset, I guess about $500 million. Is this coming back in the back-half and this China revenue shipping? I'm trying to get, are they the same things as be incremental China revenue that you've got like because you can ship more because of the sanctions, is at the same as the incremental balances in the deferred? And is that like kind of add to the backup -- are those things -- I just want to make sure, i'm not double counting anything?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, Stacy, there is a very large overlap is what I would say. And I said the majority of that cash and advanced payments were revenue in the second half. I didn't say all, I said the majority. And then the other thing I said a moment ago, the incremental clarification we got from China was a few hundred million dollars, So you got to thank to our (inaudible).
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. Okay, That's super helpful. Maybe if I could squeeze in just one more really quick. I know you said memory is down again sequentially, but there can be very much memory in there at all. I mean, if you're guiding (inaudible) and I mean -- if I mean your foundry plus logic in this quarter was almost (inaudible) and so if that was -- you can be guiding equipment revenue is much different than that? I mean, are we just literally memory kind of talking memory, kind of scraping the bottom of the barrel in June quarter at this point? I mean, I know we don't know how long it stays there, but presumably can't get much lower than it's going to be in June?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yes, Stacy. I told you in March, it was at a decade long low-point for us and it's down again in June. It's frankly in my personal opinion is, it's hard to see down much more than what we're describing in June, frankly. It's at a very low-level.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it.
+
+A - Tim Archer{BIO 7502648 <GO>}
+I'd just add. I mean my comment -- Stacy, I'm just going to add that -- the fact that in many cases, we see customers even delaying technology upgrades in order to one, not necessarily make the investments, but also not to add further bids into the market. That's -- that's a pretty rare case. I mean, technology investments usually proceed because that's the path to lower-cost and better capabilities. So, I would agree if that's comment out there. It feels like we're getting about as low as -- and I made the comment below maintenance levels I think here. So, that's our view on memory.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. That's helpful, guys. Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks Stacy.
+
+Operator
+And the next question will come from Toshiya Hari with Goldman Sachs.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hi, guys. As a follow-up to the last question. I'm curious how you're thinking about normalized levels of spending across the memory industry? When we look at your business, I think you did close to $7 billion in memory systems revenue in calendar '22. And given how things are going now, I don't know maybe roughly $3 billion this year, maybe a little bit below that. Assuming hypothetically if your customers are done shipping out of inventory, exiting this year and DRAM bits are growing kind of in the mid-teens and NAND bits are growing kind of in the mid 20s. Like, how significant -- how big would your memory business be in that sort of -- in that sort of state, kind of the midpoint between $7 billion and $3 billion or is it higher? How should we think about that?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, and I'll give it a quick response Toshiya. You know, it's hard for me to envision it being lower than it is this year. I mean, it's down 50%, memory in total. Tim, I think, had that in his scripted remarks touched on a lot. I can't ever remember it being down that much on a year-over-year basis. Now, you might say, hey, last year you might have been a little too high or somewhat too high, probably -- it's I'm not going to get into a precise number, but it's certainly higher than it is this year, maybe not the size it was last year, though.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+I appreciate that. As my follow-up, Doug, just on gross margins, I appreciate the the calendar year-end target of 45%. Curious how you're thinking about gross margins beyond that. A couple of years ago, you guys were doing 47%, some quarters close to 48%. You're introducing pretty differentiated product between EUV pattern and dry resist, I know those are pretty small businesses still. But you're putting out these products. You've got Malaysia, which hopefully with the recovery continues to ramp. Is there a path to call it 47-ish percent in calendar '24 or are there headwinds that we should be aware of? Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, let me take a shot and can cleanup as needed. I think the question on gross margin, we're not backing off on the financial models that we put out in the past. And as you pointed out, we're getting pretty close to operating their, while Malaysia was still a headwind. And so obviously, it will require a combination of some increased volumes. We've done a tremendous work to transfer a lot of our volume into lower-cost regions, really get a much more efficient supply-chain. The COVID period was a real setback as you again sourced and grew in every possible location. But I think over the next period of time and I hate to put a timeframe on it, again, to give a '24 outlook. But if we exit this year with the incremental improvement of 100 basis points that Doug talked about or more, and we have further volume and contribution coming through our new Asia facilities. I think that will drive back towards those goals that we've set back-in 2020, which was in kind of that 47.5%, 48% gross margin range.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Great. Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks, Toshiya.
+
+Operator
+And the next question will come from Atif Malik with Citi.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Hi. Thank you for taking my question. Similar to the last question on gross margins, Doug, can you help -- help us understand, by the end-of-the year in what percentage of your manufacturing will be in Malaysia and what are the steps you're taking in terms of asset optimization?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+I'm not going to put a a number on that, Atif. The growth when it resumes -- whenever that is and we know it will resume, likely it will pivot a little bit to that factory. We've said in the past, it will ultimately be the largest factory in the network. That is still absolutely because that's part of what Tim just described getting back to the financial model is, we'll just have a more efficient manufacturing footprint.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Got it. And then Tim generative AI is the topic these days, are there products in your portfolio on high-bandwidth memory or packaging side that you're seeing outsized growth or is it roughly in-line with you logic exposure?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Well, I would say we haven't seen outsized growth. I think that I could attribute directly to generated AI at this point, but clearly Lam has been a strong player in advanced packaging and we continue to make investments in that area to expand our product portfolio, and not only on a wafer basis, but also different formats as well to make sure we're prepared for whatever the future might be in advance packaging.
+
+Q - Atif Malik{BIO 7312618 <GO>}
+Got it. Thank you.
+
+Operator
+And we have a question from Blayne Curtis with Barclays.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Hey, thanks for letting me ask the question. I wanted to ask on leading-edgeffoundry. Clearly, you're seeing strength in the trailing edge. You've heard reports about maybe TSMC cutting.D definitely utilizations are quite low at the leading-edge. So maybe just comment on what you're seeing from your leading-edge foundry customers?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. I don't think we're going to comment about any specific customers, but I did make the comment that we see incremental weakness, I said primarily from memory. And then, I said we saw incremental strength in mature node. So obviously, primarily from memory implies there is additional weakness elsewhere. So I think leading-edge foundry is a bit weaker. Obviously, our exposure insight in the market is a little bit less than it is in memory, but we are seeing some weakness there as well.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Got you. It's a perfect lead and I guess I'm just trying to understand the second-half comment. I think the memory players are kind of talking about second-half spending being near-zero, so I guess it could go lower. And I think the prior question said kind of down '24 will see, but foundry logic is just starting the correction in memory just saw, I mean I guess, could you still be up if it's just trailing edge? I'm trying to understand those moving pieces.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Well, obviously, it's -- this is where we get a little bit stuck around the challenge of trying to forecast WFE for the industry. Obviously, we don't-- we don't have perfect insight into every element to WFE including tool lead times and demand in different markets. So we try to give you our best view. But, I think if you sort of translate this to what really matters to us in running the company, we've talked about the fact that we see -- assuming -- we see at some point memory coming back in terms of utilization, starting to tick-up at some point, but that's in the second-half '24 we'll see. Technology conversions in memory will be extremely good for Lam from the standpoint of how much we capture of every dollar of spending on technology conversions. We talked about strength in mature node, logic foundry. We've done -- talked about these advanced payments and we also talked about some railing edge shipments to China that we can now make after the clarification of the rule. So all those things kind of contribute to how we think about Lams second-half. Then we try to translate that to an industry WFE. I don't think we can spend a lot of time trying to dissect all of that low-to-mid $70 billion for you with great accuracy.
+
+Q - Blayne Curtis{BIO 15302785 <GO>}
+Thanks a lot.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks, Blayne.
+
+Operator
+And we have a question from Sidney Ho with Deutsche Bank.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Great. Thanks for taking the question. First question is, can you give us an update on your expectations of revenue performance for the CSBG Group? I think you previously said it will be down somewhat, but there seems to be some moving parts here with memory utilization lower, but China revenue being less restrictive? Just wanted to get some color would be great?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeag, Sidney, I think what I said last quarter and I'll reiterate the same thing. We expect to CSBG will be done a little bit this year, but obviously, a lot more resilient than overall WF. No new statement relative to that outlook.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Okay, that's helpful. Maybe another question on the -- just thinking about the recovery in memory spending, is the utilization level the first thing you guys monitor ahead of the CapEx recovery and how much of a lag do you expect memory CapEx to recover once utilization starts to improve?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+Yeah, maybe I'll comment and Tim feel free to add on. Normally the way this works, certainly a person would say is I cannot remember utilization being as low as it is right now, usually for fabs keep running right and other stuff gets adjusted. But right now utilization is obviously down. The first thing the industry will do to get upward growing again will be to move that utilization back up, that will benefit our spares business and probably a little bit of be upgrades, maybe a little bit. The next thing they will do is convert the installed base, which when that happens, the industry gets fairly cost-efficient output and we get a disproportionate amount of that spending when it's in memory obviously because we tend to be the bottleneck tools. We get that upgrade business first and then WFE comes back. So you got to think about progression showing up in that order. We will benefit first and CSBG before you'll see it in WFE.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. I think it's difficult to put a timeframe between. I think what you're asking is when it starts to when you start to see WFE investments. I think that depends on the shape of that recovery which again. We are confident that we will be probably the first and greatest beneficiary of recovery, and we'll see what the shape of the recovery looks like once we gave done on end demand.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Okay. Thank you
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah, thanks.
+
+A - Tina Correia{BIO 20814110 <GO>}
+Operator, we have time for one more question please.
+
+Operator
+Thank you. We will take that question from Vijay Rakesh with Mizuho.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Yeah, hi. Just a quick question on the China side. I know you mentioned China revenues were 22%, but it looks like there are some US restrictions. I said look, how do you expect that segment exposure to go down or stay flat or if you can give some color to the puts and takes as to how you're approaching that?
+
+A - Doug Bettinger{BIO 16159085 <GO>}
+I think it's probably down a little bit in the June quarter from a percentage standpoint. Although, don't hold me to that. We don't always get that exactly right, but I think it's probably down a little bit in June.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Got it. And on the memory side, I know you mentioned spending is a 10-year low probably comes in a little bit again in June, but In terms of where you see the bounds coming, -- is -- you think that's driven more by technology transition or capacity adds? How do you see that? Because I think broadly memory OEMs are still hemorrhaging cash, I believe, but just wondering how you see that bounce?
+
+A - Tim Archer{BIO 7502648 <GO>}
+Yeah. I think as we've described that, clearly technology conversions occur first since that's the most capital-efficient way for customers not only add some additional bits, but also to get a better cost structure. So clearly capital -- technology -- technology additions will come before capacity additions.
+
+Q - Vijay Rakesh{BIO 5884146 <GO>}
+Got it. Thank you.
+
+A - Tim Archer{BIO 7502648 <GO>}
+Thanks, Vijay. So operator, I think that concludes our time here. We can wrap the call up.
+
+Operator
+Well, thank you. That does conclude today's conference. Thank you for your participation. Have an excellent day.

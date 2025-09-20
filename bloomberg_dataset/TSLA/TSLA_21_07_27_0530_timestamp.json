@@ -1,0 +1,956 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you, and good afternoon, everyone. Welcome to Tesla's second quarter 2021 Q and A webcast. I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives.",
+    "start": 42.875,
+    "end": 60.71
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "During this call, we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations as of today. Actual events and results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question and answer portion of today's call, please limit yourself to one question and one follow-up. But before we jump into Q and A, Elon has some opening remarks.",
+    "start": 61.190002,
+    "end": 93.54
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Elon?",
+    "start": 93.54,
+    "end": 94.34
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Sure. So to recap, Q2 twenty twenty one was a record quarter on many levels. We achieved record production deliveries and surpassed over one billion dollars in GAAP net income for the first time in Tesla history. I'd really like to congratulate everyone at Tesla for an amazing job. This is really an incredible milestone.",
+    "start": 94.58,
+    "end": 114.125
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It also seems that public sentiment towards EVs is at an inflection point. And at this point, I think almost everyone agrees that electric vehicles are the only way forward. Regarding supply chain, while we're making cars at full speed, the global chip shortage situation remains quite serious. For the rest of this year, our growth rates will be determined by the slowest part in our supply chain, which is a there's a wide range of chips that are at various times the slowest parts in the supply chain. I mean, worth noting that if we had everything else, if we had vast numbers of vehicles themselves, would not be able to make make them.",
+    "start": 115.51,
+    "end": 160.215
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "If everything except the chips, we wouldn't be able to make them. The chip chip supply is fundamentally the governing factor on our output. It is difficult for us to see how long this will last because we don't have this is out of our control essentially. It does seem like it's getting better, but it's hard to predict. So in fact, even achieving the output that we did achieve was only due to an immense effort from people within Tesla.",
+    "start": 160.455,
+    "end": 196.96501
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We were able to substitute alternative chips and then write the firmware in a matter of weeks. It's not just a matter of swapping out a chip. You also have to rewrite the software. So it was an incredibly intense effort of finding new chips, writing new firmware, integrating the vehicle, and and testing in order to maintain production. And and I also like to thank us, I was I thought who worked with us.",
+    "start": 198.085,
+    "end": 226.325
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And there have been many calls midnight, one am, just with suppliers in resolving a lot of the shortages. So thanks very much to our suppliers. Let's see. In terms of FST subscription, we were able to launch Full Self Driving subscription last month. And we expect it to build slowly and then but then gather a lot of momentum over time.",
+    "start": 227.93001,
+    "end": 257.065
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Obviously, we need to have the full self driving build widely available for it really to take off at high rate and making a lot of progress there. So yes, I think FSD subscription will be a significant factor probably next year. With regard to Giga Texas and Giga Berlin, we're actually doing this earnings call from Giga Texas. So we're in the factory right now during the the cynical. And the team has made incredible progress here.",
+    "start": 258.33,
+    "end": 293.11
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You can see the pictures online and see that there's basically nothing a year ago and there's a lot a mostly complete large factory a year later. So really great work by the Giga Texas team and then also great work in Berlin, Brandenburg with the team there. So we expect to be producing the sort of new design of the Model Y in both factories and limited production later this year. It's always like it's not it's hard to sort of explain to people who have not been through the agony of a manufacturing ramp, like why can't you just turn it on and make five thousand a week? This is it is so hard to do manufacturing.",
+    "start": 293.11,
+    "end": 360.135
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It is so hard to do production. Gross approximation, there are ten thousand unique processes that have to work and the greater growth of production goes as fast as the least lucky and and dumbest of those ten thousand things. And a bunch of them are not even in our control. So it's like it's it's it's insanely difficult. I'm fond of saying that prototypes are easy and production is hard.",
+    "start": 360.135,
+    "end": 390.99503
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And arguably, the the really remarkable thing that Tesla has done is not not to make an electric car or to be a a car start up because there have been hundreds of car startups in the United States and outside United States. So the thing that's remarkable is that Tesla didn't go bankrupt in in reaching volume production. That's the amazing part because everyone else did. Because they all thought the prototype or the idea was the hard part and it is not. It is trivial by comparison with actual production.",
+    "start": 392.435,
+    "end": 425.805
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So it's always worth noting that all the American card companies, there are only two that have not gone bankrupt and that is Ford and Tesla. So the seeds of defeat are sown on the day of victory, and we must be careful that we do not do that. They often if you look at the if you look at the look at history, so often, the seeds of defeat are sown on the day of victory. We will endeavor not to make that the case at Tesla. So let's see.",
+    "start": 427.405,
+    "end": 466.47
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "The the model lines in Texas and Maine Texas and Berlin will be will look very much like the Model Ys we currently make, but there are substantial improvements in the difficulty of manufacturing. So for example, the Model Y made here and in Berlin will have a cast front body and a cast rear body. Whereas the one in California has cast rear body, but not a cast front body. We're also aiming to do a structural pack with forty six eighty cells, which is a mass reduction and a cost reduction. And but we're not counting on that as the only way to make things work.",
+    "start": 466.47,
+    "end": 510.26498
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We have some backup plan with nonstructural with a nonstructural pack and twenty one seventy, essentially. So but at scale production, we obviously want to be using forty six eighties and structural pack. From a physics standpoint, this is the best architecture. And from an economic standpoint, it is the lowest cost way to go. So the light is lowest cost.",
+    "start": 510.26498,
+    "end": 537.785
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But there's a lot of new technology there. So it is difficult to predict with precision when does it work and when you reach scale production. And Drew is going to talk a bit more about the four thousand six and eighty production. Yes. So we are making great progress on four thousand six hundred eighty cells.",
+    "start": 538.825,
+    "end": 559.23505
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But there is a tremendous amount of innovation that we're packing into that four thousand six and eighty cells. And so it's not simply a sort of minor improvement on state of the art. There are and we went through this on the factory sale day, really dozens of half a dozen major improvements and dozens of small improvements. So I think it will be great, but it's difficult to say when the last of the of of the technical challenges will be solved. So in conclusion, our team continues to make huge efforts to make our factories run at full speed, which is very difficult.",
+    "start": 560.515,
+    "end": 602.495
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We have had some factory shutdowns due to part shortages, and we hope those will be relieved in the coming weeks and months. And we were making great progress on full self driving. Some of the progress is not easy to see because it's it's at at the foundational software level. And so it ends up it ends up being sort of a two steps forward, one step back situation. And but over time, if you do two steps forward, one step back and keep going, you you move forward.",
+    "start": 602.94995,
+    "end": 636.70996
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So I'm I'm highly confident that that the cars will be capable of self driving. If they have a full self driving computer and cameras, I'm confident that they will be able to drive themselves with the safety levels substantially greater than that of the average person. But again, thanks to all of our employees who are making this a breakthrough year for Tesla and an incredible quarter. Thanks, guys.",
+    "start": 637.58997,
+    "end": 667.82
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And we have some follow-up remarks from Zachary Kirkhorn.",
+    "start": 668.7,
+    "end": 671.98004
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Thanks, Martin, and thanks, Elon. Just to reiterate, Q2 was a great quarter for the Tesla team with strong improvements across the business. In particular, auto gross profit and margin, excluding credit, increased substantially. This was primarily driven by better cost optimization across our factories, good execution against our cost reduction plans as well as increases in production and delivery volume.",
+    "start": 672.72504,
+    "end": 698.24
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "There was some benefit from pricing action, mostly in North America. However, it was small in the context of the other contributors. Note that the Model S and X program was at a slight loss for the quarter due to the relatively low volume. And supply chain challenges, including expedites, continued to provide cost headwinds. Additionally, it's encouraging to see the progress made on profitability within our Energy and Services and Other businesses.",
+    "start": 698.8,
+    "end": 725.01
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "While there's some benefit to looking at our progress quarter over quarter, I find it more helpful to look at progress over a slightly long term horizon. Over the last two years, our vehicle delivery volumes have more than doubled. This volume increase was made possible by a steady decrease in ASPs of more than ten percent, driven by a road map to increase affordability and shifting mix towards our more affordable vehicles. Yet over that same period of time, our auto gross margin, excluding credit, has increased nearly ten percentage points to our highest yet since the introduction of Model three. This is only possible because our average cost per vehicle has reduced by more than the reduction in average price.",
+    "start": 726.21,
+    "end": 768.28503
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "This is a remarkable achievement in the context of the volume growth and ASP reduction as mentioned and a testament to the hard work by the Tesla team. Additionally, OpEx as a percentage of revenue has declined and in particular SG and A, representing the work we've done to become more efficient as we scale the company while still making the required R and D investments to support our future. As a result, our GAAP operating margins have risen from negative to double digit, in line with what we have guided. By managing our overhead costs and driving higher volumes, our P and L is benefiting from the marginal profitability of each incremental unit. Or said differently, we are recognizing the benefits of scale and improved fixed cost absorption.",
+    "start": 768.84503,
+    "end": 811.47003
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "With strong operating cash flows and cash balance, we are putting that cash to use. CapEx continues to tick up, primarily driven by capacity investments in Austin, Berlin and Shanghai. Additionally, each quarter, we are using our cash to retire legacy debt, which was taken on at a time when interest rates and company risks were much higher than in today's environment. As I've mentioned before, our twenty twenty one volumes will skew towards the second half of the year as we push for continued sequential increases in volume. Despite the great work so far managing the instability of the supply chain, these challenges remain and are unfortunately increasing in pain with the higher volume.",
+    "start": 812.51,
+    "end": 850.395
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "As we work through the uncertainty, we want to ensure we do our best to manage customer wait times as well as the impact these interruptions have on our employees and costs. And as Elon mentioned, volume growth will be determined by part availability as we have the factory capacity ready and are in a strong demand position. I'm excited to see the progress made by the Tesla team as we continue building the business and strengthening our financials. Thank you very much.",
+    "start": 850.955,
+    "end": 877.225
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Great. Thank you very much, Zach. And now let's go to the retail investor questions on say dot com. The first question from Robert M. Is Tesla's website still says Cybertruck production is expected to begin in late twenty twenty one.",
+    "start": 877.785,
+    "end": 891.56
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Can Tesla share more details on the current status of the Cybertruck and confirm if production is still",
+    "start": 891.8,
+    "end": 897.39996
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "okay.",
+    "start": 899.735,
+    "end": 900.615
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Lars, do you wanna",
+    "start": 904.295,
+    "end": 905.175
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Sorry. We cut out there for a second. Yeah. The Cybertruck is currently in its out of stages. We finished basically engineering architecture of the vehicle.",
+    "start": 907.175,
+    "end": 916.74
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "With the Cybertruck, we're redefining how the vehicle is being made. As Elon said, it carries much of the structural pack and large casting designs of the model y being built in Berlin and Austin. Obviously, those take priority over the Cybertruck, but we are moving into the beta phases of Cybertruck later this year, and we'll be looking to ramp that in production in Tinker, Texas after Model y is up and going.",
+    "start": 918.02,
+    "end": 941.625
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Just worth reemphasizing that the extraordinary difficulty of ramping production of large manufacturing items, the risk of being repetitive, it is actually easy to make prototypes or sort of handle small volume production. Anything produced at high volume, which is really what's relevant here is it's going to move as fast as the slowest of the, say, rough order of magnitude, ten thousand unique parts and processes. And so you could have nine thousand nine hundred and ninety nine, which is one is missing. I mean, were missing, for example, like a big struggle this quarter was the module that controls the airbags and the seatbelts.",
+    "start": 943.61,
+    "end": 988.83496
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And obviously, cannot ship a car without those. And that's that limited our production civilian worldwide in Shanghai and in Fremont. So it's like wouldn't have mattered if we had like seventeen different car models because they won't need the gear bag module. Irrelevant. So in order for static truck and semi to scale to volume that's meaningful for customer deliveries, we've got to solve the the chip shortage or, you know, working with our suppliers.",
+    "start": 989.07495,
+    "end": 1029.14
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "People sort of say, don't you just build a chip pad? Okay. Well, okay. That would take us, you know, even moving like like lightning twelve to eighteen months. So it's not like you could just whoop up a chip bat.",
+    "start": 1029.14,
+    "end": 1042.7051
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It's just like, yeah, I'll just make a whoop chip bat. So some of these things are yes, anyway, it is quite a trial dealing with all of the constraints of scaling a large manufactured object. I think it may be the case that Tesla is scaling. I think we might be the fastest in history ever for scaling a large manufactured object. I think maybe the Model T would have been comparable back in the day, the Ford Model T.",
+    "start": 1042.7051,
+    "end": 1084.08
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Probably Internet knows the answer, but I I think we may be scaling large manufactured object at the the fastest rate in history. Or or I'd like to know who did did it faster so we can learn from them. So it's worth just noting that, you know, in the grand scheme of things, it's not bad. So yeah. So the side of truck and semi, actually both are heavy use of of cell capacity.",
+    "start": 1085.68,
+    "end": 1112.1699
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So we've got to make sure we have the cell capacity for those two vehicles or it's it's kind of pointless. We can make a small number of vehicles, but the effective cost, if you make a small number of vehicles is insane, like they would literally cost one million dollars a piece or more. And there's a reason why you things in volume production, which is to get the economies of scale that get the pass down. We are looking at a pretty massive increase in cell availability next year, But it's not like in January one. It's it's it comes through through you know, it ramps up through the course of next year.",
+    "start": 1112.65,
+    "end": 1158.985
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But even without Tesla Tesla's okay. Even without Tesla cell production, believe our suppliers will be able to deliver about twice as much cell output in next year as this year. Gurude, do you want to talk more about that?",
+    "start": 1160.3451,
+    "end": 1197.09
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Given concerns over sales bottlenecking growth, our target is to grow self supply ahead of the fifty percent year on year growth target of the vehicle business and also enable increased energy storage deployments. So yes, our sales suppliers are tracking to double their production in twenty twenty two.",
+    "start": 1197.17,
+    "end": 1213.1849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. It's worth saying like, if you have a target of certain number, that doesn't mean it happens like as sure as nightfall is day. It is a target. So if there is some calamity in the world that interrupts the supply chain, then it will be less. But the contracts that we have with sales suppliers call for roughly a doubling of cell of cell supply to Tesla in twenty twenty two.",
+    "start": 1213.345,
+    "end": 1244.5049
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And we have to juggle these exponential there's a whole bunch of exponential graphs sort of overlay on top of each other and small changes in where where you are on the x axis of time can quite substantially change the area under the code. So what we what we're thinking of doing is like depending on it's it's basically overshooting on cell supply for vehicles. And then as if as we have to say excess cell supply in one month or another, then then routing that cell output to the mega path and Powerwall. Or by the same token, if we're prioritizing vehicle production, if there's a shortage of cell output for some reason, then we will throttle down MegaPack and Powerwall production. So it there'll be something that's gotta get, basically.",
+    "start": 1246.0249,
+    "end": 1307.68
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Or if there's a disruption to vehicle production",
+    "start": 1307.68,
+    "end": 1309.44
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes.",
+    "start": 1309.68,
+    "end": 1309.84
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Then we have an outlet for cell capacity.",
+    "start": 1309.92,
+    "end": 1313.2799
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Exactly. There's a tremendous amount of inertia in the supply chain. So if we say to a supplier, we want you to double sell output. Well, even doing that in a year is very difficult.",
+    "start": 1313.28,
+    "end": 1326.175
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And then that system has a tremendous amount of momentum. It is like a flotilla of supertankers. It's insane. Speaking of which, from",
+    "start": 1326.175,
+    "end": 1336.42
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "a raw materials perspective, we we also have long term contracts to secure our supply chain to also enable this growth. So we're we're not just looking at the suppliers, but upstream from there.",
+    "start": 1336.42,
+    "end": 1346.5801
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah.",
+    "start": 1346.5801,
+    "end": 1346.9
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Which is",
+    "start": 1348.2351,
+    "end": 1348.7151
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "more a flotilla.",
+    "start": 1348.7151,
+    "end": 1349.675
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. Exactly. Mentioned, things will move as fast as the slowest part of the entire supply chain, which goes all the way back to raw materials, lithium and nickel and that kind of thing. And there's sometimes misperception that Tesla uses a lot of cobalt, but we actually don't. Apple uses, I think almost one hundred percent cobalt in their batteries and cell phones and laptops.",
+    "start": 1350.2351,
+    "end": 1381.945
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But Tesla uses no cobalt in the iron phosphate packs and almost none in the nickel based chemistries. So on a weighted average basis, we might use two percent cobalt compared to the apples one hundred percent cobalt. Anyway, so it's just it's really just not a factor. We expect to basically have zero cobalt in the future. So you know, I I do if they were to say, I think probably there is a long term shift more in the direction of iron based lithium ion cells rather over nickel.",
+    "start": 1382.1849,
+    "end": 1422.9299
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "As as the energy density of sort of iron or what's called the iron phosphate, but much much more support iron phosphate, take take for granted. Iron based cells, lithium ion cells, and nickel based lithium ion cells, I think probably we'll see a shift. My guess is probably to two thirds iron, one third nickel or something on that order. And this is actually good because there's plenty of iron in the world. There's an insane amount of iron.",
+    "start": 1423.73,
+    "end": 1457.09
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But nickel is there's much less nickel and there's way less cobalt. So it is good for relieving the long term scaling to move to iron based cells mostly. And I think long term, possibly all there's a good chance that all stationary storage that is Powerwall and MegaPack moves iron. This is most likely the case since you do not need to transport it and there's less of volume that's constraint for stationary storage. So then nickel would be for for really for long range road transports, ships and aircraft and that kind",
+    "start": 1457.5701,
+    "end": 1505.72
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "of thing. Thank you. Let's go to the second question from retail, which is Elon has said that Tesla will be opening up the supercharger network to other EVs later this year. Can you share some more details on how this will be structured? Will this be a select brands or will they contribute to the growth of this network?",
+    "start": 1505.72,
+    "end": 1527.2749
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. We're currently thinking it's a real simple thing where you just download the Tesla app and you go to a supercharger and you just indicate which store you're in. So you you plug in your your car, even if not Tesla, and then you just access the app and say, turn on this door that I'm in for how much electricity. And this should basically work with, I think, almost any manufacturer's cars, there will be a time constraint. So if the charge rate is super slow, then somebody will be charged more because the biggest constraint at the superchargers is the time, how occupied is the store.",
+    "start": 1528.875,
+    "end": 1579.7749
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And we'll also be smarter with how we charge for electricity at the superchargers. Rush hour charging will be more expensive than oil barrels charging because there are times when the superchargers are empty and times when they're jam packed. And so it makes sense to have some time based discrimination.",
+    "start": 1581.2949,
+    "end": 1605.075
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. We've been doing that and it's been working and people respond.",
+    "start": 1605.3151,
+    "end": 1608.355
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It helps with utilization. Yeah. Exactly. So yeah. I think we're in in in Europe and China and most parts of the world, it's it's the same connector for everyone.",
+    "start": 1608.355,
+    "end": 1622.95
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So this is a fairly easy thing to do, develop your own connector, which in my opinion is actually the best connector. It's small and light. It looks good. That's our standard. So we developed our own connector, which in my opinion is actually the best connector.",
+    "start": 1623.27,
+    "end": 1641.125
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It's small and light. It looks good. So an adapter is needed to work for EVs in North America, but people can buy this adapter and we anticipate having it available at the superchargers as well if people don't don't sort of steal them or something. We have a good solution for that one. Okay.",
+    "start": 1641.125,
+    "end": 1663.805
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So but but I you know, that that is that's constraint on North American team. Yeah. That that's basically a best of history. But I think we do want to emphasize that it is our goal is to support the advent of sustainable energy. It is not to create a walled garden and use that to bludgeon our competitors, which is sometimes used by some company.",
+    "start": 1665.165,
+    "end": 1688.6549
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "I think it's also important to comment that increasing the utilization of the network actually reduces our costs, which allows us to lower charging prices for our customers, make the network more profitable, allows us to grow the network faster. That's a good thing there. And then and no matter what, we're going to continue to aggressively expand the network capacity, increasing charging speeds, improving the trip planning tools to protect against site congestion using dynamic pricing as Elon mentioned, and just continue to focus on minimum wait time for all customers.",
+    "start": 1692.335,
+    "end": 1724.335
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Obviously, in order for this to be for Supercharger to be useful to other power companies, cars, We need to grow this network faster than we're growing vehicle output, which is not easy. We're growing vehicle output at a at a higher rate. So superchargers need to grow faster than vehicle output. So this is a lot of work for the supercharger team, but it is only useful in in the grand scheme of things.",
+    "start": 1724.3351,
+    "end": 1748.735
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It's only useful to the public if we're able to grow faster than Tesla vehicle output. So that that is our goal.",
+    "start": 1749.135,
+    "end": 1756.415
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And the third question is, Elon said four thousand six and eighty cells aren't reliable enough for vehicles. Is this referring to cycle life degradation or something else? Please update us on progress of 4680s and what is still needs to be done to make them reliable enough for vehicles?",
+    "start": 1758.43,
+    "end": 1777.035
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. I mean, really, this is not we'll definitely make the forty six to eighty reliable enough for vehicles. And I think are at the point where in limited volume, it is reliable enough for vehicles.",
+    "start": 1779.1951,
+    "end": 1791.86
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "The",
+    "start": 1791.86,
+    "end": 1792.34
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "again, going back to like, you know, production is easier. Prototype production is easy, but high volume production is hard. There are a number of challenges in in transitioning from sort of small scale production to a large volume production. And, you know, not not to get too much into the weeds of things, but right now, we have a challenge with basically the what's called calendaring or or basically squashing the cathode material to a particular height. So it just goes through these welders and gets and gets squashed like like pizza dough, basically.",
+    "start": 1794.98,
+    "end": 1836.045
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And but very hard pizza dough. And the it's causing it's it's denting the calendar rolls. This is not something that that happened when the calendar rolls were smaller, but it is happening when the calendar rolls were bigger. So it's just like, we're like, okay. We're not expecting that.",
+    "start": 1836.045,
+    "end": 1855.485
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah.",
+    "start": 1855.485,
+    "end": 1856.0449
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It's not it's not a, like, science problem. It's an engineering problem. Not a question of if, it's a question of when, and the team is a hundred percent focused on on resolving these limiting processes as quickly as possible. Exactly. Yeah.",
+    "start": 1856.6849,
+    "end": 1869.51
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And on the reliability side, as Elon mentioned, we have successfully validated performance and the lifetime durability of the four thousand six hundred eighty cells produced in Tocato. And we're continuing ongoing verification of that reliability. We're actually accruing over one million equivalent miles on our cells that we produce every month in our testing activities. The focus on that is very clear. We want high quality cells for for all of our customers.",
+    "start": 1869.51,
+    "end": 1895.61
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And, yeah, we're just focused on the unlucky limiting steps in the in the in the facility. And with the engineers focused on those few steps remaining, we're gonna break through as, you know, as fast as possible.",
+    "start": 1896.81,
+    "end": 1908.89
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Meantime, have a massive amount of equipment on order and arriving for the high volume cell production in Boston and Berlin. And but obviously, given what we've learned with the pilot plant, which is in Fremont, which is really quite a big plant by most standards. We will have to modify a bunch of that equipment. So it won't be able to start immediately. But it seems like let me correct me if I'm wrong, but we think most likely we will hit an annualized rate of one hundred gigawatt hours a year sometime next year.",
+    "start": 1912.665,
+    "end": 1961.22
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We'll have all the equipment installed Yeah. To accomplish a hundred gigawatt hours, and it it's possible Yeah. That by the end of the year, we will be at an annualized rate of a hundred gigawatt hours by the end of the year. Yeah.",
+    "start": 1961.985,
+    "end": 1974.785
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. And my guess is more likely than not, above fifty percent of of reaching a hundred gig gigawatt hours a year by the end of next year on the annualized rate, something like that. Yep. But it could shift by a little bit. So Yeah.",
+    "start": 1978.7799,
+    "end": 1996.9249
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But it's like nothing as you mentioned. Nothing fundamental. No. Just a lot of work.",
+    "start": 1996.9249,
+    "end": 2001.485
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. And and even to the large roller question, Elon. Right? Like, on the No side, the large rollers work great, no concerns. And so we're just learning as we go.",
+    "start": 2001.485,
+    "end": 2010.2098
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And the nice thing about having that facility on a fast track like we had it and we talked about it Battery Day was really derisking the the big factories here. Yes. We've done, and we've learned learned a lot. And with each successive iteration, the ramp up and the equipment installation will be faster",
+    "start": 2010.7699,
+    "end": 2030.4149
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "and more scarce. Alright.",
+    "start": 2030.4149,
+    "end": 2031.96
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And the last question from retail is from Emmett. Can Elon do an interview with one of our YouTube channels once or twice a year? I would nominate David Leon investing or Rod Maurer's Tesla daily channels as first possible candidates.",
+    "start": 2034.52,
+    "end": 2048.5251
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. I guess I I yeah. I'll do do an interview. I mean, just bear in mind, like, if I'm doing interviews and I I I can't do actual other work, you know. So it's not, you know I'll use how much time in the day.",
+    "start": 2058.3398,
+    "end": 2076.675
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So but, yeah, I'll I'll I'll do it once. I'm a I wouldn't do it annually, but I'll do it once. I think, also, like, this is the I let's say the last time I'll do earnings calls, but this is the I I will no longer be default doing earnings calls. So I'll still do the annual shareholder meeting, but I think going forward, I I will most likely not be on earnings calls unless there's something really important that that I need to say.",
+    "start": 2076.675,
+    "end": 2116.7202
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you. Now let's go to institutional questions. The first one, and we covered a lot of this already. Can you please update us on timelines for the start of production of Berlin and Austin Model Y, CyberTruck and the Semi?",
+    "start": 2118.9602,
+    "end": 2132.935
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Do you expect the ramp of CyberTruck to be as difficult as it is a new process?",
+    "start": 2133.095,
+    "end": 2137.5752
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "I think CyberTruck ramp will be difficult because it is such a new architecture. I mean, it's gonna be a great product. It might I think, be our best product ever, but it does a lot of fundamentally new design ideas in SyvoTruck. Nobody's ever really made a car like this before, a vehicle like this before. So there'll probably be challenges because there's so much unexplored territory.",
+    "start": 2139.095,
+    "end": 2167.245
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. Thank you. I think question two and question three, we can skip given we have already addressed it. I'll go to question four. In five years' time, how much faster better could you be at manufacturing capacity expansion using cut and paste?",
+    "start": 2169.325,
+    "end": 2185.06
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And what are the biggest issues you need to solve to get to that rate?",
+    "start": 2185.54,
+    "end": 2189.1401
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Well, like I said, I think we might be the fastest growing company in history for any large manufactured item. So those who have not actually been involved with manufacturing ramp up just have no idea how painful and difficult it is. It's like, you know, you got to eat a lot of glass and for our manufacturing ramp, it's hard.",
+    "start": 2192.395,
+    "end": 2220.935
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. I mean, I think, if you look at the expansion we've done in Shanghai, that factory was built in less than a year and ramped in, you know, five to six months to full volume. But you can We're",
+    "start": 2224.135,
+    "end": 2235.55
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "going that. We're going from that about a year.",
+    "start": 2235.55,
+    "end": 2238.7502
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And when you consider cut and paste, we've repeated that, you know, in in in Fremont and whatever. But now with Berlin and Austin, we have new factories and new designs. And so there's always challenges as you said, Elon, with new designs and ramping that. But I think having teams in three locations or three continents will definitely expand our ability and our capacity to grow more lines rather than just having the one factory in Fremont that we had a year and a half ago.",
+    "start": 2238.9902,
+    "end": 2269.0
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. So I mean, for Shanghai, was incredible team both both the factory eleven months, but it took longer than it's longer than building the factory. This was hot. It took longer than that to actually reach volume production, a high volume production. So it took about a year.",
+    "start": 2269.5598,
+    "end": 2287.665
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So when you put a factory in a new geography, in order for that factory to be efficient, you have to localize the supply chain. So there's no such thing as cut and paste. It does not exist. That's largely been saying to do vehicle production in Europe, but send vast numbers of parts from North America. That would be that would make the you know, producing in Europe, for example, just crazy.",
+    "start": 2288.64,
+    "end": 2320.79
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You you gotta look like the supply chains have efficiency, and then you you're as fast as as your least lucky, least good supplier. Yeah. It's only the supply chain for you. You're like, you know, three or four layers deep. It's it's frankly, I feel at times that we are inheriting all the force majeure of earth.",
+    "start": 2323.51,
+    "end": 2350.8801
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So if anything goes wrong anywhere on earth, something happens to mess up the supply chain. So yeah. Yeah. I",
+    "start": 2351.12,
+    "end": 2364.625
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "think the human capital the human capital growth though of having factories here, Berlin, Shanghai, Fremont, just allow us to maybe not exponentially grow, but, well,",
+    "start": 2366.305,
+    "end": 2379.08
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "hopefully We are exponentially growing.",
+    "start": 2379.08,
+    "end": 2380.6802
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. Hopefully, maintain that exponential growth. Yeah.",
+    "start": 2380.6802,
+    "end": 2383.08
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So yeah. It it also it takes a a while to hire old people and train old people to operate the factory. A factory is like giant cybernetic collective, and you can't just hire ten thousand people and have them have it work instantly. It's not possible. I really encourage more people to get involved in manufacturing.",
+    "start": 2386.6802,
+    "end": 2412.62
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "I think especially in the US, like, this is just not been an area where, you know, all that many smart people have gone into. I think US has an overall allocation of talent in finance and law. It's both a criticism and a compliment. But saying we shouldn't have people in finance and law. I'm just saying if this might be maybe we have too many smart people in those arenas.",
+    "start": 2412.62,
+    "end": 2442.97
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Maybe.",
+    "start": 2443.53,
+    "end": 2443.77
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Manufacturing is fun.",
+    "start": 2448.965,
+    "end": 2450.3252
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. Manufacturing is great. It's a very interesting problem to solve. And and obviously, you can't have stuff unless someone makes it. That's how you get stuff.",
+    "start": 2450.3252,
+    "end": 2461.99
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. Okay. Thank you very much. And let's go to the last investor question. Does Tesla plan to offer more services beyond FSD or high speed connectivity as part of its subscription bundle going forward?",
+    "start": 2464.0698,
+    "end": 2475.5098
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "What areas in particular present an opportunity?",
+    "start": 2476.085,
+    "end": 2478.9648
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. We don't have a lot of ideas on this to be frank. Really, full self driving is the main thing. Know, things are obviously headed towards, you know, fully autonomous electric vehicle future. And I think Tesla is well positioned and, frankly, is is the leader of effectively in this in both of those regions, electrification and autonomy.",
+    "start": 2485.605,
+    "end": 2514.0352
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So there's always it's always tempting to try to find analogies, but but, you know, with other companies or whatever. But really, the value of a fully electric autonomous fleet is insanely gigantic, boggles mind really. So that will be one of the most valuable things that is ever done in the history of civilization.",
+    "start": 2517.25,
+    "end": 2547.27
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And now let's go back to analyst Q and A, please.",
+    "start": 2549.43,
+    "end": 2553.75
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Our first question comes from Colin Rusch with Oppenheimer. Your line is open.",
+    "start": 2555.3499,
+    "end": 2571.675
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thanks so much, guys. Can you speak to the attach rates for FSD so far and what you're targeting in terms of the subscription levels?",
+    "start": 2573.1802,
+    "end": 2581.58
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. It's not worth commenting on right now. It's not meaningful. We really need both our driving, at least the the beta to be in wide widely available so anyone who wants it can get it. Otherwise, it it would pointless to to read anything into where things are right now.",
+    "start": 2583.58,
+    "end": 2601.965
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So Okay.",
+    "start": 2603.48,
+    "end": 2604.68
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And then just the follow-up there is about the cadence of the regulatory environment keeping up with the technology. Are you seeing meaningful evolution in terms of the regulators really understanding the technology and beginning to set some standards here sometime in the near term?",
+    "start": 2606.68,
+    "end": 2620.3352
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "At least in the U. S, we don't see regulation as the fundamental limiter. We've obviously got to make the work and then demonstrate that the reliability is significantly in excess of the average human driver for it to be allowed for people to be able to use it without paying attention to the road. But I think we have a massive fleet. So it will be, I think, straightforward to make the argument on statistical grounds just based on the number of interventions, you know, or especially in events that would result in a crash at scale.",
+    "start": 2623.695,
+    "end": 2673.6548
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We think we'll have billions of miles of travel to be able to show that it is the safety of the car with the autopilot on is you know, a hundred percent or two hundred percent or more safer than the average human driver. At that point, I think it would be unconscionable to not to allow the autopilot. They because the car just becomes way less safe. Every sort of like, take the elevator analogy, you know, back in the day, used used to have elevator operators with, like, a big sort of switch that that and they're they operate the elevator and and move between floors. But you never get that that gets hired or or maybe drunk or something or distract distracted.",
+    "start": 2673.6548,
+    "end": 2726.3499
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And every now and again, somebody would be kind of shared in half between floors. That's kind of the situation we have with cars. Photonomy will become so safe that it will be unsafe to manually operate the car relatively speaking. And, know, today, obviously, we just get in an elevator, we press the button for which floor we want and it just takes us there safely. And it would be quite alarming if it was elevators were operated by a person with a giant switch.",
+    "start": 2726.43,
+    "end": 2760.775
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "That's how it would be with cars.",
+    "start": 2762.055,
+    "end": 2763.975
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Let's go to the next question, please.",
+    "start": 2766.535,
+    "end": 2768.375
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Next question comes from Rob O'Gee with Wolfe Research. Your line is open.",
+    "start": 2769.52,
+    "end": 2773.7603
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Hi, everybody. Your your cost of goods sold per vehicle is already down to the mid thirty seven thousand dollar range in the quarter. It's down five thousand dollars year over year despite some of the inefficiencies that you talked about. And I know that a lot is going to change from here just given how mix is going to evolve. But if you're successful on the structural pack and front and rear castings and the launch of the four thousand six hundred eighty cell, can you just maybe give us a sense of what a successful outcome would look like maybe a year from now?",
+    "start": 2774.56,
+    "end": 2808.78
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Obviously, a lot has to go right, but just any kind of broad framework for us to think about.",
+    "start": 2810.075,
+    "end": 2814.7148
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. It's really difficult for us to to make specific predictions is very difficult. I think we feel confident of, say, at least a fifty percent growth year over year next year. And maybe it's one hundred percent, but that's we need a lot of crystal balls to figure out exactly what it's going to be. And we just it is literally impossible to make a specific prediction.",
+    "start": 2823.6,
+    "end": 2851.4949
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But at least fifty, maybe one hundred, something like that.",
+    "start": 2855.42,
+    "end": 2859.82
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. And maybe just separately from this, can you just clarify what the status is of some of the advances in battery manufacturing, things like dry cathode mixing that you talked about on Battery Day? What's the time line? How are those evolving?",
+    "start": 2861.34,
+    "end": 2882.215
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. We commented on it today already actually. But in the facility at Cato, over ninety percent of the processes have demonstrated rate there, but we are limited by the unlucky few that have not, and that's what we're working on. One of them that Ilan mentioned was running the full scale cathode calendar. We're working through some improvements that we need to make to that equipment and to the actual raw material itself to not have those limitations.",
+    "start": 2885.05,
+    "end": 2918.1301
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But again, it's an engineering problem. It's not a question of if, it's a question of when. On the mixing side, we haven't actually really had any challenges specific to your question. Fundamentally, we're still happy with the dry process direction in terms of the factory footprint, complexity, utility consumption, space and overall complexity simplification. Yeah.",
+    "start": 2918.1301,
+    "end": 2943.76
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And, I mean, and the cost associated with everything that I just",
+    "start": 2943.76,
+    "end": 2946.2402
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. And don't have programs that's dry cathode. I mean, it's it is a, you know I don't know. Maybe it's, like, ten or fifteen percent of the cost improvement or something like that. I don't Twenty percent maybe?",
+    "start": 2947.4402,
+    "end": 2962.0752
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Oh, oh,",
+    "start": 2962.315,
+    "end": 2963.195
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Ten ten ten ten. Closer to",
+    "start": 2963.915,
+    "end": 2965.5151
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "ten. Yeah. So so it's like just just like people don't think, like, this is like the Messiah or something. You know, wet versus dry reduces to dry is like ten percent less cost than wet. So it's not, you know, not ten percent, you know, sold nothing to sneeze at, especially if you're making, you know, hundreds of gigawatt hours a year.",
+    "start": 2965.5151,
+    "end": 2990.395
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "But it's not it's not the sign, basically. Yeah. Yeah.",
+    "start": 2991.515,
+    "end": 2997.115
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. We can go to the next question, please.",
+    "start": 2997.7551,
+    "end": 3000.555
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Next question comes from Pierre Ferragu with New Street Research. Your line is open.",
+    "start": 3001.63,
+    "end": 3006.19
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Hi. Thanks. Thanks very much for taking my question. I have another question actually on batteries, but on the site, slightly different angle. I was wondering how you're looking at your sourcing strategy for the four thousand six and eighty.",
+    "start": 3008.27,
+    "end": 3022.355
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You've talked a lot about all the work you're doing to develop your in house production. But what about asking other battery manufacturers to do forty six eighty cells with their own technology, maybe less less innovation than what you guys are lining up internally? And I was wondering if the first forty six, eighty cells that we see on the road will definitely come from Tesla's own manufacturing lines or whether they could be coming actually from outside suppliers as well. And I have a quick follow-up.",
+    "start": 3022.355,
+    "end": 3060.47
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. We are in fact working with our existing suppliers to produce four thousand six hundred eighty format cells. And this is just a guess right now, but I see us sort of like consolidating around a four thousand six and eighty nickel based structural pack and for long range vehicles and then not necessarily a forty six eighty format, but some other format for iron based cells. And so we right now, we we kind of have the Baskin Robbins of batteries situation where there's we have so many formats and so many chemistries that it's like we've got like thirty six flavors of battery at this point. This is just this results in an engineering drag coefficient where each variance of cell chemistry and format requires a certain amount of engineering to maintain it and troubleshoot and this inhibits our forward progress.",
+    "start": 3061.59,
+    "end": 3132.405
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So it is going to be important to consolidate to maybe ideally two form factors, maybe three, but ideally two. And then just one nickel chemistry and one iron chemistry. And so we don't have to troubleshoot so many different variants.",
+    "start": 3132.405,
+    "end": 3156.47
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. And towards that end, we are engaging with the suppliers that we've had good partnerships with on four thousand six and eighty designs to enable that simplification. And far, so good. They're working on they're bringing their core competencies to bear on that. We're not mandating like what's going on inside, but it's been a good collaboration.",
+    "start": 3157.005,
+    "end": 3177.77
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes.",
+    "start": 3178.09,
+    "end": 3178.73
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We do expect to see significant increases in supply from our existing suppliers in addition to the sales that Tesla is making. So it's both. Sometimes I get questions from our sales suppliers of like, are we just going to make all the sales ourselves? And we're like, no, please make as many as you possibly can and supply them to us. We have a significant unmet demand in stationary storage.",
+    "start": 3181.21,
+    "end": 3208.46
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Megapack is basically sold out through the end of next year, I believe. We have a massive backlog in Powerwall demand. The demand of Powerwall versus production is a insane mismatch. Now part of that problem is also the semiconductor So we use a lot of the same chips in the Powerwall as we do in the car. So it's like which one do want to make cars or Powerwalls?",
+    "start": 3209.74,
+    "end": 3233.44
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So we need to make cars so that both Powerwall production has been reduced. But as the semiconductor storage is alleviated, then we can vastly ramp up Powerwall production. I think we have a chance of hitting an annualized rate of one million units of Powerwall next year, maybe towards on the order of twenty thousand a week. But again, dependent on cell supply and semiconductors. But in terms of demand, think there's probably demand for in excess of a million Powerwalls per year and actually just a vast amount of mega tax for utilities.",
+    "start": 3233.44,
+    "end": 3285.095
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "As the world transitions to a sustainable energy production, solar and wind are intermittent and by the nature really need battery packs in order to provide a steady flow of electricity. And when you look at all of the utilities in the world, this is a vast amount of batteries that are needed. That's why long term we really think sort of combined Tesla and suppliers need to produce at least one thousand gigawatt hours a year and maybe two thousand gigawatt hours a year.",
+    "start": 3285.415,
+    "end": 3321.35
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay, great. Thank you. And I have a quick question. I know, Elon, you don't think it's meaningful today, but I'd be curious to know, you know, if you have any stats about when you you announced a new pricing on a on a SSD moving from ten ground at home to one ninety nine without the lock in. I I'd be curious to understand, you know, how it affected behavior as an issue.",
+    "start": 3324.7102,
+    "end": 3350.75
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So, like, a massive uptake uptake in the service. And I'm not thinking about people looking at it as an SSD, but more, you know, to to try the most advanced version of autopilot and to and to try it. So in in the first days, you've announced the pricing. Have you seen, like, a a very significant spike in a in in the take rate? And can you get get us give us a sense of how big this was?",
+    "start": 3350.75,
+    "end": 3376.68
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. So you're you're asking, like, is the FSD take rate too expensive and and that's why we're doing subscription? Or I'm not sure if I understand your question correctly.",
+    "start": 3389.355,
+    "end": 3399.5151
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "No. My question is from the time you announced, like, subscription at one hundred ninety nine dollars per month, how much did, the take rate increase? Like like, the percentage of people who who basically took took the subscription as they bought a new car. This is how it was when they had",
+    "start": 3400.94,
+    "end": 3423.135
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "to pay ten grand at France.",
+    "start": 3423.135,
+    "end": 3424.735
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. This is Zach here. I mean, I think we're still early in understanding our how FSD subscription will unfold, but a couple of data points here. So we took a look at our backlog to see of customers in our backlog who have ordered FSD, did they cancel presumably to go to subscription after they take delivery. And the level of cancellations there was a not seen cannibalization there.",
+    "start": 3425.615,
+    "end": 3450.965
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It's possible that that changes, but that was also part of our pricing strategy at ninety nine dollars and one hundred ninety nine Also part of our pricing strategy at ninety nine dollars and one hundred ninety nine dollars",
+    "start": 3450.965,
+    "end": 3463.35
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yes. Mean, it's like any given price is going to be wrong. So we'll just adjust it over time as we see you know, the the value proposition makes sense to people. So we're just really I'm not thinking about this a lot right now. We need to make full self driving work in order for it to be a compelling value proposition.",
+    "start": 3464.1501,
+    "end": 3486.105
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Otherwise, people are, kind of betting on the future. I mean, like right now, does it make sense for somebody to do FSD subscription? I think it's debatable. But once we have full self driving widely deployed, then the value proposition will be clear. And at that point, I think basically everyone will use it or if it'd be rare, rare, a rare individual who doesn't.",
+    "start": 3486.105,
+    "end": 3518.26
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you very much for your help. And I think that's all the time we have for today. Thanks for all your questions and we'll speak to you again in three months time. Have a good day everyone.",
+    "start": 3522.18,
+    "end": 3534.0952
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "All right. Thank you.",
+    "start": 3534.0952,
+    "end": 3535.215
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "This concludes today's conference call. Thank you for participating. You may now disconnect.",
+    "start": 3536.735,
+    "end": 3540.895
+  }
+]

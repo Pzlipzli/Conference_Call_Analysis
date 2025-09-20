@@ -1,0 +1,468 @@
+Q4 2022 Earnings Call
+Company Participants
+Bill McDermott, President and Chief Executive Officer
+Chirantan Desai, Chief Operating Officer
+Darren Yip, Investor Relations
+Gina Mastantuono, Chief Financial Officer
+Other Participants
+Alex Zukin, Wolfe Research
+Brad Reback, Stifel
+Brad Zelnick, Deutsche Bank
+Karl Keirstead, UBS
+Kash Rangan, Goldman Sachs
+Keith Bachman, BMO
+Keith Weiss, Morgan Stanley
+Mark Murphy, JP Morgan
+Peter Weed, Bernstein
+Raimo Lenschow, Barclays
+Sarah Hindlian-Bowler, Macquarie Capital
+Sterling Auty, SVB
+Tyler Radke, Citi
+Presentation
+Operator
+Good afternoon, ladies and gentlemen. Welcome to the ServiceNow Q4 2022 Earnings Conference Call. At this time, all participants are in a listen-only mode, and please be advised that this call is being recorded. After the speakers' prepared remarks, there will be a question-and-answer session. (Operator Instructions)
+
+And now at this time, I'll turn things over to Darren Yip, Vice President, Investor Relations. Darren, please go ahead.
+
+Darren Yip{BIO 22306278 <GO>}
+Good afternoon, and thank you for joining ServiceNow's fourth quarter and full year 2022 earnings conference call. Joining me are Bill McDermott, our Chairman and Chief Executive Officer; Gina Mastantuono, our Chief Financial Officer; and CJ Desai, our President and Chief Operating Officer.
+
+During today's call, we will review our fourth quarter 2022 results and discuss our guidance for the first quarter and full year 2023. Before we get started, we want to emphasize that some of the information discussed on this call, such as our guidance, is based on information as of today, and contains forward-looking statements that involve risks, uncertainties and assumptions. We undertake no duty or obligation to update such statements as a result of new information or future events.
+
+Please refer to today's earnings press release and our SEC filings, including our most recent 10-Q and 2021 10-K for factors that may cause actual results to differ materially from our forward-looking statements.
+
+We'd also like to point out that we present non-GAAP measures in addition to, and not as a substitute for, financial measures calculated in accordance with GAAP. Unless otherwise noted, all financial measures and related growth rates we discuss today are non-GAAP, except for revenue, remaining performance obligations, or RPO, current RPO and cash and investments.
+
+To see the reconciliation between these non-GAAP and GAAP measures, please refer to today's earnings press release and investor presentation, which are both posted on our website at servicenow.com. A replay of today's call will also be posted on our website.
+
+With that, I'll turn the call over to Bill. Bill?
+
+Bill McDermott{BIO 3075298 <GO>}
+Thank you, Darren, and thank you, ladies and gentlemen, for joining us today. ServiceNow continues to perform as-the-beyond expectations company. For Q4, we beat guidance with subscription revenue growth of 27.5% in constant currency. Operating margin was 28%, 2 points above our guidance. Our free cash flow margin was 30%, 1 point above our guidance. We had 126 deals greater than $1 million in Q4, including our largest deals ever worldwide in EMEA and in Latin America. Our 98% renewal rate remains the industry benchmark. With 25.5% constant currency cRPO growth, we actually had better-than-expected new business in Q4, with less reliance on early renewals.
+
+Based on this new business surge, we are giving a very strong guidance for 2023. Our guidance reflects a disciplined forecast that appropriately balances our well-founded optimism with ServiceNow's business. We'll work hard to go beyond it, and we'll begin that march in Q1.
+
+Here is the main takeaway. Even in a complex operating environment, ServiceNow is executing at the rule of 58.5. We are driving net new innovation, fast growth and operating leverage. ServiceNow is the proverbial safe harbor in all weather conditions.
+
+Let me unpack the current environment for you. The secular tailwinds of digital transformation aren't going anywhere. IDC's research makes it clear that technology budgets are growing. They forecast IT spend will grow 5% in 2023, software spend at 8% and Software-as-a-Service spend at 15%. So as businesses increase spend, the only question then is where will all that investment go? And this answer has everything to do with the great reprioritization.
+
+The theme in Davos this year was cooperation in a fragmented world. It all begins with a fragmented enterprise. C-level buyers don't want long-term roadmaps to clean up a siloed mess of point solutions. They want integration, speed, automation, great experiences and business impact. A CEO told me, quote, we can't afford 1,000 points of (inaudible). We need a cohesive plan with a trusted platform. End quote. So this is now without any doubt, a platform economy, and only a few platforms will be relevant in this shift, and none are as well positioned as ServiceNow.
+
+This begins with our business model. ServiceNow was born in the cloud, established itself in IT, and expanded from that core. It accelerates with the realities of the multi-cloud world. Many enterprises are struggling to use public cloud capacity, that they have already procured into ServiceNow, which directly enables cloud workload migration. We are the control tower for any architecture: public, hybrid or multi-cloud. And with OpenTelemetry, we help business build and monitor cloud-native applications.
+
+This all extends to driving automation. ServiceNow has natively embedded the complete toolset from AI to RPA to process mining in our platform. Now professional developers and the rest of us, real people like you and me, can build mission-critical applications to automate the world of work. Everything culminates with real business outcomes. ServiceNow integrates the enterprise to deliver better customer service, employee experiences, security, risk management and next-generation business processes like Procure-to-Pay, technology foundation, hyper automation, process orchestration.
+
+With this completeness of vision, ServiceNow is the end-to-end platform for digital transformation. If all we did was help existing customers consume everything this platform can do, we would stay a fast-growth company, but of course, our strategy goes well beyond this as does our proven ability to execute. Right now, many fine technology companies are working to shift resources from bad businesses to good ones.
+
+ServiceNow only has good businesses. Our products and engineering team is building organic net new innovation, with an unmatched level of speed and quality. When we started to sense noise in the macro early in 2022, we shifted immediately to a conservative cost management posture in running the company. This allowed us to focus on execution with our team rather than look to workforce actions to leverage.
+
+It also allowed us to continue hiring, especially in engineering and quota-carrying roles. The results tell the story. ITSM was in 14 of our top 20 deals, with 15 deals over $1 million. ITOM was in 16 of the top 20, with 14 deals over $1 million. Security and risk solutions were in 13 of the top 20, with 9 deals over $1 million. Customer workflows were in 13 of the top 20, with 13 deals over $1 million. Employee workflows were in 13 of the top 20, with 11 deals over $1 million. And creator workloads were in 19 of the top 20, with 11 deals over $1 million.
+
+We saw new business growth, new logos and major expansions with some of our existing customers. The United States Army expanded its ServiceNow roadmap to go well beyond IT. ServiceNow will improve the Army's ability to consolidate service management for its over 1 million active military contractor and civilian population.
+
+The Schwarz Gruppe, one of the world's top retailers, will digitize its 11,000 stores from retail locations to logistics on ServiceNow as its digital business platform. This transition is a transformation, and it will position the Schwarz Gruppe at the forefront of the next-generation retail industry. From Banco do Brasil, to AT&T, to Sumitomo, we have countless stories that span ServiceNow's workflows, Lightstep, geographic regions and industries across the board, we're winning.
+
+And as you'll hear from Gina, we grew new business 100% year-over-year across retail, hospitality, transportation and logistics. That's only one example. And with the expansion of ServiceNow's Impact, we are setting the standard for speed [ph] of deployment and business value for our customers. More than three years ago, I stated our ambition to be the defining enterprise software company in the 21st century. And this is an ambition I will see through to its full completion.
+
+Following my elevation to Chairman and CEO, I'm delighted to announce that CJ Desai has been promoted to President and Chief Operating Officer. CJ is a leader of consequence, well known in the industry. His track record at ServiceNow speaks for itself, from strengthening our platform to driving our customer experience. This is exactly how we are orchestrating our company to perform on an end-to-end basis from innovation to execution with our customers. And I'd like to personally congratulate CJ for his latest well-deserved endorsement of his leadership. Congratulations, CJ.
+
+In other news, we proudly welcome Masatoshi Suzuki as the new President of ServiceNow Japan. He brings a long history of successful leadership with some of the industries' most respected brands. We will elevate ServiceNow Japan to a fourth geographic region reporting directly to our prudent Chief Commercial Officer, Paul Smith.
+
+And to add fuel to the growth buyer [ph], we rolled out a new Partner Program to help our ecosystem drive full platform adoption of ServiceNow. We're also getting an enthusiastic reception for the company's premier global initiative RiseUp with ServiceNow. And under the thoughtful leadership of Lara Caimi we will continue to rise up.
+
+We offer the training and certification to help people build a lifelong career working on this platform. We have never seen so much interest in the ServiceNow franchise around the world as we are seeing right now. And from an ongoing operating perspective, we entered 2023 with much stronger sales coverage on a year-over-year basis. We have the feet on the street.
+
+We also see stronger pipeline coverage and the maturity of that pipeline much more so than we did a year ago. The latest Glassdoor ratings feature ServiceNow as the 9th best place to work in the United States, 2nd-best in the United Kingdom. The company is fully invested in all of our stated ESG objectives, with our Global Impact Report coming later this year.
+
+All this is a reflection of our proud culture built on Fred Luddy's founding vision for our company. I was just in Las Vegas last week for our sales kick-off event. And I can tell you, our team is fired up and ready to go for the year ahead, really fired up. I can only reiterate that we have said consistently, there is only one way forward, and that is innovation.
+
+IDC says that by 2027, the number of digital businesses on the S&P 500 would double. Every industry is being reframed by a new paradigm or several. The participants that lean in will lead. The others will fall behind, and quickly. With ServiceNow, we are committed to make the world work better for everyone. Our fundamentals are operating at peak performance, net new innovation for our customers, business impact, driving long-term stickiness of our platform and network effects, giving us a competitive moat with multiple avenues for market expansion and profitable growth, with a pristine balance sheet.
+
+All-in-all, when people talk about cloud economics, ServiceNow is the blue chip standard. Whatever the world lacks in stability, we will more than offset with relentless execution. Our customers need to automate for cost reduction and to innovate for growth. Yes, ServiceNow helps them do both. The world works with ServiceNow as the end-to-end platform for digital transformation.
+
+I'd like to personally thank our customers, partners and shareholders for their steadfast trust in ServiceNow. You can count on us. We're in your service. We're hungry and humble as ever.
+
+I'd like to now hand the call over to our CFO, Gina Mastantuono. Gina, over to you.
+
+Gina Mastantuono{BIO 16430022 <GO>}
+Thank you, Bill, and happy New Year to all of you who are listening in. Q4 was another great quarter of execution. We exceeded our subscription revenue guidance and drove strong renewal and expansion rates. Our operating and free cash flow margins also exceeded our outlook as disciplined cost management drove tailwinds to profitability.
+
+In Q4, subscription revenues were $1.86 billion, growing 27.5% year-over-year in constant currency, exceeding the high-end of our guidance range by 50 basis points. RPO ended the year at approximately $14 billion, representing 25% year-over-year constant currency growth. Current RPO was approximately $6.94 billion, representing 22% year-over-year growth and a 2 point beat versus our guidance, primarily driven by favorable FX movements in the quarter.
+
+On a constant currency basis, growth was 25.5%. While constant currency cRPO growth came in just shy of our guidance of 26%, we actually outperformed our target for net new ACV and renewal ACV for contracts expiring in the quarter. The delta came from fewer early 2023 renewals than is typical in the fourth quarter. Given our strong renewal rates, which remain the best-in-class 98% in Q4, this is only a timing issue. We expect these customers to ultimately renew upon contract expirations, providing opportunities to drive further expansion throughout 2023.
+
+The timing of early renewals does not impact 2023 subscription revenue growth, only RPO. Net new ACV would drive incremental revenue growth and there we exceeded our forecast. Our larger-than-average Q4 customer cohort not only renewed at a very strong rate, net expansion also remained robust.
+
+What's more? The strength in net new ACV was added to existing customers. New customer net new ACV grew over 30%. We ended the quarter with 1,637 customers paying us over $1 million in ACV, up 20% year-over-year. From an industry perspective, retail and hospitality, and transportation and logistics saw net new ACV growth of well over 100% year-over-year. Government remained strong, growing more than 50% year-over-year. Manufacturing and financial services also saw a healthy double-digit growth.
+
+We closed 126 deals greater than $1 million in net new ACV in the quarter, including 2 of our top 5 largest ever. In addition, we saw 100% increases in the number of both, $5 million-plus and 10 million-plus net new ACV deals. More and more customers are seeing the true power of the ServiceNow portfolio as a unified platform. That's leading to more multi-product deals. In Q4, 5 of our top 10 deals contained 10 or more products.
+
+Turning to profitability. Operating margin was 28%, 200 basis points above our guidance, driven by disciplined spend management and less-than-expected FX headwinds. Our free cash flow margin was 53%, up 650 basis points year-over-year. For full year 2022, operating margin was 26%, 100 basis points above our guidance, and free cash flow margin was 30%, also 100 basis points above our guidance. Total free cash flow for 2022 was a robust $2.2 billion.
+
+We ended the year with a healthy balance sheet, including $6.4 billion in cash and investments. Together, these results continue to demonstrate our ability to drive a strong balance of world-class growth and profitability.
+
+Before I move to guidance, I want to give a brief update on the trends we are seeing. Heading into 2023, we believe we have prudently factored in the evolving macro crosswinds into our guidance. Overall, the demand environment remains healthy, deals getting done, the market opportunity is growing, the ecosystem is expanding, our renewal and net expansion rates ended the year strong, our pipeline is robust.
+
+With that in mind, let's turn to our 2023 outlook. We expect subscription revenues between $8.44 billion and $8.5 billion, representing 22.5% to 23.5% year-over-year growth on both a reported and constant currency basis. We expect subscription gross margin of 84%, reflecting the expected diminishing impact of the change in useful life of our data center equipment as well as investments to accelerate customer time-to-value as part of our Impact offering and higher inflation.
+
+We expect operating margin of 26% as sales and marketing efficiencies are offsetting headwinds from gross margins. We expect free cash flow margin of 30%. And we expect GAAP diluted weighted average outstanding shares of 206 million.
+
+For Q1, we expect subscription revenues between $1.99 billion and $2 billion, representing 25% to 25.5% year-over-year growth on a constant currency basis, excluding a 300 basis point FX headwind. We expect cRPO growth of 24% on a constant currency basis, excluding 300 basis points of FX headwind. We expect an operating margin of 24%, and we expect 204 million GAAP diluted weighted average outstanding shares for the quarter.
+
+In conclusion, we had a strong Q4 capping a resilient year. As we enter 2023, the macro challenges many enterprises face underscore a point we have made consistently. The technology strategy has become the business strategy. Digital technologies are growth-stimulating deflationary force. They power new business models, accelerating productivity while reducing costs.
+
+Our unique ability to drive business model transformation while delivering efficiency gains has created durable demand for the Now Platform. Our investment strategy is laser focused on our customers' most pressing issues, and that continuous net new innovation translates into net new business for ServiceNow. We are well positioned for 2023 and remain on our way to becoming the defining enterprise software company of the 21st century.
+
+Finally, I'm extremely proud of our team's performance this year. Bill and I can't thank our employees enough for their continued hard work and dedication.
+
+With that, I'll open it up for Q&A.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you, Ms.Mastantuono (Operator Instructions)
+
+We'll take our first question this afternoon from Brad Zelnick of Deutsche Bank.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Great. Thank you so much and congratulations, everybody.
+
+Bill, we continue to hear from some of your largest partners of the great opportunity ahead in the middle office for which ServiceNow platform just seems to be ideally suited. How are customers prioritizing these opportunities right now and into this year? And how do you position yourselves, particularly with partners and vertical industry solutions to best capture it? And I've got a follow-up for Gina.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah. Thank you very much, Brad. And before I answer the first question, ladies and gentlemen, I just wanted to officially welcome CJ Desai as our newly minted President and COO, who is joining me here today and I will have him continue to join me on these calls.
+
+And I'd also like to acknowledge Gina for powering through while she's a bit under the weather, so please, her voice might be a little scratchy, but her passion is on fire. So, she's in good shape, but losing a voice a little bit. We've been all over the world from Davos to Vegas to here. So, that's what happens when you travel a little bit.
+
+Brad, the partners and the largest partners are really doubling down on their investment with ServiceNow. And I look at it as a multifaceted situation. First, on this RiseUp with ServiceNow, we're going to train a million people in the ecosystem to be fully certified on the platform to ensure that we globally scale. Second, partners are teaming up with us on an industry domain basis also based on persona and mapping that back to our solution road map and naturally, everybody is all in on the platform. So, the big ones are really doubling down on the platform.
+
+What's interesting, and you bring up a good point, is this for the front, the mid, and the back office. And there's a next-generation ERP evolving here with things like procure-to-pay, optimizing supply chains, and other things that definitely impact the middle office, but I would also say we have a great opportunity. And if you saw our new business surge in Q4, you're seeing it play out, where we're going to net new logos and drawing net new business. And I think that will be a big part of it.
+
+CJ, you may want to build on it from what you're seeing in the middle office.
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Brad, yes, I would say, when we look at the engagement layer, engagement layer has been around for a long time, say, for a customer service request. So, for a large financial services organization, moving the workflow from the engagement layer on, say, a customer complain to the mid office, where we really shine because of our interoperability of the platform and our ability to integrate the systems and to different clouds all the way to the back office. And that's what is driving the middle office acceleration, whether that's for a financial services organization, telecommunications, or a healthcare organization.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Excellent. And I know, Brad, you have the second question, I think, for Gina.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Thank you so much and congrats. I was remiss in not congratulating you, CJ.
+
+For you, Gina, I appreciate the additional disclosure on net new ACV. You guys clearly had a really strong quarter for new business, which is what matters most to investors. But as we think about cRPO and what you shared with us, I mean, we're all trying to understand the customer mindset during these uncertain times. Is it fair to conclude that perhaps there was less of a traditional Q4 IT budget flush in 2023? And if not, what else would be the rationale as to why you would see that phenomena? Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah, of course. Brad, thanks for the question, and apologies for my throat.
+
+So, I think what you're seeing is early renewals were always correlated and still always correlated to net new ACV. And when people early renew, it's really about co-terming multiple contracts. And certainly, in the current environment when, I don't know, if you want to say it's just budget flush or just more tightening of budgets, the need or the desire to co-term the contract is a little bit less than what we've seen historically. Not altogether surprising given the current macro. It's why I wanted to be really clear about the fact that early renewals have no impact on future revenue, right? And in the quarter, our target forecast for net new ACV, as well as renewal ACV within the quarter actually overachieved, which is why we were able to come out with a strong 2023 revenue guide and why we feel good about not only the Q4 results, but also the position that we stand in the market as we're entering 2023.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Excellent. Thank you. And thank you for the very important disclosure on net new ACV.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Brad.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Brad.
+
+Operator
+Thank you. We go next now to Raimo Lenschow at Barclays.
+
+Q - Raimo Lenschow{BIO 4664646 <GO>}
+Hey. Congrats from me as well. And Gina, hope you feel better soon.
+
+Quick question: if you think about the different pockets of growth, you saw this quarter that the HR and CRN part was a little bit stronger for Q4. And can you talk a little bit about the drivers, because like ITSM, ITOM, you're kind of the number one player and the other ones you're expanding. So, it's nice to see the expansion in there and then I had one follow-up for Gina.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah. I'll make the first point, Raimo, and then I think C.J. Can actually can give you some customer examples that might be helpful. We have become the platform for digital transformation and that's an end-to-end platform for digital transformation. So, what you're seeing now is a company that has evolved from IT to the employee experience to customer service management. And now obviously, the low code platform and how the creative workflow is exploding is demonstrated in our outstanding results and our very strong guide.
+
+So, we're really now a platform company with a multi-product approach helping every customer in the industry they operate in based on the persona we're discussing business with and ultimately it's that completeness of vision now that has made us one of about a handful of companies in the entire world that really matter in the enterprise.
+
+CJ, you have some examples you want to talk about?
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Absolutely. So, employee experience and employee productivity are two sides of the same coin, and with our HR service delivery product that is resonating really well, whether it's in commercial market including we had a very strong public sector performance as Gina outlined where that product is resonating. And during this macroeconomic times when you think about customer service, you want to hold on to your customers and you want to serve them profitably. That's what is driving business for our customer service management products.
+
+So, we are seeing that besides the technology foundation, where IT is the business, digital services are the business, which is what driving our ITSM and ITOM product lines and what we call service operations, taking the best of service management and operations management, but HR and our customer service management are also driving growth in very specific industries from telco to public sector and healthcare.
+
+Q - Raimo Lenschow{BIO 4664646 <GO>}
+Okay. Thank you. That was very clear. And then the -- Gina, one for you quickly on the margin and cash flow outperformance. Can you talk a little bit about factors that we should consider in terms of timing et cetera that might have impacted this more where we kind of don't want to extrapolate into next year, et cetera. Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah. It's great question, Raimo. So, I gave a good strong guide for operating margin as well as free cash flow margin for 2023. I think what you saw in Q4 from an operating margin perspective was continued discipline on the cost side as you have seen us do and as you will consistently see us do.
+
+On the free cash flow side, obviously, that discipline cost management flows through. But also, we did see some CapEx spend come through towards the tail end of Q4, which means that the payments are not due until Q1 of '23. So that does drive a little bit of headwind on the free cash flow margin in '23, which is why you see the guide that I gave. Hopefully, that's helpful.
+
+Q - Raimo Lenschow{BIO 4664646 <GO>}
+Yeah. Super. Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thank you, Raimo.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Raimo.
+
+Operator
+Thank you, Raimo. Next now to Sterling Auty at SVB.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Hey, guys, thanks. Just want to circle back on the cRPO. Given that constant currency was 25.5, is more of the issue that you described more happening internationally than in the U.S.? And how and how should we think about kind of the appetite to do renewals? And is there any concern about expansions from some of the international customers here in the first part of '23? Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah. Really it has nothing to do with the renewal dynamics internationally versus domestic. The difference between the constant currency growth and nominal growth really just has to do with FX rates that moved within the quarter. So, no real differences internationally versus the Americas on the renewal side of things.
+
+With respect to the early renewals, what I would point to is the strong net new ACV growth in Q4 tells you, and by the way, very strong expansion rate in Q4, tells you that customers are not changing their behaviors with respect to renewals, on-time renewals or with net new expansion. What you're just seeing is a little bit of the lack of needing to do co-terms and bring things forward in the current macro. Again, with 98% renewal rates across the board, we remain as positive as ever that not only will we continue to expand in '23 as you've seen us do in '22, but also continue to renew at those best-in-class renewal rates.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Sounds good. Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Sterling.
+
+Operator
+We'll go next now to Karl Keirstead at UBS.
+
+Q - Karl Keirstead{BIO 1542979 <GO>}
+Thanks, Gina. Sorry to ask and have you use your voice again. But how are you feeling about the 2024 targets? I think the consensus view is that the $11 billion might be a little bit of a stretch given that you've had to absorb a pretty heady FX headwind. The operating margin target of 27% seems doable. But when I look at your free cash flow target of 33%, that would be a 300 bps improvement in calendar '25. So that one feels like a little bit of a push. Do you mind just commenting on those targets? Much appreciated.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah. A great question, Karl.
+
+What I would say is, overall, the underlying growth that we're seeing remains healthy. FX headwinds have eased slightly, but certainly are still material. And with the uncertain macro backdrop, we're going to continue to monitor the market and provide an update on our long-term targets at our Analyst Day in May. So, I'd say, again underlying demand really strong, operating margin well on the trajectory to hit 27%.
+
+With respect to top line and free cash flow, with the impact of FX and that keeps moving along, we'll update those targets for you in May. But let's go back to what Bill talked about earlier. We remain very well positioned given the current macro environment. We are the platform of choice for digital transformation and that opportunity is -- has not changed; if anything, it continues to grow.
+
+Q - Karl Keirstead{BIO 1542979 <GO>}
+Got it. Okay. Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Karl.
+
+Operator
+And we'll hear next now from Mark Murphy of JP Morgan.
+
+Q - Mark Murphy{BIO 20253142 <GO>}
+Yes. Thank you very much. Bill, just given your comments on the pipeline coverage and also the maturity, would you say that the macro headwinds have actually dissipated somewhat if you compare it back to the summer or are those winds still blowing fairly steadily, but you're just able to kind of navigate through them through willpower and execution rigor?
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah. Mark, thank you very much for the question. I did call it out, I think, maybe we were the first ones to call it out that there were some clouds on the horizon back then with the macro and we all know the forces that were blow in between Ukraine, inflation, tightening monetary policies, supply chain dislocation, and everyone's beat that to a pulp. So, we don't need to go there.
+
+I think what happened back then is most businesses were not ready for that market, and we immediately revamped our go-to-market in the way we approach the customer, because we knew the customer would have to do more with less, automate their business, take costs out, and improve productivity per person. And the work wasn't going to go away, still had to be done and step ServiceNow's platform.
+
+And then we also knew at the same time that CEOs, 98% of them, this is the fact, have a digital-first strategy. Worried about the other 2%, but I'm good with the 98%, because that makes a lot of sense. And we also knew that they weren't going to give up on their digital business dreams, and they would be investing to reorient business models as Gina said, and think differently about their enterprise, which CJ's examples underscored and growth would still remain on the agenda. It's just a question of what equilibrium between growth and cost take out would be necessary for them to achieve their goals. The good thing is with ServiceNow's platform, you can say yes to both, and you don't have to make that choice.
+
+So, what I see in the market, Mark, is I see commodity check that was at the peak of the hype cycle during the pandemic being dialed down or eliminated, and I see that investment freeing up to platforms that actually matter. So, I do think our circumstances are actually improving because of this particular macro, because it's well known now that ServiceNow can take the cost down if that's what you need immediately. And given the layoffs that we're seeing and the stories that we're reading, I clearly see that our company is rising accordingly.
+
+And I see that in the pipeline, I see that in the maturity of the pipeline, which is a really important fact and this year, we came in with sales productivity at least 20% better than I had at the start of last year based on the feet on the street and the readiness of those feet, because they've been well trained and certified to do their job. All these forces are coming together in a way that gives me a feeling the market will be on our side, but our executional excellence will never have to rely on the weather conditions; we're ready.
+
+Q - Mark Murphy{BIO 20253142 <GO>}
+Very clear. Thank you, Bill. And Gina, sorry again, given your voice, but just again on the topic of the lower mix of early renewals from 2023, should we interpret it at all as customers may be a little hesitant to renew early just because the cost of capital is higher, they want to hang on to cash a little longer or on the flip side, is there some element of maybe you actually enjoyed the luxury of not having to encourage as many early renewals, because you did see so much strength on the new logo side?
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah. A great point, Mark, and certainly, I think you're seeing a little bit of both. And what I keep telling folks is the fact that we are not having to rely on early renewals as much as we've done in the past, shows the resilience and the strength and the power of the Now platform. But yes, I also think that in this market, people are holding on to cash a little bit longer and that's not all together surprising either.
+
+Q - Mark Murphy{BIO 20253142 <GO>}
+Excellent. Thank you very much.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+And Mark, one thing I would just build on what Gina's saying and for every investor out there. When you don't need to rely on early renewals that means you have a competitive advantage with your technology. It also means that you're able to preserve your pricing power as you go into the renewal cycles on renewal terms. So, this is actually a super healthy thing, and that's why the guide for 2023 was above all the consensus estimates that you guys have.
+
+Q - Mark Murphy{BIO 20253142 <GO>}
+Makes sense. Thank you very much.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Mark.
+
+Operator
+We'll go next now to Kash Rangan at Goldman Sachs.
+
+Q - Kash Rangan{BIO 22837283 <GO>}
+Thank you very much. I would think that in a time of inflationary environments that people would want to get rid of cash and preserve the purchasing power, but anyway, so a little counterintuitive. That was not my question anyway. So, congratulations first of all Bill, CJ, and Gina, I will spare you. I'll give you some time off and not ask you a question. So, you can rest your voice.
+
+Bill, one thing that occurs to me is that you've scaled a very successful technology company before. So, what are the patterns that you see at this point in the evolution of ServiceNow? There could be so many things you could be doing from -- differently from a go-to-market perspective, verticalizing the product, expanded distribution, partnerships with the three sellers potentially. There's so much innovation.
+
+I look at the number of products that you have, it's mind-blowing, almost complex. How do you ensure that this all does not get underway of your mission to build the defining enterprise software company of the 21st century? And how do you bake these catalysts and tailwinds and ensure that nothing gets in the way since you've especially seen this pattern play out and you've successfully done this before? It's --
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yes, Kash. Yeah. Absolutely. Yeah Kash, as they say, we've been to this movie before. And I'd like to show on, so here's the situation. We're keeping it real simple for 22,000 of our closest friends within ServiceNow and for our partners. We have the end-to-end platform for digital transformation that platform is applicable to each industry and every persona within the enterprise. And we are going to expand that across the world. And you saw the move we made with Japan, our ambitions to going to India and the Middle East and many other places.
+
+So, end-to-end platform, by industry persona and geo, and we kept it very simple for our colleagues and also our partners. We are focused on net new innovation. We will build the future. We have the best engineering leader and the best engineering team in the industry, hard stop. We have an incredible go-to-market machine and we're betting on ourselves.
+
+So, we're going to keep it real simple around net new innovation and net new ACV; that's it. And we're the loyal customer base that will remain ever loyal with many upsells, cross-sells, and same account revenue growth. If you get new business on top of that because you're building the best product in the world, you're going to have the defining enterprise software company in the 21st century.
+
+Q - Kash Rangan{BIO 22837283 <GO>}
+Wonderful, congrats. And congrats again to CJ. Take care.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you very much, Kash.
+
+Operator
+Thank you. We'll go next now to Peter Weed at Bernstein.
+
+Q - Peter Weed{BIO 22481254 <GO>}
+Thank you. And congratulations on the performance, particularly on the net new ACV. In fact, that's what I'd love to help -- a little bit help unpacking that because obviously, it's including both new logos and expansion. And I think we heard last quarter, and correct me if I'm wrong, that new customer acquisition had slowed relative to, say, Q2 where I think for new revenue, you had talked about maybe 10% of growth was coming from new customers. When you look forward now and looking forward to next year and the revenue growth, are you seeing most of that growth coming from existing customers relative to what you would have normally done with new customers, I guess, is part of the question.
+
+And then the other side of the question is it appears that NRR declined by about 300 basis points quarter-over-quarter and in your guide, it would anticipate continuing decline in NRR by probably another 300 basis points to hit your guide. What is really creating that weakness in the kind of the renewal NRR relative to recent quarters that have been pretty consistently at or above 130%?
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Hi, Peter. I'll take the first question. So, clearly, we're thrilled with the net new ACV growth that we're seeing, and not only are our expansion rates strong within the quarter and for the full year in 2022, we were really, really pleased to see that new customer, net new ACV grew over 30% year-over-year despite the headwinds. And we've talked about this in the past.
+
+We've really evolved our focus away from the number and the volume of new customers to landing the right new customers that can land with us and expand with us over time. And so, the fact that these new lands are growing is testament to the platform and testament to the breadth of products on the platform.
+
+And so, as we think about 2023 and beyond, we absolutely expect to continue to see very strong expansion rates as well as good new logo growth. But again, it's about not the volume of those new logos, but the quality. And really, you can see that in our results.
+
+With respect to your comment on NRR declining by 300 basis points, that's not what we're seeing. I'm not sure what math you're doing, but I'm sure that off-line, Darren can talk you through it. But our net retention rate and expansion rate remains very strong in Q4 and for the whole year in 2022.
+
+Q - Peter Weed{BIO 22481254 <GO>}
+Thank you.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thanks, Peter.
+
+Operator
+Thank you. We go next now Keith Weiss at Morgan Stanley.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. Thank you, guys for taking the question, and a very nice end to the year with that new business growth there.
+
+Gina, I wanted to dig in on gross margins a little bit. I've been still trying to wrap my head around a 200 basis point decline. We haven't seen 84% subscription gross margin in ServiceNow since 2016, if I'm looking at my model correctly, I believe you told us last year at this time that you're still an incremental 50 basis points of tailwind that you get from the accounting change on useful life. So, there's somewhere 250 basis points offset that's driving down gross margin. Can you just help us understand what that is a little better? What's that added expense that had such a weight on gross margin heading into FY '23?
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah. Great question, Keith. So, first of all, your math is a little off, right? So, we had -- in 2021, we had 85% gross margin and then this year, 86%. And we talked about that 100 basis points being the change in depreciation life of our assets. And we said that 100 basis points was going to come down to 50 basis points, right? So, you take 86%, you come off 50 basis points, that gives you 85.5%.
+
+And so, what you're seeing, what I tried to call out in my script is, number one, we are seeing impacts of inflation, right, not surprising, and we've talked about. But also, we are also investing heavily in ensuring that our customers are getting to success in getting to implementation much faster with respect to our impact products. And so, very conscious investment decisions being made there, offset by sales and marketing efficiencies that you've come to expect from us, which is why the operating margin guide remains absolutely where you would have expected to be, because we're making investments in cost of sales to get our customers to implementation as a value faster, offset by the sales and marketing efficiencies.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. Thank you, guys.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Keith.
+
+Operator
+We'll take the next question now from Alex Zukin at Wolfe Research.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Hey, guys. Thanks for taking the question. Congrats, CJ. Congrats, guys, on a solid quarter.
+
+I guess, we're all trying to unpack, I think, two metrics that would be very, very helpful from the quarter itself. So, apologies for the more financial-oriented question. But Gina, can you quantify the renewal headwind from the lack -- from the smaller early renewals? And can you comment on the net retention rate itself? Was it still 125 for the full year? Because when you take a step back, it looks like the cRPO guide for Q1 is a lot stronger than where people thought it would be, which implies that maybe that renewal headwind becomes a tailwind if you get those renewals or maybe you've got them already in the quarter. And the guide for the full year, to your point, is I think, a lot stronger than what people realize. So, we're all trying to kind of piece together that -- those two dynamics and questions.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Sure. So, I won't quantify the exact renewal headwind. But what I would say is that if not for the early renewals, we would have beat our cRPO guide. And with respect to the NRR, while we don't comment on exact numbers, it was absolutely consistent and relatively close to the 125 that you quote.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Perfect. Super helpful. And I guess maybe a technical one or a product-oriented one for you, Bill or CJ. With respect to some of the other new areas of innovation that you're bringing to bear, particularly in industries going forward, can you maybe highlight some early anecdotes and examples of kind of some of the very -- the larger customer wins and verticals that give you confidence to kind of pour gas on the fire there?
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Absolutely. So, great to hear from you, Alex.
+
+I would say one of the products that we verticalized pretty early on was in the telco, media, and tech back in -- started building that in 2019, seeing very strong traction, everything from order management to mid office to back office in telcos. And that product line, which was created for that industry is now at top 10 telcos and continue to win market share and displace multiple systems, whether it's a telco company or a media company.
+
+Similarly, the public sector, we created a product for public sector as well as healthcare that is seeing strong traction as well. And overall, between the new products, horizontal products like we have done in the world of ERP on procure to pay or supplier life cycle management, combine that with some of these new industry products, we are winning seven figure deals sometimes much larger and having massive traction in that specific where customers are actually going live in three to four months.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Very helpful color. Thank you guys again.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Alex. By the way, CJ had one go live yesterday with 50,000 agents, and we were in the board room together as we were watching the go-live and it was flawless. So, that's a customer service management example for one of the most prestigious brands in the world.
+
+So, you can count on our customer service management business to continue to rock the house. So, we're ready to go. And by the way, don't get caught up in the cRPO thing, because it's only a forecasting based on prior year assumptions; that's nothing to do with what actually happens. The net new business was fantastic. And all those renewals are sitting for us in 2023. And obviously, because we're delivering business value and impact, it is sitting there for us at the right pricing structure. So, it's actually a super good thing from a shareholder value creation perspective.
+
+Operator
+Thank you. We'll go next now to Brad Reback at Stifel.
+
+Q - Brad Reback{BIO 3441314 <GO>}
+Great. Thanks very much. Bill, last week, you spoke pretty adamantly about continuing to hire -- hiring net new down ticked a little bit here in 4Q versus the previous few quarters. Maybe you can give us an idea of what the plan is for this year. Thanks.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Yeah. Thank you very much, Brad.
+
+As Gina said, we're going to be very intentional about how we manage the headcount in the corporation. We are protecting this house as a primary objective. And we have invested very heavily, as you know, for the last 3.5 years, for sure, on headcount. And we have what we need. We are investing and we'll continue to invest primarily will be coders, people that actually write the code and also people that are actually responsible for the customer relationship and carry a quota. So, we're going to be very, very intentional.
+
+And I'm really super psyched, because we're in great shape on our workforce. We are really happy workforce. Our retention rates are better than ever; the Glassdoor ranking speaks to some of that. So, what we are finding is because of our intentionality, we're getting 9s and 10s in here, and the people we are choosing to hire come from a pool of thousands and thousands and only the best get to go to ServiceNow. And I think that's going to build an even stronger ServiceNow going forward. So, no problem with the workforce. Everything is about driving innovation or net new ACV, net new innovation, net new ACV. That's the ball game.
+
+Q - Brad Reback{BIO 3441314 <GO>}
+That's great. Thanks -- go ahead, Gina; sorry.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+If I could just add, we're entering 2023, and Bill alluded to this earlier, we're entering 2023 with significantly more ramp reps than we entered into '22. So that growth, yes, we might have had a little bit of a slowdown in hiring in Q4, but that was not on quota-bearing sales or engineering. We're entering 2023 from a ramp rep perspective, very strong, which gives us confidence not only with the pipeline we're seeing, but with the productivity that we'll get out of those ramp ups.
+
+Q - Brad Reback{BIO 3441314 <GO>}
+That's great. Thanks very much.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Thank you.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you, Brad.
+
+Operator
+We'll take your next question now from Keith Bachman of BMO.
+
+Q - Keith Bachman{BIO 15411993 <GO>}
+Many thanks for the question. And Gina, I hope you feel better. A question and a clarification. First, the clarification; Gina, it was an impressive metric you provided on the net new customer ACV growth of 30%. Just for context, can you give us what that same number would have been last year in the December quarter or an average over the last two years in the December quarter? I'm just trying to see what the calibration point is.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah.
+
+Q - Keith Bachman{BIO 15411993 <GO>}
+And then my question, it relates to the upsell. And in particular, on ITOMs and ITSM. In the past, you provided updates on kind of the SKU mix, in other words, going to Pro to Enterprise. If you could just give us an update on -- is that slowing up at all given the economy or are customers kind of forging ahead and just where are -- if you could give us an update on the transition. That's it for me. Many thanks.
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+Yeah. Keith, I'll tell you that 30% net new ACV -- net new customer ACV growth, we're really proud of in the -- we haven't given those metrics in prior quarters. Suffice it to say that we continue to see those net new customer ACVs growing as we are landing larger deals with new customers. And those new customers are able to expand with us more. So, really strong growth in the quarter, but we've not consistently given that, but suffice it to say that we are continuing to see that grow. With respect to ITSM Pro, we've talked about penetration being at about 35%, and that continues to do well.
+
+Q - Keith Bachman{BIO 15411993 <GO>}
+And so, has that continued to move higher Gina for the year or is that kind of -- is there any pressure on that stalling out at all in terms of customers willing to mix up?
+
+A - Gina Mastantuono{BIO 16430022 <GO>}
+It has continued to grow. We don't give that percentage every single quarter, we'll give it every time it hits the next five, if that makes sense. But we absolutely are seeing pro penetration continuing.
+
+CJ, I don't know if you want to add anything.
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Absolutely, Keith. Here is what I can say. So, the number continues to increase since we launched this in 2018, and what was super encouraging in Q4 was that some of the new logos that we got with ITSM also landed with ITSM Pro besides our existing cohort upgrading to ITSM Pro. So, 35%, we are currently very, very optimistic. And at Financial Analyst Day, we will provide bigger updates on what's happening with ITSM Pro and Enterprise.
+
+Q - Keith Bachman{BIO 15411993 <GO>}
+Okay. Perfect. Many thanks.
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Thank you, Keith.
+
+Operator
+We'll go next now to Tyler Radke at Citi.
+
+Q - Tyler Radke{BIO 22760344 <GO>}
+Thanks for the question. Maybe for Bill or CJ, just given the widespread conversations around cloud optimizations as we heard from Microsoft last night, can you just talk about how you're approaching these conversations with your customers? Are there specific products that you're leading with?
+
+And then CJ, just I would love to get an update on -- your view on the ServiceNow observability strategy heading into 2023, kind what are the -- what are your key milestone from a product perspective and how is just the progress gone since the most recent acquisition?
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Absolutely. So, let's first start with the cloud optimization question. Listen, our product line since day one whether you look at ITSM, ITOM, or asset management, our ability to discover assets, whether they are an on-prem cloud, private cloud, public cloud, or multi-cloud, has continued to be best-in-class. So, we help our customers; if they are trying to optimize their cloud spend, that's great. If they're trying to move to public cloud and they want to accelerate that journey, that's great too. So, our portfolio is best suited for meeting our customers, where they are on their cloud journey and where they want to go. So, I feel actually pretty good in terms of just our portfolio's relevance in this multi-cloud estate and how our different product lines can help them with their acceleration and optimization.
+
+And on observability, what was really encouraging for me in Q4 is that we had three of fortune 100 companies decided to buy ServiceNow observability solution, Lightstep, at a meaningful scale. And these are real workloads that are really being monitored by our Lightstep solution. And as I think about 2023 milestones, as you know that Tyler, we bought a company called Era, which provides log management solution, we will fully integrate that in our observability platform. So, we have not only primary observability solution, but also unified observability solution that work across multi estates, so, very optimistic going into '23.
+
+Q - Tyler Radke{BIO 22760344 <GO>}
+Thank you.
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+Thank you, Tyler.
+
+Operator
+Thank you. And we do have time for one more question this afternoon. We'll take that now from Sarah Bowler at Macquarie Capital.
+
+Q - Sarah Hindlian-Bowler{BIO 18009979 <GO>}
+Great. Thank you so much for squeezing me in; I really appreciate it. And congrats to CJ, wonderful to see. Really, I think just given that you're operating in this, what feels like rarefied air, let me sort of slip things over a little bit and asked if there were any verticals that you haven't called out or regions in particular where you saw any softness or perhaps extra layers of scrutiny on overall spending?
+
+A - Chirantan Desai{BIO 18310367 <GO>}
+So, I would say I'm going to take this, Sarah. Thank you very much. But overall, we feel very balanced performance. Gina called out certain verticals, super proud of what we did in public sector. Typically in Q3, we are expected to do well in public sector, but even in Q4, we did really well and as Gina called out 50% growth.
+
+So, whether it's public sector, whether it's retail, whether it's healthcare and others, very balanced performance and strong growth, an amazing quarter. I would say, as Bill just touched on, we are really excited about our growth potential in Japan and India, and with new appointment in Japan and Japan, being the four geography reporting to us, Paul Smith, Chief Commercial Officer, is somewhere we really want to pay attention to and we are very optimistic on the market size there.
+
+Q - Sarah Hindlian-Bowler{BIO 18009979 <GO>}
+All right. Thank you very much. Appreciate it.
+
+A - Bill McDermott{BIO 3075298 <GO>}
+Thank you for calling in, Sarah. Appreciate you.
+
+Operator
+Thank you. Again, ladies and gentlemen, I would like to thank you all for joining today's ServiceNow Q4 2022 earnings conference call. Again, that will bring us to the end of today's call. Thank you for joining us. Have a great afternoon. Goodbye.

@@ -1,0 +1,323 @@
+Q3 2021 Earnings Call
+Company Participants
+Dipak Golechha, Chief Financial Officer
+Lee Klarich, Chief Product Officer
+Nikesh Arora, Chairman & Chief Executive Officer
+Walter Pritchard, Senior Vice President of Investor Relations & Corporate Development
+Other Participants
+Adam Tindle, Analyst, Raymond James
+Brian Essex, Analyst, Goldman Sachs
+Fatima Boolani, Analyst, UBS
+Gray Powell, Analyst, BTIG
+Keith Bachman, Analyst, BMO Capital Markets
+Keith Weiss, Analyst, Morgan Stanley
+Matt Hedberg, Analyst, RBC Capital Markets
+Michael Turits, Analyst, KeyBanc
+Patrick Colville, Analyst, Deutsche Bank
+Saket Kalia, Analyst, Barclays
+Sterling Auty, Analyst, JPMorgan
+Tal Liani, Analyst, BofA
+Presentation
+Walter Pritchard{BIO 4672133 <GO>}
+Good afternoon, and thank you for joining us for today's conference call to discuss Palo Alto Networks Fiscal Third Quarter 2021 Financial Results. I'm Walter Pritchard, Senior Vice President of Investor Relations and Corporate Development. This call is being broadcast live over the web and can be accessed on the Investors section of our website at investors.paloaltonetworks.com.
+
+With me on today's call are Nikesh Arora, our Chairman and Chief Executive Officer; Dipak Golechha, our Chief Financial Officer; and Lee Klarich, our Chief Product Officer. This afternoon, we issued a press release announcing our results for the fiscal third quarter ended April 30, 2021. If you'd like a copy of the release, you can access it online on our website.
+
+We would like to remind you that during the course of this conference call, management will make forward-looking statements, including statements regarding the impact of COVID-19, the SolarWinds attack on our business, our customers, the enterprise and cybersecurity industry and global economic conditions, our belief that cyber attacks will continue to escalate, our expectations regarding these single equity structure, our expectations related to financial guidance, operating metrics and modeling points for the fiscal fourth quarter and fiscal year 2021, our expectations regarding our business strategy, our competitive position and the demand and market opportunity for our products and subscriptions, benefits and timing of new products, features subscription offerings, as well as other financial and operating trends.
+
+These forward-looking statements involve a number of risks and uncertainties, some of which are beyond our control, which could cause actual results to differ materially from those anticipated by these statements. These forward-looking statements apply as of today you should not rely on them as representing our views in the future, and we undertake no obligation to update these statements after this call. For more detailed description of these factors that could cause actual results to differ, please refer to our quarterly report on Form 10-Q filed with the SEC on February 23, 2021 and our earnings release posted a few minutes ago on our website and filed with the SEC on Form 8-K.
+
+Also, please note that certain financial measures we use on this call are expressed on a non-GAAP basis, and have been adjusted to exclude certain charges. For historical periods, we've provided reconciliations of these non-GAAP financial measures to our GAAP financial measures in the supplementary financial information that can be found in the Investors section of our website located investors.paloaltonetworks.com.
+
+And finally, once we have completed our formal remarks, we will be posting them to our Investor Relations website under the Quarterly Results section. We'd also like to inform you that we'll be virtually participating in the JP Morgan 49th Annual Global Technology, Media and Telecommunications Conference on May 24 and the BofA Securities 2021 Global Technology Conference on June 8. Please also see the Investors section of our website for additional information about conferences that we may be participating in.
+
+And with that, I'd like to turn the call over to Nikesh.
+
+Nikesh Arora{BIO 3382685 <GO>}
+Thank you, Walter. Good afternoon, and thank you for joining us today for our earnings call.
+
+Let me begin with the current cybersecurity landscape. After the December SolarStorm attack, we saw an acceleration in attacks throughout third quarter and after the quarter closed. These range from software supply chain attacks like SolarWinds and CodeCov to ransomware attacks like Colonial Pipeline. Ransomware especially has been in the spotlight recently and data from our own Unit 42 shows that the average ransom paid in 2020 tripled from 2019 and in 2021, it's more than doubled again.
+
+The highest demand we've seen is $50 million, up from $30 million in 2020 with organized groups with near nation state disciplined perpetrating coordinated attacks. The targets are not only corporations, where healthcare and pharma is a focus with the pandemic, but also government organization and shared infrastructure. The reason for this vulnerability is deep seated. Organizations run their operations on technology that is decades old, sometimes predating the Internet. They continually bolt-on new technologies to automate facilities and make them compatible with the modern Internet and those platforms are inherently insecure. At the same time cyber defenses are fragmented, making it very challenging to block sophisticated attacks and lengthening meantime to discovery and repair.
+
+Lastly, more and more businesses and consumers are coming online without a baseline of protection. In such a scenario, it is imperative that customers focus on securing their most critical assets, while also focusing on reducing the fragmentation and leveraging newer technologies like artificial intelligence and machine learning and using those approaches.
+
+With that backdrop, let's focus on our results. Overall, we saw continued strong demand environment and our own continued execution drove Q2 billings. Revenue and EPS ahead of guidance. We saw billings growth accelerated 27% in Q3, ahead of our 24% revenue growth forecast. We're growing ratable revenue contribution. I want to highlight one dynamic growing our billings to help you better understand the drivers. During COVID, some customers are asking for annual billing plans to meet their needs.
+
+We noted to you that we saw success with larger, more strategic transactions in Q3. Along with these deals, we saw an uptick in annual billings plans. Normalizing for this, our billings would have grown greater than 28%, nearly 2 points higher than we reported, which is the highest billing growth we've seen in the third quarter since Q3 of fiscal year 2018. Last year, we saw billings plan had an approximate 1 point impact. Along with billings, we also saw 38% growth in our remaining performance obligation. This metric is growing faster than both revenue and deferred revenue and will be a source of consistent revenue growth in the future.
+
+Within the strong performance, we also saw 71% growth in ARR or annualized recurring revenue from our next generation security offerings, where we finished our third quarter at $970 million, up from $840 million in Q2. These ARR billing and RPO trends drove 24% year-over-growth in our reported revenue. It's worth noting, given your attention to NGS ARR that in the very first week in the first day of Q4, we transacted one of our largest next generation security deals in the history of Palo Alto Networks with a Fortune 30 manufacturer, which brought in $7 million NGS ARR. So we're already of $980 million on the first day of this quarter.
+
+With the acceleration and incremental NGS ARR in Q3 and trends we see in the business, we continue to have confidence in our Q4 target of $1.15 billion in ending NGS ARR. As part of the strong Q3 performance, we saw notable momentum in large transactions with 901 customers having spent $1 million with Palo Alto Networks in the last four quarters. This cohort of customers was up 29% year-over-year, growing ahead of our overall revenue and billings growth. This growth in active million customers has accelerated in recent quarters.
+
+As part of large unit performance, our business is benefiting from growing adoption of multiple Palo Alto Networks security platforms across Strata, Prisma and Cortex. In Q3, 70% of our Global 2000 customers had purchased products from more than one of these platforms and 41% have purchased all three platforms. This is up from 58% and 25% two years ago.
+
+Turning to our product areas. Earlier this year, we started the dialogue around network security and cloud and AI and shared additional financial metrics to give you more transparency. Having these two product areas under the common umbrella of our world-class R&D and go-to-market organization, is key to our strategy of being the largest cybersecurity company in the world.
+
+Starting with the network security side of our business. We are the leader in this business. Our strategy of selling customers leading firewall platform delivered through a hardware, software or as a service form factor underpinned our success in this market. This has resulted in the business that is 28% larger than our next peer on a revenue basis in Q3. Also, if you look at leading indicators that include deferred revenue and RPO, our scale comes through even further, we are 40% to 50% larger. On these leading balance sheet metrics growing faster than our next peer. Three years ago, when I joined Palo Alto Networks, we were a hardware-based firewall company. We had a vision of a hybrid world, where the enterprise and data centers would remain predominantly hardware-oriented, growing adoption of software form factors like our VM-Series firewalls.
+
+Meanwhile, the remote access and remote office work this opportunity has been transformed by cloud adoption and work from home trends to fuel secure access service edge or SASE adoption. The reception to our strategy of delivering a firewall in multiple form factors has enabled the accelerating firewall of the platform growth rates I just showed you. Within our firewall as a platform billings we're seeing a distinct mix shift towards software. The software mix, which includes our VMs and SASE business now makes a 40% of firewall as a platform, up 21 percentage points from a year ago.
+
+We saw a seven-figure transactions for our software firewalls capability, including VM and CN-Series with the US government agency, a Fortune 30 manufacturer and diversified financial services company. While we have seen the significant transition and form factors, one driver of growth and value in our business are attack subscription and support have grown at a steady rate over the last several quarters on a revenue basis. We expect the software mix to continue to increase in the medium term, although along with this, we expect to continue to see attack subscriptions as a key growth driver.
+
+We're showing you for the first time here the NetSec annualized recurring revenue, which is $2.66 billion at the end of Q3 and grew 25%. As a reminder, this does not include our hardware business, which continues to be significant. This recurring revenue business is a key driver to strong cash generation, which we have guided to 42% for NetSec in FY21. We believe this high degree of recurring revenue and strong cash flow generated by NetSec is something that should be more clear now, given this incremental disclosure over the last two quarters.
+
+Now turning to innovation and focusing first on Prisma SASE. Back at the beginning of the pandemic, we saw customers look to significantly expand remote access capability, while not compromising security or user experience. We've met that demand with free remote access trials and broad proof of concepts, enabling customers to see that value in Prisma Access, as well as supporting the network transformation as they move to the cloud. We're seeing these efforts as well as momentum generated from the 2.0 launch driving strong initial purchase and footprint expansions.
+
+This quarter, we saw a number of large Prisma Access transactions, including a global technology company, a large manufacturer in the Fortune 10 healthcare company, all eight figures or greater. Additionally, over 25% Prisma Access new customers in Q3 were net new to Palo Alto Networks. Lastly, we're seeing early traction on our service provider partners for Prisma Access, including Comcast, Verizon and Orange Business Services. These relationships are part of broader initiatives to service providers that we see as a significant growth opportunity.
+
+Just yesterday, we announced a significant release to network security focused on a comprehensive approach to Zero Trust. This is timed well with last week's executive order out of the White House that defines Zero Trust in a way that is very consistent with the Palo Alto Networks strategy. There has been a lot of noise in the industry around Zero Trust network access. The solutions continue to be fragmented around either remote users, access control or enterprise hours. Our approach covers all users and devices, all locations, all apps and the Internet applying consistent access control and security.
+
+Our new PAN-OS 10.1 release brings cloud-based identity controls, integrated CASB and enhancements to our URL and DNS security services. Palo Alto Networks is positioned across appliance, software and SASEs unique and these new innovations are applicable to all our customers across all form factors. This is one of the most significant innovation releases for our next-generation firewall franchise and gives us confidence in continued NetSec growth as we look forward.
+
+Now moving on to cloud and AI. On the Prisma Cloud front, we continue to build on our early leadership position in cloud security posture management, cloud workload protection capability and marketplace delivered virtual firewalls, where we are the largest player across this opportunity set. Our strategy is to stay ahead of customer demand as they adopt cloud native security services across hyperscalers. We believe we've staked out a leadership position in cloud native security of this business. We've achieved over $250 million in ARR across Prisma Cloud in our marketplace VM and CN-Series. Fueling this growth is 39% growth in total customers and 38% growth in Global 2000 customers across Prisma Cloud. Our unique consumption model in Prisma Cloud based on credits enables customers to use any of our modules across their cloud workloads, including using multiple capabilities per workload. We're seeing strong growth in credit consumption with over 100% growth year-over-year in Q3.
+
+Despite a strong position with Prisma Cloud, targeting an early opportunity, we see the next big challenge in security at the developer level or shift left security. We recently addressed this with our acquisition of Bridgecrew completed in Q3. Traditionally, security issues in court pose a challenge for these organization, and we're seeing leading companies drive a collaborative approach between the C-store organization and developing organization to address this. Shift left integrates security into the DevOps process to catch these issues upfront, where they are easy and quick to fix. It's a win for developer and a win for security.
+
+Bridgecrew has an open source product, Checkov. This product delivers significant value developers through a free download. Post the acquisition closes on the release of 2.0 of Checkov, we saw Bridgecrew downloads accelerate. Bridgecrew is also seeing strong momentum in its paid customers, including a six-figure customer in Q3, but are only in the very early stages of cross selling between Bridgecrew software and Prisma Cloud.
+
+Within our Cortex product area, we continue to focus on delivering significant volumes and innovation through XDR, XSOAR, and our recently acquired Xpanse product. In Q3, we delivered a new release of XDR with Xpanse endpoint credit capability and improved visibility into network activity. With XSOAR, we significantly expanded our marketplace partner integrations to increase the set of automation and security playbooks that customers can deploy. We're seeing this result in steady Cortex customer additions to XDR and XSOAR customers. We have our 2,400 customers starting from essentially scratch two years ago.
+
+Our focus on innovation has been validated by the market as well. We were particularly proud of the validation for our Cortex XDR in Q3, where we garnered the best overall results in Round 3 testing from MITRE, also in the recently released Forrester WAVE, covering endpoint security software as a service market, we were named a leader. Cortex XSOAR surpassed 100 partner-contributed content packs and now has over 650 content packs in the marketplace. Our Xpanse offering was featured in Tim Junio's Keynote this week at RSA, where our research uncovered that one-third of leading organizations Attack Surface is susceptible to exposure that are the main avenue for ransomware. No other leading security company has a degree of visibility to identify and prevent today's most pernicious attack vector. Within Cortex, we are starting to see an uptick in large customer signings such as a seven-figure transaction with a financial services firm, which included XDR Pro and XSOAR.
+
+Lastly, during Q3, we formed the new Unit 42 under the leadership of Wendi Whitmore, who comes to Palo Alto Networks after building successful security services businesses. Our new team is a combination of two of the most capable teams in cyber security. The Crypsis team is laser focused on the mission of conducting world-class data breach investigations, while the Unit 42 team has focused on rapidly building threat intelligence into Palo Alto Networks product. This new Unit 42 has completed over 1,300 engagements in calendar year 2020, bringing to bear the power of 140 consultants. In response to SolarWinds and ransomware, Microsoft data breaches and other attacks, we mobilized our consultants and rapid response engagements, which help customers through these difficult times. As we look forward, we're focused using services to become an even more strategic partner to our customers.
+
+As I reviewed with you here and should be evident in our Q3 results, we're seeing broad strength in our business across geographies and product areas. We see strength in our pipeline and continued demand tailwind that remains strong, leading us to raise our FY21 guidance. I also want to update you on our plans we discussed in Q2 around exploring an equity structure for ClaiSec. We continue to focus on providing transparency for each part of our business. You'll notice the ARR for NetSec, which you highlighted this quarter, we believe this has helped investors gain better insight into our overall financial profile and especially understanding both sides of the business with a different growth and free cash flow characteristics. We've finished all the work required to file any form of equity on ClaiSec. However, given the state of the market and offer an extensive conversation shareholders, we have decided at this point is best to continue with a single equity structure and an integrated P&L postponing the decision to list ClaiSec equity.
+
+Lastly, we're excited to welcome Aparna Bawa, Chief Operating Officer of Zoom to Palo Alto Networks Board of Directors. She brings deep operational, financial and legal expertise, having served in diverse roles at rapidly growing tech companies such as Zoom, Magento and Nimble. Her addition comes after the February appointment of Dr. Helene Gayle to our Board. We continue to have a strong commitment to diversity of Palo Alto Networks, including at the most senior levels of governance in our company.
+
+With that I will turn the call over to Dipak Golechha, our CFO. We're excited to have Dipak step into the CFO role and enable a smooth transition within our organization. He brings world-class experience and we're already seeing him bring some of his experience to bear and driving improvements. Over to you, Dipak.
+
+Dipak Golechha{BIO 18475174 <GO>}
+Thanks, Nikesh.
+
+I'm excited and humbled to be part of this world-class leadership team and look forward to driving total shareholder return. As Nikesh indicated, we had a strong third quarter as we continue to deliver winning innovation, while simultaneously adding new customers at pace. This strength gives us confidence to raise guidance for the year. We delivered billings of $1.3 billion, up 27% year-over-year with strong growth across the board and ahead of our guidance of 20% to 22% growth. We continue to see some customers ask for billing plans, many involving larger transactions as we've become a more strategic partner to our customers. We've also used our Palo Alto Networks Financial Services financing capability here. The dollar-weighted contract duration for new subscriptions quote billings in the quarter were consistent year-over-year and remained at approximately three years. We added approximately 2,400 new customers in the quarter.
+
+Total deferred revenue at the end of Q3 was $4.4 billion, an increase of 30% year-over-year. Remaining performance obligation or RPO was $4.9 billion, an increase of 38% year-over-year. We continue to see these metrics is becoming more meaningful as we drive growth from our ratable business. Our revenue of $1.07 billion grew 24% year-over-year, ahead of our guidance of 21% to 22% growth, driven by our billings and broad business strengths and an increase in our ratable subscription revenue. We remain focused on driving this higher quality revenue with all new product offerings being pure or substantially all subscription in nature.
+
+Looking at growth by geography, the Americas grew 24%, EMEA grew 23% and APAC grew 25%, showing broad executional excellence across the world. Q3 product revenue of $289 million increased 3% compared to prior year. Q3 subscription revenue of $474 million increased 34%. Support revenue of $311 million increased 33%. In total, subscription and support revenue of $785 million increased 33% and accounted for 73% of total revenue.
+
+Our Q3 non-GAAP gross margin was 74.6%, which was down 60 basis points compared to last year, driven by product mix, which were less mature. Q3 non-GAAP operating margin was 17%, an increase of 60 basis points year-over-year. There are several factors driving our operating margins. We have revenue upside, lower travel and event expenses due to COVID and some shift in spending out of Q3. At the same time, we continue to aggressively invest to growth largely in the areas of sales capacity and R&D investments. With health conditions improving in geographies of many of our facilities, including our Santa Clara headquarters, we're seeing more employees look to return to the office. We expect this trend will continue to gain steam in Q4, reversing some of the savings we've seen in the last few quarters in our OpEx.
+
+Non-GAAP net income for the third quarter increased 22% to $140 million or $1.38 per diluted share. Our non-GAAP effective tax rate for Q3 was 22%. The EPS expansion was driven by revenue growth and operating expense leverage, with an undertone of strong investments of growth. On GAAP basis for the third quarter, net loss increased to $140 million or $1.50 per basic and diluted share. We ended the third quarter with 9,715 employees, including 39 from the Bridgecrew at the close of acquisition.
+
+Turning to the balance sheet and cash flow statement. We finished April with cash, cash equivalents and investments of $3.8 billion. Q3 cash flow from operations of $278 million increased by 64% year-over-year. Free cash flow was $251 million, up 200% at a margin of 23.4%. Our DSO was 60 days, a decrease from 3 days from the prior year period and flat with the second quarter.
+
+Our firewall as a platform or FwaaP had another strong quarter as we continue to grow faster than the market. FwaaP billings grew 26% in Q3, and we continue our transition from hardware and software and SaaS form factors as Nikesh highlighted. Our next generation security or NGS continues to expand and now represents 27% of our total billings at $346 million, growing at 70% year-over-year. In the third quarter, we added $133 million in new NGS ARR, reaching $973 million. The acquisition of Bridgecrew added immaterial amounts to this number, and we remain confident in our plans to achieving $1.15 billion in NGS ARR exiting fiscal year 2021.
+
+Turning now to guidance and modeling points. For the fourth quarter 2021, we expect billings to be in the range of $1.695 billion to $1.715 billion, an increase of 22% to 23% year-over-year. We expect revenue to be in the range of $1.165 billion to $1.175 billion, an increase of 23% to 24% year-over-year. We expect non-GAAP EPS to be in the range of $1.42 to $1.44, using 101 million to 103 million shares. Additionally, I'd like to provide some modeling points. We expect our Q4 non-GAAP effective tax rate to remain at 22% and our CapEx in Q4 to be approximately $30 million to 3$5 million.
+
+As Nikesh indicated, we're seeing broad drivers across our business in Q3, driven by a foundation of innovation and strong sales execution. Along with trends we see in our pipeline and demand tailwinds that remains strong, we're raising our fiscal year 2021 guidance. We expect billings to be in the range of $5.28 billion to $5.3 billion, an increase of 23% year-over-year. We continue to expect next generation security ARR to be approximately $1.15 billion, an increase of 77% year-over-year. We expect revenue to be in the range of $4.2 billion to $4.21 billion, an increase of 23% to 24% year-over-year. We expect product revenue growth of 1% to 2% year-over-year. We expect operating margins to improve by 50 basis points year-over-year. We expect non-GAAP EPS to be in the range of $5.97 to $5.99, using 99 million to 101 million shares. Regarding free cash flow for the full year, we expect an adjusted free cash flow margin of approximately 30%.
+
+Now let's review our fiscal year projections for NetSec and ClaiSec. Overall, we are confirming our ClaiSec projections, while raising our NetSec billings by 300 basis points and revenue by 100 basis points, given the strong performance of SASE, VM-Series and subscription business overall within NetSec. Moving on to adjusted free cash flow, we expect network security will deliver a free cash flow margin of 42% in fiscal year 2021, up from 38% in fiscal year 2020. We continue to expect cloud and AI free cash flow margin of minus 43% in fiscal year 2021, an improvement from negative 59% in fiscal year 2020. While we are focused on growth investments in cloud and AI, over time, we expect cloud and AI to achieve gross, operating and free cash flow margins in line with industry benchmarks, as we gain scale, our customer base matures and we become more efficient.
+
+In Q3, we repurchased $350 million in our own stock at an average price of $322. As of April 30, 2021, we had $652 million remaining available for repurchases. This is part of a broader capital allocation strategy focused on balancing priorities and maximizing total shareholder return. We start with fueling organic investments and managing priorities across innovation and go-to-market to set the foundation for sustainable growth at Palo Alto Networks. Second, we've deployed capital for targeted acquisitions, which accelerate this growth opportunity. We rigorously evaluate targets focused on acquiring leading technology, retaining key members of the team and following through with integrating these acquisitions into our businesses. Finally, we work to optimize our capital structure, using the options available to us in this dynamic market that includes deploying that using stock for M&A consideration and also buying back our own stock when we see it represented in a good value.
+
+With that, let's move on to the Q&A portion of the call. Walter, over to you.
+
+Questions And Answers
+A - Walter Pritchard{BIO 4672133 <GO>}
+Thanks. In the interest of time, please limit yourself to one question. Our first question comes from Brian Essex from Goldman Sachs, with Fatima Boolani from UBS on deck.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Hi, thank you. Good afternoon, and thank you for taking the question. Maybe for unit cash, we've seen a lot of solid outperformance relative to expectations on the network security side and nice performance this quarter with respect to cloud and AI ARR growth. I wanted to get a better understanding, given the outperformance is there in the network security side, how confident are you in your ability to hit that $1.150 guide for the full year? How do we think about how that business has performed relative to your expectations so far this year?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Brian, remember two or three years ago, when we set our targets for next generation security business, we didn't have the muscle at Palo Alto Networks to figure out how we can get out of the firewall business and have that sales force grow at an actually go sell cloud and AI. The good news is over the last 2.5 years, we're building muscle, we're learning how the market operates. It's kind of interesting, every one of these markets operate slightly differently. If you look at NGS, it's a combination of SASE, Prisma Cloud and Cortex.
+
+Now SASE's characteristics are a lot of the free trials we gave a few quarters ago and this whole push to work from home is forcing customers to think hard about their security stack and is no longer you can access half the apps, half the time you need to be accessed, they will access everything wherever you are. So we're seeing network transformations and that's what's driving the success on SASE and some of the huge wins you had on Prisma Access. As I mentioned, one of the deals, which we closed and shipped in the first of this month is our largest SASE delever, which gave us $7 million of NGS ARR. So you can see approximately the quantum of that deal. So we're seeing a lot of traction on the access front and the SASE front. So that's good.
+
+Cortex is an interesting space because we compete there with people like CrowdStrike and SentinelOne and the others. We're are great on the product front, as we've showed you with the Forrester WAVE and the MITRE results. We're trying to create more muscle around being able to do those deals. Those deals are typically because it's a competitive market, you got do a whole bunch of deals there and they are all of the range of the $1 million to $5 million range at the higher end and the smaller below that. So you don't get lumpy deals is that to do a lot more deals and that's what we're doing in the Cortex front.
+
+Last, but not the least, on the cloud front, we got 2,250 customers with their the deals end up being large deals, they are slightly lumpy and they have very high variability in duration and consumption. So some deals are good in the cloud, other by credits for the next three years, how many credits do I need. They'll suddenly find their deployment is slower because they haven't deployed fully on GCP or AWS or Azure. Others who will say they've been customers last year, they're upping because they move all their workloads to the cloud and the workload ramp has increased.
+
+So all three of them has slightly different characteristics, that's why we end up in a portfolio situation. You saw this quarter, we added about $133 million in net new NGS ARR. I just told you about seven more because I felt you guys are extremely curious on NGS and I don't want you guys to go out thinking we're not confident on our $1.150 billion. So right now, we all feel that we'll get to the $1.150 billion on NGS ARR and it's going to end up being a portfolio call in terms of some things extremely doing extremely well, some things doing normal.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Got it. Thank you for that. And then maybe to follow-up with Dipak. Appreciate the commentary on the improving operating efficiency or potential to improve the operating efficiency of cloud and AI. And I think that's one of the things that investors struggle with when I think we've all looked at this business around some of the parts basis and the performance of each on its own in the challenge with cloud and AI is it's burning cash at the rate that it is. What do you think about the timeline for improving profitability and cash flow generation from that business, because I think that might be a trigger for investors to maybe look at that business on a stand-alone basis and assign it a little bit more value?
+
+A - Dipak Golechha{BIO 18475174 <GO>}
+Yeah. So maybe if I answered in two different ways, I mean, we look at what other companies have done as they've kind of like grown through their -- as they've scaled over time, and we often benchmark ourselves versus where were they at this time and are there things that we can do to be able to get there. But at the same time, we're not shy from like making the right investments, if we see the opportunity there. So that's why I don't want to really box ourselves into a timeframe. It really is a question of what opportunities are out there at the time, so we have a base plan that's constantly improving. But we're also reflecting on the fact that this is a dynamic market and sometimes you need to lean in, if it makes sense for the long term.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Yeah, if I can add to that, there are two parts, one as Dipak highlighted, we continue to work hard towards getting gross margin efficiency on those products, because the product development is in our control and Lee who's sitting to my right, he and his team work hard at trying to make sure that we optimize the gross margin part. The rest of it, honestly, is the question of how much do we want to invest in sales capacity to be able to drive those. Don't forget in each of those areas, we are dealing with extremely competitive situation. In the case of XDR, we deal with dedicated salespeople from CrowdStrike. They outflank us 8 to 1 on the number of salespeople, so we have to look hard at how much investment do you want to make on the sales side. We do get leverage to Palo Alto salespeople or eventually have hand to hand combat.
+
+On the Prisma Cloud side, I'd say we were doing fine, and we are doing fine. But certainly, the equity with venture markets have gone and provided phenomenal evaluations and dumped a lot of cash in some very early-stage companies, we're not dangling large paychecks to ourselves people who've got the most qualified large security sales. And so that's why I think Dipak is right in saying that we're going to watch the market carefully. But again, we just told you another number $250 million in ARR in cloud security VMs and public cloud security, that's a number, which outflanks our next competitor by probably 25 times.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Super helpful color. Thank you.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Great, thanks. Just reminder, please limit to one question. So next up is Fatima Boolani. And on deck is Keith Weiss from Morgan Stanley.
+
+Q - Fatima Boolani{BIO 17134962 <GO>}
+Super. Nikesh, maybe I'll start with you very quickly. You talked through what are the areas of strength from a product pillar perspective. But in terms of just zooming back can you stack rank for us what specific product areas in the NGS portfolio really were the drivers of billings acceleration in the quarter? And then I have a quick follow-up for Dipak, please.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Yeah. As I highlighted, SASE is strong. Dipak highlighted the subscriptions are strong. We're pleased with the way Cortex is evolving and cloud ends up being lumpy. So some quarters, we'll get some very large deals and they make up the billings some quarters they push, but across the board, the portfolio is performing in line with our expectations or slightly ahead as we've said we had $973 million or $980 million depending on how you count.
+
+Q - Fatima Boolani{BIO 17134962 <GO>}
+Perfect. Dipak, next as you --
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Fatima, let's just stick to one question. We're going to move on next to Keith Weiss, with Sterling Auty from JPMorgan on deck.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. Thank you, guys. Very nice quarter and thanks for taking the question. I think you guys are doing a very good job of illustrating the -- there is a difference between firewall appliances and more generally firewall and capabilities, and you're seeing that firewall as a platform growth sustained really well actually accelerate in recent quarters. And I think that's probably one of the key areas that investors are most cautious on is the durability of growth and firewalling. Can you talk to us a little bit about where you're seeing that strength from? Do you believe it to be durable over the last couple of years? And is there anything that we should be watching out for in terms of tough compares or any one-time items from a year ago period that might offset that growth trend that you've been seeing in firewall as a platform?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+So I'll make two comments, Keith, one is, is there a situation where the customers are looking for, like you say, firewalling capability? We can walk in and say, we can solve this problem with software or we can go to deploy tons of hardware to solve the same problem. So take a large retailer, they can go deploy 1,200 firewalls in each of their stores, if they choose to go down the hardware out, which is more costly to deploy, harder to maintain, harder to upgrade over time or we can go in and say, let's do that with Prisma SASE, which is a software dependent solution, which has lower cost of ownership, easier deployment, easier to solve.
+
+So you're seeing us create some degree of substitution in our customer base. So if you compare us like to like with some of the leading hardware firewall businesses which don't have that strength in that software capability, they cannot deal with that substitution capability, which we think is better for the long term because we just point to the RPO and so look we can grow RPO at 38% that just means we have future revenue coming down the pie on the FwaaP front, which is going to be harder to hunt and kill on a quarterly basis, if you were a hardware-only business, So actually think there is more resilience in our network security business and most hardware-dependent businesses.
+
+The second piece I would say in the context is what was proxy-based architectures is now a full firewall in the cloud. And we're seeing that in space and Prisma SASE people are stepping back and saying, okay, let me understand this, how do I get my trading system to be accessible from an employee's home? We can do that with proxy-based architecture. We've talked about that ad nauseam. And we're seeing that really bear out in the success we're seeing in Prisma SASE. My fellow colleagues, Walter and Dipak, will not let me throw out more stats in that area, but I'll just say I'm extremely delighted with the progress we've made in SASE from where we came from 2.5 years is to be a product called GPCS and we would shut it like you said, the one-time items, there was one deal when I came to Palo Alto. We sweated the entire year to see how would we lap that in the following quarter. Now we do six of those in a quarter, and we've got tons and tons lined up in our pipe going forward.
+
+So SASE is strong, which should give us continued strength. I think the network transformation is in a very, very early stage. If you think about it, if you see AWS GCP, Azure clipping $40 billion, $50 billion of billings in the quarter, all those customers are going to stand up and realize wait, I'm relying on MPLS-based architectures to go back to my data center, and I don't need to go there, I need to go to a public cloud. And you do that, you've got to go SASE. And right now, we firmly believe we have the best SASE solution in the market. We firmly believe that we have the most deployed customers out there at scale.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Great, thanks. Next question is from Sterling Auty, and Saket Kalia from Barclays on deck.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Thanks. It's fun to see Walter on the other side trying to keep us to one question after all these years. I want to follow up on Keith's questions. Help us understand what are the metrics that we should look at in terms of -- and you gave a little bit of this last quarter, but when you look at your installed base of the on-premise appliances, as some of that starts to transition to FwaaP, is that happening? And if it does, how is the dollar for dollar comparison? In other words, do your customers still end up spending more because there is still expanding under a flat versus your traditional appliance is a smaller or the same?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+I'm going to bring in my colleague, Lee Klarich, who spends a lot of his time making sure that these transitions work, and we see these transitions happen. So Lee?
+
+A - Lee Klarich{BIO 17309419 <GO>}
+Yes. Thank you, Nikesh. Good question, and actually last quarter we provided some insight into this, if you remember. There is effectively two transitions that we see play out. One transition has to do with the movement of applications from data centers to the cloud, where the form factor often is changing from a hardware form factor to software form factors, VM-Series, etcetera. The other transition is from based on how the employees and users are moving, increasingly obviously moving off the network and soon moving to more of a hybrid state where in that case, it often is moving from hardware to hardware plus cloud delivered SASE architectures.
+
+And so as you think about those, the net effect of all of it is positive for us in terms of the overall spend from customers. There are some puts and takes, hardware going to VM-Series in the cloud is relatively similar, hardware going to SASE is actually typically an uptick in overall spend because it's not just like for like, it's actually SASE includes network as a service and a lot of the networking components, global network reach etcetera. And so the overall spend envelope becomes larger as more of the capabilities actually get integrated into the service that we're delivering to customers. So overall positive and we've been now tracking this and how history of this for a few years to be able to actually see how that plays out.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Great. Thank you.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Great, thanks. Next question is from our Saket Kalia from Barclays. And then Matt Hedberg from RBC on deck.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Okay, great. Thanks for taking my question here. Nikesh, maybe for you. Can you hear me okay, Walter?
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Yeah.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Okay, cool. Nikesh, that was helpful commentary on the equity structure around ClaiSec. I guess the question is what were some of the things that went into your decision to explore that last quarter and then maybe reconsider at this quarter? And is it a matter of timing given the volatility in the market? Or would you say that the probability of exploring that down the road is still relatively low?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+I think, Saket, as we went through the mechanics of creating all the paperwork required to file this and the debates began to happen with some of our shareholders, as I look the true value creation is when you actually can take this and separate it because you will still have established some sort of a tracking stock and the challenge with separating it as you saw 70% of our customers are buying multiple platforms, 40% of our customers are buying all three platforms. We're getting into conversations with CIO and somebody goes to a breach our ancillary when they want to go wall to wall and say listen, come protect me, protect my cloud, protect my SoC, protect my network translation and then as somebody is saying, look, we have all this vantage point from where we are, where we can go pitch all three platforms and go on the lot the customer with security, and we're creating this artificial separation amongst ourselves, but we're not going to be able to leverage that.
+
+So that definitely went through the decision. I think the question which, I can't keep track, I think, so just ask around to Dipak about funding of ClaiSec vis-a-vis NetSec, I think we'd still have to make that a self-standing profitable entity in its own due course. And I think it's too early to go think about separating that in two distinct businesses because we're getting phenomenal leverage from our firewall sales teams, who will have decades trying to build the relationships and get embedded in our customer base.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Very helpful, thanks.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Great, thanks. Our next question is from Matt Hedberg from RBC. And then we've got Tal Liani from BofA, our next.
+
+Q - Matt Hedberg{BIO 16655531 <GO>}
+Thanks, Walter. Hey Nikesh, I wanted to talk about all these recent breaches, you alluded to President Biden talking about the importance of Zero Trust. I guess how do you think about that impacting your federal business later this year? And then also as these breaches continue to accelerate in a post-COVID world, do you think you're going to be in a better position to consolidate security spending? There's always a debate on best of breed versus consolidation. Does this just accelerate your demand environment even more so?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Matt, what's interesting is, let's start with the second part first, like, clearly whatever approach was used to buy security hasn't worked, right, and we've traditionally been in a best of breed approach, you got to a company, they have 35, 25, 40 vendors and the act of stitching all those solutions together is left on the shoulders of the customer. You couple that with the two biggest technological transitions that have ever happened in the history of computing, one is the shift to the public cloud. We have to fundamentally change your IT architecture and the second is the network transformation that you're going to driven by the cloud. So CIOs are dealing with those two technology transitions and at the same time, having to take a hard look at security and bolster it up. And I think there, if you look at historically, I don't think there has been many security companies who have been able to give you a best of breed solutions across multiple capabilities.
+
+So our firewalls, 9 times top right Magic Quadrant of our own capability, whether it's SASE or other firewalls VMs fit in the category, so they can get the best firewall and capabilities across three different architecture. XDR, maybe the top right and Forrester WAVE, we're the only cloud security and native security company with Prisma Cloud. We are top right in SD-WAN and we're top right on XSOAR if there was a corner. So we actually have the ability to give you a stitch to set of products across five leadership positions, which is not available today in the cybersecurity industry. So we're able to make the both the best of breed and stitch platform argument right now and is resonating because customers who are going through these agonizing times are stepping back and saying, wait, I need to look at it from a different approach, and I can go, how can I go with a partner like and hold accountable for my entire security footprint.
+
+Q - Matt Hedberg{BIO 16655531 <GO>}
+Great.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Thanks, Matt. Next up is Tal Liani, with Keith Bachman from BMO on deck.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Hey, I have an accounting issue, accounting question. Great results, ARR were better than expected at least some people expected some issues there, but I looked at your filing and you changed the definition of ARR a little bit this quarter. You added the language, when I compare the language of this quarter versus last quarter, you added the language that this quarter it includes certain cloud delivered security services to ARR. Would you mind to quantify this addition? Was it material to the numbers this quarter? Thanks.
+
+A - Dipak Golechha{BIO 18475174 <GO>}
+Yeah. I'll take that question. It's really not material to the overall number. We added a couple of cloud delivered technology solutions like IoT being one example, when you have all of them there, they're relatively de minimis in nature.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Got it. Thank you.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+I hope the early launches of our products, and we want to make sure they sit in the right bucket, we got IoT against Cortex XDR, Cortex Data Lakes and they sit in both places. And our firewall business and in our cloud AI business.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Great. Thank you.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Great. Next up is Keith Bachman. And then on deck is Gray Powell from BTIG.
+
+Q - Keith Bachman{BIO 3018411 <GO>}
+All right, thank you very much. Nikesh, I wanted to ask you to flush out Cortex a bit more in terms of run rate and expectations, feedback we've been getting from the channels as Cortex certainly is doing better, and I was wondering if you could talk about win rates, where you're winning some of the reasons why is there any metrics you can give us on growth associated with the Cortex brand, whether it's revenues or billings?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Yeah. Well, I can't give you a metric, we haven't given. But I will tell you Cortex comprises three products, one is XDR, which we compete with as you see with CrowdStrike and SentinelOne. I think the challenge we have there is our product as you can see has technically been now ranked better than CrowdStrike and at par with SentinelOne and others. The challenge we see is we don't have as much coverage as CrowdStrike. So they are in more deals than we are and that's a virtue of the fact that they have 8 times more dedicated salespeople choosing the XDR category and we don't.
+
+Where we do end up against them, we pretty much don't lose technical POCs obviously because of the you seen in the technical competitive market then becomes a price war, and we don't bend or on the price war. So we see reasonably good win rates against them where we are present. I think our challenges were not present in as many deals as we like to be present in because they've got -- they've been at it for seven years, we've been at it for 2.5. So it's kind of like the XDR solution. On XSOAR, it used to be Fantom and Demisto. For the most part, we don't see much competition in the XSOAR category. We think pretty much where the customer believes they have a need, they will go with XSOAR. So we don't feel challenged in that market, but it's a moderate deal size, it's not the deal size of cloud, which can get to in eight figures, it's a deal size just smaller than that, but we do see less competitive activity in the XSOAR category.
+
+And last, but not the least, Xpanse Attack Surface Management is a newer category where people are beginning to understand that the hackers can look at the entire vulnerability footprint from the outside, so you're better off having a clear view. For example, any customer that goes into a breach or ransomware actually wants to understand their entire footprint and the vulnerability associated with it, so we end up having an engagement of Expanse whenever that happens. What is going on is that with the formation of Unit 42, we're getting more and more involved and more incidents out there and that's allowing them to drag and drop XDR and Expanse and those, it's early days, but we have merged the forensic capabilities for example of Crypsis, which used to be a protocol had it all that has been embraced into XDR and we'll go live very shortly, where our incident responders can go deploy XDR and provide all the forensic capabilities that they do when a breach happen. So, early days, we are seeing more traction on Cortex. I think we announced that we have 2400 customers. The only, the real upside and opportunity for us to go ahead and execute at scale over there to get into more and more deals because the product is there two years, 12 months ago, we didn't have the product.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+All right. Okay, terrific. Thank you.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Thanks, Keith. Next up is Gray Powell from BTIG and on deck is Adam Tindle from Raymond James. Hey, Greg. Can you hear me okay?
+
+Q - Gray Powell{BIO 6539666 <GO>}
+All right. Thanks for taking the question. So, yeah, maybe back on Prisma Access. What's been the reception with Prisma Access 2.0 so far. And do you see that product update with proxy capabilities getting Palo Alto into more traditional Secure Web Gateway replacement deals or potentially improving the pace of new logo adds on the product set?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Look, we were really excited about the 2.0 launch a few months ago. Great reception from customers, really excited about everything that was in our launch, remember this is where we introduced cloud management. So cloud native experience on-board -- easy on-boarding activation. This is also where we launched the first ever autonomous digital experience management add-on module. So this allows our customers to monitor the actual end-user experience that they're seeing through the service to the applications or accessing in addition to the proxy capabilities and cloud-based technology, et cetera. So it was a big release, very well received. The adoption, almost all of the Prisma Access customers have now been upgraded to 2.0 and very smooth upgrade process. We're seeing great adoption of the new cloud management, close to 100 customers are now using that in just the first couple of months of availability the autonomous DEM. We're getting great feedback from customers from early adopters and growing the pipeline of that as an add-on module that we can go and sell back into the Prisma Access customers as well as new customers and you know the proxy capabilities interesting. As you know the -- we still believe most customers are going to want the full-fledged capabilities of Prisma Access and not just the proxy capabilities, but that capability has achieved we wanted is remove that as an objection, it's allowed customers who need it to be able to move to Prisma Access and just remove that as a criteria. And so we're seeing a number of customers that are testing that are using it and happy we added and made the change.
+
+Q - Gray Powell{BIO 6539666 <GO>}
+Great. Thank you very much.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Thanks, Greg. Next up Adam Tindle from Raymond Jame and then Michael Turits, KeyBanc.
+
+Q - Adam Tindle{BIO 19131809 <GO>}
+Okay, thanks. Good afternoon. Congrats on the results. I wanted to ask on profitability whether it's Nikesh or Dipak want to weigh in. You're seeing deal sizes increase, you're seeing cross platform adoption and those were helpful metrics for us. We typically associate those with very healthy contribution margin. You did talk about 50 basis points of operating margin expansion this year. But I wanted to ask beyond this, do you think that this is something where you can build on, you're hitting a turning point, we could see sustained margin expansion from here. You talked about 150 basis points annually a couple of years ago at an Analyst Day. I'm wondering the puts and takes to get back to that level of margin expansion? Thanks.
+
+A - Dipak Golechha{BIO 18475174 <GO>}
+I think the honest answer is, it's pretty situational, right. I mean I think every customer deal is different and like we're obviously going to lean and if we have to in order to do that, but I think what really drives us is making sure that we don't leave any money on the table. I certainly think that as the portfolio grows as the attack surface area becomes more complicated. Hopefully the leverage moves more within towards our favor over time and that will help us over time, but I think in general I would stand by it. It's always a focus area for us and we believe that with scale will come from margin expansion over time. But at the same time, we just don't want to leave opportunities on the table if we are there for the taking.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Yeah, I'll just adding to that, Adam. I read your note. Thank you for your initiation and upgrade. I've noticed that you talk about operating margin leverage and as many folks have highlighted in this call. We have two businesses, the network security business where you can see the leverage 42% free cash flow margins still growing at 26% of billings, 38% some number on our peers and that exist, but so we see that's where the leverage is, we use that leverage towards the ClaiSec businesses, history of cyber security, nobody's build the 735 million ARR business in 2.5 years. So let's just like take stock and pause and we didn't buy all of it. We bought some products into it, but it has been built by a lot of go-to-market capability. If you benchmark that against the CrowdStrike and the Okta of the world and the Zscaler of the world. You will see there is a natural evolution. It doesn't happen in two years. So do we believe there is operating leverage in future years? Yes, we do. It becomes a real question of do I want to go hire another 300 salespeople and beat as many deals as CrowdStrike or do I want to hire 100 salespeople and have a lower growth rate, because I don't believe I have the capability on the product side. Palo Alto Networks has never been in a position like today from a product capability perspective. Our products resonate, we rarely get thrown out because of products that we got it. And given the heightened security awareness in the market, we are seeing more traction because as you guys know our products are on the margin slightly more expensive or premium than some of the other players in the market. As the security awareness or heightened desire to have a more secure product goes up, it's better for us because the customer more willing to be tolerant of a price point that's what you know Palo Alto Networks. So honestly I think I'm repeating what Dipak said is that we don't want to throttle the growth opportunity for us. When I came to Palo Alto we are growing at the low 20s. Now we just showed you 27 and maybe 20, 29 if you adjust for the annual plan and stuff and that's acceleration and we'd like to see we can maintain high growth rates going forward and that requires us to invest and look for leverage in future years. We'll do that as a management team.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Thanks. Next question from Michael Turits at KeyBanc and after that Patrick Colville at Deutsche Bank.
+
+Q - Michael Turits{BIO 1720659 <GO>}
+Hi, guys. Thanks. Nikesh, I think that one of the investment thesis here has been that you're the company most likely to consolidate security, but to make the transition to software and to the cloud and you're proving that out, but that's certainly also been doing a great job this year on the product/supply side up 3% here today versus what you guided to flat. So I'm just trying to get a sense for the dynamics of that in the next three calendar quarters. And do you could we get a boost from refresh of what wasn't done last year and is there any constraint to that if it's going to happen from supply chain components?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+That's a great question, Michael. I think the supply chain situation changes weekly and you can see all those machinations play out in the market. As you can imagine, like other players in the market we have some degree of inventory capability vis-a-vis our expected demand in the upcoming in the shorter duration and the longer duration. All bets are off in the industry depending on how they bring up more fabs to go print out the chips and get them to us. So the good news is, as I highlighted, we move 40% of our firewalling business to software. So if the industry starts the supply constraints, we are able to solve the customers problem by giving them capability, which is a software-based and we obviously will still have our baseline the availability to hardware. We do have the units available for the recent announcements for our hardware launch, which we just did, which Lee can talk about in a second, but again I know we've talked about this Michael and we keep going back and forth on this is that I honestly look at the overall capability of the firewalling capability and as much as I like product I also like the idea of having more less and less reliance on hardware because I promise you in a few years from now you're going to tell me, I love your business, but still got this hardware hunt and kill requirement every quarter where you go punch that they can give me hardware. So we're trying to thread the needle with you here trying to give you a great firewalling growth, keep the revenue growth high, keep the cash flow high and still transform our business from hardware to software, but Lee if you want to talk about the firewall?
+
+A - Lee Klarich{BIO 17309419 <GO>}
+Sure. While we're transitioned the business, there is still a wonderful business out there for hardware and the two new models that we just announced yesterday are pretty exciting really. We introduced a new high-end appliance scales up to 150 gig throughput with all security turned on. 75 gig with full SSL decryption. Just amazing product for the large campus data center environments. And then at a -- for the branch environments smaller enterprise environments we announced four new appliances in the 400 series. Series that's basically 10 times the performance of the previous platforms we had. And one thing is I think particularly interesting about how we're bringing these new products to market is we -- they have all of the leading security capabilities that Palo Alto Networks is known for, but we're bringing them out of price points that are incredibly competitive with even the some of the lower cost vendors out there and so we're same capability, same great capabilities, leading capabilities, but at super competitive price points changing the dynamic in the hardware space, competitor space.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+I can't get Lee to say the statement. He want to say -- he keep saying leading competitor. Okay. Yes, it's Palo Alto grade security at X price.
+
+A - Lee Klarich{BIO 17309419 <GO>}
+We can do it.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+We can do it. Okay fine. All right.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Okay. Last question here from Patrick Colville at Deutsche Bank. Go ahead.
+
+Q - Patrick Colville{BIO 21751352 <GO>}
+Thank you for squeezing me in. I was actually going to ask about the new clients because I think that's super interesting, but Lee covered it pretty comprehensively. The questions we've been getting from investors over the last hour has been about the definitional change on ARRs. Do you mind just quantifying what the certain cloud delivered security service? How much is that in 3Q versus 2Q?
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Yes, let me give that a crack and I said that it was de minimis. It's less than $5 million. So just as a kind of like an overall number to be able to work through.
+
+Q - Patrick Colville{BIO 21751352 <GO>}
+Great. Very clear. Thank you so much.
+
+A - Walter Pritchard{BIO 4672133 <GO>}
+Great. Well that concludes the Q&A portion of the call. Thank you all for joining and asking the questions. I'm going to turn it back over to Nikesh for closing remarks.
+
+A - Nikesh Arora{BIO 3382685 <GO>}
+Hey, I just want to take the opportunity to thank you all for joining our call. I also want to take the opportunity to thank the employees at Palo Alto Networks for all their hard work and dedication to allow us to produce these results. We are here because of what they do. So once again thank you everyone and I look forward to seeing you guys in our individual call back.

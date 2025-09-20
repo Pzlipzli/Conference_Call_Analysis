@@ -1,0 +1,279 @@
+Q1 2023 Earnings Call
+Company Participants
+Ken Bond, Investor Relations
+Lawrence J. Ellison, Chief Technology Officer
+Safra A. Catz, Chief Executive Officer
+Other Participants
+Brad Zelnick, Analyst, Deutsche Bank
+Derrick Wood, Analyst, Cowen and Company
+John DiFucci, Analyst, Guggenheim
+Mark Moerdler, Analyst, Bernstein Research
+Phil Winslow, Analyst, Credit Suisse
+Presentation
+Operator
+Good afternoon. Thank you for standing by. Welcome to Oracle's First Quarter 2023 Conference Call. It's now my pleasure to hand today's conference over to Oracle's Senior Vice President, Ken Bond.
+
+Ken Bond{BIO 16482190 <GO>}
+Thank you, Josh. Good afternoon, everyone, and welcome to Oracle's First Quarter Fiscal Year 2023 Earnings Conference Call. A copy of the press release and financial tables, which includes a GAAP to non-GAAP reconciliation and other supplemental financial information can be viewed and downloaded from our Investor Relations website.
+
+Additionally, a list of many customers who purchased Oracle Cloud Services or went live on Oracle Cloud recently will be available from the Investor Relations website. On the call, today are Chairman and Chief Technology Officer, Larry Ellison, and CEO, Safra Catz. As a reminder, today's discussion will include forward-looking statements, including predictions, expectations, estimates, or other information that might be considered forward-looking.
+
+Throughout today's discussion, we will present some important factors relating to our business, which may potentially affect these forward-looking statements. These forward-looking statements are also subject to risks and uncertainties that may cause actual results to differ materially from statements being made today.
+
+As a result, we caution you from placing undue reliance on these forward-looking statements and we encourage you to review our most recent reports, including our 10-K and 10-Q and any applicable amendments for a complete discussion of these factors and other risks that may affect our future results or the market price of our stock.
+
+And finally, we are not obligating ourselves to revise our results or these forward-looking statements in light of new information or future events. Before taking questions, we'll begin with a few prepared remarks. And with that, I'd like to turn the call over to Safra.
+
+Safra A. Catz{BIO 3491281 <GO>}
+Thanks, Ken, and good afternoon, everyone. We had an excellent quarter with total revenue growing 23% in constant currency and beating the high end of our guidance. We also had a great organic quarter with total revenue growing 8% in constant currency. This was on top of a fantastic Q4 last quarter.
+
+And as you can see from the numbers, we continue to get excellent returns on the investments we've been making over the last few years in products, infrastructure, and our sales organization. We are seeing company-specific, and product-specific momentum. We continue to expect organic revenue growth in our cloud business will accelerate substantially in FY23.
+
+The currency headwind this quarter was much higher than the 3% headwind that was present when we gave guidance. It was actually 6 points, even though due to rounding it may look like 5% and that's a currency headwind to total revenue. It was in fact 6 points and yet we still exceeded our forecast on a reported basis and we beat our constant currency revenue forecasts by $200 million.
+
+We saw similar currency headwinds in EPS as -- which had an $0.08 negative effect, much worse than the $0.05 headwind present at the time of guidance in June. It's because of the significant and volatile swings in currencies that I always discussed our results using constant currency growth rate, and so that you have a clear view of the business as we manage it.
+
+Now to the numbers and there is a lot here. I'm going to go over the revenue result including Cerner and then some of the results excluding Cerner, which many of you are focused on. I hope you're pleased with our expanded disclosure this year. So total cloud revenue that SaaS and IaaS including Cerner with $3.6 billion, up 45% in USD and up 50% in constant currency with IaaS revenue a smidge under $900 million and SaaS revenue at $2.7 billion.
+
+Total cloud services and license support revenue for the quarter was $8.4 billion, up 20% in constant currency, driven again by Fusion Autonomous Database and our Gen 2 OCI. Application subscription revenues, which include support were $4 billion, up 37% in constant currency.
+
+Again, Q1 cloud application revenue, that's SaaS was $2.7 billion, up 43% in USD, up 48% in constant currency. Infrastructure subscription revenues including support were $4.4 billion, up 7% in constant currency, and to be clear, that's actually 7% organic growth with no contribution from Cerner.
+
+Q1 cloud infrastructure or IaaS revenue was $0.9 billion, up 52% in USD, up 58% in constant currency. Again, with no contribution from Cerner. Now, the revenue results excluding Cerner. Total cloud revenue that's IaaS plus SaaS excluding Cerner was up 29% in constant currency at $3.1 billion.
+
+Organic revenue growth for both IaaS and SAAS were significantly higher than last quarter. Application subscription revenues excluding Cerner were up 12% in constant currency. Our strategic back office cloud applications now have annualized revenue of $5.8 billion and grew 33% in constant currency, including Fusion ERP, which was up 38%, NetSuite ERP up 30%, and Fusion HCM up 26%. That means the SaaS revenues excluding Cerner were $2.2 billion, up 20%.
+
+Infrastructure cloud service revenue was up 58% in constant currency. Excluding legacy hosting services, Infrastructure cloud services grew 70% with an annualized revenue of $3.2 billion including OCI consumption revenue, which was up 103%. Cloud at customer consumption revenue, which was up 92%, and autonomous database, which was up 56%. And it's not only that our growth rates are higher than our hyper-scale competitors, maybe you'd expect that because we are the newest and thus the smallest but our growth rates are increasing as we get bigger.
+
+Our second-generation cloud launched after our competitors' first-generation cloud and so we've been able to architect it more performantly, more securely, and more sustainably. As a result, as more companies test our cloud they discover how much better It is on price, security, performance, and sustainability.
+
+In addition, we now have cloud regions in more countries and cities than AWS and Azure giving our customers more choices for their sovereign data. And finally, many of our customers appreciate how flexible our service and business model is. All of this is amazing our customers and I can't wait to share the stage with some of them at Oracle CloudWorld in October. Now to license revenues, including Cerner were $904 million, up 19% in constant currency, led by database options and Java.
+
+Total database revenues were up 3% in constant currency. So all in total revenues for the quarter were $11.4 billion, up 23% in constant currency. Excluding Cerner revenue of $1.4 billion, organic revenue was up 8% in constant currency. In addition, I want to point out that since we no longer operate in Russia, this negatively affected revenue by over one point of growth. Had we still -- had we not -- had we not left actually our growth rate would be over 9% this quarter. Operating expenses were up 34% mainly due to adding in Cerner's expenses and the mix of our business. The gross margin for cloud services and license support was 81% and the associated gross profit dollars grew 15% with Cerner and 7% excluding Cerner.
+
+In fact, the gross margin percentage on IaaS increased dramatically in the quarter. Non-GAAP operating income was $4.5 billion, up 10% from last year and I expect that we'll see strong operating income growth again in Q2. The operating margin including Cerner was 39%, which is lower than in the past since we only just began to integrate Cerner in the quarter.
+
+As we drive Cerner and its profitability to Oracle standards and continue to benefit from economies of scale in the cloud, we will not only continue to grow margin dollars but also grow margin percentages significantly. The non-GAAP tax rate for the quarter was 19.4%, slightly above the guidance rate and non-GAAP EPS was $1.3 in U.S. dollars, unchanged in USD, and up 8% in constant currency.
+
+GAAP EPS was $0.56 in U.S. dollars, down 34% and down 26% in constant currency. That's our GAAP EPS. Over the last four quarters, operating cash flow was $10.5 billion and free cash flow was $5.4 billion with capital expenditures of $5.2 billion. For the quarter, operating cash flow was $6.4 billion and free cash flow was $4.7 billion with capital expenditures of $1.7 billion.
+
+At quarter end, we had $11.2 billion in cash and marketable securities and the short-term deferred revenue balance was $10.5 billion, up 11% in constant currency. The Remaining Performance Obligation or RPO balance is $60.7 billion, up 62% in constant currency due to strong bookings as well as the addition of Cerner.
+
+However, I would note for you all that the organic RPO growth accelerated to 22% in Q1 from 17% in Q4. Approximately 49% of total RPO is expected to be recognized as revenue over the next 12 months. As we've said before, we're committed to returning value to our shareholders through technical innovation, strategic acquisitions, stock repurchases, and prudent use of debt and our dividend.
+
+This quarter, we repurchased 7.5 million shares for a total of $559 million. In addition, we paid out dividends of $3.4 billion over the last 12 months and the board of directors today declared a quarterly dividend of $0.32 per share. Our fundamental principle is to grow non-GAAP EPS while substantially increasing cloud revenue and given our increasing confidence, we will continue to prudently invest as there is strong demand for our cloud services.
+
+Now let me turn to my guidance for Q2, which I will provide on a non-GAAP basis. Now, we are assuming the currency exchange rates remain the same as they are now. That's not a prediction, that's just giving it to you as a translation as it currently is. In that case, currency should have a 5% to 6% negative effect on total revenue and at least a $0.07 negative effect on EPS in Q2.
+
+As I say every quarter, the actual currency impact may be different by quarter end. My EPS guidance for Q2 assumes a tax rate of 20.5%, which is up from 19.2% last year. However, one-time tax events could cause actual tax rates for any given quarter to vary. So now to guidance. Total revenues for Q2 including Cerner are expected to grow from 21% to 23% in constant currency and are expected to grow from 15% to 17% in USD.
+
+Total cloud growth again including Cerner is expected to grow from 46% to 50% in constant currency, 42% to 46% in USD. I expect the total cloud growth for the fiscal year excluding Cerner will be above 30% in constant currency. Non-GAAP EPS growth is expected to grow between 1% to 5% and be between $1.23 and $1.27 in constant currency, again due to currency headwind, Non-GAAP EPS is expected to decline 1% to 5% and be between $1.16 and $1.20 in USD.
+
+As I've said before, Cerner will be accretive to earnings this year including in Q2. And with that, I turn it over to Larry for his comments.
+
+Lawrence J. Ellison{BIO 1491757 <GO>}
+Thank you, Safra. Last quarter, Microsoft and Oracle announced that we had built a high-speed interconnect between Microsoft Azure Cloud and the Oracle Cloud. The purpose of this multi-cloud interconnect is to enable an Azure -- Azure customers to directly use the very latest Oracle database technology even if their application is running in Azure. In other words, customers can now use any combination of Microsoft and Oracle cloud services together as if they were in one cloud. That was last quarter. This quarter Oracle is making the latest version of our MySQL HeatWave database available on Amazon's AWS cloud.
+
+Multiple [ph] published customer benchmarks. They have shown that MySQL HeatWave delivers 7 times better performance than Amazon Redshift, 10 times better performance than Snowflake, and up to 10 times higher throughput than Amazon's own MySQL database called Aurora.
+
+The multi-cloud era has begun. Customers are already buying applications in cloud infrastructure from several different providers including Microsoft, Amazon, Salesforce, Oracle, and others. Our job is to give our customers the ability to choose application infrastructure technology from multiple clouds and then have those different clouds coexist and interoperate gratefully.
+
+The multi-cloud interoperability is an important step in the evolution of cloud computing. Multi-cloud interoperability is one of the reasons our infrastructure business is booming. Growing over 50% in U.S. dollars and almost 60% in constant dollars. We expect Oracle's total cloud business to exceed at $20 billion annual run rate next year. Now, I'll highlight some of our big new infrastructure wins in Q1. Overall, we added about a 1,000 new paying customers for infrastructure in Q1.
+
+Let's start off with Nvidia. Nvidia chose OCI to build their SaaS products for data scientists for machine learning and inferencing along with moving their entire healthcare platform called Clara to OCI. Mosaic has developed a state-of-the-art neural network on OCI and they picked OCI because OCI outperformed all of the other clouds when running machine learning and AI. The Avis car-rental company is moving their entire Oracle stakes along with their Oracle applications to OCI.
+
+The Chicago Public Schools are closing data centers and migrating their Oracle Estate [ph] to the Oracle Cloud. Tanium, a leader in cyber security chose Oracle Cloud infrastructure to help safeguard their customers with industry-leading security. OCI deployment will be a part of its multi-cloud strategy in delivering its SaaS platform, Tanium as a service.
+
+Cigna, a health -- a healthcare company is migrating their existing Exadata on-premise to the Oracle Cloud. Additionally, their -- their SaaS ERP system is being integrated with Oracle Cloud Digital Assistant. Tennessee and Oklahoma are both new government cloud customers. This was -- the first group of customers were all from North America. I just finished my list beginning with Nvidia in North America and Tennessee and Oklahoma in North America.
+
+I'm now going to move to wins in LAD [ph]. AT&T in Mexico is the first case of any telco to move their entire Amdocs stack to a cloud and they're moving it -- their Amdocs stack to OCI's New Mexico cloud region. Avianca, one of the largest airlines in Latin America will move all of their workloads to OCI. Entel, another telecom, in fact, the largest telecom in Chile is now moving all of their critical workloads from AWS to OCI.
+
+Banco Digi+, a Fintech bank in Brazil is moving their entire on-premises VMware stake to run in OCI, a 100%. Serasa Experian, the financial services company is moving AI training for OCR -- OCR biometrics and facial recognition to OCI. Ryan [ph] Exo, another infotech company in -- in the health care business, there being 1,500 -- 15,000 hospitals and clinics is migrating their data lakes and their data warehouses from Amazon Web Services to OCI.
+
+Santander, a large bank is moving all of their -- all of their databases from Mainframes and Oracle Databases all to the Oracle Exadata Cloud Service. Unimed, also a healthcare company -- a healthcare insurance company is beginning the migration of all of their applications and database to OCI. Sky Mexico, the largest satellite TV -- Pay TV producer in Mexico will move all of their data lakes and all of their data lakes -- data warehouses to OCI in the New Mexico region, that's Latin America.
+
+And JAPAC, and maybe this is the most interesting customer I'll talk about. NRI, Nomura Research is -- is continuously expanding their dedicated cloud region. In Japan, they've just added a second data center, NRI have. The Oracle cloud in Japan, the NRI Oracle cloud in Japan already runs 50% of all transactions on the Tokyo Stock Exchange.
+
+That's a mission-critical application. ICI Bank Financial Services is the new customer in JAPAC, Japan Asia Pacific. Hitachi Construction in Japan is moving their manufacturing -- their critical manufacturing systems to OCI. AdTiming technology, an infotech company is the new customer in Asia-Pacific.
+
+Daiichi Sankyo, a big -- is the first big pharma in Japan that is moving their database -- their Oracle Database Workloads to the cloud. Pacific International Lines, the big transportation company is the new customer in Asia Pac. Li & Fung, a trading company, another new customer, again I mentioned with a 1,000 new customers this quarter in -- in OCI. (inaudible), another FinTech company is again another big new customer for us in Asia-Pacific.
+
+H2O Retailing is moving their entire VMware on-premise, VMware Estate to OCI. They are one of the largest retailers in Japan. Again, Asian Development Bank, the new customer in Asia-Pac. (inaudible) Vision is an infotech company, new customer. We have again a bunch of new customers in OCI all over the world.
+
+That's JAPAC. Now -- now let me move to EMEA. Dojo, a financial services company chose Oracle Cloud infrastructure for their payment platform because their benchmark showed that the Oracle Cloud OCI is more secure and has better availability than the competition. Al Rajhi Bank, the world's largest Islamic bank is in the process of moving all of its applications and databases to -- to the Oracle Cloud.
+
+Unilever is integrating a few of their Oracle Fusion applications with the autonomous database to build a next-generation super secure and super agile platform for Unilever. Atlantic Financial Group, an Infotech Company hosts core banking functions on the Oracle Cloud infrastructure which to many of their banking customers. Centrico, an infotech company is moving all their workloads from their old -- from their old data centers to a combination of OCI using OCI's multi-cloud services to access other clouds.
+
+MEO, a big telephone company moving over 300 Oracle databases to the Oracle Exadata Cloud. North Tipping, the government agency is migrating all databases of their IBM mainframes and Unix systems to the Oracle database and to the Oracle Cloud.
+
+And I'll close with the U.K. Home Office, the department is moving to the Oracle Gen 2 cloud infrastructure with a focus on dramatically improving both security and reliability.
+
+With that, I'll turn it back over to Safra.
+
+Ken Bond{BIO 16482190 <GO>}
+Thank you, Larry. Josh, if you could go ahead and queue up the audience for questions?
+
+Questions And Answers
+Operator
+(Operator Instructions) Your first question comes from John DiFucci with Guggenheim. Your line is open.
+
+Q - John DiFucci{BIO 4099352 <GO>}
+Thank you. Hi, Safra, and Larry. A little surprised to see your strong results here when most software companies other than some of the pure security names really faltered some against the macro backdrop. And frankly, you just didn't hear. But -- but I want to focus the question on one area that we've got the most questions on since we launched coverage and that's on organic constant currency cloud services growth.
+
+It looks like you came in above the high end of your guidance for the quarter and you reiterated to Safra that you expect greater than 30% growth for the year, which doesn't seem like a stretch like it did when you gave that -- that first. We understand the way a subscription model works. But we obviously don't see everything that you see.
+
+Can you give us some more color around what's driving the results this quarter and what gave you the confidence in this outlook for cloud services? Was it previously contracted revenue that's just starting to ramp up? Was it expected to increase in consumption or something else or all of the above?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+So let me tell you it is all of the above, but let me tell you what's really happening down at each customer level. When customers try us for some reason, whether they're using Fusion and they start using OCI for their own applications or they -- it here really from word of mouth and from really a need to run some of their Oracle workloads or otherwise when they give a try to Gen 2 OCI or the Fusion for that matter, what they find is that it is phenomenal.
+
+Our Gen-2 cloud is so much better than what they're used to and is so much more flexible and can be much more local, give us some so many more -- so many more opportunities to really match to their own needs, but they're overwhelmed by the technical capabilities of our cloud and how great it is.
+
+So what happens is they may start small and then they accelerate in their consumption and they -- and they sign larger and larger and more significant contracts. As you see in our RPO, there's a lot already contracted and that's without us adding a single additional customer or expanding they use. But we have, as I said, so much company-specific, or product-specific momentum that is customers who discover us use us give us the chance they become honestly overwhelmed by our capabilities.
+
+And -- and how much less expensive, more flexible, more secure, and how differently we're architected such that we're also more sustainable for them. And so it's a -- it's just an incredible company-specific product-specific momentum and nothing really has to happen for us to continue to do very, very well here. And whether they're trying to save costs or expand growth, we help them do that in incredibly flexible way and -- and super, super cost competitively for them.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Yeah. Let me just add one sentence to that. We are the only infrastructure company that builds enterprise-scale applications. As a result of building these enterprise-scale applications, we have made our infrastructure much, much better. So, we not only provide infrastructure and sell infrastructure, we consume the infrastructure ourselves.
+
+I think that gives us certain insights of as to what we need to build at the infrastructure layer to make our application secure, reliable, and so on. And -- and easy to use and make people may make people productive. That's why -- I think that's why a lot of customers are discovering when they come to our cloud that they are more productive, that the system runs faster.
+
+It's more secure, it's easier to use, all of that and that's what gives us confidence that we can build the next generation of healthcare applications because we do both. We do both applications enterprise applications and infrastructure and we're the only one.
+
+Q - John DiFucci{BIO 4099352 <GO>}
+So it sounds like that, I think the expansion within your customer base of cloud services is becoming or has become more predictable, and that makes -- that makes a lot of sense. Thank you.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Okay. Thank you, John. Next question, please.
+
+Operator
+Your next question comes from the line of Phil Winslow with Credit Suisse. Your line is open.
+
+Q - Phil Winslow{BIO 6300579 <GO>}
+Yeah. Thanks for taking my question. Congrats on another strong quarter of organic growth. Now obviously, Oracle has been delivering accelerating growth in infrastructure database is for multiple quarters now. Safra, could you give us some more color on just what the drivers are behind this and how sustainable they are, be it BYOL, database add-ons, autonomous database, et cetera?
+
+And then a question for Larry. Obviously, the expanded partnership with Azure announced in July is pretty universal positive feedback. And you just announced today that Oracle's MySQL HeatWave will be available on AWS. How do you think about these multi-cloud partnerships impacting the already positive existing momentum in your database business going forward?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Larry, why don't you go first, and then I'll fill in if you missed any? (multiple speakers).
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Okay. Boss, I'll do that. Again, multiple. I think one of the issues I know a lot of people for years have been concerned about Oracle sustain its leading market share in the database business. And I think -- I think what is clear is if our databases are available in multiple clouds, I think then the answer is clearly, yes. If our database is not available in multiple clouds, then it's an interesting question whether we can -- we can maintain just in our own cloud.
+
+We've decided to make our best in greatest technology available in multiple clouds and that gives customers choice, they can use it in OCI, they can use MySQL HeatWave at AWS. They have choices but they will be able to choose between, let's say, Amazon's Aurora or Oracle's MySQL HeatWave. They will be able to choose between Snowflake or the Oracle Autonomous Database.
+
+And I think as long as we're available in multiple clouds, we're going to be very strong, very, very and very, very competitive against these other companies and these other technologies.
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+And answering for you on how is the Oracle database doing. Well, you saw we had an amazing Q4 and in Q1, again the Oracle database is what people choose if they have real work to do. It's very secure, it's very performant and they know it has so many capabilities that you don't have to have 16 different databases to get a complicated job done, you can do everything with it in different ways and the database options are continue to be acquired many more customers still want enterprise agreements so they can BYOL bring your own license to the Oracle Cloud.
+
+Our technology remains unbelievably strong with Java, and so the business overall, our tech business remains incredibly strong even though it's enormous and -- and for many, many of the reasons. I think there was a period, a few years back, where folks were thinking they would try lots of other things and things that were maybe more, quote, fashionable.
+
+I think they've realized that actually getting your job done securely performantly sustainably and also really least expensive is to actually use our products to do that and so they've been doubling down in committing and bringing those workloads to the Oracle cloud again propelling just incredible momentum whether it's cloud customer dedicated regions or our public cloud.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thanks. Next question, please?
+
+Operator
+Your next question comes from the line of Mark Moerdler with Bernstein Research. Your line is open.
+
+Q - Mark Moerdler{BIO 16855032 <GO>}
+Thank you very much for taking the question and congratulations on the strong quarter. Larry, Safra, historically in increasingly difficult economic conditions organizations focused on what drove revenue growth were immediate savings, and thus products like sales automation with similar areas receive funding will back office projects were delayed.
+
+What is different this time both from an ERP point of view and an HCM point of view, what's going to drive the sustained growth and strength that you're expecting in Oracle Strategic Back Office? Thank you.
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Sure. So let me -- let me start by. Since I'm also the Principal Financial Officer, if I would say, and another company, I'd be the one making the decision to buy Fusion ERP and Fusion HCM and what is absolutely clear is that saving money in the back office is basically automatic when you use our products.
+
+When you move from -- from especially from our competitors' products, which are so expensive to maintain and to run. When you move to Fusion, you can save so much in your back office that you can use that money to invest in things that help you extend the differentiation of your business. Now today's the 12th of September.
+
+In fact, I signed off with our auditors on Friday, but we don't do our earnings on Friday. So we had to wait all the way till Monday. Now no other companies report on the ninth or the eighth day. In fact, most companies were reporting their July quarter on last week. And here we are announcing an August quarter. Well, what does that have to do with costs? Well, I can tell you that when you are in a position to know your results and to announce them and to file -- file your earnings with the Securities and Exchange Commission, you've not only saved time, you saved millions in process dollars and in the way you run your business. And I just want to point out that we were able to do this after acquiring in the quarter Cerner by putting their data from their old system into -- into Fusion and consolidating it in Fusion.
+
+So we actually believe that one of the most important ways to drive business transformation is to move to a much more streamlined cloud product than running old back office systems.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Let me -- let me just add one -- one thing. I'm sorry, let me add one thing which is Safra addressed the issue of modernizing back office to save money. I'll let me tell you another way, you can save money. I personally have been talking to some of Amazon's most famous brands that are running at AWS and the AWS build is getting very large and they can save a huge amount of money by moving to OCI.
+
+And we -- I expect next quarter, we'll be announcing some brands some companies moving off of Amazon to OCI that will shock you. I'll stop there.
+
+Q - Mark Moerdler{BIO 16855032 <GO>}
+Amazing. Congrats. Thanks.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thank you, Mark. Next question, please?
+
+Operator
+Your next question comes from Derrick Wood with Cowen and Company. Your line is open.
+
+Q - Derrick Wood{BIO 4963641 <GO>}
+Oh, great. Thanks. And I'll echo my congratulations. And Larry, thanks for all the color on the OCI wins. I was hoping to get an update on -- on your go-to-market strategy for OCI and it's clearly becoming a more critical growth driver for you guys. Is there a dedicated sales force, are you doing more bundling of OCI, with other offerings?
+
+Just hoping to get an update on how you're going to market and what kind of resources you're putting around OCI because with 58% growth, that certainly seems like you're now gaining share in the cloud infrastructure market and it's a big market to go after. So, any color on that would be helpful?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Let me start, Larry. (multiple speakers). Oh, you go ahead.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+No, no, no, no, no.
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Okay.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+I'll do it. That's what my goal is.
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Okay. So one of the enormous changes we made in the past year or so -- year or two is that we have invested in a lot more engineering talent in the field to help our customers bring over workloads. And once we've shown them how to do it and the enormous benefit they get by doing it, this is the ultimate sales accelerator because there is nothing like a customer who realizes that our solution is just so much better and so much less expensive for them.
+
+And you have to do that often by let's say priming the pump by sending engineers, field engineers who can help the customers move those workloads and that's really propelled what's been going on in our -- in our OCI cloud. Larry, you go ahead.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Yeah. I think exactly what Safra said and I'll add what I -- I just repeat what I said earlier. The amount of money these huge companies these very famous companies is spend with Amazon is kind of staggering. I mean, everyone assumes, hey I move to the cloud and I save a lot of money.
+
+It depends which cloud you move to and Oracle is much less expensive than the competition. One of the -- partially because we're faster which time is money when you're -- when you're paying by the hour. So again, I'm going to repeat, we are talking to the most famous brands that are running at Amazon and some of them are going to be moving very soon.
+
+Q - Derrick Wood{BIO 4963641 <GO>}
+Exciting. Thank you.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thanks, Derrick. Next question, please?
+
+Operator
+Your next question comes from Brad Zelnick with Deutsche Bank. Your line is open.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Excellent. Thank you and congrats on the solid execution. Larry, we've heard of some very exciting things happening with Cerner. Pretty quickly after the deal just closed with some hospital networks we heard from significantly expanding their existing contracts. Can you talk about the value you're able to deliver, now that Cerner is a part of Oracle and the broader expansion opportunity that you see ahead?
+
+And if I could just sneak in one for you as well, Safra? $1.7 billion in CapEx in Q1 is a pretty big number. And I know very well that you don't spend frivolously. What can you tell us about the big step up here?
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Okay. I'll go first. I'll let Safra but with $1.7 billion CapEx is there is just so much demand. Safra mentioned, we have more data centers in more and more countries and in more cities than either Amazon or -- or AWS. And we are expanding because the demand is there. We expect to be growing in the 50% range per cloud services and that means we're going to be -- have to be -- we're going to have to be adding a lot of data center capacity and opening a lot of new data centers and we're doing that.
+
+The fact that we're running in a -- Oracle cloud data is running half of Tokyo Stock Exchange as the other cloud vendors how many stock exchanges they run. The -- our stuff is very secure, it's very reliable, it's very performance, it's very, very cost-effective, and therefore -- and we have huge opportunity, therefore, we're spending the money to expand. We -- we have a huge opportunity for growth and we're not going to miss it.
+
+But we're still going to be as you know Safra is very cautious. We are very -- we're always very cautious. We pay a lot of attention to profitability, but we -- but we also have to pay attention to the top line as well as the bottom line and take advantage of this growth -- this growth opportunity. And I think there was a second part of the question that may (inaudible)?
+
+A - Safra A. Catz{BIO 3491281 <GO>}
+Cerner. He asked you all about Cerner.
+
+A - Lawrence J. Ellison{BIO 1491757 <GO>}
+Oh, Cerner. A big -- a big -- a big, Brad. One of the things I think that's, we don't really talk about but I alluded to the fact that we both build applications and we run them with on our infrastructure. The tools we use for building applications are our latest generation of tools are the autonomous database, very different from all the Oracle databases, or any other database that came before.
+
+There are no DBAs. There is no -- there is no human labor associated with running the Oracle database anymore. So there can be no human error. The costs are so much cheaper. Our own internal cloud, our own cloud OCI uses autonomous database to run all the control systems because Clay McGurk doesn't want to hire a lot of DBAs to lower costs.
+
+Also, we doesn't want any -- have any areas of commission. It's much more reliable than when you have human beings driving the car. We use that for the next generation of Cerner, the Oracle Autonomous Database. We pair that with an all-new application development tool called APEX, which is a low code tool.
+
+So our newest applications, our very newest applications that we were built -- we are building, we're building in the autonomous database with APEX, which allows us to do stuff that would have taken three or four years in less than a year. So we expect to have our first pretty complete new Cerner Health Management product out within 12 months, which I think is going to -- again, it's -- it's something we never could have done with the previous generation of databases, or the previous generation of application development tools.
+
+But all of that has changed. We have these phenomenal low-code tools. Let me -- one of the things with the low code tool is you almost -- you don't have to do security audits because security is built into the tool. You can't build in an secure application using -- using APEX. Fault tolerance is built into the tool. If -- if the application should fail, it's a stateless application.
+
+So it immediately failover in to another data center in a millisecond and keep running. Noone don't even know about the failure. So our new generation of application development tools is going to enable us to modernize the server -- the Cerner technology at a rate that would be inconceivable a couple of years ago.
+
+Q - Brad Zelnick{BIO 16211883 <GO>}
+Amazing. Thank you.
+
+A - Ken Bond{BIO 16482190 <GO>}
+Thank you, Brad. That does appear to be our last question. So a telephonic replay of this conference call will be available for 24 hours on our Investor Relations website. Thank you for joining us today. And with that, I'll turn the call back to Josh for closing.
+
+Operator
+This does conclude today's conference call. Thank you very much for joining. You may now disconnect.

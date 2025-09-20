@@ -1,0 +1,331 @@
+Q2 2021 Earnings Call
+Company Participants
+Aart de Geus, Chairman & Co-Chief Executive Officer
+Lisa L. Ewbank, Vice President of Investor Relations
+Trac Pham, Chief Financial Officer
+Other Participants
+Gal Munda, Analyst, Berenberg Capital Markets
+Gary Mobley, Analyst, Wells Fargo Securities
+Jackson Ader, Analyst, J.P. Morgan Securities
+Jason Celino, Analyst, KeyBanc Capital Markets
+Jay Vleeschhouwer, Analyst, Griffin Securities
+Joe Vruwink, Analyst, Baird Equity Research
+John Pitzer, Analyst, Credit Suisse
+Pradeep Ramani, Analyst, UBS Securities
+Tom Diffely, Analyst, D.A. Davidson
+Vivek Arya, Analyst, BofA Securities
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by, and welcome to the Synopsys Earnings Conference Call for the Second Quarter of Fiscal Year 2021. At this time, all participants are in a listen-only mode. Later we'll conduct a question-and-answer session and instructions will be given at that time. (Operator Instructions) Today's call will last one hour. Five minutes prior to the end of the call, we will announce the amount of time remaining in the conference. As a reminder, today's call is being recorded.
+
+At this time, I'd like to turn the conference over to Lisa Ewbank, Vice President, Investor Relations. Please go ahead.
+
+Lisa L. Ewbank{BIO 2178607 <GO>}
+Thank you, Sean. Good afternoon, everyone.
+
+With us today are Aart de Geus, Chairman and Co-CEO of Synopsys; and Trac Pham, Chief Financial Officer.
+
+Before we begin, I'd like to remind everyone that during the course of this conference call, Synopsys will discuss forecasts, targets and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+
+In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the earnings press release, financial supplement and 8-K that we released earlier today. All of these items, plus the most recent investor presentation are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+
+With that, I'll turn it over to Aart de Geus.
+
+Aart de Geus{BIO 1431475 <GO>}
+Good afternoon.
+
+I'm happy to report outstanding second quarter results, exceeding all of our key guidance metrics. We delivered revenue of $1.024 billion, with GAAP earnings per share of $1.24 and non-GAAP earnings of $1.70. Business was strong across all product groups and geographies. We continue to make good progress on our margin expansion goals and generated record operating cash flow of $526 million. As a result of our first half strength and growing confidence in our year, we're raising guidance for revenue, non-GAAP ops margin, earnings and cash flow. Trac will discuss the financials in more detail.
+
+Before commenting on highlights, let me say a few words about the dire situation in South Asia. While parts of the world are progressing well with vaccination, we are seeing an enormous challenge for the people of South Asia. Our top priority is the well-being of our employees, and we've taken many steps to support them and their families, ranging from orchestrating oxygen concentrators to teaming up with vaccination clinics to ambulance services, food delivery and family health, our objective is to maximally mitigate the impact of COVID and make sure that every employee can call on Synopsys as a deacon of care and solidarity. Despite the pandemic challenges, we are thankful that from a business perspective, we continue to ship our products and support our customers with no material disruptions and our business is doing well.
+
+Looking at the overall market demand for semiconductors is very strong. While some of the near-term demand can be attributed to segments, such as automotive catching up after a year of COVID flowing, there is an undeniable new wave of growth on the horizon, as every vertical market demands machine learning chips to harvest their big data for their specific needs. In other words, the early technical successes of machine learning in the cloud are now moving to the edge, attracted by the economic promise of Smart Everything. The technology push has grown into a vertical economic pool.
+
+All segments are impacted and the race is on to provide smart solutions in automotive, health, consumer 5G and so on. This push pool opens a whole new era for semiconductors and software and with it great opportunities for Synopsys. First the foundational building blocks are complex chips, chips for data generation and sensors, for storage, for transport and for compute, all meeting IP blocks, speed, low power and security. This is great for Synopsys. Second, not just chips, systems of chips. While the complexity of a system on a chip continues to grow, the leading edge is moving to systems off chips by aborting them seamlessly and stacking them on top of each other, massive transistor counts open the door to brand new functionality. This growing systemic complexity is great for Synopsys.
+
+Third, chips differentiated by vertical market. Each vertical has its own needs. Automotive has safety requirements, mobile requires extreme low power, aerospace and industrial wants built in lifecycle diagnostics, high-powered new entrants, such as hyperscalers and AI design their own chips for super performance. And everybody, be it medical and health markets, financial sector, communications or infrastructure, everybody needs much better security. All of these are disciplines that we have invested in for years. Great for Synopsys.
+
+And lastly, software and silicon are tightly linked and must be tuned for each other. Software to be written to consume less power in the chips. Chips to be optimized for huge amount of sensor data. Software to be debugged on prototypes of chips that has not been built yet to speed time to market. Chips to be optimized for blindingly fast computation, and always software and chips must be secure together. These are all technologies we are leading in, great for Synopsys. So we're perfectly placed and our mission is to capitalize the Smart Everything ambitions of our semiconductor partners and vertical customers by delivering a 1,000x system performance in this decade.
+
+In that context, let me share some highlights beginning with EDA, which delivered another strong quarter, both in design and verification. In digital design, proliferation and competitive displacements by our Fusion design platform, again, drove strong growth. In particular, strong momentum for Fusion Compiler. For example, Arm is leveraging Fusion Compiler on its next generation Neoverse V1 and M2 infrastructure cores. Fusion Compiler was also selected for advanced mobile designs at Samsung, driven by superior throughput and performance per watt results. Our momentum in the most advanced 3-nanometer node is also evident with five new test chip tape-out of processor, graphics and mobile technology leaders, as well as next wave 3-nanometer adopters.
+
+We see strong innovation and market disruption with our Custom design platform as well. In Q2, we announced our PrimeSim Continuum platform for analog mixed signal simulation. With the industry's brand new graphics processor based acceleration, it cuts time to results by 10x, endorsed by Samsung Electronics, NVIDIA and Kioxia, PrimeSim delivers significant productivity gains at companies such as Nanya Technology, where it is deployed on DRAM design. In addition, we again secured multiple full flow displacements in the quarter, including another large analog design company in Japan.
+
+In verification software, we had strong growth with our Verification Continuum platform driven by adoption momentum with hyperscalers. Our hardware verification solutions drove excellent results as well, including 14 new logos and more than 50 repeat orders in Q2, fueling our ongoing strong growth in continuous innovation, including new turbocharge application-specific emulation systems, two of which went to market in the quarter. The ZeBu Empower emulation system lets customers perform power analysis earlier in the design cycle, dramatically reducing power-related risks.
+
+Also just last week, we launched ZeBu EP1, the industry's first ultrafast 10 megahertz emulation system. It targets high performance compute for 5G, GPU, AI and automotive handling designs up to 2 billion gigs. We also shipped the latest generation of prototyping HAPS-100. With the fastest performance and unmatched enterprise scalability, it accelerate software development, system validation and verification. Customers like NVIDIA and Furiosa already rely on HAPS-100 for their most demanding project.
+
+Now to IP, which again achieved excellent revenue growth, driven by technical leadership and strong market dynamics. In Q2, we extended our advantage in the high performance compute market. We acquired more than IP and its 400 gig, 800 gig Ethernet controllers. Combined with our existing 112 gig Ethernet PHY, we now offer a full Ethernet solution for high performance data center applications. Advancing our lead in next generation PCI Express Interfaces, we delivered the industry's first complete PCI Express 6.0 IP solution. Needed for huge bandwidth demand, we see strong market traction with leading customers.
+
+And in addition to the EDA adoption I referenced earlier, we announced a strategic collaboration with Arm to closely align our product roadmaps and enhance our interface IP solutions with specific features for the Arm Neoverse platform. Our interface and foundation IP are also gaining broad industry adoption on the advanced 5-nanometer FinFET process, driven by vertical segments such as high performance compute, automotive and AI. More than 20 leading semiconductor companies use our 5-nanometer IP with multiple first bound silicon successes, attesting to the robustness and reliability of our portfolio.
+
+Lastly, to address the above-mentioned safety and security requirements for automotive, we launched a new DesignWare hardware secure module and ARC safety and security processor IP solutions with integrated functional safety features. Let me now turn to two exciting and disruptive technologies we recently introduced.
+
+First is DSO.ai, our award winning AI power design system that hits right at the foundation of the new growth era very complex chips. DSO.ai autonomously searches the vast design space for optimal solutions in terms of chip performance, power and area. It does this using very sophisticated machine learning. This not only substantially accelerates the schedule of human design teams, but it enables them to push the technology envelope towards better solutions. The improvements and results over the last two quarters have been extraordinary. One example is a very large influential US company, who reported what I like to call a productivity world record. On the leading edge chip, a single engineer using DSO.ai was able to achieve in weeks what typically takes an entire team months to complete. Another global leader recently highlighted unprecedented 3x designer productivity and meeting timing specs weeks ahead of schedule. Results like these are driving notable adoptions. For example, Renaissance now use a DSO.ai for its advanced automotive chip design environment.
+
+The other innovation push is our Silicon Lifecycle Management platform or SLM for short. This end-to-end solution monitors, analyzes and optimizes chips as they are designed, manufactured, tested and deployed in the field. SLM leverages our longstanding unique expertise to give customers visibility into performance, reliability, safety and security issues for chip's entire lifespan. We're actively engaged with multiple customers at 5 and 3-nanometer that seek to use SLM to optimize their design flow with data collected during test. The vertical market pool by hyperscalers, for example, is a strong driver of important adoptions. In Q2, 10 new customers adopted a variety of SLM capabilities, several of them having adopted one element of our portfolio are already broadening to other aspects of our platform. Stay tuned as we continue to roll out new capabilities.
+
+Now to software integrity, which had another very solid quarter towards meeting its financial 2021 goal and accelerating growth. Revenue was ahead of plan and every region reflecting strong orders momentum. We're seeing good results from the changes we've made in our go-to-market strategy and execution. In Q2, we added 100 new logos and retention exceeded our targets. The services business was particularly strong and is driving comprehensive service plus product engagements. A great example is an important multimillion dollar new business win with a large transportation company who replaced incumbent products with Synopsys for the end-to-end value we provide. We also launched our channel partner program to expand our reach into geographies and verticals not currently touched through direct sales. The benefits are apparent. For example, we closed a multimillion dollar new adoption in South America, where we didn't have any selling capability six months ago.
+
+On the technology front, we delivered a significant enhancement to our Polaris platform intelligent orchestration. It's a set of processes within Polaris that run parallel to our customer's DevOps pipelines. Intelligent orchestration communicates and automates security testing in synchronization which each company's specific protocol and it's built for easier and efficient integration into their development pipeline. The opportunity in this space is vast, and we're encouraged by the steady progress the team is making.
+
+In summary, we delivered an outstanding Q2 and are raising our outlook for fiscal 2021. Our markets are strong, reflecting extensive customer investments in critical chip and system designs, with an increasing need for safety and security. As we look beyond this year's $4 billion revenue milestone, we see a new era at the intersection of silicon and software that will deliver Smart Everything to all vertical market segments. We see technology challenges that demand the cooperation and teamwork around many complex disciplines, disciplines we are strong in. And we see Synopsys is in the midst of this vision as a well equipped catalyst to our customers and partner success. Finally, I want to recognize the efforts of our global team, who, over the past year and a half, have adapted and succeeded despite upheaval and uncertainty. Thank you all for your solidarity and hard work.
+
+With that, I'll turn it over to Trac.
+
+Trac Pham{BIO 18971098 <GO>}
+Thanks, Aart. Good afternoon, everyone.
+
+As we report another outstanding quarter, let me echo Aart's thanks to our team not only for their dedication, but also for their unwavering focus on innovation to fuel the exciting opportunities we have ahead. We are in a great position as we set our sights on the next level of financial ambitions. On top of a solid foundation of nearly 90% recurring revenue, a diverse and growing customer base and market and technology leadership, our track record of excellent execution continued in Q2. We are increasingly confident in our outlook and are raising our revenue, non-GAAP earnings, non-GAAP operating margin and cash flow guidance for the year.
+
+Now to our second quarter results. All comparisons are year-over-year, unless otherwise stated. We generated total revenue of $1.024 billion, up 19% and above our target range, driven by broad-based strength across product groups and geographies. Semiconductor & System Design segment revenue was $930 million, with strong growth in both EDA, software and hardware and IP. Software Integrity segment revenue was $94 million. The positive orders momentum we saw in the quarter shows that the adjustments we've made in the business are taking hold. We are on track to meet our 2021 expectations of 15% to 20% orders growth and to exit the year with double-digit revenue growth in the fourth quarter. We're on a good path to accelerate revenue growth back to the 15% to 20% range long-term.
+
+Moving on to expenses. Total GAAP cost and expenses were $830 million. Total non-GAAP cost and expenses were $707 million, resulting in a non-GAAP operating margin of 31%. We are on track to again deliver operating margin expansion for the year and are raising the bottom end of our guidance range. Adjusted operating margin for the Semiconductor & System Design segment was 33% and Software Integrity margin was 9%. Finally, GAAP earnings per share were $1.24 and non-GAAP earnings per share were $1.70, well above our target range.
+
+Turning to cash. We generated a record $526 million in operating cash flow. We completed $145 million of stock buybacks, bringing the total for the year to $398 million, and we ended the quarter with a cash balance of $1.46 billion and total debt of $116 million.
+
+Now to guidance. For fiscal 2021, revenue of $4.035 billion to $4.085 billion, an increase of $35 million representing double-digit growth. Total GAAP cost and expenses between $3.241 billion and $3.286 billion. Total non-GAAP cost and expenses between $2.835 and $2.865 billion. A non-GAAP operating margin of 29.5% to 30%. Other income and expenses between minus $5 million and minus $9 million. Non-GAAP normalized tax rate of 16%. GAAP earnings of $4.55 to $4.72 per share. Non-GAAP earnings of $6.38 to $6.45 per share, representing mid-teens growth. Cash flow from operations of $1.25 billion to $1.3 billion. And capital expenditures of approximately $100 million.
+
+Targets for the third quarter. Revenue between $1.03 billion and $1.06 billion. Total GAAP cost and expenses between $807 billion and $825 million. Total non-GAAP costs and expenses between $707 million and $717 million. GAAP earnings of $1.30 to $1.41 per share. And non-GAAP earnings of $1.75 to $1.80 per share.
+
+Our track record is reflective of how we intend to manage the business to exceed the Rule of 40. Based on a vibrant market opportunity, our strong portfolio and our excellent execution, we see an opportunity to accelerate revenue growth, expand non-GAAP operating margin beyond 30%. Our long-term financial objective is to manage to a Rule of 45 over the next several years, and we will provide additional details, once our long-term planning process is complete.
+
+In conclusion, we delivered strong revenue and non-GAAP earnings growth and record operating cash flow. Our strength is broad based across product groups and geographies, and we are raising our guidance for the year. At the same time, we continue to develop and deliver transformative innovations that enable our customers' endeavors and position us well for many years to come.
+
+With that, I'll turn it over to the operator for questions.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question is going to come from the line of Jackson Ader from J.P. Morgan. Please go ahead.
+
+Q - Jackson Ader{BIO 19832434 <GO>}
+Great, thanks for taking my questions. Aart, first one's for you. You talked about that should differentiation by vertical as was a nice tailwind for the company. I'm just curious how do we scale the benefits of those -- I'm sorry, not scale, square and the benefits of those differentiations with the fact that there tends to be more increased IP usage from some of these newer entrants? So I'm just curious with differentiation seeming to lead to more custom design, what does that mean for those IP blocks that get design once and used by many?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Okay. Well, there's two ways to look at this from the perspective of the vertical or from the perspective of the pure semiconductor companies. From the vertical, the first thing that people need to choose is, will they design their own chips, yes or no. And if you take the example of the hyperscalers, some, not all, but some of the automotive companies, the hyperscalers clearly are doing more and more of their own chip design and automotive are either sort of doubling in it or looking at some of their suppliers, the Tier 1s. In all cases, they are doing more chip design and so that is good news for us. And absolutely, you're right, that a lot of that design is done by substantial IP we use, and you saw that our IP business is strong.
+
+Now if you said on the other side of the fence as a semiconductor provider, you look at these customers are each of them has opportunities to take sort of a core architecture and then say, well, how do I take my architecture and do different derivatives that are particularly good for different sub-markets and essentially a reuse some IP or have some that is just necessary for that vertical. And so I think there is no doubt that, therefore, we will see more chips of different type and more design in all cases consumption of IP will continue to grow.
+
+Q - Jackson Ader{BIO 19832434 <GO>}
+Okay. All right. Great, that's helpful. And then, Trac, a quick follow up. I think that cash flow performance was great to see, but it is so much bigger than I think we expected. Was there anything that was pulled forward either -- any deals pulled forward or collection pull forward?
+
+A - Trac Pham{BIO 18971098 <GO>}
+No, not at all. Actually, it's the profile is good because the business is pretty healthy and we're generating, obviously very strong operating margins. The other point to keep in mind is Q2 over the last couple of years will be normally our biggest collections quarter given the profile of renewals and what we end up invoicing at the end of Q1. But it is a combination of both, it's definitely a very healthy business right now.
+
+Q - Jackson Ader{BIO 19832434 <GO>}
+Okay. Helpful. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+All right. You're welcome.
+
+Operator
+Next in, and we're going to go to the line of Tom Diffely from D.A. Davidson. Please go ahead.
+
+Q - Tom Diffely{BIO 3921066 <GO>}
+Yeah. Good afternoon. Trac, first one is for you. When you look at your increased guidance, which was a pretty substantial increase. Is this you're more a factor of passage of time with comfort in your backlog? Or did you actually see an acceleration of business trends during the quarter?
+
+A - Trac Pham{BIO 18971098 <GO>}
+Tom, to answer your question, there is a number of things going on. First part is it where we've got half of the year behind us and the visibility that we have after the business that we booked certainly improves the outlook as our describe the overall markets are very healthy and we're executing well against that. So there is a number of different factors. The backlog, I would translate the increase in backlog to whether the business is healthier not, the backlog increased this quarter as a function of the renewals that we had planned. But overall, the business that we did book saw a very good run rate growth and the growth in our business gave us really strong outlook for the year and confidence in the year.
+
+Q - Tom Diffely{BIO 3921066 <GO>}
+Okay, great. And then Aart, just a broad question for you. When you enter into a market like we have today where there's chip shortages, what is the impact of those shortages on design activity either positive or negative?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Actually, very little impact. There are some people that do take existing chips and decide that they're going to do modification, so that they can get more capacity with and other vendor. People really hate to do that because it's a lot of work and no direct benefit except that if you can ship to a customer that's great, but it takes some time. And so I don't think that that is going to be a particularly strong driver. But the shortages should not be just interpreted I think as a reaction to a market that has been partially asleep during the COVID time and now is obviously catching up and automotive is the best example because the mistake that was made there is they stopped ordering and in the past, they were very powerful and then everybody jumped to when they need something.
+
+Now there was just no capacity left and the reason, there's no capacity left is because all the capacity is used by huge demand period and that's why I'm trying to differentiate a little bit with the temporary demand that comes out of sort of just historical year and a half way versus I think something that is much more profound which is a whole new era of semiconductors impacting verticals and I expect that to continue. And by the way, you can see how many places including countries have decided to substantially increase the capacity. Those increases will take a couple of years to actually have impact, but they do illustrate the direction that our field is taking.
+
+Q - Tom Diffely{BIO 3921066 <GO>}
+Great. And just a quick clarification, did you say you had virtually no impact in India with your --
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, we're dealing like everybody else with a humanitarian situation that is very demanding. We've been able already for a while to rebalance the activities of our employees in such a fashion that to date we have zero material impact or delays in shipping anything or supporting anything. But I expect that for a number of months, India will still be, from a humanitarian point of view, a point of focus where we will give a lot of support to our team.
+
+Q - Tom Diffely{BIO 3921066 <GO>}
+Okay, thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome.
+
+A - Trac Pham{BIO 18971098 <GO>}
+You're welcome.
+
+Operator
+Thank you. Next, we're going to go to the line of Joe Vruwink from Baird. Please go ahead.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Great. Hello, everyone. I maybe wanted to start, new technologies like DSO.ai, SLM, these have been getting called out more regularly over recent quarters. Is there a way to characterize or maybe compare two products in your past and the consequence of these new technologies? Is this just the natural evolution of Synopsys? Or is there something difference and perhaps that's specifically about AI adoption in the industry? But is there something different about these technologies where the ratification later on could be more consequential?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+That's a really interesting question, actually. Let me start with SLM because, what's interesting about SLM is this worth lifecycle, because if you just take a chip and you say, put it a phone or put in a car, we all know which one has the longer lifecycle. And in the case of the car, you have of course safety that's part of it. And so suddenly the ability to put inside of the chip sensors and the diagnostic system that by the way gets trained by AI so that a chip can self diagnose as well and I'm not feeling so good you better start stopping the car, so to speak, is going to be a very high value, maybe even more practical immediately is in cloud centers, where people run compute at the max speed, and they want to know is a certain set of a processor is going to go down, so that I replaced them before it happens. So in essence preventive maintenance. And so in that sense SLM is interesting because we touch these chips literally at the early days of even what are the type of transistors so very minute physics, but now we also have very meaningful interaction with very large companies that are exactly in those verticals I described.
+
+Now DSO.ai, I think, is breakthrough technology and it's always difficult to compare something that we did over 30 years ago. But the early days of synthesis had something similar, which is, it took a set of human tasks, where complexity just was outrunning the human and automated it and overnight, we could do circuits that were better than what a human could do in a fraction of the time, and we're faster and smaller. Now we're talking all of entire chip piece is a very large designs with many, many different constraints and the fact that we can take tasks that take people multiple months and bring them down literally to a few weeks with fewer people and in the last few quarters, even better results, certainly sounds very similar, but to me, it's sort of essentially 30 years later many orders of magnitude more complexity. And I think it fits well the very moment where the semiconductor industry will want to do many more chips for all these verticals. And so, we sometimes the front line of using AI to design AI chips, but that is exactly what this is and it's exciting we're just at the beginning of that, but the impact is already economically felt by the users.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Okay, that's really interesting color. Second question, is there anything about the sequencing by quarter of this particular fiscal year that may be is a bit different than you originally expected? Thinking about things like it was another very strong quarter in China, you occasionally hear about maybe pulling forward some future business and then the way the margin guidance appears to sequence this year. It looks like perhaps 4Q has a bit more incremental cost, maybe that's just higher end related. So I suppose, is there anything that is may be different timing wise or just the sequencing of your quarters? Thanks.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Hey Joe, this is Trac. Overall, the profiling of the quarters is very much close to what we have planned around. I'm actually really happy with the profile this year, given how back-end loaded last year was. Most of the things you described, the revenue pretty linear this year as far as the margin profile that's just a function of hire -- largely a function of hiring throughout the year. But we're pretty pleased with how it is shaping up relative to the plan that we had at the beginning of the year.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Thank you very much.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Thank you, Joe.
+
+Operator
+(Operator Instructions) Next, we're going to go to the line of Gary Mobley from Wells Fargo Securities. Please go ahead.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Hey everybody, thanks taking my question, and congrats on a strong first half of the fiscal year. I see that China was up strong again, and I wanted to ask about, I want to ask your personal view, Aart, and perhaps to get some color from you on the change in geopolitical dynamics between the US and China, seemingly now more so influenced by the broad supply shortage we have in the semiconductor side and this renewed focus on onshoring chip production to the US and I realize that you're not so much aligned to expansion chip production, but I think a lot of these measures that are proposed these builds and whatnot are focused on growing R&D investments as well. So I'm wondering perhaps, if you're starting to see any sort of influence from that in your licensing or what may be in order for you guys looking down the road?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, the first comment is when a market is strong, it typically tends to be strong for everybody and the very fact that even politicians now not only know what a chip is, they may have seen one is certainly encouraging and the fact that nations want to invest more because they think it's strategically important to be close to this whole next age of Smart Everything and AI. I think this is all very encouraging for us. And so while there may be tension between different countries of who does what, the race is on and the fact that the shortages is just accentuated by some of those tensions.
+
+But I think the most interesting part of all of this is that there is gradually now a broader understanding that the whole next wave of human product impact and so on is very, very much linked to the notion of big data intersecting with AI, i.e. smart results. And it's interesting that now even electronics are referred to as infrastructure in the country. Well, all of these words are encouraging because I firmly believe that while it's not going to benefit to all human problems by any means, it has enormous power to evolve all vertical fields. And so I'm not surprised with the degree of attention has gone up, but right now the fact that people want to spend more on R&D or manufacturing capacity, it's all good news for semiconductors.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Appreciate that, Aart. Trac, you mentioned that backlog was up sequentially. I know you haven't filed your Q yet, but specifically what were the remaining performance obligations for the end of the quarter? And related to that, would you expect revenue growth in backlog to trend sort of in line with each other, or would you expect over time to generate a larger percentage of revenue from turns business like emulation and whatnot?
+
+A - Trac Pham{BIO 18971098 <GO>}
+We've made a change or you saw a change in the turns mix largely at the beginning of FY 2019 as a result of the 606 transition. And I would say, for the most part, the business has been relatively stable, and I'll be -- that percentage might move from quarter to quarter depending on their hardware or IP deliveries, but I think we're in pretty good stable level right now. The backlog is up, and we should be filing our Q next week. So you should be able to see the S-1 up. But I think we've disclosed that's about $4.8 billion or north of $4.8 billion.
+
+Q - Gary Mobley{BIO 3768696 <GO>}
+Appreciate it. Thank you.
+
+A - Trac Pham{BIO 18971098 <GO>}
+You're welcome.
+
+Operator
+Thank you. Next, we're going to go to the line of Gal Munda from Berenberg. Please go ahead.
+
+Q - Gal Munda{BIO 18659208 <GO>}
+Yeah. Hi, thanks for taking my questions. The first one is just when I look at your performance in H1 actually, in total, like you said it's really the opposite of what we had last year, when it was very, very back-end loaded. So a nice recovery there, but then also look into Q3 guide, which is very solid, I'm thinking when you look at for the rest of the year, and you have a pretty good visibility now especially into Q3, is it fair to say that if especially some of the hardware orders some other stuff comes in, you could consider the guidance is fairly conservative at this stage? Or do you think that's kind of the fair representation of what you're seeing?
+
+A - Trac Pham{BIO 18971098 <GO>}
+Gal, it's a good question. The profile, we laid out, the quarterly profile we laid out for Q3 and for Q4 is largely a reflection of the revenue recognition profile of IP and hardware. We actually had very good visibility in the second half and that's why we raised the guidance for the full year. At this point, keep in mind, given the new revenue rules, you're going to see some variability from quarter to quarter depending on when hardware or IP is delivered, but there is nothing unusual in the profile in the second half other than that. And actually the business is doing really well.
+
+Q - Gal Munda{BIO 18659208 <GO>}
+Right. Yeah, that makes sense. And yeah, that's what I was thinking. And then the second one, you talk again about double-digit growth for this year now implied in the new guidance last year were virtually at that level as well. How do we think about Synopsys is effectively sustainable double-digit growth company, especially if I'm thinking potentially Software Integrity ramping up, growth a little bit and then start contributing incremental maybe a few bits of growth, right? Is that a profile that you're happy with when you're going to thinking about the mid-term planning?
+
+A - Trac Pham{BIO 18971098 <GO>}
+No. I want to be cautious about getting too specific about the numbers looking forward. But overall, what you're seeing in the results for this year and last year is why we feel really optimistic about the future and why we have communicated our confidence in being able to drive the business towards a Rule of 45 and that's really going to come through a combination really strong revenue growth and margin expansion. So you've touched on a little bit, you're seeing some really good acceleration in the business and as Software Integrity ramps, I think it's back to where we believe it's capable of operating at, that should help the overall mix. But keep in mind, it's only 10% of the business. The overall growth rate is a reflection of how well we're doing in EDA and IP as well.
+
+Q - Gal Munda{BIO 18659208 <GO>}
+Right. That's what I was thinking, right, it's 10% growing, rise to 10 points faster obviously that's a nice contribution. Yeah, thank you. Thanks for taking my questions and congrats again.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Thank you.
+
+A - Trac Pham{BIO 18971098 <GO>}
+You're welcome.
+
+Operator
+Thank you. Next, we're going to go to the line of Jay Vleeschhouwer from Griffin Securities. Please go ahead.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Thank you. Good evening. Aart, let me ask you two related questions regarding the evolution of EDA and your markets. You referred to a new era of EDA and we've heard similar remarks from you and others in the industry for some time now or Silicon, the Renaissance and so forth. The question is how that affects your business profile specifically with respect to services? That is to say as you move into this new era, does this tend to increase the kinds of services and AE support that you necessarily have to provide to encompass or support this new era? And if so, what could be the margin implications of having to provide that incrementally higher degree of support?
+
+Relatedly, with respect to the next generation of chips, the domain specific chips that you've talked about now for actually two or three years. What does that mean during the design process in terms of license consumption? If we think about your model as now or prospectively a kind of consumption model as is often the case in simulation, do you think that the consumption or utilization intensity per design, per run, how would you want to think about it necessarily goes up?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, I think your question brings that up together, everything that we would refer to as systemic complexity, meaning that of course chips continue to be more complex and bigger and more transistors, but I've been there done that and by the way, that will continue for a while. What makes systemic complexity interesting is that you get multiple players intersecting. So you have companies that are sitting on these verticals that are highly interested in knowing how the chips will actually work because they write their own software for example, and vice versa, the people providing to chips are really interested, so what software does this car manufacturer really want to run on it that has to be really fast so that I can change the architecture of my trip to accommodate that.
+
+And our role is interestingly broadened because we are sitting at the intersection of all of that, and you may recall that a number of years ago under our logo, we literally put silicon to software. Well, that was essentially to summary at that time of this vision that there is a continuum that ultimately brings the power of chips to end users that are not really interested in chips, except that they need them to get smart outcomes. And so, when you move into that space, it's not so much that support is increasing, but the new service opportunities as a number of the new players initially may not know so much about these domains, but they know a lot about their opportunity space and helping them connect is an opportunity that will continue to grow for us, and we will certainly be able to manage it so that including with the tools, the profitability will be very reasonable or even good.
+
+The second part of your question, which ties directly to this is this notion of domain specific. And if I can take one example that is well understood and yet in its infancy is automotive. And as you know, a number of years ago, a car started to think about this whole notion of autonomous driving or at least at the beginning defensive driving and chip manufacturers Zio quickly figured out that there may be a long-term big opportunity there, except automotive guys also have rules such as safety rules, and they've had those for a long, long time, some are simple, some are becoming very complex and certainly what does it mean.
+
+Well, it means for companies such as Synopsys that we have a whole effort on the IP side and on the tool side to build in what's called fuse our functional safety. And this is partially mandated by the automotive guys, partially it is being developed on the fly with the complexity and so these are great opportunities for us, because our IP collection we must have invested in functional safety, therefore, five over six years, enormous amount of effort with now that we have that, it's a great differentiation and so I see our role to be very much a catalyst in the middle of these different factions that we all understand, and I think there will be more and more verticals that will engage similarly at high speed and the race is on.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Okay. Thank you, Aart.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome, Jay.
+
+Operator
+Next, we're going to go to line of John Pitzer from Credit Suisse. Please go ahead.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Yeah. Good afternoon, guys. Thanks for letting me ask the question, congratulations on the solid results. Trac, this question was asked a little bit earlier, but maybe I can ask it in a less politically correct way. I mean despite the beat in the race, this is the quarter where the full year guide gives us some insight into the last quarter as well. And relative to that full year guide, you're embedding a pretty meaningful deceleration, if not in top line in EPS. Is this nothing more than normal conservatism? Or are you really trying to signal that there's something bottoms up that just makes Q4 a little bit softer this year that it might have been in other years?
+
+A - Trac Pham{BIO 18971098 <GO>}
+No, not at all. We don't see any deceleration in the business at all. And in fact, it's quite the reverse. We feel really good about the momentum we have in the business and that's reflected in the full year guide. We've always cautioned that the quarter-on-quarter profile is going to move depending on where the profile of revenue is. And from a revenue perspective, I'm actually really pleased with how linear it is this year and the fact that we're able to get almost half the business booked in the first half of the year, so it's a great profile with really good visibility.
+
+We continue to ramp up hire in the second half as you are going to see the expense profile go up. But as we're ramping up hiring in the second half, we're mindful of the trajectory and what's implied for our ability to continue to drive margin expansion over time. So we're very cognizant of that. But no, there is nothing unusual in the profile, and I would characterize it as the deceleration at all. I think right now, when you look at the year-over-year comparison, just keep in mind that last year was unusually back-end loaded. So it's going to skew the comparisons particularly in the second half.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+That's helpful. And then, Aart, I want to go back to an earlier question about sort of the regionalization or domestication of semiconductor production. It's a clear the benefit to the equipment ecosystem, but I'm trying to get a better understanding of what it means to the EDA ecosystem as existing foundries move from region to region, is there sort of redundant or duplicative spend on the EDA? Question number one. And question number two, there is a one big guy out there that's trying to reemerge as a foundry business from just an IDM. How does the EDA spend conceptionally trend as they try to do that?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yeah. Good question. So we touch manufacturing a little bit, because we have a number of tools that are designed specifically under the topic of silicon engineering to help optimize circuitry and chips for manufacturing efficiency and yield. But you're absolutely right that most of the investments on sheer capacity don't touch us so much, except as people want to enter the business such as be in a foundry or go after specific segments of the market that they didn't go before. They are certainly our tools matter a great deal to help them get there. In general though, when volume increases, with this also the number of designs increases. And so the advances in sheer silicon technology and the number of designs are actually very positive at this point in time. And the fact that more people want to be in the manufacturing means that more people are also into the investment of R&D around the field. So at this point I think it's positive.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+And then, Aart, if I could just take one more in, one thing that's kind of unique about this current semiconductor cycle is how tight trailing capacity is right now and I'm just kind of curious, are you seeing any evidence that perhaps design activity on the trailing edge is picking up as customers are using some of this tightness in the near term to try to rethink about moving down node with -- the line with maybe a faster rate than they've historically seen? Or how do you see kind of the TAM for that trailing edge market over the next several years?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, it's an excellent question because some of the trailing edge manufacturing equipment is already gone up in terms of pricing as people try to get capacity wherever they can. But the other comments would be different foundries are also focusing on different type nodes, some focus mostly on the most advanced nodes, other would be sort of in the middle field and then the truly older trailing edge nodes, they are typically limited by the amount of capacity at 200 millimeter wafers.
+
+What is interesting in the notes that are maybe not the leading edge, but let's say, three, four years behind that, there the application of the newer tools that we have actually has a lot of impact on those two, because newer tools for older nodes still means a lot better design out of these older nodes. And so it actually gives them a bit of a second life from an efficiency point of view. And as you said, if people can do really well with nodes that have been well honed where the yield is high, the cost equation is very attractive. And we see, for example, one of our most advanced tool, Fusion Compiler, going back to older nodes with some of our customers with great delight.
+
+Operator
+Thank you. Next, we'll go to the line of Jason Celino from KeyBanc Capital Markets. Please go ahead.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Great. Aart, Trac, thanks for taking my questions. It seems like a pretty good demand environment for emulation and prototyping, just across the board. But in the past, we've seen some customer gravitate towards the latest and greatest product here. One, is that still the case? And then two, if that is still the case, how does the new improvements for the ZeBu EP1 compared some of the other announcements in the market? Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome. So clearly, emulation prototyping is increasing in value and importance in some parts of the tasks and especially for us in the tasks that have to do at this intersection of hardware and software. And there is no question whatsoever, that is an area that will continue to grow. And we had mentioned in earlier conversation, specialties for certain verticals, it's interesting that these are capabilities, prototyping that are of high interest in the automotive space, for example, because they start working on the software, many, many years before a car is even fully conceived and so being able to accelerate all of that is of high importance.
+
+Now underneath that, there is invariably, always the same demand, which is make it faster, make it faster and that is what emulation prototyping is all about.
+
+But it's also give it larger capacity and it's also are there certain tasks that you would like to accelerate such as the question of well, if I write my software this way, how much power is it's going to consume versus if I write it differently, will I be able to do better. Well, those are specialty questions that we now are increasingly answering using emulation and prototyping. On top of that, we own the most advanced chips inside of our machines that are available and so this ability to specialize and optimize for specific applications turns out to be extremely valuable, and we're doing very, very well with that.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay, great. That's it from me. Thanks.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome.
+
+Operator
+Next, we'll go to the line of Vivek Arya from Bank of America Securities. Please go ahead.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my questions. I had two as well. The first one also about the growth in the business. Aart, you mentioned a fair bit of improving engagement verticals such as autos coming back up. But when I look at your full year growth outlook of about 10%, it's about the same growth that you did in the last fiscal year. So my question is a more conceptual one, why aren't your sales accelerating when semiconductor designs are getting more complex? And when I look at the implied Q4 sales, they are basically flat year-on-year. So even if I ignore the quarter-to-quarter of visibility or volatility, the full year sales are about the same level of growth as last year. Why aren't you seeing an acceleration in your sales growth?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, the acceleration tends to come after the orders play themselves out through a multiyear ratable revenue recognition so on. The other thing is actually right now I think we just increased our projection for you for the or guidance, I should say, towards the end of the year with a high degree of confidence that it is well on track. So we'll have to see where we ultimately land. But there is no doubt that our objective is to move beyond the single digits to higher. We have just not changed our guidance at this point in time, and we will do that as we enter next year. But the message you should take away from everything we're saying is that, right now, we feel that we have great opportunity to grow very well.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Vivek, this is Trac. I really want to caution you about looking at Q4, because remember, last year Q4 was extraordinarily high because of the schedule of hardware and IP in Q4. And so that comparison is not going to be -- that comparison in Q4 is not a good indicator of the momentum of the business.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Got it. And the next one is, I'm curious, what's your level of exposure to all the AI start-ups? And do you see any kind of rationalization or shake out in the number of start-ups because in previous calls, Aart, you had mentioned on the systems companies doing a fair bit of their own AI work especially the hyperscalers and then we have the large incumbents such as NVIDIA and others. Do you think that the industry can really afford to have so many smaller players going after this market when the cost of staying in semi is so high? So the basic question is that, what is your exposure to all the work that's being done by these AI starters? And then do you see any kind of rationalization in that? Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, we exposed extremely broadly to many, many, many AI companies. And yes, it is true that maybe a little bit of a caricature every single one of them is designing the best ever AI chip. And on one hand, you can say well, that will consolidate over time. On the other hand, you can say, no this is exactly the behavior that you see in a very high promise early phase of a product or technology development. And there is no doubt that a number of the more successful AI companies have already been acquired by larger companies and lo and behold, two years later, you'll sign some of the same people doing the next one. And so, I think we're in an extremely active phase of invention, development, finding end markets and then over time, we will also see that the AI itself is going to become more and more specialized to the verticals. So yeah, there will be consolidation at some point in time, but the number of designers remains, it's certainly not declining when that happens, and we have actually done very well through exactly these type of phases where there's a lot of activity.
+
+Operator
+Thank you. And then our final question is going to come from the line of Pradeep Ramani from UBS. Please go ahead.
+
+Q - Pradeep Ramani{BIO 19683324 <GO>}
+Hey, thanks for taking my question. I've had a couple. First on China, is the right way sort of to think about China as being contributing to roughly 12% to 13% of your revenues in the back half? Or do you see any sort of deceleration in the back half? I mean the comps are probably getting harder, but I just wanted a clarification more on all as we can think about China? And I have a follow-up after that.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Hi Pradeep, this is Trac. China continues to do very well for us. And while we disclose China as a separate country, we don't guide to that or comment on the outlook by country.
+
+Q - Pradeep Ramani{BIO 19683324 <GO>}
+Okay. And for my follow-up, I guess with respect to the Rule of 45, I mean this year, you're going to be very close to 40 and your semi's margins are sort of already, I mean this quarter were 33%. How can we think about sort of just the sustainability of the margins in semis not just in the back half, but longer term, within the 45%, the Rule of 45 framework?
+
+A - Trac Pham{BIO 18971098 <GO>}
+Okay. Let me try to explain this way. Overall, we do see an opportunity to improve margins across the entire business, really for us to drive the Rule of 45, it really is going to require everyone to contribute and keep in mind that semi business does represent 90% of the overall mix. And so that's going to contribute. But I would circle back to the fact that it started to grow the reason why we do feel good about our ability to drive margins up in all areas of the business that we're seeing really strong growth in the business and that's going to help us effectively get more operating leverage and, therefore, drive margins up.
+
+Q - Pradeep Ramani{BIO 19683324 <GO>}
+Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+If I can add to that, fundamentally, we said our objective on the Rule of 40, we're obviously in striking distance to meet that, we even whisper to you the Rule of 45 and that's obviously because that's forthcoming next, where I think we are reasonably well disciplined to make sure that, as Trac said, we focus on growth, while increasing ops margin and the two support each other. So if nothing else out of this earnings release, you should take away that I think we're well on track with our own plans and that everything we've communicated to you for the last few years, we're executing on.
+
+I assume that this means that the meeting is over. In any case, thank you so much for participating today. And we hope that you and your family stay safe, as hopefully whoever is moving to rapid vaccination, do well.

@@ -1,0 +1,331 @@
+Q3 2024 Earnings Call
+Company Participants
+Brandon Lamm, Senior Manager, Investor Relations
+Dave Rosa, President
+Gary S. Guthart, Chief Executive Officer
+Jamie Samath, Chief Financial Officer
+Other Participants
+Adam Maeder, Piper Sandler & Co.
+Brandon Vazquez, William Blair
+David Roman, Goldman Sachs
+Larry Biegelsen, Wells Fargo Securities, LLC
+Matthew Miksic, Barclays
+Rick Wise, Stifel Nicolaus
+Robbie Marcus, J.P. Morgan
+Travis Steed, Bank of America
+Presentation
+Operator
+Thank you, everyone, for standing by, and welcome to the Intuitive Third Quarter 2024 Earnings Release.
+
+Now, at this time, all participants are on a listen-only mode. Later, we will conduct a question-and-answer session. (Operator Instructions).
+
+I will now turn the conference over to your host, Brandon Lamm, with Investor Relations for Intuitive. Please go ahead.
+
+Brandon Lamm{BIO 22346349 <GO>}
+Good afternoon, and welcome to Intuitive's third quarter earnings conference call.
+
+With me today, we have Gary Guthart, our CEO; Dave Rosa, our President; and Jamie Samath, our CFO.
+
+Before we begin, I would like to let you know that Brian King has moved on to pursue his next opportunity. We appreciate his contributions over the past nine years and wish him well in his next endeavor. A search for his replacement is in progress.
+
+Moving on, I would like to inform you that comments mentioned on today's call may be deemed to contain forward-looking statements. Actual results may differ materially from those expressed or implied as a result of certain risks and uncertainties. These risks and uncertainties are described in detail in our Securities and Exchange Commission filings, including our most recent Form 10-K, where the fiscal year ended December 31, 2023, and subsequent filings. Our SEC filings can be found through our website or at the SEC's website. Investors are cautioned not to place undue reliance on such forward-looking statements.
+
+Please note that this conference call will be available for audio replay on our website at Intuitive.com on the Events section under our Investor Relations page. Today's press release and supplementary financial data tables have been posted to our website.
+
+Today's format will consist of providing you with highlights of our third quarter results as described in our press release announced earlier today, followed by a question-and-answer session. Gary will introduce the call and provide a business overview. Dave will present the quarter's business, operational, and clinical highlights. Jamie will provide a review of our financial results and procedure highlights. Then I will provide our updated financial outlook for 2024, and, finally, we will host a question-and-answer session.
+
+With that, I'll turn it over to Gary.
+
+Gary S. Guthart{BIO 3429541 <GO>}
+Thank you for joining us today. Q3 of 2024 was a good quarter for us, with healthy procedure growth, solid capital placements, and strong operational execution in a dynamic global environment. I'll kick off by providing a perspective on our platforms and our regions.
+
+Starting with our multi-port system, we now have an install base of roughly 9,300 globally. Our five-year procedure compound annual growth rate in multi-port has been 17%, with approximately 16 million total patients treated using Da Vinci multi-port platforms, of which approximately 10 million were in the past five years. Manufacturing, logistics, and service capability has increased over the past several years, helping assure availability for our customers while managing margins.
+
+System stability taken across our multi-port product lines has been outstanding, setting a standard for dependability. We launched our fifth-generation multi-port system in March this year and have installed 188 today, with over 12,000 procedures completed using Da Vinci 5 in roughly six months. Da Vinci 5 is bringing outstanding improvements for surgeons, care teams, and hospitals, in addition to first-of-their-kind features that we think will improve patient outcomes. We're moving towards our broad launch and are well into the process of securing additional global regulatory clearances for Da Vinci 5, which you'll hear about later in the call.
+
+Turning to our endoluminal system, we launched Ion in Q3 of 2019. Today, the Ion install base is 736, of which 722 are in the United States. Physicians have completed more than 150,000 lung biopsies using Ion to date, each one of which uses a machine-learning-created, anatomically-segmented lung model based on the patient-specific anatomy, personalized digital intervention for every case. Our five-year compound annual growth rate for Ion procedures has been 205%. There are over 100 peer-reviewed articles assessing Ion.
+
+Overall safety and accuracy data has been outstanding. Over the past year, we have focused on excellence in product quality, product availability, and customer experience. We have updated Ion with significant feature and software upgrades five times since its launch and have made dozens of improvements to our catheters and vision probes.
+
+Over the next two years, we'll expand our efforts to place systems beyond the United States, to continue system and software innovation, to increase utilization in existing U.S. accounts and in continued pursuit of additional indication. We launched Da Vinci SP in Q3 of 2018, and the install base now stands at 243. SP procedures have been growing at a five-year CAGR of 55%, with 67,000 total procedures completed to date. We've seen strong SP performance in Korea, encouraging early growth in Europe and Japan, and have increased our cadence of regulatory activity globally to broaden its applicability.
+
+The SP clinical evidence base stands at over 500 peer-reviewed journal articles. SP has found stronger uptake outside the United States, as clinical indications in Europe, Japan, Korea, and now Taiwan, are broader than the U.S. Our SP team is focused on extending our instrument lineup, including stapling and advanced energy, on increasing indications in the U.S., on enabling proctoring networks in global markets, and on next-generation SP system innovation.
+
+In our digital efforts, nearly 3,000 Da Vinci virtual reality simulators are in the install base, and surgeons complete approximately 15,000 hours of training on simulators per quarter. Our active surgeon users for My Intuitive app now exceed 14,000. Intuitive Hub is enabled in approximately 2,000 operating rooms. We have performed our analytics program, Custom Hospital Analytics, over 4,000 times and at a run rate of several hundred per quarter.
+
+Our digital team is focused on three enabling pillars, digital tools that improve outcomes in the EOR and interventional suite, tools that help create better care teams faster, and tools that drive efficiencies and lower total cost of ownership, all while pursuing outstanding capabilities in cybersecurity and data privacy. Dave will touch on our digital progress shortly.
+
+Regionally, we have been investing to build balanced country and regional teams that allow us to serve customers globally with high-quality interactions. These include commercial activity, payer engagement, R&D, logistics, and production capabilities in region. This has been a multiyear effort that has increased customer satisfaction and strengthened our global capability. Our five-year compound annual growth rate for procedures in the Europe region has been 21%. In the Asia region, our five-year procedure CAGR has been 25%, and other markets outside the U.S., it has been 18%.
+
+Reimbursement coverage for robot-assisted surgery has been obtained or expanded for dozens of procedures in many of the countries we serve. That said, we're still relatively early in our opportunity to localize our capabilities to serve more patients around the world. Overall, our teams have been strengthening our ability to serve our customers globally at industrial scale, expanding the applicability of robot-assisted surgery and other interventions by pursuing new platforms, products and services, and obtaining new clinical indications.
+
+We've also been strengthening our digital ecosystem to support our customers and our company with high-quality data and insight. The opportunity to improve outcomes for patients and our customers' Quintuple Aim through advanced technology ecosystems like ours is bigger than ever, and we are focused on disciplined execution to get there.
+
+I'll now turn the time over to Dave to take you through clinical, R&D, and operational updates.
+
+Dave Rosa{BIO 16629873 <GO>}
+Thank you, Gary.
+
+Starting with procedures, Da Vinci procedure growth in the quarter was 18%, aided by an additional business day relative to Q3 2023. Growth again centered on general surgery in the U.S. with accretive contributions to the global growth rate from Japan, Germany, France, and the U.K. In Asia, we have mixed market conditions, largely consistent with the first half of the year. Jamie will describe these dynamics later in the call.
+
+Turning to capital, we placed 379 Da Vinci systems in the quarter, including 110 Da Vinci 5 systems and 21 SP systems. We also installed 58 Ion systems in the quarter. Capital placements were solid in the U.S., Japan, India, and our distribution markets, and capital pressure in Europe and China continued. System utilization, defined as procedures per installed clinical system per quarter, grew 4% globally year-over-year for our multi-port platforms, 9% for SP, and 11% for Ion.
+
+Turning to our finances, revenue grew 17% in the quarter, and spending was within our expectations. Our spending reflects investment in research and development to support the growth of our platforms and digital tools, expansion of our manufacturing facilities, and planned leverage from our enabling functions. Jamie will take you through our finances in greater detail later in the call.
+
+In Q3, we continued our measured rollout of Da Vinci 5, placing 110 systems. As the launch progresses in line with our plans, we are encouraged by broad use of the platform across specialties, with customers expressing a preference for Da Vinci 5. Last month, about 1,200 healthcare professionals gathered at our annual user conference, Intuitive 360, to highlight various aspects of their robotic programs.
+
+Customers have completed over 12,000 cases with Da Vinci 5, and several presented their early-case data around efficiency and Force Feedback. A number of customers have reported console time savings when comparing Da Vinci 5 to Xi. And we look forward to broader analyses as more data becomes available. For Force Feedback, Dr.Laila Rashidi from MultiCare Health in Tacoma, a leading voice on gentler surgery and its impact on recovery for her colorectal patients, described her results. Even with her focus on managing surgical forces, Dr.Rashidi's initial cases with Da Vinci 5 show a further reduction in force of about 20% when Force Feedback is used.
+
+Force Feedback is a complex technology that we have been pursuing for more than two decades, and it stems from a belief that less force on tissue can lead to improved patient experiences. We also believe Force Feedback may accelerate learning for care teams, and we will continue to study the use of Force Feedback with our customers. We expect more publications over the coming quarters, and our teams continue working hard to improve product margin and increase supply of Force Feedback instruments. As we have said before, maturing these insights will take time.
+
+Turning to our digital efforts, we believe that digital innovations on our Da Vinci and Ion platforms can extract unique clinical and operational insights. Coupled with electronic medical record data, these insights should become a core part of improving outcomes, learning, and efficiencies in the future. To-date, we have data from millions of procedures that enable customers to review operational metrics, such as instruments used, procedure duration, and more.
+
+In addition, hundreds of thousands of these cases are connected to corresponding de-identified electronic medical records, enabling certain clinical and operational hypotheses to be tested. Case Insights is our new analytical tool in My Intuitive that will add kinematic, Force Feedback, and video data to physicians' post-operative case reports, further enabling analyses to identify a connection between Da Vinci system data and clinical or operational outcomes. We are at the early stages of innovative technology we believe will be powerful, but it will require rapid cycles of innovation and take time to build validated data sets.
+
+In Q3, we submitted our CE technical file in Europe. Last week, we received clearance for Da Vinci 5 in Korea, and are back and forth in the regulatory process in Japan. This quarter, we began shipping our Da Vinci 5 broad launch hardware and completed a software update that addresses aspects of early customer feedback. We are driving toward broad launch mid-year of 2025, when we expect to be at scale in our manufacturing operations, and we'll have released a software update enabling the integrated hub and simulator, along with various digital and imaging features.
+
+Moving to instruments and accessories, in Q3, we obtained 510(k) clearance for our 8-millimeter SureForm 30 stapler, expanding our advanced instrument portfolio of SureForm staplers that currently includes 12-millimeter versions of 60, 45, and 30 millimeter lengths. 8-millimeter SureForm 30 is primarily used in cases, where the decreased diameter enables surgeons to better visualize and access tissue in tight spaces, as often seen in thoracic or kidney procedures.
+
+We are starting our commercial journey in China with Ion, where we placed two systems and saw physicians perform their first cases. We will begin working with a number of medical centers to collect data that will inform our broader commercialization strategy in the country. In Europe, our early launch expanded into Germany and Italy.
+
+Turning to SP, in the quarter, we received clearance with broad indications in Taiwan, similar to Korea, Japan, and Europe. We also completed a U.S. 510(k) submission for a colorectal indication. Commercialization in Europe continues according to plan, and we're encouraged by early customer interest for SP.
+
+Now, I'd like to share with you some recently published peer review literature that we found to be notable. In addition to the specific data highlighted on this call, we encourage you to consider the wide body of evidence detailing these topics in published scientific studies over the years. In August, at the 2024 American Association for Bronchology and Interventional Pulmonology Annual Conference, Dr.Bryan Husta from Memorial Sloan Kettering Cancer Center, presented results from the CONFIRM study.
+
+CONFIRM is a prospective multi-center study evaluating outcomes from the integrated Ion endoluminal system and mobile cone-beam CT in the biopsy of pulmonary nodules less than 2 centimeters in size. 155 patients from six centers throughout the U.S. were involved. With a median nodule size of 14 millimeters, the integrated platform enabled a tool and nodule rate of 99.4% with a diagnostic yield of 90% and zero pneumothorax observed. Subgroup analysis demonstrated consistent results across all centers. With high diagnostic yields observed regardless of nodule size, location, or presence of CT bronchus sign.
+
+The presented conclusion noted, "Integrated shape-sensing robotic-assisted bronchoscopy and mobile cone-beam CT demonstrated a high diagnostic yield and excelled the safety for small complex nodules with reproducible results across physicians and institutions. These results suggested that integrated platform may be able to compete with the trans-thoracic biopsy approach in small nodules."
+
+Earlier this year, Dr.Maegawa from the Department of Surgery at Emory University in Atlanta, Georgia, published in the journal Surgery, a study comparing robotic and laparoscopic cholecystectomy procedures for benign indications performed in 2022. Using the American College of Surgeons' National Surgical Quality Improvement Program database, over 59,000 patients were included in this study, with over 53,000 in the laparoscopic arm and approximately 5,500 in the robotic-assisted arm.
+
+Through a multivariable logistic regression analysis, which controlled for confounding factors, patients undergoing a robotic-assisted cholecystectomy had an 18% lower chance of experiencing a serious complication, as well as a 56% lower chance of a conversion to open, and 24% lower risk of requiring hospitalization for more than 24 hours. The authors also looked at elective cholecystectomies only and reported a 46% lower chance of conversion to open, 59% lower chance of reoperation, and 30% lower odds of hospitalization over 24 hours associated with robotic-assisted cholecystectomies.
+
+The authors concluded, "Using a large and recent national surgical database, the study showed that overall robotic cholecystectomies were independently associated with a lower risk of serious complications, lower rate of conversions to open, and lower risk of hospitalization greater than 24 hours when compared to laparoscopy. These findings suggest that the adoption of new technologies might enhance the safety of minimally invasive surgery in selected cases."
+
+In closing, we are committed to our 2024 priorities. Supporting our measured launch of Da Vinci 5 and our other new platforms by region, supporting surgeons' adoption of focus procedures, continuing to improve product quality and margins, and finally improving productivity in those functions that benefit from global scale.
+
+I'll now turn the time over to Jamie, who will take you through our finances and procedure highlights in greater detail.
+
+Jamie Samath{BIO 7313010 <GO>}
+Good afternoon. I will describe the highlights of our performance on a non-GAAP or pro forma basis, and we'll also summarize our GAAP performance later in my prepared remarks. A reconciliation between our pro forma and GAAP results is posted on our website.
+
+Core metrics continue to be strong in Q3, with Da Vinci procedure growth of 18%, installed base growth of Da Vinci systems of 15%, and overall Da Vinci system utilization up 3%. Procedure growth in Q3 benefited from a higher number of business days compared to the year-ago period. On a day-adjusted basis, Q3 procedure growth was 17%. U.S. procedures grew 16%, driven by growth in benign general surgery. On a day-adjusted basis, bariatrics procedures in the U.S. declined in the mid-single-digit range similar to last quarter.
+
+OUS procedures grew 24%, reflecting strong growth in general surgery, gynecology, and thoracic procedures. Within our OUS markets, growth was strong in the U.K. and India and solid in Japan, Germany, France, and Italy. Procedure growth in South Korea improved from the prior quarter, but was still below longer-term historical trends given the ongoing physician strike. In China, procedure growth was below the corporate average given recent system placement trends reflecting several market dynamics that we have previously described and domestic robotic competition.
+
+With respect to capital performance, we placed 379 systems in the third quarter compared with 312 systems in Q3 of last year. In the U.S., we placed 219 systems in quarter three compared to 159 systems placed in Q3 of last year. U.S. system placements in the quarter included 110 Da Vinci 5 placements.
+
+As supply of Da Vinci 5 increases and we move into broad launch mid-next year, we expect that placements in the U.S. will progressively shift toward trade-ins. Outside the U.S., we placed 160 systems in quarter three compared with 153 systems last year. Excluding trade-in transactions, net new system placements in OUS markets increased 28% year-over-year. Q3 system placements included 65 into Europe, 39 into Japan, and 14 into China compared with 60 into Europe, 32 into Japan, and 10 into China in quarter three of last year. Placements in Europe continue to be challenged by ongoing government budget pressures impacting healthcare capital spending.
+
+Third quarter revenue was $2 billion, an increase of 17% from last year, driven by Da Vinci procedure growth, expansion of the Da Vinci installed base, and growth in our Ion business. On a constant currency basis, revenue growth was also 17%.
+
+Additional revenue statistics and trends are as follows. Leasing represented 58% of Q3 placements, higher than recent periods, reflecting relative capital strength in the U.S., where a much greater proportion of our customers prefer to lease systems. Q3 system average selling prices were $1.51 million as compared to $1.4 million last year. Higher year-over-year system ASPs reflected a higher mix of Da Vinci 5 and a lower mix of trade-ins. We recognized $24 million of lease buyout revenue in quarter three compared with $28 million last quarter, and $17 million last year.
+
+Da Vinci instrument and accessory revenue per procedure was approximately $1,800, flat to the prior quarter and lower than last year's $1,830. The year-over-year decline in I&A per procedure was primarily driven by a lower mix of bariatrics procedures and a higher mix of procedures in markets served by distributors.
+
+Turning to our Ion platform, procedures grew 73% to approximately 25,000 procedures in the third quarter. In Q3, we placed 58 Ion systems compared to 55 last year and 74 last quarter.
+
+As a reminder, first half Ion placements reflected a catch-up of backlog as supply of catheters and vision probes improved. Q3 Ion system placements included three placements in Europe and our first two placements in China. The installed base of Ion systems increased 50% year-over-year to 736 systems, of which 296 are under operating lease arrangements. Third quarter SP procedure growth was 70%, with strong multi-specialty growth in Korea, strong growth in the U.S., and early-stage growth in Japan and Europe. 21 of the systems placed in the quarter were SP systems, of which 15 placements were in OUS markets. The SP installed base grew 54% from the year-ago quarter to 243 systems.
+
+Moving on to the rest of the P&L, pro forma gross margin for the third quarter of 2024 was 69.1% compared with 68.8% for the third quarter of 2023 and 70% last quarter. The year-over-year improvement in pro forma gross margin primarily reflects leverage of fixed overhead, lower component costs, and lower logistics costs partially offset by higher inventory reserves.
+
+During the quarter we opened our new system manufacturing facility at our East Coast hub in Peachtree Corners, Georgia, commencing production of X and Xi systems at that site. We also opened our new Global Capability Center in Bangalore, India, where we are co-locating our local commercial and training teams, and the Global Center for IT and other shared service resources. As a reminder, given recent and ongoing capital investments, we expect a significant increase in depreciation expense in 2025 as we bring online additional facilities.
+
+Third quarter pro forma operating expenses increased 13% compared with last year, driven by higher headcount, increased legal expenses, and higher customer-facing activities. Consistent with the last couple of years, we have held pro forma R&D expenses at roughly 11% of revenue, given our prioritization of investments in innovation that drive the Quintuple Aim and our growth. SG&A expenses continue to leverage as we benefit from prior investments that allow us to scale efficiently with growth. During the quarter, we added approximately 670 employees, of which just over half were in our high-volume I&A manufacturing facility in Mexicali to support procedure growth.
+
+On a year-to-date basis, through Q3 2024, pro forma operating margin was 36% of revenue, an increase of 184 basis points compared to the same period in 2023, driven by higher gross margin and leverage of SG&A expenses. As a result of revenue growth and higher operating margins, on a year-to-date basis, pro forma EPS increased 25% from the prior year. Pro forma other income was $94.6 million for Q3, higher than $79.4 million in the prior quarter, primarily due to higher interest income.
+
+Given the interest rate environment, we expect that the average interest yield on our cash and investments will decline going into 2025. Our pro forma effective tax rate for the third quarter was 20.5%, reflecting discrete benefits of approximately $12 million, primarily relating to the expiration of statutory limitations for certain tax reserves and an adjustment to our deferred tax assets. Third quarter 2024 pro forma net income was $669 million, or $1.84 per share, compared with $524 million, or $1.46 per share, for the third quarter of last year.
+
+I will now summarize our GAAP results. GAAP net income was $565 million, or $1.56 per share, for the third quarter of 2024, compared with GAAP net income of $416 million, or $1.16 per share, for the third quarter of 2023. The adjustments between pro forma and GAAP net income are outlined and quantified on our website and include excess tax benefits associated with employee equity plans, employee stock-based compensation, amortization of intangibles, litigation charges, and gains and losses on strategic investments. We ended Q3 with cash and investments of $8.3 billion, higher than the $7.7 billion we ended last quarter. The sequential increase in cash and investments reflected cash generated from operating activities partially offset by capital expenditures of $248 million.
+
+With that, I would like to turn it over to Brandon to discuss our updated outlook.
+
+Brandon Lamm{BIO 22346349 <GO>}
+Thank you, Jamie.
+
+I will now turn to our financial outlook for 2024. Starting with procedures, on our last call, we forecasted full year 2024 procedure growth within a range of 15.5% and 17%. We are now raising the low end from 15.5% to 16% and expect full year 2024 procedure growth within a range of 16% and 17%.
+
+The low end of the range assumes further softening in bariatric procedures along with increasing headwinds in Asia from physician strikes in Korea and from delayed tenders in domestic robotic systems in China, impacting capital placements and therefore procedure growth. At the high end of the range, we assume bariatric stabilizes at current quarter growth rates and headwinds in Korea and China do not get worse. The range does not reflect significant impact to elective procedures as a result of IV shortages or other hurricane-related impacts.
+
+Turning to gross profit, we continue to expect pro forma gross profit margin to be within a range of 68.5% and 69% of net revenue. Our actual gross profit margin will vary quarter to quarter depending largely on product, regional, and trade-in mix and the impact of new product introductions.
+
+Turning to operating expenses, on our last call, we forecasted full year 2024 pro forma operating expense growth to be within a range of 10% and 13%. We are now lowering the high end of our estimate and expect full year 2024 pro forma operating expense growth to be within a range of 10% and 12%.
+
+We expect non-cash stock compensation expense to range between $670 million and $690 million in 2024. We are increasing our estimate for other income, which is comprised mostly of interest income, to total between $325 million and $345 million in 2024. With regard to capital expenditures, we continue to estimate a range of $1 billion to $1.2 billion primarily for planned facility construction activities. With regard to income tax, we expect the pro forma income tax rate for 2024 to be within a range of 22% and 23% of pre-tax income.
+
+That concludes our prepared comments. We will now open the call to your questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. (Operator Instructions).
+
+And we'll go to the first question in queue: Travis Steed, Bank of America. Please go ahead.
+
+Q - Travis Steed{BIO 18228465 <GO>}
+Maybe just a little more on thinking about the DV5 ramp between now and the mid-2025 broad launch, do you expect to make any more upgrades or add software? And I'd love to dig in a little bit on the customer reactions to some of the contribution margin benefits. Contribution margin benefits of DV5, kind of what you're seeing there on the early data and the hospital CFOs are resonating with some of that early profitable data for DV5.
+
+A - Dave Rosa{BIO 16629873 <GO>}
+Hey, Travis. This is Dave. I will answer some of your questions around kind of where are we going from here to broad launch. So, in terms of software updates, we'll continue to make them as they're scheduled in our plans, and you'll see those come out on a semi-routine basis. We have -- to get to broad launch as described in my comments, we have a release that will enable some of that hardware and some additional software features in that broad launch time frame. For the supply side of DV5, we expect that to increase modestly quarter-over-quarter as we get into next year and into broad launch.
+
+On the contribution margin side, maybe Jamie, to you.
+
+A - Jamie Samath{BIO 7313010 <GO>}
+Yes. I just say that obviously there was a publication in one of the executive publications that we assisted with. It was illustrative in terms of the contribution margin gains that an institution might get given what we're seeing with respect to efficiency. We have a number of early surgeons that are KOLs that have sophistication in terms of use of Da Vinci that are reporting improvements in console time, and that allows for both efficiency in the given procedure and perhaps the opportunity to have higher throughput on the platform, and I think that's part of the conversation with administration.
+
+I'd say that's early, and I think we look to collect evidence and validation as we get into the broad launch, but early feedback from a number of our surgeons has been focused on the efficiency gains they've seen.
+
+Operator
+And we'll go to the next question: Larry Biegelsen, Wells Fargo. Please go ahead.
+
+Q - Larry Biegelsen{BIO 7539249 <GO>}
+Thanks for taking the question. One on international for me, one on procedures, if I may. The Korean approval, I think, came earlier than people expected. Do you have supply to launch there right away, and just what's the update on Japan timing? I heard the back and forth in the prepared remarks, and how long are you expecting the review process in Europe to take? And I have one follow-up.
+
+A - Dave Rosa{BIO 16629873 <GO>}
+Yeah. Thanks. We do have supply to be able to support Korea demand, and so that is true. We have not outlined timing in Japan, so we remain in that back and forth. And then with respect to CE Mark in Europe, it's no different from last quarter, where we expect that near the end of next year, of 2025.
+
+Q - Larry Biegelsen{BIO 7539249 <GO>}
+Got it. That's helpful. And for Dave or Gary, we've heard you and key opinion leaders recently start talking about new procedures such as appendectomy, foregut, hepatobiliary, and emergent procedures. Could you please tell us where you are in addressing these from a clinical, regulatory, and commercial standpoint, and how would you size some of these new procedures? Thanks.
+
+A - Jamie Samath{BIO 7313010 <GO>}
+Yes. With respect to foregut and HPB, we've actually been in those procedures in the U.S. for some time. They've been growing nicely for us. Currently, the growth rates for them are accretive to the U.S. average. They are both relatively small categories, and that's probably why they haven't gotten a lot of the airtime in terms of our commentary.
+
+Appendectomy is much earlier for us. It's quite a small procedure. It is also accretive growth. I think what you're seeing with appendectomy is, as surgeons have adopted Xi over time, as they've expanded their -- kind of taken a practice approach to general surgery, what you see is that then gets extended into emergent care settings, acute care settings, and they start to use Xi more routinely.
+
+We have done some clinical work on appendectomy. We do have an indication with the FDA in the U.S. on appendectomy. That's a small procedure for us, and obviously it's concentrated in emergent settings.
+
+Operator
+Okay, and we'll go to the next question from Robbie Marcus, J.P. Morgan. Please go ahead.
+
+Q - Robbie Marcus
+Congrats on a great quarter. Two for me. It might both be for Jamie. I'll let you decide. Maybe first, the margins were once again really impressive, both gross margin and operating margin. Really the question is, how much more room do you feel like there is to go? We're just starting to see Da Vinci 5 flow through, and I know there is definitely some depreciation benefit flowing through this year that probably wanes into next year, and we're coming off a very heavy investment period. So, I guess the question is, as we move forward, how should we think about the margin progression as you have these new products flowing through and the mix starts to evolve?
+
+A - Jamie Samath{BIO 7313010 <GO>}
+Yeah, maybe just some framing first. I think we've consistently said we look to have margins that are kind of top-tier with respect to our medtech peers. We've also said that we don't have a management expectation to have our op margins above 40%. I know they were at that level back pre-COVID, but we don't have a management objective to be back at that level, and that's just us balancing the rate of investment with what we think is the right level of profitability. We were 37% of margin this quarter, 36% year-to-date.
+
+What I would expect is for 2025 on the gross margin front, just given the significant incremental depreciation that we've described, you should expect gross margins to be a little lower next year as we start to take on board that incremental depreciation expense, and you'll have a period as those new facilities come online where, in fact, we're period-expensing that depreciation, because you're early in the phase of kind of ramping production in those facilities versus capitalizing them into inventory.
+
+I think what we've said in the midterm is we have the opportunity, we think, on gross margin to get back to 70%; that's our aspiration. But if you think about where we are right now, year-to-date, 36%, we don't have a management objective to be above 40%. There's a relatively narrow range over the midterm to improve. The question of what we do over that midterm will also be balanced by how much we invest in R&D, which is going to be a function of the opportunities that we see.
+
+Q - Robbie Marcus
+Great, appreciate that. And then, as a follow-up, as we move into next year, and you talked about expect more of the trade-ins coming from Da Vinci 5 as you move into full launch, there's an opportunity, obviously, to repurpose and resell some of the refurbished Xi's that you get traded in. Just maybe speak to the opportunity there, how we should think about that, and any immediate plans you can talk about. Thanks a lot.
+
+A - Jamie Samath{BIO 7313010 <GO>}
+Yeah. So, you should expect us to, as the trading cycle occurs, which, by the way, we think will be progressive and will occur over multiples of years, as Xi's come back, we will, as we've done in the past, refurbish those. That does allow for segmentation. That could be site-of-care segmentation, for example, in the U.S., and segmentation in markets internationally that are more cost-sensitive. We haven't worked through exactly how -- what those plans will be, but you can expect within that framing, that's kind of what we'll do with respect to refurbished Xi's.
+
+Operator
+And we'll go to the next line here: David Roman, Goldman Sachs. Please go ahead.
+
+Q - David Roman{BIO 6990044 <GO>}
+Thank you, and good afternoon, everybody. Maybe we can start on Ion. I think, as you look in a variety of public forums, there's been a considerable amount of promotional activity, both in the U.S. and Europe, as you've launched in new markets. Maybe you could help us think about where we are in the Ion launch and adoption curve in each of the target geographies and how we should think about growth in that segment on a go-forward basis, and then I have one P&L follow-up.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+Sure, I'll take that one. Hi, David. It's Gary.
+
+In the U.S., I think Ion is progressing well in its first indication, a biopsy of suspicious lung nodules. We think it's crossed the chasm. It should be a double-digit prevalence in terms of total biopsy use. So, I think there the focus is a little bit less now on the earliest customers. I think the early customers have done great. We're pretty deeply penetrated into those sites of care, and the focus there will be on high utilization, high customer satisfaction, some innovation, and pursuit of additional indications inside the lung using the Ion platform.
+
+We're much earlier on our journey outside of the United States. So, early experiences so far in Europe, first started in the U.K. They're building some momentum off an early base, and then early, early steps into Germany; likewise early, early steps into China. So, it's a little bit of a two-phased approach here. In the U.S., a strong move toward high utilization, high satisfaction, moving out of the first concentrated set of customers. And, in OUS, it's really initiating the journey in different markets.
+
+Q - David Roman{BIO 6990044 <GO>}
+That's super helpful. And then maybe just a follow-up, on the P&L, one of the things that was notable this quarter and has been the past couple is the increased percentage of systems being placed under usage agreements. I think it's gone from about 12% earlier this year to about 15% now. Can you help us think about the trajectory of that contribution to the placement model and what that means for the P&L?
+
+A - Jamie Samath{BIO 7313010 <GO>}
+Well, so those arrangements are a subset of operating leases, and obviously those arrangements are where the customer pays for system and service as they use the system. Those arrangements with the customers have an expectation of what the procedures will be done per year. That's reflected in the arrangement. And so, then at target economics, you should think of it as similar to a regular operating lease.
+
+There's a fixed payment arrangement. And operating leases in general are slightly accretive to purchase because of the embedded interest rate in there. Of course, the difference with a usage-based arrangement is then you have the risk of what is the actual usage by the customer in those usage-based arrangements. We have a distribution, as you would expect, in terms of what the usage rates are. And we engage with the customers regularly with respect to what their business plans are, particularly when they're not at the target.
+
+In terms of trajectory, obviously you've seen it grow. It is popular with customers. It is a way to both access additional capacity without having to consume capital budgets, and it does lower the risk for the customer in terms of taking a new system relative to how well that's going to be utilized. We have provisions and protections in those arrangements for us and for the customer, and we look at those routinely. I would expect it to continue to grow, but it's relatively highly penetrated in the U.S., and so that the rate of growth will likely moderate. In the international markets, we're at a much earlier stage, so I think that's too early to call in terms of how that might grow.
+
+Operator
+And we'll go to the line of Rick Wise of Stifel. Please go ahead.
+
+Q - Rick Wise{BIO 1490589 <GO>}
+Gary, Dave, everybody, we continue to have a lot of conversations with surgeons, who are interested or potentially interested in Da Vinci 5. And I'm not saying this is an accurate sample, but just it's our sample. I get the sense from the larger hospitals, the academic centers, that they're more waiting. They're waiting for dual console availability, and they're saying to me, as are smaller hospitals, that you're more focused right now on, I'll call it, mid-to-smaller institutions, non-academic. They're making decisions faster, they're less dependent on a dual console. Is that right? Is that what's going on?
+
+And I wonder what -- a couple things, whether procedure growth implications are affected positively or negatively by that, and when dual console is more available in the middle of next year when you're full launch, I assume, do we see an acceleration in sort of multi-system, bigger hospital decision-making?
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+Dave, I'll let you speak to just dual console availability and what's going on there, and then we can speak a little bit to what the trends are. We'll answer those questions.
+
+A - Dave Rosa{BIO 16629873 <GO>}
+Hey, Rick. And you said it. So, in this, as we're ramping our supply capabilities, dual console is being prioritized with incremental single-system deals. And so, as we build our capacity, we will start producing additional consoles for dual system placements. In terms of prioritization and where they're being prioritized, I think our team is working with broad sets of customers and to understand what their needs are and if Da Vinci 5 is the right system to meet their needs for their program. And I don't have a lot of information about how that may differ between smaller customers, as you put it, or academics or larger institutions.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+I wouldn't anticipate a significant forecast model change one way or another. I think, as we go to broad launch and the pipe opens up, we will seek to serve all those customers. I don't think it inflects a procedure growth rate one way or another because of dual console and large versus small. I suspect that's a hard analysis to do; and if you do it, I suspect the differences will be relatively small relative to what we expect.
+
+Q - Rick Wise{BIO 1490589 <GO>}
+And a quick follow-up, if I could, on Hub. I thought it was exciting to hear you're in over 2,000 ORs. Just help us think through the early experience there and maybe the implications for both Da Vinci 5 and, again, procedures. Thank you.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+Yes, so Hub, as it exists today, and that includes our Generation 4 compatibility as well as those that are linked to Gen-5, what does it do? It's a strong data recorder and media management device. A lot of those early installs are on-premise implementations versus the cloud. Customers enjoy it for their ability to track their data and to assess post-op performance, which has been great. Over time, as we move forward and move toward cloud implementations and other things, I think that it provides them a lot of leverage.
+
+There's a lot that we like about it. I think the core capability is really good. There are some things we want to work on. I think refinement, workflow, making those things really easy. Integration in DV5 is going to be great. We're really excited about it. I think it matters. So, so far so good. I think we're at the beginning of the Hub journey, both in terms of penetration and in terms of feature content, not the end of it. And I'm proud of the progress the team is making.
+
+Operator
+We'll go over to the line of Adam Maeder, Piper Sandler. Please go ahead.
+
+Q - Adam Maeder{BIO 21260212 <GO>}
+Hi. Good afternoon. Congrats on the quarter, and thank you for taking the questions. I wanted to ask for some additional color around the capital environment and how you're thinking about hospital budgets and appetite for larger pieces of capital heading into the end of the year in 2025. And I heard the commentary around Europe and China. It sounds like there's continued pressure there. Just curious, is that kind of status quo versus the first half of the year? Is it getting worse? And kind of how do you expect that to evolve going forward? And then I'd follow-up. Thanks.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+Jamie, why don't you take the broad answer, and then I'll touch on China at the end?
+
+A - Jamie Samath{BIO 7313010 <GO>}
+Yeah, I think I'd characterize U.S. as relatively stable, albeit with a lot of interest in Da Vinci 5. I think that's kind of raised the profile again in interest in robotics to some extent. But I would characterize the overall capital environment as relatively stable. In Europe, what you're seeing, particularly in countries like the UK and Germany, is pressure on capital spending in the healthcare space, again related to government budget pressures that exist there. And I think that's been similar for the last quarter or so.
+
+In the case of Europe, we have some government-related events that come in the next couple of quarters, but too early to predict how that might play out in terms of then changes in the capital dynamics.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+Yeah, just turning to China, there's clearly broad stress across the healthcare market in total in China. There's kind of a rebaselining there in some of the value-based pricing that has gone through, as well as some of the price caps that have gone through in our end of the market. So, I think that pressure is still there. I think it'll be there for some quarters. I don't think that resolves quickly.
+
+There's also, in our universe, the entry of some domestic competitors that tend to get provincial preferences, the province in which their headquarter tends to have a preference for them as they launch. And so, you see that kind of show up as popcorn as it goes around. I think that'll persist for a little while, too.
+
+So, for us, I think it's not a surprise given the year we've had. I think ultimately these things will wash through. How long it takes for it to wash through and stabilize is as yet unknown.
+
+Operator
+And we'll go to the line of Brandon Vazquez, William Blair. Please go ahead.
+
+Q - Brandon Vazquez{BIO 20804155 <GO>}
+Hi, everyone. Thanks for taking the question. You have a good amount of Da Vinci 5 systems out there. I was just curious if you could compare and contrast. Are there any kind of unique insights that you have in that Da Vinci 5 install base, whether it's what types of procedures they're doing or utilization within those accounts or those systems relative to the rest of the Xi base?
+
+And then maybe just one quick follow-up I'll throw out here now. Can you talk a little bit? It sounds like innovation on a go-forward basis is really going to be coming a lot from software. Can you kind of compare and contrast the innovation cycle, the speed at which you can launch new features on the software side versus what has historically been, I would guess a little bit of a longer cycle in hardware? Thank you.
+
+A - Dave Rosa{BIO 16629873 <GO>}
+Yes. So, let me try to hit both of those. On the Da Vinci 5 side and the comparison to Xi, one of the things that we're pleased with is that it is being used across a broad set of procedures. And so, customers with a limited supply are really using them to their fullest. With respect to how do you compare Da Vinci 5 utilization to Xi, it's really too soon to say. The install base isn't big enough with a long enough history yet to give us a good data set to make those comparisons.
+
+On the software side, there's kind of two buckets that we operate in. There are sets of software and products that are non-medical device, and those are able to have more rapid cycles of innovation and our ability to roll it out to the field. And then there's a second set that are 510(k) or governed by regulatory processes around the globe, and those will generally follow a longer cadence, probably still a bit quicker than you would see in major hardware changes and things like that. And so, on the average, you likely will see software upgrades and updates happen on a higher cadence, but it kind of depends on which bucket they fall into.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+I might challenge the assumption a little bit. I think there's still some hardware we want to do. I don't think hardware is going away. I think that's going to continue, and DV5 has some opportunities for that, too. And we'll do the software that you just described.
+
+A - Dave Rosa{BIO 16629873 <GO>}
+Sure, that's for sure.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+I think it's great that we get a chance to do both.
+
+Operator, we'll take one more questioner, and then we'll close.
+
+Operator
+And that's from the line of Matt Miksic, Barclays. Please go ahead.
+
+Q - Matthew Miksic
+-- much for squeezing me in. Maybe just a big picture kind of follow-on question. I get some version of this question often from investors talking about growth drivers, opportunities in procedure growth. So, maybe if you're looking at the U.S. market and the rate that you're growing now, obviously we know where penetration is and where it could go over time.
+
+Do you expect maybe the next couple of years or three years to be driven more by driving deeper into existing procedures and categories, or do you see any sort of new large segments, important segments that you expect to help drive that growth? I mean, what would you say the mix looks like or any color you'd be able to add would be super helpful. Thanks.
+
+A - Gary S. Guthart{BIO 3429541 <GO>}
+Yes. Thank you, Matt. That's a great question. I like it. I think, in the U.S., we're -- I won't give you the exact splits, but I think it's a balanced perspective. Clearly, we have approaching the back half of some curves and some procedures where it's really about depth, what do the folks, who have not yet participated or aren't participating fully, what do they need from us to keep going and to serve the patients that way.
+
+There's still opportunity there. In some ways, there's plenty of opportunity. At the same time, as you start getting to the back half, you want to make sure you're looking for, we want to make sure we're looking for new opportunities, and opportunities to serve a different set of patients that we haven't engaged before. And you're starting to see us do that, whether it's in new indications for Ion or SP. And we think actually in multi-port there's some opportunity in new indication also, although there'll tend to be more niche markets than really big ones. Over time, over the coming quarters, we'll tell you more about that as those opportunities mature.
+
+So, thank you. That was our last question. In closing, we believe there's a substantial and durable opportunity to fundamentally improve surgery and acute intervention. Our teams continue to work closely with hospitals, physicians, and care teams in pursuit of what our customers have termed the Quintuple Aim: better, more predictable patient outcomes, better experiences for patients, better experiences for their care teams, better access to great care, and ultimately a lower total cost of care.
+
+We believe value-creation in surgery and acute care is foundationally human. It flows from respect for and understanding of patients and care teams, their needs, and their environment. At Intuitive, we envision a future of care that is less invasive and profoundly better, where diseases are identified earlier and treated quickly, so patients can get back to what matters most.
+
+Thank you again for your support on this extraordinary journey. We look forward to talking with you again in three months.
+
+Operator
+And ladies and gentlemen, that does conclude your conference. We do thank you for joining. You may now disconnect.

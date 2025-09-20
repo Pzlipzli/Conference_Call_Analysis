@@ -1,0 +1,201 @@
+=== CMD ===
+python ./baseline_model/train.py --version 7 --name ret_vol_20d
+
+=== STDOUT ===
+[ret_vol_20d] train log y mu=-8.0123, sd=0.9574
+Epoch 1/100:
+Train Loss: -6.254684
+Valid score: 6.223524
+
+Epoch 2/100:
+Train Loss: -6.411877
+Valid score: 6.458382
+
+Epoch 3/100:
+Train Loss: -6.543698
+Valid score: 6.516294
+
+Epoch 4/100:
+Train Loss: -6.550637
+Valid score: 6.527530
+
+Epoch 5/100:
+Train Loss: -6.561080
+Valid score: 6.532898
+
+Epoch 6/100:
+Train Loss: -6.589105
+Valid score: 6.557673
+
+Epoch 7/100:
+Train Loss: -6.601843
+Valid score: 6.551750
+
+Epoch 8/100:
+Train Loss: -6.593685
+Valid score: 6.570415
+
+Epoch 9/100:
+Train Loss: -6.607592
+Valid score: 6.585474
+
+Epoch 10/100:
+Train Loss: -6.624136
+Valid score: 6.569439
+
+Epoch 11/100:
+Train Loss: -6.612267
+Valid score: 6.572453
+
+Epoch 12/100:
+Train Loss: -6.639114
+Valid score: 6.575319
+
+Epoch 13/100:
+Train Loss: -6.647037
+Valid score: 6.589031
+
+Epoch 14/100:
+Train Loss: -6.647771
+Valid score: 6.586606
+
+Epoch 15/100:
+Train Loss: -6.659224
+Valid score: 6.593055
+
+Epoch 16/100:
+Train Loss: -6.672256
+Valid score: 6.597331
+
+Epoch 17/100:
+Train Loss: -6.672166
+Valid score: 6.607837
+
+Epoch 18/100:
+Train Loss: -6.688896
+Valid score: 6.616529
+
+Epoch 19/100:
+Train Loss: -6.689310
+Valid score: 6.604353
+
+Epoch 20/100:
+Train Loss: -6.697432
+Valid score: 6.614603
+
+Epoch 21/100:
+Train Loss: -6.715809
+Valid score: 6.624840
+
+Epoch 22/100:
+Train Loss: -6.712760
+Valid score: 6.614520
+
+Epoch 23/100:
+Train Loss: -6.712592
+Valid score: 6.623361
+
+Epoch 24/100:
+Train Loss: -6.741747
+Valid score: 6.622999
+
+Epoch 25/100:
+Train Loss: -6.741440
+Valid score: 6.640443
+
+Epoch 26/100:
+Train Loss: -6.744790
+Valid score: 6.624092
+
+Epoch 27/100:
+Train Loss: -6.739136
+Valid score: 6.626172
+
+Epoch 28/100:
+Train Loss: -6.764571
+Valid score: 6.641206
+
+Epoch 29/100:
+Train Loss: -6.771135
+Valid score: 6.624982
+
+Epoch 30/100:
+Train Loss: -6.778311
+Valid score: 6.622908
+
+Epoch 31/100:
+Train Loss: -6.780989
+Valid score: 6.619005
+
+Epoch 32/100:
+Train Loss: -6.767283
+Valid score: 6.614831
+
+Epoch 33/100:
+Train Loss: -6.794500
+Valid score: 6.625299
+
+Epoch 34/100:
+Train Loss: -6.782657
+Valid score: 6.602232
+
+Epoch 35/100:
+Train Loss: -6.803417
+Valid score: 6.604700
+
+Epoch 36/100:
+Train Loss: -6.819437
+Valid score: 6.610313
+
+Epoch 37/100:
+Train Loss: -6.825603
+Valid score: 6.591731
+
+Epoch 38/100:
+Train Loss: -6.840923
+Valid score: 6.583371
+
+Epoch 39/100:
+Train Loss: -6.840883
+Valid score: 6.562349
+
+Epoch 40/100:
+Train Loss: -6.848564
+Valid score: 6.552674
+
+Epoch 41/100:
+Train Loss: -6.863107
+Valid score: 6.532608
+
+Epoch 42/100:
+Train Loss: -6.834157
+Valid score: 6.559032
+
+Epoch 43/100:
+Train Loss: -6.852461
+Valid score: 6.528944
+
+Epoch 44/100:
+Train Loss: -6.850545
+Valid score: 6.573983
+
+Epoch 45/100:
+Train Loss: -6.854751
+Valid score: 6.548593
+
+Epoch 46/100:
+Train Loss: -6.843918
+Valid score: 6.578386
+
+Epoch 47/100:
+Train Loss: -6.853183
+Valid score: 6.598341
+
+Epoch 48/100:
+Train Loss: -6.824916
+Valid score: 6.572344
+
+Early stopping at epoch 48
+Restored best model at epoch 28 (Valid Score=6.641206)
+METRICS_JSON: {"QLIKE": -6.746124439258278}
+

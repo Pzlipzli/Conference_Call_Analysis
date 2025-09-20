@@ -1,0 +1,134 @@
+=== CMD ===
+python ./baseline_model/train.py --version 8 --name ret_sign
+
+=== STDOUT ===
+[ret_sign] train pos_rate=0.5557, pos_weight≈0.80
+Epoch 1/100:
+Train Loss: 0.631007
+Valid score: 0.065891
+
+Epoch 2/100:
+Train Loss: 0.608796
+Valid score: 0.154116
+
+Epoch 3/100:
+Train Loss: 0.600076
+Valid score: 0.230851
+
+Epoch 4/100:
+Train Loss: 0.592547
+Valid score: 0.256806
+
+Epoch 5/100:
+Train Loss: 0.579524
+Valid score: 0.321225
+
+Epoch 6/100:
+Train Loss: 0.565538
+Valid score: 0.416704
+
+Epoch 7/100:
+Train Loss: 0.545718
+Valid score: 0.298381
+
+Epoch 8/100:
+Train Loss: 0.528802
+Valid score: 0.429347
+
+Epoch 9/100:
+Train Loss: 0.512991
+Valid score: 0.307803
+
+Epoch 10/100:
+Train Loss: 0.494170
+Valid score: 0.424849
+
+Epoch 11/100:
+Train Loss: 0.483686
+Valid score: 0.438236
+
+Epoch 12/100:
+Train Loss: 0.452572
+Valid score: 0.422682
+
+Epoch 13/100:
+Train Loss: 0.459784
+Valid score: 0.430596
+
+Epoch 14/100:
+Train Loss: 0.452855
+Valid score: 0.286258
+
+Epoch 15/100:
+Train Loss: 0.433328
+Valid score: 0.297907
+
+Epoch 16/100:
+Train Loss: 0.419959
+Valid score: 0.278344
+
+Epoch 17/100:
+Train Loss: 0.411984
+Valid score: 0.253963
+
+Epoch 18/100:
+Train Loss: 0.409041
+Valid score: 0.268922
+
+Epoch 19/100:
+Train Loss: 0.418179
+Valid score: 0.275415
+
+Epoch 20/100:
+Train Loss: 0.415164
+Valid score: 0.319086
+
+Epoch 21/100:
+Train Loss: 0.407232
+Valid score: 0.255275
+
+Epoch 22/100:
+Train Loss: 0.410056
+Valid score: 0.255275
+
+Epoch 23/100:
+Train Loss: 0.387408
+Valid score: 0.255275
+
+Epoch 24/100:
+Train Loss: 0.357715
+Valid score: 0.269290
+
+Epoch 25/100:
+Train Loss: 0.348928
+Valid score: 0.269290
+
+Epoch 26/100:
+Train Loss: 0.342560
+Valid score: 0.290851
+
+Epoch 27/100:
+Train Loss: 0.342762
+Valid score: 0.249648
+
+Epoch 28/100:
+Train Loss: 0.318107
+Valid score: 0.261500
+
+Epoch 29/100:
+Train Loss: 0.314780
+Valid score: 0.239214
+
+Epoch 30/100:
+Train Loss: 0.303180
+Valid score: 0.261876
+
+Epoch 31/100:
+Train Loss: 0.318027
+Valid score: 0.242223
+
+Early stopping at epoch 31
+Restored best model at epoch 11 (Valid Score=0.438236)
+[INFO] Using validation best threshold: 0.4375
+METRICS_JSON: {"MCC": -0.03701181051346913, "F1": 0.5185185185185185, "Threshold": 0.4374999999999999}
+

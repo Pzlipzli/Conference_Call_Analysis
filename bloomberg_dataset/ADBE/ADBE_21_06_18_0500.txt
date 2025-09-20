@@ -1,0 +1,354 @@
+Q2 2021 Earnings Call
+Company Participants
+John Murphy, Executive Vice President and Chief Financial Officer
+Jonathan Vaas, Vice President of Investor Relations
+Shantanu Narayen, Chairman, President, and Chief Executive Officer
+Other Participants
+Alex Zukin, Analyst, Wolfe Research
+Bradley Sills, Analyst, Bank of America Merrill Lynch
+Brent Thill, Analyst, Jefferies
+Gregg Moskowitz, Analyst, Mizuho Securities
+Jay Vleeschhouwer, Analyst, Griffin Securities
+Kash Rangan, Analyst, Goldman Sachs
+Keith Bachman, Analyst, BMO Capital Markets
+Keith Weiss, Analyst, Morgan Stanley
+Saket Kalia, Analyst, Barclays
+Sterling Auty, Analyst, J.P. Morgan
+Tyler Radke, Analyst, Citigroup
+Presentation
+Operator
+Good day everyone, and welcome to the Second Quarter of Fiscal Year '21 Adobe Earnings Conference Call. Today's call is being recorded.
+
+At this time, I would like to turn the conference over to Jonathan Vaas, VP of Investor Relations. Please go ahead, sir.
+
+Jonathan Vaas{BIO 21700508 <GO>}
+Good afternoon, and thank you for joining us. With me on the call today are Shantanu Narayen; Adobe's President and CEO; and John Murphy, Executive Vice President and CFO. On this call, we will discuss Adobe Second Quarter Fiscal Year 2021 Financial Results. By now, you should have a copy of the press release, which crossed the wire approximately one hour ago. We've also posted PDFs of our prepared remarks and financial results on Adobe's Investor Relations website.
+
+Before we get started, I want to emphasize that some of the information discussed in this call, including our financial targets and product plans is based on information as of today, June 17th, and contains forward-looking statements that involve risk, uncertainty and assumptions. Actual results may differ materially from those set forth in these statements. For a discussion of these risks, you should review the forward-looking statements disclosure in the press release we issued today, as well as Adobe's SEC filings.
+
+On this call, we will discuss GAAP and non-GAAP financial measures. Reconciliations between the two are available in our earnings release and on Adobe's Investor Relations website.
+
+Call participants are advised that the audio of this conference call is being webcast live and is also being recorded for playback purposes. An archive of the webcast will be made available on adobe.com for approximately 45 days. The call audio and the webcast may not be re-recorded, or otherwise reproduced or distributed without Adobe's prior written permission.
+
+I will now turn the call over to Shantanu.
+
+Shantanu Narayen{BIO 3332391 <GO>}
+Thanks, Jonathan. Adobe had another outstanding quarter as the shift to a digital-first world continues to accelerate. From students to creative professionals to small businesses to the world's largest global enterprises, digital is transforming how we work, learn and play.
+
+Adobe's mission to change the world through digital experiences has never been more relevant. Our strategy to unleash creativity for all, accelerate document productivity and power digital businesses is working. Fueled by our ground-breaking innovation, proven capability to create and lead categories and our expansive global customer base, our opportunity and momentum has never been greater. In Q2, Adobe achieved $3.84 billion in revenue, representing 23% year-over-year growth. GAAP earnings per share for the quarter was $2.32 and non-GAAP earnings per share was $3.03.
+
+In our Digital Media business, we drove strong revenue growth in Q2 in both Creative Cloud and Document Cloud, achieving $2.79 billion in revenue, representing 25% year-over-year growth. Net new Digital Media Annualized Recurring Revenue or ARR was $518 million, and total Digital Media ARR exiting Q2 grew to $11.21 billion.
+
+Over the last year, we have seen the critical role creativity has played in the world. Creative Cloud is empowering everyone, from the most demanding professional, to the high school student, to the next generation of social media creators, to tell their stories. Adobe is the leader in core creative categories such as imaging, design, video and illustration, and we are expanding our leadership in exciting new media types, including screen design and prototyping, 3D and AR. In a world that requires anyone to be able to create from anywhere, we are building products and services for every surface and platform. Our vibrant creative communities continue to be a tremendous source of inspiration and our goal remains to provide access to a larger and increasingly diverse set of creators and design teams, furthering our strategy of unleashing creativity for all. Q2 Creative Cloud performance was strong, with net new Creative Cloud ARR of $405 million and revenue of $2.32 billion, representing 24% year-over-year growth.
+
+Q2 highlights include: new product innovations, including updates to Lightroom, Photoshop and Illustrator that deliver enhanced creation and collaboration capabilities and greater speed and performance; next week, we will unveil new innovations for Substance, our 3D solution, designed to improve the creation process with new tools to help assemble, style and sculpt. Increasing engagement and retention across offerings, including greater customer uptake of training, participation in community events and continuous product enhancements derived from insights about customer usage and value. Momentum in our Creative Cloud Teams offering globally, reinforcing the growth in adoption of Creative Cloud within small and medium businesses.
+
+Strong customer acquisition in core creative and emerging categories, especially photography and video, supported by exciting marketing campaigns globally for Photoshop and Premiere; and accelerating demand for 3D&I in key verticals such as gaming, automotive, fashion and e-commerce. Continued growth of mobile traffic, leading to new customer acquisition of mobile offerings, like Lightroom Mobile and Photoshop Express, and a strong funnel for desktop applications. Strong growth for Adobe Stock, with an increasingly robust content library and growing submissions that provide sustained earnings for our contributors.
+
+Global momentum, with accelerated demand in EMEA and Asia Pacific. Key customer wins, including ByteDance, Netflix, Microsoft and Unity. And new partnerships to inspire the next generation of creators, including one with Netflix that gives emerging creators access to tools, resources and mentorship to bring their stories to life, and another with Khan Academy, designed to provide teachers and students in underserved communities with access to digital tools and learning resources.
+
+In this digital-first business environment, seamless document workflows across every device and platform are more important than ever for the modern workforce to collaborate and be productive. Document Cloud is accelerating document productivity by powering the paper-to-digital transformation and enabling all document actions, including editing, sharing, scanning and signing -- to be frictionless across web, desktop and mobile applications. We delivered strong Document Cloud revenue in Q2, with net new Document Cloud ARR of $113 million and outstanding revenue of $469 million, representing 30% year-over-year growth.
+
+Q2 highlights include: new product innovations, including new features in Acrobat Liquid Mode that further improve accessibility on mobile devices; new Adobe Scan functionality that enables users to combine, save and store scans more efficiently; and new Sign capabilities in Acrobat to help small and medium sized businesses improve their digital footprint with easily embeddable forms and digital payments. Strength in Acrobat across all routes to market and offerings, with enterprise bookings growth up over 60% [ph] year over year. Accelerated demand for Sign, with new Sign customers doubling year over year and an increasing share of Acrobat users leveraging Sign capabilities.
+
+Explosive growth in Acrobat Web services, driven by significant improvements in SEO for a new set of customers. In Q2, we drove 30 million visits to frictionless PDF pages and now offer capabilities for over 20 different document verbs. Continued growth of mobile traffic, including over 110 million mobile downloads of Adobe Scan and one billion scans to date, and a greater than 20% year-over-year increase in Acrobat mobile app adoption. Momentum across all geographies, with accelerated demand in Europe, Latin America, Australia and New Zealand, and key customer wins, including ADP, AstraZeneca, GlaxoSmithKline, Toyota and Wells Fargo.
+
+I'm thrilled to welcome back David Wadhwani, who has rejoined Adobe as Executive Vice President and Chief Business Officer of our Digital Media business. His impressive track record and passion for Adobe and our customers make him the ideal person to lead our Digital Media business through its next phase of growth.
+
+Digital transformation has become an imperative for businesses of every size in every industry. According to our recent Adobe Digital Economy Index, e-commerce spending is projected to be $4.2 trillion globally this year and reach $1 trillion in the U.S. alone in 2022. We predict that U.S. online spending on the upcoming Prime Day will surpass the $10.9 billion mark that Cyber Monday reached in 2020. Across both B2C and B2B, companies around the globe are investing in digital to deliver personalized and engaging customer experiences.
+
+Experience Cloud is the most comprehensive solution for content and commerce, data insights and audiences, customer journeys and marketing workflow. With unified customer profiles and an open and extensible architecture, Adobe Experience Platform is the clear platform of choice for enterprises to deliver real-time personalization at scale, powering more than 17 trillion audience segment evaluations every day. Experience Cloud revenue was $938 million in Q2, representing 21% year-over-year growth, and subscription revenue was $817 million, representing 25% year-over-year growth.
+
+In April, we held our annual digital experience conference, Adobe Summit, virtually. We drove an unprecedented 20 million views of Summit content from individuals around the globe, underscoring the significant interest and demand for customer experience management.
+
+Highlights of product announcements include: Adobe Journey Optimizer, which helps marketers optimize the customer journey across outbound and inbound customer touchpoints; Adobe Customer Journey Analytics, which enables brands to integrate and standardize their online and offline data and is years ahead of any competitive offering; the next generation of Adobe's Real-time Customer Data Platform to help brands optimize their acquisition and engagement strategies in a first-party data world; A preview of a pioneering marketing system of record, built on Workfront technology, designed to manage complex marketing workflows for greater efficiency and agility; and new intelligent commerce capabilities and a strategic partnership with FedEx that will allow every small and medium business to offer expedited shipping capabilities as part of their commerce platform.
+
+Beyond Summit, Q2 accomplishments include: strength in core offerings, including explosive bookings growth for Adobe Experience Platform, and associated services like Customer Journey Analytics and real-time CDP, which combined blew past the $100 million book of business mark in Q2; success with large multi-solution deals in transformational accounts and improving close rates across geographies, customer segments and product pillars; building the future workforce by offering college instructors and students globally free access and curriculum for Adobe Analytics, the industry-leading customer data analytics platform; continued industry analyst recognition across all customer experience management segments, including being named a leader in the Forrester Wave for Enterprise Marketing Software Suites, achieving the top spot each of the five times the report has been published, and leadership in the Gartner Multichannel Marketing Hubs Magic Quadrant for the fourth year in a row; and key customer wins with brands like Nike, NatWest, NTT Docomo and T-Mobile.
+
+We are proud of the tremendous results and momentum across our business. As we plan for a post-pandemic world, we will remain flexible as different regions recover at different times. While offices in Australia and parts of Asia have been open for some time, and conditions in the U.S. and parts of Europe are improving, we will continue to support our employees in places like India and Brazil where the situation remains challenging. Over the last year, we have been building a blueprint for the future of work at Adobe, which will be hybrid and flexible.
+
+In the U.S., we will be piloting a return to our San Jose office, starting with a small group of fully vaccinated employees in July. We are committed to leveraging the best of in-person and digital interactions to harness what makes Adobe special, our creativity, innovation and culture, driven by our most important asset, people.
+
+I want to thank all of our employees for their dedication and resilience during a year that was not only marked by the pandemic but by violence and racial injustice. I'm proud of the progress we've made in advancing our efforts around diversity, equity and inclusion. We have made strides in our strategy to accelerate the representation, growth and advancement of the Black community. But as Juneteenth approaches later this week, we know we have so much left to do. As we celebrate Pride Month in June, we are honoring and spotlighting our LGBTQ plus communities both inside and outside of Adobe. These efforts represent Adobe's longstanding commitment to supporting our diverse employee base and making an impact in the communities where we live and work, a principle our Co-Founders, John Warnock and Chuck Geschke, instilled in us.
+
+In Q2, we lost our beloved Co-Founder Chuck Geschke. Chuck left an indelible mark on Adobe, the technology industry and the world. While we miss him tremendously, it gives me great comfort knowing that Chuck was so proud of the Company that Adobe has become. Adobe's strong culture, revered brand, innovative product roadmap and the world's best employees, customers and partners position us for continued success in 2021 and beyond.
+
+John?
+
+John Murphy{BIO 16018871 <GO>}
+Thanks, Shantanu. Q2 was an excellent quarter for Adobe, with strong revenue growth, enterprise bookings in Digital Experience and net new ARR in Digital Media, showing how our solutions are resonating with customers of all types in an increasingly digital world.
+
+With our data-driven operating model or DDOM, we continue to utilize our own Experience Cloud technology to optimize customer journeys, driving increasing amounts of traffic to Adobe.com to acquire new customers and raise awareness of our products. We continue to invest for growth in sales and marketing, while also increasing headcount in Q2 to drive product innovation. As a result, in Q2 Adobe achieved revenue of $3.84 billion, which represents 23% year-over-year growth.
+
+Business and financial highlights included: GAAP diluted earnings per share of $2.32 and non-GAAP diluted earnings per share of $3.03; Digital Media revenue of $2.79 billion; net new Digital Media ARR of $518 million; Digital Experience revenue of $938 million; record cash flows from operations of $1.99 billion; RPO of $12.23 billion exiting the quarter; and repurchasing approximately 2.1 million shares of our stock during the quarter.
+
+In our Digital Media segment, we achieved 25% year-over-year revenue growth in Q2, and we exited the quarter with $11.21 billion of Digital Media ARR. We achieved Creative revenue of $2.32 billion, which represents 24% year-over-year growth, and we added $405 million of net new Creative ARR.
+
+Second quarter Creative growth drivers included: strong retention and renewal across all Creative products and customer segments; new user acquisition, driven by global marketing campaigns utilizing our DDOM insights; accelerated recovery in the SMB segment with our Creative Cloud for Teams offering; success in enterprise licensing, driven by account expansion at renewal; momentum with our Adobe Stock business, which continues to outpace industry peers in terms of revenue growth; driving subscriptions in the education segment, both with individuals and institutions; and generating net new ARR through app store sales of our mobile and iPad applications. Adobe achieved Document Cloud revenue of $469 million, which represents 30% year-over-year growth, and we added $113 million of net new Document Cloud ARR in the quarter.
+
+Second quarter Document Cloud growth drivers included: increasing unit demand for Acrobat subscriptions across all geos; strong subscription licensing of our Teams offering in the SMB segment; success in enterprise licensing, with broad seat expansion across enterprise accounts; accelerated adoption of our Acrobat Web offering, driving top-of-funnel awareness and conversion to paid subscriptions; continued strength with Adobe Sign, which grew ARR greater than 40% year-over-year exiting the quarter; and driving improved conversion on Adobe.com.
+
+Turning to our Digital Experience segment, in Q2 we achieved revenue of $938 million, which represents 21% year-over-year growth. Digital Experience subscription revenue was $817 million, representing 25% year-over-year growth. On the heels of Adobe Summit, we had success in Q2 generating pipeline and closing strategic customer deals across our portfolio of customer experience management or CXM solutions. Deal volume was sustained throughout the quarter, with several large transactions closing earlier on the quarter, contributing to our revenue performance in Q2. We continue to see broad macroeconomic recovery, including in the commercial segment, and enterprises of all sizes are investing in digital transformation.
+
+Business performance in Digital Experience during the quarter was driven by: strong bookings for Adobe Experience Platform or AEP and native applications built on AEP including Real-Time CDP and Customer Journey Analytics which continue to build momentum; recent innovations and partnerships driving awareness and adoption of our Analytics, Commerce and Campaign solutions; continued success with our Workfront offering, as we realize the value of combining a best- in-class workflow solution with our CXM offerings to create an industry-leading marketing system of record; momentum signing up transformational, multi-solution engagements with enterprise customers across geographies; and strengthening customer renewal and expansion rates.
+
+Savings from T&E and site operations are continuing as our employees work from home. We are investing in our facilities as we reimagine the future of work, and many of our employees return to offices and business travel during Q3. From a quarter-over-quarter currency perspective, FX increased revenue by $10 million, both before and after applying the net impacts from hedging. From a year-over-year currency perspective, FX increased revenue by $94 million. Net of impacts from hedging, the year-over-year currency increase to revenue was $78 million. Adobe's effective tax rate in Q2 was 19.5% on a GAAP basis and 16% on a non-GAAP basis, in line with our expectations for the quarter.
+
+Our trade DSO was 35 days, which compares to 40 days in the year-ago quarter, and 38 days last quarter. RPO grew by 23% year-over-year to $12.23 billion exiting Q2, benefitting from strong enterprise licensing during the quarter. Deferred revenue exiting the quarter was $4.28 billion, growing 24% year-over-year.
+
+Our ending cash and short-term investment position exiting Q2 was $5.77 billion. Cash flows from operations in Q2 were a record $1.99 billion. We repurchased approximately 2.1 million shares in the quarter at a cost of $983 million. We currently have $15.1 billion in remaining authority, of which $100 million was granted in May 2018 and $15 billion was granted in December 2020.
+
+The following Q3 targets factor current macroeconomic conditions and expected return of summer seasonality associated with the months of June, July, and August. Total Adobe revenue of approximately $3.88 billion; Digital Media segment revenue growth of approximately 22% year-over-year; net new Digital Media ARR of approximately $440 million; Digital Experience segment revenue growth of approximately 21% year-over-year; Digital Experience subscription revenue growth of approximately 25% year-over-year; tax rate of approximately 19% on a GAAP basis and 16% on a non-GAAP basis; share count of approximately 480 million shares; GAAP earnings per share of approximately $2.27; and non-GAAP earnings per share of approximately $3.
+
+We are pleased with our first half performance, and we expect the momentum to continue, with typical Q4 strength. With the momentum we are seeing across creativity, digital documents and customer experience management, we are on track for another record year with a strong first half already in the books. Few companies of our scale can boast 20% plus revenue growth, world-class operating margins and a recurring-revenue model built for long-term growth and profitability.
+
+I will now turn the call over to the operator to take your questions.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) First, we'll go to Keith Weiss from Morgan Stanley. Your line is open.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Thank you guys for taking the question, and really nice quarter. I think it's pretty remarkable in a quarter where a lot of investors are worried about a difficult comp, net new ARR growth actually accelerated in the quarter. And I was hoping you could dig into that a little bit, it's obvious you guys are building momentum, there is a broader base of customers that are coming into the Digital Media fold. Can you talk us a little bit about who that is and kind of where you're seeing the most success? And sort of broadening that scope and enabling that building momentum within this business, which is already quite large and well driven.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thanks, Keith. As you said, it was a really great quarter and we actually saw great linearity associated with the Digital Media ARR throughout the quarter as well. And as you know, we have this incredible data driven operating model that allows us to deal with all aspects of the customer funnel from Discover, which is done through our marketing attribution, all the way through usage and engagement. In terms of the new customers, who are coming onto the platform, mobile and communicators is a way we define that Keith, are a significant portion of the new customer base. Specialists on the other hand, as it relates to 3D&I. Acrobat as we also mentioned, had a very strong offering. And so, I would say the photography and video offerings are really targeting everybody from creative professionals to communicators to consumers as is Acrobat. But then we're also seeing some really good adoption of Acrobat across the spectrum. And in our prepared remarks, the last thing I'd say as we also talked about revival of the teams business. And as we all know the small and medium business segment, I think, was most impacted last year. So, really pleased with it, Keith. So across product offerings, across geographies and across some of the new businesses and services, as you said, we saw good strength in Q2.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Got it. And if I could sneak one in for John on the guide into Q3. The net new era our guide is about down 15% sequentially. I think there is more than we see seasonally, is there anything we should be aware of in terms of either kind of one-time items, if you will, in Q2 or something we should be looking out for in Q3, that explains that broader than or sort of bigger the normal seasonality -- seasonal decline into Q3?
+
+A - John Murphy{BIO 16018871 <GO>}
+Yeah. Thanks Keith. When I look at the guide for Q3, it's the largest guide we done for ARR in the Q3. As we talked about last couple of quarters, last year was kind of a really strange year, we didn't see the seasonality, typically saw -- because of the pandemic and everybody being locked down. These things are starting to open up. We're anticipating kind of a return to some of that seasonality that we saw in the past. And so we factor that into the guide, but we're really excited that we can actually target the highest ARR guide ever in Q3. So overall, great performance and you can see the momentum is still in the business.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Outstanding. Great job guys.
+
+A - John Murphy{BIO 16018871 <GO>}
+Thank you.
+
+Operator
+And next we'll go to Alex Zukin from Wolfe Research. Your line is open.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Hey guys, thanks for taking the questions. So I'll take the other side of the business, on the Digital Experience side. I mean, again, every indicator, whether it was RPO, whether it was the Digital Experience revenue and subscription revenue was strong. Can you talk to, what you saw in the quarter? What's changed, since the pandemic? And maybe some of the pipelines, and how we should think about that business from here, from a growth perspective?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+As you point out, Alex, it was a strong quarter and right through the pandemic, we've been talking about how the interest in our Digital Experience solutions and the belief, when I have conversations with CEOs across every single vertical, is that the only way to engage with customers is going to be digital. And I think people are starting to recognize that, that investment is an investment that they have to pay. So first, I think from a macro-perspective, it's clear that digital transformation and within digital transformation customer experience management is front-end spend, as something that they want to spend money on.
+
+The second thing I would say, is the execution against our new experience platform, and both John and I, touched on Customer Journey Analytics and the other services that we are building on top of that. Those are clearly resonating with customers because whether you're B2B or whether you're a B2C, you have to have the ability right now to deliver the personalized experience. So, I think the second thing I would say is that the innovation that we're delivering and the fact that we had Summit and the ability to engage with these customers, certainly, I think was an accelerant for the business.
+
+An the third thing I would say is the ecosystem, and the ability of the ecosystem to very quickly ensure that these customers derive value from the investment that we're making. I think that helps both in terms of converting bookings to revenue. But it also helps in terms of growing the book of business with enterprises. So, I would speak to all three of them, I think if you look at our targets as well in terms of the over 20% revenue growth, close to 25% subscription revenue growth, that we're seeing in that business. I think we continue to be optimistic that we have the right product, that clearly meets a customer need. And the execution in the company against that business has been strong.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Got it. And maybe just squeeze in a quick one for John. On cash flow, well ahead of our estimates here for the second quarter. What's the right way, what's driving that, is that just a simple as strong collections on larger deals? And thinking through the year, obviously we're not guiding or updating guidance. But just anything to think through, I mean, net new ways to look at the free cash flow margin of the business and the growth of free cash flows?
+
+A - John Murphy{BIO 16018871 <GO>}
+Yeah. Sure. Yeah, we certainly were pleased, delivered numbers like that. We had some -- some timing of payments for sure. And as you saw, our DSO really dropped pretty significantly quarter-to-quarter. So all that really contributed to it as well, as the timing of some large payments that came in -- as well as timing of, let me add some dispersions as well. So, it was really -- overall just great performance for the Company and sometimes you will see little bit of the shift quarter-to-quarter. But we're certainly given the capability of the company and the operating leverage in the model, where we are generating a lot of cash right now.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Got it. Thank you, guys.
+
+A - John Murphy{BIO 16018871 <GO>}
+You bet.
+
+Operator
+And next we'll go to Saket Kalia from Barclays. Your line is open.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Hi guys, thanks for taking my question here. Shantanu maybe for you to go back to the Creative business. Can you just anecdotally talk about any difference in product mix, specifically? I guess as more potential users got back to work, including creative professionals, did you see any change in the mix of single apps versus all app subscription perhaps?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Saket, I think we saw strength across all of the businesses. I would say that, single app business as you know, is a really great initial funnel for us to drive the business. And so, we continue to see new adoption as it relates to the single app. And then from a revenue perspective, think of it as the single apps is probably half the business in the quarter, and then we use that as a funnel to drive to the all apps. So, I wouldn't say there was really a dramatic difference between Q1 and Q2, I think, we just continue to see the trend of attracting new customers. And then from a revenue point of view, certainly we believe that the Creative Cloud all apps is where we both derive value for our customers and drive more ARR for us long-term.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Got it. Very helpful. Thanks guys.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thank you.
+
+Operator
+And next we'll go to Tyler Radke from Citi. Your line is open.
+
+Q - Tyler Radke{BIO 20483599 <GO>}
+Hey, thanks for taking my question. I wanted to ask you about the Digital Experience side of the business. I think if you --depending on your assumption for Workfront, and you kind of normalized for the extra week in the quarter -- last quarter. It showed a nice kind of re-acceleration in that business. Could you just help us understand, how you're expecting that pace of re-acceleration to play out throughout the rest of the year? And then kind of where your longer-term aspirational targets and where you'd like to see that growth rate of the business?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+So Tyler, the way I would first start-off by answering that question is by talking about the TAM, where I think we keep talking about how big TAM that is for the entire business. And so when you have the kind of $80 billion plus TAM that we have, we just continue to be really optimistic about that business. And from my perspective, we have the largest de-lever, that we had. And if you look at the DX business, it's about focus on transformational accounts, across all deal [ph] bands, as well as different segmentation of the market. We tend to think of the corporate market, commercial market and the strategic markets, we're seeing strength across those particular businesses. And as I mentioned earlier, to a previous question, the ability to convert bookings into revenue and to upsell them to more. What we've done with the experience platform and the ability to have all of the new services built on that, it's really very unique in the industry, because that's sort of how we look at it. And so, you should expect to see again Q4 be sort of the strongest close that typically happens in enterprise software. And we are clearly on track to exceed the target for DX for the entire year, when you look at our performance in the first half, in our guide for Q3 and John's comment about expecting Q4 to be seasonally strong.
+
+Q - Tyler Radke{BIO 20483599 <GO>}
+Great. And if I can just sneak in another question. And I wanted to ask you just broadly, I know, you haven't raised price in a while and you're obviously pretty sensitive that during the pandemic. But just as you think of things reopening and obviously some concerns around there, around an inflationary environment, just curious how your conversations regarding prices evolved over the last three months? Thank you.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+From our perspective, what is most exciting about the Creative Cloud and the Document Cloud business assuming Tyler that your question is about those two parts of the business is, it's really new customer acquisition, that's really been the driver of that entire business, and we're doing that across different offerings. We're doing that across different geographies. I think the value that we provide to customers, it doesn't matter whether it's an inflationary economy or not, we continue to believe that we're driving tremendous value for our customers. And so the conversations that happened around Adobe, are around the product roadmap and innovation and attracting new customers, way more than trying to. At this point look at a price optimization, and so we have a massive TAM ahead of us, that's really the focus.
+
+Q - Tyler Radke{BIO 20483599 <GO>}
+Thank you.
+
+Operator
+And next we'll go to Brent Thill from Jefferies. Your line is open.
+
+Q - Brent Thill{BIO 1556691 <GO>}
+Hi, Shantanu. On the Digital Experience business, many of your SI partners have been commenting that they're capacity constrained, that their utilization rates are -- in their words through the roof. I'm curious if you're running into constraints on the implementation side, what you're seeing to offset that? Is that more of a random data point, are you seeing that across the Board from some of the SI partners?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+I would say, Brent, that clearly, the demand for our solutions and expertise, whether it's on content and commerce, whether it's around data and insights, whether it's around the new workflow stuff that we've done, what's exciting for us is that, there is a lot of demand on the ecosystem to have us help them with training. I think you'll periodically see, you know some of them feel like they're capacity constrained and that's a little bit more as a result of the war for talent. But overall, I think we will continue to help the -- support them in any way. And I think net-net, it's a good sign for the business.
+
+On the product side, we are going to really make sure that we continue to make it easier to provision, easier to use, easier to get value. And we have been seeing some good customer sentiment associated with our work on that front. So, hopefully that's an isolated incident as it relates to that SI partners ability to get it, but it's certainly true as it relates to the overall market and the ability and the interest in our solutions. So, I think that part is certainly true.
+
+Q - Brent Thill{BIO 1556691 <GO>}
+Quick follow-up for John, just on the second half margins. As things reopen, how are you thinking about this? I mean, your -- this quarter about a point away from your all-time quarterly high in app margin. Do things have to come back in a little bit over time given, been readjust [ph] in the opening world or not?
+
+A - John Murphy{BIO 16018871 <GO>}
+Yeah, thanks Brent. Yeah, we definitely think it will come down slightly in Q3 and Q4 as we open up. I mean, we're continuing to invest as we talked about, we're hiring in R&D, we're definitely investing in sales and variable marketing to really drive the business and execute against the huge TAMs that we have across all three businesses. So, with the momentum that we have in the business, we're not sure that -- we capitalize on that momentum and invest, to be able to capture it. But certainly I'd tell you, things are opening up, both seasonal expenses come back online as with more people -- it will be a phase-in, we actually approach for us, through Q3 and Q4, but certainly business travel will start to pick-up as well.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+And Brent, maybe I'll just add. When we look at some of the key new categories that we're continuing to invest in and you're seeing the results associated with that, I mean, to your question about the real-time CDP and the associated services sign, stock, mobile and our mobile offerings. We remarked also about 3D&I and specialist offerings associated with that. And so, it really behooves us to continue to, as we always have judiciously invest in marketing, to continue to attract new customers to the platform, which will again, as John said, be seen on the sales and marketing expense. But net-net, I mean, we're really excited about the growth that we're seeing.
+
+A - John Murphy{BIO 16018871 <GO>}
+Yeah, I'll just recall (inaudible) on year-over-year you have seen margin expansion, Brent, even above what our original targets were. Thanks.
+
+Operator
+And next we'll go to Kash Rangan from Goldman Sachs. Your line is open.
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+Hi, thank you very much. Congratulations to the Adobe team on spectacular results. Shantanu, I want to just go back to creative term, which is the topic that continues to fascinate me, I mean, seven, eight years into the transition, the Creative business is as big as it can be $10 billion, nearly (inaudible) growing 22%-24%. As you unfold the layers of the creative market, what is it that you're finding, that might have surprised you? And could we see the TAM for Creative as the business unfolds even larger than your original expectations?
+
+And also as a subtext, if you could address video and how video is shaping up? And I remember, once you said that video could be as large as, just for oriented business. Any thoughts there would be great. And also if you have any thoughts on what might be David's involvement with the Creative business, and should we expect to see any refinements, enhancements, modifications of the strategy on the Digital Media front, with David coming back onboard?
+
+Thank you so much. Congrats.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thanks, Kash. And I love the way all of you so far have been -- when we say one question, putting in a three part question. But Kash, I think...
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+You can take only one. You can take any one.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+No, no, it's okay, I mean, they're all good questions. And so I think first, Kash, on the $40 billion plus TAM, as you know, we have clearly transitioned the business from Creative Cloud focused customer, to just being Creative Cloud, the communicators the services, that we've added associated with stock photography and sign. And I think we continue to have very exciting opportunities, in terms of continuing to expand that TAM. And I think it all stems from design and creativity, it has never been more important, right. We talked about it, how it's the golden age of design and creativity. But for you as a consumer, whether you're interacting with a screen at a terminal or in a retail store or how you order something, I mean, it's all about content creation. And when you think about, how much content we've all consumed in the pandemic at home? It's just gone through the roof, and we announced the partnership with Netflix. And what we're doing with Khan Academy to make sure content creation is as seamless and productive. So, I think that's driving it and people love to say, we want to be in the content and design business to personalize it, as well as a career. So, I would say that's the first thing, that we're certainly seeing.
+
+International expansion, we've talked about how we continue to focus on international markets, and it originally started with dealing with piracy, but across the small and medium business, TAM, as those companies are also creating a marketplace for themselves with our content management solutions, our commerce solutions. Content velocity is critical there. So, I think all those are clearly tailwinds for the ever-increasing TAM. I think we increased it from 31 billion to 41 billion, when we talked about it at the next FDA meeting, and we'll certainly update that when we have our next.
+
+I think as it relates to David, I'm really excited as I said, David played a significant role in the introduction of Creative Cloud, when he was here. And I think the fact that we were able to excite him and recruit him back, just I think speaks to the tremendous opportunity that he also sees for the business. And from my point of view, we have all of these unicorns within the Creative Cloud, and I'm looking to partner with David, whether it's expanding on our enterprise footprint, whether it's continuing to make sure that we get the opportunity around -- around Sign, addressed, what we are doing associated with the mobile offerings. I mean, each one of these is a large business by itself and having somebody of his caliber to continue to work with Scott on the product side, and Abhay on the Document Cloud side. It's great to have that kind of bench, when we have the kind of opportunity that we have. So hopefully, that answers the question around David as well, Kash.
+
+Q - Kash Rangan{BIO 22095432 <GO>}
+Brilliant. Thank you so much.
+
+Operator
+And next we'll go to Sterling Auty from J.P. Morgan. Your line is open.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Yeah. Thanks. Hi guys. Shantanu, I thought your comments about Chuck Geschke were spot on. I'm sure he'll be very proud to see the performance of the Company and directionally where it's headed. I'm kind of curious, on the Digital Experience side, in terms of the product roadmap and changes and improvements that we made last year, how those have been resonating with customers currently? And are there any key new innovation milestones that we should be looking for, that could further improve the growth in that business over the coming couple of quarters?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thanks for your comments on Chuck, Sterling. A number of you, I know have written to me, which I appreciate of the impact that each one of you also felt, when you interacted with Chuck. So, I really have appreciated all of those comments. As it relates to the customer experience management question, Sterling, I think we're in the really early innings. We have some tremendous ideas ahead of us, and with Anil Chakravarthy, I'll touch on a couple. I mean, the real-time customer data platform is just really the infrastructure for every engagement that our customer has. We touched on the Journey Optimizer, which is, think about optimizing the customer journey across outbound and inbound customer touch points, both in physical and electronic. I mean, I've ask just a massive opportunity in terms of communicating, whether it's by e-mail, whether it's SMS, whether it's any of these new platforms that emerge.
+
+The Customer Journey Analytics, my perspective on Customer Journey Analytics is, we used to do the fantastic job on web analytics, but this is increasingly becoming what is the analytics across all of the different online and offline data, and it's the way you run a business and we are living proof of when we talk about our DDOM, how we can use that. So I think the customer journey analytics is also in terms of the ideas that we have on its infancy. And maybe the last one, I'll touch on, is what we've been previewing in terms of this marketing system of record, and workflow, trillions are being spent in marketing. In the process associated with rolling out those campaigns, understanding the efficacy of those campaigns, making those campaigns international. I think that, all of that is really, really ahead of us, in terms of what we can do. So we're very excited and for all of these companies, as they have to transition with what's happening in browsers and dealing with the first-party data world or dealing with privacy concerns. All of that frankly is opportunities for us, because we step up, and enable them to engage with their customers and focus on their product offering rather than all this other stuff, because we know how to do that well.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+That makes sense. Thank you.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+One last thing, maybe on that is the B2B, I think, we've always -- most people talk about this, and think about the B2C business, Sterling, which is yeah, they understand travel and hospitality, they understand retail, they understand banking. But this is now happening where it doesn't matter what business you're in. The ability to drive from leads to revenue for a B2B business is also digital. I mean, if you're a company in the pharma industry and you are not able to go visit doctors, and talk to them about the innovation that you're doing, that's [ph] going to move digital. So, I think there is just so much on that particular front.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Thank you.
+
+Operator
+And next we have Brad Sills from Bank of America Securities. Your line is open.
+
+Q - Bradley Sills
+Oh, great. Thanks guys for taking my question and congratulations on the nice quarter here. I just wanted to ask a question on reopening. As you look towards -- as we look towards reopening in U.S. and North America and Europe, what impact do you think that's going to have on the Digital Media business? Just an accelerant do you think? Or -- and also a Digital Experience, what are your thoughts on that? Thank you.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+I think they really tied to the macroeconomic environments, and I think you're seeing that the return to work, the macroeconomic environment is coming back stronger than it's been across all of the customer segments. And for us, we don't view ourselves as, in terms of the solutions we're providing. These digital are not, stay at home or work kind of solution, they're just a mission critical, irrespective of which you have. And so, what I think we'll see is that, as people come back to work, the small and medium businesses will recognize that, it's an opportunity for them to engage. So, I think you'll see more investment there. I think you will see certainly as Europe and other parts of those economy open up, that will help. I think, Japan, the level of vaccination is low, so I think as they come back to work, that's only going to lead to more optimism. And so, I think when you think about consumer confidence and you think about businesses want to invest, I think both of those are only going to be helped by a return to normalcy, and a return to work, that's sort of my perspective.
+
+Q - Bradley Sills
+Thank you so much, Shantanu.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thank you.
+
+Operator
+And next we have Jay Vleeschhouwer from Griffin Securities. Your line is open.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Hey. Thank you, good evening. Shantanu you mentioned Summit, and it was clear from the conference that there were multiple internal initiatives you're working on, that we've seen very likely to have important implications for you over the next number of years. And since you didn't refer to them directly, perhaps you could comment on, on some of those -- including for example, what was referred to, as you've quote future Creative stack? Additionally project (inaudible) and under API strategy, some very interesting references to your Adobe Commerce Merchant Services, including payments and some other things you're working on.
+
+And then lastly, the build out of AEMs is a cloud service globally, targeted for this year. So those are some pretty interesting things from the conference, perhaps you could talk about. And then for the follow-up, an answer to an earlier question, you referred to quote for war for talent. And in your case you had a V-shaped recovery in terms of your own job openings, you added an unusually large number of people in a non-acquisition quarter. Maybe for John, you could talk about whether you think you could or should continue to increase your head count at the same pace as in Q2?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thanks for the question, Jay. As you know, I can, wax eloquent about product stuff for a long time. But let me touch on at least the two ones that you did. I think as it relates to the cloud-based content management, intent is very straightforward, which is how do you transition anybody who wishes to self-provision a cloud-based content offering. And think about it, if you're a small and medium business or if you're a large company trying to do a product campaign, you need to get a website, you need to get it localized, you need to get it up and running, you need to be able to do commerce. And so, the fact that we've got this easy to provision cloud-based content management, which is the leader in the category. But in addition to that, as you mentioned the APIs now, so people can actually embed this APIs, that we have for our content management solution, directly in. So, we're very excited about that. We mentioned last quarter that it saw a significant adoption. And so, I think that will continue to be a driver for the business.
+
+I think as it relates to your other question around what we are doing on the content stack, we've always mentioned that for us, content and data, the two areas where we differentiate ourselves. The asset management problem is still a problem, where we have significant amount of innovation, that we're continuing to deliver. And so -- but we're really excited, I mean, net-net, I think Anil and the product team on the DX side, have outlined a number of initiatives. Other companies talk about a lot of the stuff, but they don't have their products integrated, they don't have the ability to seamlessly provision. And so, I think that's where we're going to continue to focus. And maybe an under-appreciated area, Jay, is how easy these are now, to set-up and provision, and for practitioners of this business to be really able to do it.
+
+I think your second question is a very interesting one, which is, you're absolutely right, the Merchant Services ecosystem, that Magento has, we've actually done a really good job of building that out. I mean, certainly companies like PayPal, that we've talked about, we've talked about what we can do with FedEx. More recently, there are number of other such initiatives that are underway, some of which we are not at liberty to talk about ready [ph] yet. But I think you know dealing with payments, dealing with shipping, dealing with working capital, a lot of interesting ideas, where they're very well positioned to both deliver value, as well as to monetize it.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+And (Multiple Speakers).
+
+A - John Murphy{BIO 16018871 <GO>}
+Then, I can comment on the headcount -- yeah, on the headcount commentary, just to -- you certainly have a number of positions open, that we're actively recruiting against, but we're committed to investing to be able to capture the large opportunities. So, we're going to continue to hire and for innovation and we're going to continue to invest in sales headcount, as well as leverage our ability with favorable [ph] marketing is really drive performance. So, I don't think this is the time to pull back, given the momentum in the business.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Okay. Thanks, Shantanu. Thanks, John.
+
+A - John Murphy{BIO 16018871 <GO>}
+You bet.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thanks, Jay.
+
+Operator
+And next we'll go to Keith Bachman from Bank of Montreal. Your line is open.
+
+Q - Keith Bachman{BIO 3018411 <GO>}
+Hi. Many thanks. First, I wanted to ask a clarification, and then Shantanu a question. John, can you give us the contribution of Workfront this quarter? And then secondly for Shantanu, I wanted to go back to the Experience Cloud. And feedback that we've recently gotten is very positive on the real-time CDP in the Customer Journey Analytics as you mentioned. And I'm trying to go back to, what's the potential growth rate here? So, A. Was the Experience Cloud you think impacted more during COVID than other parts of the business? Because, I'm trying to understand whether there might be a harder snap back? And then, B. When you think about the growth potential here, Gartner comes out with some numbers that areas in Experience Cloud is growing 15% [ph]. Your own TAM analysis, that you put out suggests that the market in '23 growth is more like 25%. How do you think about the business between those two potential growth rates?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Yeah, the way I would answer the question first on the Workfront stuff. I mean it becomes, we -- I think do a great job of talking to you about, how it's going on the integration and it's going really well. We don't break it out after a while, because it's part of so many of these large transformational deals as well as integrated into other solutions. So -- but Workfront is going really well, it's the basis for a lot of the workflows that we're doing across each of our solutions, and we're on track to meet the targets that we gave for Workfront. So, I do want to say that, that went well.
+
+I think as it relates to the overall TAM, which was your second question, we look at it as it's 80 billion plus, so there's plenty of available. And I think a lot of legacy software is going to get rolled out. And so for us, it's not just about what the growth rate is in that market, people are going to recognize that having a modern architecture for dealing with consumer engagement is going to become a bigger and bigger imperative. And frankly the smart companies are opening up their budgets to start to invest in it sooner rather than later, as we said on B2B and B2C. So, we're really pleased with the 20% plus growth that we're seeing. 25 points of subscription revenue growth, we think is really good. We want to continue to focus on subscription revenue as the true measure of that business. And I think as we continue to deliver on the innovation and product roadmap, I think we would hope to continue to see those growth rates, even as the business grows much larger.
+
+Q - Keith Bachman{BIO 3018411 <GO>}
+Okay. Thank you, Shantanu.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+Thank you.
+
+A - Jonathan Vaas{BIO 21700508 <GO>}
+Operator. We're coming up on the top of the hour, we'll take one more question, please.
+
+Operator
+Thank you. Our last question comes from Gregg Moskowitz from Mizuho. Your line is open.
+
+Q - Gregg Moskowitz{BIO 5721834 <GO>}
+Great. Thank you for taking the questions. Shantanu, the Document Cloud, enterprise bookings growth up more than 60% year-over-year, obviously, really impressive. What would you primarily attribute that to? And then just for John quickly, following another upside quarter with an accelerated recovery in SMB, would you say that, you have returned to pre-pandemic levels?
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+I think as it relates to your first question around Document Cloud, I mean, yeah, there is in the business that is not saying, hey, how do we help automate, inefficient paper-based processes? And so the value proposition of the PDF file format, the value proposition of Acrobat as an essential productivity tool for knowledge workers, the availability of Sign, what we are doing with forms and embedded payments. I think it's the combination of all of that, whether you're -- again somebody trying to deliver vaccines for employees or somebody trying to create a new travel authorization or expense. I mean, documents are the fundamental currency of modern business, and automating that, only has value. And I think our team has done a good job. We don't go to market, saying, here is a Document Cloud solution or here is an Experience Cloud solution.
+
+We go and saying, here is the use case for -- if you're in travel and hospitality or retail or financial services or pharma. And I would say, government and healthcare have also become larger customers of these kinds of solutions, because of the necessity for regulated industries, who previously may have relied on paper, to say, you know what, we need to get into the modern era and deal with electronic documents. So, I would say, those are all the reasons and good execution, clearly on the part of our team, as we are selling increasingly at a much higher level, in all of these companies.
+
+I'll let John speak and then I'll come for the close, given this is the last question.
+
+A - John Murphy{BIO 16018871 <GO>}
+Great. Thanks, Shantanu. Thanks, Gregg. Yeah, we've been kind of talking about the last couple quarters, the gradual recovery of the SMB segment, which was hit so severely when the pandemic hit last year. And we saw that continue here in Q2, and really kind of reach that pre-pandemic level of conversion, retention, at least for sure in the U.S. And there is just tons of opportunity now as rest of world begins to open up as well, for that to continue to improve.
+
+Q - Gregg Moskowitz{BIO 5721834 <GO>}
+Very helpful. Thank you.
+
+A - John Murphy{BIO 16018871 <GO>}
+You bet.
+
+A - Shantanu Narayen{BIO 3332391 <GO>}
+And thank you all for joining us. I think from my perspective, I'm really pleased with our performance in Q2, it was an outstanding quarter. And to the question that was asked earlier, with many parts of the world returning to some sense of normalcy, that should only be good for our business. Because, digital has this incredible tailwind where it's just a one-way street, in terms of people wanting to invest. We do expect therefore a slight seasonality associated with our business, but we definitely have an expectation of a strong finish.
+
+And if you look at our first half performance, if you look at our targets for Q3, and the belief in the seasonally strong Q4 finish, that's going to be another outstanding year, where we are going to exceed a lot of the targets that we talked about. If not all, at the beginning of the year, we're driving bookings, we're driving revenue performance from bookings as a result of making sure our people get value for it. We're driving a lot of new businesses that have become material in the Company. And so, the breadth of our portfolio is impressive, because digital is not just a nice to have, it's become super critical. And as I've always said, having three areas of explosive growth, puts us in really rarified atmosphere. And growing 20% plus on the top line, growing the bottom line as impressively as we have with strong cash flow, I think really demonstrates how we are driving value for our customers and value for our shareholders. So, thank you for joining us today, and have a great summer.
+
+And with that, I'll pass it back to Jonathan.
+
+A - Jonathan Vaas{BIO 21700508 <GO>}
+Thanks, Shantanu, and thank you everyone for joining. This now concludes the call.
+
+Operator
+And that does conclude our call for today. Thank you for your participation. You may now disconnect.

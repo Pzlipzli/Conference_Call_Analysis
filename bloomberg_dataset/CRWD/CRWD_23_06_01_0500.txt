@@ -1,0 +1,353 @@
+Q1 2024 Earnings Call
+Company Participants
+Burt Podbere
+Burt Podbere
+9/2015-PRESENT | Crowdstrike Inc, CHIEF FINANCIAL OFFICER
+9/2015-PRESENT | Crowdstrike Holdings Inc, CHIEF FINANCIAL OFFICER
+6/2014-9/2015 | Opendns Inc, CHIEF FINANCIAL OFFICER
+, Chief Financial Officer
+George Kurtz
+George Kurtz
+3/2023-PRESENT | Crowdstrike Holdings Inc, CO-PRESIDENT/CEO/CO-FOUNDER
+3/2023-PRESENT | Crowdstrike Inc, CO-PRESIDENT/CEO/CO-FOUNDER
+10/2004-PRESENT | Foundstone Inc, CO-FOUNDER
+, President, Chief Executive Officer and Co-Founder
+Maria Riley
+Maria Riley
+669-721-0742
+6/2022-PRESENT | Crowdstrike Holdings Inc, VP:INVESTOR RELATIONS
+2019-6/2022 | Crowdstrike Holdings Inc, SENIOR DIR:INVESTOR RELATIONS
+UNKNOWN-2/2019 | Blackline Inc, INVESTOR RELATIONS
+, Vice President of Investor Relations
+Other Participants
+Alex Henderson, Analyst, Needham
+Andrew Nowinski, Analyst, Wells Fargo
+Brian Essex, Analyst, JPMorgan
+Catharine Trebnick, Analyst, Rosenblatt
+Gregg Moskowitz, Analyst, Mizuho
+Hamza Fodderwala, Analyst, Morgan Stanley
+Ittai Kidron, Analyst, Oppenheimer
+Joel Fishbein, Analyst, Truist Securities
+John DiFucci, Analyst, Guggenheim Securities
+Jonathan Ho, Analyst, William Blair
+Jonathan Ruykhaver, Analyst, Cantor Fitzgerald
+Matt Hedberg, Analyst, RBC
+Patrick Colville, Analyst, Scotiabank
+Saket Kalia, Analyst, Barclays
+Shaul Eyal, Analyst, TD Cowen
+Sterling Auty, Analyst, MoffettNathanson
+Tal Liani, Analyst, Bank of America
+Presentation
+Operator
+Good day and thank you for standing by. Welcome to the CrowdStrike Fiscal First Quarter 2024 Results Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question and answer session. (Operator Instructions) I would now like to hand the conference over to your speaker today, Maria Riley, Vice-President of Investor Relations.
+
+Maria Riley{BIO 21401836 <GO>}
+Good afternoon, and thank you for your participation today. With me on the call are George Kurtz, President and Chief Executive Officer and Co-Founder of CrowdStrike, and Burt Podbere, Chief Financial Officer. Before we get started, I would like to note that certain statements made during this conference call that are not historical facts, including those regarding our future plans, objectives, growth, and expected performance, including our outlook for the second quarter of fiscal year 2024 and any assumptions for fiscal periods beyond that are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+
+These forward-looking statements represent our outlook only as of the date of this call. While we believe any forward-looking statements we make are reasonable, actual results could differ materially because the statements are based on current expectations and are subject to risks and uncertainties. We do not undertake and expressly disclaim any obligation to update or alter our forward-looking statements, whether as a result of new information, future events, or otherwise. Further information on these and other factors that could affect the company's financial results is included in the filings we make with the SEC from time to time including the section titled Risk Factors in the Company's quarterly and annual report.
+
+Additionally, unless otherwise stated, excluding revenue, all financial measures disclosed on this call will be non-GAAP. The discussion of why we use non-GAAP financial measures and a reconciliation schedule showing GAAP versus non-GAAP results is currently available in our earnings press release, which may be found on our Investor Relations website at ir.crowdstrike.com or on our Form 8-K filed with the SEC today.
+
+I would like to note that we are conducting today's call from one of our European offices and ask for your patience in any event of technical difficulties.
+
+With that, I will now turn the call over to George.
+
+George Kurtz{BIO 3463509 <GO>}
+Thank you, Maria, and thank you all for joining us, our continued execution despite a challenging macro-environment translated to strong growth and exceptional margins, which drove record non-GAAP profitability, record free cash flow, and GAAP profitability for the first time in company history. We exceeded our guidance across both top and bottom-line metrics.
+
+Increased gross margin, cost discipline, and moderated headcount growth contributed to our strong bottom-line results. Reaching GAAP profitability so early in our life as a public company provides insight into the strength of the model we have built and what we can achieve over time. Burt will cover the financial results in more detail.
+
+I will focus my comments on why we believe CrowdStrike has a clear and sustainable advantage as three mega-trends continue to unfold, AI, consolidation, and cloud.
+
+Let's start with AI. Since inception, CrowdStrike has been and will continue to be at the forefront of leveraging AI to drive better customer outcomes and efficiencies within our own business.
+
+In addition to industry-leading detection and rapid remediation for customers, utilizing AI had benefited our business by lowering costs and yielding higher margins. One example of AI benefiting our financial model is Falcon Complete. For years, our use of AI has enabled us to rapidly scale that business to a leadership position with an exceptional product margin that exceeds our overall company gross margin.
+
+The margin profile and scale we have achieved for our managed offering would not have been possible without our innovation in AI. While others are just now jumping on the AI bandwagon, we have transformed cyber security with an AI-powered cloud business from inception. Generative AI is transforming the world and security is no exception. Large language models or LLMs are only as good as the date on which they are trained and human-annotated content mix for the best training data driving better customer outcomes, relies on having a data advantage, and the context derived from that data.
+
+While we expect that LLMs will become commoditized over time, the data on which they are trained will not. CrowdStrike is uniquely positioned to benefit from this new technology. Our dataset spans [ph] petabytes and captures trillions of new events daily from our global fleet of sensors. Combined that with our over 10 years of attack data and threat graph and has been paired with high-quality human analysis from OverWatch, complete intelligence, and incident response services and you get unrivaled telemetry.
+
+Simply put, we believe CrowdStrike has a sustainable data advantage, the most powerful and unique set of correlated human and machine-generated data across all of cyber. Our data advantage creates a unique competitive moat yielding better models, better automation, and better outcomes. We see the rapidly-growing adoption of generative AI as a democratizing force within cyber security from both an adversarial and protection standpoint.
+
+From an adversarial perspective, we expect that the adoption of LLMs will lower the barrier of entry for malicious actors to create sophisticated cyber-attacks. Generative AI is expected to make it even easier for less advanced attackers to craft nation-state-caliber campaigns. We believe this will catalyze even greater demand for modern cyber security technologies like Falcon.
+
+From a protection standpoint, we see generative AI as a democratizing force by dramatically lowering the learning curve for practitioners transforming even a novice analyst into a power user.
+
+With all this in mind, we introduce Charlotte AI and exciting new generative AI security analyst. Utilizing CrowdStrike's high fidelity data advantage, we believe Charlotte AI will power a newly minted Tier-1 analyst to yield the results of an advanced Tier-3 analyst, the net benefit to the customer, faster results, better security outcomes, and lower overall costs.
+
+Charlotte AI represents CrowdStrike's latest innovation in helping security teams worldwide with the cyber security skills gap, response to threats faster and reduce operational cost. Charlotte AI will uniquely benefit from a continuous human feedback loop with our OverWatch, Falcon Complete, and Intel teams.
+
+This continuous feedback loop on human-validated content is critical. And because of this, no other vendor in cyber will be able to match CrowdStrike's approach to generative AI. Demonstrating our commitment to lead and protect the industry through this next wave of innovation, we teamed up with AWS to develop powerful new generative AI applications that help customers accelerate their cloud, security, and AI journey.
+
+Through this initiative, CrowdStrike and AWS will bring together their solutions and teams to keep customers see across a range of AI services while meeting stringent security requirements. CrowdStrike already has a leadership position in helping protect AI innovators. A perfect example of this is a recent expansion with a B2B generative AI research and development company.
+
+This customer leverages significant public-cloud resources to support their solutions, also aware of the dangers others have faced from adversaries compromising client environments. This customer expanded to Falcon Cloud Security Complete to support this small team with fully managed coverage, provide both cloud runtime protection and partial monitoring across their multi-cloud environment, and scale seamlessly with their growth, or without having to deploy multiple products or hire more people.
+
+Another mega-trend continuing to unfold in cyber security is consolidation. The macro backdrop has only accelerated the need for customers to reduce vendor sprawl, reduce agents, reduce costs, and protect their businesses with a best-of-SaaS platform. On average, enterprise customers can realize over 200% ROI with Falcon with ROI results like this, it's no surprise companies turn to CrowdStrike to protect power and drive efficiencies for their businesses.
+
+In Q1, net-new ARR from our million-dollar-plus customers grew Year-over-Year even at these larger more complex deals can have longer sales cycles. We delivered $174.2 million in net-new ARR for the quarter, which exceeded our stated assumptions. Our momentum with large customers, record Q2 pipeline, and success tracking deals to close, gives us confidence in the back half of the year. In Q1, we closed over 50% more deals involving eight or more modules, compared to a year ago. We believe this speaks to increasing customer demand for consolidation using the Falcon platform.
+
+When we look at our pipeline for the remainder of the year, we expect this trend to continue, giving us confidence in our ability to deliver net-new ARR growth in the back half of the year. Over the past few months, I have personally met with many of our customers, prospects, and partners. These conversations all centered on the same topic, customers want to consolidate their security stack that Falcon and drive greater cost efficiencies while unlocking new capabilities.
+
+Let me share a few recent customer wins highlighting companies with CrowdStrike to consolidate while improving your cyber security outcomes. First, our wins with two new Fortune 200 customers. These organizations are consolidating on Falcon, a single modern XDR platform unifying their process security across their different business units. Each of these new CrowdStrike customers purchase multiple modules with one adopting nine modules displacing legacy and next-gen vendors in their environment and standardizing on CrowdStrike. One of my favorite customer wins this quarter was with a regional healthcare customer brought to us by our partner, Dell.
+
+This organization was frustrated by the volume of false positives generated by their legacy security product which hampered their security teams' efficiency and have secured critical incidents. Recognizing the increased value they could gain by modernizing their security stack and consolidating on CrowdStrike, this customer adopted eight Falcon modules, including Falcon Complete, identity threat protection, and LogScale in a seven-figure total value deal.
+
+In addition, our managed services teams have catapulted CrowdStrike a leader position in the Forrester way for managed detection and response and the number-one market-share position for the second consecutive year in Gartner's MDR for managed security service report. CrowdStrike's MDR leadership extends beyond our Managed Services and into our MDR partner ecosystem, of the top 25 MDR vendors by market share defined by Gartner, 88% have built their MDR services on top of the Falcon platform, showcases Falcon as their modern MDR platform of choice. We are proud that the Falcon platform power so many different partners, enabling them to build their businesses on top of CrowdStrike.
+
+Our industry-leading partner ecosystem continues to expand rapidly contributing meaningfully to our growth. CrowdStrike recently entered into a strategic partnership with Pax8, the leading MSP cloud marketplace with over 30,000 MSP partners across North America, EMEA, and APJ that serve the SMB market. This partnership provides CrowdStrike a born-in-the-cloud route to market for MSP consumption and a prime opportunity to displace the legacy AV and NextGen product vendors, Pax8 partners use today.
+
+MSPs are increasingly turning to the Pax8 marketplace for ease of product purchase, rapid software deployment, and fully-integrated billing to run their businesses, including cyber security. Pax8's MSP partner base will now be able to protect their end customers with the same cutting-edge XDR technology selected by the world's leading and largest enterprises. Our momentum in the public sector continues to expand.
+
+Public sector wins in the quarter included a Falcon Complete win at a top 20 US government contractor and a win with a major US federal agency. Today, we announced CrowdStrike was granted an Impact Level 5 or IL5 Provisional Authorization from the Department of Defense. IL5 certification positions us well to extend our reach into the massive defense IT and cyber security market.
+
+The competitive environment has not changed since our deep dive in April where we disclosed that eight out of 10 times when an enterprise customer tests, they choose CrowdStrike over Microsoft and our win rates across all competitors remained strong in the quarter.
+
+Organizations today more than ever before, need security partners with deep expertise that can stop breaches while driving efficiencies in their security programs, however, from Microsoft, companies experience added complexity, less coverage, and higher costs. While enterprise customer with over 50,000 employees told us the upgrade cost of moving from Microsoft E3 to E5 would be at least 2.3 million more than their CrowdStrike subscription and that's just for the upgrade. With Microsoft's excessive annual cost increases, this will go to $4.7 million by year five excluding the additional costs required to support or send solution or increase staff to manage the extra complexity.
+
+When customers map it all out, they quickly realize that using Microsoft E5 for security is more expensive, requires more headcount, and increases their cyber risk. The cloud is the third megatrend representing a long and sustainable tailwind for our business. The cloud is rapidly emerging as the new adversary battleground. We have observed a 95% year-over-year increase in cloud service exploitation and a 288% increase in threat actors that know how to operate in cloud environments.
+
+Securing cloud assets is paramount today and will continue to grow in importance. As a leader of protecting some of the largest and most critical cloud companies, we have seen strong net-new ARR growth for margins deployed in public clouds. Our Falcon cloud security offering unifies our agent and agentless cloud-native security capabilities into a single offering that's easy to deploy from build to run-time across all major cloud environments and it's driving incredible customer momentum as customers consolidate their cloud security replacing multiple cloud point products with Falcon.
+
+Tying this all together, the rapidly evolving and expanding threat environment demonstrates why it is so critical to have your endpoint, cloud identity, and data protection on one unified, modern XDR platform, Falcon. We've covered a lot today and you can see that our relentless innovation continues to widen the gap between CrowdStrike and the competition.
+
+In closing, I will reiterate a few key points. First, CrowdStrike has a clear data advantage built over the past 12 years by combining our unmatched AI and human-threat intelligence expertise. For customers, CrowdStrike's advantage meets better, faster, and more cost-effective cyber security. For our business, CrowdStrike AI excellenc shines through our differentiated business model efficiencies.
+
+Second, we ushered cyber security into a new era with the introduction of Charlotte AI. Third, companies must consolidate their security stack to reduce complexity, reduce agents, and reduce costs without sacrificing coverage or security. They need to protect their cloud environments from built runtime with a single unified platform. To achieve this, customers choose CrowdStrike.
+
+And fourth, we believe that in addition to building a winning platform, we built a robust business model capable of generating rapid growth at scale earnings and durable free cash flow.
+
+With that, I will turn the call over to Burt to discuss our financial results.
+
+Burt Podbere{BIO 17156127 <GO>}
+Thank you, George, and good afternoon, everyone. As a quick reminder unless otherwise noted, all numbers except revenue mentioned during my remarks today are non-GAAP. We delivered a strong first quarter even with the continued challenging macro-environment with revenue, subscription gross margin, operating income, net income, and free cash flow, all exceeding our guidance and reaching new records.
+
+We believe our financial performance speaks to the strength of our business model on the operational excellence ingrained in the fabric of CrowdStrike's culture, which includes diligence and discipline when balancing growth and profitability. The demand environment remained resilient, although we continued to see increased deal scrutiny and longer than typical sales cycles, especially for larger consolidation deals with our relentless focus on sales execution, we achieved Q1 net-new ARR of $174.2 million, which was above stated assumptions.
+
+We ended the quarter with ending ARR reaching $2.73 billion, up 42% over last year. The quarter was well-balanced with the mix between new logos and expansion cross-sells, net-new ARR similar to Q4. We continue to be very pleased with the success of our land and expand strategy with our dollar-based net retention rate once again above the 120% benchmark in Q1. Subscription customers with five or more, six or more, and seven or more modules now represent 60 to 40 [ph] and 23% of subscription customers respectively.
+
+Moving to the P&L, total revenue grew 42% over Q1 of last year to reach $692.6 million. Subscription revenue grew 42% over Q1 of last year to reach $651.2 million. Professional services revenue was $41.4 million setting a new record for the 11th consecutive quarter and representing 48% Year-over-Year growth.
+
+During the quarter, we also saw strength in Europe, the Middle East, and Japan. International revenue grew 53% year-over-year. Our first-quarter non-GAAP gross margin performance was outstanding with both total and subscription non-GAAP gross margins ascending to new heights. Total non-GAAP gross margin was 78% and subscription gross margin across the 80% milestone for the first time. Our investments in data center and workload optimization drove our gross margin improvement in the quarter. As we have said in the past, we expect subscription gross margin to fluctuate by up to one point on a quarter-to-quarter basis as we balance optimization investments with capacity growth and new platform functionality.
+
+We expect these investments to drive further margin enhancement in the future as we continue to execute on our long-term plan to drive subscription gross margin sustainably above 80%. Total non-GAAP operating expenses in the first quarter were approximately $424.6 million or 61% of revenue versus $291.0 million last year, or 60% of revenue.
+
+The sequential increase in sales and marketing reflects the timing of in-person events and marketing programs. In Q1, our magic number was 1.0 and we achieved a rule of 75 on a free cash flow basis, both metrics reflecting the continued efficiency of our model. First-quarter non-GAAP operating income grew 40% Year-over-Year to reach a record $115.9 million and we reported operating margin of 17%. Non-GAAP net income attributable to CrowdStrike in Q1 grew to a record $136.4 million or $0.57 on a diluted per share basis. Our weighted-average common shares used to calculate first-quarter non-GAAP EPS attributable to CrowdStrike was on a diluted basis and totaled approximately 241 million shares. We also reached GAAP profitability for the first time in company history. While we are very proud of this milestone, we have yet to reach sustained GAAP profitability.
+
+Q1 benefited significantly from fewer net-new hires in Q1 which we expect to pick up throughout the remainder of the year, albeit at a much more moderated pace in comparison to FY23. We believe reaching this milestone demonstrates that our financial model will deliver GAAP profitability in due time. We ended the first quarter with a strong balance sheet, cash, cash equivalents, and short-term investments increased to approximately $2.93 billion. Cash flow from operations grew 40% Year-over-Year to a record $300.9 million. Free cash flow grew 44% Year-over-Year to a record $227.4 million or approximately 33% of revenue.
+
+Before I move to our guidance, I'd like to provide a few modeling notes. We are raising our revenue guidance for the fiscal year and maintaining our net-new ARR assumptions for the first half and fiscal year which call for a 10% Year-over-Year headwind to net-new ARR in the first half and in line to modestly up net-new ARR for the full year. Our strong Q2 pipeline and momentum with large consolidation deals give us confidence in the remainder of the year including the back half where we expect to return to Year-over-Year growth in net-new ARR.
+
+Also as a reminder, given the timing of expenses, billing seasonality and the midyear ESPP purchase, the second quarter is generally our lowest cash flow generation quarter of the year. This year we expect to see more pronounced seasonality and maintain our target of achieving 30% free cash flow margin for the fiscal year. As we discussed during our Investor briefing in April, this is inclusive of estimated full-year impacts from billings duration and cash taxes, balanced by the positive tailwinds of increased operating leverage, higher interest income, and lower CapEx.
+
+And lastly, our assumptions on interest income, cash outlay for income taxes, and capital expenditures are unchanged. For the second quarter of FY24, we expect total revenue to be in the range of $717.2 million to $727.4 million, reflecting a Year-over-Year growth rate of 34% to 36%. We expect non-GAAP income from operations to be in the range of $116.4 million to $123.8 million and non-GAAP net income attributable to CrowdStrike to be in the range of $129.5 million to $137.0 million.
+
+We expect diluted non-GAAP net income per share attributable to CrowdStrike to be in the range of $0.54 to $0.57, utilizing a weighted-average share count of 242 million shares on a diluted basis. We are raising our revenue and profitability guidance for the full-fiscal year 2024. We currently expect total revenue to be in the range of $3000.5 million to $3036.7 million, reflecting a growth rate of 34% to 35% over the prior fiscal year.
+
+Non-GAAP income from operations is expected to be between $498.9 million and $526.2 million. We expect fiscal 2024 non-GAAP net income attributable to CrowdStrike to be between $562.8 million and $590.1 million. Utilizing $243 million weighted-average shares on a diluted basis, we expect non-GAAP net income per share attributable to CrowdStrike to be in the range of $2.32 to $2.43. George and I will now take your questions.
+
+Questions And Answers
+Operator
+Thank you. (Operator Instructions) Our first question comes from Saket Kalia with Barclays. You may proceed.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+Okay, great. Hey guys, thanks for taking my question here. And congrats on the DoD authorization.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Thanks, Saket.
+
+Q - Saket Kalia{BIO 16417197 <GO>}
+George -- Hey, Burt, hey George, thanks for taking my question here. George, maybe for you, and I'll just stick to one here. Can we just talk a little bit about what you're seeing in legacy endpoint share gains? I mean clearly, CrowdStrike has a broader platform beyond just endpoint, but I'm curious, just given the macro and everything happening, curious how you feel about that opportunity for continued share gain in the endpoint specifically.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Well, I feel good about that opportunity. And if you look at our current market leadership and market-leading leadership at 17.8% for modern endpoint security. It's still a very fragmented market and we continued to take share from the legacy players that are in the market. Again, when you look at different geographies, obviously, we've got heavier penetration in North America, but there's many geographies in the rest of the world that still have to be penetrated deeper, particularly in converting those legacy players. So I feel really good about it. It's a fragmented market. If you just look at the numbers and the ongoing conversion of legacy technologies into NextGen players like CrowdStrike will continue for the foreseeable future.
+
+Operator
+Thank you. Our next question comes from Sterling Auty with SVB MoffettNathanson. You may proceed.
+
+Q - Sterling Auty{BIO 2070271 <GO>}
+Yeah, thanks. Hi, guys. I wonder if you could give us a sense of what kind of impact you saw in the business from the disruption from the banking crisis in March, both on kind of ARR linearity, and maybe even billings in the quarter.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Hey, Sterling. How are you? So number one, let's talk about the impacts of the banking crisis. So for us, there was not a material impact on ARR from the banks. I think the impact of churn from banking industry was really de-minimis. And we continue to close deals with regional banks in the quarter. Banks in particular need robust cyber defenses, overall gross retention remained high and best-in-class. So we felt pretty good in terms of that particular piece of the segment.
+
+In terms of overall billings, billings is of course for us quite cyclical and it is driven primarily through seasonality. So Q4 has our largest deals and the renewals that came up have an impact and then the impact falls into Q1, which we would see overall decrease. So that's how we think about it. And as you know, the business is focused on ARR, as opposed to billings, which can be -- which can have whipsaw effects [p0h] and the focus on ARR, just gives you an idea about the overall health of the business
+
+Operator
+Thank you. Our next question comes from Joel Fishbein with Truist Securities, you may proceed.
+
+Q - Joel Fishbein{BIO 4369009 <GO>}
+Thanks for taking the question. Hey, George, one for you. Thanks for the update on AI. I'm just curious. As it increases the attack surface, just curious if you've seen any threats recently that may have been exploited new threats as a result of the proliferation of some of these new models that are out there and I have a quick follow-up.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Well, we continue to see and we have seen for some period of time adversarial AI. So the use of AI specifically by the adversary to try to deceive security systems. So that's been going on for some time. I think what we're seeing now with generative AI and LLMs is the fact that it becomes very easy for even a novice adversary to be able to have the same capabilities as a nation-state to create new exploits new vulnerabilities to be able to deliver phished [ph] e-mails, et cetera. So that will be an ongoing effort. And again, we're really excited about Charlotte AI, which we announced this week. I think it's an absolute game changer for us in the company and what we're able to do and to really compress the workloads for analysts and provide a lot of the intelligence that we have and our analysts have right through the Falcon platform. So we'll continue to monitor that, but that's been an ongoing activity that we've seen for some time.
+
+Q - Joel Fishbein{BIO 4369009 <GO>}
+Great. And just as a follow-up on this CrowdStrike Falcon Complete XDR, can you just talk about how the new release may increase your competitive advantage in that space? I think there's a lot of noise out there.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Well, there is a lot of noise and when you look at XDR and what we've talked about with our use of AI in terms of really driving additional leverage in the business, it does help to automate a lot of what we do and we can now provide that level of automation in a complete offering because XDR is still as an industry is still an immature technology. I think wrapping it with a complete service really allows customers' staff peace of mind, they can allow us to take in that third-party data, leverage the models that we've already built to get better outcomes, faster response, and drive down their overall operational costs.
+
+Operator
+Thank you. Our next question comes from Hamza Fodderwala with Morgan Stanley. You may proceed.
+
+Q - Hamza Fodderwala{BIO 20861192 <GO>}
+Hey guys, good evening, and thank you for taking my question, George, I have a question for you as well. So I'm curious how you're thinking about monetizing some of the new AI services that you've released. I mean, is this something that can drive more sort of top-of-the-funnel conversion? Do you think it's going to drive more demand for LogScale? Is there like explicit SkUs that you're offering? Just curious how you're thinking about that. I know it's pretty early days.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Well, it's something that's really foundationally built into the platform and we believe it's going to drive a lot of additional adoption of modules in platform usage throughout the customer base. So we'll start there. As it evolves over time, we'll have to see if we will monetize it with specific SKUs but I think first and foremost let's get into the customer base, let's iterate it, let's leverage the data advantage that we have because as I've talked about in the earnings call, we've got 10 years of being able to train these algorithms and I think as most know, it really is the human interaction that allows us LLMs to shine and we've got I think a real advantage because we've got 10 years of attack pairing if you will, with data and how the attacks work that can be used for training. So we're going to get it out in the customer base, continue to iterate it. And then I believe it will drive more adoption of the platform modules and then we'll see how we'll monetize it after that from a separate SKU perspective.
+
+Operator
+Thank you. Our next question comes from Matt Hedberg with RBC. You may proceed.
+
+Q - Matt Hedberg{BIO 16655531 <GO>}
+Great guys, thanks for taking my question. You're talking about a lot of confidence in the second half net-new ARR acceleration, when you sit back and you look at it, there's a lot of things. I think to be excited about, what do you think are the biggest drivers of that growth? And maybe I missed it, but are you still targeting well 40% [ph] growth for fiscal '24?
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Yeah, hey, great question. So first, let's talk a little bit about the second half, obviously, the easier in the back half, right? So that's number one. And then what really gives us confidence going into the second half is three things, one is pipeline. We see momentum and deal activity rapidly building for the second half. It really started in the middle of Q1 and we saw that momentum to be able to build the pipe from the second half. So that is number one.
+
+Number two, products, we were excited about LogScale, George talked about it a lot, we've given some examples. So we think that there is a great opportunity with LogScale, we're also seeing momentum in cloud. I think that's something that we're really excited about and ARR power XDR now with Charlotte and George has already talked about that and then third, partnerships. Whether it's Dell or Pax8 or others that are coming online, we think that that can be something that will move the needle for us in the second half.
+
+So the key here is cyber security remains mission critical. And I think customers want to consolidate and drive down TCO, more than ever and Falcon is designed to do exactly that. So I think that when you look at the overall module adoption and we talk about -- we closed over 50% more deals involving eight or more modules this quarter, compared to a year ago, that gives -- that speaks to the power of our platform. And so all those things give us confidence about what we talked about in for the second half and stated assumptions remain same.
+
+Operator
+Thank you. Our next question comes from Andrew Nowinski with Wells Fargo. You may proceed.
+
+Q - Andrew Nowinski{BIO 15334403 <GO>}
+Great, thank you. Thanks for taking the question, so I was wondering if you could just expand on your partnerships with Dell that you talked about last quarter, just wondering how much it contributed into the quarter, whether you have enough visibility from that partnership yet to factor that into your new guide -- your new revenue guidance for the year and if that's actually driving any traction that SMB sector. Thanks.
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Yeah, good question, so one, we're tracking plan, we're still early days obviously with Dell. We called out a one-seven-figure deal with a regional healthcare company that was brought to through our partnership with Dell in the quarter. And obviously, with any new alliance, it does take time to gain traction. So the numbers that are coming from that Dell partnership, we anticipate to grow over time. But in terms of a big piece of the quarter, not yet, right, we have great expectations. But like anything else, those things do take time and -- but we are still affected about it.
+
+Operator
+Thank you. Our next question comes from Tal Liani with Bank of America. You may proceed.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Hi, guys. Can you give us an update on two questions? Can you give us an update on going down market and your traction with Falcon Go, the SMB focus area? So what's the -- how -- what kind of competition do you see there given that Microsoft is stronger in the down market?
+
+And second question, we have seen many companies in this space having sales to existing customers, much stronger than sales to new customers, there is slow down in sales to new customers. Can you give us kind of the data on where do you see the growth coming from and existing versus new customers? Thanks.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure, I'll start out and then Burt can add anything if he needs to. So Falcon Go has been a success for us. We continued to target the SMB market. I think I called out in one of the prior earnings calls, how we organized ourselves internally. We've got a specific focus on a leader on that. We've seen a lot of success there and we'll also need to call out the pairing to our success in the MSP market and partnership like Pax8 which really allows us to get those lower-cost offerings out to customers through managed service providers.
+
+So, it's a big market for us in SMB, it's a very highly fragmented market. You have some players there, but we've been successful because customers are looking for outcomes, you talked about Microsoft. Customers routinely come to us after they get hit with ransomware, after they have an issue and looking for NextGen solution, it doesn't depend on signatures. So we see success there, we've got to ramp our channels up. We're working with Dell and others and managed service providers. But I feel really good about that opportunity and that will continue to grow over time.
+
+A - Burt Podbere{BIO 17156127 <GO>}
+I'll take the second part of the question, Tal. So we really haven't seen a material difference in terms of the mix between (inaudible) install base and net-new logos versus last quarter. We do think that we will see over time as our installed base gets larger, they have more opportunities to sell to our installed base. Having said that, we still think we have a lot of headroom in terms of net-new logos. We have a long way to go and we talked about that on earlier calls. So overall, we're really pleased with our opportunity in both net-new logos from a new logo that we have from a cross-sell upsell opportunity.
+
+Operator
+Thank you. Our next question comes from Shaul Eyal with TD Cowen. You may proceed.
+
+Q - Shaul Eyal{BIO 3467274 <GO>}
+Thank you. Hi, good afternoon, guys. George, last quarter I believe maybe during the update you talked a lot about some of the Microsoft displacements, and I know you've actually just kind of mentioned that. And in that context, maybe shifting to from a model perspective, any specific trend that you can talk to us about this quarter versus prior quarters with respect to the leading modules, the identity, some of the emerging ones versus everything that you're seeing from Microsoft in that respect. Thank you.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. I think I'll start with consolidation and I'll reference back to what I spoke about in the prepared remarks. Every customer that we spoke to and I spoke to many, many customers at RSA. And even throughout the quarter, it was really about consolidation. I think we've done a good job of showing a very cost-compelling model for them where they're actually paying less than 75 [ph] for the security pieces particularly CrowdStrike and they are getting better outcomes. So there are many customers that have said, we want to consolidate on CrowdStrike. We want to buy more. Obviously, these take -- these sort of bigger deals take time. They have more deals scrutiny those sort of things, but that's what we're seeing and that's I think reflected in what we saw this quarter and certainly what we've seen growing in the pipeline as customers want to do more with CrowdStrike.
+
+Operator
+Thank you. Our next question comes from John DiFucci, Guggenheim Securities. You may proceed.
+
+Q - John DiFucci{BIO 4099352 <GO>}
+Thank you. My questions for George. So this is the first quarter ever that new ARR declined for you guys whereas most other's decline started quarters ago, like several quarters ago. Tal asked about competition in the SMB market, but what about demand, we started to hear some weakness in the SMB in the mid-market and we realize that that's largely a greenfield for you. So it might be harder for you to tell, but are you seeing any changes in that market demand this quarter versus previously?
+
+A - George Kurtz{BIO 3463509 <GO>}
+No, we actually saw strong demand and results in SMB. I think we've got a great model, we've got the right technology for it and we're solving outcomes, right, when you look at not only the technology itself, obviously, you can buy Falcon Go as a customer, but you can also buy Falcon Complete, we have many SMB customers, many, many that are Falcon Complete customers, why because it's a very compelling proposition from a price perspective, they couldn't even fill one head for the cost of what we're charging them and they're getting the best in the world in terms of security.
+
+So we have not seen a slowdown in SMB. We've got, I think really good traction there. And at the end of the day, as you pointed out, it's still a fragmented market and it's a smaller part of our overall revenue. So we see great future opportunity with it and didn't see any impact of last quarter.
+
+Operator
+Thank you. Our next question comes from Brian Essex with JPMorgan. You may proceed.
+
+Q - Brian Essex{BIO 6993949 <GO>}
+Hi, good afternoon, and thank you for taking the question. I guess maybe for Burt. Nice milestone of hitting GAAP profitability. I guess that we would love a little bit more color around your commitment to maintaining GAAP profitability, what should we expect? And you also had a really I think for the first time, stock-based comp decline sequentially, what is kind of the outlook there? And how should we kind of frame out your view and your plans to drive GAAP profitability and balanced growth and profitability going forward? Thank you.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Thanks, Brian. Great question. So one overall, we've had a very methodical approach in how we look at the various aspects of the model. So first, we focused on gross margin. And you can see the progress that we've made there.
+
+Second piece was focusing on non-GAAP profitability and free cash flow, free cash flow, as you know, which is 30%. And that is something that's ongoing. Third evolution is GAAP profit which we will continue to focus on and drive towards achieving sustainability. Of course, FCC [ph] is the biggest piece of that. We continued to manage the FCC [ph] and very mindful balanced with retaining the best and the brightest talent that's paramount for us.
+
+We also look to dilution. Our dilution, we feel is in a good place, less than 2% this year, strive to keep it under 3% in the year that are coming. So overall, we are very pleased with hitting the GAAP profitability and believe it demonstrates the power model and that we are disciplined in our growth and we are disciplined in how we see the market today. Everything we do is by the time, it's not a fluke. We think about it. In terms of where we can extend and how we can extend, but for us with the FCC [ph], we really focus on making sure we are able to get the best talent and retain the best talent and attract the best talent. That's how we really think about it and for us, we're going to look forward to when we reach sustainability, but we have other things we're going after right now including that retention and traction [ph].
+
+Operator
+Thank you. Our next question comes from Jonathan Ho with William Blair. You may proceed.
+
+Q - Jonathan Ho{BIO 16192176 <GO>}
+Hi there, good afternoon, and I just wanted to maybe ask a little bit about sort of the success that you've seen with these additional add-on modules. Can you help us understand maybe where that success is coming from, whether it's some of your newer products in areas like cloud or EASM? Or is this an instead of multi-product sales from your more existing endpoint capabilities? Thank you.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure. While we've seen strength in many different areas, we had some incredible wins with LogScale. I'm really seeing the momentum on that, there's a real need in the industry for faster, better, cheaper logging and customers are looking for a solution, so that was great to see. I think when you look at identity, this is one of those areas where just like EDR in the early days, it wasn't necessarily budgeted and what we're starting to see now is that companies are actually budgeting in current and future budgets for identity, just like XDR -- sorry, EDR as an emerging product.
+
+And the third area is cloud. We had some incredible cloud wins. We've packaged up our offering to include both agent and agentless on the cloud, basically one SKU, customers can use it, they love the fact that they're getting results from both agent and agentless technologies. And that is a true differentiator in the environment -- the competitive environment. So overall, when you look at a lot of these areas that have called out in the past, it's full-speed ahead on them and we continue to add more capabilities and I'm really excited about the product lineup that we have for this fiscal year.
+
+Operator
+Thank you. Our next question comes from Gregg Moskowitz with Mizuho. You may proceed.
+
+Q - Gregg Moskowitz{BIO 5721834 <GO>}
+Okay, thank you for taking the question. First, a quick clarification from Burt, if you could just comment on average duration this quarter and if there was any change. And for George, so I know you've been incorporating AI into Threat Graph and the broader platform for years, but on Charlotte, you alluded to commoditizing LLM but might do leverage open-source and develop your own LLM space under a dataset to provide additional value there. Just curious to hear a little more on how you may augment existing LLM to potentially drive a greater wedge, so to speak, based on your inherent data (inaudible). Thanks.
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Hi, Greg. I'll take the first part of that question. So as you know, we called out that we expect to see in the long-term, the shift from multi-year deals to one-year deals. I think that's traditional in software. But we do not see a material shift in the trend this quarter compared to the last quarter. So just be very, very clear on that point. Deal durations are getting shorter, but are expected and it remains within the parameters of how we've modeled out our overall business.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Yeah, Greg, on the question regarding LLMs, obviously there is some great technology that's already out there and I think our view is to leverage LLMs. It's a very similar concept to be able to leverage different cloud providers, leverage the LLMs that to you for a particular purpose. It doesn't mean we couldn't build our own, but I think what's important and I called this out in the prepared remarks, is the fact that the training is one of the areas that really makes an LLM shine and I think many people have seen that just with their understanding of ChatGPT, these things have to be trained or you get hallucinations in terms of the results -- spurious results if you will.
+
+So from our standpoint, we believe the pairing of the Threat Graph with annotated threat data over the last 10 years is and will continue to be a sustainable advantage of barrier entry because we've already done a lot of that kind of human training and we can take advantage and interchange LLMs within our own dataset to provide the best outcome depending on what we're looking for. So we'll leverage what's out there, we may build some of our own, but I think more importantly, we've got the right dataset to get the training, the way we need it.
+
+Operator
+Thank you. Our next question comes from Alex Henderson with Needham. You may proceed.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+All right, thank you so much. I was hoping you could talk a little bit about what your assumptions are in terms of your pipeline in terms of deal sizes, duration, closure rates, and price relative to the conditions. Are you baking in a little bit more conservatism in Tier assumptions on some of those parameters? Are you expecting the deal sizes to continue to go up, but then push out in the time to close deals? And what are you assuming around closure rates in this environment? And if you could feather in a little bit on the federal. I would love it. Thanks.
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Thanks, Alex. few things to unpack there, so let's start with in terms of larger deals, again we closed over 50% more deals involving more modules this quarter, compared to a year ago. I think this really speaks to the fact that customers really want to do the consolidation play, they want to continue to leverage Falcon platform as a means to get the right outcomes at the right price. In terms of the overall environment, so first big picture in the macro, we don't see the macro improving now and for the rest of the year. So with that as a backdrop, when we think about deal durations, yeah, sure we think deal durations are going to be shorter. I think people are going to -- in terms of their size, they are going to be longer to be able to consummate. And that goes to the additional scrutiny that we're continuing to see from companies looking to do bigger deals takes more time. And so when we think about that all perspective, we know that there's going to be deals that are going to be more difficult to close within a particular quarter. And so we've modeled that in.
+
+I think that overall with respect to some of the other metrics that you had mentioned, I think that for one, I think that for our net-new ARR, we are going to maintain the assumptions that we stated previously. I think that's the right thing to do. With that, I'll pass it over to George to talk about that.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Sure, as I mentioned in prior comments, we're excited about IL5, it does open up. I think a much bigger federal opportunity. We had some really nice wins in the quarter. And that's one, again it's slow and steady, you've just got to get in. It may take a while to get deals done, but they last a long time and they are big and medium, so we continued to drive forward on that and I think this IL5 certification opens up more doors for us.
+
+Operator
+Thank you. Our next question comes from Ittai Kidron with Oppenheimer. You may proceed.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Hi, thanks. George, thanks for the great review on AI. I guess the question is for Burt. With the benefits of AI, as George described them, how soon can you raise your long-term margin targets?
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Well. For us, we're really pleased with where we're going with our margins, across the gross margin, you saw the progress that we've made there. We've talked about the continued developments for optimization, in our -- certainly in our data centers, as well as our cloud workloads. And then the progress that we're making in AI, we built into everything we do and we've been doing it for 10 years. We do anticipate to continue to see those improvements. And just as our memory -- just as to remind you Ittai, we've been doing AI from the beginning, just as we did cloud from beginning, it was -- those two were hand-in-hand and the good news there is we've got as George had mentioned, over 10 years, all of that AI and the training on the AI and that's a massive head-start over any one of our other competitors.
+
+Operator
+Thank you. Our next question comes from Patrick Colville with Scotiabank. You may proceed.
+
+Q - Patrick Colville{BIO 21751352 <GO>}
+Hey, thank you so much for squeezing me in. In the prepared remarks, you mentioned that in the quarter, you saw increased deal scrutiny and longer sales cycles. Can't you just double-click on that comment? I mean was that increased deal scrutiny and longer sales cycles -- was that like late in the quarter in the kind of in March-April? Or is that towards the beginning? And I guess, any more color or clarity you gave on those comments would be fascinating. Thank you.
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Sure, so the comment was meant to be throughout the quarter. As we go into deals, we're seeing customers want to consolidate more and that takes more time because they're adding more modules with us. So they're looking to spend more with us, but then reduce other spends from other competitors, and in a sense, they're actually thinking about better outcomes overall in the security space and beyond, and how to get it at a cheaper price. And that's again, things that we've talked about from day one. And we're seeing that happen today. So, throughout the quarter that we're seeing both additional deal scrutiny what I just mentioned, but also they do take longer and that's throughout the entire quarter.
+
+Operator
+Thank you. Our next question comes from Jonathan Ruykhaver with Cantor Fitzgerald. You may proceed.
+
+Q - Jonathan Ruykhaver{BIO 1793609 <GO>}
+Yeah, hi guys. So I'm curious, when you look at data retention requirements, particularly XDR for threat hunting, but I guess increasingly going forward for these large language models, can you just talk about the issue the industry is facing around the increase in data retention requirements and pre-associated cost? And I know you've already talked positively on LogScale adoption, but those costs with LogScale versus other solutions, is there any way for you to quantify what that looks like the advantage you have?
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Well, specifically around LogScale, you see a massive increase in terms of our compression algorithms in our ability to store data and I think one of the areas where you look at LogScale and just a simple view of it is better, faster, cheaper and that's what we've seen, we've had some big customers that are using that really as their call it their data like if you will. They can store lots of data on-prem or many of them in the cloud for a very cost-efficient -- in a very cost efficient manner and they still get the performance, so I think the architecture, which is a modern architecture around LogScale really does give us an advantage there. And that's been borne out by customers and their own testing.
+
+Operator
+Thank you. And our last question comes from Catharine Trebnick with Rosenblatt. You may proceed.
+
+Q - Catharine Trebnick{BIO 16257271 <GO>}
+Hi, thank you for the question. Last -- at the last Analyst Day or the one before you talked about your coalition partnership, and can you talk to cyber insurance as a -- is that still a tailwind -- this tailwind that was last year dissipated [ph]? Thank you.
+
+A - Burt Podbere{BIO 17156127 <GO>}
+Yeah, I think Cyber insurance for a lot of customers is very difficult to get and it's actually gone up in cost. So we have many customers that as part of CrowdStrike acquisition are baking in their ability; A, get cyber insurance; and B, in many cases, being able to reduce the overall cost because many of the cyber insurance providers recognize with CrowdStrike in place overall risk is dramatically going to be reduced. So that's what we've seen. I don't know that there is any anomalies one way or another, but it's continued problem in the industry to actually get cyber insurance and it is part of our overall value proposition to a customer to be able to; A, help them get it; and B, reduce their overall cyber insurance costs.
+
+Operator
+Thank you. And this concludes the Q&A session. I'd now like to turn the call back over to George Kurtz for any closing remarks.
+
+A - George Kurtz{BIO 3463509 <GO>}
+Well, I just wanted to thank everyone for their time and attention, and we appreciate the questions and we look forward to seeing you next quarter. Thank you so much.
+
+Operator
+Thank you. This concludes today's conference call. Thank you for participating, you may now disconnect.

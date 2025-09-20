@@ -1,0 +1,292 @@
+Q4 2021 Earnings Call
+Company Participants
+Aart de Geus, Chairman and Co-Chief Executive Officer
+Lisa Ewbank, Vice President, Investor Relations
+Trac Pham, Chief Financial Officer
+Other Participants
+Ashley McCurry, Wells Fargo Securities
+Charles Shi, Needham & Company
+Gal Munda, Berenberg Capital Markets
+Jackson Ader, JPMorgan Securities
+Jason Celino, KeyBanc Capital Markets
+Jay Vleeschhouwer, Griffin Securities
+Joe Vruwink, Baird Equity Research
+Pradeep Ramani, UBS Securities
+Vivek Arya, BofA Securities
+Presentation
+Operator
+Ladies and gentlemen, thank you for standing by. And Welcome to the Synopsys Earnings Conference Call for Fourth Quarter of Fiscal Year 2021. At this time, all participants are in a listen-only mode and later we will conduct a question-and-answer session and instructions will be given at that time. (Operator Instructions). Today's call will last one hour five minutes prior to the end of the call we will announce the amount of time remaining in the conference. As a reminder, today's call is being recorded.
+
+At this time, I would like to turn the conference over to Lisa Ewbank, Vice President of Investor Relations. Please go ahead.
+
+Lisa Ewbank{BIO 2178607 <GO>}
+Thank you, Kerry. Good afternoon everyone. With us today are Aart de Geus, Chairman and co-CEO of Synopsys; and Trac Pham, Chief Financial Officer. Before we begin. I'd like to remind everyone that during the course of his call Synopsys will discuss forecast, targets and other forward-looking statements regarding the company and its financial results. While these statements represent our best current judgment about future results and performance as of today, our actual results are subject to many risks and uncertainties that could cause actual results to differ materially from what we expect. In addition to any risks that we highlight during the call, important factors that may affect our future results are described in our most recent SEC reports and today's earnings press release.
+
+In addition, we will refer to non-GAAP financial measures during the discussion. Reconciliations to their most directly comparable GAAP financial measures and supplemental financial information can be found in the earnings press release, financial supplement and 8-K that we released earlier today. All of these items plus the most recent investor presentation are available on our website at synopsys.com. In addition, the prepared remarks will be posted on the site at the conclusion of the call.
+
+And with that, I'll turn it over to Aart de Geus.
+
+Aart de Geus{BIO 1431475 <GO>}
+Good afternoon. I'm happy to report that Synopsys delivered another record year, substantially exceeding our original goals. We grew revenue 14% to $4.2 billion with double-digit growth in all product groups and geographies. We substantially expanded our non-GAAP operating margin with more than 20% earnings growth and generated record cash flow of $1.49 billion.
+
+In addition, disruptive innovation and collaboration accelerated our momentum as a number of large customers significantly expanded their commitments with Synopsys as visible in an outstanding orders here. As a results, we enter fiscal 2022 with momentum. Looking forward, we are raising our long-term financial objectives to strong double-digit revenue growth anchored in a step up in EDA and IP targets, ongoing non-GAAP operating margin expansion and non-GAAP earnings per share growth in the mid-teens range. All of which driving very strong cash flow. Trac will discuss the financials in more detail.
+
+Underlying our elevated outlook is not only a vigorous market, but just as importantly, a long-term growing demand for smart everything in every vertical segment. The inherent technical challenges powering this new era are well aligned with Synopsys strength. Specifically, the smart everything era brings together massive amounts of data with the new wonders of machine learning software. Combined with the metaverse outlook of human machine interaction they're all off chip centric electronic systems has enormous potential.
+
+This requires highly complex semiconductor chips with massive compute capability. Evolving semiconductors from system-on-a-chip to tightly integrated systems of chips, and increased need for security and safety across software and hardware that is across the entire system. From an economic perspective, new entrants are already designing their own specialized chips. Traditional vertical market leaders are taking on a more active role in influencing chip and system architecture and design.
+
+At all levels investments and urgency are increasing. To deliver on this promise, our customers are transforming the way they approach design. Whether it's processor or mobile teams combining multiple compute storage and connectivity chips together in CDIC structures or hyper scalars investing in their own chip architectures to increase their cloud differentiation or automotive OEMs dictating specific safety protocols or financial services companies inserting security testing into their development processes. All are driven by the urgency of the economic opportunity and the need for strong partners to master the complexity of the task.
+
+Synopsys connects with all of these and is uniquely equipped to help catalyze this new era. The center of gravity of the technical challenges is the intersection of hardware and software. A chip is only as good as its interaction with the software and vice versa in other words, the system. The system focus has been at the core of Synopsys innovation for many years and is now fueling mounting customer and business momentum.
+
+Nowhere is systemic complexity more visible than in our IP business. The sophistication of our IP blocks requires reaching deep down into the understanding of the advanced silicon nodes and also high up to the system architecture and software. IP is thus a bellwether of systems leadership as new architectures are increasingly jump started by selecting the most important IP building blocks and their configuration.
+
+Benefiting from this, we achieved another record year in IP with revenue surpassing $1 billion and growing approximately 20%. This momentum is maintained for two reasons. First continued, strong demand to outsource IP as customers needs their most skilled resources to focus on the different shading aspect of their chips. Second, an increasing number of new entrants in segments such as automotive, high performance compute and AI, accelerate their schedule by whenever possible selecting complex IP building blocks that are commercially available from a company they trust.
+
+As a number one provider of interface, foundation and physical IP, Synopsys is in a unique position to provide complete solutions across multiple key segments. For example, we have the broadest IP portfolio for the fast-growing high performance compute and data center market, including PCI express, HBM3, 400 gig, 800 gig Ethernet and many memory interfaces. We also see continued strength in automotive fueled by the electrification of cars, the push to autonomous driving and the explicit demand for higher safety, security, and reliability. Our IP has been selected by approximately 50 automotive companies with nearly 500 IP wins today.
+
+In addition In addition, Synopsys has always driven the leading edge providing IP and of course, EDA on the most advanced process nodes. With the mobile and compute companies who are deeply engaged at 3 nanometer and at over 250 design wins at 5 nanometer this year.
+
+Let me talk a bit about system verification. Over our Synopsys logo our tagline states silicon to software. Our unique strengths is to sit at the intersection of validating hardware and software or simply put verifying that the chips and the system do what was intended. Building on our market-leading VCS chip simulation solution we were at the forefront of the of delivering software and hardware based prototyping more than a decade ago.
+
+Since then our offering has rapidly gained technical and market leadership. 2021 was a record hardware year with strength in both emulation and prototyping. Our solutions set up the sweet spot of hardware software coverification and our emulators are the fastest machines was the highest capacity and the lowest cost of ownership.
+
+This year, we increased our differentiation. We introduced application-specific emulation products ZeBu Empower and ZeBu EP1 that are significantly faster and higher capacity than any competitive solution in the market. Meanwhile, our new HAPS-100 prototyping system now delivers 2x faster performance and 4x better debug driving accelerated growth.
+
+During the year, we achieve multiple competitive wins and significantly broadened our customer base, as we added more than 50 new logos and 200 repeat orders. Obviously, at the center of enabling the smart, everything era sets the promise of AI which begs the question, what about applying AI to chip design? Today, machine learning enables significant capabilities and runtime advances in all of our key products.
+
+About two years ago, we delivered a fundamental disruptive technology at a very different magnitude, using AI to automate not just tools, but entire design flows. The outcome is remarkable. Our award-winning DSO.ai solution is getting great results on production designs with a rapidly growing number of customer pipelines. DSO.ai, which stands for Design Space Optimization using AI does exactly what the name says. It explores many, many design options, learns from them, using designer tool data and finds design configurations that a human is unlikely to ever find.
+
+Moreover, since design variables such as performance, power, size, yields, reliability, and so on all trade off against each other, DSO.ai can optimize well beyond what a design team can easily fathom. Through this year, results got better and better. Run by our customers on real production design, DSO.ai has reduced designed times from month to weeks with superior performance and power results. One notable example is Samsung, which relied on DSO.ai for multiple complex projects, the most recent being an advanced production design for a new mobile product.
+
+Applied at every stage of design implementation, DSO.ai deliver performance, well beyond their speed target and substantially reduce power consumption. All while saving weeks of manual effort. Central to DSO.ai's result are the powerful engines underneath it, our Fusion design platform. The platform is centered around our Fusion compiler product. The only solution today to seamlessly integrate market-leading synthesis and place in route, cross-check and optimized by timing power and physical sign off all in a single tool. Fusion compilers full flow proliferation and competitive wins increased through the year including major expansions and competitive displacements, revenue more than doubled this year.
+
+(inaudible) to our sustainable differentiation is native integration of our golden sign of products. As recognized by multiple awards from our foundry partners our deep collaborations ensure that our mutual customers have well-honed and trusted design flows at the most advanced technology. In addition to a continued push for smaller geometry the smart everything hunger for much more compute storage and data management is so high that the economics of physically abutting and stacking multiple chips or chiplets is driving a push towards so-called 3D IC design. This brings about many challenges including architecting how to partition it to multiple chiplets making the connections between the chiplets blindingly fast and predicting and dissipating, the heat of so much computation.
+
+Synopsys is at the forefront of this emerging wave. In 2020, we introduced 3D IC compiler which offers a modern differentiated approach to this complex design challenge. Our solution is being deployed in production and cutting-edge 3D IC designs in the industry. Another new era showing great promise is our silicon lifecycle management platform which monitors, analyzes and optimizes chips throughout their lifespan.
+
+The adoption of key sensor IP accelerated during this year was 25 new logos. And we recently added AI powered real-time system optimization for infield applications with the acquisition of Concertio. With the increase in systemic complexity to deliver smart everything, security and safety is a rapidly growing theme from chips to application software.
+
+About seven years ago, we invested in software integrity to provide security and quality testing for the massive amounts of software in today's world. Synopsys has since built the broadest portfolio of products and consulting services in the market. This year, we were recognized for the fifth year in a row as a leader in the Gartner Magic Quadrant for application security testing.
+
+Benefiting from the operational enhancements we've made, our software integrity business achieved 10% growth for the full year with particularly strong orders flow exceeding our original expectations. We expect to return to our 15% to 20% revenue growth objective in 2022. During the year, our focus has been to scale our go-to-market strategy and execution.
+
+We launched a new partner program this year, adding dozens of channel partners and systems integrators. They're already expanding our reach into customer groups and geographies that we hadn't reached in the past. We successfully refined our sales structure and tuned our market priorities.
+
+One proof point is a substantial growth of multi-year, multi-million dollar agreements. This notably includes our largest -- ever software integrity order was a U.S. hyper scalar as well as significant -- renewals in the networking, airline, and enterprise software segments. We also made considerable progress with our Polaris software integrity platform.
+
+We delivered intelligent orchestration which ultimate security testing within a company specific protocol. This makes it easier and more efficient to integrate directly into their development pipeline. We enhanced our Black Duck Software composition analysis solution, which positions us very well for software supply chain risk cases. Finally, the addition of risk management products that ultimate and accelerate discovery and remediation of software vulnerabilities through (inaudible) rounds out our solution well, beyond what competitors provide.
+
+In summary, we delivered excellent results in 2021 substantially greater than our original plan with strength in all product groups and all geographies. We're entering 2022 with strong technical end market momentum. We're seeing significantly expanded customer commitments and collaborations as our wave of innovations will be crucial to help capitalize the era of smart everything. And as a result, we are raising our long-term financial objectives. Let me say thank you to our entire Synopsys staff for another great year. I'm looking forward to an exciting journey into our next phase of growth.
+
+Finally, I'm sure you all saw our other news earlier today that our CFO, Trac Pham has decided to retire in fiscal 2022. Trac has been a wonderful partner and excellent leader and while we understand and support his desire to prioritize time with his family, we will miss him. He will of course, remain a good friend to the company and to all of us personally. Trac will stay with Synopsys until a successor is in place to ensure a seamless transition. Trac, to you and your family, we wish you the very best.
+
+And with that, I'll turn it over to Trac.
+
+Trac Pham{BIO 18971098 <GO>}
+Thanks Aart. Good afternoon everyone. While I'm looking forward to retirement, I will certainly miss the Synopsys team and also the relationships I have developed over the years with investors and analysts. Synopsis is in a great position. So, this is a good time for me to step away from a long fulfilling career to prioritize time with my family. I'm confident in the leadership team and that we'll manage the transition. I'll be here for a while still and I look forward to talking to many of you.
+
+Turning to our results. FY21 was an excellent year and featured record results in all key metrics including revenue, non-GAAP earnings and operating cash flow. Looking to FY22 and beyond we are seeing a step up in revenue growth due to the following. First, strongest execution and compelling, new innovation new innovations. Second, expanding customer commitments, and third, the new market era, and opportunity that Aart referred to earlier.
+
+Additionally, because of the essential nature of our customers are the priorities and our business model, which result in nearly 90% recurring revenue and significant non-cancelable backlog, we are in the position to have a high level of stability as well. Ending backlog for Q4 with $6.9 billion. These dynamics give us the confidence to raise our long-term financial objectives, which I'll describe in greater detail momentarily.
+
+First, some highlights of our full-year 2021 results. We generated total revenue of $4.2 billion, up 14% from the prior year with double-digit growth across all products and geographies. Total GAAP costs and expenses were $3.5 billion and told a non-GAAP cost and expensive we're $2.9 billion resulting in a non-GAAP operating margin of 30.5%. GAAP earnings per share were $4.81 and non-GAAP earnings per share were $6.84 up 23% over the prior year.
+
+Semiconductor and system design segment revenue to a $3.8 billion driven by broad-based strength across all product groups and geographies. Software integrity segment revenue was $394 million up 10% over the prior year and exceeded our original plan. We expect to return to our 15% to 20% growth objective in 2022. In addition, following the investments and operational adjustments we made this past year we expect to expand adjusted operating margin in 2022.
+
+Turning to cash. Operating cash flow for the year was a record $1.49 billion reflecting our strong results and robust collections. We ended the year with cash and short-term investments of $1.58 billion and total debt of $100 million. During the year, we completed buybacks of $788 million or 56% of free cash flow.
+
+Now to our targets. Based on our current assessment of the timing of hardware and IP deliveries, we expect Q1 to be our highest revenue quarter, then roughly evenly split for the balance of the year. We expect an expense profile similar to that of revenue for Q2 through Q4.
+
+For fiscal year 2022, the full-year targets are revenue of $4.725 billion to $4.775 billion, total GAAP costs and expenses between $3.778 billion and $3.835 billion, total non-GAAP costs expenses between $3.225 billion and $3.255 billion resulting in a non-GAAP operating margin improvement of more than 100 basis points, non-GAAP tax rate of 18%, GAAP earnings of $5.39 to $5.65 per share, non GAAP earnings of $7.73 to $7.80 per share representing mid-teens growth despite a higher tax rate, cash flow from operations of $1.4 billion to $1.5 billion.
+
+I'd like to offer some additional personal thoughts regarding a long-term tax rate of some assumption. Based on preliminary modeling, we believe the non-GAAP tax rate of 18 % is potentially sustainable beyond 2022. However, given the uncertain outcome of tax reform it is premature for us to confirm a longer-term tax rate at this time.
+
+Now, to the targets for the first quarter, revenue of $1.25 and $1.28 billion, total GAAP costs and expenses between $934 million and $964 million, total non-GAAP costs and expenses between $802 million and $812 million, GAAP earnings of $1.75 to $1.92 per share and non-GAAP earnings of $2.35 to $2.40 per share. Our press release and release an financial supplement include additional targets and GAAP to non-GAAP reconciliations.
+
+Finally, we are raising our long-term financial objectives. All of which are on a multi-year basis with the expectation that particular years will vary depending on the timing of deliverables and other commitments. Our goal is to deliver annual double-digit revenue growth and non-GAAP EPS growth in a mid teens range reflecting our continued focus on a non-GAAP operating margin expansion of more than 100 basis points per year.
+
+Enter the product groups, our objective is to grow EDA revenue in the double digits, IP in the mid-teens, and software integrity between 15% to 20%. In summary, our record results this year are a testament to our strong execution, to our focus on investing for long-term scalability and shareholder value, and to our commitment and ability to innovate to meet growing customer needs. This combination is driving a step up to a new level of growth for us. And our raised long-term financial objectives reflect confidence in our ability to succeed.
+
+With that, I'll turn it over to the operator for questions.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+All right. Thank you. (Operator Instructions) And our first question comes from Gal Munda. Please go ahead.
+
+Q - Gal Munda{BIO 18659208 <GO>}
+Hello. Hi and thank you for taking my questions. The first one is just part when you look at the new long-term guidance, that you've -- material you're kind of upgrading. I was wondering if you can help us understand in comparison to the previous guidance that you had out that what is making you confidence to make those changes and in terms of the long-term trends that you were talking about between the demands of the leading edge customers versus the kind of the systems and maybe specifically, on a trends that you're talking about the electrification and the hyperscalar demands, and which ones stand out for you as the biggest changes and what you expected previously? Thank you.
+
+A - Lisa Ewbank{BIO 2178607 <GO>}
+Aart, unmute.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Amazing. I'm still learning. Sorry about that. Thank you. The question is very broad. And let me start from the inside to the outside. On the inside, we have a high degree of confidence, because many of the investments that we've put in place over a number of years are really coming together well, because the vision of where our field was heading towards is actually moving along.
+
+And so this notion of transforming the world towards smart capabilities in every vertical market requires a whole set of technologies that we've been investing in. And so be it in the area of a design implementation including the AI capabilities, be it in the verification and validation of entire systems, including the intersection of hardware and software. But also in the deep investments in advanced technologies in the overarching investments in quality of software and security. All of these trends are really manifesting themselves very actively and we see it manifest itself in many collaborations and increased commitments of customers to us as also witnessed in a strong backlog.
+
+And so right there, that gives us a sense for the coming year. From the outside, it is very clearly visible that the semiconductor industry itself is doing well. Not only because visible to shoot some shortages that may be painful, but illustrate how important semiconductors are. But because so many companies, including the ones you mentioned hyperscalars, automotive companies, industrial companies are all starting to invest in -- be it either architectures that contemplate the semiconductors or semiconductor development themselves. And so it is a time, where the alignment between our capabilities and the need of the markets are very active.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Gal, can I also add operationally, over the last three years, as we've increased operating margins by over 800 basis points. We have also been very active in investing in the business across all areas and what you're seeing this year in terms of the overachievement really is a reflection of the momentum that we're seeing in the business, and that's what's giving us a lot of confidence operationally. And while we raised, we're raising our long-term growth objectives, we are simultaneously committing to driving margin expansion as well. So, we really do believe there's going to be significant opportunities to create value over the long-term.
+
+Q - Gal Munda{BIO 18659208 <GO>}
+Okay. And maybe, just carrying on from that comment on the margin, if I kind of look at a margin for the last few years, you could be very, very close to 50% incremental margins. Going forward, you're kind of more towards the low 40s implied. Does that imply potentially a bit of conservatism, or is it just continue to investment in the business in order to achieve that growth that you've updated and are guiding for?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yes. I would characterize it more as not providing a cap on margins. We do see opportunities for us to expand margins over time. And with this long-term financial model, we're giving you a more clarity and specific details about how we're going to deliver mid-teens earnings growth over time. There's no change in terms of how our approaching margins will continue to drive it very, very actively.
+
+Operator
+Thank you. And now to Ashley McCurry from Wells Fargo. Please go ahead.
+
+Q - Ashley McCurry{BIO 21000761 <GO>}
+Hi. This is Ashley McCurry on for Gary Mobley. In terms of that $6.9 billion of ending backlog for Q4 metric that you guys called out. Is there anything else to add additional color you can give as far as the average license duration or any other color on that backlog metric in terms of mix?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Sure. The $6.9 billion, I would characterize it as twofold; one is really strong business momentum and very good growth in annual run rates for the business that we renewed this year. In addition, we also saw several large customers expand their commitments to us and just really a reflection of their confidence in our product and a technology that we're delivering. So very good, I think a very good confident in terms of establishing the growth rates for the next several years.
+
+Q - Ashley McCurry{BIO 21000761 <GO>}
+Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+You're welcome.
+
+Operator
+Thank you. And now to Joe Vruwink from Baird. Please go ahead.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+Great. Hi, everyone. Maybe, I'll just pick up on the last point with these renewals that are obviously, seeing I'm quite a bit of upsizing on renewal, what are customers typically engaging you on as they engage with you on the direction they want to take in product development. What are the key themes and I guess how are they investing specifically in your product portfolio?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Well, it's actually quite broad, because as an earlier question related to the people that's in the past. We're not necessarily be customer such as hyperscalar as an automotive. These are people that fundamentally think down from the system meaning they have big objectives to run big complex software. And now, they need more compute, more capacity, better throughput and all that. And all of that spells the same thing, which is advanced chips or combination of chips. And so they intersect with us mostly in two areas. One is, how can you predict? How fast the system will run by actually running software on emulators or prototypes?
+
+And secondly, how can you actually make the actual chips that even faster by really implementing the latest state-of-the-art technology and optimizing your architecture for just a task that they want to do and this is where the use of AI. So, the design flow becomes particularly interesting, because very often people start with chips that they already have and then they move to a new node, technology node. And simultaneously, they say oh, let me optimize for a specific set of tasks and that optimization can largely be automated with our tools. And so you see an acceleration everywhere and acceleration has always been the name of the game in our field. And I would say those are sort of the two biggest drivers of our business.
+
+Q - Joe Vruwink{BIO 18057059 <GO>}
+And since you brought up using hardware, appreciate kind of the timing dynamic within guidance here in 1Q. I would imagine this investment cycle for the new generation of hardware that's not going to be a one quarter phenomenon. The fact that kind of the guidance of the stands today, just implies similar revenue 2Q to 4Q. What sort of delivery assumptions? Is there any maybe, a bit of hedging on perhaps, the ability to procure what do you need to actually deliver the finished equipment and could that potentially be a driver of upside as we get into the back half of the year?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+I'll let Trac answer the financial side of your question. I think in general; our business is fairly regular. The exception of that being lumpiness in hardware as you highlight it, but also sometimes in IP. And so these things come in clumps and whereas right now, we're not looking at any major delivery issues. We are obviously very sensitive to all the supply chains and we continue to check those well. And so you can call it caution. At this point in time, we're planning on the basis of the numbers that we already have in hand. Trac, you want to add to that.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Certainly, hey, Joe. Two things I will add; one is we had visibility to the profile of hardware and IP. And just given the timing of deliveries and this is just really the first time for us to give you specific guidance on that. And it just happens to be, we've been seeing the momentum for IP and hardware build up, as well as the rest of the bills business build up and Q1 reflects the time of when they're actually pulling down the IP and when they want their hardware deliveries. To your broader question, I would just say that the results in '21 and the outlook that we have for '22, really reflects a strong momentum in both hardware and IP. We had record, we had record revenues for hardware in '21 and keep in mind that is compared to a year in '20, where it was pretty significantly backend loaded. And so for us to grow on top of that is pretty significant and then IT as Aart mentioned earlier, it's a billion-dollar business driving at 20%. So, it's really showing really good momentum.
+
+Operator
+All right. Thank you. And now to Jackson Ader from JPMorgan. Please go ahead.
+
+Q - Jackson Ader{BIO 19832434 <GO>}
+Right. Thanks for taking my questions, guys. And Trac, I don't know if anybody has offered congratulations yet from our side. So yes, congratulations on your retirement, you'll be missed. But at least, you're sticking around for a little while.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Thanks, Jackson.
+
+Q - Jackson Ader{BIO 19832434 <GO>}
+I am actually going to do my best (inaudible) with a multi-part question. So, on the double-digit growth in EDA, I'm just curious what EDA market growth is assumed in that double digits, and are you planning on taking share. And then -- and second, what particular facets of the core EDA, whether you want to break it out of front end versus back end, or fusion or hardware or software, how do you want to break out, like what facets of core EDA do you expect to maybe outgrow others?
+
+A - Trac Pham{BIO 18971098 <GO>}
+Okay. Well, let's start the overall question. It's hard to predict how well others will do. And in many ways, we do well when the entire industry does well. But we do have suddenly positioned, where many of our technologies are extremely competitive at this point in time. And it is a point in time, where a number of customers are looking to line up with suppliers that they trust over a longer haul, because they clearly see that the advances that are happening right now in coming demand a lot of technology, a lot of support.
+
+Now, you mentioned fusion and I'm glad you did. Because as you will know, this is an area that we have invested in for many, many years with the concept being that instead of running successions of independent tools having multiple tools, essentially collaborate if I can use that term to get to a better result was the essence of fusion and fusion is working very well. And as we mentioned in the preamble, growing very well. But it's doubly meaningful, because a fusion is also a key ingredient in now layering on top of that, there's notion of artificially driving autonomous design flows. And the fact that we can access many, many different technologies inside of fusion to have an AI algorithm learn and get better results being just astoundingly exciting to see. And in many ways, to me feels like literally, the early days of Synopsys, where that time synthesis was almost like a miracle. Well, it was not a miracle was a lot of hard work, but it was capability that computer had that exceeded what a human can do and we see exactly the same here.
+
+So, I expect that this will be an area that brings many of what the things that we have together to drive things forward. Now, not to repeat too much what I said earlier. The other half of that equation is what are the chips for and the chips are fundamentally for executing task given by a system that runs software. And so the desire to make that software run faster is unstoppable. Well, one way to do that is to say well what if we designed the system, the hardware system just for certain types of software.
+
+And that is what is everybody is doing right now. They are essentially creating new architectures for specific applications that then can run blindingly fast. And so the intersection between the application and the hardware is therefore a place, where we need to be able to predict how good the results will be and that is what all these efforts have been in the prototyping, the emulation and so on.
+
+Now, the third area, I want to mention and I understand it's slightly adjacent to EDA, although I would look at it as the EDA surrounds it is IP. And one of the great accelerators in the history of design has been to have more and more accomplished IP blocks that have enormous functionality in the most advanced silicon technologies, which are difficult to build. And so the combination of those things is what gives us a sense that for the coming years, we're in a very strong position. And by the way, we are applying that same AI that I mentioned before, also to our IP blocks. So, there's an integration of the whole solution space.
+
+Operator
+Thank you. And over to the line of Jason Celino of KeyBanc. Please go ahead.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Great. Thanks for taking my questions. And Trac, looking forward to working with you for a couple of more quarters. So my first question, this is more of a clarification, because double digits can mean a lot of things, but just calculating it out here. PDA is growing at least double digits, IP in the mid-teens and at least mid-teens SIG growth. This implies really low double-digit kind of growth framework. Is that a fair assessment?
+
+A - Trac Pham{BIO 18971098 <GO>}
+It depends on how you look in the IP, Jason. Just keep in mind that the -- in our supplement, the IP systems line includes other businesses as well.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay.
+
+A - Trac Pham{BIO 18971098 <GO>}
+But overall, the segments, I think the segments, you're spot on with regards to segment growth.
+
+Q - Jason Celino{BIO 20603270 <GO>}
+Okay, perfect. And then maybe, just a clarification on Joe's earlier question on Q1. Q1 is typically, the lowest revenue quarter on an absolute basis for EDA and across a lot of industries and software. As it relates to the hardware deliveries and the IP delivery is concentrated in this quarter, I mean, is it -- these customers pushing out or maybe, possibly pulling forward some of their deliveries? Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yes. Certainly, there were really anything unusual about it either from a -- our ability for fill or the customer pushing or pulling it in. It's really just the timing of how things match up. And from a seasonality perspective, we typically don't see much seasonality over the last couple of years, Q4 in the back half has been -- the business has been more backend loaded particularly, in Q4. This year, other than the unusually strong Q1 the first half, second half profile is pretty even. It's like a 51/49 split in line with what we've seen in the past in terms of the balance. So, it's other than the Q1, which is a reflection of normal standard time of demand. It's actually a pretty good profile for the year, I think is certainly a better risk profile than we've seen in the last couple of years.
+
+Operator
+Thank you. And now to Jay Vleeschhouwer from Griffin Securities. Please go ahead.
+
+Q - Jay Vleeschhouwer{BIO 1498201 <GO>}
+Thank you. Good evening. All right. With respect to the -- and Trac, with respect to the enlarged growth expectations, you referred to a number of internal investment that you've made over the last number of years that have gotten you to this point. The question is, how are you thinking incrementally about investment priorities or initiatives for example, when we look at some of the things you appear to have been investing and there's been a substantial increase in your AE investments in support of your customers, deployment requirements, new SIG software consulting seems to be increasing and at the purely technical level, you appear to have been increasing substantially in areas like synthesis and custom. So perhaps, you could comment on those or any other priorities that you feel that you need to invest in incrementally, to sustain the growth that you are speaking of expecting for the next number of years.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Excellent question. And your question had some of the answers in it. You mentioned essentially support and consulting, and I would put those together, which is that no matter what the business -- how the business grows, some of that grows with it. But on top of that, there's an additional benefit of using our consulting, which is that we bring skills that a number of our customers have difficulty getting themselves or growing themselves. And if these skills can be used to actually help them reduce their time delay until the chips are done, that is of extremely high value. So that will continue. You mentioned synthesis and custom and of course, synthesis was our very first product.
+
+So, after 34 years, we're still investing in that, because there's still upside except that synthesizes now more and more called the Super AI. That's the new version of this. Custom is an area that we have invested in for quite a while and actually has done well this year and continues to grow in an excellent fashion. So a good area, there's two that you didn't mention one is 3DIC, which is the ability to bring together very, very tightly, extremely complex chips and that will grow as the hunger for more transistors will be unavailable. And lastly, SLM, Silicon Lifecycle Management. This is a new area for us. We have invested in it both organically and through some acquisitions. And it's particularly interesting, because the notion of putting inside of chips, the sensors that then can essentially diagnose, if the strip is still healthy, grows in importance as systems become more complex and systems go into applications that could be human endangering, such as autonomous driving car for example.
+
+And so this is an area, that's finding a lot of interest, where we are making very rapid advances. And with the sensors that we put inside of the chips, we've also put some AI inside of the chip and some AI outside, so that one can learn from chips over their life cycle. So, this will take a little bit of time until it's really embedded in a broad adoption. But it is extremely powerful capability that we're very excited about.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Hey, Jay. Another way that you might look at the investments are, we are doing really well across the board. We're not looking at areas in the business that is problematic or that requires massive investments. So, we're in a situation over the next few years, where we're able to thoughtfully and very tentatively across the broad portfolio in that. And you're going to see continued improvements across all the business as a result of that.
+
+Operator
+All right. Thank you. And now, to the line of by Vivek Arya from the Bank of America Securities. Please go ahead.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thank you for taking my question, and congratulations and best wishes to Trac from my side as well. For my first question, you mentioned the acceleration of trends, but when you look at the outlook for EDA growth of double digits, it's about the same as what you did last year. Some my question is, why shouldn't EDA also accelerate and if that's going to stay at the 10%, then more incremental growth comes from IP and SIG, are they more or less predictable segments than your EDA business. So yes, the overall business is accelerating. But is the growth coming from perhaps less predictable segment.
+
+A - Trac Pham{BIO 18971098 <GO>}
+Let me start with the numbers and then Aart can provide some color on the contracts. Just for a broader view that historically, we've talked about EDA growth in the high single digits and that actually was an increase in our model from several years ago when we described it as a medium, a mid-to-high single-digit growth business for us. When we describe it as double digits, we really do see it as a multi-year, not just one year effort. But we do see it as a multi-year opportunity to grow the double digits. So, that's a pretty substantial and substantive increase for us to describe that going from high single digits to double digits over an extended period of time. And really, it reflects the confidence in the portfolio the various pieces of the portfolio that contributes to EDA growth?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yes. I would take on that. I think it is a gradual increase of the importance of what we do, but also of the breadth of the capabilities that we offer. And so we do see this as a multi-year opportunity and I'm certainly on record to having said many times that the moment that AI starts to have impact in verticals, the hunger from the vertical down for more silicon will be unstoppable. And so from that perspective, we are at the right place at the right time with a lot of the varied capabilities that will help our customers differentiate themselves. So, our expectations are high. We know that delivering is always hard work, but as tracks heads our overall direction has continued to improve over the last years in terms of the guidance we're giving you.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Got it. And for my follow-up, we have seen ASP expansion, price appreciation and other parts of the semiconductor market. So, foundries are raising prices across the board. For example, I'm curious, is that a positive or negative or neutral for your business. So first, are you also able to raise prices, right? Or the other extreme is, if let's say, your customers are having to pay higher prices for more advanced nodes. Does it make them more careful about the adoption of more advanced nodes across their product base? I'm just curious to get your perspective that what does cost inflation of the other parts of the semiconductor ecosystem does to your pricing and growth opportunity, if any?
+
+A - Trac Pham{BIO 18971098 <GO>}
+Sure. Well, for sure, I believe that as a semiconductor industry is doing better and better, we certainly are close to them and that is a positive for us. When you say well, some of the new technologies become more expensive, that is true, they also deliver a lot more capabilities. And because they're more expensive, you need to be really careful how you design with these. And this is exactly, where I think our role increases in important doesn't decrease. And so while we have multi-year contracts with our customers, that is certainly an opportunity to gradually feather up as we deliver more value to this entire industry that in itself is so seminal. And what all the verticals will be able to do over the years to come. So, I see it as a positive.
+
+I know that some of the point increases in pricing I just have to do with shortages. These will go over way over time. That's not what builds value. What builds value is that semiconductors are clearly and visibly so, more important to the future that they were perceived in the past and that is a good thing.
+
+Operator
+All right. Thank you. And now, to Pradeep Ramani from UBS. Please go ahead.
+
+Q - Pradeep Ramani{BIO 19683324 <GO>}
+Hi. Thanks for taking my question and congratulations on guide. I had two questions. So, the first one was on the magnitude of shift or the timing impact, if you would call it on IP and hardware. I mean, how much do you, how much did it shift from what would have been normalized view of the quarter. And then as a follow-up, I guess when I look at such a big pop in the backlog, would you -- and then superimpose it against your commentary. I mean, it feels like that the gears going to be very strong. But would you characterize the backlog as being potentially higher or lower, at the end of 2022. I mean how should we think about the trajectory of a backlog during the course of the year as well?
+
+A - Trac Pham{BIO 18971098 <GO>}
+Okay. Let me start with your first question. I pretty -- there really was no shift in IP or hardware. And keep in mind that this is the third year that we're operating under the new 606 rules for revenue. And IP gets recognized as revenue when our customers draw down that IP from a website. The timing of IP and hardware, really reflects when they want those shipments, and when they want that IP and that hasn't shifted from one quarter to another, that just happens to be what it matches up their development schedules. And so there's really no normalized profile of that. And that's why we kept -- we often refer to it as being very lumpy.
+
+With regards to backlog, the 6.9 billion of backlog, we don't guide on what the projections are going forward. But as we said that, quarter will vary in Q4, we saw strong growth in run rate on the deals that we booked. And we also saw significant, if several of our significant renewals. The duration during the quarter was a little bit longer than three years. But overall -- our overall model is about three years. The 6.9 reflects a convergence of strong bookings and then several large renewals.
+
+Operator
+All right. Thank you. And now, to Charles Shi from Needham. Please go ahead.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Hi. Good afternoon Aart, Trac and Lisa. Thank you for taking my question. I really want to go back to the backlog and renewable contract duration. I noticed you did take the number, I mean, the year of average contract lens up around your supplement. But you just said that the duration seems to be a little bit longer than three years, obviously, I understand maybe a few large very large contract crew skills that number. However, I want to ask you, because since you mentioned, your customers are expanding commitment with you, which probably resulted in the high backlog number. I wonder is that like a long-term trend that the contract duration is going to be north of three years going forward, or this is just based maybe one quarter phenomenon and they will maybe go back to somewhere between two years to three years?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Yes. Let me start with our business continues to be a three-year duration type business, and that hasn't changed on any given quarter might run a little lower or higher depending on what the specific customer requirements are. But as we've seen, if you look at our history, it tends to trend around that three-year range. With regards to the expanded commitment is -- it is dollar size; it is the breath of the product that they are purchasing. And in this case, in Q4, some of these deals, the length of the deal. But they are -- that's not typically the normal. We don't necessarily see our business growing in terms of duration.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+Thank you. So maybe, the next question. I want to ask a little bit of a longer term. In terms of EDA and with regard to DSO AI, you guys mentioned that DSO about AI can deliver results faster than human beings. And I tried to understand EDA, you guys said that they largely tracked the industry R&D spend. But if you say the use of AI can get results faster than human beings, I could imagine maybe, you can go ask your customers, hey, my product can really do things faster than human beings, maybe they fix R&D budget. You should allocate more EDA towards maybe, that will change the trajectory of EDA growth maybe, their high percentage can go -- our R&D expense can go into EDA, is that the right way to think about? I mean, in terms of the impact of a DSO.AI going a little bit longer term. Thank you.
+
+A - Aart de Geus{BIO 1431475 <GO>}
+All right. It's absolutely a good way to think about it. Because for every major advance, we will make exactly, the argument that you make, which is a, use our tools, you will be better off. At the same time, many of our customers say, yes, that's great. Because now, I'm going to use the engineering time that I save to become even more competitive against my competition. And this is a normal phenomenon in our field, which is a constant acceleration of how quick the race is run and these accelerations invariably happen when there are great opportunities. And so we saw that definitely, in the early days of computation and the networking, the mobility wave. The race was on for faster chips, lower power chips.
+
+And now, I think the race is absolutely on for share of computation, share of AI and so on. And so our customers see a very positive future. But they understand perfectly well, that their competitors see too and therefore, the race is on again. Be it as it may the fact that we have sometimes discontinuous advances. These are great opportunity moments for -- from a competitive point of view for us for a differentiation point of view for our customers. And so we will absolutely try to do as much as possible what you suggest. And this is one of the reasons why we have a positive confidence also in the coming, not just year, but years.
+
+Q - Charles Shi{BIO 22238518 <GO>}
+All right. Thank you. And that does conclude our portion of the Q&A with the time. Would you like to have any closing remarks?
+
+A - Aart de Geus{BIO 1431475 <GO>}
+Sure. First, I would like to thank all of you for having supported interacting with us during this past year. The interaction of course, is a very COVID limited. But at the same time, we hope that you had all the information that you needed from us and the access. Secondly, we also thank you, because this was a very strong year for us and we all know that at a time like this, this is important and our outlook is solid as well. And lastly, I hope for all of you that you remain healthy with your families and your friends. We all know that this story is unfortunately not over yet. And so we'll do our best to deliver against your expectations. Be well.
+
+Operator
+Thank you. And ladies and gentlemen, that does conclude our call for today. Thank you for your participation and for using AT&T Event Conferencing Service. You may now disconnect.
+

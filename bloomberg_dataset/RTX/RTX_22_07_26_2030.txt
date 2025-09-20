@@ -1,0 +1,388 @@
+Q2 2022 Earnings Call
+Company Participants
+Gregory J. Hayes, Chairman and Chief Executive Officer
+Jennifer Reed, Vice President of Investor Relations
+Neil G. Mitchill Jr., Executive Vice President, Chief Financial Officer
+Other Participants
+David Strauss, Barclays
+Noah Poponak, Goldman Sachs
+Peter Arment, Baird
+Robert Spingarn, Melius Research
+Robert Stallard, Vertical Research
+Ronald Epstein, Bank of America Merrill Lynch
+Seth Seifman, J.P. Morgan
+Sheila Kahyaoglu, Jefferies
+Presentation
+Operator
+Good day, ladies and gentlemen, and welcome to the Raytheon Technologies Second Quarter 2022 Earnings Conference Call.
+
+My name is Lateef, and I will be your operator for today. As a reminder, this conference is being recorded for replay purposes.
+
+On the call today are Greg Hayes, Chairman and Chief Executive Officer; Neil Mitchill, Chief Financial Officer; and Jennifer Reed, Vice President of Investor Relations.
+
+This call is being carried live on the Internet, and there is a presentation available for download from the Raytheon Technologies website, at www.RTX.com. Please note, except where otherwise noted, the Company will speak to results from continuing operations, excluding acquisition accounting adjustments and net non-recurring and/or significant items, often referred to by management as 'other significant items'.
+
+The Company also reminds listeners that the earnings and cash flow expectations and any other forward-looking statements provided in this call are subject to risks and uncertainties. Raytheon Technologies' SEC filings, including its Forms 8-K, 10-Q, and 10-K, provide details on important factors that could cause actual results to differ materially from those anticipated in the forward-looking statements.
+
+Once the call becomes open for questions, we ask that you limit your first round to one question per caller to give everyone the opportunity to participate. (Operator Instructions) You may ask further questions by reinserting yourself into the queue as time permits.
+
+With that, I will turn the call over to Mr.Hayes.
+
+Gregory J. Hayes{BIO 5547891 <GO>}
+Thank you, Lateef, and good morning, everyone. I hope everyone had a chance to see our press release this morning. From that press release, I think that one of the key takeaways is we had a really strong quarter for commercial aerospace and we continue to see very strong demand for our products and services as evidenced by our defense book-to-bill in the quarter of 1.35 -- credible number.
+
+We deliver these results in the midst of a, I would say, a challenging period across our industry and most of industrial America. Inflation, supply chain, and labor availability continue to be near-term constraints. We're working these things relentlessly by leveraging our scale and our portfolio to combat all of these different pressures.
+
+Before we get into the results, let me just spend a few minutes on the macro-environment. On the defense side, the evolving threat environment, including the ongoing conflict in Ukraine, continues to drive global defense budgets higher. Most of our NATO allies have reaffirmed their commitment to spending at least 2% of GDP on national defense, with many countries announcing even higher spending targets over the last several months. Announcing even higher spending targets over the last several months. For example, Poland has requested accelerated delivery of patriot missile systems batteries, and both Germany and Finland have selected the F-35.
+
+As you know, the Department of Defense released its fiscal year '23 budget request earlier this year, with modernization spending growing over 4%, and with modernization accounts, specifically RDT&E, expected to grow by nearly 10%.
+
+We're also encouraged by the markups that we've seen in Congress. The House Armed Services Committee has proposed a $37-billion increase to the administration's request. That's a 9% increase over fiscal '22 excluding the supplementals.
+
+On the senate side, the Senate Armed Services Committee went even higher, proposing a $45-billion mark, resulting in a DoD budget increase of 10% over fiscal '22, bringing the fiscal year '23 budget to over $815 billion. It's a lot different than what we expected two years ago.
+
+We're encouraged by the support of our programs, with the authorizing committees recommending significant increases in spend over the President's budget request, including increases for Stingers, Javelins, Next Generation Jammers, Tomahawk cruise missiles, just to name a few. And, as I've said, our key programs and technologies in space, cyber, missiles, missile defense, and non-kinetic effects are also well aligned with the US and our allies' defense priorities.
+
+We ended the quarter with the defense backlog of $65 billion. That's up about $2 billion since the beginning of the year, and we expect it to go even further in the remainder of the year. In the second quarter, we also saw a number of significant awards, including $4 billion to deliver F135 engines for Lots 15 and 16, which will power all variants of the F-35 fighter. The total contract value opportunity is about $8 billion for F135 engines across Lots of 15 through 17.
+
+In addition, we received a $408-million contract for sustainment of the F-35 fleet -- F135 fleet rather. The F135 engine continues to be the most advanced and, I would say, most safest fighter engine ever produced and possesses unrivaled operational capability and mission effectiveness. As the global threats evolve, the F-35 -- F135 could be upgraded to increase its thrust, range, and power thermal management to support the needs of the warfighter well into the next decade.
+
+We also received a $648-million award to deliver SM-3 missiles to the Missile Defense Agency, a $662-million award at RMD to replenish 1,300 Stinger missiles as well as awards to replenish Javelin missiles. RIS also had a $1.2-billion bookings of classified programs.
+
+During the quarter, RMD was also downselected by the MDA to continue developing a first-of-its-kind counter-hypersonic missile: the Glide Phase Interceptor. And, a few weeks -- just a few weeks ago, RMD, along with their industry partner Northrop Grumman, successfully completed the second flight test of the scramjet-powered Hypersonic Air-breathing Weapon Concept, or HAWC, for DARPA and the US Air Force. The flight test applied the data and lessons learned from the first flight test last September to demonstrate how rapidly we've matured affordable scramjet technology.
+
+At the same time, commercial air traffic demand continues to gain momentum, with a strong start to the summer travel season. Globally, Q2 revenue passenger miles reached nearly 70% of the pre-pandemic levels. In the US, travelers through TSA checkpoints were up 30% year-over-year in the second quarter or nearly 90% of 2019 levels. And, with travel restrictions easing around the world, we expect growing demand for international travel in the second half of the year, with international revenue passenger miles growing from over 60% of 2019 levels at the end of Q2 to about 75% to 80% of 2019 levels by the end of the year.
+
+That being said, we all know the global supply chain isn't where it needs to be, and we're aggressively managing these issues every day. Microelectronics, rocket motors, structural castings all continue to pace manufacturing lines. Today, we have people embedded about 330 of our suppliers to help improve performance, and we're also qualifying second, and in some cases third, sources for critical parts as necessary.
+
+Inflation also continues to be at elevated levels. No surprise there. However, on the commercial side, we have long-term agreements in place that cover about 80% of our spend and cover multiple years, which provides a inflation buffer at least in the near term.
+
+On the defense side, we can price inflation into annual production contracts and flow through our rate structure. Additionally, we're driving further automation, standardization, and process improvement projects throughout the Company to mitigate inflation headwinds. And, lastly, and perhaps just most importantly, the availability of skilled labor is a real challenge across multiple industries right now, and we're seeing it in both at our suppliers and within our own shops. It takes time to hire and train new employees. It doesn't just happen overnight, especially in certain areas, such as much of our classified work.
+
+Despite these near-term challenges, what differentiates us is our balanced A&D portfolio and our world-class technology, as it gives us the ability to deliver on our commitments.
+
+Okay. So, we'll just take a quick look at Q2. And I'm on Slide 2, for those of you following along. We delivered another solid quarter, with sales growing 4% organically. Adjusted EPS was a little bit ahead of our expectations, at $1.16; that's up 13% versus the prior year. And free cash flow is essentially in line with our expectations.
+
+Growth in the quarter was led by strong commercial aftermarket sales that were up over 26% from the prior year. The strength was partially offset by continued supply chain and labor constraints that principally impacted the defense businesses as well as some delays and expected contract awards. Notwithstanding these challenges, we continue to see full year sales in the range of $67.75 billion to $68.75 billion. In adjusted EPS, we continue to see that in the $4.60-to-$4.80 range. However, there are some changes within the segments. The strength in the commercial aero will help to offset impacts in our defense businesses that Neil and Jennifer will discuss in just a little bit later in the call.
+
+As far as our cash flow outlook, we continue to expect about $6 billion of free cash flow for the year. That's, of course, assuming that the R&D tax legislation is repealed.
+
+Finally, we repurchased over $1 billion of RTX shares in the quarter, putting us at about $1.8 billion year-to-date, and we remain on track to repurchase at least $2.5 billion for the year. Through the end of the second quarter, we've already returned nearly $11 billion of capital to shareowners since the merger in April of 2020. We're more than halfway to our commitment to return at least $20 billion in the first four years following the merger.
+
+With that, let me turn it over to Neil, and I'll be back at the end for a wrap-up and Q&A.
+
+Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Thank you, Greg. Before I talk about the full year, let's look at the second quarter results on Slide 3. As Greg noted, sales of $16.3 billion grew 4% on an organic basis versus the prior year. Our performance in the quarter was driven by the continued recovery of air travel due to the pent-up demand that was partially offset by continued supply chain constraints that, as Greg said, principally impacted our defense businesses.
+
+Adjusted earnings per share of $1.16 was up 13% year-over-year. It was ahead of our expectations, primarily driven by strength in commercial aftermarket at Collins and Pratt; and some favorable corporate items, including lower tax expense, which more than offset the impact of lower defense volume and productivity.
+
+On a GAAP basis, earnings per share from continuing operations was $0.88 per share and included $0.28 of acquisition accounting adjustments, and net significant and/or non-recurring items.
+
+And, finally, free cash flow of $807 million was generally in line with our expectations for the quarter.
+
+So, let me give you some perspective on how we're thinking about the environment as we look ahead to the second half of the year.
+
+Let's turn to Slide 4. I'll start with some positives. The recovery in commercial air traffic remains as strong as -- very strong as airlines entered the summer travel season, with leisure travel bookings well above 2019 levels, and the active fleet is at its highest level since the beginning of the pandemic. And, as you saw, our commercial aftermarket sales continue to grow generally in line with our expectations for the quarter. Geographically, US domestic demand has remained strong, while China domestic travel has lagged our expectations so far this year. That said, domestic air traffic in China began to rebound as lockdowns ease throughout the second quarter.
+
+On the international front, short-haul international travel, or intra-region travel, has been quite strong, fueled by a stronger-than-expected European recovery so far this year. And long-haul international travel, or trans-regional travel, has shown slow, but steady, sequential growth, and, while this is encouraging, we need to see this segment of the market accelerate in the second half of the year.
+
+On the defense side, as Greg mentioned, we are optimistic about the fiscal '23 budget request and our continued alignment with the priorities of the United States and our allies. And, on the cost reduction front, we remain laser-focused on driving operational excellence and our structural cost reduction projects to deliver further margin expansion. In the second quarter, we achieved about $80 million of incremental cost synergies, keeping us on track to achieve $335 million this year and well on our way to $1.5 billion of total gross cost synergies since the merger. At the same time, we continue to monitor the broader geopolitical landscape as well as the US and global tax environment.
+
+And, finally, on the challenges side, we continue to see global supply chain and inflationary pressure as well as labor availability constraints. During the second quarter, we saw a slower-than-expected recovery in material receipts and the resulting impacts to our shop productivity along with increasing inflationary pressures in labor, freight, and other indirect cost areas. And, while we remain focused on aggressive mitigation actions, we don't expect these pressures to ease until next year.
+
+So, moving on to our outlook on Slide 5. We continue to expect our full year sales to be in the range of $67.75 billion to $68.75 billion. However, due to continued supply chain and labor constraints, we now expect lower sales and operating profit at both RIS and RMD for the full year. Those sales impacts are expected to be largely offset by the stronger commercial aerospace recovery we're seeing at Collins and Pratt.
+
+From an earnings perspective, we're holding our adjusted EPS range of $4.60 to $4.80 per share but expect to be more towards the midpoint of the range, as we don't expect some of the headwinds to fully recover in the year. I should also point out that we continue to work mitigations to offset the impact of ceasing business activities with Russia and minimizing any impact to our customers. I'll provide more color on the moving pieces between the businesses in a moment.
+
+And, on the cash front, we continue to expect free cash flow of about $6 billion for the year. It's important to mention that our cash flow outlook continues to assume that the legislation requiring R&D capitalization for tax purposes is deferred beyond 2022, which, as I've said before, the free cash flow impact of this legislation is approximately $2 billion for the year. If the legislation isn't deferred by September 15, we will have to make have an incremental cash tax payment of about $1.5 billion here in the third quarter. However, this payment is a timing issue only, as we will receive a refund in 2023 for the overpayment if the legislation is ultimately deferred by year end, as we continue to expect.
+
+So, with that, let's move to Slide 6 for some color on the segment outlooks. At Collins, we continue to expect full year sales to be up low double digits versus prior year, where we now see a little stronger commercial aftermarket recovery that's partially offset by supply-chain-induced pressures on military sales.
+
+As a result of better sales mix and spending containment measures, we're increasing Collins' adjusted operating profit from up $650 million to $800 million to a new range of up $700 million to $825 million versus last year.
+
+Turning to Pratt & Whitney, we're increasing Pratt & Whitney sales range from up high single to low double digits to a new range of up low teens versus prior year, and that's driven by stronger commercial aftermarket and better commercial OE mix.
+
+With respect to operating profit of Pratt, we're increasing Pratt's adjusted operating profit from a range of up $500 to $600 million to a new range of up $550 million to $650 million versus last year.
+
+Turning to RIS, due to the pressures we've discussed along with delays and awards, were reducing RIS's reported sales outlook from down slightly to a new range of down mid-single-digit to down low-single-digit versus prior year. And, organically, we're reducing RIS's outlook from up low-single-digit and now see RIS's organic sales roughly flat versus prior year. And, as a result of lower sales outlook and the impact of unfavorable development program adjustments, we're reducing RIS's full year adjusted operating profit from the prior range of flat to up $50 million to a new range of down $50 million to flat versus prior year.
+
+And, finally, at RMD, also due to ongoing material availability delays and the associated productivity impact along with the anticipated cost reduction, we are reducing RMD's full year sales outlook from the prior range of up low to mid single digit to a new outlook of up slightly versus prior year. And, as a result, we are reducing RMD's adjusted operating profit from a prior range of up $150 million to $200 million and now expect RMD's operating profit to be in the range of down $50 million to flat versus prior year, and we also expect some improvement in some corporate spending and a lower full year tax rate. We've included an updated outlook for some of those below-the-line items in the webcast appendix.
+
+So, with that, let me hand it over to Jennifer to take you through the second quarter segment results.
+
+Jennifer Reed{BIO 5233568 <GO>}
+Thanks, Neil. Starting with Collins Aerospace on Slide 7, sales were $5 billion in the quarter, up 10% on an adjusted basis and up 11% on an organic basis, driven primarily by the continued recovery in commercial aerospace end market.
+
+By channel, commercial aftermarket sales were up 25%, driven by a 33% increase in parts and repair, a 20% increase in provisioning, and an 8% increase in modification and upgrade. Sequentially, commercial aftermarket sales were up 3%. Commercial OE sales were up 14% versus prior year, with strength in narrowbody offsetting expected headwinds from lower 787 deliveries.
+
+Military sales were down 6%, driven primarily by lower material receipt on military programs and expected declines in F-35 volume. Adjusted operating profit of $617 million was up $99 million from the prior year. Drop-through on higher commercial aftermarket more than offset higher SG&A expense, the absence of favorable contract settlement, and lower military sales volume.
+
+Looking ahead, as Neil discussed, we continue to see Collins' full year sales up low double digits, and we now see adjusted operating profit up $700 million to $825 million versus last year.
+
+Shifting to Pratt & Whitney, on Slide 8, sales of $5 billion were up 16% on an adjusted basis and up 17% on an organic basis, with sales growing across all segments. Commercial aftermarket sales were up 26% in the quarter, with growth in both legacy large commercial engine and Pratt Canada shop visits. Commercial OE sales were up 22%, driven by higher GTF deliveries and favorable mix within Pratt's large commercial engine business.
+
+In the Military business, sales were up 5%, driven primarily by the timing of F135 production contract award in Q2 and higher F135 aftermarket volume. Adjusted operating profit of $303 million was up $207 million from the prior year. Drop-through on higher commercial aftermarket, favorable commercial OE mix, along with higher military volume, were partially offset by higher SG&A and R&D. Looking ahead, we now expect Pratt sales to be up low teens, and, for adjusted operating profit, to be up $550 million to $650 million versus 2021.
+
+Turning now to Slide 9. RIS sales of $3.6 billion were down 6% versus prior year on an adjusted basis, primarily driven by the divestiture of the Global Training and Services business. Sales were down 1% versus prior year on organic basis due to lower expected sales in Command, Control and Communications as well as lower sales within Sensing and Effects that were partially offset by higher sales in classified cyber programs within Cyber, Training and Services. The quarter was also impacted by the delay of certain contract awards.
+
+Adjusted operating profit in the quarter of $315 million was down $100 million versus prior year, primarily driven by lower net program efficiencies, including unfavorable development program adjustments, the impact of the divestiture in the absence of a land sale in the prior year.
+
+RIS had 3 billion of bookings in the quarter, resulting in a book-to-bill of 0.92 and a backlog of $16 billion. It's worth noting that we continue to expect RIS's full year book-to-bill to be greater than 1.
+
+Turning to RIS's full your outlook, as Neil discussed, we now expect RIS sales to be down mid single digit to down low single digit on a reported basis versus prior year and to be about flat on organic basis, and we expect RIS's adjusted operating profit to be down $50 million to flat versus prior year.
+
+Turning now to Slide 10. RMD sales were $3.6 billion, down 11% on an adjusted basis and down 10% on an organic basis, primarily driven by continuing delays in material availability and expected declines in certain Land Warfare and Air Defense program that were partially offset by higher volume on SPY-6 production and Next Generation Interceptor development.
+
+Adjusted operating profit of $348 million was $184 million lower than prior year, driven primarily by lower net program efficiencies, resulting from continued supply chain constraint and unfavorable program mix and lower volume primarily in Land Warfare and Air Defense program. RMD's bookings in the quarter were approximately $4.5 billion, resulting in a book-to-bill of 1.3 and a backlog of $30 billion.
+
+In addition to the awards that Greg discussed, RMD also booked $423 million on the SPY-6 Hardware Production and Sustainment program and $217 million for Tomahawk productions for the US Navy.
+
+For the full year, we now expect RMD's full year book-to-bill to be closer to 1.2, and, looking ahead, we now expect RMD sales to be up slightly versus prior year, and, for adjusted operating profit, to be down $50 million to flat versus prior year.
+
+With that, I'll turn it back to Greg to wrap things up.
+
+Gregory J. Hayes{BIO 5547891 <GO>}
+Okay. Thank you, Jennifer. I'm on Slide 11 now. We'll be just a second for Q&A. So, despite some of the macro-uncertainties for the remainder of the year, we're well equipped to mitigate the challenges that we've talked about: supply chain, inflation, and labor availability. We're going to do that through our focus on cost reduction, operational excellence all in order to meet the commitments that we set out to investors earlier this year.
+
+And, while we continue to make progress, let me just say that we're certainly not satisfied with the performance in our defense businesses this quarter. There's much to do. Bookings were outstanding; execution: not so much. At the same time, we continue to invest in technology and innovation for our customers as well as execute on our capital allocation strategy to drive significant long-term growth and sharing our value well into the future.
+
+With our industry-leading franchises across A&D, we're prepared to capitalize on the commercial aerospace recovery and growing defense budgets. Balance continues to work. And I think, most importantly, we remain confident in our ability to hit the 2025 targets that we set in May of last year at our investor meeting. There's a lot to do. There's always more to do.
+
+With that, let's open up the call for questions. Lateef?
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+In the interest of time and to allow for broader participation, you are asked to limit yourself to one question. (Operator Instructions) First question comes from the line of Ron Epstein of Bank of America. Please go ahead, Ron Epstein.
+
+Q - Ronald Epstein{BIO 4430430 <GO>}
+Yeah. Hey, good morning Greg.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Good morning, Ron.
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Good morning.
+
+Q - Ronald Epstein{BIO 4430430 <GO>}
+So, if we can peel back the onion more on what's going on in the supply chain and defense and I mean, for RMD, right, you're down 7% in the first quarter or 11% this quarter. You say, you're going to be up during the year, which means you're going to have a pretty good inflection. How's that going to happen? It's an -- it's almost a little hard to believe. And then, I guess, another way to ask this, it seems like your commercial businesses right now are run better than your defense businesses. Are there any lessons that the defense businesses can learn from the commercial business. Because it's really surprising, I mean, you guys are a DX designated company. So you should have full on head of the line rates in terms of supply chain. So what's really going on there, because it's surprising that it's hitting you guys so hard?
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Ron that is the question of the day, I would tell you. First of all, just to be clear, most of our programs are not the DX rated. In fact there are very few where we have DPAS ratings that give us priority on the -- in the supply chain. Again those are very, very few. But I'll tell you there's a couple of significant differences between our commercial businesses and the defense side.
+
+On the commercial side you've heard us say this for about 80% of our supplies -- suppliers are on long-term agreements, right. That long-term agreement allows us the ability to give forecast demand, but it also gives us a priority. And our suppliers as part of those LPAs are required to keep buffer stock in place. All that gives us certainty of cost, certainty of delivery. Now, it doesn't always work, we talked about structural castings at Pratt & Whitney back in Q1. That continues to be a challenge. But for the most part the commercial businesses have done a better job, I would say because of the way we structure those long-term agreements.
+
+If you look at the defense side of the business, only about 10% of those businesses of RMD and RIS suppliers are on long-term agreements and that's not surprising because of government contracting rules. The problem that we've had is as we've received all these new awards, we've been going out and once the award is set, once the contract is signed, we're going out and we're putting contra -- or suppliers on contract and we're seeing lead times double and sometimes triple. And we have been, I would say, caught off guard a little bit by how much pressure there is in the supply chain and I would tell you, it's it all goes back to labor availability. Typically during these -- the downturn that we saw in AMD two years ago, there was a lot of layoffs or a lot of people that were let go. Typically we get about 75% to 80% of those folks come back off of layoff. In this case, what we're seeing in our supply chain is only about 25% of the people are coming back they found other jobs, similar jobs, okay because the labor market the market is so tight in this country. We just don't have a large pool of resources.
+
+The other problem I would tell you, again, not just -- it's not just material, it's also labor availability and I'm thinking about our RIS business, which has over 5,000 programs that we're executing on, right. That requires engineers and engineers with clearances. If you look at the unemployment rate for engineering talent in the US, it's less than 2%. We started the year with a goal of almost hiring about 2,000 engineer's net of attrition, which means we have to hire probably more than 5,000 and we are struggling on that regard as well. And again, you don't think about it, but, engineers working on programs generate revenue. And so as we think about the issues in Q2 and probably the first half of the year, we have seen a -- the supply chain, but also labor availability impact our defense businesses.
+
+As you talk about the back half of the year, you're absolutely right there is a lot of work to do. Right now, just give you a couple of statistics. In the second quarter, in our factories, we typically look to provide kits to the shop floor to assemble. And we target somewhere between 90% and 95% kit availability. In other words, all the parts are there 90% to 95% of the time. In the second quarter because of all of these supply chain constraints, we saw kit fill rates around 50%. 50%, so you can imagine the amount of re-work, the lost productivity in our shops, as we are starting things that are not complete, going back, we're doing re-work. All of that is what's causing some of these headaches on the defense side.
+
+Now, as we look at the back after the year, we've had some very deep dive reviews, with Chris Calio, and Neil Mitchill with the guys, going out and making sure that we have line of sight to the supplier recovery plans. And we expect kit fill rates for instance to go from roughly 50% to about 80% by the end of the year. That's a big get, but we absolutely have to do that. And again we are deploying resources. I said in our comments, we've got about 330 suppliers where we have people today working through all this. It is a pick and shovel work, and it's also about trying to make sure they've got the right labor, trained labor to get all this done. So it is a hill to climb in the back half of the year and it is a challenge that we're going to have to take out in order to first of all to meet our customer demands or customer needs, I mean, this is really about making sure we can deliver to our customers on time and right now we're suffering. I don't know Neill, anything you want to add to that.
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Yeah. Maybe I'd just put a little color around the kind of hill that we're looking at for the second half. At RMD, one of the big challenges is the material receipts. We talked in the first quarter about sort of COVID induced labor issues in the supply chain. We expected that to get better in the second quarter and it did not and in fact, it got a little bit worse. When I look at the second half of the year, where RMD in particular needs to see about a 25% volume step up in dollars in the second half versus the first-half, obviously, our new outlook for RMD reflects that.
+
+And at RIS, material is also an important part of their products, and it's about a 15% step up in the second half. So those are the metrics that we're monitoring on a daily and weekly basis as it relates to their performance. The only other thing, Greg, I would add is productivity. So one of the big reasons, I'd say, about half of the drop in the margin at RMD in the second quarter was related to lost productivity, the absence of productivity. And our profit outlook for the remainder of the year for RMD reflects us not catching up on that productivity, given the kit fill rate issues that you talked about.
+
+Q - Ronald Epstein{BIO 4430430 <GO>}
+Right, if I can growing from 50% to 80%, that isn't a realistic goal. I mean, given most of the point that you brought up about hiring people does not -- that isn't task turnaround [ph] stuff, right. I mean, that's -- it's not something that's going to change on a day [ph] and if you're --
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+No, that's -- look let's be clear on. This does not get solved this year. I think again, getting to a kit fill rate of 80% is interesting, but literally we need to be at 95% to be running at it would say a normal pace. It is a lot of work. We've done a lot of, I would say, deep dive reviews on supply chain going through supplier by supplier. So we got people out of all to all of these different suppliers, making sure they're meeting their commitments. I think the only thing that's going to solve labor availability, I hate to say this, is a slowdown in the economy. Because right now, there just simply aren't enough people in the workforce for all of our suppliers. And look, we pay a very, very competitive wage at RTX. But as you go down into the second, third and fourth tier of the supply chain, they are struggling to attract workers. But again, we've got people out there, I would tell you. As we've done these reviews, we have a path to get there. It is not an easy path. It is going to be a challenger through the year and we'll see how we do. We're tracking material receipts day by day and it's a big hill.
+
+Q - Ronald Epstein{BIO 4430430 <GO>}
+Alright, great. Thank you, Greg.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Thanks Ron.
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Robert Stallard of Vertical Research Partner. Please go ahead, Robert Stallard.
+
+Q - Robert Stallard{BIO 3939416 <GO>}
+Thanks so much. Good morning.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Good morning, Rob.
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Good morning.
+
+Q - Robert Stallard{BIO 3939416 <GO>}
+Greg, maybe to follow-up on Ron's point there on supply chain and labor and the impact of inflation. What do you see as the -- your ability to pass this on you? Is there a cap to how much you can pass this up the chain or so it's going to be different in aerospace versus defense? But it is there a point where you have to start biting more the bullet of these cost increases?
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Yeah. As we look at it this year Rob, we've got about $200 million of additional inflation headwind that we didn't anticipate when we started the year. So that $200 million, we've had to go out, we've done a number of initiatives looking to ways within the supply chain to eliminate that headwind. And so far we've done a pretty good job of that. Keep in mind, that's on top of about $300 million of headwind from the Russia exit that we had earlier in the year. So I would tell you the team has done a good job in managing costs and finding ways to overcome some of the headwinds that we've seen.
+
+On the commercial side, again the LTA coverage at 80% really provides you a lot of coverage with inflation. Now, there's dead-bands in there and excess inflation above some levels, usually 6% or 7% gets shared with the supplier. But for the most part, we've been able to manage through that. On the defense side, what we've seen -- again, we've seen labor inflation clearly. We've been able to put most of that though into our overhead rates and that gets recovered in the normal contracting process.
+
+We've also seen again, just inflation in the supply chain. But again, most -- well, I would say at least 30% of the work that we have is cost type at RMD. And so you're able to pass that along. And right now, again, I think one of the reasons is we continue to push this on the RMD side is to make sure that we can overcome the inflationary impacts that we're seeing in the supply chain there. So I think again, we need to learn the lessons of how we manage this from the commercial side and going to more LTAs I think is absolutely essential if we're going to be able to have some kind of consistency in terms of the supply chain going forward.
+
+Q - Robert Stallard{BIO 3939416 <GO>}
+That's great. Thanks Greg.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Thanks Rob.
+
+Operator
+Thank you. Our next question comes from the line of David Strauss of Barclays. Your question please, David Strauss.
+
+Q - David Strauss{BIO 20485958 <GO>}
+Thanks. Good morning.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Good morning David.
+
+Q - David Strauss{BIO 20485958 <GO>}
+Greg, can you maybe touch on the recovery on the GTF side of things? I think you had missed 70 in Q1. You were saying you were really up [ph] to about 180 -- up around 108 deliveries for the full year. Can you just talk about where you are there? And then also talk on the Pratt Canada side? I saw deliveries were down in the quarter. I think you had highlighted previously that titanium was a pretty big issue on the Pratt Canada side. Thanks.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Yeah, thanks David. Let me -- just on the Pratt & Whitney on the GTF side, I would tell you right now, we continue to deliver GTFs behind schedule, and we will not catch up as I think I said back in February, until the end of the year, and this is, again, goes back to a single issue around structural castings. We're not holding up the line at Airbus that's the good news with the 1100s. We're not holding up the line on the 1500s either on the C series or I guess the A220. So we're managing this with the customers. We're managing this with the supply chain. And we really expect -- again, you're going to see a big step up in the back half of the year on GTF deliveries.
+
+As you think about your Pratt had a great first half. Second half again, even with recovering commercial aftermarkets going to be tough because you got a lot more negative engine margin in the back half of the year. So again that all goes into the calculus of the full-year guidance. But I would tell you right now, there is no other surprises on GTF beyond those structural castings and there's always little things David, but nothing huge.
+
+On the Pratt Canada side, you're exactly right on titanium and again, this is primarily around the sanctions and our inability to continue to buy nor our desire to buy anything from Russia. So we have been working to identify second sources, qualify them. I will tell you, we will impact production lines at a number of our customers. I'm sure you're going to hear that from them as well on this -- on the BizJet side. We're just not going to be able to make all the deliveries. Now, we're not talking about dozens and dozens of aircraft, but we're talking five to ten airplanes at these customers that are going to be without engines, because we don't have the titanium forgings that we had expected to get this year.
+
+So again, this will recover sometime in the middle of next year, but there's still a lot of work to do to get these suppliers re-qualified. And I think every single person in commercial aerospace is facing these same problems with Russian titanium. In fact this wasn't a huge piece of the supply chain, but it was 20% plus of global titanium, and we're all going after those same resources. Interestingly, we were in the Farnborough last week, I had a good conversation with a number of our suppliers on this. People are stepping up. People understand this is a long-term business and they -- and I think the suppliers have titanium see this as a big opportunity to take share. So we'll work through it, but it's not going to be without a little bit of pain to our customers.
+
+Q - David Strauss{BIO 20485958 <GO>}
+Great and how far along are you in reality in these titanium supply contracts?
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Well, we're probably -- in terms of identifying and -- the sources, and the contract, I would say we're almost complete. The issue simply is getting the parts qualified. You've got to go through first article. You got to go through the metallurgical analysis. You got to make sure that the composition of material is exactly the same as what it was prior and then you got to get the parts certified. So that's the part that takes time. It's not actually identifying the suppliers. We've done that. We've got everything lined up. The same thing on heat exchangers. Recall, we made a number of different commercial heat exchangers in -- at our joint venture in Nauka in Moscow. All that work was discontinued on the 27th of February and we are still working through the requalification of heat exchangers and that's 787s, that's 777's, that's Embraer 170, there's a number of issues are now -- we've got coverage for titanium for most of those or for heat exchangers through the end of the year and we're working through the recoil there, but we're not done yet there's a lot of work to do.
+
+Q - David Strauss{BIO 20485958 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Noah Poponak of Goldman Sachs. Your question please, Noah Poponak.
+
+Q - Noah Poponak{BIO 16071528 <GO>}
+Hi, good morning everyone.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Good morning, Noah.
+
+Q - Noah Poponak{BIO 16071528 <GO>}
+Obviously, what's happening with supply chain labor inflation is it's unprecedented and hard to manage and hard to forecast. But I'm confused by the pace of deterioration or the narrow window in which the defense forecast have changed, because -- unprecedented and hard to manage and hard to forecast. But I'm confused by the pace of deterioration or the narrow window in which the defense forecast have changed, because the variances are -- the negative variances are pretty large. And if I go back to just the first quarter call in April, you were talking about supply chain, labor inflation, repeatedly. The whole world was. And so you were giving guidance just three months ago and a month into the quarter. And so have supply chain labor inflation deteriorated that much in just two to three months' time or is it that it's just that difficult to forecast? And if it's the latter, if I go back to this discussion of the second half inflection, it's still really hard to stare at this RMD guidance and see how you can have that much of an acceleration. Maybe you could spend some time on the specific programs that drive that to get us more comfortable.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Yeah. No, that is a great point. I would tell you when we exited the first quarter, and we knew that we had seen supply chain challenges, specifically at RMD. And the thought was and it -- which turned out to be, of course incorrect, was that, most of the supply chain challenges were related to Omicron. And that's why we had problems in December and January, but we really expected, as COVID receded into the background that we would see a quick recovery in the supply chain. And in fact that was wrong. The labor challenges that we continue to see have not abated. And again, I think that's -- that is the challenge and that's the reason we continue to struggle in supply chain.
+
+Inflation is a challenge, but we can measure it. We can work to overcome it. Not having enough people in the supply chain that is a proven to be much more difficult. And so again, we have gone through this, I would tell you, program-by-program, line item by line item in terms of what's in our MRP schedule. And there are some go gets out there, but we have commitments from suppliers to hit these numbers. And I think that's the -- that is the challenge is making sure that our suppliers continue to deliver on the recovery plans that they have laid out for us. I don't know Neil, anything you want to.
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Yeah, two points, because there's been a compounding impact that we've seen in the second quarter and expect to persist. And one is, with the slowdown of receipts of material, we got a different mix of output during the quarter, more development program focused and our lower margin production contracts for the ones that received the materials. So getting back to that fill rate conversation, you had the stuff that was coming in not being on the more profitable programs.
+
+The second piece of that, the lockdown effect of that is the absence of labor productivity in the shops. And so with the fill rates being down in that 50% range, we just did not get the benefit of rolling through labor efficiencies, which is the primary driver of the EAC benefits we typically see in a quarter in R&D has seen now. In the second half we expect some not all of that to recover. And so it is a tough hill in the second half. I think we've got the right resources. Engage with suppliers and -- within the business and on the shop floors. But we are looking at this every day and we do need to see a market improvement in productivity in the shops to drive that P&L benefit in the second half of the year.
+
+Q - Noah Poponak{BIO 16071528 <GO>}
+Okay. Thank you.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Thanks Noah.
+
+Operator
+Thank you. Our next question comes from the line of Sheila Kahyaoglu of Jeffrey's. Your question please, Sheila Kahyaoglu.
+
+Q - Sheila Kahyaoglu{BIO 22112950 <GO>}
+Okay. I got to guess that was me. Good morning, guys.
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Good morning.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Hi Sheila.
+
+Q - Sheila Kahyaoglu{BIO 22112950 <GO>}
+Hi. When we think about US Airlines, just switching gears a little bit, they're finally seeing pricing tailwind and capacity constraints. So can you talk a little bit about your aftermarket business? Are you seeing different actions from the airlines? How's pricing trending relative to history? And then can you maybe remind us of your aftermarket guidance expectations for the year with long-haul international expectations for the second half?
+
+A - Neil G. Mitchill Jr.{BIO 18320109 <GO>}
+Sure, let me start with some of the outlook pieces here. First it (inaudible), we now expect aftermarket to be up between 20% and 25% year-over-year, so we're at the halfway mark of the year. I think it's important. I've been talking a lot about the uncertainty around the recovery and we're pleased to see that improving obviously and holding. I think Greg will probably want to add a couple of comments here as well. But clearly demand for air travel is very strong. We're seeing some encouragement in terms of the wide-body roots opening up as well and expect that to continue in the second half.
+
+And on the Pratt side, we now see the aftermarket up year-over-year 25%. So really good performance there. Our customers are giving us good line of sight to shafts [ph] inductions are a little over 40% towards our plan for the year in terms of V2500 shafts it's, there's still some work to be done in the back half of the year. As you know China was closed down for the better part of the second quarter and that is a piece of the back half growth. But feel pretty confident, we got good dialogue with our customers. Good line of sight to the third quarter of particular and I expect that to continue in the fourth quarter.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Yeah. Sheila, all I would say is that it's an interesting time for the commercial aerospace business. Demand is unprecedented -- it's the wrong word. I would say the trajectory of the recovery certainly I think caught people by surprise in terms of the desire to travel again and you can tell every time you go to an airport today, the long lines that we have. And the problem of course, is it's not just pilots shortages, but it's baggage handlers, it's TSA agents, it's everybody that supports commercial airlines. They're struggling with the same labor availability that we talked about in the supply chain. So the recovery is very strong. Pricing as you know for the airlines is very strong. Fuel prices, Jet A has doubled in price in the last year, but has come off of its highs of a couple of months ago.
+
+So I think, again, the airlines financially are doing very well, and the biggest concern they have is aircraft availability. And so we're going to see very strong inductions into the shop. We've seen very strong orders in our aftermarket. They're getting a little bit stronger than we had anticipated going into the second quarter. And we don't think there's anything that changes that trajectory in the back half of the year, absent a huge resurgence in COVID. I think, again, people want to travel. China will reopen at some point, which we have seen a quick snapback in demand as soon as China reopen. So I think it's all pointing in a positive direction on commercial aero for the back half of the year and into 2023. So I think, again, we're well along the recovery path and no change in trajectory.
+
+Q - Sheila Kahyaoglu{BIO 22112950 <GO>}
+Okay. Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Peter Arment of Baird. Please go ahead, Peter Arment.
+
+Q - Peter Arment{BIO 1553462 <GO>}
+Hey, good morning, Greg, Neil, Jennifer.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Good morning Peter.
+
+Q - Peter Arment{BIO 1553462 <GO>}
+Hey, Greg. If I just come back to kind of the differences between, commercial aerospace or your aerospace business, how well it's performing, but dealing with a lot of the same probably supply chain that overlaps with defense. Maybe if you just call out, maybe some of the differences because I think a lot of it is struggling on the defense side. It really seems very complex in trying to get back to kind of the trajectory versus where your commercial aerospace business is probably dealing with a lot of the same challenges but at the same time it's performing really well. I mean maybe just call out a couple of the differences would be helpful. Thanks.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Yeah, look. One of the -- one of the benefits on the commercial side is we're not handicapped with government contracting regulations. And to that end the MMS, Material Management System, which dictates how much inventory we can drive and how soon we can place things on order, really constrains our ability to be flexible on the defense side. I would tell you, the reason that we have been able to be successful on the commercial side is we've driven a lot of inventory. And if you look at inventory it's up about a billion dollars since the beginning of the year. It's up about $400 million in the second quarter, primarily on the commercial side to meet the higher demand. So we have been driving material in faster. We're not constrained on the commercial side by the MMS system. And I think again, that's a -- that is a lesson learned for us. And I -- what we told to the team and defense is, bring it in, we don't have to build it and we had to bring in more inventory sooner rather than within lead normally times, that's okay.
+
+So we're going to go out and be a little more aggressive with inventory. We're not talking but talking billions of dollars. But the fact is we need to drive inventory in faster and give some surety of supply or surety of demand rather to our supply chain such that they continue to drive material in. And look, some of the suppliers we know are not going to get better this year. Rocket Motors, we've talked about that continually for over a year. We know that's a recovery that stretches probably into 2024, but that's only a piece of the problem. I mean, it's again, trying to make sure we've got the right chips and microelectronics really hand them out there. But again, we have the tools and again, the folks here at the corporate office and supply chain are off working with the folks on the defense side to help overcome some of these challenges, but it's not easy.
+
+Q - Peter Arment{BIO 1553462 <GO>}
+Appreciate the color. Thanks, Greg.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Thanks Peter.
+
+Operator
+Thank you. Our next question comes from the line of Robert Spingarn from Melius Research. Your question please, Robert Spingarn.
+
+Q - Robert Spingarn{BIO 5996882 <GO>}
+Well. Thank you. Greg, I wanted to go back to the discussion on inflation and labor constraints and ask what the longer-term opportunity is to apply automation across the four businesses to mitigate these issues. Does this require brand new programs or brand new facilities to implement? And more specifically with Asheville, it would seem that that's going to be a tough labor situation. It's an inherently labor intensive business casting and you don't really have an available labor pool there that's trained in castings. So how do you staff that plant specifically or will it be more automated?
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Well look, it's -- I would tell you factory automation is something that we have been doing for a number of years. I think about the Iber [ph] facility we have at Pratt Canada that went online more than five years ago, completely lights out manufacturing. So we have been making investments I'll call it, an Industry 4.0 across all of our factories. We've got the new project down in Dallas. The new Factory, automated Factory that's going in down there. You've got Asheville.
+
+And Asheville, while it is a large facility, the actual number of employees is only think about 800 that we're going to be hiring and we have been actively hiring them today to train them for the opening which should happen sometime I think at the end of next year. So look it's -- it will be a challenge. But I would tell you, again, if you work at Pratt & Whitney, you work at Collins or anywhere across the RTX portfolio, we pay very good wages. But labor cost is a very -- direct labor cost is a very small piece of our cost of sales. The bigger challenge I would tell you, is on the engineering front. And again that's just trying to find enough qualified engineers with clearances to drive the revenue growth that we've been expecting on all of these programs that we've signed up for.
+
+So inflation is a problem, but we can deal with the inflation. The fact labor shortages, we can deal with it within our own four walls because we've got really good pay, really good competitive benefits. People come to Raytheon because of our mission. And I think that's a differentiator that we have in the marketplace and the hope of course is as we see the economy slow down here in the coming months and perhaps year that we'll have the opportunity to continue to drive more folks into both the shop floor as well as into our offices on these programs.
+
+As far as the automation, we're going to continue to drive automation. It's what we do to drive cost reduction and we're encouraging suppliers to do the same do the same thing, but that's all contemplated I think in the $2.5 billion a year that we spend on CapEx, which is not an insignificant amount.
+
+Q - Robert Spingarn{BIO 5996882 <GO>}
+Just one more thing on Nashville. You mentioned structural castings earlier. We know that's been a long pole in the tent here. If I remember correctly Asheville supposed to be for airfoils, but might you do structural -- large structures there just to address this single supplier problem.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Yeah, look I will take airfoils first and I think again, whether we decide later on to do -- to go up the supply chain there that's a decision and a another relatively large investment. The fact is structural castings require huge capital and I tell you the workforce that is highly skilled. We're going to start with airfoils, it'll take us several years to get up to full run rate production there and then we'll see where we go from there. But really no plans to go beyond structural. I'm sorry, to go beyond the airfoils at this point.
+
+Q - Robert Spingarn{BIO 5996882 <GO>}
+Thank you.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Thanks.
+
+Operator
+Thank you. Our final question comes from the line of Seth Seifman of J.P. Morgan. Please go ahead, Seth Seifman.
+
+Q - Seth Seifman{BIO 16417112 <GO>}
+Yeah. Thanks, thanks very much. Good morning. Thanks for all the color on the defense situation. Maybe just a quick final question that's a little more thematic. Greg, how do you think about the role of the company in China over time and the pace at which may be the US and China are decoupling on aerospace. We see the 737 MAX seems to be stock in some political emboar [ph] right now in China. Collins is a supplier on the C919. How fast do you see these two kinds of aviation world's splitting up or is that not the right way to think about it? We're -- how do you think about that these days?
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+So look, China remains an incredibly large market for commercial aerospace and incredibly important market for commercial aerospace growth over the coming decades. Obviously, the Chinese have a desire to have indigenous aircraft that's the C919, maybe the C929 at some point. But the fact is we think we're going to have -- we will continue to work with our partners there. We'll continue to utilize supply chain out of China that we have thousands and thousands of parts that come out of China for our commercial aerospace specifically at Collins. But also some for Pratt Canada and some for Pratt & Whitney.
+
+So look, we're going to continue to work with the Chinese at the same time. I think we understand the geopolitical realities and we're also making sure that we have assured supply chain. So we're looking to make sure we have second sources outside of China in the case that the geopolitical tensions arise to the point where we're not able to access that supply chain there. That's a process that's been ongoing for well over a year and a half and will continue for the next couple of years. Again, thousands of part numbers to do that. But again, we don't see a decoupling of China from the world the way we've seen a decoupling of Russia from the world after the invasion of Ukraine.
+
+Again, it's a -- the economy of Russia, relatively small than China's second largest economy in the world. The decoupling between China and the US, I think is impractical and almost impossible to imagine the consequences on the US consumer, the US economy, if we really tried to decouple. So again, the hope here is we find a path forward where we can work together at the same time, understanding that we have competing interests, but at the same time we are -- retain a very large presence, in China for the commercial aerospace. Obviously, not on defense side, but we understand what we need to do to protect our customers long-term.
+
+Q - Seth Seifman{BIO 16417112 <GO>}
+Okay. Thank you.
+
+A - Gregory J. Hayes{BIO 5547891 <GO>}
+Okay. So Latif, thank you very much. Appreciate everybody listening in today. Jennifer and team of course will be available all day to take your calls and questions and we look forward to seeing you guys sometime early in the fall. Thank you.
+
+Operator
+This now concludes today's conference. You may now disconnect.

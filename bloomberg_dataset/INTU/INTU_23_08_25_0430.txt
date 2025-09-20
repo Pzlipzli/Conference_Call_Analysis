@@ -1,0 +1,443 @@
+Q4 2023 Earnings Call
+Company Participants
+Kim Watkins, Vice President of Investor Relations
+Sandeep Aujla, Chief Financial Officer
+Sasan Goodarzi, Chief Executive Officer
+Other Participants
+Alex Zukin, Analyst, Wolfe Research
+Brad Reback, Analyst, Stifel
+Brad Sills, Analyst, Bank of America
+Brent Thill, Analyst, Jefferies
+Kartik Mehta, Analyst, Northcoast Research
+Kash Rangan, Analyst, Goldman Sachs
+Keith Weiss, Analyst, Morgan Stanley
+Kirk Materne, Analyst, Evercore Partners
+Michael Turrin, Analyst, Wells Fargo
+Nick Giovacchini, Analyst, Deutsche Bank
+Scott Schneeberger, Analyst, Oppenheimer
+Siti Panigrahi, Analyst, Mizuho
+Taylor McGinnis, Analyst, UBS
+Unidentified Participant
+Presentation
+Operator
+Good afternoon, my name is Raiza, and I'll be your conference operator. At this time, I would like to welcome everyone to Intuit's Fourth Quarter Fiscal Year 2023 Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer period. (Operator Instructions)
+
+With that, I'll now turn the call over to Kim Watkins, Intuit's Vice President of Investor Relations. Ms. Watkins?
+
+Kim Watkins{BIO 19461042 <GO>}
+Thanks, Raiza. Good afternoon, and welcome to Intuit's fourth quarter fiscal 2023 conference call. I'm here with Intuit's CEO, Sasan Goodarzi, and our new CFO, Sandeep Aujla. Welcome, Sandeep, it's nice to have you on the call. Before we start, I'd like to remind everyone that our remarks will include forward-looking statements. There are a number of factors that could cause Intuit's results to differ materially from our expectations. You can learn more about these risks in the press release we issued earlier this afternoon, our Form 10-K for fiscal 2022, and our other SEC filings. All of these documents are available on the Investor Relations page of Intuit's website at intuit.com.
+
+We assume no obligation to update any forward-looking statements. Some of the numbers in these remarks are presented on a non-GAAP basis. We've reconciled the comparable GAAP and non-GAAP numbers in today's press release. Unless otherwise noted, all growth rates refer to the current period versus the comparable prior year period, and the business metrics and associated growth rates refer to worldwide business metrics. A copy of our prepared remarks and supplemental financial information will be available on our website after this call ends.
+
+With that, I'll turn the call over to Sasan.
+
+Sasan Goodarzi{BIO 15750219 <GO>}
+All right. Excellent, Kim, thank you, and thank you, everybody, for joining us today. We had a very strong fourth quarter as we executed on our strategy to be the global AI-driven expert platform, powering prosperity for consumers, and small businesses. We grew full year revenue by 13% delivered strong operating margin expansion, and exited the year with momentum.
+
+Our overall performance demonstrates the strength of our platform and the diversity of our portfolio, including our ability to maintain earnings power in uncertain times. This past year, we expanded our operating margin again, while investing in the most important areas to drive durable long-term growth. We are guiding to another year of double-digit revenue growth and margin expansion in fiscal year 2024, even with the macroeconomic environment that is uncertain.
+
+We are entering Intuit's most exciting areas. Five years ago, we declared our strategy to be an AI-driven expert platform with data and AI for fueling innovation across our five Big Bets. We've made strong progress in transforming from a tax and accounting platform where consumers and small businesses have to do the work to achieve the benefit that they are seeking, so, as global financial platform, where we do the hard work for them.
+
+Now, we are creating a future of, done for you, a future where the hard work is done automatically on behalf of our customers to fuel their financial success. This future is only possible because of our history of significant investments in our platform, talent, data and AI and now our accelerated investments in generative AI. At the core of our platform is powerful and relevant data. Intuit has incredibly rich longitudinal, transactional and behavioral data for 100 million customers. For small businesses, we have a 360 degree view of their business and customers.
+
+We have 500,000 customers and financial attributes per small business on our platform and this data gives us insights into behaviors, income streams, expenses, profitability, and cash flows enabling us to provide personalized experiences and recommendations to help them prosper.
+
+Additionally, we have 60,000 financial and tax attributes per consumer on our platform, including income, expenses, credit history, spending history, outstanding loans cash flow, and tax information, which enables us to become a financial assistant in their pocket. We are using our data to fine-tune our own financial large language models that specialize in solving tax, accounting, cash flow, marketing, and personal finance challenges.
+
+The investments that we've made in data and AI over the years allow us to introduce innovations at an accelerated rate. Intuit's rich data platform is a powerful foundation that allows us to create innovative AI-assisted experiences for all of our customers powering their prosperity. In June, we introduced our generative AI operating system called GenOS (inaudible) innovation at scale for the benefit of millions of consumers, and small businesses.
+
+GenOS empowered Intuit's technologists to create breakthrough generative AI experiences. We are using a platform approach given our teams across Intuit's resources and the tools they need to design, build, test, and deploy these new experiences with unparalleled speed. This includes our own powerful financial LLM[ph] as well as those from other leaders in GenAI, which together unlock new opportunities to serve our customers in a cost-effective way.
+
+We are entering Intuit's most exciting era yet and believe the next several years will be game-changing. On September 6th, we'll be hosting Intuit's Innovation Day, a virtual event where we will unveil exciting GenAI innovation across our platform and how it will drive business growth in the years ahead. We look forward to sharing more with you then.
+
+Now let me turn to our Big Bets which are driving growth and benefits for our customers today. I'd like to highlight some examples of recent progress in one of our Big Bets. And as a reminder, our five Big Bets are: Revolutionize speed to benefit; Connect people to experts; Unlock smart money decisions; Be the center of small business growth, and Disrupt the small business mid-market.
+
+Our fourth Big Bet is to become the center of small business growth by helping our customers get new customers, get paid fast, manage capital and pay employees with confidence in an omnichannel world.
+
+In payments, our innovation continues to drive digitalization from creating an estimate to invoicing a customer to getting paid. Today, easier discovery, auto-enabled payments, instant deposit, and getting paid upfront are all helping drive adoption of our payments offering, leading to 22% total online payment volume growth this quarter. We are making significant progress digitizing B2B payments to accelerate and automate transactions between small businesses and ultimately improving their cash flow.
+
+We see tremendous opportunity as 80% of businesses still pay other firms via paper checks. We recently expanded the availability of the beta of our native bill pay solution by (inaudible).
+
+Turning to Mailchimp. We are well on our way to becoming the source of truth for our customers to help them grow and run their businesses. We have three acceleration priorities with Mailchimp. First, delivering on our vision of an end-to-end QuickBooks and Mailchimp customer growth platform. Second, disrupting the mid-market by developing a full marketing automation, CRM, and eCommerce suite, and third, accelerating global growth with a holistic go-to-market approach.
+
+This last quarter, we implemented our first generative AI capability in Mailchimp, the Email Content Generator enabling customers to create faster email campaigns based on industry, marketing intent and brand voice.
+
+This quarter we launched the beta of new product announcements generator which uses AI to automatically create an email that a small business can send to their customers. We also announced over 150 new and updated features at recent Mailchimp Conference in London, designed to support the needs of advanced marketers including a calendar view, customed reporting and analytics, more eCommerce advanced segmentation, more real-time behavioral data based on eCommerce, automation and as SMS marketing.
+
+Lineup changes and free trials are driving positive trends in year-over-year paid customer growth, which accelerated this quarter. We continue to make progress in mid-market. Our 90-day retention rate this quarter is the highest it's been in two years. We also translate the product into five different languages. We'll share more on the outcomes we are delivering across our five Big Bets at our Investor Day.
+
+Wrapping up, with our durable AI-driven expert platform strategy and focus on innovating with GenAI across our products, we are moving at a high velocity. This will help us with more money in our customers' pockets, saves them time, and ensure complete confidence in every financial decision they make. As we leave this next technological shift, we are well-positioned to power prosperity for our customers and communities that we serve, to the leadership team that we built for the era of AI.
+
+Now let me turn it over to Sandeep. It's great to have you on the call my friend.
+
+Sandeep Aujla{BIO 23302879 <GO>}
+Thank you, Sasan. I'm excited to be here and I look forward to meeting many of you in the future. We delivered strong results in fiscal 2023, including total revenue growth of 13%, strong margin expansion, and GAAP and non-GAAP EPS growth of 15% and 22% respectively.
+
+For the fourth quarter of fiscal '23, we delivered results that exceeded the high-end of our guidance across all key metrics, including revenue of $2.7 billion, up 12%. GAAP operating income of $17 million versus a loss of $75 million last year. Non-GAAP operating income of $627 million versus $433 million last year up 45%. GAAP-diluted earnings per share of $0.32 versus a loss of $0.20 a year ago and non-GAAP diluted earnings per share of $1.65 versus $1.10 last year up 50%.
+
+Now turning to the business segments. In the Small Business and Self-Employed Group revenue grew 21% during the quarter and 24% for the full year, which included four points of benefit from a full year of Mailchimp's revenue this year versus three quarters last year. Online Ecosystem revenue grew 21% during the quarter and 30% for the full year.
+
+With the goal of being the source of truth for Small Businesses, our strategic focus within the Small Business and Self-Employed Group is three-fold: grow the core, connect the ecosystem and expand globally. First, we continue to focus on growing the core. QuickBooks Online accounting revenue grew 22% in Q4 and 26% in fiscal '23. Growth for the quarter and fiscal year was driven mainly by customer growth, higher effective prices and mix shifts. Second, we continue to focus on connecting the ecosystem. Online services grew 20% in Q4 driven by payroll, Mailchimp, payments, capital and time tracking.
+
+For the full fiscal year, '23 QuickBooks Online Services grew 34% driven by Mailchimp, payroll, payments, capital and time tracking. Within payroll, revenue growth in this quarter reflects an increase in customers' adopting accounting[ph] solutions and a mix shift towards higher-end offerings. Mailchimp revenue grew mid-teens in Q4. Growth was driven by higher effective prices and paying customer growth. Within payments, revenue growth in the quarter reflects ongoing customer growth as more customers adopt our payments offering to manage their cash flow as well as an increase in total payment volume per customer.
+
+Third, we continue to make progress expanding globally by executing our refreshed international strategy, which includes leading with both QuickBooks Online and Mailchimp in our established markets and leading with Mailchimp in all other markets as we continue to execute on localized product and lineup.
+
+On a constant currency basis, total international online ecosystem revenue grew 12% in Q4 and 31% in fiscal '23. The power of our small business platform continues to resonate with customers as they look to grow their business and improve cash flow across all types of economic environments. Our platform remains critical to our customers' success and we continue to see them adopt multiple offerings across the platform to manage their business.
+
+Desktop Ecosystem revenue grew 19% in the fourth quarter and QuickBooks Desktop Enterprise revenue grew in the low 20s. We are approximately two-thirds of the way through a three-year transition for customers that remained on license-based desktop offering to a recurring subscription model. We also raised our desktop prices across multiple products last September, consistent with our principle of price for value.
+
+Looking ahead, we expect continued strong desktop ecosystem revenue growth next year as we complete the remaining part of the three-year transition.
+
+Our focus is to continue building out our online ecosystem and to help our desktop customers migrate seamlessly to our online offerings. We continue to expect the online ecosystem to be our growth catalyst longer-term. Looking ahead, we continue to anticipate Small Business and Self-Employed revenue growth of 15% to 20% per year in long term.
+
+Now shifting to Credit Karma. Credit Karma delivered revenue of $424 million in Q4, down 11%. On a product basis, the decline in Q4 was driven primarily by macroeconomic headwinds in personal loans, auto insurance, home loans and auto loan partially offset by growth in credit cards and Credit Karma Money. Full year revenue was $1.6 billion down 9%. Credit Karma represented 11% of Intuit's total revenue in fiscal '23. We have seen continued stability across our core verticals, which led to the improvement in year-over-year performance during Q4 versus Q3.
+
+For contact, credit cards and personal loans represented nearly 50% and nearly 30% of Credit Commerce revenue in fiscal '23, respectively. Looking ahead, we continue to anticipate Credit Karma's annual revenue growth of 20% to 25% per year long term. Now shifting to Consumer and ProTax groups. Consumer Group revenue was $4.1 billion in fiscal '23, up 6% each tax season has been unique since the pandemic began four years ago, introducing volatility into Consumer Group results. However, average annual trends over this four year period are more in line with the long-term trends. Over the past four years, Consumer Group revenue increased by an average of 10% annually, which is aligns with our long-term growth expectations of 8% to 12%.
+
+While this was a unique tax season, I am proud of the progress the team made by transforming the assisted segment with TurboTax Live, which grew revenues 17% this year, while customers grew 12%. Looking ahead, we are confident in multiple growth drivers. First, we see a large runway ahead of us with TurboTax Live, given our ability to use both GenAI and human experts powered by AI to deliver confident for our customers. We are investing in building[ph] a full-service offering, which has a good product market fit based on the highest product recommendation scores of any product into this year.
+
+Second, we are trying to scale our business tax offering, following a successful pilot this year. And third, we see significant opportunities ahead, driving Credit Karma members to TurboTax and giving TurboTax filers faster access to their money with Credit Karma Money. Given the growth opportunities, I just shared, we continue to expect annual Consumer Group revenue growth of 8% to 12% per year over the long term.
+
+Turning to the ProTax Group, revenue was $561 million in fiscal '23, up 3%. Now let me share more on our financial principles and capital allocation. Our financial principles guide our decisions, remain our long-term commitment and are unchanged. We finished the quarter with approximately $3.7 billion in cash and investments and $6.1 billion in debt on our balance sheet. Approximately $4.2 billion of the debt is maturing over the next 15 months and we are evaluating refinancing opportunities subject to market and other conditions.
+
+We repurchased $465 million of stock during the fourth quarter and $2 billion during fiscal '23. Depending on market conditions and other factors, our aim to be -- is to be in the market each quarter. The Board approved a quarterly dividend of $0.90 per share payable on October 17, 2023. This represents a 15% increase versus last year. We recently finalized a three-in-one year strategic plan. I feel confident in the investments we are making to drive durable growth, including executing across our Big Bet and continuing the accelerated pace of innovation, particularly with GenAI. We have a proven playbook for operating in both good and difficult economic times. We manage for the short and the long-term and control discretionary spend to deliver strong results while investing in what is most important for future growth. Our goal remains for Intuit to emerge from this period of macroeconomic uncertainty in a position of strength.
+
+Moving on to guidance. Our fiscal 2024 guidance includes total company revenue of $15.89 billion to $16.105 billion a growth of 11% to 12%. Our guidance includes revenue growth of 16% to 17% for the Small Business and Self-Employed Group, 7% to 8% for the Consumer Group, and a decline of 3% to a growth of 3% for Credit Karma. GAAP earnings per share of $9.37 to $9.67 growth of 11% to 15% and non-GAAP earnings per share of $16.17 to $16.47 growth of 12% to 14%.
+
+We expect a GAAP tax rate of approximately 23% in fiscal 2024. Our guidance for the first quarter of fiscal '24 includes revenue growth of 10% to 11%. GAAP earnings per share of $0.15 to $0.21, and non-GAAP earnings per share of $1.94 to $2. We are taking a prudent approach with guidance given the continued macroeconomic uncertainty.
+
+As a reminder, in Q1 of fiscal '24, we expect to pay approximately $700 million in cash tax payments related to fiscal '23, which were deferred due to the IRS disaster-area tax relief. You can find a full fiscal 2024 and Q1 guidance details in our press release as well as on our fact sheet.
+
+With that, I'll turn it back over to you, Sasan.
+
+Sasan Goodarzi{BIO 15750219 <GO>}
+Well. Thank you. Wrapping up, we are confident in our AI-driven expert platform strategy and progress with our five Big Bets, the investments that we are making in GenAI and our leadership team driving our platform innovation. The combination of our assets and our strategy creates a growth flywheel for Intuit to accelerate penetrating our $300 billion and count. In today's uncertain macro-environment, the benefits of our global financial technology platform are more important and mission-critical than ever to our customers. I look forward to your attendance at our Intuit Innovation Day on September 6th, and Investor Day on September 28th.
+
+With that, let's open it up to your questions.
+
+Questions And Answers
+Operator
+(Operator Instructions) And we'll take our first question from Keith Weiss with Morgan Stanley. Your line is open.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. Thank you guys for taking the question, and a really nice quarter, and nice to see a forward EPS guide ahead kind of where consensus was to see those numbers start moving up. My inbox getting filled up with questions about the Consumer business and the consumer guide. You've talked about a longer-term 8% to 12% growth there, the four-year CAGR of 10%, but this year you are looking for 7% to 8%, so below that guidance framework. And I think what people are trying to understand is why that is? Last year was a difficult tax season. Did you pull the levers too hard on pricing? Or what was it, do we need to refill the tank in terms of units like? What is it that's going to keep this tax season to be underperforming those longer-term targets? Thank you.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Hey, Keith, thank you for your question. Let me give you the headline, but allow me to unpack it. I think the headline is we are just simply been prudent. Our focus on future growth and our bullishness does not change at all. Let me unpack that. First and foremost, when you look at the assisted segment, there is a $30 billion TAM, and $20 billion of it is consumer-assisted segment and $10 billion of it is business segment.
+
+And the second is the secular shift towards digitization will continue and only accelerate in the years to come. And with that as context, we probably saw some of our biggest reinsurance[ph] this year, which is why we are probably more bullish about what's possible in this business than we were even three to four years ago, and I would put it in two buckets, Credit Karma and then the assisted segment. In Credit Karma, just as a reminder, our vision from the moment that we bought Credit Karma was to create one consumer platform where a consumer can manage their financial lives, manage their money, and get their taxes done in one place.
+
+After several years of just rapid experimentation, we had a massive breakthrough this past year where our customer growth within the Credit Karma platform versus a number of Credit Karma members who became TurboTax customers was up 5x and we are scaling that both on the product side and on the business model side as that gives us a lot of confidence going into next year and beyond.
+
+The second is going to be assisted segment and that's in three parts. First and foremost is we actually had product market fit this past year at full service, our biggest focus was how do we scale. We had some breakthroughs in how to scale. In fact, as you heard from Sandeep we had our best product recommendations score of any product across the company and we are significantly leaning into that in the coming year.
+
+The second is business tax. We launched and learned to get the product market fit in business tax. That is not going to be available, both across our QuickBooks Live platform and directly going to market with TurboTax and we have hundreds of thousands, if not millions of people in (inaudible) TurboTax looking for business tax we've never had an offering. We will next year, and we are scaling it. The last thing, I would say in the assisted segment, one of the biggest things that we've learned in the last years, is local matters. What that means, people will go on Google, and they will search, If I'm in San Diego is there a pro close to me, while we've never been good has been found in local and in fact, when you look at the experts that we have, we are 10 miles from every home in the household in the United States and so we are going big on local this year.
+
+And so when I look at our green shoots in the assisted segment and Credit Karma, it gives us a lot of confidence as we look at this coming year and the future, and I'll end with where I started, the essence of your question about our guidance. We are simply being prudent given the year that we just had.
+
+Q - Keith Weiss{BIO 6993337 <GO>}
+Excellent. That's super helpful, guys. Thank you.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Thank you.
+
+Operator
+And we'll take our next question from Siti Panigrahi with Mizuho. Your line is open.
+
+Q - Siti Panigrahi{BIO 17888514 <GO>}
+Thank you. Great quarter. And Sandeep, congratulations on your first earnings call and looking forward to working with you. Sasan, I wanted to ask about your Bill pay. What sort of feedback have you been getting from your customer from that QuickBooks native Bill pay? And how should we think about the near-term opportunity as you are switching the legacy powered by payment solution with now your native bill pay? And then on the broader vision side on small business, now that you have full end-to-end cash flow management, now you have AR invoice them and AP bill pay, they need to have money back accounts. So, what is your broader vision in terms of monetizing the whole ecosystem?
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yes, Siti, thank you for your question. Let me take it in two parts. The first and foremost, you've heard us -- actually, hear us[ph] talk about digitizing. B2B, with respect to all of the manual work that gets done today in terms of 80% of the back-and-forth between small businesses is all sort of paper checks and manual. And our goal has been to digitize all of that. And one last element of what we needed to do was the launch Bill pay. I think the headline, I will just give it is the feedback we've been getting is even done better than what we thought, and we are now at a place where we are connecting our data and we hope to have it available to all of our customers soon. So we feel very good about what we are seeing in Bill pay and how fast we are able to build it based on the platform capabilities that we have and the feedback that we've gotten from customers.
+
+I think back to your second question, you're right. And in fact the vision, I would take you back to is that we have set out to be the source of truth for a business, and it's truly be the center of small business growth, and in order to do that, we have to have capabilities that not only help a small business, grow their customers, retain their customers, market to their customers, but to be able to manage their cash flow and be able to manage our employees. We now have all of those capabilities end and end. And I think, particularly what's important that advantages us to deliver for our customers is the data and our AI investments that we made in the last five-plus years. And I think, I would just encourage you to attend and if you can't attend when it's on real time watch the replay of our September 6th Intuit Innovation Day and you will see how with our data, AI and GenAI capabilities we help customers manage their cash flow and really, digitize all of money movement in a way that's so intuitive, so easy, and delivered at a moment of truth that we are quite excited about what's possible as we look at this coming year, but the years ahead.
+
+And let me kind of be very explicit that none of our potential innovations that you're going to experience in September takes around GenAI is included in our guidance, but we believe it is fundamentally revolutionary as we think about the world, we are going to create in the future.
+
+Q - Siti Panigrahi{BIO 17888514 <GO>}
+Thank you. Thanks, Sasan.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+You're very welcome.
+
+Operator
+And our next question comes from Brent Thill with Jefferies. Your line is open.
+
+Q - Brent Thill{BIO 1556691 <GO>}
+Thanks. Sasan you mentioned prudent in the tax guide. I'm curious, are you baking in more wiggle room this year than in past years in the guidance, or can you just walk through what you mean by prudent?
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Sure, it's a great question. Well first of all, I'll just take you back to what you already know, but, I think it's important that we start there. This past year IRS return, we continue to estimate will be down a couple of points. The do-it-yourself category will be down nearly one point. And the driver of that, which we are now certain, now based on all the work and analysis that we've done is we had a number of folks that came in to get their stimulus dollars and the tax credit, and so a pandemic-driven. And so that created just what you heard from Sandeep is sort of very unusual tax season, but then when you step back and look at the last four-year trend, it sort of straightens down.
+
+And so what we mean by prudent is really a couple of things, one we are not assuming IRS growth in our numbers this year and we are not banking on all of the innovations that I just share paying off this coming year. And that's just part of us being prudent because we want to demonstrate to all of you that this is a business that grows 8% to 12% and by doing so, we must deliver the result. And so we are just being very intentional and very prudent. As we think about it, by the way our guidance holistically, it's not just TurboTax. It's TurboTax, it's Credit Karma and the way we thought about small business, but those are -- that's the sort of the definition of what we mean by prudent.
+
+Q - Brent Thill{BIO 1556691 <GO>}
+Thank you, Sasan.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yes, you are very welcome.
+
+Operator
+Our next question comes from Michael Turrin with Wells Fargo. Your line is open.
+
+Q - Michael Turrin{BIO 20079094 <GO>}
+Okay, great, thanks so much. You delivered outsized margin expansion in this past year. You've mentioned the focus on cost controls given the tough environment throughout the year realized. It's one of the guiding principles, but maybe Sandeep, if you can just speak to what's allowing you to guide for continued margin expansion as a starting point here? And maybe how we should think about what's allowing for continued margin expansion as you break into the upper 30s, on the operating margin side? Thanks.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+Thanks for the question, Michael. And then, let me unpack it a little bit. We go through a prudent one year planning process as shared in the prepared remarks and do that process to look at we are the biggest needle mover to deliver growth both in the near-term and the long-term, so a durable growth leverage for the company. Let me make sure those are funded for success, inclusive of Big Bets our investments in GenAI. So the 40 bps to 50 bps of guidance reflects those investments and quite frankly reflects the strength and resilience of our platform.
+
+As a reminder, this is an expansion we delivering on top of the 3.5 points of expansion we delivered over the last three years. As I look ahead, I see plenty of runway for us to continue to operate in accordance with our financial principles to grow expenses slower than revenue. Therefore, implying a margin expansion heavily as I look at it what gives me confidence is that we are an AI-driven expert platform and we operate as an ecosystem across technology, across customer success, across marketing. So in addition to giving us a competitive advantage for having faster time-to-market as I -- from ecosystem it also gives us an advantage in getting operating leverage as we scale as a business.
+
+Q - Michael Turrin{BIO 20079094 <GO>}
+Thank you.
+
+Operator
+Our next question comes from Taylor McGinnis with UBS. Your line is open.
+
+Q - Taylor McGinnis{BIO 20989116 <GO>}
+Yeah, hi, thanks so much for taking my question. Maybe, I'll focus on the Small Business and Self-Employed, full year guide, which was really strong. So, I know there's a bunch of moving pieces in there between customer adds, mix shift, online services attached and price, but are you able to help us understand how each of those levers are contributing to the guide? And based on what you're seeing in the environment, what giving you comfort and the durability of those growth drivers?
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, thank you for your questions. Let me start us off and Sandeep please jump in to add anything. Yeah, first of all, we have a framework at the company-level, where we want to drive the majority of our growth from a volume and mix. On the lesser part from price, but we always focus on pricing for value. And so when we look at our growth drivers this year it is coming from customer growth and it is coming from mix and so, the lesser extent this year compared to last year by the way from price.
+
+With that as context, I'd just remind you that the big picture when you look at our opportunity this coming year, but even in the next three to five years plus we now have a platform and a portfolio of services where we have the opportunity to drive further adoption of our services from Mailchimp to payments to payroll to time tracking and to a lot of our new innovations around Bill pay and digitizing B2B, that I just mentioned, but also -- and although we are three to four years in we are just at the beginning of what's possible in the mid-market. Mid-market is a significant ARPC opportunity because these customers have a lot of capabilities that I just mentioned, except they pay a lot more and we are just at the beginning of the flywheel of penetrating mid-market.
+
+So when you look at the portfolio of the services that we have, the strength of -- the experience that we are delivering, because of the data and AI and because the mid-market, it allows us to drive most of our growth from a customer growth and mix. And none of that by the way takes it into account of what's possible as we look into the future with our generative AI experiences that you'll be able to observe on September 6th, but those are the main drivers.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+And Taylor I want to add (Multiple Speakers). Over the long-term, we remain committed to our growth algorithm of 10% to 20% ARPC and customer growth, that remains unchanged, and as Sasan mentioned is our innovation across our platform that give us opens up the opportunity for us to cross-sell and upsell our customers across more offerings on our platform and those are three -- price for value as we look-ahead.
+
+Q - Taylor McGinnis{BIO 20989116 <GO>}
+Great. Thank you.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Very welcome.
+
+A - Kim Watkins{BIO 19461042 <GO>}
+Raiza, we are ready for our next question.
+
+Operator
+And our next question comes from Kash Rangan with Goldman Sachs. Your line is open.
+
+Q - Kash Rangan{BIO 22837283 <GO>}
+Hi, thank you very much. I hope you can hear me, okay? So the recession that everybody has been expecting, it doesn't seem to be quite happening. Sasan, I know you've got a great read on your SMB ecosystem. What are some of the indicators that you're seeing and if you've already proactively addressed this, my apologies for bringing it up again. But what are some of the forward-looking indicators that you see in the Credit Karma business or the SMB ecosystem that give you renewed confidence that we are going to be okay because your fiscal '24 guidance, it definitely is -- it's not reflecting of any caution in the environment that more like a continuation of what we've seen in the last four quarters? Just some thoughts there would be great. Thank you so much, and congrats.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, sure, thank you for your question, and you're loud and clear, my friend. So let me start with small business. And generally, I would just leave with they continue to be healthy, but there are challenges in this environment, the specifics, that I would share is the cash flow or -- and cash reserves of small businesses is 90% of what it was this time last year. However, it is still stronger than the pre-pandemic. In terms of looking for labor and finding employees drive their growth, that's still quite strong. And in fact, in this environment small businesses are able to do a better job finding what they need versus when the market was hot[ph], which is good for them because then they can deliver for their customers and drive growth.
+
+And the last thing, I would just say is, there are certain sectors that are very weak. Transportation, real estate, advertising is very weak within small businesses. So, that's the aggregate picture. I'll end with where I started. Struggling but still healthy compared to pre-pandemic. On the consumer side let me hit on sort of two different points. I'll quickly hit on Credit Karma. As Sandeep mentioned, what we're seeing is stability, and our innovation that we've been focused on is really getting hold and there are some exciting things that we are working on in Credit Karma that we'll share on September 6th and on Investor Day.
+
+One, we are redesigning the entire app and we have begun to roll it out to a small cohort of customers and we'll eventually scale, and we are actually seeing very good engagements with a redesign that. And then that coupled with our GenAI experiences, along with all of our innovation with Lightbox and Credit Karma Money gives us a lot of excitement around the future, none of which by the way is in our guidance, but the headline is stability in Credit Karma and lots of innovation that is helping us with where we are and coming.
+
+If I just focus on the consumer, a couple of things, I would say. If you look back to last March of 2022, our credit scores are on average down 13 points. Credit balances are up about 30%, and the Credit Karma like 660 have the largest balances and they are carrying about $10,000 on average. And the GenD balances have gone up the most around 45% year-over-year. So job market is still good. People still have jobs, but there are certainly some level of strain on the consumer.
+
+Q - Kash Rangan{BIO 22837283 <GO>}
+Billion. Thank you so much.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Very welcome.
+
+Operator
+Our next question comes from Brad Reback with Stifel. Your line is open.
+
+Q - Brad Reback{BIO 3441314 <GO>}
+Great. Sasan, following up on that Credit Karma commentary. Obviously, the world we live in today is different than when you acquired the business. Do you think the long-term growth rate of Credit Karma is meaningfully different in a world where interest rates are mid-single-digits versus zero? Thanks.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, Brad, thank you for your question. The short answer is no. We are very bullish on the business, and in fact, in a couple of things that I would share with you, which we can talk more about it at Investor Day, but just not to leave you hanging that the monetization model in Credit Karma is how many numbers do you have, how frequently they engage and there is a model for every time a customer engages there is a average revenue per customer that we benefit from.
+
+And in fact, this past year in '23 when our results were down year-over-year, our frequency of engagement is actually higher than the prior three years where we had 37% growth and 58% growth. Now, why is that? It's because of all of our innovation, is because of the customer is engaging, but in many areas the credit is still tight. So when credit begins to open up and that's the stability that we are seeing now. We view this business will accelerate back to the 20% to 25% growth rate, plus I'll remind you that plus the integration with our TurboTax drives actually more stickiness, more monetization and truly created with one consumer platform, which is our vision from day one when we acquired Credit Karma. And with all of the data and AI capabilities that we have in our accelerated GenAI and experiences as I said earlier you're going to see on September 6th, some of the new innovations that are coming that will make it easier for customers to find what they need, the benefits that they need, engage in the financial products that they want and manage their money.
+
+And so all of that leads to our view is completely unchanged relative to the long-term expectations of 20% to 25% growth in Credit Karma.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+And Brad one thing I would add to this. You asked about a scenario in which interest rates are higher, when interest rates are higher the consumer has a high propensity to shop around because even a small improvement in the rate that they're getting has a bigger difference in terms of the interest rate they're paying and a bigger difference to their bottom line.
+
+So, in fact, the product becomes more important and critical to the end user and higher rate environment.
+
+Q - Brad Reback{BIO 3441314 <GO>}
+That's great. Thank you very much.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Very welcome.
+
+Operator
+Our next question comes from Kartik Mehta with Northcoast Research. Your line is open.
+
+Q - Kartik Mehta{BIO 2038331 <GO>}
+Good evening, Sasan. This year, you know, you really focused at least from a TV advertising standpoint on full service really trying to get the message out. And I'm wondering, one of the things you talked about is being a little bit more prudent on revenue growth on the consumer business. I'm wondering -- are you -- well your strategy changed at all in how you marketing the full service product? And how did the pulse[ph] of this product performed compared to your expectations this quarter this year as well?
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, great question. Let me give you an answer that I think you will find somewhat helpful and somewhat vague essentionally. We learned a lot this year. We came into the year with a full service offering that has product market fit. And as you know, it's all AI-driven and we can virtually get things done within an hour or same day. We learned a lot of around how to scale it, and how to have customers buying our full service offering, and a lot of it also has to do with what I mentioned earlier, which is local marketing.
+
+If I'm in San Diego, if I'm in Kansas City, even if I see the TurboTax can provide experts, I go to search to see locally if there's somebody there. Well, all of our experts that we have are within 10 miles of many of the households in the United States, but we've never marketed that way, and telephony[ph] is one of our marketing going forward. So there's a lot we learned in terms of how to evolve our marketing so it becomes in hand, not a neither or, and we are excited about it.
+
+Q - Kartik Mehta{BIO 2038331 <GO>}
+Thank you.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, very welcome.
+
+Operator
+Our next question comes from Kirk Materne with Evercore ISI. Your line is open.
+
+Q - Kirk Materne{BIO 5771115 <GO>}
+Yeah, thanks very much. Yeah, Sasan why don't you just give a little bit more detail on what you're counting on Mailchimp to do this year? And maybe not if you don't want to get too much on the quantitative side. Qualitatively, you guys have done a lot of work around the product, the monetization. How important is sort of continued acceleration in Mailchimp as you look at sort of the small business in aggregate for next year? Thanks.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, Kirk thank you for your question. It's really, to answer your question it's really threefold. First and foremost as you know, we made this acquisition ultimately to create one growth platform, so we can help a small business in one-way be able to grow their business and manage the cash-flow and manage workforce, all-in one place and really the key to all of this has been data, AI and now our accelerated investments in GenAI.
+
+And so first and foremost is we want to make significant progress in this area, and you will actually see some of this on both September 6th, our Intuit Innovation Day and Investor Day. That's number one.
+
+The second is, as I mentioned earlier, we had the largest release in June that we've ever had in Mailchimp's history. We had 150 new and updated features that we released on top of multiple GenAI-driven announcements that we had made a couple of weeks prior to that. So our second focus is adoption. Getting our customers to adopt these benefits, because not only will it help fuel their success, but it will help us with our monetization, particularly in the mid-market, which is where our focus is very similar to focus that we've had with QuickBooks' mid-market.
+
+And then third is international. Mailchimp is the lead horse internationally and we've done a lot to localize the product I mentioned earlier in five languages and more is coming. We've also been doing a lot of price studies and price testing because we have had like one platform right internationally, that doesn't work, sometimes it should be higher, sometimes it should be lower. And so we learned a lot in terms of some of our testing and many of that we are going to be scaling this year.
+
+So those are, if I were to just sort of carve-out your question, those are the three big areas that we are very focused on in the coming year.
+
+Q - Kirk Materne{BIO 5771115 <GO>}
+Great, thanks, Sasan.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, you welcome.
+
+Operator
+Our next question comes from Brad Zelnick with Deutsche Bank. Your line is open.
+
+Q - Nick Giovacchini{BIO 23094953 <GO>}
+Hi, everyone. It's have Nick Giovacchini on for Brad this evening. Congratulations on the strong end to the year end and welcome, Sandeep. Appreciate you taking the question. International growth has decelerated since the beginning of the year. Can you talk us through how you see that growing going-forward? Thanks.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+Thanks for the question, Nick. A couple of things on the international growth. On international growth, as I shared earlier, our focus -- our refreshed strategy is to lead with (inaudible) and QuickBooks in the markets where we have product market fit. And in other areas to lead with Mailchimp as the tip of the spear.
+
+Our growth decelerated for a couple of reasons and some of that Sasan shared as we lead into rightsizing the pricing for Mailchimp in some of these geographies. Historically, it's the same price basically the price up in the US simply converting into the local currency and applied in then geography. We went in and we looked at what the price would be based on the competitors in the market, based on the GDP per capita and all these other factors and we rightsize the price.
+
+Secondly, as we do in QuickBooks, we introduced free trials or discounts initially folks joined the product is what we have experienced over our year of doing that is people -- more people come into the product and that stick around and that leads to a better a 90-day cohort retention, et cetera.
+
+So these are all the factors and all the improvements we are making in the Mailchimp product and the lineup, which is leading to -- side of the temporary headwinds in terms of our international growth.
+
+Q - Nick Giovacchini{BIO 23094953 <GO>}
+Great. Thank you very much.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Very welcome.
+
+Operator
+Our next question comes from Alex Zukin with Wolfe Research. Your line is open.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Hey guys, thanks for taking the question and congrats on a really nice and prudent guidance methodology for next year. I guess, maybe I'll just, I want both of my questions truly target the SMB growth rate. It seems like the guide there at (inaudible) is really strong. And if you're now in the CFO seat, maybe just talk about the prudence with the SMB, guide. What gives you guys the confidence to kind of guide that way? How much of it has to do with some of the payment functionalities that are coming to market, some of the GenAI functionality coming to market? What gives you guys that guidance? And then dovetailing into that new leadership for that group obviously as well is there. Talk about the potential for either dystrophin[ph] or how is that accounted for or why Marianna was the right fit for that role specifically, and kind of what she is going to bring to the table.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+And Alex can I take the leadership question and take it more broadly and then let Sandeep jump in and answer specifically your question around the guide. Let me take this opportunity to talk about the leadership changes that we've had in the company and all of course include Marianna in that as well. First of all, one of our greatest superpowers as a company is leadership development and succession planning. One of the focus areas that we have is part of our Intuit operating system would start at the top with my staff as we spent four times a year, several days at a time focusing on talent, focusing on succession planning, reviewing development plan and being very intentional about architecting mobility moves and ultimately, our goal is to be three deep in all of our key role at multiple levels in the company, which by the way, it's very hard-to-do, but that is why we are a leadership factory.
+
+The second thing, I would say is that we are very focused on mobility of senior roles, sort of Vice President and above which is the Officer of the company and about typically within a three to five year period. There's a lot of, if you don't have visibility to, of course, but you only see potential changes that happened at Mailchimp. But we're very intentional about mobility, because we believe fresh perspective, fresh thinking is important, in our, technology areas and in our businesses and also training the leader to be ready for a bigger job is very important. By the way, I'll use myself as an example, the boy stepped into the CEO job 4.5 years ago. I was in TurboTax for three years. I was in -- running a small business for three years and now was the CIO for three years. So that's just an example of mobility. With all of that, said sometimes on mobility alt and right[ph] and changes within the company, sometimes we celebrate folks taking on roles outside of the company because that maybe the best fit for them. So with that as context, we have a lot of confidence in our leaders, and let me now specifically, touch on our three of the leaders just to make it very real.
+
+When you look at Marianna, I actually hired Marianna into Small Business when I was there. She was our Chief Product Development Officer, and it is very familiar with small businesses. When I became the CEO I moved into the CTO role, and she has done an unbelievable job fueling innovation across the company, and now she is going back home to where she started running small business and very excited about what she will do to unlock the next year of that growth.
+
+When you look at Mark in TurboTax I actually started with Mark in TurboTax a decade ago and worked with him for three years. We then, after I left TurboTax few years later promoted him to lead our Chief Customer Success Officer of the company and he the godfather of our Live platform that we talked a lot about today, and now he's going back home and running TurboTax. So he is very well-versed, bot only the business but our disruptive growth driver of the future, which is Live.
+
+And then, Alex Balazs who just took on our CTO role. I also worked with them, TurboTax and we then moved into a broader Chief Architect and Data role where he have been Marianna's right handed person fueling the innovation across the company who just moved him into the CTO role. The reason I wanted to go through that and this fairly is for all of you to understand that succession planning and leadership development is our sort for core competency and I actually believe that we have the strongest team that we've had ever built for the era of AI, given their backgrounds and experiences.
+
+So with that as context let me have Sandeep to answer the other part of your question, Alex.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+Sure. And Alex let me touch on one additional point I feel what's the thought it's never about one individual. We are system and we have a strong leadership team that surrounds our General Managers, and CFO, stuff as small. So getting back to your question on the guidance, Alex. So just for context, the Small Business Group grew 24% in fiscal '23 with four of those points coming from the benefit of the timing of the Mailchimp acquisition. So that's about a 20% organic run rate and as you have shared with you over the Group in the past is any percent of revenues in the Small Business Group are subscription based, so that makes the -- so that recurring nature of the revenue mix is highly predictable and we this year saw strong results in areas where we are focused such as QuickBooks Advanced, customer growth as well as in the mid-market area that Sasan touched on.
+
+So that is one component of what's giving us confidence as we guide for next year. The second aspect is it's important of our products through SMBs. This is something core to how they run their business,how they face the employees, how they get paid themselves, how they get access to capital to take on new projects and grow their business and we have made tremendous improvements in that product, in that ecosystem, that makes it platform damage more relevant and important to the lives of our customers. So that is what's all baked into the guidance that we provided for the Small Businesses and Self-Employed group.
+
+You asked the question, if we were reliant on GenAI? I want to reiterate and be very clear. GenAI, we believe it will be an accelerator for our business, but that is not baked into the guidance that we shared with you all today.
+
+Q - Alex Zukin{BIO 18006605 <GO>}
+Super clear. Thanks a lot, Sandeep and Sasan for the very in depth explanation. No doubt, the talent factory is live and well.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Thank you, Alex.
+
+Operator
+We'll take our next question from Mark Murphy with JP Morgan. Your line is open.
+
+Q - Unidentified Participant
+Hi, this is (inaudible) on for Mark Murphy. Congrats on the quarter and thanks for taking my question. I just wanted to dig get on Credit Karma, specifically as it relates to the opportunity to begin to pursue prime customers in addition to the subprime and near-prime customers, you guys have kind of focused on historically. Thanks.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yes, thank you for your question. Yes, it's a big focus area for us going after prime customers. And just for context, it's sort of a third of our monthly active users and there is a leasing days because really, when you look at the platform we traditionally focused on subprime and near-prime and we have a lot of the capabilities that we developed in the past and know these prime customers very well, which is why we have merged our Mint and Credit Karma team and platform to really solve for these prime customers.
+
+And so we have been working, I think for the last almost year really understanding their needs, running a number of experiments and are now and have been in the midst of launching multiple things that are very geared towards prime customers and we are actually very excited with the app redesign sort of two big things that we've been working on in Credit Karma beyond what we've been sharing with you.
+
+One is really, redesigning the whole app to enable the customers and certain cohort of customers like Prime to be able to find the benefit that they are looking for, because of everything that we know about them proactively. The second is the GenAI experiences that again we will unveil more on September 6th and the combination of ability things up and what I shared a moment ago around prime customers a lot of the sort of excitement around what's possible to serve these prime customers going forward, which is something that we've not benefited from a monetization perspective. Now that is included in our guidance. But it's something that we are very excited about.
+
+Q - Unidentified Participant
+Thanks, Sasan. Looking forward to learning more about it.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Thank you.
+
+Operator
+Our next question comes from Brad Sills with Bank of America. Your line is open.
+
+Q - Brad Sills{BIO 15854296 <GO>}
+Wonderful. Thanks so much for taking the question. I wanted to ask one on AI here as well. It sounds like some exciting things coming and looking forward to learning more about that. A lot of possibilities here within small businesses and consumers. Would just love to get your perspective on kind of where you're coming from society, you've alluded to the fact that Intuit is well-prepared here because of the platform capabilities here and the underpinnings of that with data. So just curious, any color as to where Intuit is coming from such that you're able to iterate on AI, the way that we are looking forward to learning more about?
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Yeah, thank you for your question. I'll start with taking you back to five years ago when we declared our strategy was to really shift the company from just a tax and accounting platform, it was very important set of problems to solve for our customers. So, a global financial platform that really played a far more meaningful role in empowering the prosperity of consumers, and small businesses on a daily basis. When we made that strategic declaration on the five Bets that are suitable well, we talked about at that time that data and AI is going to be core to making that shift.
+
+And in fact, when we made the acquisition of both Credit Karma and Mailchimp one huge driver of the acquisition was around the data, because in essence, we will know a lot more about customers and we could leverage that data for their benefit to fuel their success. So, even prior to five years ago declaring that data, machine learning, has been at the decade long focus into us. So when you think about a decade long investment in data, usable data are cleaning the data and making sure that it's structured in a way where it can used. And then our investments in AI specifically in knowledge engineering, it really taking more than the relationship between data and turns and encoders what are advantages in TurboTax, machine-learning and natural language processing, those have been and it's been a decade-long set of investments in the two acquisitions that propelled us forward about 10 years.
+
+And then you couple that with what we started several years ago which is GenAI and then what we launched in June which is generative an operating system, GenOS, it's not something you can create overnight. This is years of investment. When we couple those that have investment data and AI and GenOS, which is really primarily our own Intuit's financial large language models that are trained on our customers' proprietary data.
+
+It allows us to personalize things, humanize thing and do the work for customers in a way that's revolutionary, which ultimately get to the punch line we are creating a future that is done for you or rather than having to do the work to run your business rather than you to do the work to be able to power your prosperity and manage your finances of the consumer we want to put you in control, work done for you. You always control. You have the choice of whether or not moving forward with the decision, but we want to be able to help you grow your customers and run your business for you, to help you manage your cash flow, always put the right choices in front of you and the same thing goes on the tax side and Credit Karma side.
+
+So that's what's still exciting about. It's a decade-long focus. We really tripled down on five it years ago when we declared our strategy and were are now galvanize and energize the entire company and that the future done for you that we declared five years ago is very real, very much here. And we have an enormous opportunity to do amazing things for our customers and that's what really gets excited about what's possible. And I can do another advertisement. Join us September 6th for Intuit's Innovation Day, followed by Investor Day and you'll get a real good feel for the world that we are going to create for the future.
+
+Q - Brad Sills{BIO 15854296 <GO>}
+Looking forward to it. Thanks, Sasan.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+You welcome.
+
+Operator
+We'll take our last question from Scott Schneeberger with Oppenheimer. Your line is open.
+
+Q - Scott Schneeberger{BIO 5302695 <GO>}
+Thanks very much. Welcome Sandeep and good afternoon, Sasan. I have a couple of on consumer. One very-high level and one just a clarification. So the first is on --
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Scott, you cut out on us.
+
+A - Kim Watkins{BIO 19461042 <GO>}
+Raiza, can you try and bring him back?
+
+Operator
+Scott, your line is open.
+
+Q - Scott Schneeberger{BIO 5302695 <GO>}
+Thanks. Sasan can you hear me?
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+We can now. Yeah, if you don't mind start over again because we lost you.
+
+Q - Scott Schneeberger{BIO 5302695 <GO>}
+Absolutely. Thanks. So two quick on consumer first volume and price-mix. Just your consideration of that going into fiscal 2024 and beyond, given the trends of the recent years. And then for you Sandeep. Just curious in the extension season in the post-tax season, what did you see anything interesting with California? Should we see a shift from fiscal '23 to '24, that's material related to anything extensionwise? Thank you.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+Let me start with your volume mix question around TurboTax. I would say, the way to think about it with what I described earlier leaning into full service, leaning into business tax and continuing to lead who TurboTax Live which really comes with assistance recognizing it's all data and AI-driven, you're going to see more come from ARPC than volume and that's just the nature of the opportunity, Now there is 88 million-plus people that are in the assisted segment an there's is $30 billion of spend. So there is both a volume opportunity and an ARPC opportunity. It is our view looking at the next 10 years by the way, this is not a one year answer both matter, you're can get -- we're going to get more from ARPC. And, I'll let Sandeep jump in here as well. I mean on the expansion season that just been very weird with many based[ph] that got extended to July and California in October. And what we're seeing from customers as they even got confused which month they have to file and they are safe. So net-net, there is more to file. When you look at it at the company-level, it's really not material but not everybody is field yet.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+Yeah, as it does answer, Scott. It's not material for our Q1. It's been a unique behavior in the tax, but I'll also remind us that last year we also saw a great deal of extensions, but by taxpayers. So, that's also something to keep in mind, if you look at our Q1.
+
+Q - Scott Schneeberger{BIO 5302695 <GO>}
+Great. Thank you both.
+
+A - Sasan Goodarzi{BIO 15750219 <GO>}
+All right, everybody. I think that brings our questions -- our Q&A to an end. Thank you for your wonderful questions. Thank you for spending the time with us. We look forward to seeing you, September 6th at our Investor Day. Take good care of yourself. Bye, everybody.
+
+A - Sandeep Aujla{BIO 23302879 <GO>}
+Thank you, all.
+
+A - Kim Watkins{BIO 19461042 <GO>}
+Goodbye.
+
+Operator
+Ladies and gentlemen, thank you for participating. This concludes today's conference call.

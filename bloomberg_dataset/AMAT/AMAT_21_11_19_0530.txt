@@ -1,0 +1,372 @@
+Q4 2021 Earnings Call
+Company Participants
+Bob Halliday
+Robert Halliday
+3/2022-PRESENT | Applied Materials Inc, VP:BUSINESS DEVELOPMENT
+10/2021-3/2022 | Applied Materials Inc, INTERIM CFO
+8/2017-10/2021 | Applied Materials Inc, VP:BUSINESS DEVELOPMENT
+, Corporate Vice President, Chief Financial Officer
+Gary E. Dickerson, President and Chief Executive Officer
+Michael Sullivan, Corporate Vice President
+Other Participants
+C.J. Muse, Evercore ISI
+Harlan Sur, JP Morgan
+Joe Quatrochi, Wells Fargo
+John Pitzer, Credit Suisse
+Krish Sankar, Cowen
+Patrick Ho, Stifel Nicolaus & Co.
+Quinn Bolton, Needham & Co.
+Sidney Ho, Deutsche Bank
+Stacy Rasgon, Bernstein
+Tim Arcuri, UBS Securities
+Toshiya Hari, Goldman Sachs & Co.
+Vivek Arya, Bank of America Merrill Lynch
+Presentation
+Operator
+Welcome to the Applied Materials Earnings Conference Call. During the presentation, all participants will be in a listen-only mode. Afterwards, you will be invited to participate in a question-and-answer session. I would now like to turn the conference over to Michael Sullivan, Corporate Vice President. Please go ahead, sir.
+
+Michael Sullivan{BIO 16341622 <GO>}
+Good afternoon, everyone, and thank you for joining Applied's Fourth Quarter of Fiscal 2021 earnings call. Joining me are Gary Dickerson, our President and CEO; and Bob Halliday, our Chief Financial Officer. Before we begin, I'd like to remind you that today's call contains forward-looking statements which are subject to risks and uncertainties that could cause our actual results to differ.
+
+Information concerning the risks and uncertainties is contained in Applied's most recent Form 10-Q and 8-K filings with the SEC.
+
+Today's call also includes non-GAAP financial measures. Reconciliations to GAAP measures are found in today's earnings press release and in our quarterly earnings materials, which are available on the IR page of our website at appliedmaterials.com.
+
+And now, I'd like to turn the call over to Gary Dickerson.
+
+Gary E. Dickerson{BIO 2135669 <GO>}
+Thank you, Mike. I'd like to start by thanking our employees for delivering the best year in Applied Materials' history while navigating a dynamic and challenging environment. Demand for semiconductors and wafer fab equipment remains very strong. And in fiscal 2021, we generated $23 billion of revenue, which represents 34% annual growth. In fiscal Q4, we hit the midpoint of our earnings guidance despite larger than expected supply chain constraints.
+
+These constraints worsened in the last few weeks of the quarter as we experienced delayed shipments from several suppliers. Without these supply shortages, we estimate that our Q4 revenues would have been at least $300 million higher. We expect supply chain headwinds to persist into fiscal 2022 and mitigating them remains our top priority. For this reason, I'll begin today's call by providing some additional details about the industry supply dynamics, both near term and longer term. Next, I'll describe the demand outlook, which is very strong and broad based. I'll then talk about the progress, we're making against our growth strategy, and how Applied Materials is positioned to outperform the market over the coming years.
+
+I'm also happy to welcome Bob back to the CFO seat, while we conduct the search for our next CFO. Later in the call, Bob will share his perspective on the state of the business, and provide color on our financial performance.
+
+So let me start with the supply side of the equation. Applied has made and continues to make strategic investments in our own global manufacturing infrastructure. So factory capacity is not a limiting factor for us.
+
+Like many in the industry, the primary challenge we face today is availability of certain silicon components. For Applied, our issues are relatively narrow, and we are proactively collaborating with our suppliers and directly with the chip companies, to find solutions and workaround bottlenecks. I deeply appreciate their partnership and teamwork as we navigate these unprecedented circumstances together. Looking further ahead I believe we will see permanent changes in the way supply chains are designed and operated. In the semiconductor industry and beyond, there's a shift from just in time to a just in case approach, which will require higher levels of inventory, more built-in redundancy and more burst capacity because the economic value of capturing outside opportunities, far outweighs pure efficiency savings.
+
+We're also seeing changes in supply agreements across the ecosystem as companies place a premium on having preferential access to capacity. In addition, our customers are providing us with longer-term visibility and we are collaborating more closely than ever when it comes to capacity planning. On top of that, the strategic importance of semiconductors is now recognized at a national level. Over the next few years as incentive programs become available in the U.S., Europe and Asia, we expect to see a trend towards regionalized supply chains, that are more resilient but also increased capital intensity.
+
+Now, I'll characterize the demand environment, which is extremely healthy. The pandemic has accelerated the digital transformation of the economy, fueling semiconductor consumption and driving the need for next-generation silicon technologies. As a result, we see wafer fab equipment spending for calendar 2021 up around 40% year-on-year. In other words, in the mid $80 billion range and constrained by supply, not demand. There is still a long way to go before supply and demand is balanced, especially as demand drivers continue to grow. We therefore expect wafer fab equipment spending to be up again in 2022. While we're currently focused on resolving near-term challenges, it's important to recognize we're only at the beginning of major technology and market inflections, that will play out over the next decade.
+
+As everything gets smarter from our phones, to our cars, to our homes. We see a combination of unit growth and increasing silicon content per unit. For example, if you look at this year's high end smartphones by dollar value, the application processor semiconductor content is up about 20% compared to last year's models.
+
+And RF content increased at twice that rate. And in data center applications, the average DRAM and NAND content per server is also growing at a 20% compound annual growth rate. As more-and-more smart devices are connected at the edge, they are driving exponential growth in machine generated data that must be stored, moved and processed. Then to create value from these vast volumes of data, new AI computing approaches are being developed, fueling further demand for current and next generation semiconductors.
+
+When I talk with customers, their message is clear and consistent. They are investing strategically to be in the best position to capture value as these long-term secular trends accelerate. In our core market foundry-logic is about 60% of wafer fab equipment spending in 2021. And we expect it to remain at this level or higher over the next several years. Within foundry-logic, the spending mix is relatively balanced between the most advanced nodes where we see a fierce battle for leadership playing out in ICAPS. ICAPS node, serve the fast-growing IoT, communications, automotive, power electronics, and sensor markets.
+
+In memory, supply and demand fundamentals remain healthy and we expect investments to be up next year, although not as much as foundry-logic. Finally, capital intensity is also providing an important tailwind with the deceleration of traditional Moore's Law of scaling and the transition to the new PPACt playbook, complexity is increasing. Simply put, more innovation is needed to get from one node to the next and this higher complexity translates to higher capital intensity.
+
+Against this backdrop, I'll now describe Applied's performance and progress towards our strategic goals. In fiscal 2021, we grew semiconductor equipment revenues almost $5 billion or 43% year-on-year, outpacing the market growth rate during that period. However as I described earlier, we were unable to fully meet demand in our fourth quarter due to component shortages. And we expect to remain supply constrained going into fiscal 2022. As a result we've grown our backlog at a company level to $11.8 billion, which is up 77% compared to the same period last year.
+
+Our near-term results do not fully reflect the underlying strength in our business or the progress we're making against our long-term strategy. As a reminder, our strategy has three pillars. First, to be the PPACt enablement company, and provide the foundation for customer's power performance area cost and time to market road maps. Second, to shift more of our business to subscriptions. And third, to generate incremental free cash flows and profitability from our businesses in adjacent markets. We've aligned our organization and investments around these critical focus areas and are demonstrating strong momentum. Applied's PPACt enablement strategy is built upon three differentiated elements.
+
+We have the broadest and most enabling portfolio of unit process solutions, we can co-optimize and integrate these technologies in unique, and highly enabling ways. And we're focused on time-to-market acceleration with our AIx or Actionable Insight Accelerator data platform.
+
+Starting with our unit process tools, demand in our traditional leadership areas is very strong, our epi and thermal businesses, both grew 70% this fiscal year, and CMP grew more than 60%. In our targeted growth areas, we expect our process diagnostic and control revenues, to be up more than 60% in calendar 2021.
+
+Packaging is another very exciting area for us. Our equipment revenues are up more than 55% year on year, and we're on track to exceed $800 million for calendar 2021.
+
+We're also bringing highly enabling future technologies to market through a combination of organic R&D and strategic partnerships. Moving to our co-optimized and integrated products. The customer pull for these solutions is strong, and increasing for future nodes. Co-optimization allows us to see and solve higher value problems for customers, speed up commercialization of new innovations, and capture more of the available opportunity. One example is dielectric materials, where we're driving parallel innovations in materials deposition, modification and removal. Our CVD group has more than 15 new materials, either in development or recently released.
+
+These enable new structures or manufacturing techniques, in both foundry logic and memory. The revenue opportunity we've opened up for the co-optimized etch and CMP steps is almost twice as large as the market for the standalone deposition equipment. Another example is advanced patterning, where we co-optimizing CVD, ALD and CMP with our Sym3 etch, enabling us to gain more than five points of share in patterning this year. Integrated material solutions or IMS go one step beyond co-optimization by combining multiple processes with customized metrology and sensors in a single system typically under vacuum.
+
+With IMS, we can target the most complex and valuable challenges in the new PPACt playbook. For example, this year we delivered five new low R or low resistance metallization integrated solutions to customers that address next generation applications in foundry logic DRAM and NAND this included our Copper Barrier Seed IMS, that combines seven different process technologies in one system under vacuum, ALD, PVD, CVD, copper reflow, surface treatment, interface engineering and metrology. This enables a 50% reduction in interconnect resistance at the most advanced foundry logic nodes and creates a multi-billion dollar opportunity for Applied Materials over the next five years.
+
+The final component of our PPACt enablement strategy is time-to-market acceleration, new digital tools that accelerate R&D technology transfer and high volume manufacturing are a major focus area for our customers. In the coming year these technologies will have a huge impact on productivity and innovation and commercialization speed. They will also play a key role in making regional supply chains, economically competitive and sustainable. Our AIx platform brings together process tools, sensors metrology with data analytics and machine learning. We currently have 25 AIx R&D acceleration engagements with leading customers, and we now expect that number to triple over the next 12 months.
+
+Another highlight for 2021 is the progress we're making with subscription revenues. In our service business, we've already converted a significant percentage of our spares and service revenue from on demand to long-term service agreements. We now have nearly 15,000 installed base tools covered by these agreements up 12% year-on-year. The tenure of these agreements has grown from 1.9 years at the end of 2020 to 2.3 years today, and our renewal rate is about 90%. Several customers, have highlighted how these long-term agreements have allowed them to better manage disruptions in parts supply and technical support during the pandemic.
+
+Before I hand the call over to Bob, I will quickly summarize. As the digital transformation of the economy accelerates, demand for semiconductors continues to grow and is significantly outpacing supply.
+
+We expect supply shortages of certain silicon components to persist in the near-term meaning that we don't expect to fully meet demand in Q1. Managing these constraints in partnership with our suppliers and chip makers, is our top priority.
+
+Looking beyond the near-term disruptions, I feel very positive about the future. Longer-term secular trends are driving the semiconductor and wafer fab equipment markets, structurally higher.
+
+And at Applied, we're making significant progress towards our strategic plans. We're in the best position to accelerate our customer's PPACt roadmaps and grow significantly faster than our markets over the next several years.
+
+Now, I'll hand the call over to Bob.
+
+Bob Halliday{BIO 3951707 <GO>}
+Thanks Gary. I want to begin by saying, I'm very happy for the opportunity to work with all of you again. I have three main messages today. Number one, demand is very strong and growing. And I think it's likely to remain strong in 2022 and beyond.
+
+Number two, supply chain constraints are impacting our ability to meet all of our demand in the near term. Number three, Applied Materials is making very good progress toward our financial targets. And we're in a great position to return capital to shareholders. I'll cover each of these topics in order, and give you our guidance. And again Mike and I will help with your questions.
+
+I'll begin by giving you more detailed insights than we typically share about the demand for our products and its sustainability into 2022. Specifically, our semi systems revenue grew by 43% in 2021, our semi systems orders grew by 78% for the year. In fact, our semi systems orders grew in every quarter. In Q4, they were up 136% year-over-year. Looking ahead, we currently expect our orders to be higher in the first half of fiscal 2022. Then in the second half of 2021 across semi systems AGS and also display.
+
+In short, the demand environment is very strong. What's happening on the demand side is that all of the trends Gary and I talked about years ago, are playing out in even bigger way than we imagined. First, semiconductor demand is higher because we're designing more intelligence into practically everything that gets built and sold. Second, equipment capital intensity is higher. We don't have wafer size increases anymore and the industry has run out a number of efficiencies, including fab automation, industry consolidation and the foundry model. Used equipment is now scarce. So even in the ICAPS markets, customers are buying new equipment and spending more.
+
+The industry is adding more wafer capacity to keep up with demand, particularly in foundry logic and we believe spending will remain strong. Specifically, the industry grew foundry logic wafer starts by around 40% over the past five years alone. At the end of our fiscal year, overall fab utilization for the industry increased to the highest level of the past decade. We see foundry logic continuing to grow as a proportion of the industry's mix.
+
+Five-years ago, foundry logic represent around 53% of WFE spending. As of 2021, it's grown to 60% of WFE. And we see it being even higher into the future. Even with higher wafer capacity and high utilization, we have a global semiconductor shortage that's affecting a wide range of industries, including our own.
+
+Industry wide, we are tracking 59 fab projects, with available and announced expansion capacity of 3.5 million wafer starts. These projects represent potential equipment spending of around $300 billion in future years. All of this data leads me to believe that demand is likely to remain strong.
+
+Now I'll give you more insights into our own supply situation. In Q4, our semi systems backlog was at record levels and growing quickly. In our guidance for Q4 we targeted modest semi systems revenue growth. We also widened our overall guidance range due to our concerns about the supply chain. Toward the end of Q4, we experienced later than expected deliveries of the components we need to complete and ship our bill plan by the end of the quarter.
+
+The reason for the delays is that our suppliers couldn't get enough parts from their own suppliers, which include chip makers and distributors. The supply issues are directly related to the semiconductor shortage particularly in logic power and analog ICs. Not all of our semi businesses were affected in Q4. Our process control, CMP etch and packaging businesses beat our revenue targets. Yet our overall, semi systems revenue was $293 million below the midpoint of our expectation.
+
+The full semiconductor revenue impact of the shortages during the quarter was well above $300 million. In Q1, we are guiding for sequential growth of around 3%. We have the internal capacity to easily ship several $100 million more semi equipment, but we are planning for only modest supply increases. Looking ahead I believe WFE spending will be up again in calendar 2022 and will remain strong, particularly for foundry logic both at the leading edge and ICAPS nodes. I also believe, Applied's business will be higher in the first half of calendar 2022 then in the second half of calendar 2021, both in semi systems and AGS.
+
+Next. Since it's the end of our fiscal year, it's a good time to assess the progress we're making towards our 2024 financial model. In April, we outlined targets to grow our revenue, profitability and earnings in a variety of WFE scenarios, including a base case of $85 billion and a high case of $100 billion. With everything we're seeing in the industry today our high scenario of $100 billion is increasingly likely. One year into the long-term plan, we've made good progress increasing, revenue by 34%, non-GAAP gross margin by 240 basis points, non-GAAP operating margin by 540 basis points, and non-GAAP EPS by 64%.
+
+We believe our semi systems group, is well on track to its growth targets, based on our strong product roadmaps, and the deep customer engagements, Gary described.
+
+We believe AGS can exceed the growth implied in our model, after growing by 21% this year alone. In fact, AGS had record backlog of over $4.33 billion at the end of the year.
+
+72% of the Q4 backlog was subscription business, with terms of one to three years. And 65% of new subscription bookings were multi-year. While our focus is on recurring revenue, AGS also includes our 200 millimeter equipment business. Our 200 millimeter business has been growing along with the rest of the ICAPS market, approaching $650 million in WFE revenue in calendar 2021.
+
+Turning to our profitability metrics, we expect to achieve our non-GAAP gross margin target of 48.5%. Once the near-term material and logistics cost headwinds subside. We also feel confident in our non-GAAP operating margin targets. The semi systems group increased its operating margin by 590 basis points this year while AGS delivered record operating margin of 31% in Q4. A major focus for us is increasing the display group's margin to between 25% and 30%, and we plan to be in that range by the second half of 2022.
+
+Another of our targets is to return 80% to 100% of free cash flow to shareholders. In fiscal 2021, we generated a record $4.77 billion in free cash flow and we've returned 96% mainly through stock buybacks. We ended the year with over $5 billion remaining in buyback authorization. And given the strong demand outlook and our view of the intrinsic value of the company, we expect to continue to be aggressive with the program.
+
+Now, I'll share our Q1 business outlook. Given the supply chain challenges, we expect to modestly increase revenue to $6.16 billion, plus or minus $250 million or up around 19% year-on-year. We expect non-GAAP EPS to be around $1.85 plus or minus $0.07 or up around 33% year-on-year.
+
+Within this outlook, we expect semi systems revenue of around $4.46 billion up 25% year-over-year. We project AGS revenue of around $1.33 billion up 15% year-over-year.
+
+We expect to display revenue to be around $350 million in Q1, and higher as we progress through the year. Applied's non-GAAP gross margin should decline to around 47.4% primarily due to higher near-term cost headwinds. We plan to increase non-GAAP OpEx to $970 million, which is around 15.8% of revenue below our long-term model target of 16%. Our guidance also assumes a 12% non-GAAP tax rate. Finally along with Gary, I'd like to thank all of our teams and partners for their hard work in a challenging environment.
+
+Now Mike, let's begin the Q&A.
+
+Michael Sullivan{BIO 16341622 <GO>}
+Thanks Bob, and now to help us reach as many people as we can, please ask just one question on today's call. If you have a second question, please requeue, and we'll do our best to come back to you later in the session. Operator let's please begin.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+Thank you. (Operator Instructions) Our first question comes from C.J. Muse with Evercore, you may proceed with your question.
+
+Q - C.J. Muse
+Yes. Good afternoon. Thanks for taking the question and welcome back Bob. I'm sure you're happy to be back from the golf course. So I guess, a couple part question on supply constraints. You talked about not being fully resolved in January. Do you expect it to be resolved in April? And how our customers reacting to the shortages? Are they waiting on a full suite of tools or are they taking whatever tools they can get? And then, I guess, lastly, considering the backlog that you highlighted and also that longest lead time I know is essentially sold out for all of 2022. It certainly looks like your visibility extends now into 2023. Can you speak to that?
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Sure. You get a vote. Thanks for hovering back. Few things: one, supply chain; two, overall demand environment; and three, visibility, I guess. On the first one, supply chain, we actually did pretty well managing this through about 11 months of the year and a week. And then it got a little worse at the end of the quarter and that was our issue. So now we're all over this thing. In the short-term, managing the next quarter is about prioritization, project management and execution. So we've set up a cadence that every week I'm going through all the detail performance by week of how we're doing on receipts, shipments, shortages, individual supplier names and Gary is going through it almost every day, okay? So we are escalating this thing.
+
+So then you say why do we think we're going to do better in Q1? So if you look at some of the public companies you know, they're up 3% to 5% on average some of our suppliers. We believe that our allocation will be somewhat better than that. We also believe that we have internally allocated that effectively and we are working with our suppliers who are our customers to free up more demand. Secondly, if you look at the early data, in the first two weeks of the quarter, receipts were up about 15% from the previous quarter. So I think we're going to be okay. If you look at the stuff that caused us problems, there's miscellaneous problems all over the place, but most of those are manageable. What hit us hard was this thousands theoretically of electronic components that are suppliers using our products to us. There are about 100 that were closely monitoring last quarter and 10 that gave us problems at the end of the quarter. These are particularly around PLCs.
+
+We are monitoring the top 10 suppliers of our products and we are monitoring those 100, plus 200 other components. We want to make sure nothing goes bad. So I feel pretty good that number one, the demand is really good. The backlogs -- the orders were up every quarter. It's look strong next year. WFE looks strong next year. I think supply chain is going to get better incrementally every quarter through the year. In terms of -- visibility is great. In terms of full suite of tools, we are -- customers are taking all the tools we can ship and we're largely keeping them happy. But we want to not get the backlog too big, but I think going to make progress throughout the year.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Hi, C.J. This is Gary. I'll add a little bit more. I've met with all the CEOs of our top customers leading technologies and ICAPS here in the last quarter and what I would say certainly the supply situation is challenging, but really no change in terms of the customer demand for the products. And some of the tools that again as Bob said, it's not a broad based issue. Some of these tools are the ones that are most enabling from Applied and again, those -- nothing has changed relative to that demand.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Hey. Thanks, C.J.
+
+Q - C.J. Muse
+Thank you.
+
+Operator
+Thank you. Our next question comes from John Pitzer with Credit Suisse. You may proceed with your question.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+Yes. Thanks for letting me ask the question. Bob, welcome back as well. It's great working with you again. My guess is you're going to get multiples of CJ's questions on the supply side. But I'm just kind of curious Bob to follow up. As the supply chain gets better, do you think by the April quarter there's a big step function pick up to the $500 million plus or minus that you can't ship in sort of October and January or will it be a little bit more linear than that as supply comes online? And then to your point earlier Bob about the backlog, just how do you safeguard against sort of a frothy backlog in this kind of environment? They're impressive numbers, but typically when customers can't get what they want, they tend to order more than they need. So how are you safeguarding against that?
+
+A - Bob Halliday{BIO 3951707 <GO>}
+So in terms of rate of recovery and confidence in the backlog and kind of a double booking question, I think is the question. So in terms of rate of recovery, what we're modeling from discussions with suppliers and our suppliers that are internal analysis, which we're doing the best. We cannot model this and we believe it's accurate. We think Q1, the rate of recovery, if you look at our semi business is up a little over 3% equipment and that's about what the industry is quarter-on-quarter. Our AGS business is a little bit lower because it's 14 weeks last year in Q1 as the Chinese holiday falls into Q1 this year. But if you look at re at rate of recovery, we think it goes up a little over 3% in Q1. We think the equipment business picks up a couple points more every quarter and builds momentum later in the year.
+
+Now as we get more visibility next quarter, I'll be more confident in those numbers, but that's the kind of acceleration will pick it up in shipments. We hope to do better. We might do better, but that's what we're modeling. I don't think that's a problem right now double booking, John. If you look at breakout between memory and foundry and logic, foundry and logic was 60% this year the business. We actually think it's up next year. If you look at public statements from TSMC, Intel and other big foundry and logic manufacturers, they're talking about multi-year commitments to WFE spanning and very strong businesses on their side. We look within the mix that foundry and logic increases the percentage of the next year. We look at memory as being slightly up, a little bit more and a little bit down on DRAM. So we think that's muted and reasonable and we don't see double booking then. We see China down a little bit next year. So I don't see the double booking thing right now.
+
+Q - John Pitzer{BIO 1541792 <GO>}
+All right. Thanks, John. We'll see you at the conference.
+
+Operator
+Thank you. Our next question comes from Stacy Ragson with Bernstein Research. You may proceed with your question.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Hi guys. Thanks for taking my question. I was wondering if you can talk a little bit about the impact of the constraint on the services business because it's not just services. There is hardware and everything else. Is services actually being impacted by constraints? Would services be strong without them? And how do you think -- how do you see services -- the evolution of services going forward in the next year as the -- we work to resolve the constrain issues?
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Yes. Services business is doing great. This year, we're up 21%. We're ahead of plan to hit the 2024 model. I think we might have said on the call even that we need a compound rate of growth of 7% a year to hit that model. We think we will exceed that and probably do double digits this year growth in service. If you look at our service business, it's multiple components. It's a 200 millimeter tool business. There is a contract services where you sign up for services one to three years including different types of service arrangements. And then it's kind of time and material stuff. If you look at the service business, we think it's going to grow strongly this year in double -- strong double digits. And in fact, our customers are thanking our service guys for getting them on to parts -- service contracts in the past year or two because our customers are in good shape in terms of support and parts. So I think I think that the parts issue, supply chain issues are not really impacting our service business. The other thing which we'll point out and Gary might give you more detail, if you look at the parts of the constrain things like PLCs and stuff which are components -- in components, those are not the parts that are high replacement service parts in the service supply chain. So I think we're in a pretty good shape of the service business and it's a great business for us.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+And Bob, how would you guide services in fiscal '22 as a percent, low double-digit?
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Yes. I think it's low double-digits growth.
+
+Q - Stacy Rasgon{BIO 16423886 <GO>}
+Got it. That's helpful. Thank you so much.
+
+Operator
+Thank you. Our next question comes from Vivek Arya with Bank of America. You may proceed with your question.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Thanks for taking my question. Just a clarification. What do you expect display to do overall in this fiscal '22? And then my question is this year, we have seen your foundry customers raise their prices, fabulous customers, IDM, they are raising their prices. What about the equipment side? How much pricing power do you guys have, right, that can help mitigate some of these supply chain issues? Because you did mention kind of hit on your gross margin. So as you start to see some of the supply situation recover, should we expect this combination of pricing and the supply side help you recover gross margins quickly or will the gross margin recovery take time.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Hi, Vivek, this is Gary. Thanks for the question. There's two parts this. I'll take the first part and then Bob can take the second part. Relative to display, we've talked about that many times, really good adjacent market where we can take our semi deposition and EV technologies into a market with larger substrates. For '21, as expected, we're on track for a little over $1.6 billion in revenue and maintaining strong share of our served market. We think '22 is a little higher than '21, more second half versus first half. And as Bob also discussed in the prepared remarks, we're on track to achieve our target for higher profit and free cash flow in the 25% to 30% range exiting 2022. And then Bob you have the second part.
+
+A - Bob Halliday{BIO 3951707 <GO>}
+So in terms of --your second question is kind of a broader gross margin question. So if you look at gross margins this past year, we're up 2.4 points, which is great performance. We're on track to hit the model which is I think about 48.5 in the out years. We're little soft right now in Q1 and that's all supply chain stuff. As you go out through the year, we expect gross margins to rise up again as we get to the supply chain issues behind us. In terms of the things that impact gross margin, we did a lot of good things in 2021. We had very good cost reduction. We had high value products and services. We sold to the customers where we recognized that value back from the customers and then pretty good volume and mix which helped too. If you look at prospectively, the cost reduction is a little slower. We will continue to realize high value with the customers. We shared that value and we think that's going to help our margins. And if the cost continuing may even have that discussion at some point.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Yes. So margins kind of flattish in the first half and then maybe a little better in the second half due to the supply chain.
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Yes. I think so and I think, the years -- a little better than this year overall by the time we're done.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Okay. Any comments on pricing (inaudible).
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Yes. We look to share value with customers, and I think that's worked for both of us.
+
+Q - Vivek Arya{BIO 6781604 <GO>}
+Great. Thanks to that.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from to Toshiya Hari with Goldman Sachs. You may proceed with your question.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Hi guys. Thanks so much for taking my question. And Bob welcome back. Gary in you're prepared remarks, you talked about localization of semiconductor capacity going forward. Obviously, there's a lot of talks in the United States and Europe and Asia as well, more recently Japan. How are you thinking about the potential impact from all these projects? I think from a timing perspective, most of us are thinking 2023 or even later. But based on what you know all the discussions you're having, how are you thinking about that? And sort of related to that how should we think about the competitive threat from the local Chinese semi cap companies? I know they've been around for a very long time and up until this point, there remains a very significant gap between incumbents like ourselves and them. But how concerned should we be as we think about your business over the next three to five years? Thank you.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Yes. Thanks for the questions, Toshiya. Relative to localization of supply chains and things like the CHIPS Act that's obviously good for our business. We're in discussions. As I mentioned earlier, I've met with all of the top CEOs here in the last quarter and that's -- as they move to these other new locations that creates an opportunity for us to support them especially with our services business. So we're in very close cooperation with those customers as they move forward with those plans and there's opportunities. I think for them, they're also concerned about cost and cultural differences and all of those things. And so that creates a tremendous opportunity not just for our traditional services, but opportunities like AIx, Applied actionable insight acceleration where I think they're also extremely focused on how to accelerate R&D ramp and optimize high volume manufacturing in new location. So I think that really creates a tremendous opportunity for us.
+
+The other part of the CHIPS Act is really how every government runs faster in innovation and commercialization. And we're also in deep discussions with a number of leading technology companies and that will also create an opportunity I believe for Applied. Relative to the China equipment suppliers, really if you look at what every single customer is focused on, it's providing power, performance and cost ahead of others. We talked about PPACt and the t is incredibly important. And whether it's -- we talk about low resistance wiring, which is probably one of the biggest issues in the industry where we have tremendous strength or gate all around transistors or the scaling and memory or packaging that is incredibly complex and difficult. And the companies that are had on power, performance and cost capture really the majority of the market. So I really believe that Applied is even in a stronger position going forward than we've been in the past relative to local competition.
+
+Q - Toshiya Hari{BIO 6770302 <GO>}
+Great. Thank you.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Thanks, Toshiya.
+
+Operator
+Thank you. Our next question comes from Krish Sankar with Cowen & Company. You may proceed with your question.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Yes. Hi. Thanks for taking my question and Bob welcome back. I just wanted to check on the fact that some of these constraints are pushing our revenues into next year. And it looks like maybe in the first half of next year, the WFE runrate could hit $100 billion. So just want to figure out from your advantage and how you think about that? And you also mentioned that you're trending towards your target model, but obviously the margins are impacted because of constraints and the target model at $10 in EPS and $100 billion in WFE. How much discount should we give to that $10 in this constrained environment? Thank you.
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Well, we think WFE is up next year. I think we probably said in the script. It could be up. I think at this time, we don't want to be too specific. We're talking kind of 10% up next year and I say pretty confident that frankly. If you look at the run rate in the first half, the visibility is a little better in the first half and we have very strong orders and booking potential in the first half. We actually think the second half is going to get a little stronger even on bookings than what we have today frankly. Everything we've talked to customers is bullish, particularly in the foundry and logic here. If you go if you go look at the model, it's $100 billion. I think that's a real number nowadays. I don't know that's a real number next year at this point. I think we achieve that $100 billion, we'll hit the model and that was the model $10. I think we'll do it.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Thanks, Bob.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thank you, Krish.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Yes. Maybe I can add, Krish, one more thing relative to 2022 and then going forward, backlog for us is very strong. Again, I've met with all of these leading customers, foundry and logic, memory ICAPS. And as Bob mentioned earlier, if you look at what they're publicly talking about in terms of their investments over multiple years, it's very, very strong. And some of this obviously I can't share publicly, but I have very high confidence that the business is going to remain strong through '22 and right now '23 also looks good for us. And certainly again, if you just look at all the public statements from those customers, again, they're not planning on short cycle. They're planning to be ready with capacity to capture the opportunities.
+
+Q - Krish Sankar{BIO 16151788 <GO>}
+Thanks, Gary.
+
+Operator
+Thank you. Our next question comes from Timothy Arcuri with UBS. You may proceed with your question.
+
+Q - Tim Arcuri{BIO 3824613 <GO>}
+Hi. Thanks. And Bob welcome back. So I guess, I have a question on WFE share. Gary you talk about that a lot and optically, your share this year is flat in the 20.2 to 20.3 range, but obviously that's not representative, because you would have done $300 million more in October. So I'm kind of wondering if you can adjust January for us. So what would January have been in terms of SSG if you had the supply? Would you have -- what that $4.45 billion guidance would have been say $300 million higher? I'm just trying to adjust your share higher because obviously the share you gained a lot of share on an adjusted basis. Thanks.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Yes, Tim, thanks for the question. Certainly Q1 would have been significantly higher. I think Bob gave some color on that, but certainly demand is far higher than supply. When we take a -- and we out performed in '19. We out performed in '20. We're definitely -- we're on track to outperform in '21. We also feel very good about '22 and going forward. But I don't know if I want to be more specific other than what the color that we've already given on the call, but definitely would have been significantly higher in Q1 and then going into 2022. In terms of the different parts of our business, we've talked about wiring resistance in foundry logic really is the biggest challenge for our customers. As they shrink these features, resistance goes up and we gave some color on copper barrier seed tool with seven different technologies that is worth billions of dollars.
+
+And what I said in a prepared remarks is that we have five of these innovations that we're delivering to customers, and we haven't quantified all of them, but it's very sizable in areas where Applied is really unique in enabling solutions to wiring resistance. In the one case, we've talked about 50% improvement in resistance. And then you look at gate all around, again, we feel very good about our position in the transistor to gain share. That's $1 billion opportunity. And relative to our FinFET position, we believe we're positioned to gain share as that goes forward. Certainly in foundry logic, our H share is increasing, our EUV shares increasing. Our PDC share, we've talked about our business being up more than 60% overall and just again really very, very strong position with integrated solutions. I gave some color on co-optimization and gave an example in the memory market, here again we have a big opportunity. So Tim, I feel really good about our position going forward.
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Yes. And Tim, I'll add one more thing for you. So I know in the past instead of waiting for Gartner group to come out with market share, what you always did is you took our fiscal Q2 through fiscal Q1 as a proxy for our revenue. And what's interesting is what we did back in February, we kind of disclosed in our conference call and then in April, I wrote to everybody that we've made a similar adjustment ourselves. So what we're now doing is our calendar year revenue for VLSI share purposes, it's now based on our financial reporting in fiscal Q2 through fiscal Q1. And one benefit of that change is that as soon as we guide Q1, which we just did today, now you can forecast our WFE revenue for share purposes and you can make an apples to apples with the peer group. And then I just wanted to call your attention to one other number in the script today. Bob sized our AGS 200 millimeter revenue at around $650 million for the calendar year. So now you have all of the numbers that you need to make a share assumption. So I just wanted to give you that background and we look forward, Bob and I to seeing the investors at your conference.
+
+Q - Tim Arcuri{BIO 3824613 <GO>}
+Thank you. Thank you, everyone. Appreciate that.
+
+Operator
+Thank you. Our next question comes from Harlan Sur with JPMorgan .You may proceed with your question.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Good afternoon. Thanks for taking my question and Bob welcome back to the team. On the chip shortages, you talked about some of the areas which have not been impacted as much plus control CMPH packaging systems, but that leaves things like deposition implant, thermal processes in many other areas. And I'm sure even within that, it's different for different systems architecture as like leading edge versus ICAPS. So I'm trying to figure out what's the implication of which of your end markets are getting more impacted given that there are different edge deposition, pattern intensities, and system configurations? Is foundry and logic getting more impacted? Is it memory that's getting more impacted. Is it ICAPS or is it across all of your customer segments and also is your display business being impacted as well?
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+So Harlan, this is Gary. First off, I would say the display is not being impacted being impacted. Relative to the different device types, I don't know that I would separate one versus the other relative to impact. Just as an example in the foundry and logic business, ICAPS and Varian, our business in ICAPS, our share is up significantly in our implant market and our revenue is up 4x over the last two years. So again, I think that when you look across the different products, there are specific components. It's not broad based. But again, I wouldn't necessarily say that it's one market or another when you look at the impact.
+
+Q - Harlan Sur{BIO 6539622 <GO>}
+Okay. Thank you.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thanks, Harlan.
+
+Operator
+Thank you. Our next question comes from Joe Quatrochi with Wells Fargo. You may You may proceed with your question.
+
+Q - Joe Quatrochi{BIO 18961101 <GO>}
+Yes. Thanks for taking the question. I wanted to double click on your expectations for first half calendar 2022 being above second half '21. Does that apply to memory as well? Or should we think about that growth being mostly foundry and logic driven and maybe memory is more second half weighted?
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Yes. So if you look at our 2021 data in terms of memory versus logic, we were a little stronger in the first half on memory. And then if you look at the actual data, so our foundry was a little strong in the second half and our memory NAND was little strong in the first half and DRAM little strong in the second half actually. If you look at next year, we think the year is kind of flattish. We think it's probably a little more second half weighted in memory next year. I think foundry is pretty strong throughout the year, but I don't think is a big delta.
+
+Q - Joe Quatrochi{BIO 18961101 <GO>}
+Yes. So overall WFE --
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+I think overall WFE is up. I think foundry is a bigger percentage. I think memory is kind of flattish. NAND is up a little bit. DRAM is down a little bit. I think the split within next year, memory is a little better in the second half, but I'm not sure.
+
+Q - Joe Quatrochi{BIO 18961101 <GO>}
+Got it. That's helpful. Thank you.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from Patrick Ho with Stifel. You may proceed with your question.
+
+Q - Patrick Ho{BIO 5499707 <GO>}
+Thank you very much and likewise Bob. I guess, one rodeo wasn't enough for you. So welcome back. Maybe just following up on the AGS side of things. Given the high utilization rates, the high demand for chips today, have you seen any quote incremental type of pickups in your services business just because your customers are try to keep their tools running as best as possible? Are you seeing any incremental pick up in subscription businesses just because of the current environment?
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Yes. I think the answer is yes. I'm not sure if I covered completely on the call. I give you some data, you guys like data. If you look -- I want to look at sustainability of all this. So we looked at bookings, backlog orders, right, stuff like that. The other thing I looked at was growth in wafer starts and tool utilization, right? So I'm not sure if we said at the call, but tool utilization at the end of the calendar fiscal year was at an all-time high in the last 11 years I look back at across all device types. So that gave me confidence this thing is sustainable looks pretty good and is good for our service business. Then I also looked at growth in wafer starts and growth in wafer starts, I think I said in the call was about 40% foundry and logic and kind of about 20% memory since 2016, particularly strong in 300 millimeter wafer starts for foundry and logic. So then if you go with the question you asked Patrick, we grew our service business 12% -- 21% last year. We look at about 12% this year. And if you look at high utilization, foundry and logic tools growing particularly well for us. We did pretty well in edge in previous years also. I see our service -- and we increased our contract and the life of our contracts from one to three years. The subscription rvenue business, sustainability of the service business looks really good.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Hey, Patrick, this is Gary. Just one other comment. In the discussions I've had with all of these CEOs, one thing that was pointed out was that having these subscription agreements and forecasted parts management, they said we're profiling better than others because they have those parts there. So from a supply standpoint, they said that was a big differentiator and give them more conviction to continue and expand that type of approach.
+
+Q - Patrick Ho{BIO 5499707 <GO>}
+Great. Thank you.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thanks, Patrick. And operator, we have time for two more questions, please.
+
+Operator
+Thank you. And our next question comes from Quinn Bolton with Needham & Company. You may proceed with your question.
+
+Q - Quinn Bolton{BIO 3192909 <GO>}
+Hi. Thanks for taking my question. I just wanted to ask about your outlook for China next year in 2022. You said it would be down slightly. Wondering if you could give us a little bit more color what's driving that decline. Is it just digestion of capacity put in place this year or do you see any political or export control impact or perhaps a trend towards supplier localization in China next year?
+
+A - Bob Halliday{BIO 3951707 <GO>}
+Let me give you some -- you guys have are good data guys and I'll give you some data. So three things in China. It's down some next year, but pretty strong. The second thing is if you look at trend in local versus -- spending by local companies versus international companies, it's trending up. It was high 70s, kind of 77% this year, about 82 % next year. The third is mix in business. So they have trended like the rest of the world to go a little bit more foundry and logic. So they were like 52% ,48% memory this year going to like 52% next year. So trending that way. In terms of where it's down, I think DRAM is down a little bit in China next year and foundry, but the mix to foundry is trending up.
+
+Q - Quinn Bolton{BIO 3192909 <GO>}
+Got it. Thank you.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thank you.
+
+Operator
+Thank you. Our last question comes from Sydney Ho with Deutsche Bank. You may proceed with your question.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Thanks for squeezing me in. I have a question on the process control side. You guys talk about process control was not an area that was impacted by supply constraints and now growing about 60% for this year. You also talked about a number of AIx engagements potentially tripling next year instead of doubling. Just can you help us understand how these engagements impact your revenue growth potential? Do they generally translate into revenue in the same year or number of years? Do they increase over -- the overall size of the market or just an opportunity for Applied to gain share? And generally just how you measure success with those engagements? Thanks.
+
+A - Gary E. Dickerson{BIO 2135669 <GO>}
+Yes, this is Gary. Thanks for the question. So the fastest growing largest part of our PDC business is our eBeam product family and we have tremendous leadership there. We're growing share a significant amount. The strength is really on our resolution and speed of imaging, and we're expanding that gap with coal field emission where we have about a 50% resolution advantage versus others. And so when you think about certainly the growth there, we have line of sight to really good growth also in 2022. This co-optimization with eBeam is very, very important. We talked about that an example for capacitor scaling where we're combining a new material we call Draco with innovative edge technology and basically optimizing these processes is incredibly complex. You're trying to optimize many-many different parameters at the same time and the goal is to optimize those recipes as fast as possible with big process windows because that directly impacts yield.
+
+So this combination with eBeam is incredibly important when you think about again capacitor scaling or gate all around or any of these big inflections. The ability to map that out and look at those fingerprints across a chip, you look at pattern loading for isolated dense structures, fingerprints across the wafer being able to map out this multi dimension space, and with the unique imaging of those features, which we have with our eBeam system and then we talked about the Applied process recipe optimization Applied Pro within AIx is really an enormous focus for all of our different customers. So it certainly is growing our PDC business, but even more impactful the opportunity for us to capture value with our IMS platforms, our co optimized platforms is worth billions of dollars. So that is an accelerator for us that gives us a tailwind, whether it's low or gate all around, memory scaling, all of those different capabilities. And that's a great leading indicator going from 25 engagements to 75 next year. It does translate into wins in terms of these big inflections accelerating the inflections. The t of the PPACt is worth an enormous amount for our customers. So it's really is tremendously synergistic with our overall strategy and opportunity.
+
+Q - Sidney Ho{BIO 6922415 <GO>}
+Thank you.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+Thank you, Sidney. And Bob would you like to help us close the call with some summary thoughts and --
+
+A - Bob Halliday{BIO 3951707 <GO>}
+All right. I have some summary thoughts. But first I'm going to go off script and just say, it's great to be back with the team included Gary. And when I visualized coming back, I thought of myself a little bit like Arnold Schwarzenegger, the terminator, I'll be back. And then, unfortunately we want to hear some rumors Gabe and welcome back Carter, but I'm back anyway so. Let's do the three legged stool. Our markets are strong and a great shape. We think WFE is up next year and frakly positively by 2023. Second, Applied position is strong. Our us spending -- our demand is great. Our orders are great. Our backlog is great. The mix of the demand is really favorable for us including father logic, these advanced devices, ICAPS. It's really great.
+
+Number three is our financial performance of capital returns. I have to admit I was impressed that the gross margins went up 240 points this year and we are up 540 points or 5.4% operating margins. And last year, we returned 96% of free cash flow to investors, and we look at a really strong cash flow this year. So I think the company is just in fundamentally great shape. We have supply chain headwinds. We take full accountability for making it work and deliver to customers. We are all over this issue. The next quarter or so, we're going to make a lot of progress. But fundamentally, this company is in great shape and I'm looking forward to working with all of you again.
+
+A - Michael Sullivan{BIO 16341622 <GO>}
+All right. Thanks, Bob. We'd like to thank everybody for joining us today. A replay of the call is going to be available on our website by 5 p.m. Pacific Time today. And Gary and I look forward to seeing many of you at the Credit Suisse Conference in Scottsdale in just a little while. And so Happy Thanksgiving, and thank you for your continued interest in Applied Materials.
+
+Operator
+Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect.
+

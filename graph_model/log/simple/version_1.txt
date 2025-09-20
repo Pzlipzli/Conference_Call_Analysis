@@ -1,0 +1,8 @@
+=== CMD ===
+python ./graph_model/train.py --version 1 --name simple
+
+=== RETURN CODE ===
+1
+
+=== STDOUT ===
+

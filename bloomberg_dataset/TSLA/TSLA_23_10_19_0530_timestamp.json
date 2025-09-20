@@ -1,0 +1,446 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Of new factories, and we believe there's still meaningful room for improvement there. Regarding Autopilot and AI, our vehicles now have driven over zero five billion miles with FSD beta, full self driving beta, and that number is growing rapidly. We recently completed a ten thousand GPU cluster of H100s. We think probably bringing it into operation faster than anyone's ever brought that much compute per unit time into production since training is the fundamental limiting factor on progress with full self driving and vehicle autonomy. We're also seeing significant promise with FSD version twelve.",
+    "start": 7.8399997,
+    "end": 58.100002
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "This is the end to end AI where it's photon count in controls out. Really, you can think of it as there's just a large bitstream coming in and a and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work. The vast majority of of human data input is optics from our eyes. And so we are like the car, photons in, controls out with neural nets, just neural nets in the middle. So interesting to think about that.",
+    "start": 58.100002,
+    "end": 104.755
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "We will continue to invest significantly in AI development as this is really the massive game changer. I mean success in this regard in the long term, I think, has the potential to make Tesla the most valuable company in the world by far. If you have fully autonomous cars at scale and fully autonomous humanoid robots that are truly useful, it's not clear what the limit is. Regarding energy storage, we deployed four gigawatt hours of energy of storage products in Q3. And as this business grows, the Energy Division is becoming our highest margin business.",
+    "start": 106.755,
+    "end": 159.475
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Energy and service now contribute over zero five billion dollars to quarterly profit. The Cybertruck and a lot of people are excited about the Cybertruck. I am too. I've driven the car. It's an amazing product.",
+    "start": 159.955,
+    "end": 172.94
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "I do want to emphasize that there will be enormous challenges reaching volume production with the Cybertruck and then in making a Cybertruck cash flow positive. This is this is simply normal for when when you've got a a product with a lot of new technology or any any any new vehicle brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you're trying to solve at scale. So I just want to emphasize that while I think this is potentially our best product ever, and I think it is our best product ever, it is going to be require immense work to reach volume production and be cash flow positive at a price that people can afford. Often people do not understand what is truly hard. That's why I say prototypes are easy, production is hard.",
+    "start": 174.54,
+    "end": 241.13
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "People think it's the idea where you make a prototype. You you design a car. And as soon as their dining car is such as anyone can do it, it it does require taste. It does require effort to design a prototype. But the difficulty going from a prototype to volume production is like ten thousand percent harder to get to volume production than to make the prototype in the first place.",
+    "start": 241.875,
+    "end": 267.04
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And then it is even harder than that to reach positive cash flow. That is why there have not been new car startups that have been successful for a hundred years, apart from Tesla. So, you know, I just want to temper expectations for Cybertruck. It's a great product, but financially, it will take, I don't know, a year to eighteen months before it is a significant positive cash flow contributor. I I wish there was some way to for that to be different, but that's that's my best guess.",
+    "start": 267.2,
+    "end": 311.005
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. So it it and really, the demand is is off is off the charts. We have over a million people who have reserved the car. So it's not it's not a demand issue, but we have to make it. We need to make it at price that people can afford, insanely difficult things.",
+    "start": 316.82,
+    "end": 334.25504
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "In conclusion, we continue to focus on ramping production while maintaining positive cash flow And we continue to target expect to have around one point eight million vehicle deliveries as stated earlier this year. The Tesla AI team is I think one of the world's best, and I think it is actually by far the world's best when it comes to real world AI. I'll say that again. Tesla has the best real world AI team on Earth, period, and it's getting better. And lastly, I wanted to thank all of our employees who are making a lot of extra effort during uncertain times.",
+    "start": 336.17502,
+    "end": 383.30002
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much for your hard work and the impact that you're making.",
+    "start": 383.38,
+    "end": 386.02002
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much, Elon. And our CFO, Weibar, has some opening remarks as well.",
+    "start": 387.775,
+    "end": 392.17502
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Thanks, Martin. Our vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our energy business. Congratulations to the Tesla team for their continued focus on operational excellence as we navigate through a period of economic uncertainty, higher interest rates and shifting consumer sentiment. As Elon mentioned, our Q3 operational and financial performance was impacted by planned downturns for our factory upgrades. This was necessary to allow for further factory improvements and production rate increases.",
+    "start": 392.255,
+    "end": 426.245
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Despite such factory shutdowns, our cost per vehicle decreased to approximately thirty seven thousand five hundred. We saw sequential decreases in material cost and freight. Reducing the cost of our vehicles is our top right. On the operating expenses front, r and d expenses continue to rise to cyber due to cyber truck prototype builds and pilot production testing, combined with spend on AI technologies like full self driving, Optimus, Dojo. We have and will continue to make investments in these areas and hence our capital expenditure and R and D will continue to grow in the near term.",
+    "start": 426.725,
+    "end": 461.9
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "However, our focus is to continue making investments through positive cash flow from operations. This year itself, we have generated operating cash flows of approximately eight point nine billion and free cash flows of approximately two point three billion dollars Our other businesses are becoming more prominent on a stand alone basis, with energy business leading the charge primarily from the growth in megabyte deployment. Our services and other businesses on a year on year basis also continue to show positive momentum as we benefit from our growing fleet. As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing. And hence, we also view pricing in terms of monthly costs for the customer.",
+    "start": 462.38,
+    "end": 511.53503
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "And therefore, as interest costs in the US have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity. We've tried to offset such adjustments via our focus on reducing costs. However, there is an inherent lag in cost reductions, which in turn impacts margins. To that extent, we recently announced a partner vehicle leasing program in the US, whereby you can get a standard day Model Y for as low as three ninety nine dollars a month. In conclusion, as we navigate through a challenging economic environment, we're focused on reducing costs, maximizing delivery volumes, and continuing making investments in the future, in particular AI and other next generation platform.",
+    "start": 511.855,
+    "end": 557.52
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "We believe this strategy positions us well for the long term. Once again, I would like to thank the Tessa team for their efforts in the last call.",
+    "start": 558.685,
+    "end": 567.16504
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. And now let's go to investor questions. The first investor question comes from Craig. How many Cybertruck deliveries do you anticipate for twenty twenty four?",
+    "start": 568.205,
+    "end": 578.66003
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It's difficult to make an accurate guess at this point. Going back to what I said earlier, the the ramp is going to be extremely difficult. And like I said, there's there's there's no way around that. If if you try to make if if we just try to do some copycat vehicle design of which there are literally two hundred models that are slight variations on a theme in the in the combustion engine world, just just distinction is without a difference, then, you know, it's really not that hard. But if you wanna do something radical and innovative and and something really special like the type of like the Cybertruck, it is extremely difficult because there's nothing to copy.",
+    "start": 581.46,
+    "end": 631.0
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You have to invent not just the car, but the way to make the car. So the the more uncharted the territory, the less predictable the outcome. Now I can say that if you say, well, where will things end up? I think we'll end up with roughly a quarter million cyber trucks a year. And but I I I don't think we're going to reach that output rate next year.",
+    "start": 631.48,
+    "end": 660.91003
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "I think we'll probably reach it sometime in twenty twenty five. That's my best guess.",
+    "start": 662.03,
+    "end": 668.91003
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The second question is, can you provide a progress update on the four thousand six eighty cell, particularly progress towards performance improvements and cost savings outline on Battery Day?",
+    "start": 670.765,
+    "end": 681.16504
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you.",
+    "start": 681.16504,
+    "end": 681.48505
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Sure thing, Martin. Four thousand six hundred eighty cell production in Texas increased forty percent quarter over quarter. Congrats to the Texas team for producing their twenty million cell off of Line one. Texas is now our primary four thousand six hundred eighty facility. We're heavily focused on quality.",
+    "start": 682.36,
+    "end": 700.345
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Scrap is down forty percent quarter over quarter. With the increased volume and yield improvements, cell costs consistently improved month over month within the quarter, although we have a lot more work to do to achieve our steady state goals, and that is our priority. The Cybertruck cell with ten percent higher energy than our Model Y cell started production on Line two in Texas. This quarter, we convert to building one hundred percent Cybertruck cells to simplify and focus the factory as we ramp all four lines in phase one over the next three quarters. Phase two of the Texas four thousand six hundred eighty facility is currently under construction.",
+    "start": 700.345,
+    "end": 733.415
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "The additional four lines incorporate further capital efficiencies over phase one, and our target is for them to start producing in late twenty twenty four. Lastly, in CATO, we're retooling to enable large scale pilot runs of our next generation cell designs. CATO's long term goal is to be the launch pad for new cells, one generation ahead of our mass production facilities, enabling faster iteration and smoother ramp ups of new sites.",
+    "start": 733.735,
+    "end": 756.45996
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question from institutional investors, could you please provide an update on capacity expansion plans for companies, factories in Berlin and Austin and the opening schedule of Gigafactory in Mexico?",
+    "start": 758.47504,
+    "end": 772.47504
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "Berlin and Austin factory, the current priority is actually maximize the output from our existing lines by laser focus on efficiency improvements. As always, maintaining a high quality and reducing per unit cost will be as critical as growing the production volume. For Mexico, we are working on infrastructure and factory design in parallel with the engineering development of the new production that will be manufacturing there. That's all I can share from them.",
+    "start": 775.01,
+    "end": 804.11
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And and let's go. We're we're laying the groundwork to begin construction and doing doing all the long lead items. But I think we wanna just get a sense for what the global economy is like before we go full tilt on the Mexico factory. I'm worried about the high interest rate environment that we're in. It's I just can't emphasize this enough that for the vast majority of people buying a car is about the monthly payment.",
+    "start": 805.31,
+    "end": 837.43
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "And as interest rates rise, the proportion of that monthly payment that's interest increases naturally. So that's if if interest rates remain high or if they go even higher, it's that much harder to for people to buy the car. It's what they cannot afford it. So and and we're not tracking, I believe, at this point for Model Y to be the best selling car on Earth, but not just in revenue, but in unit volume. If you compare that to the other vehicles that are, you know, number two and number three and whatnot, they they cost much less than our car.",
+    "start": 838.38995,
+    "end": 877.035
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You know, we're just hitting low of large numbers situations here. I know people want us to advertise and we are advertising. I think there is some there's something to there is something to be gained on the advertising front. I don't think it's nothing. But informing people of a car that is great, but they cannot afford doesn't really help.",
+    "start": 881.31,
+    "end": 904.745
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So that that's that is really the thing that must be solved is to make the car affordable or, you know, the average person can't buy it for any amount of money. They can't afford it. They can't afford it. So this is a big deal.",
+    "start": 906.67004,
+    "end": 925.78503
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you very much. The next question is, when do you expect Model three HYALON to be available in the U. S? I just wanted to address that unfortunately, don't answer product related questions and timings on earnings calls.",
+    "start": 930.66504,
+    "end": 944.64
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So let's go to the next one. Current sell side consensus assumes that Tesla will deliver two point three million vehicles in twenty twenty four, representing twenty eight percent growth versus twenty twenty three guidance. Is this growth rate achievable without any mass market launches in twenty twenty four? And when does Tesla expect to return to its fifty percent long term CAGR?",
+    "start": 944.64,
+    "end": 966.68
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Thanks for the question. When you look at twenty twenty four, there are lot of moving pieces. Elon just talked about what is happening in the macroeconomic environment. So we're focused on growing our volumes in a very cost efficient manner and are carefully reviewing all our options, and we'll be able to provide a much more meaningful update at our next earnings call.",
+    "start": 967.32,
+    "end": 989.855
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. I mean, the risk of stating the obvious, it's not possible to have a compound growth rate of fifty percent forever or you will exceed the mass of the known universe. So but I I think we will grow very rapidly, much faster than any other car company on earth by far.",
+    "start": 991.63,
+    "end": 1008.945
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Next question is, do you have an approximate time line in mind for the robotaxi driven or nondriven? What excites you most about how this project is progressing?",
+    "start": 1011.985,
+    "end": 1023.00006
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Well, the robotaxi is, like, necessarily nondriven. I guess I'm I'm very excited about our progress with autonomy. End to end, nothing but nets. I self driving software is amazing. I I drives me all around Austin with no expansions.",
+    "start": 1025.4,
+    "end": 1055.71
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So, yeah, this is clearly the the right move. Yeah. So it's really, really pretty amazing. And, Ross, that that same software and approach will enable Optimus to do useful things and and enable Optimus to to learn how to do things simply by looking. Extremely exciting in the long term.",
+    "start": 1056.75,
+    "end": 1099.535
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "As I've as I've mentioned before, given that the economic output is number of people times productivity, if you no longer have a constraint on on people, effectively, you've got a humanoid robot that can do as much as you'd like. Your your your economy is why is he infinite or infinite for intensive purposes. So I don't think anyone is gonna do it better than Tesla, not by a long shot. Bus dynamics is impressive, but the robot lacks a brain. They're like the, you know, Wizard of Oz or whatever.",
+    "start": 1102.9701,
+    "end": 1147.8649
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "It lands. Yeah.",
+    "start": 1149.3049,
+    "end": 1151.3849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Lacks a brain. And and then you also need to be able to design the humanoid robot, you know, in such a way that it can be mass manufactured. And then at some point, the robots will manufacture the robots. Now, obviously, we need to be make sure that there's a good place for humans in that future that we cannot create some variants of the Terminator outcome. So we're gonna put a lot of effort into localized control of the humanoid robot.",
+    "start": 1152.265,
+    "end": 1181.935
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So, you know, basically, anyone will be able to shut it off locally, and you can't change that even if you you put, like, a software update. You can't change that. It has to be hard coded.",
+    "start": 1183.34,
+    "end": 1196.14
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is why was the price dropped on FSD if it is getting better and robotaxis expected so soon?",
+    "start": 1198.815,
+    "end": 1207.775
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Well, we just wanted to make it more affordable.",
+    "start": 1213.17,
+    "end": 1215.4099
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Ask him, or we will try it. I yeah. I I think over time, the price of FSD will increase proportionate to its value. So it would provide the current price as a kind of a temporary low.",
+    "start": 1215.5701,
+    "end": 1231.935
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is again on. Mercedes is accepting legal liability for when its level three autonomous driving system DrivePilot is active. Is Tesla planning to accept legal liability for FSD? And if so, when?",
+    "start": 1235.73,
+    "end": 1250.9299
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Well, there's a lot of people that assume we we have legal liability judging by the lawsuits. We're certainly not being let that off the hook on that front, whether we'd like we'd like to or wouldn't like to.",
+    "start": 1253.065,
+    "end": 1264.985
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "I think it's important to remember for everyone that Mercedes' system is limited to few roads in Nevada and some certain cities in California, it doesn't work in the snow or the fog, it must have a weed car and marked planes only forty miles per hour. Our system is meant to be holistic and driving any conditions, so we obviously have a much more capable approach, but with those kind of limitations, really not very useful.",
+    "start": 1268.03,
+    "end": 1292.375
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "You know, I I think some people understand the profundity of the Tesla AI system. Most of it very but it's very, very few. It's it's basically baby AGI. It has to understand reality in order to try. Baby baby AGI.",
+    "start": 1294.29,
+    "end": 1316.2849
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question on OPTIMUS. Will OPTIMUS be working on Gigafactory lines next year? If so, how many would you guess will be deployed?",
+    "start": 1319.405,
+    "end": 1330.5
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "I think at this point, we are not ready to discuss details of the OPTIMASP program, but we will make provide periodic updates online. So as as you can see where, you know, Optimus a year ago could barely walk, and now it can do yoga.",
+    "start": 1337.035,
+    "end": 1358.6199
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "So",
+    "start": 1359.26,
+    "end": 1359.82
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "a few years from now, can play do ballet.",
+    "start": 1364.025,
+    "end": 1366.985
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Sounds good. And the last question from investors is neural net path planning represent a significant advance in capability and safety for FSD. What steps is Tesla taking to make this technology available outside the US?",
+    "start": 1370.1051,
+    "end": 1384.12
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Yeah. Our approach has been to try to get it like the more places we try to make it work, the harder the problem is. So the reason we don't do it in all countries simultaneously is that it would take much longer to make it work anywhere at all. So that's why it's currently just North America. And and also for most parts of the world, have to get approval before deploying things.",
+    "start": 1388.695,
+    "end": 1414.5299
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Whereas in the US, you can deploy things at risk or at least you can take liability for your point. So it's whereas most countries require some sort of extensive approval program. So we all we only wanna go through that extensive approval program when we think it's kinda ready for prime time in that country. I apologize that it's not not in those countries, but but we keep we keep finding ways to make it better. And it really needs to drive it drive it needs to drive such that it exceeds the even unsavioralized, exceeds the probability of injury of a human.",
+    "start": 1415.125,
+    "end": 1468.56
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Significantly better. A lower probability of entry than a human by far. I think we're tracking to that point very quickly. Obviously, in the past, I've been overly optimistic about this. The reason I've been overly optimistic is that the progress tends to sort of look like a log a log curve, which is that you have kind of rapid initial improve improvements And then if you were to extrapolate that to a rapid, fairly linear rate of improvement, you you you you get to self driving like, quickly, but then the rate of improvement curves over logarithmically, has lost the asymptote.",
+    "start": 1469.3351,
+    "end": 1519.62
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "That's not happened several times. I would characterize our progress in real world AI as a series of stacked log curves. I think that is also true in other parts of AI like LLMs and whatnot, series of stacked log curves. Each log curve gets higher than the last one. So if you keep stacking them, keep stacking logs eventually get to FSD.",
+    "start": 1520.98,
+    "end": 1548.53
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Let's now go to analyst questions. The first question comes from Will Stein from Truist. Will, please go ahead and unmute yourself.",
+    "start": 1550.865,
+    "end": 1560.065
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Alright. Thank you very much. Let's go to Pierre Ferragu from New Street Research.",
+    "start": 1849.17,
+    "end": 1853.89
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Thanks for that question. So, in terms of -- you have a few different aspects of your question. So if I just look at from Q3 perspective, obviously factory idle time had an impact. It did impact by, I mean, I won't give you the exact percentage, but it had decent impact for the quarter.",
+    "start": 2100.8499,
+    "end": 2127.0051
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "And, you know, when you look at the other pieces which we're trying to do, we did see certain of our other factories ramping up pretty well, right? And they actually contributed pretty well to the margin for this quarter. In fact, one of the factories pretty came pretty close to in terms of per-unit costs to where we are for one of our other established factory, which is Fremont. So that was a positive in the quarter.",
+    "start": 2128.55,
+    "end": 2162.55
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "When it comes to energy margins, you know, Megapack deployment was the key driver there and that product has done well. I mean, on the cost curve also we've been able to do a lot there. But I do want to caution that, Megapack deployments are a bit lumpy. So, yes, we had a great quarter this period, but depending upon where we are trying to deploy that product in different markets, you would see periods where there would be downward pressure on deployment because of us trying to get the product to that place where it's --",
+    "start": 2163.5098,
+    "end": 2203.475
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Yes.",
+    "start": 2205.235,
+    "end": 2205.635
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Okay. Thank you very much. Let's go to Rod Lash from Wolfe Research. Rod, feel free to unmute yourself.",
+    "start": 2208.035,
+    "end": 2214.44
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Yes. So just in terms of product margins, there are lots of puts and takes when you look at this. There are certain things which we control and there are certain things which we don't control. We get -- we expect that we'll get some benefits from our cost reduction efforts, which are all underway. But on the other hand, we just finished our factory upgrades late in Q3.",
+    "start": 2254.895,
+    "end": 2278.6401
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Some of these factories are still in the early ramp phase in Q4. We're still not up to where we want those factories to be, so they'll impact in the near term. Plus, like Elon mentioned, we're going to be ramping Cybertruck, which is going to be another headwind, which we will be dealing with. On top of all that, there's overall uncertainty in the macroeconomic environment, which even makes it harder to predict precisely as to where we'll land.",
+    "start": 2279.12,
+    "end": 2308.37
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "But yes, this is something which -- it's an evolving thing which we're observing every day and reacting to it on a daily basis.",
+    "start": 2309.275,
+    "end": 2319.2751
+  },
+  {
+    "speaker": "Unidentified Speaker",
+    "text": "I would just say that on the cost reduction efforts, like we are not -- we are unflagging in our pursuit of additional cost downs for 2024. We do have a good pipeline of them and work on both the engineering side and the factory operation side, and our intention is to like maintain or exceed the trend that you saw. We're trying as hard as we possibly can.",
+    "start": 2319.835,
+    "end": 2343.415
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Yes. One other thing which I'll add, when you look at car buying in general, we're trying to get to the next set of EV adapters.",
+    "start": 2497.2449,
+    "end": 2507.885
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Exactly.",
+    "start": 2508.39,
+    "end": 2509.39
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "So --",
+    "start": 3067.315,
+    "end": 3068.315
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "You know, on top of it, like we said, we did some factory upgrades, so we expect volume to go up, that would also bring some savings from higher production. But then on the flip side, we're going to be ramping a new product, like Cybertruck, which we talked about. So yes, so those are the real puts and takes, which we are working for.",
+    "start": 3085.415,
+    "end": 3104.75
+  },
+  {
+    "speaker": "Vaibhav Taneja",
+    "text": "Yes.",
+    "start": 2205.635,
+    "end": 2206.2751
+  }
+]

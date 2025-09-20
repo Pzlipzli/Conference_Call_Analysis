@@ -1,0 +1,577 @@
+Q2 2024 Earnings Call
+Company Participants
+Ashwin Kohli, Chief Customer Officer
+Chantelle Breithaupt, Chief Financial Officer
+Jayshree V. Ullal, Chief Executive Officer and Chairperson
+Liz Stine, Director of Investor Relations
+Other Participants
+Aaron Rakers, Wells Fargo Securities LLC
+Alex Henderson, Needham & Co.
+Amit Daryanani, Evercore ISI
+Antoine Chkaiban, New Street Research, LLP.
+Atif Malik, Citigroup, Inc.
+Benjamin Bollin, Cleveland Research Company
+David Vogt, UBS Securities LLC
+George Notter, Jefferies LLC.
+Ittai Kidron, Oppenheimer & Co.
+Jack Adair, Melius Research LLC.
+James Fish, Piper Sandler & Co, LLC.
+Karl Ackerman, BNP Paribas Securities Corp.
+Meta Marshall, Morgan Stanley & Co, LLC.
+Michael Ng, Goldman Sachs & Co, LLC.
+Samik Chatterjee, JPMorgan Securities LLC
+Sebastien Naji, William Blair & Co. LLC
+Simon Leopold, Raymond James & Associates, Inc.
+Tal Liani, Bank of America
+Timothy Long, Barclays Capital, Inc.
+Presentation
+Operator
+Welcome to the Second Quarter 2024 Arista Networks Financial Results Earnings Conference Call. During the call, all participants will be in a listen-only mode. After the presentation, we will conduct a question-and-answer session. Instructions will be provided at that time. (Operator Instructions). As a reminder, this conference is being recorded and will be available for replay from the Investor Relations section at the Arista website following this call.
+
+Ms.Liz Stine, Arista's Director of Investor Relations, you may begin.
+
+Liz Stine{BIO 22543302 <GO>}
+Thank you, operator. Good afternoon, everyone, and thank you for joining us. With me on today's call are Jayshree Ullal, Arista Networks Chairperson and Chief Executive Officer; and Chantelle Breithaupt, Arista's Chief Financial Officer.
+
+This afternoon, Arista Networks issued a press release announcing the results for its fiscal second quarter ending June 30, 2024. If you would like a copy of this release, you can access it online at our website.
+
+During the course of this conference call, Arista Networks management will make forward-looking statements, including those relating to our financial outlook for the third quarter of the 2024 fiscal year, longer term financial outlooks for 2024 and beyond, our total addressable market and strategy for addressing these market opportunities, including AI, customer demand trends, supply chain constraints, component costs, manufacturing output, inventory management, and inflationary pressures on our business, lead times, product innovation, working capital optimization, and the benefits of acquisitions, which are subject to the risks and uncertainties that we discuss in detail in our documents filed with the SEC.
+
+Specifically, in our most recent Form 10-Q and Form 10-K, and which could cause actual results to differ materially from those anticipated by these statements. These forward-looking statements apply as of today, and you should not rely on them as representing our views in the future. We undertake no obligation to update these statements after this call.
+
+Also, please note that certain financial measures we use on the call are expressed on a non-GAAP basis and have been adjusted to exclude certain charges. We have provided reconciliations of these non-GAAP financial measures to GAAP financial measures in our earnings press release.
+
+With that, I will turn the call over to Jayshree.
+
+Jayshree V. Ullal{BIO 1737637 <GO>}
+Thank you, Liz, and thank you everyone for joining us this afternoon for our second quarter 2024 earnings call. As a pure play networking innovator with greater than $70 billion TAM ahead of us, we are pleased with our superior execution this quarter.
+
+We delivered revenues of $1.69 billion for the quarter with a non-GAAP earnings per share of $2.10. Services and software support renewals contributed strongly at approximately 17.6% of revenue.
+
+Our non-GAAP gross margin of 65.4% was influenced by outstanding manufacturing discipline realizing cost reductions. International contribution for the quarter registered at 19%, with the Americas strong at 81%. As we celebrated our 10th anniversary at the New York Stock Exchange with our near and dear investors and customers, we are now supporting over 10,000 customers with a cumulative of 100 million ports deployed worldwide.
+
+In June 2024, we launched Arista's Etherlink AI platforms that are Ultra Ethernet Consortium compatible, validating the migration from InfiniBand to Ethernet. This is a rich portfolio of 800 gig products, not just a point product, but in fact, a complete portfolio that is both NIC and GPU agnostic.
+
+The AI portfolio consists of the 7060X6 AID switch that support 64x800 gig or 128x400 gig ethernet ports with a capacity of 51 terabits per second. The 7800R4 AI Spine is our fourth generation of Arista's flagship 7800 offering 100% non-blocking throughput with a proven virtual output queuing architecture. The 7800R4 supports up to 460 terabits in a single chassis corresponding to 576x800 gigabit ethernet ports or 1152x400 gigabit port density.
+
+The 7700R4 AI distributed etherlink switch is a unique product offering with a massively parallel distributed scheduling and congestion-free traffic spraying fabric. The 7700 represents the first in a new series of ultra-scalable intelligent distributed systems that can deliver the highest consistent throughput for very large AI clusters.
+
+Let's just say once again Arista is making ethernet great. First we began this journey with low latency in 2009 time frame and then there was cloud and routing in the 2015 era followed by WAN and campus in the 2020 era and now AI in our fifth generation in 2025 era.
+
+Our etherlink portfolio is in the midst of trials and can support up to 100,000 XPUs in a 2-tier design built on our proven and differentiated extensible OS. We are quite pleased with our progress across cloud AI campus and enterprise customers.
+
+I would like to invite Ashwin Kohli, our newly appointed Chief Customer Officer to describe our diverse set of customer wins in 2024. Ashwin, over to you.
+
+Ashwin Kohli{BIO 21410008 <GO>}
+Many thanks Jayshree. Thank you for inviting me to my first earnings call. Let me walk everybody through the four global customer wins. The first example is an AI enterprise win with a large Tier 2 cloud provider which has been heavily investing in GPUs to increase their revenue and penetrate new markets.
+
+Their senior leadership wanted to be less reliant on traditional core services and work with Arista on new reliable and scalable ethernet fabrics. Their environment consisted of new NVIDIA H100s however it was being connected to their legacy networking vendor which resulted in them having significant performance and scale issues with their AI applications.
+
+The goal of our customer engagement was to refresh the front-end network to alleviate these issues. Our technical partnership resulted in deploying a two-step migration path to alleviate the current issues using 400 gig 7280s eventually migrating them to an 800 gig AI ethernet link in the future.
+
+The second next win highlights our adjacencies in both campus and routing. This customer is a large data center customer which has deployed us for almost a decade. Their team was able to leverage that success to help them demonstrate our value for the global campus network, which spans across hundreds and thousands of square feet globally.
+
+The customer had considerable dissatisfaction with the current vendor, which led them to a last minute request to create a design for the new corporate headquarters. Given only three months window, Arista leveraged the existing data center design and adapted this to the campus topology with a digital twin of the design in minimal time.
+
+CloudVision was used for visibility and life cycle management. The same customer once again was struggling with extreme complexity in their routing environment as well with multiple parallel backbones and numerous technical complexities.
+
+Arista simplified their routing network by removing legacy routers, increasing bandwidth and moving to a simple fixed form factor platform router. The core spine leverages the same U.S. software, streamlining their certification procedures and instilling confidence in the stability of the products. Once again, CloudVision came to the rescue.
+
+The third example is the next win in the international arena of a large automotive manufacturer that due to its size and scale, previously had more than three different vendors in the data center, which created a very high level of complexity, both from a technical and also from an operational perspective.
+
+The customer's key priority was to achieve a higher level of consistency across the infrastructure, which is now being delivered via a single U.S. binary image and CloudVision solution from Arista.
+
+Their next top priority was to use automation, consistent end-to-end provisioning and visibility, which can be delivered by a CloudVision platform. This simplification has led the customer to adopt Arista beyond the data center and extend the Arista solution into the routing component of the infrastructure, which included our 7500R3 spine platforms. This once again shows a very clear example of the same Arista one EOS and one CloudVision solution delivering multiple use cases.
+
+And Jayshree, this last win demonstrate our strength in service provider routing space. We have been at the forefront of providing innovative solutions for service provider customers for many years.
+
+As we all know, we are in the midst of an optical and packet integration. As a result, our routers support industry-leading, dense 400 gig ZR plus coherent pluggable optics. In this service provider customer example, we provided a full turnkey solution, including our popular 7280R3 routers and our newly announced AWE-7250 WAN router as a BGP route reflector, along with CloudVision and professional services. We showcase our strength in supporting a wide variety of these pluggable coherent optics, along with our SR and EVPN solutions, which allowed this middle mine service provider customer to build out a 400 gig statewide backbone at Cloud Stale Economics. Thanks Jayshree, and back over to you.
+
+Jayshree V. Ullal{BIO 1737637 <GO>}
+Wow, thank you Ashwin and congratulations. Hot off the press is our new and highest Net Promoter Score of 87, which translates to 95%. Hats off to your team for achieving that. It's so exciting to see the momentum of our enterprise sector. As a matter of fact, as we speak, we are powering the broadcasters of the Olympics, symbolic of our commitment to the media and entertainment vertical. And so it's fair to say that so far in 2024, it's proving to be better than we expected because of our position in the marketplace and because of our best of breed platforms for mission critical networking.
+
+I am reminded of the 1980s when Sun was famous for declaring the network is the computer. Well, 40 years later, we're seeing the same cycle come true again with the collective nature of AI training models mandating a lossless, highly available network to seamlessly connect every AI accelerator in the cluster to one another for peak job completion times.
+
+Our AI networks also connect trained models to end users and other multi-tenant systems in the front end data center, such as storage, enabling the AI system to become more than the sum of its parts. We believe data centers are evolving to holistic AI centers where the network is the epicenter of AI management for acceleration of applications, compute, storage, and the wide area network.
+
+AI centers need a foundational data architecture to deal with the multi-modal AI data sets that run on our differentiated EOS network data lake systems. Arista showcased the technology demonstration of our EOS based AI agent that can directly connect on the NIC itself or alternatively inside the host. By connecting into adjacent Arista switches to continuously keep up with the current state, send telemetry, or receive configuration updates, we have demonstrated the network working holistically with network interface cards, such as NVIDIA BlueField, and we expect to add more NICs in the future.
+
+Well, I think the Arista purpose and vision is clearly driving our customer traction. Our networking platforms are becoming the epicenter of all digital transactions, be they campus center, data center, grant centers, or AI centers.
+
+And with that, I'd like to turn it over to Chantelle, our Chief Financial Officer, to review the financial specifics and tell us more. Over to you, Chantelle.
+
+Chantelle Breithaupt{BIO 22176833 <GO>}
+Thanks, Jayshree. It really was great to see everyone at the New York Stock Exchange IPO Celebration event. Now turning to the numbers.
+
+This analysis of our Q2 results and our guidance for Q3 is based on non-GAAP and excludes all non-cash stock-based compensation impacts, certain acquisition-related charges, and other non-recurring items.
+
+A full reconciliation of our selected GAAP to non-GAAP results is provided in our earnings release. Total revenues in Q2 were $1.69 billion, up 15.9% year-over-year, significantly above the upper end of our guidance of $1.62 billion to $1.65 billion. Growth was delivered across all three sectors of cloud, enterprise, and providers. Services and subscription software contributed approximately 17.6% of revenue in the quarter, up from 16.9% in Q1.
+
+International revenues for the quarter came in at $316 million, or 18.7% of total revenue, down from 20.1% in the prior quarter. This quarter-over-quarter decrease was driven by a relatively weaker performance in our AP region.
+
+The overall gross margin in Q2 was 65.4%, above our guidance of 64%, up from 64.2% last quarter, and up from 61.3% in the prior year quarter. The year-over-year gross margin improvement was primarily driven by a reduction in inventory-related reserves.
+
+Operating expenses for the quarter were $319.8 million, or 18.9% of revenue, up from last quarter at $265 million. R&D spending came in at $216.7 million, or 12.8% of revenue, up from $164.6 million in the last quarter.
+
+This primarily reflected increased headcount and higher new product introduction costs in the period. Sales and marketing expense was $85.1 million, or 5% of revenue, compared to $83.7 million last quarter, with a double-digit percentage increase of headcount in the quarter versus the prior year.
+
+Our G&A costs came in at $18 million, or 1.1% of revenue, up from last quarter at $16.7 million. Our operating income for the quarter was $785.6 million, or 46.5% of revenue. Other income and expense for the quarter was a favorable $70.9 million, and our effective tax rate was 21.5%.
+
+This resulted in net income for the quarter of $672.6 million, or 39.8% of revenue. Our diluted share number was 319.9 million shares, resulting in a diluted earnings per share number for the quarter of $2.10, up 32.9% from the prior year.
+
+Turning to the balance sheet, cash, cash equivalents, and investments ended the quarter at $6.3 billion. In the quarter, we repurchased $172 million of our common stock at an average price of $282.20 per share. Of the $172 million, $82 million was repurchased under our prior $1 billion authorization, which is now complete, and the remaining $90 million was purchased under the new program of $1.2 billion approved in May of 2024. The actual timing and amount of future repurchases will be dependent upon market and business conditions, stock price, and other factors.
+
+Now, turning to operating cash performance for the second quarter, we generated $989 million of cash from operations in the period, reflecting strong earnings performance with a favorable contribution from working capital. DSOs came in at 66 days, up from 62 days in Q1, impacted by large service renewals at the end of the quarter. Inventory turns were 1.1x, up from one turn last quarter. Inventory decreased to $1.9 billion in the quarter, down from $2 billion in the prior period, reflecting a reduction in our raw materials inventory.
+
+Our purchase commitments and inventory at the end of the quarter totaled $4 billion, up from $3.5 billion at the end of Q1. We expect this number to stabilize as supplier lead times improve, but we'll continue to have some variability in future quarters as a reflection of demand for our new product introductions.
+
+Our total deferred revenue balance was $2.1 billion, up from $1.7 billion in Q1. The majority of the deferred revenue balance is services related and directly linked to the timing and term of service contracts, which can vary on a quarter-by-quarter basis. Our product deferred revenue increased approximately $253 million versus last quarter.
+
+As a reminder, we expect 2024 to be a year of new product introductions, new customers, and expanded use cases. These trends may result in increased customer trials and contracts with customer-specific acceptance clauses and increase the variability and magnitude of our product deferred revenue balances.
+
+Accounts payable days was 46 days, up from 36 days in Q1, reflecting the timing of inventory receipts and payments. Capital expenditures for the quarter were $3.2 million. As we enter the second half of fiscal year 2024, we are encouraged by the momentum that we see in the market. Our existing innovative product portfolio, along with our new product introductions, are well-suited for our cloud, AI, enterprise, and providers customers. We will continue to invest in our R&D and go-to-market through both people and processes.
+
+With all of this as a backdrop for fiscal year '24, our revenue growth guidance is now at least 14%. Gross margin outlook remains at 62% to 64%. And operating margin is now raised to approximately 44%. Our guidance for the third quarter based on non-GAAP results and excluding any non-cash stock-based compensation impacts and other non-recurring items is as follows.
+
+Revenues of approximately $1.72 billion to $1.75 billion, gross margin of approximately 63% to 64%, and operating margin at approximately 44%. Our effective tax rate is expected to be approximately 21.5% with diluted shares of approximately 321 million shares.
+
+With that, I now turn the call back to Liz. Liz?
+
+Liz Stine{BIO 22543302 <GO>}
+Thank you, Chantelle. We will now move to the Q&A portion of the Arista earnings call. To allow for greater participation, I'd like to request that everyone please limit themselves to a single question. Thank you for your understanding. Operator, take it away.
+
+Questions And Answers
+Operator
+(Question And Answer)
+
+We will now begin the Q&A portion of the Arista earnings call. (Operator Instructions). Our first question comes from the line of Michael Ng with Goldman Sachs. Please go ahead.
+
+Q - Michael Ng{BIO 18285376 <GO>}
+Hi, good afternoon. Thank you for the question. As we head into next-generation GPUs with Blackwell and the MVL-3672, there's been some discussion about whether these systems may be less modular in some of its components, particularly for backend networking.
+
+I was just wondering if you could share your views and provide some clarity on the vendor modularity of Blackwell, particularly as it relates to networking, and how that might affect Arista's positioning over the next couple of years, if at all. Thank you very much.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Sure. Michael, I think as the GPUs get faster and faster, obviously the dependency on the network for higher throughput is clearly related, and therefore our timely introduction of these 800 gig products will be required, especially more for Blackwell.
+
+In terms of its connection and modularity with NVLink and 72-port network, there's always been a market for what I call scale-up, where you're connecting the GPUs internally in a server, and the density of those GPUs connecting in in the past has been more PCIe and it's Excel and now NVLink, and there's a new consortium now called UAL that's going to specify that. I believe eventually, by the way, even there, Ethernet will win. And so, that density depends more on the AI accelerator and how they choose to connect. As I've often said, it's more robust technology.
+
+So eventually, where Arista plays strongly, both on the front end and back end, is on the scale-out, not on the scale-up. So independent of the modularity, whether it's a rack-based design, a chassis, or a multiple RU, the ports have to come out Ethernet, and those Ethernet ports will connect into scale out switches from Arista.
+
+Q - Michael Ng{BIO 18285376 <GO>}
+Great. Thank you, Jayshree.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you, Michael.
+
+Operator
+Our next question comes from the line of Aaron Rakers with Wells Fargo. Please go ahead.
+
+Q - Aaron Rakers{BIO 6649630 <GO>}
+Yes. Thank you for taking the question. I guess the metric that stands out to me the most is the deferred revenue balance up, looks like 95% in total year-on-year. And it looks like you, based on what you disclosed, it looks like you're now at about $520 million of product deferred.
+
+On the product deferred line, can you help us appreciate, how do we think about that number? Is that related to these AI opportunities? Just the cadence of how we should expect the revenue recognition from that, again, being looks like almost 60% above what was previously the peak level of product deferred.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yes. No, good question, Aaron. Let me start generically, and, of course, I'll hand to my CFO Chantelle here.
+
+Product deferred sort of ebbs and flows. It goes in, it comes out. And it's particularly high when we have a lot of new product and new use cases. But it's not extraordinary to see us running a high product deferred in one quarter or in one year and then dipping down. So, the long term is consistent. The short-term can ebb and flow. You want to say a few words on that?
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yes. Thank you, Jayshree. The only thing I would add to that is that, the deferred balance is always a mix of customers and use cases. So I wouldn't rotate on any one particular intersection of those. It really is a mix of those combined.
+
+Q - Aaron Rakers{BIO 6649630 <GO>}
+Okay. Thank you.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, Aaron.
+
+Operator
+Our next question comes from the line of Meta Marshall with Morgan Stanley. Please go ahead.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great. Thanks. Jayshree, last quarter, you had mentioned kind of four major AI trials that you guys were a part of. Obviously, you guys, or Ashwin listed off a list of kind of the four wins that you had during the quarter. Just trying to get a sense of maybe if that Tier 2 win was a part of those AI trials or just any update on where those four AI trials stand or what the current count of AI trials is currently. Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yes. No, I'm going to speak to it and then I want to turn it over to Ashwin since he's here with us.
+
+First of all, all four trials are largely in what I call cloud and AI titans. A couple of them could be classified as specialty providers as well, depending on how they end up. But those four are going very well. They started out as largely trials. They're now moving into pilots this year, most of them.
+
+And with any luck next year, maybe we won't be saying four out of five and we can say five out of five. That's my hope, anyway. But in addition to that, we have 10s of smaller customers who are starting to do AI pilots. And Ashwin, you've been smack in the middle of a lot of those. Maybe you want to speak to that a little bit.
+
+A - Ashwin Kohli{BIO 21410008 <GO>}
+Yes. Absolutely, Jayshree. Hi, Meta. So, just wanted to clarify the example that I shared with you was more around a Tier 2 cloud provider. And if I take a step back, the types of conversations my team is having with customers is either around general purpose enterprise customers, or it's around Tier 2 cloud providers, which are different to the ones she's referring to.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, and they tend to be early adopters.
+
+A - Ashwin Kohli{BIO 21410008 <GO>}
+Absolutely.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+They're about to build an AI cluster. It's a reasonably small size, not classified in 1,000 or 10,000s, but you've got to start somewhere. So they started about a few hundred GPUs, would you say?
+
+A - Ashwin Kohli{BIO 21410008 <GO>}
+Absolutely, yes.
+
+Q - Meta Marshall{BIO 18728692 <GO>}
+Great. Thank you.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, Meta..
+
+Operator
+Our next question comes from the line of Atif Malik with Citi. Please go ahead.
+
+Q - Atif Malik{BIO 15866921 <GO>}
+Hi, thank you for taking my question. Jayshree, you mentioned a $70 billion TAM number in your prepared remarks. Can you help us understand what is in that TAM, and how does that relate to the $750 million AI networking revenue number you have provided for next year?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, I get asked that question a lot. First of all, the TAM is far greater than the $750 million we've signed up for. And remember, that's early years. But that TAM consists of our data center TAM, our AI TAM, which we count in a more narrow fashion as how much of InfiniBand will move to ethernet on the back end. We don't count the AI TAM that's already in the front end, which is part and parcel of our data center.
+
+And then, obviously, there's the campus TAM, which is very, very big. It's north of $10 billion. And then there's the wide area and routing. So these four are the building blocks that I call the campus center, data center, AI center, and WAN center. And then layered upon that is some very nice software. If you saw, we had a nice bump in software and service renewals this quarter, which would be largely centered around CloudVision, observability, and security.
+
+So, I would say these are the four building blocks, and then the three software components on top of it. Of course, not to forget the services and support that are part of these TAMs as well.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Thank you, Atif.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you, Atif. Next question.
+
+Operator
+Our next question comes from the line of Antoine Chkaiban with New Street Research. Please go ahead.
+
+Q - Antoine Chkaiban{BIO 21142044 <GO>}
+Hi. I'd like to ask about the non-AI component of your cloud and AI segment. What can you tell us about how investments in traditional infrastructure are trending? Because we heard from other vendors that the inventory digestion is now easing. So are you seeing that too?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+We saw that last year. We saw that there was a lot of pivot going on from the classic cloud, as I like to call it, to the AI in terms of spend. And we continue to see favorable preferences to AI spend in many of our large cloud customers. Having said that, at the same time simultaneously, we are going through a refresh cycle where many of these customers are moving from 100 gig to 200 gig or 200 gig to 400 gig. So while we think AI will grow faster than cloud, we're betting on classic cloud continuing to be an important aspect of our contributions.
+
+Operator
+Our next question will come from the line of Amit Daryanani with Evercore. Please go ahead.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Good afternoon, and thanks for taking my question. I guess just a question related to the updated '24 guide, and I realize it's at least 14% growth for the year. But your compares actually get much easier in the back half of the year versus what you've had in the first half. So, just from an H2 versus H1 basis, is it reasonable to think that growth can actually accelerate for you in the back half of the year? And if it does, then what do you think it does not accelerate in the back half? Thank you.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yes. I think that Jayshree and I came to this guide of at least 14% because we do see multiple scenarios as we go through the second half of the year. We do expect to continue to see some acceleration in growth. But, I would say that from the perspective of the forward scenarios, we were comfortable with at least 14%, and we'll come back at Q3 and see where we're going to guide for the rest of the year.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Amit, look at us. We're known to be traditionally conservative. We went from 10% to 12%, 12% to 14%, and now my CFO says at least 14%. So, let's see how the second half goes. But I think at this point, you should think we are confident about second half, and we're getting increasingly confident about 2025.
+
+Q - Amit Daryanani{BIO 7113568 <GO>}
+Perfect. Thank you.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you.
+
+Operator
+Thank you. Our next question comes from the line of Tal Liani with Bank of America. Please go ahead.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Was it me, by the way?
+
+Operator
+Tal, your line --
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Good. Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Tal, are you there?
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Yes. Can you hear me?
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yes.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yes.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Okay. My question is more in line with kind of the previous question. I calculated the implied growth in the fourth quarter, and I'm getting a much lower growth in the fourth quarter than what we've seen this quarter or next quarter. And I'm wondering if it's -- you said conservatism in the last answer, and the question is, is it just conservatism, or is there anything special with the fourth quarter that the implied growth is only 9% year-over-year?
+
+And it goes across everything. It goes the implied growth, revenue growth is lower, the gross margin is lower. Some of it is conservatism, but is there anything special with 4Q timing of recognition or seasonality or anything that drives a lower implied guidance?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Tal, if you go back to November Analyst Day, to call our gross margin lower, I would disagree, because I think we're just blowing it off. Our guide was 63% to 64%, and we have now shown two quarters of amazing gross margin. Hats off to my campus and John McCool, Alex, and the entire team for really working on disciplined cost reductions.
+
+But yet, if you look at mix in general, the costs and et cetera, I would say you should plan on our gross margins being as we projected. They're not lower. I think we just did exceptionally well the last two quarters, so it's relatively lower. That's the first thing.
+
+Second, in terms of growth, I would say we always aim for double-digit growth. We came in with 10% to 12%. And again, Q2 is just an outstanding quarter. I don't want you to use it as a benchmark for how Q3, Q4 will be. But of course, we're operating off large numbers. We'll aim to do better, but we'll have more visibility as we go into Q3 and we'll be able to give you a good sense of the year.
+
+Q - Tal Liani{BIO 1643846 <GO>}
+Got it. Thank you.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, Al.
+
+Operator
+Our next question comes from the line of George Notter with Jefferies. Please go ahead.
+
+Q - George Notter{BIO 23397388 <GO>}
+Hi, guys. Thanks very much. I guess I was just curious about what your expectations were coming into the quarter for product deferred revenue. I guess I'm curious how much you thought would be added to that product deferred category in Q2. And then also, do you have a view on product deferred revenue for Q3? Thanks.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yeah, hi. Nothing's changed in our philosophy that we don't guide product deferred revenue, so there's nothing new there to report. I would say in the sense of coming to this quarter. We don't guide the product deferred revenue. We have an idea in the sense of where we're going to land as we go through the quarter, but I would say that it met expectations from what we were having in our planning forecast process.
+
+Q - George Notter{BIO 23397388 <GO>}
+Got it. And I assume these are new products you've shipped to customers, you're waiting for customer acceptance. Any sense for when those customer acceptances might start to flow through? Is that a 2024 event? Is that a 2025 event? How do you think about it?
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yeah, they all have different timings because they're unique to the customer, the use case, AI, classic cloud, et cetera. So they're all unique and bespoke that way. So there's no set trending on that. And so as we roll through the quarters, they'll come off as they get deployed and then that's where it will land from a forecasting perspective.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+And I think it's fair to say if it's AI, it takes longer. If it's classic cloud, it's shorter.
+
+Q - George Notter{BIO 23397388 <GO>}
+Great. Okay, thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Thanks, George.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you.
+
+Operator
+Our next question comes from the line of Samik Chatterjee with JPMorgan. Please go ahead.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Hi, thanks for taking the question and strong results here. But if I can just ask question on the commentary that Ashwin had in the prepared remarks. Ashwin, you mentioned the Tier 2 customer where you're refreshing the front end as I sort of interpreted it to alleviate some of the bandwidth sort of concerns from the backend. How do you think about that opportunity across your customer base, particularly how should we think about sort of that as being attached to the $750 million target for backend revenues that you have for next year? Just help us think about the opportunity that you're seeing with your customers on that side.
+
+A - Ashwin Kohli{BIO 21410008 <GO>}
+Yes, Samik. It's hard to say, right? I mean, I don't want to attach the $750 million back to this one customer, right? The goal around this one customer was to demonstrate our wins in enterprise and, in the non-cloud space. But outside that, it would be very hard to go translate that to what's happening within the $750 million, right? I don't know Jayshree if you've got any comments around that at all.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, I was just going to add that there are four things Ashwin and the team are seeing in the enterprise and provider sector. I think the migration to 100 gig data center is pretty solidly going on. If anybody's still on a 10 and 40, they're definitely not an early adopter of technology. And some of them are even moving to 400 gig, I would say, right?
+
+A - Ashwin Kohli{BIO 21410008 <GO>}
+Absolutely, Jayshree.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+So that's on the data center. Campus, I know in general is a slow market, but for Arista, we are still seeing a lot of desire. And you heard Ashwin talk about a campus win, but they're really frustrated and they're struggling with existing campus deployments. So we feel really good about our $750 million target for next year.
+
+The routed WAN, again, we're both in tier two and service providers and even in enterprises, a lot of activity going on there. And finally, the AI trials you talked about, they tend to be smaller, but it's a representation of the confidence the customer has. They may be using other GPUs, servers, et cetera, but when it comes to the mission critical network, they've recognized the importance of best of breed, reliability, availability, performance, no loss, and the familiarity with the data center is naturally leading to pilots and trials on the AI side with us.
+
+Q - Samik Chatterjee{BIO 15496543 <GO>}
+Thank you.
+
+Operator
+Our next question comes from the line of Karl Ackerman with BNP Paribas. Please go ahead.
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+Yes, thank you. So there are several data points across the supply chain that indicate enterprise networking and traditional server units are beginning to recover. I was hoping you might discuss what you are hearing from your enterprise and service provider customers on their commitment to upgrade their servers and networking gear the next couple quarters. And as you address that, perhaps you could discuss the number of new customers being added into these verticals over the last couple quarters out of the 10,000 or so that you have today. Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, let me take the second question. I think we are adding systematically, we celebrated the 10,000. And so because of, in the past, we used to add large numbers of customers. Now we're adding many small customers who are pleased with the systematic add of hundreds of customers every quarter. And that's going very, very well. On the -- what was your former question?
+
+Q - Karl Ackerman{BIO 19693285 <GO>}
+How to think about the adoption or the growth of server and networking gear on campus environments and what you're seeing there.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Okay. So perhaps it may come as a surprise to you, but servers aren't always related to campus. Devices and users are much more related to campus, right? Servers tend to be dealing with more data center upgrades.
+
+So in the campus, we're tending to see two things right now. Greenfield buildings that are, they're planning for '25, '26, and we're smack in the middle of those RFPs. Or they're trying to create a little oasis in the desert and prove that our post-pandemic campus is much better with a leaf spine topology, wired wireless connecting to it as leaf, and then enabling things like zero-touch automation, method segmentation, capabilities, analytics, et cetera.
+
+So, the campus is really turning out to, in a somewhat sluggish overall market, we are finding that our customers are very interested in modernizing their campus. And again, it has a lot to do with their familiarity with us in the data center, and that's translating to more success in the campus.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, Tal.
+
+Operator
+Our next question comes from the line of Ben Bollin with Cleveland Research. Please go ahead.
+
+Q - Benjamin Bollin
+Good evening, everyone. Thanks for taking the question. Jayshree, I'm interested, bigger picture, as you think about backend network architectures gradually capturing more of the traditional front end, what do you think that looks like over the next several years? How quickly could that become a more realistic opportunity to capture more of that true fabric of overall compute resources?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Well, I think there are a lot of market studies that point to today it's still largely InfiniBand. You remember me, Ben, saying we were outside looking in just a year ago. So step one is we're feeling very gratified that the whole world, even Infiniband players, have acknowledged that we're making ethernet great again. And so I expect more and more of that backend to be ethernet.
+
+One thing I do expect, even though we're very signed up to the $750 million number, at least $750 million, I should say, next year, is it's going to become difficult to distinguish the backend from the frontend when they all move to ethernet.
+
+So this AI center, as we call it, is going to be a conglomeration of both the front and the back. So if I were to fast forward three, four years from now, I think the AI center is the super center of both the frontend and the backend. So we'll be able to track it as long as there's GPUs and strictly training use cases.
+
+But if I were to fast forward, I think there'll be many more edge use cases, many more inference use cases, and many more small-scale training use cases, which will make that distinction difficult to make.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you, Ben.
+
+Operator
+Our next question will come from the line of Alex Henderson with Needham. Please go ahead.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+Great. Thank you very much. I was hoping we could talk a little bit about the spending biases in the cloud titans. Clearly, there's an enormous amount of spending going into the AI frontend, backend networking elements as well as the GPUs. But there is a rebounding growth rate of application, that is ultimately driving the traditional business that has historically been called the CPU side of the data center. And I'm wondering if they're under-investing in there and that there is going -- Whether there's a potential for a catch-up in the spending in that area at some juncture because of the over-bias to AI, or whether that investment is ongoing at a reasonable rate, consistent with a moderate acceleration in the application growth.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Alex, it's a very thought-provoking question. I would say there's such a heavy bias towards -- in the cloud titans towards training and super-training and the bigger and better the GPUs, the billion parameters, the open AI, ChatGPT, and LLaMa's that you're absolutely right that at some level, the classic cloud, what you call traditional, I'm still calling classic, is a little bit neglected last year and this year.
+
+Having said that, I think once the training models are established, I believe this will come back and it'll sort of be a vicious cycle that feeds on each other. But, at the moment, we're seeing more activity on the AI and more moderate activity on the cloud.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+Does the re-acceleration of application growth, exclusively in the AI, play into that? I mean, clearly does, they were clearing out --
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+I think it does. I don't know how to measure it, but I think the more AI backend we put in, we expect that to have a pressure on the frontend of X percent. We're still trying to assess whether that's 10%, 20%, 30%, and so we do not count that in our $750 million number, to be accurate, to only GPU-native connections. But absolutely, as the two holistically come together to form this AI center, I believe the frontend will have pressure.
+
+Q - Alex Henderson{BIO 1498629 <GO>}
+Great. Thank you so much and thanks for the great quarter.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Thank you, Alex. Appreciate your support.
+
+Operator
+Our next question comes from the line of Ben Reitzes with Melius Research. Please go ahead.
+
+Q - Jack Adair{BIO 1766290 <GO>}
+Hi, Jayshree and Chantelle. This is Jack Adair for Ben. Congrats on the good quarter. We were wondering if you could comment on the competitive environment and if you're seeing Spectrum-X from NVIDIA, and if so, how you're doing against it.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah. But first, I just want to say, when you say competitive environment, it's complicated with NVIDIA because we really consider them a friend on the GPUs as well as the NICs, so not quite a competitor. But absolutely, we will compete with them on the Spectrum Switch. We have not seen the Spectrum except in one customer where it was bundled. But otherwise, we feel pretty good about our win rate and our success for a number of reasons. Great software, portfolio products and architecture that's proven, performance, visibility features, management capabilities, high availability. And so I think it's fair to say that if a customer were bundling with their GPUs then we wouldn't see it. If a customer were looking for best of breed, we absolutely see it and win it.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks Jack.
+
+Q - Jack Adair{BIO 1766290 <GO>}
+Thank you for that.
+
+Operator
+Our next question will come from the line of James Fish with Piper Sandler. Please go ahead.
+
+Q - James Fish{BIO 1702722 <GO>}
+Thanks for the question. Just wanted to circle back on the enterprise side of things. I guess, is there a way to think about how many replacements you're seeing relative to prior periods? And really I'm trying to understand if we're starting to see that core enterprise data center network refresh actually pick up versus kind of the share gains that you guys have historically seen.
+
+And is there an underlying change in enterprise customer behavior, whether it's for the data center or, Jayshree I know you were talking about the campus earlier.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yes, James. Let me talk, and Ashwin, I'm sure you have more to add since you're closer to the problem. I believe we have three classes of enterprise customers. The early adopters, and I think in that category, Ashwin's team is seeing a lot of refresh going. They already have 100 gig and they're potentially planning their 400 gig, right?
+
+Then the fast followers, and those guys I think are still looking at 100 gig migrations, right? And then the real risk averse, and we're still getting to know them because this is an untapped opportunity for us, right? And probably a fourth category where some of them are disillusioned with the public cloud and want to repatriate some of their workloads back into the data center.
+
+So I would say there's activity in all four, no saturation, still a lot of opportunity for us, largely in the speed upgrades and also in the class of customers and what stage they are. Ashwin, you want to add anything to that?
+
+A - Ashwin Kohli{BIO 21410008 <GO>}
+Yes, sure, Jayshree, right? And so to answer your question from what I'm seeing from customers, they're kind of fed up with being deployed in the data center specifically, something which is proprietary lock-in, right? Something which does not give them the flexibility to do, join multiple use cases such as data center, campus routing, and they want something that just works.
+
+They want something that is just simple. They want to make sure that when they wake up in the morning, the network is not down. And so Arista today actually has a brand, it has a value for there, and we've actually been delivering this for the last 10 plus years.
+
+So, James, I would say the message is echoing successfully in our existing customers who are taking Arisa not only in the single use case of data center, but expanding that across data center, campus, routing, WAN, and then the team is eagerly working with a new set of global 2,000 and Fortune 500 customers to go evangelize the message to them as well.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, James.
+
+Operator
+Our next question will come from the line of Ittai Kidron with Oppenheimer. Please go ahead.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Thanks, nice numbers ladies. I wanted to go back to gross margin, Jayshree and Chantelle, if you don't mind. In your prepared remarks, you talked about manufacturing efficiencies, cost reduction. I guess I'm wondering why is that not something that carries forward to the next quarter as well? I understand you're trying to be conservative, but I'm sure these are not changes that have a very short lifespan that they can carry forward. So why not be a bit more optimistic on what the gross margin outlook should be?
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yeah, no, it's a great question. And so, our goal is always to try to do better than our guide, but within that guide, the question is there's mostly what's influencing the second half consideration is the expected mix of customers. As you can appreciate, we do have different mixes depending on the demographics of who we're selling to. So I think that's a big part of our second half, why we kept the guide as it is. We will keep looking for variable cost productivity and cost management as we go through and hope to deliver more. But at this point in time, what's mostly built into it is the mix assumption in the second half.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+And if you look at, this isn't just this quarter, John and the team have done a fantastic job for the last year. So yeah, I'm going to go back to them and ask for more, but I think they will say they've done so much, you might be squeezing blood out of a stone. So we'll see if they respond to more cost reductions. But I absolutely agree with Chantel. It's largely driven by mix and I think we've taken a lot of the cost reductions out in the last year.
+
+Q - Ittai Kidron{BIO 5557426 <GO>}
+Appreciate it.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thank you.
+
+Operator
+Our next question will come from the line of Simon Leopold with Raymond James. Please go ahead.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thank you very much. I know that you typically hold off on the 10% customer disclosures until the end of the fiscal year. But what I'm hoping to gather is how customer concentration may be evolving from comparison to last year. Do you expect with your past customers growing, they're spending so much that it stays similar? Or with the diversity and the new opportunities, the concentration you've had historically declined? Any kind of indication you could offer? I'd appreciate it.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+I mean, I'll try, but you're right to say that we don't know. It's only half the year. I expect both Microsoft and Meta to be greater than 10% customers for us. I don't expect any other 10% concentration.
+
+Now, in Microsoft and Meta, how they will pivot to AI and how they will reduce the spend and all of that things, that movie will play out in the next six months. So we'll know better. But at this point, I think you can assume they won't be exactly the same. Some may go up, some may go down. But these are two extremely vital customers, strategic customers. We co-develop with them, we partner with them very, very well. And we expect to do well with them, both in cloud and AI, depending on their priorities, of course.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+And does the pipeline suggest you can have new 10% customers next year, or do you expect sort of a similar concentration next year?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+We're not aware of any customer that'll approach 10% this year or next year.
+
+Q - Simon Leopold{BIO 4081594 <GO>}
+Thank you very much.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Sure, Simon.
+
+Operator
+Our next question comes from the line of Tim Long with Barclays. Please go ahead.
+
+Q - Timothy Long{BIO 19664561 <GO>}
+Thank you. Maybe we'll go over to the software services since the AI stuff's been beaten up a little bit here.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Thanks, Tim.
+
+Q - Timothy Long{BIO 19664561 <GO>}
+Yes. In a good way, in a good way. You talked about some of the software capabilities. It seems like Arista might be leaning in a little bit more to this revenue line. It's been growing faster than the hardware product the last multiple quarters. So could you talk about kind of sustainability of that strength focus that you guys have on this service software area and what that would mean to growth rate going forward? Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yes, thank you. Thank you for the change in question. I appreciate that. I think we will be in the teens for some time because there are three building blocks. And a lot of this, Ashwin, you know very well. There's the services building block that as product goes up, there's a lot of pressure on us and on a percentage of service to be lower, right? So that, while it may, , historically has been in the teens, can be lower.
+
+Then the second one is our perpetual software, which again is a strong function of use cases, particularly things like routing, et cetera, where we've done very, very well. The stronger we do there, the better we do there. An extension of that is CloudVision, which can be, is more a subscription service with CloudVision as a service, either network as a service or on the premise. So that's the second building block for us that's going strong.
+
+The one I want to point to a little more, which could help us, is the security and observability. You may know in May, we introduced the micro and macro segmentation. We also announced UNO, our unified network observability. And while this is new, Ashwin and I have great plans for that. And I think this could be a swing factor.
+
+As the services components may reduce over time, these new product components may increase. So 17 points, whatever percent it was, is a great number. And if it can consistently stay there, I'd be very proud, particularly as our numbers get larger.
+
+Q - Timothy Long{BIO 19664561 <GO>}
+Yes. Thank you.
+
+Operator
+Our next question comes from the line of Sebastien Naji with William Blair. Please go ahead.
+
+Q - Sebastien Naji{BIO 20272118 <GO>}
+Hey. Thanks for taking the question. And I'm sorry to bring you guys back to the AI conversation, but this one's a little bit more high level, I guess, we keep hearing about bigger and bigger AI clusters that are being built. And as Arista is, working on connecting these larger and larger clusters as they scale, I'm just wondering, does that impact your ability to capture more revenue? You've talked about 15% of CapEx, does that maybe change or go up or go down as these clusters that you're having to connect get bigger and bigger?
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah, no. So if you look at an AI network design, you can look at it through two lenses, just through the compute, in which case you look at scale up and you look at it strictly through how many processors there are. But when we look at an AI network design, it's number of GPUs or XPUs per workload. Distribution and location of these GPUs are important. And whether the cluster has multiple tenants and how it's divvied up between the host, the memory, the storage, and the wide area plays a role. Then the optimizations you make on the applications for the collective communication libraries for specific workloads, levels of resilience, how much redundancy you want to put in, active, link based, load balancing, types of visibility.
+
+So the metrics are just getting more and more, there are many more permutations and combinations. But it all starts with number of GPUs, performance, and billions of parameters, because the training models are definitely centered around job completion time.
+
+But then there's multiple concentric circles of additional things we have to add to that network design. All this to say, a network design centric approach has to be taken for these GPU clusters. Otherwise, you end up being very siloed. And that's really what we're working on. So it goes beyond scale and performance to some of these other metrics I mentioned.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, Sebastian.
+
+Q - Sebastien Naji{BIO 20272118 <GO>}
+Got it.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Operator, we have time for one last question, please.
+
+Operator
+Our final question comes from the line of David Vogt with UBS. Please go ahead.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Great. Thanks, guys, for squeezing me in. Maybe just to bring it back together, and maybe both for Jayshree and Chantelle, I guess what I'm trying to think through is this is your product introduction. You have a pretty strong ramp of AI likely next year. But does the guide imply that we're going to start to see a much bigger contribution in Q4 driven by the comments around NICs earlier and the gross margin discussion? Because I would imagine early in the stage of their life cycle, plus the fact that they're hyperscalers, they're going to be a relatively more modest gross margin profile at the beginning of the glide path versus the end of the glide path. So just any color there in terms of what Q4 might look like from an AI perspective relative to your expectations from a glide path perspective. Thank you.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yeah. Let me just remind you of how we are approaching 2024, including Q4, right? Last year, trials. So small, it was not material. This year, we're definitely going into pilots. Some of the GPUs, and you've seen this in public blogs published by some of our customers, have already gone from tens of thousands to 24,000 and are heading towards 50,000 GPUs. Next year, I think there will be many of them heading into tens of thousands aiming for 100,000 GPUs. So I see next year as more promising. Some of them might happen this year, but I think we're very much in the going from trials to pilots, trials being hundreds, and this year we're in the thousands.
+
+But I wouldn't focus on Q4, I'd focus on the entire year and say, yes, we've gone into the thousands. And I like Chantelle's term for this, glide path, right? So, we expect to be single-digit small percentages of our total revenue in AI this year, but we are really, really expecting next year to be the $750 million a year or more.
+
+A - Chantelle Breithaupt{BIO 22176833 <GO>}
+Yes. Yes, I think so. I completely agree, Jayshree. The only thing I would add to it is you have to think of the kind of the matrix we're working within. So we have cloud and enterprise customers, and we have very, very different scopes of readiness at those customers. So Q3, Q4, Q1, Q2 next year, they're all eligible for timing, for types, et cetera. So we just want to make sure that variability that I spoke to, my prepared remarks is understood in that context.
+
+A - Jayshree V. Ullal{BIO 1737637 <GO>}
+Yes. And simple things like power and cooling are affecting the ability to deploy in massive scale. So there's nothing magic about Q4, there's plenty magic about the year in its entirety and next year.
+
+Q - David Vogt{BIO 21761779 <GO>}
+Great. Thanks, Jayshree. Thanks, Chantelle. Thanks, Liz.
+
+A - Liz Stine{BIO 22543302 <GO>}
+Thanks, David. This concludes the Arista Networks second quarter 2024 earnings call. We have posted a presentation which provides additional information on our results, which you can access on the Investors section of our website.
+
+Thank you for joining us today, and thank you for your interest in Arista.
+
+Operator
+Thank you for joining, ladies and gentlemen. This concludes today's call. You may now disconnect.

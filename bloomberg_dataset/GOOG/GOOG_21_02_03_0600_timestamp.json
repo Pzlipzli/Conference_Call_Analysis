@@ -1,0 +1,260 @@
+[
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thank you. Good afternoon, everyone, and welcome to Alphabet's fourth quarter twenty twenty earnings conference call. With us today are Sundar Pichai, Philip Schindler and Ruth Peratt. Now I'll quickly cover the Safe Harbor. Some of the statements that we make today regarding our business, operations and financial performance, including the effect of the COVID-nineteen pandemic on those areas, may be considered forward looking and such statements involve a number of risks and uncertainties that could cause actual results to differ materially.",
+    "start": 30.31,
+    "end": 59.39
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "For more information, please refer to the risk factors discussed in our most recent Form ten Q filed with the SEC. Additional information will also be set forth in our upcoming Form ten ks filing for the year ended December thirty one, twenty twenty. During this call, we will present both GAAP and non GAAP financial measures. A reconciliation of non GAAP to GAAP measures is included in today's earnings press release, which is distributed and available to the public through our Investor Relations website located at abc. Xyzinvestor.",
+    "start": 60.030003,
+    "end": 95.56
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "And now, I'll turn the call over to Sundar.",
+    "start": 96.115005,
+    "end": 98.915
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Thank you, Jim, and good afternoon, everyone. Twenty twenty was a year unlike any other. We are proud that people continue to choose Google's products to stay informed, connected, and comforted during uncertain times. Being helpful to people in moments big and small is the foundation of everything we do. The past year also accelerated the shift to Cloud and adoption of online services.",
+    "start": 100.595,
+    "end": 127.265
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "This has profound implications for all companies and consumers, and we are pleased that so many trust us to help them make this transition. In particular, Google's products and support have been a lifeline for millions of small medium businesses hit hard by the pandemic. Today, I'll review some of the important work we have done this quarter across Google and Alphabet with a particular focus on our growing Cloud business, which we are breaking out as a separate segment for the first time. Then, I welcome to the call Google's Chief Business Officer, Philip Schindler, who many of you know from investor conferences and events. Philip will speak about partnerships, business and advertising trends in the Google services segment.",
+    "start": 127.825005,
+    "end": 171.05002
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "We've heard you'd appreciate more texture and detail there. Then Rut will go through the quarter in more detail. First, some highlights at Google. Since the pandemic began, our teams have built new features and products to help people and businesses. Now we are helping with the complex challenge of getting vaccines to billions of people around the world.",
+    "start": 171.21,
+    "end": 192.46501
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Vaccination locations have started to roll out in Google Search and Maps. Google Cloud's intelligent vaccine impact platform is helping authorities improve vaccine distribution and forecasting. We are providing substantial new ad grants to the CDC, the World Health Organization, and others to promote vaccine education. We're also making direct grants to organizations addressing racial and geographic disparities in vaccination access, plus opening up Google's facilities as vaccination clinics as needed. Elsewhere, in Maps, we added a new community feed in the Explore tab, and now you can track takeout and delivery orders when you book or order from Google Maps.",
+    "start": 193.27,
+    "end": 233.63
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "At YouTube, we are building products to help creators benefit from two important trends, live video and short form video. More than half a million channels live streamed on YouTube for the first time in twenty twenty, from artists performing in their living rooms to churches moving their services online. And videos in our new Shorts player are receiving three point five billion daily views. We are looking forward to expanding Shorts to more countries this year. Philip will dive into the work to support online commerce and our partners, but I want to call out our new Showcase product.",
+    "start": 234.615,
+    "end": 270.565
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "It's a billion dollar investment in partnerships with news publishers and I'm really excited about our progress here. We have now signed agreements with nearly four fifty publications, the majority of which are local and regional across a dozen countries including France, Germany, UK and Brazil. And last month, we announced a new global deal with Reuters as well as an agreement with one of the major French publishing associations to open access to new Showcase. We want to do more partnerships in more countries and will have more to announce in the weeks to come. Among other highlights, we also launched our reimagined Google Pay app, making it easier to organize finances and save money.",
+    "start": 270.805,
+    "end": 312.4
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "It's now used by over one hundred and fifty million people in thirty countries. In hardware, we recently closed our acquisition of Fitbit, which will improve our product pipeline and help make health and wellness accessible to more people. To all the Fitbit employees, welcome to Google. We have a great portfolio of products and I look forward to sharing more about our product plans. Now a closer look at Google Cloud.",
+    "start": 312.63998,
+    "end": 338.25
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "I'm very pleased with the progress here and as Rutul mentioned, we'll continue making disciplined investments to scale the business and improve profitability. Google Cloud delivered revenue growth of forty seven percent year over year, with GCP growth remaining meaningfully above the growth rate for Cloud overall. In addition, our backlog grew to nearly thirty billion dollars up from nineteen billion dollars in Q3, nearly all attributable to Cloud. We continue to invest strongly in the business given the momentum we are seeing. These investments in our go to market organization have helped us win larger deals, including several billion dollar deals in twenty twenty.",
+    "start": 338.89,
+    "end": 379.50504
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Deals over two fifty million dollars more than tripled in the same period. We're also seeing strong growth through our broad network of partners, with our channel partner ecosystem growing more than five times and indirect channel revenue more than doubling in the past two years. Our industry leading customer satisfaction, as identified in a recent report from IDC, is helping us drive significant expansion and net revenue retention with existing customers. Our products are mature and highly differentiated in many segments. In Infrastructure Cloud, our leadership in multi cloud and cyber security helped us win large data center and IT transformation deals with customers like Highmark Health and Vodafone, as well as cloud native leaders including Wayfair and Etsy.",
+    "start": 380.225,
+    "end": 430.215
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Our leading data and analytics cloud provides new customers such as Kyoto University Graduate School of Medicine and Healthcare and MercadoLibre in retail with the ability to analyze any data in real time across any cloud. Our industry solutions based on our AIML expertise have helped us win customers like Optus and Communications and Auto Group in retail. I'm also particularly excited to see us winning large transformations by bringing the entire breadth of Google's technology to customers. Yesterday, we announced our multi year partnership with Ford, which is using Google Cloud, Android, and other Google apps and services to transform their business. Google Workspace, the industry's only cloud native communication and collaboration solution, is helping companies meet their evolving hybrid workplace needs.",
+    "start": 431.01498,
+    "end": 484.55
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Workspace is driving innovation at many of the fastest growing companies. Additionally, this quarter, we expanded our partnership with SAP. They'll extend their usage of Google Cloud for their cloud solutions, including SAP Business Technology Platform to provide the best experience for our joint customers. Across the Alphabet portfolio, our investments in AI continue to drive progress. For example, DeepMind's AI pod Protein Folding Breakthrough will enable researchers to tackle new and difficult problems from fighting diseases to environmental sustainability.",
+    "start": 485.415,
+    "end": 521.805
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "Google's partnership with Mayo Clinic in developing AI systems that can help plan radiotherapy treatment. Waymo is now providing hundreds of fully autonomous rides per week and recently partnered with Daimler Trucks to develop fully autonomous trucks. To wrap up, last year I talked about our four big themes of helpfulness, trust, execution and sustainable value. These will continue to guide our strategic focus across the company in twenty twenty one and beyond. As we continue to advance our core information mission in products like Search, Maps and YouTube, keep people's information safe and secure, drive substantial advancements in AI over the next three years, and ensure we are the most effective place to work beyond COVID, all supported by sustainable long term businesses.",
+    "start": 522.365,
+    "end": 575.205
+  },
+  {
+    "speaker": "Sundar Pichai",
+    "text": "I want to thank our teams across Google and Alphabet for all of their work this quarter and throughout all of twenty twenty. Twenty twenty one gives us another chance to be helpful to people, businesses and communities. While there's hard work ahead, I'm profoundly optimistic about what we'll accomplish together. With that, I'll turn it over to Philip.",
+    "start": 575.92505,
+    "end": 596.23
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Thanks, Sundar, and good afternoon, everyone. It's great to be joining you today. We're pleased with Google services revenue of fifty two point nine billion dollars in the fourth quarter, which continued the significant rebound from the negative impact of COVID earlier in the year. Two trends drove the strong results across Search, YouTube and network advertising. Consumers continue to move more of their activity online and advertisers responded to the shift in consumer behavior by reactivating spend that they had paused earlier in the crisis.",
+    "start": 598.185,
+    "end": 627.49
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "In the fourth quarter, Retail was the largest contributor to the year on year growth of our Ads business. Tech, Media and Entertainment and CPG were also strong contributors. The trajectory of Search advertising over the past year demonstrates its responsiveness to consumer interest and needs and how marketers can quickly adjust their spending as circumstances change to focus on generating ROI for their businesses. In YouTube, Direct Response had a substantial year on year growth throughout the entire year including the fourth quarter. After a substantial pullback at the outset of the pandemic, brand spending began to recover in the third quarter.",
+    "start": 628.565,
+    "end": 662.21497
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "Marketers realized that even if there was a pullback in consumer demand in the short term, they needed to keep their brands in front of people to stay top of mind when spending picked back up. In the fourth quarter, we saw significant acceleration of brand spending on YouTube. Network revenues in the fourth quarter benefited from the same uplift in spend by advertisers, particularly in AdMob and Ad Manager. Google Other revenues were driven by growth in YouTube's non advertising revenues, primarily from subscriptions as well as by Google Play revenue growth. I now want to step back from the results of the quarter and quickly reflect on the generational shift to digital we've seen over the past year and what that means for our business.",
+    "start": 662.855,
+    "end": 701.14
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "First, dramatic changes to consumer behavior have fundamentally changed the way companies are doing business across many industries and geographies. Lufthansa or in German Lufthansa is a great example. Like many airlines, they needed more insight on where to fly at what capacity and how often as travel started to open up last year. Over the summer, we built a product called Flight Demand Explorer, which gave real time answers to these questions, helping them find demand and ramp up. Within two months, they tripled destination routes and got more than eighty planes back in the air, with many flights fully sold out within days.",
+    "start": 701.62,
+    "end": 736.48004
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We're putting real time insights into the hands of businesses and other verticals. In fact, we just launched a new insights page to give our advertisers the latest on ever changing search trends relevant to their business right inside of Google Ads. Petco was another great example as people adopted an unprecedented number of pets during shelter in place. It led to a spike in demand for pet supplies and Petco saw their curbside pickup services go through the roof. So, accelerated delivery and pickup options using search, shopping and local inventory ads and were able to drive one hundred percent increase in their e commerce business.",
+    "start": 737.04004,
+    "end": 769.71
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "And this is important, multi touch points like curbside pickup and pickup in store are in high demand and here to stay. We've seen huge year on year jumps in searches for available near me and curbside pickup. Retailers offering multi touch are benefiting from this trend and this offering sits squarely in our core capabilities with Maps and Search. Let me tell you about L'Oreal. They did a great job adapting to changes in shopping behavior by making a sharp pivot to e commerce and to TrueView.",
+    "start": 770.935,
+    "end": 798.44995
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "By making existing video creators more timely and actionable, their Kiehl's US brand drove record visits to their site from YouTube, 4x more per dollar. They also partnered with us to bring AR experience for their cosmetics across Google services, including YouTube and Search. I could go on and on. Companies are rapidly adapting. Next, I'd like to talk about how we are evolving our commerce strategy.",
+    "start": 799.115,
+    "end": 823.97003
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "We've taken significant steps to accelerate an open ecosystem for online retail that benefits businesses of all sizes from large online household names to your neighborhood store just around the corner. We've long said that we want to make Google the best place for users to start their shopping journeys regardless of where those journeys end. In the fourth quarter, the year over year growth rates in retail searches was more than three times the rate we had seen in the same period last year, driven in part by COVID. We also want to make Google the best place for merchants to connect with users regardless of whether transaction happens on our platform or theirs. Over the last twelve months, we grew our merchant community over eighty percent with significant growth in small and medium sized businesses.",
+    "start": 824.05005,
+    "end": 864.995
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "All of these merchants and their inventory will show up across Google including search, image search and YouTube. I want to close by talking about something that has been a principle of Google since our founding. We've always believed that the future of Google and the future of our partners are fundamentally linked. In fact, we built our business on revenue share models that support a broad range of partners, including large and small online publishers, individual YouTube creators broadcasting from their homes and global music labels, as well as Google Play developers of all sizes. We only succeed when our customers and partners succeed.",
+    "start": 865.395,
+    "end": 900.52
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "One number I think is worth by highlighting in this context. Over the past three years, we paid out nearly one hundred and forty billion dollars to our partners, from Google Play developers and publisher partners using our advertising services to YouTube creators, artists and media organizations around the world. Our performance is only possible because of our customers and partners. I want to thank them for their partnership, collaboration and feedback. Also want to thank our product, partnership, sales and many support teams for their tremendous work innovating to help our users, customers and partners succeed, especially through these difficult times.",
+    "start": 900.84,
+    "end": 936.08
+  },
+  {
+    "speaker": "Philipp Schindler",
+    "text": "I'll now hand off the call to Ruth.",
+    "start": 937.04,
+    "end": 938.63995
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Thank you, Philip. We are very pleased with our exceptional fourth quarter performance after an unprecedented year. For twenty twenty, total Alphabet revenues were one hundred and eighty three billion dollars up thirteen percent year on year or up fourteen percent in constant currency. With our new segment disclosures this quarter, I'll start with quarterly results at the alphabet level followed by segment results and conclude with our outlook. My focus will be on year on year comparisons for the fourth quarter unless I state otherwise.",
+    "start": 939.59503,
+    "end": 968.27997
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "For the fourth quarter, our consolidated revenues were fifty six point nine billion dollars up twenty three percent, which reflect broad based increases in advertiser spending in Search and YouTube within Google services, as well as ongoing strength in Google Cloud. Our total cost of revenues was twenty six point one billion dollars up twenty four percent, primarily driven by other cost of revenues, which was fifteen point six billion dollars and up twenty five percent. The biggest factors here were: first, content acquisition costs primarily driven by costs for YouTube's advertising supported content, followed by costs for subscription content and second, costs associated with data centers and other operations, including depreciation. Operating expenses were fifteen point two billion dollars down four percent. The year on year decline reflects the lapping of valuation based compensation charges in certain Other Bets in the fourth quarter of twenty nineteen, primarily in R and D, as well as the impact of actions taken earlier in the year as a result of COVID.",
+    "start": 969.345,
+    "end": 1038.42
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Each of the three components of OpEx also reflects our decision to slow headcount growth beginning late in the first quarter. Headcount was up three thousand one hundred and eighty from the third quarter. Again, the majority of new hires were engineers and product managers with continued aggressive investment in cloud for both technical and sales roles. Operating income was fifteen point seven billion dollars up sixty nine percent, and our operating margin in the quarter was twenty eight percent. Other income and expense was three billion dollars which primarily reflects unrealized gains in the value of investments in equity securities.",
+    "start": 1039.06,
+    "end": 1078.66
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Net income was fifteen point two billion dollars Operating cash flow was twenty two point seven billion dollars with free cash flow of seventeen point two billion dollars in the quarter and forty three billion dollars for the full year twenty twenty. We ended the fourth quarter with one hundred and thirty seven billion dollars in cash and marketable securities. Let me now turn to our segment financial results, starting with our Google Services segment. Total Google Services revenues were fifty two point nine billion dollars up twenty two percent. Each component of our advertising revenues reflects the return of advertiser spend in response to the continued movement of consumer activity online that Philip spoke about, including Google Search and Other advertising revenues of thirty one point nine billion dollars in the quarter, up seventeen percent YouTube advertising revenues of six point nine billion dollars up forty six percent, driven by a rebound not only in brand advertising but also ongoing strength in direct response.",
+    "start": 1079.3351,
+    "end": 1138.6449
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Network advertising revenues of seven point four billion dollars up twenty three percent. Other revenues were six point seven billion dollars up twenty seven percent, primarily driven by growth in YouTube non advertising and Play revenues. Within Play, app revenues in the fourth quarter continued to benefit from elevated levels of engagement, reflecting increases in active buyers and spend per buyer due to COVID. However, we did experience a deceleration in growth from the levels we saw in the third quarter. Google services operating income was nineteen point one billion dollars up forty one percent, and the operating margin was thirty six percent.",
+    "start": 1139.125,
+    "end": 1179.8699
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Turning to the Google Cloud segment, including GCP and Google Workspace. Revenues were three point eight billion dollars for the fourth quarter, up forty seven percent. GCP's revenue growth rate was again meaningfully above cloud overall. Strong growth in Google Workspace revenues was driven by growth in both seats and average revenue per seat. Google Cloud had an operating loss of one point two billion dollars essentially flat versus last year.",
+    "start": 1180.91,
+    "end": 1210.2699
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "As to our other bets, for the full year twenty twenty, revenues were six fifty seven million dollars primarily generated by Fiber and Verily, and reflect that most of our other bets are pre revenue. The operating loss was four point five billion dollars for the full year twenty twenty versus an operating loss of four point eight billion dollars in twenty nineteen. Let me end with our outlook for each segment and our investments more broadly. For Google services, we're encouraged by the increase in consumer online activity and the return of advertiser spend, as reflected in our Q4 results. Looking forward to twenty twenty one, year over year quarterly comparisons will be affected meaningfully by the impact of COVID last year, with easier comps in the first half, especially in Q2, and then lapping stronger performance in the second half.",
+    "start": 1211.15,
+    "end": 1265.3899
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "With respect to other revenues, with the closing of the Fitbit acquisition earlier this month, we will be reporting its revenues within Google Other. In terms of investment levels within Google services, late in the first quarter of twenty twenty, as a result of COVID, we made what we described as tactical adjustments to slow the pace of spend in certain categories. Given the ongoing uncertainty in the external environment, we maintained the discipline through the rest of twenty twenty. Looking forward, we do expect the pace of investment to increase to support the extraordinary opportunities we see given the usefulness of our products and services in this environment. The investment pace will ramp up over the course of the year.",
+    "start": 1265.87,
+    "end": 1313.455
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "As for Google Cloud, we have obviously been investing aggressively given the substantial market opportunity we see. Under Thomas Curian's leadership, we've further accelerated investment to strengthen the position of the business. For example, we are on track to meet our near term goal of tripling the size of the cloud direct sales force and have greatly expanded the partner channel. We have also substantially improved our product offering while rationalizing our approach to focus on our six key industry verticals. And we have invested in expanding our network of locations for compute capacity to support cloud, ending twenty twenty serving customers in twenty four regions and seventy three zones.",
+    "start": 1314.3351,
+    "end": 1358.2198
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "We're encouraged by the momentum in the growth of revenue and customer wins. We more than doubled revenues over the last two years from five point eight billion dollars in twenty eighteen to thirteen point one billion dollars in twenty twenty. Our backlog, which is nearly all attributable to cloud, nearly tripled from twenty nineteen to twenty twenty. Although increases in backlog do not directly correlate to revenue trends, the growth in backlog demonstrates the success Google Cloud is having with large enterprises, which are signing meaningful long term commitment agreements. Looking forward, we will continue to focus on revenue growth driven by ongoing investment in products and the go to market organization.",
+    "start": 1358.94,
+    "end": 1400.4149
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "Cloud's operating loss reflects that we have meaningfully built out our organization ahead of revenues, as we've discussed in prior quarters, with respect to the substantial investments in our go to market organization as well as engineering and technical infrastructure. Operating loss and operating margin will benefit from increased scale over time. In addition, we are focused on delivering on efficiency efforts across the board to contribute incrementally to profitability over time. Finally, as you can see from the historical data provided in the press release, Cloud's operating loss was higher in the first quarter relative to other quarters, and then the operating loss improves thereafter. We expect similar seasonality in twenty twenty one.",
+    "start": 1401.135,
+    "end": 1449.1799
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "In terms of Other Bets, we continue to invest with a focus on the long term value creation opportunity. On headcount, we plan to reaccelerate the pace of hiring in Google services in line with our opportunities. Our headcount growth will also reflect the addition of Fitbit and our ongoing transition of certain customer support roles from third party vendors to Google's in house operation centers. We also plan to continue to prioritize investment in both sales and technical roles for Google Cloud. Turning to CapEx.",
+    "start": 1449.8201,
+    "end": 1481.41
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "At the consolidated level, the year on year results this quarter again reflect a slower pace throughout twenty twenty of investment in office facilities. Within technical infrastructure, servers continued to be the largest driver of investment in the fourth quarter, followed by data centers. Looking ahead, we expect a return to a more normalized pace of ground up construction and fit out of office facilities, which translates into a sizable increase in CapEx in twenty twenty one. Servers will continue to be the largest driver of spend on technical infrastructure. Finally, a housekeeping point.",
+    "start": 1481.41,
+    "end": 1516.7749
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "As noted in our earnings press release, we have adjusted the estimated useful lives of servers and certain network equipment starting in twenty twenty one. We expect these changes will favorably impact our twenty twenty one operating results by approximately two point one billion dollars for assets as of year end twenty twenty. We look forward to the year ahead. Hope everyone stays safe. Thank you.",
+    "start": 1516.935,
+    "end": 1539.865
+  },
+  {
+    "speaker": "Ruth Porat",
+    "text": "And now Sundar, Philip, and I will take your questions.",
+    "start": 1539.865,
+    "end": 1542.745
+  },
+  {
+    "speaker": "Jim Friedland",
+    "text": "Thanks everyone for joining us today. We look forward to speaking with you again on our first quarter twenty twenty one call. Thank you and have a good evening.",
+    "start": 3036.455,
+    "end": 3044.2588
+  }
+]

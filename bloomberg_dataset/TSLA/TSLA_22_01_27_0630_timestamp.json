@@ -1,0 +1,1070 @@
+[
+  {
+    "speaker": "Martin Viecha",
+    "text": "Good afternoon, everyone, and welcome to Tesla's Fourth Quarter twenty twenty one Q and A Webcast. My name is Martin Viekasimia, Director of Investor Relations, and I'm joined today by Elon Musk, Zachary Kirkhorn and a number of other executives. Our Q4 results were announced at about three pm Central Time in the update deck we published at the same link as this webcast. During this call, we will discuss our business outlook and make forward looking statements. These comments are based on our predictions and expectations as of today.",
+    "start": 31.02,
+    "end": 59.08
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC. During the question and answer portion of today's call, please limit yourself to one question and one follow-up. Please use the raise hand button to join the question queue. But before we jump into Q and A, Elon has some opening remarks. Elon?",
+    "start": 59.48,
+    "end": 82.215
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Thanks Martin. So just to recap, twenty twenty one was a breakthrough year for Tesla and for electric vehicles in general. And while we battled and everyone did with supply chain challenges through the year, we managed to grow our volumes by nearly ninety percent last year. This level of growth didn't happen by coincidence. It was a result of ingenuity and hard work across multiple teams throughout the company.",
+    "start": 82.66,
+    "end": 105.674995
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Additionally, we reached the highest operating margin in the industry in the last White Deer report quarter at over fourteen percent GAAP operating margin. Lastly, thanks to five point billion dollars five point five billion dollars of GAAP net income in twenty twenty one, our accumulated profitability since the inception of the company became positive, which I think makes us a real company at this point. This is a critical milestone for the company. So after an exceptional year, we shift our focus to the future, Texas and Berlin. So we've begun production at both Texas and Berlin.",
+    "start": 106.235,
+    "end": 149.6
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We started that last quarter, but that's not the most important thing. We're focused more on when do you get to volume production and when can we deliver cars to customers. But I think it is worth noting that we and as the Internet has observed, we've been making quite a few cars in Texas and Berlin. So in Texas, building Model Ys with the structural battery pack and the four thousand six hundred eighty cells and we will start delivering after final certification vehicle, which should be fairly soon. Capacity expansion will continue.",
+    "start": 149.6,
+    "end": 189.355
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We're maximizing output of each factory and building new factories in new locations in the future. Although we're ready to announce any new locations on this call, but but we will, through twenty twenty two, look at new locations and probably be able to announce new locations towards the end of this year, I expect. So in twenty twenty two supply chain will continue to be the fundamental limiter of output across all factories. So the chip shortage while better than last year is still an issue. Yeah, so that's there are there are multiple supply chain challenges.",
+    "start": 189.83499,
+    "end": 234.16
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Last year was difficult to predict and hopefully this year will be smooth sailing, you know, I'm not sure what you do for an encore to twenty twenty one, twenty twenty. Nonetheless, we do expect significant growth in twenty twenty two over twenty twenty one, comfortably above fifty percent growth in twenty twenty two. Full self driving. So over time, we think full self driving will become the most important source of profitability for Tesla. Mean, actually, if you run the numbers on robo taxis, it's it's kind of nutty.",
+    "start": 236.32,
+    "end": 283.12003
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's it's nutty good from a financial standpoint. And I think we're completely confident at this point that it will be achieved. And my personal guess is that we'll achieve full self driving this year. Yeah. With with with data safety level significantly greater than than a person.",
+    "start": 285.28,
+    "end": 309.66
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So it it you know, the the the cars in the fleet essentially becoming self driving via software update, I think might might end up being the the biggest increase in asset value with of any asset class in history. We shall see. It will it will also have a profound impact on improving safety and on accelerating the world towards sustainable energy through vastly better asset utilization. Let's see. So on the product road map front, there's there's quite a lot to talk about.",
+    "start": 309.97998,
+    "end": 352.655
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I'm not gonna go through every sort of thing that we're working on because I think a lot of them deserve product launches of their own as opposed to a few minutes on an earnings call. So I'll talk kind of at a high level. Yeah, mostly at a high level. Fundamental focus of Tesla this year is scaling output. Both last year and this year, if we were to introduce new vehicles, our total vehicle output would decrease.",
+    "start": 356.56,
+    "end": 402.51498
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This is a very important point that I think people do not a lot of people do not understand. So last year we spent a lot of engineering and management resources solving supply chain issues, rewriting code, changing out chips, reducing the number of chips we need, that was chip drama central. And that was not the only supply chain issue. So there's just hundreds of things. And as a result, were able to grow almost ninety percent while almost every other manufacturer contracted last year.",
+    "start": 402.51498,
+    "end": 439.17
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So that's a good result. But if we had introduced say a new car last year, we would a total vehicle output would have been the same because of the constraints, the chips constraints particularly. So if we'd actually introduced an additional product that would then require a bunch of attention and resources on that increased complexity of the additional product resulting in fewer vehicles actually being delivered. And the same is true of this year. So we will not be introducing new vehicle models this year.",
+    "start": 439.57,
+    "end": 484.31497
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It would not make any sense. So we'll still be part constrained. We we will, however, do a lot of engineering and tooling whatnot to create those vehicles as the Cybertruck, Semi, Roadster, Optimus, and I'd be ready to bring those to production hopefully next year. That is most likely. But like I said, it is dependent on that are we able to produce more cars or fewer cars?",
+    "start": 484.31497,
+    "end": 525.61005
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So in in terms of priority of products, I think the the I think actually the most important product development we're doing this year is is actually the Optimus humanoid robot. This, think, has the potential to be more significant than the vehicle business over time. If you if you think about the economy, it is the foundation of the economy is labor. Capital equipment is the sold labor. So what happens if you don't actually have a labor shortage?",
+    "start": 526.17,
+    "end": 582.4
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I'm not sure what an economy even means at that point. That's what Optimus is about. So very important. See, Drew, do you wanna talk about the forty six eighty program? Sure.",
+    "start": 584.485,
+    "end": 606.76
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Or is this good by the right time? Sure.",
+    "start": 606.76,
+    "end": 609.0
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Yeah. Sure. So throughout twenty twenty one, we focused on growing cell supply alongside our in house forty six eighty effort, to provide us provide us flexibility, and insurance as we attempt to grow as fast as possible. As we sit today, cells from suppliers is actually sort of exceeds our other factory limiting constraints that you mentioned, Elon, in twenty twenty two.",
+    "start": 609.48004,
+    "end": 633.75
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Or to say differently, four thousand six hundred eighty cells are not a constraint to our twenty twenty two volume plans based on the information we have. But we are making meaningful progress up the ramp curve in Cato. We're building four thousand six hundred eighty structural packs every day, which are being assembled into vehicles in Texas. I was driving one yesterday and the day before. And we believe our first four thousand six and eighty vehicles will be delivered this quarter.",
+    "start": 633.75,
+    "end": 655.79
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Our focus on the sell, the pack, and the vehicles here is driving yield quality and cost to ensure we are ready for larger volumes this year as we ramp and next year. And the forty six eighty impact tool installations here at Giga Austin are progressing well with some areas producing first parts, and the Internet has also noticed",
+    "start": 655.94995,
+    "end": 676.185
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "that. Yeah.",
+    "start": 676.185,
+    "end": 677.465
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Was touring the factory the cell factory here. I'm I'm super pumped. It's it's like a really exciting accomplishment for us to bring everything into one awesome factory here in Texas.",
+    "start": 679.465,
+    "end": 691.95
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Absolutely. And and just to repeat Chris' point, we we are are still we still expect to be part or primarily chip limited this year. So that's the thing that's that's actually the the driver. Yeah. And that that chip limitation should alleviate next year.",
+    "start": 692.50995,
+    "end": 714.7
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And then probably we transition into a cell limitation, battery cell. It's, you know, total gigawatt hours of cell limitation, which is when the forty six eighty will become very important. Agreed. Thank",
+    "start": 715.18,
+    "end": 732.225
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "you very much. And now Zach has some opening remarks as well.",
+    "start": 733.425,
+    "end": 736.865
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The long opening opening remarks.",
+    "start": 738.145,
+    "end": 739.90497
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Thanks, Martin. As Elon mentioned, twenty twenty one was a financially transformative year for the company. If we look across the full year twenty twenty one and compare that to twenty twenty, our automotive gross margin excluding credits rose by over six hundred basis points enabled by work on cost reduction, utilization of our Shanghai factory for exports and accelerating demand. OpEx as a percentage of revenue reduced despite the impact of one time items and unique items and operating income more than tripled with operating margin reaching our guidance of mid teens and these margins are trending up.",
+    "start": 741.505,
+    "end": 779.28
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We also saw regulatory credits accounting for relatively small portion of our twenty twenty one profitability, which we expect to continue to reduce in materiality going forward. For Q4 specifically, automotive gross margin excluding credits increased to twenty nine point two percent, which is our highest yet. We do continue to see some impact of higher pricing on certain models and trims as was the case in prior quarters, but please keep in mind that due to backlogs, changes in pricing will generally impact our financials in future quarters. Supply chain challenges and port congestion resulted in a significant increase in our expedite costs in Q4. We also took reserves associated with warranty and recall costs.",
+    "start": 779.76,
+    "end": 823.105
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Operating expenses were meaningfully impacted by stock based compensation from the final two tranches of the CEO stock grant becoming probable and payroll taxes associated with the exercise of the twenty twelve CEO options. The total impact of these payroll taxes, warranty and recall costs, and excess expedites was just over seven hundred million dollars in the quarter. Our free cash flows have remained strong reaching record levels in Q4 of two point eight billion dollars despite increased CapEx. In addition to using cash to grow the business as quickly as we can, we have been retiring legacy and high interest debt. Note that we plan to continue to utilize the ABS market for product specific financing.",
+    "start": 824.065,
+    "end": 867.2
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "As we look forward, we expect twenty twenty two to be another significant and exciting year for the company. We continue to drive for vehicle volume growth at or above fifty percent as Elon mentioned and our plans show that this is actually achievable with just our Fremont and Shanghai factories. For quite some time now, these factories have been running below capacity due to macro challenges with supply and logistics. As Elon mentioned as well, from what we're seeing, the pace of growth in twenty twenty two will again be determined by supply chain and logistics, which is quite difficult for us to forecast. Despite these constraints, it's important to begin the ramp of Austin and Berlin to ensure that we are prepared once limitations ease enabling us to increase total output more quickly in the future.",
+    "start": 868.56,
+    "end": 911.245
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "This will result in higher fixed and semi variable costs in the near term in addition to the usual inefficiencies as we ramp a new factory. We are also seeing inflation and rising commodity prices which we expect to continue to put pressure on our costs. How this specifically impacts gross margins in the near term is uncertain given a mix of both tailwinds and headwinds. However, we do expect to continue to see stronger operating margins as we grow our volumes and improve operating leverage. Over a longer term horizon, we are quite optimistic about the expansion of margins though.",
+    "start": 911.805,
+    "end": 945.53503
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "From the hardware side, we are aggressively driving manufacturing innovations and operational efficiency to reduce cost. And with the rapid development of FSD, software based profits will ultimately become a strong addition to the profits generated by selling hardware. So congratulations to the Tesla team for a terrific twenty twenty one and thank you to our suppliers who supported us. Looking forward to another great year.",
+    "start": 945.695,
+    "end": 968.325
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I'd like to just second the thank you to Spires, a lot Spires work late nights, weekends, vacations around the world and we're very grateful for that.",
+    "start": 968.325,
+    "end": 981.15
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you very much. So let's go to the Q and A from the investor side. The first question was on four thousand six hundred eighty cells, which we already answered. So let's go to the second question. How is the progress of the twenty five thousand dollars compact car?",
+    "start": 983.23,
+    "end": 996.235
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Can you give an update?",
+    "start": 996.235,
+    "end": 997.435
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, we're not currently working on the twenty five thousand dollars car. At some point, we will, but we have enough on our plate right now. Too much on our plate, frankly. So yeah, at some point, there will be but but I think that's sort of a question that it's it's sort of the wrong question, really. It's the really, the thing that overwhelmingly matters is when is the car autonomous At the point which is autonomous, the cost of transport drops by, I don't know, a factor of four or five.",
+    "start": 1000.155,
+    "end": 1041.64
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question from investors is since we're talking product roadmaps today, how do you view domestic cooling and heating in the context of accelerating the sustainable energy transition? And how might Tesla's HVAC and heat pump advances fit it?",
+    "start": 1045.24,
+    "end": 1060.7549
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Want talk about that here?",
+    "start": 1062.0349,
+    "end": 1063.075
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. I think from a mission perspective, it's very aligned. If you imagine replacing natural gas, water, and space heaters with electric heat pumps, it offsets something equivalent to, like, eighty percent of what a solar plus Powerwall system would offset. So it's it's very impactful. And we have learned a lot about how to make capable and reliable heat pumps that work in all environmental conditions and are excited about the idea of working on that problem one day.",
+    "start": 1063.075,
+    "end": 1093.315
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Let me put it",
+    "start": 1093.715,
+    "end": 1094.195
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "that way. It's definitely aligned with our, mission to transition to sustainable accelerate the transition to sustainable energy.",
+    "start": 1094.195,
+    "end": 1100.84
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. I think it it really becomes quite a compelling solution, to the the consumer where you integrate electric vehicles charging solar, know, energy storage, hot water, HVAC in a very tight compact package. It also looks good. It just doesn't exist. The integration of those systems in a house That's large by the way.",
+    "start": 1101.16,
+    "end": 1134.07
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Integration of those systems",
+    "start": 1135.35,
+    "end": 1136.47
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "in a house are no different than the integration",
+    "start": 1136.47,
+    "end": 1138.55
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "of those systems in a vehicle.",
+    "start": 1138.55,
+    "end": 1139.67
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The only difference is we do it all in a vehicle.",
+    "start": 1139.67,
+    "end": 1141.985
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's way more",
+    "start": 1141.985,
+    "end": 1142.5449
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "than that vehicle. Then it's",
+    "start": 1142.5449,
+    "end": 1143.985
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "so constrained on mass and volume and energy it's like you get to the house you're like wow.",
+    "start": 1143.985,
+    "end": 1149.6649
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Kind of easy problem. Yeah. But you know obviously those systems are all just disparate, and and and what we've been doing with Powerwall and charging solar is integrating them more and more. The next logical step is obviously HVAC and and water and heating. So we will do that, and we will integrate it probably better than anyone has.",
+    "start": 1149.745,
+    "end": 1166.98
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But as you said, we have a lot",
+    "start": 1166.98,
+    "end": 1168.255
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "of stuff on our plate. Yeah. So And, obviously, it integrates with your your phone and your phone app and everything, and and then, like, the other car can you'd like to the house can just heat and cool things, but because now you're coming home Yeah. You know, type of thing. It sort of need to be, like, randomly that temperature when you're out there or, you know From the cat moves.",
+    "start": 1168.255,
+    "end": 1190.6799
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. The cat moves. Exactly. So just do sensible things and and just be work really well. I think it'd be just, you know, quite a game changer down the road.",
+    "start": 1190.6799,
+    "end": 1201.6049
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But we we we got a lot of fish frying on it, and so it is a thing we will do, but we're not committing to a timeframe at this point. And people should do it anyway. Yes, somebody else wants",
+    "start": 1203.445,
+    "end": 1213.62
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "to do it. Yes, please.",
+    "start": 1213.62,
+    "end": 1214.5801
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's super beneficial for achieving the goal here. Yes.",
+    "start": 1214.5801,
+    "end": 1218.66
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is, would you consider splitting FSD packages into perpetual and term licenses with a higher tier for both options for commercial use, a perpetual license that could be attached to individual or business and not the vehicle itself.",
+    "start": 1221.005,
+    "end": 1237.1
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "No, I mean, sounds maybe too complicated. We're just gonna focus on, like, what what solves for the fully considered lowest cost per mile kilometer of of driving. And these are the the the the so that's that's what matters. Like, how do we maximize the efficiency of getting people from one place to another, and then and then charge charge them in a sensible way. Including the charging infrastructure.",
+    "start": 1241.66,
+    "end": 1274.27
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "That's a big part of it. Yeah. Exactly. Charging for money and charging for energy. Yeah.",
+    "start": 1274.27,
+    "end": 1277.3649
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is, is Dojo on track for summer twenty twenty two? And what challenges, if any, are you working through? Is Dojo necessary for FSD to operate better in cities like New York City? Or on a separate note, where should we expect the first implementation of the implementation of Tesla bots in your factories?",
+    "start": 1280.005,
+    "end": 1299.64
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Okay. Those are good questions, then we take six questions. Yeah. Dojo appears to be on track for doing something useful in the summer of this year. The I think the threshold that really matters is at which point when does it become more competitive than a GPU cluster for training?",
+    "start": 1300.92,
+    "end": 1324.8099
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And, obviously, GPU cluster is getting better, so it's a moving target. But that's that's the goal I've set for the team is the the the FSD team running our GPU super cluster needs to tell me that they want to use Dojo instead. That's that's where that's that's a, you know, obvious sort of threshold. And I I don't know when that will like, it's you know, like, I wouldn't say, like, success is one hundred percent certain here. I think you you would just generally want to overestimate meeting options and underestimate ourselves.",
+    "start": 1326.17,
+    "end": 1370.2649
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And it does seem as though we might pass that threshold next year with Dojo if if, you know, creates you well. Dojo is not needed for full self driving, but it it is a cost optimization on creating vast amounts of video data. Customization also a rate of improvement. You know? So so if you can if you can train models faster and have a short iteration interval, then you can make progress faster.",
+    "start": 1372.985,
+    "end": 1412.0299
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, like, not not everything can be just distributed to a zillion deep GPUs. So so there's some elements of serialization there. So and then, yes, if Dojo is competitive, then, you know, it it does seem like the kind of thing where we would offer it to other companies that wanna do neural net training. This is very much a neural net training optimized system. You know?",
+    "start": 1412.83,
+    "end": 1448.365
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But it it in theory, it should be better than a a general a generalized computing platform or say GPUs, which were not really intended for. You know, the pixel shader is not not directly intended for optimizing training of neural networks. They just happen to work better than CPUs in most cases. So if you think of, like, Dojo is, like, a giant ASIC optimized for neural net training, especially video, video like things. But as as like I said, it we're not saying for sure Dojo will succeed.",
+    "start": 1448.365,
+    "end": 1489.865
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We think it will. We would encourage those who think this is an interesting problem to join Tesla. And yeah. Thank",
+    "start": 1490.7,
+    "end": 1507.065
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "you. And the the first use of Tesla Bot, whether it's in",
+    "start": 1509.0651,
+    "end": 1512.185
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "the factory or elsewhere?",
+    "start": 1512.185,
+    "end": 1513.885
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. The first use of the Tesla Bot Optimus Optimus name seems to be sticking internally. Optimus subprime. Yeah.",
+    "start": 1513.885,
+    "end": 1524.285
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Like, if if we can't if we can't find a use for it, then we shouldn't expect that others would. So the first use of the of the Tesla Optimus robot would would be at Tesla, kind of",
+    "start": 1524.285,
+    "end": 1540.025
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "like",
+    "start": 1540.025,
+    "end": 1540.265
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "moving parts around the factory or something like that.",
+    "start": 1540.265,
+    "end": 1544.625
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "K. Thank you very much. And the next question on insurance. When do you plan on having your insurance service rolled out in all the states? International rollout timing in markets that have Tesla insurance, what kind of uptake rates are you seeing?",
+    "start": 1544.625,
+    "end": 1559.525
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah, currently offer Tesla insurance in five states in the US, four of them are telematics, which is Texas, Illinois, Ohio and Arizona. And then California, has a more standard insurance offering based upon regulations there.",
+    "start": 1561.525,
+    "end": 1578.705
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It should be clear, like we're pushing very hard for California to change the rules to allow informatics, which basically means that, you know, you're you're as safe as you're driving is measured. So we think the current California rules are contrary to the best interests of the consumers in California and should be changed.",
+    "start": 1578.705,
+    "end": 1598.925
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. And that's evidenced by what we're seeing in Texas. Yeah. Where we've been in this market now for about three months. And what we see in the data is, the frequency of collision by folks who are in who are given a feedback loop on how they are driving is quite a bit lower than the frequency of collision otherwise.",
+    "start": 1598.925,
+    "end": 1620.225
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. And We give you a direct feedback on whether driving is safe. And if they drive safer, their their insurance costs less, so they drive safer. It's great. It encourages Tesla insurance with informatics and real time feedback encourages safer driving and rewards it monetarily.",
+    "start": 1620.225,
+    "end": 1636.905
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's great.",
+    "start": 1636.905,
+    "end": 1637.225
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Exactly. Yes. And so we see that so far in Texas. Take rates have been quite strong. We measure this on the conversion rate from when folks quote to see what their monthly rate would be at the starting point to what percentage of them purchase.",
+    "start": 1637.225,
+    "end": 1652.105
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So we're very encouraged by the interest that we're seeing in Texas. And then we've had enough history in Texas to see what does the loss ratios look like and how do the economics of the program work. And, you know, we're on the right track there as well. So we're comfortable with what we've seen in Texas to move as quickly as we can to scale this across the U. S.",
+    "start": 1652.105,
+    "end": 1671.785
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Specifically on the question about when we will be in all states, this is a slow process because of insurance being regulated at the state level and so we have to go through each of those processes with each of the departments of insurance at each state. But our internal goal here by the end of the year is to be in enough locations that eighty percent of our customers within the US could choose to sign up for Tesla Insurance if they wanted to. There's a lot of uncertainty around that based upon the regulatory processes but that's our goal. And then as we make more progress rolling out in the States and each incremental state becomes a little bit less effort than the prior, that's when we'll turn our attention to the Europe market. We might be able to do that by the end of the year, starting to get work on Europe by the end of the year.",
+    "start": 1671.785,
+    "end": 1721.425
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We'll have to see how we progress in the U. S.",
+    "start": 1721.425,
+    "end": 1723.185
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Next question is, what is your expected max capacity from each of your current factories, Fremont, Shanghai, Berlin and Austin and timing for new factory announcements?",
+    "start": 1725.845,
+    "end": 1735.505
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I don't think we wanna comment on like, the the that's it's always possible to increase the output of any given factory. So So you say, what's the max capacity? Well, it's difficult to say what that max capacity is because you put a lot of evidence if you increase capacity quite a lot. You know, I think there's looking at the big picture, you initially always wanna increase capacity at one factory because your logistics cost of transporting cars needs to be considered, especially as the cars become more affordable. You wanna have factories that are not, like, thousands of miles away from the customers.",
+    "start": 1739.905,
+    "end": 1781.505
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So even if you could increase output, it may not actually be the smart thing to do. So in the US with with, for example, with Giga Texas coming coming up where we would want you to deliver, say, Model Ys that are going to the eastern two thirds of the United States from this factory. The logistics costs are gonna be much less. We will continue to increase output in Fremont and in at Kickin Nevada and and at Shanghai. And and as I said at the beginning of call, we this this twenty twenty two is the year we will be looking at factory locations to see what makes the most sense possibly with some announcement by the end of this year.",
+    "start": 1782.865,
+    "end": 1840.985
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah.",
+    "start": 1843.385,
+    "end": 1843.625
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the next question is, what are the biggest obstacles for Cybertruck volume production besides battery shortage?",
+    "start": 1845.75,
+    "end": 1852.39
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Batteries will probably not be the limiting factor in Cybertruck production. There's a lot of new technology in in the Cybertruck that will take some time to work through. And then there's a question of, like, what's the average cost of a Cybertruck and to what degree is that affordable? You know, there's there's you you can make something infinitely desirable, but if if it's not affordable, that will constrain people's ability to buy it because there's we don't have the money. I'd worry more about, like, how do we make the cyber truck affordable despite having all sorts of technology.",
+    "start": 1864.825,
+    "end": 1909.065
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "That's that's the thing that will really set the the rate. Aspirationally, we'd like it to go in terms of just a rough order of magnitude. We'd like to subtract to get, you know, at least on the order of quarter million vehicles a year. But it'll take us a moment to get to get to that level.",
+    "start": 1910.185,
+    "end": 1929.945
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. The next question is how much of Tesla's margin improvement is from number one, economies of scale number two, production line design efficiencies number three, reduce transportation costs from multiple plant locations and number four, pricing versus cost inflation or number five, other sources and how much further could margins improve and why?",
+    "start": 1933.365,
+    "end": 1957.265
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah.",
+    "start": 1960.625,
+    "end": 1961.185
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "basically four major factors if we look over the last year to the margin improvement in the company. And there are no particular order here, but these are the big ones. So our mix of Model Y is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai. And the reason that matters is the Model Y is a vehicle that carries a higher profit than the Model three. And so that is helpful on our margins.",
+    "start": 1963.185,
+    "end": 1988.485
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And then as we increase the volume on that program with labor efficiencies, fixed cost amortization, they improve and the costs go down as well. The second one here is localization in Shanghai has been a huge help for margins for the company. And the obvious things around logistics and duties is a big part of it, but we've also that factory had a different line design, more efficient from the start and we've been pushing the boundaries on the volume there. So that has been helpful. If you recall at the beginning of the year, we also were in a transition to the new version of the Model S and Model X.",
+    "start": 1988.485,
+    "end": 2027.625
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And so as that has ramped over the course of the year, that has been helpful. And then we've also done various price increases in certain markets on certain models, which has helped there. So that's generally the story at a high level. As we look over the next quarter or two, as I mentioned in my opening remarks and the last call as well, We have ramp inefficiencies from the launch of Austin and Berlin. We also have pressures coming from inflation, supply chain, raw materials, etcetera.",
+    "start": 2028.085,
+    "end": 2066.025
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And so where that nets out is hard to say in the immediate term. We obviously as a company are going be driving to increase margins as much as we can. But I just want to be realistic that we're launching two factories simultaneously here and it unavoidably will add cost to the business as we do that. And as we look further out and Elon mentioned this in his opening remarks as well, you know, the software portion of the business I think is the one to really pay attention to as full self driving features get rolled out to more and more folks, I mean, for me personally, I prefer to drive my car with the FSD beta on. I think as more and more people experience that, take rates there.",
+    "start": 2066.585,
+    "end": 2109.545
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And then as we work towards the robotaxi space, there's there's actually quite a bit of upside margins from a software perspective.",
+    "start": 2110.705,
+    "end": 2117.985
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. I think, basically, everything fails in comparison to the value of a robotaxi or or personal driving. I mean, it's just it's just I mean, that just has a warm everything. You just go from having an asset that is has utility of past twelve hours a week for passenger car to maybe around fifty or sixty hours a week. So five x increase in the utility of an of of the asset.",
+    "start": 2120.465,
+    "end": 2154.145
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "The cost can change. Or yeah. So that that's where just things just you had you know, it's kind of blows your mind.",
+    "start": 2155.105,
+    "end": 2164.885
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the last question from investors is, Elon mentioned Level four autonomy could be achieved this year. Is it based off initial FSD beta rollout experience or is level four ability predicated on Dojo being complete and online?",
+    "start": 2169.98,
+    "end": 2185.005
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "As mentioned earlier, Dojo is not required for wholesale driving. You know, it it should have a positive effect on the cost of training networks. You know, the the it's not just a question like this this you could do get to full self driving, but really kind of like the march of nines of reliability. Is it ninety nine point nine nine nine percent reliable or ninety nine point nine nine nine nine nine percent? This is gets nutty.",
+    "start": 2186.285,
+    "end": 2218.065
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So we obviously wanna get to as close to perfection as possible. So, frankly, being safe than a human is a low standard, not a high standard. People are very, very lousy, often distracted, tired, you know, texting. Anyway, so it's remarkable that we don't have more accidents. So it's it's yeah.",
+    "start": 2218.065,
+    "end": 2252.425
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's so so actually being better than human, I think, is is a relatively straightforward, frankly. How do you be a thousand percent better or ten thousand percent better? Yeah. That's that's what, you know, gets us much much harder. But I think anyone who's been in the FSD beta program, I mean, if they were just to plot the progress of the beta in interventions per mile, it's obviously trending to, you know, with a very small number of interventions per mile, and and and pace of improvement is fast.",
+    "start": 2252.425,
+    "end": 2303.045
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And there's there are several profound improvements to the FSD stack that are coming, you know, the next few months. So yeah. Yeah. I I would be shocked if we do not achieve full self driving safe than a human this year. I would be shocked.",
+    "start": 2304.325,
+    "end": 2327.025
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Let's go to analyst questions now. And the first question comes from Jed from Canaccord. Jed, feel free to unmute yourself and ask a question.",
+    "start": 2331.825,
+    "end": 2341.335
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Hi, thanks, and congratulations on a great year. Ilan, I guess my question is around the Megapack or your energy business. And so as we look at the strategy or the supply chain constraints that you mentioned, you have two different strategies or it seems like with Megapack and Powerwall. And I think the Powerwall was answered with four thousand six hundred",
+    "start": 2342.855,
+    "end": 2370.525
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "and eighty and the two",
+    "start": 2370.525,
+    "end": 2372.525
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "thousand one hundred seventy opening up. So I was wondering if you could just talk about the supply chain and LFP for the Megapack and what we should expect for that.",
+    "start": 2372.525,
+    "end": 2382.95
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. To be clear, we we we do think that all stationary storage, Powerwall and Megapack will be will transition to an iron based system, basically a a nonnickel system. Manganese is also, you know, could be part of the future, but primarily iron. It just comes out iron nickel. Need something that is is, you know, formed in a star before a supernova, So, you know, iron is.",
+    "start": 2383.99,
+    "end": 2420.065
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So that's there's a ridiculous amount of iron on earth as well as a ridiculous amount of lithium. So we really expect all stationary storage to transition to iron over time. And like with manganese is like a wild card. So also less manganese. And I should say like we did shortchange the energy business last year in that vehicle to priority over the energy side.",
+    "start": 2422.625,
+    "end": 2463.765
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So Not on sales, but on On Yeah. On trips. Exactly. So yeah. We we but but the the we we we do we do see a a very, you know, I mean, long term, probably terawatt hour per year energy business.",
+    "start": 2463.765,
+    "end": 2486.545
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes. So a lot. It's been pretty vast. Yeah.",
+    "start": 2486.545,
+    "end": 2495.335
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "That's helpful. Thank thank you. So so you see, like, you see that twenty two is kind of the opening of that the energy business reaccelerating?",
+    "start": 2497.035,
+    "end": 2507.155
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's hard to predict twenty twenty two because we still have lingering supply chain there are still lingering supply chain issues globally. But I think the chip stuff, at least the chip side of things appears to looks like it will alleviate end of this year or twenty three. I mean there are a number of chip fabs being built, which is great. The sheer number of chip bags being built right now is is exciting to see. Yeah.",
+    "start": 2508.915,
+    "end": 2538.865
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So but there there could be other issues. We're trying to anticipate those as much as possible, but, you know, predicting future is is difficult.",
+    "start": 2539.025,
+    "end": 2546.485
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And the goal is definitely to grow it this year.",
+    "start": 2546.82,
+    "end": 2549.7
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. We oh, yeah. We'll grow it this year. Yeah. For sure.",
+    "start": 2549.78,
+    "end": 2552.26
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It it just you know, we if if we're simply if we're able to to respond to demand, it might grow by, like, two or three hundred percent or something, you know, as opposed to fifty percent or something.",
+    "start": 2552.26,
+    "end": 2567.265
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. I mean, I I think it's exactly that. Mean, it's a question of does it double, triple, quadruple? I mean, either way, I think our plans are pretty ambitious for Megapack this year and storage in general. Yeah.",
+    "start": 2569.745,
+    "end": 2583.37
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Exact amount of growth is hard to know. But ultimately, I mean, to Elon's point about the growth of this business, I mean, we need to be growing it faster than the vehicle business.",
+    "start": 2583.37,
+    "end": 2592.545
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It is and it will it will actually grow faster than the vehicle business once it once we can initiate the Yeah. Damn trip constraint, frankly. Yeah. So it will it will grow like CalPostera is basically on the road. It needs to.",
+    "start": 2593.345,
+    "end": 2610.71
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "You know, our primary mission is to accelerate sustainable energy. That's always been our primary mission and we're trying to stay true to that.",
+    "start": 2613.19,
+    "end": 2620.395
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the next question comes from Ben Kahlo from Baird.",
+    "start": 2622.635,
+    "end": 2626.875
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Hi, thanks for taking my question. I was wondering on the R and D front, because like you said, you have so many fish frying. How do you organize the R and D efforts so that you can start talking about all these new products? Is there like an incubator or some type of thing like that? But just structurally, it's it's cur I'm curious about that.",
+    "start": 2628.475,
+    "end": 2651.495
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Thank you.",
+    "start": 2651.815,
+    "end": 2652.615
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We don't have incubators or research centers. Research centers. We don't have research centers.",
+    "start": 2655.735,
+    "end": 2665.35
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. We're in it. Yeah.",
+    "start": 2665.35,
+    "end": 2667.51
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We work on things that go into our products. Yeah. We're like, let's this is a useful product that that, you know, the world really needs and and and we're just like, let's make this thing, you know, design it up and iterate fast and and then figure out how to make this at scale at a reasonable price. That last part is the super hard part. Many times I've said prototypes are easy, production is hard.",
+    "start": 2668.79,
+    "end": 2697.3
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "We can work out as many prototypes, but what's the point of that? Like yeah, the you actually have to reach scale production and have cash in, exceed cash out. That's the super, super hard part. So So so everybody needs to be",
+    "start": 2698.34,
+    "end": 2715.4
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "in the factory often enough to be able to understand that last part of your equation.",
+    "start": 2715.4,
+    "end": 2719.24
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah.",
+    "start": 2719.24,
+    "end": 2719.56
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And if and if you're in a research center",
+    "start": 2719.56,
+    "end": 2721.4
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. I mean, doing doing them separately is, like, in relation for actually making products.",
+    "start": 2721.64,
+    "end": 2725.96
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So so so we, I mean,",
+    "start": 2725.96,
+    "end": 2727.735
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "we don't think of it as r and",
+    "start": 2727.735,
+    "end": 2729.015
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "d and then, like, the product development. It's just one fucking sorry.",
+    "start": 2729.015,
+    "end": 2732.375
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Sorry. One guilt to just make great products.",
+    "start": 2732.375,
+    "end": 2735.655
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Is it this was just in general, societally, but there's way too much value placed on the idea. It's like, you know, like the idea I wanna hear, like, you don't have a can't the idea of going to the moon. That's not the hard part. Okay. Going to the moon is the hard part by far.",
+    "start": 2738.93,
+    "end": 2755.505
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And the the thing is that that is true for really most products. So this is just way too much value pricing idea of of of versus execution. We have ideas, we have a bazillion ideas. Why do we know what to do with? We have to sort through them and say which one are we actually going to go through the blood sweat in terms of bringing to volume production.",
+    "start": 2756.225,
+    "end": 2778.325
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "That's the super and then do actually do that, right? That's tough.",
+    "start": 2778.645,
+    "end": 2782.485
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And the closer you are to applying blood, sweat, and tears to actual production, the faster you'll be able to bring new things into actual production.",
+    "start": 2782.72,
+    "end": 2791.04
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Exactly. What you have a",
+    "start": 2791.52,
+    "end": 2792.96
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "tight feedback loop with production. Yeah. Looks like like the the the office we're sitting in right now literally looks over the the Giga Texas production line. Like, the offices are integrated into the factory.",
+    "start": 2792.96,
+    "end": 2807.7
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. Thank you very much. The next question comes from Tony Sakonagi from Bernstein.",
+    "start": 2812.545,
+    "end": 2818.995
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes, thank you for taking my question. I have two please. First, you spoke a lot about FSD, and how the economics could be very attractive going forward. I'm wondering if you could just share what your current attach rate might be for FSD on your vehicles or how to think about the progress of your attach rate or revenue in FSD, let's say, twenty twenty one versus twenty and how much deferred revenue for FSD was drawn down during the year? And I have",
+    "start": 2823.56,
+    "end": 2857.58
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "a follow-up please. Thank you.",
+    "start": 2857.58,
+    "end": 2858.7
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. I I think the FSD stuff, really don't wanna be looking in the rearview mirror. It will not be a good indicator for the future. You need to look out the front windscreen. So because it is such a profound step change.",
+    "start": 2861.595,
+    "end": 2882.2
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I mean, effectively, long term, every car will have FSD. You know? So and the value of that will be a a very big number. You know, it's it's like let me just look at this as asset utilization, and you have a passenger car, which normally is driven maybe one and a half hours a week a day on average, maybe ten ten hours, ten ten, twelve hours a week. A lot of a lot of cars in parking lots.",
+    "start": 2886.44,
+    "end": 2924.1648
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And so we're spending money not just driving the cars, but storing them all over the place. We can get rid of a lot of parking lots if you have a car that is operating all the time. But there will be a challenge with traffic. So, you know, we got, this little tiny baby company, the boring company, which I initially started as a joke and and now but now it's I think it actually could be quite essential to alleviating the insane traffic that will happen when cars are autonomous because you reduce the pain of travel and you reduce the cost of travel so dramatically that there will be a crazy number of cars in the road. I mean, it's going to be I I think it's way cheaper to go point to point with a with a robo taxi, which is an autonomous Tesla, which every car we've made in the past three or four years will will be capable of that, to have been a bus or a or a subway.",
+    "start": 2924.1648,
+    "end": 2991.15
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But this it'll cost less than the subsidized value of bus tickets. So if we wanna get to take the pool, I'm not going to take the bus. You know, if if it costs you, I don't know, for argument's sake, you know, two two bucks to travel ten miles point to point, Nobody's taking the bus, especially in cold weather or it's dark or maybe a little bit dangerous or how bad, you know, Florida door. People just do not understand how profound a change this is. It's not it's not like some little feature.",
+    "start": 2991.55,
+    "end": 3031.625
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "It's like the most profound software upgrade maybe in history. Millions of cause suddenly have, what, four or five times utility than they've sent overnight. I don't actually know how to quantify that financially except that it's some big number.",
+    "start": 3032.825,
+    "end": 3058.905
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Okay. Thank you for that. Ilan, I was wondering if I could just follow-up and ask You talked about your product road map and also your goal to keep growing at fifty percent per year or better. That would put you at three point two million vehicles or more in twenty twenty four. And think you made reference to Cybertruck maybe being two hundred and fifty thousand vehicles.",
+    "start": 3060.745,
+    "end": 3085.785
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "If there is no twenty five thousand dollars vehicle being worked on, is it really realistic to think that you can sell more than three million vehicles with two very high volume cars and Cybertruck in twenty twenty four? Or how do we think about that or what else is missing in that equation?",
+    "start": 3087.145,
+    "end": 3108.08
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Mean, it's apparent from the questions that the gravity of full self driving is not fully appreciated. You know, if an asset has five times more utilization than the in fact, it's like it's like dividing the cost of that asset by five. So if you have a fifty thousand dollar car, it's like having a ten thousand dollar car all of a sudden. But but maybe better better than that because still you don't need anyone to drive.",
+    "start": 3111.295,
+    "end": 3138.815
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So the person can be engaged in productivity or amusement instead of having to, you know, onerously drive through traffic. So it's probably better than five times. I don't know. Yeah. I mean, basically, if if the cost of our cars have not changed at all, we would still sell as many as we could possibly make.",
+    "start": 3138.975,
+    "end": 3169.405
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Thank you. And the next question comes from Pierre Ferragu from New Street Research.",
+    "start": 3173.565,
+    "end": 3178.635
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Hey, thank you for taking my question. Can you hear me well?",
+    "start": 3182.81,
+    "end": 3185.93
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yes.",
+    "start": 3185.93,
+    "end": 3186.81
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I wanted to come back on battery. So it's great to hear on one hand that you guys expect to sell like the first car with four thousand six and eighty this quarter. And at the same time, that you don't really depend on that ramp to achieve your what you hope to achieve in terms of significant volume growth this year. And the question I had is, I understand where is the ramp of four thousand six and eighty internally, but I'd be curious to hear you talk about how you think about four thousand six and eighty as being a form factor that your suppliers could adopt as well? And how you see in the long run-in the greater scheme of things, what does four thousand six hundred eighty become?",
+    "start": 3187.45,
+    "end": 3235.415
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Is it going to be outside of Tesla as the largest form factor for batteries? Is it something that you guys are going to deploy in old cars, whatever the chemistry, also in the mega pack, in all your energy storage business? And do you expect eventually a lot of other companies to use that form factor as well?",
+    "start": 3235.895,
+    "end": 3257.935
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. On the four thousand six hundred eighty as a form factor, yes, we've engaged with, a number of our partners, our suppliers, on on the form factor, and they're all working on it. And, you know, they look at it the way we look at it as a way to drive fundamental cost efficiencies in production and and also ultimately the design of the cell itself to to drive the cost down of of the cell. And and so that's that's what's engaged. I mean, we're we're engaged because we think it's a good form factor.",
+    "start": 3259.935,
+    "end": 3295.335
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "They're engaged because they think it's a good form factor, and we're we want people to make it for sure. To the question about should everything be four thousand six eighty, it doesn't have to be. In the end, it's it's about, cost competitiveness, scalability of manufacturing. And when you compare, like, a iron cell with a nickel cell, for example, like, there are some just physics based differences in what happens in certain corner cases that would drive different form factors, and we just have to be cognizant of that and design to that. So it isn't like the ultimate form factor for all things.",
+    "start": 3295.335,
+    "end": 3329.7
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "There's other form factors that could be better for",
+    "start": 3329.7,
+    "end": 3331.62
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "an iron cell, for example. So We don't use forty six eighty at all for the fan base cells.",
+    "start": 3331.62,
+    "end": 3338.58
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Okay. And I have a quick follow-up on chips. So you've talked a lot about all this shortage and the supply difficulties. And I was wondering if you could give us some color like the power chips you need for investors and all the power systems you're putting together versus like the more traditional logic chips, if the situation is different between the two. And should we understand from the situation today that you're working very hard also at expanding the scope of your suppliers?",
+    "start": 3341.065,
+    "end": 3374.905
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "And should we expect like Tesla to take on board additional suppliers in the near term, especially on the power side?",
+    "start": 3374.905,
+    "end": 3382.505
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Well, last year was chip hell of many chips. So silicon carbide inverters, one or certainly one of them, but",
+    "start": 3385.24,
+    "end": 3393.48
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Honestly, there's a lot of annoying, very boring parts.",
+    "start": 3395.56,
+    "end": 3398.28
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. It's it's a ton of very simple control chips that's front of them all literally, you know Yeah. Basic chips to",
+    "start": 3398.28,
+    "end": 3410.005
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "to control. Voltage references, oscillators, just like very boring things.",
+    "start": 3410.005,
+    "end": 3413.525
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Exactly. Like, they will chip that allows you move your seat back and forth. It's actually was a big problem. Yeah.",
+    "start": 3413.685,
+    "end": 3422.705
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So I I like but a lot of these things are alleviating. I think there's there's there's some degree of the toilet paper problem as well where, you know, there's a toilet paper shortage during COVID. And, like, obviously, it wasn't really an an suddenly a a tremendous enhanced need for ass wiping. It's just people panicked in order to and got every paper product you probably you could possibly wipe your ass with, basically. I I wouldn't show you.",
+    "start": 3427.37,
+    "end": 3455.09
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Is this, like, a real thing or not? I actually took my kids to the HEP and Walmart in Texas to just confirm that this is real. Indeed, it was. And there was there was plenty of food and everything else, but just nothing no paper products that didn't cause a split up. So an odd choice for people to panic about.",
+    "start": 3455.09,
+    "end": 3476.545
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Mhmm. You know, because those things are so end of the world's coming, I think, all that will release your problems. So so I think we we saw just a lot of companies over order chips and and they buffer the chips. And so we should see but we are seeing alleviation in in almost every area, but the output of the vehicle is goes with the the the least lucky you know, what what are the most problematic item in the entire car? It's in those, like, at least ten thousand unique parts in the car.",
+    "start": 3476.545,
+    "end": 3521.845
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "So, you know, way more than that if you go further up the supply chain. And so it's what it's just which which one is gonna be the least lucky one this time? It's hard to say. Yeah.",
+    "start": 3522.005,
+    "end": 3534.78
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "I mean, on a go forward basis, right, the idea is to continue to drive simplification. So there are fewer parts, fewer of them. On the power side in particular, you know, it's still, like, an area of, like, technological development where, you know, the next the next chip can do the same thing with less die area. So, like, the total fab required to accomplish the function goes down. So so there's still room to grow without needing more fab capacity.",
+    "start": 3534.94,
+    "end": 3562.06
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "But in general, there's a lot more fab capacity coming, so that's, a win win there.",
+    "start": 3562.06,
+    "end": 3566.02
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Yeah. Yeah. It's it's not a long term thing because there's gonna be there's a crazy amount of trip labs being built, which is great.",
+    "start": 3566.02,
+    "end": 3574.325
+  },
+  {
+    "speaker": "Martin Viecha",
+    "text": "Well, thank you very much. Unfortunately, that is all the time we have for this session. Thanks very much for all your good questions and we'll speak to you again in three months time. Have a good day. Bye bye.",
+    "start": 3576.325,
+    "end": 3585.93
+  },
+  {
+    "speaker": "Elon Musk",
+    "text": "Thanks.",
+    "start": 3585.93,
+    "end": 3586.25
+  }
+]

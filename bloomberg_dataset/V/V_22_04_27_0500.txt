@@ -1,0 +1,449 @@
+Q2 2022 Earnings Call
+Company Participants
+Alfred F. Kelly, Jr., Chairman and Chief Executive Officer
+Jennifer Como, Vice President of Investor Relations
+Vasant Prabhu, Vice Chair and Chief Financial Officer
+Other Participants
+Ashwin Shirvaikar, Analyst, Citi
+Darrin Peller, Analyst, Wolfe Research
+Harshita Rawat, Analyst, Sanford C. Bernstein
+James Faucette, Analyst, Morgan Stanley
+James Friedman, Analyst, Susquehanna
+Jason Kupferberg, Analyst, Bank of America Merrill Lynch
+Lisa Ellis, Analyst, MoffettNathanson
+Robert Napoli, Analyst, William Blair
+Sanjay Sakhrani, Analyst, KBW
+Tien-Tsin Huang, Analyst, J.P. Morgan
+Timothy Chiodo, Analyst, Credit Suisse
+Presentation
+Operator
+Welcome to Visa's Fiscal Second Quarter 2022 Earnings Conference Call. All participants are in a listen-only mode until the question-and-answer session. Today's conference is being recorded. If you have any objections you may disconnect at this time.
+
+Now I would like to turn the conference over to your host, Ms. Jennifer Como, Senior Vice President and Head of Investor Relations. Ms. Como, you may begin.
+
+Jennifer Como{BIO 20121273 <GO>}
+Thanks, Jordan. Good afternoon everyone, and welcome to Visa's fiscal second quarter 2022 earnings call. Joining us today are Al Kelly, Visa's Chairman and Chief Executive Officer, and Vasant Prabhu, Visa's Vice-Chair and Chief Financial Officer.
+
+This call is being webcast on the Investor Relations section of our website at www.investor.visa.com. A replay will be archived on our site for 30 days. A slide deck containing financial and statistical highlights has been posted on our IR website.
+
+Let me also remind you that this presentation includes forward-looking statements. These statements are not guarantees of future performance and our actual results could differ materially as the result of many factors. Additional information concerning those factors is available in our most recent reports on Forms 10-K and 10-Q, which you can find on the SEC's website and the Investor Relations section of our website.
+
+For non-GAAP financial information disclosed in this call, the related GAAP measures and reconciliation are available in today's earnings release.
+
+And with that let me turn the call over to Al.
+
+Alfred F. Kelly{BIO 2121459 <GO>}
+Good afternoon, everybody and thank you for joining. Before jumping in I want to acknowledge that this is Jennifer Como's first earnings call in her new position. About two months ago, Jennifer was promoted to Head of Investor Relations, which was a very well-deserved recognition of her work over the last three years with us.
+
+I want to start by briefly addressing the situation in Russia and Ukraine. I've seen firsthand the pain brought about by Russia's attack on Ukraine and its people, including our colleagues in both Ukraine and Russia. We are very focused on supporting them. The bravery strength and resilience of our colleagues is incredibly inspiring as is the grit of the Ukrainian military.
+
+Even with the invasion of Ukraine and lingering impacts of Omicron, volumes transactions and credentials drove strong second quarter performance. Overall, PV was up 135% versus three years ago. Cross border volumes excluding intra-Europe were 112% versus three years ago. And it's important to note that travel-related cross border rose to 82% versus three years ago, up 5 points from Q1. Process transactions were 138% versus three years ago.
+
+In terms of the big picture, after a short four to five week impact of Omicron in December and January in the United States and many other parts of the world, the recovery continues to be robust. At this stage in terms of volumes, we have seen no noticeable impact due to inflation, supply chain issues or the war in Ukraine.
+
+In the US payments volume index 2019 was 144 in the quarter. Volume growth relative to three years ago has been stable and strong now for four quarters in a row. When looking at specific spend category for credit cards we saw greater than a 10 percentage point improvement in the three year index from Q1 to Q2 in travel, retail goods, food and drug, restaurant QSR and fuel.
+
+As a reminder, debit is growing over a quarter in fiscal ''21 where they were two stimulus distributions. Even as credit continues to recover, debit remains 20% above the pre-pandemic trend line. Across all products spend categories representing 88% of PV are over 100% indexed to -- over 120 indexed to three years ago and nearly two-third are between 140 and 160.
+
+Against this backdrop Visa's performance was very strong. Net revenues grew 25% year-over-year and non-GAAP EPS was $1.79, up 30%. As we look ahead, our business will have a reset due to Russia, but we still expect accelerated revenue growth versus pre-COVID over the coming years. This is because there is still ample opportunity around the world across our three growth levers of consumer payments, new flows and value-added services that our strategy is yielding excellent results.
+
+First, in consumer Payments, we continue to displace cash at a strong rate. In Q2, we saw a debit cash volumes at Visa grow 2% while debit payment volumes grew 12%. Cash displacement continued around the world. Year-over-year across debit and credit they were $7.9 billion more payments transactions and $16 million less cash transactions.
+
+Last quarter, I highlighted the shift from cash to payments volume in Latin America, and that trend continued in this quarter. Additionally CEMEA is experiencing a similar shift. In full year 2019 cash was 59% of total volume. Last year in Q2 was 50% and this quarter it was 46%. Growth in consumer payments is driven by adding credentials and acceptance a deepening engagement. Our card credentials recently increased to over $3.9 billion, up 9% in one year, including 10% growth in the United States.
+
+On the acceptance side, we have 80 million merchant locations, including small businesses, behind players like Stripe and Square, the number is actually over a 100 million. We have seen very strong performance location growth recently in our Latin America and Asia Pacific regions, up 30% and 20% respectively.
+
+Let me just highlight a few regional examples of progress in consumer payments. In Europe overall credentials grew 6%, which is nearly double the historic rate for each of the past eight quarters, helped by previously announced deals with BNP Paribas Fortis in Belgium contributing more than 4 million credentials since their announcement to issue with Visa.
+
+Across Europe we continue to strengthen our debit business. We recently announced the win with Rabobank representing a multi-million credential opportunity. We also renewed our business with one of the largest banks in the Nordics, Nordea. On the acceptance front, we continue to pioneer new areas of acceptance even in mature digital markets.
+
+One recent example in Europe is with electronic -- electric vehicle charging. We were the first payments and financial services company to join the charging interface initiative and are working with manufacturers to open up what is estimated to represent 3 million potential acceptance points in Europe by 2030. In Latin America, we saw strong credential growth up 21% year-over-year. Two I'd like to highlight this quarter. PagSeguro, Brazil's third largest issuer for their credit portfolio and digital bank, Neon Pagamentos one of Brazil's fastest growing FinTechs with over 15 billion clients for their credit and prepaid portfolios.
+
+In Africa Visa has signed a partnership with Vodacom South Africa. This deal together with previously announced partnerships with M-PESA Africa and Safaricom covers 130 million customers in the entire Vodacom Group in sub-Saharan Africa. Through this partnership Vodacom will exclusively issue Visa payment credentials, deploy new payment flows through Visa Direct and utilize Cybersource.
+
+In the United States we renewed and won several partnerships this quarter. First Visa and USAA have recently renewed our longstanding issuing partnership. Second, we extended our existing relationship agreement with M&T Bank as their issuance partner, including migrating the business resulting from the recently completed acquisition of People's United. Over the past three years merger activity of regional banks has increased, and this is another example of Visa successfully partnering to grow with our clients.
+
+Finally, supporting the US government, it is an important priority for us and we retained our business with the financial agent that manages the US debit card program. This Visa-branded program is a key component of Treasury's goal to deliver 99% of Federal payments digitally by 2030.
+
+A key vector of growth in consumer payments are co-brand cards, which are particularly attractive to the affluent customer. In Q2 affluent credit card spending was well above 2019 levels in several markets, including the US and the UK. Our US co-brand active cards were up nearly 30% from 2019 to 2022 and we have seven of the top 10 co-brands in the United States and eight of the top 10 co-brands globally.
+
+This past quarter, we renewed our co-brand relationship with AAA, Visa's longest standing co-brand partner, an over 40-year relationship. In India we're pleased to have signed a long-term co-brand agreement with Airtel, one of the largest mobile operators in the world with nearly 356 million subscribers. In CEMEA, Emirates NBD, a leading banking group has expanded its longstanding partnership with Visa by introducing the premium co-brand program with Etihad Guest, the loyalty program of Etihad Airlines with 8 million members.
+
+In Uganda, we partnered with the Uganda National Social Security Fund to issue co-brand cards to 2 million beneficiaries. And just a few weeks ago, it was announced that the US Amazon Prime Rewards Visa Signature Card has been renewed with Chase and Visa. Visa is also pleased to have reached a broad global agreement with Amazon. This agreement includes the acceptance of Visa at all Amazon stores and sites today as well as a joint commitment to collaboration on new product and technology initiatives to ensure innovative payment experiences for our customers into the future.
+
+In Q2, we also continued to enable new ways to pay from instalments to crypto. In the instalment space we previously announced a global deal with Florida [ph]. They have now issued their co-branded card in Europe and recently opened a wait list in the United States, where they have 25 million customers.
+
+In the crypto space we continue to work with governments globally on potential CBDCs. This quarter we were selected as a finalist in Brazil CBDC Lift challenge. The concept is a B2B solution that seeks to leverage CBDC to help small businesses access global investors and drive financial inclusion.
+
+On the engagement front, Tap to Pay continues to accelerate growth in the United States. We are 20% Tap to Pay penetration, marking the second largest market by number of Tap and Target has become the first US retail merchant to surpass 50% Tap to Pay penetration of face to face payments. Transit is one of the best ways to perpetuate tapping, and the first half of fiscal '22 has set records. We enabled 50 cities around the world, including Thailand, Japan, Turkey, Italy, Switzerland, Norway and Canada, bringing our Tap to Ride footprint over 500 travel -- transit authorities. We processed over 500 million Visa Tap to Ride transactions globally versus 700 million for all of last year.
+
+To summarize, there is significant opportunity in consumer payments. Visa continues to grow credentials and acceptance while deepening engagement and Visa enables innovation at scale for players across the ecosystem from instalments to crypto to merchants.
+
+Now moving to new flows, which in Q2 had over 20% revenue growth. In Q2 our commercial payments volume was 138% of 2019. What's more this recovery is relatively broad based across segments and spend types. On the B2B carded front in the US, (inaudible) Bank announced two commercial solutions for middle market businesses, one Visa Commercial preferred, a commercial rewards call designed to help manage daily business spend. And two, Visa Commercial Pay which will help improve cash flow management reconciliation and reporting.
+
+In Latin America, we saw carded progress with B2B Fintech Tribal which has chosen Visa for card issuance, including virtual cards on its modern corporate card and spend management platform tailored for startup in nine countries. Airwallet, a global platform enabling digital businesses to manage payments and money movement across borders previously launched programs with Visa in Australia, Hong Kong and the UK. Recently they introduced Virtual Visa cards in the United States, Netherlands and Singapore to enable businesses to easily make digital card payments around the world.
+
+In our cross-border B2B business, Visa B2B Connect continues to expand its global footprint and in the first half of 2022 we added banks for the first time in Tanzania, Uganda, Angola, Thailand and Poland.
+
+Now turning to Visa Direct, transactions in the second quarter grew 20%. Vasant will speak more about this but Russia was our second largest market for Visa Direct and represented about 17% of our transactions in fiscal 2021. So in short Visa Direct will be impacted by the suspension of Russian operations. But even with the Russia business -- without the Russia business, we will see growth ahead driven by many use cases and countries. For example, domestic P2P which accounted for the majority of our Russian business is still a large opportunity and we continue to expand to new markets. We will soon launch our inaugural Visa Direct use case in Israel for P2P part -- for P2P in partnership with Bit the largest P2P app in the market.
+
+I'll focus on two other use cases today, payouts and remittance. First with payouts we're seeing momentum in a number of industries and transactions are up 35% year-over-year. In travel we launched Visa Direct with Booking.com to enable customer refunds and loyalty payouts. In the gig economy, Playfair, a leading FinTech that has partners such as Uber, Lyft and DoorDash has added Visa Direct to its platform to help facilitate real-time payment experiences for over 0.5 million gig workers they serve.
+
+And digital commerce partner, Payoneer will use Visa Direct to enable cross border payments for their 5 million customers including marketplaces and gig economy players.
+
+Second, cross border P2P or global remittances, which are higher yielding Visa Direct transactions represent a significant opportunity. While we are just getting started this quarter transactions grew nearly 50% year-over-year.
+
+After announcing our relationship in fiscal fourth quarter with Paycent, an international card to card payments platform, which serves over 6 million customers and 17,000 SMEs, they have now launched their cross border service with Visa Direct from the UK and US to over 100 corridors. While the US is the top source for remittances, the UAE is the second largest source for country remittances followed by Saudi Arabia, according to the World Bank. Altogether, the Gulf Cooperation Council countries account for more than $100 billion in outbound remittances.
+
+This past quarter, we added several partnerships to help digitize remittances in the region. First Al Muzaini Exchange, the largest Exchange House in Kuwait. Second, Enjaz, the remittance of payment arm of Bank Albilad, a market leader for ongoing remittances in the Kingdom of the Saudi Arabia. And third in the UAE with LuLu Money powered by LuLu International Exchange and Network International to enable the 5 million users of LuLu App to send money across border.
+
+Audion [ph] and Stripe, key Visa Direct enablement partners have both signed agreements to deepen relationships in existing geographies, and to expand to net new markets globally across numerous use cases. In sum, we have made excellent early progress against $185 trillion new flows opportunity, but there is tremendous room for accelerated growth ahead.
+
+Now let me move to value-added services which had Q2 revenue growth of over 20% as well. First, we recently closed our acquisition of Tink. Tink is a European open-banking platform that connects to more than 3,400 banks that reach over 250 million bank customers across Europe. Through a single API, Tink enables its customers to move money, access aggregated financial data and use Smart Financial services such as Risk Insight and account verification.
+
+Visa brings proven infrastructure and sustained investment in resilience, cyber security and fraud, which will help accelerate the adoption of open banking and create a secure, reliable platform for innovation.
+
+Let me highlight some other progress in value-added services. First Visa's consulting and analytics. Last quarter I announced the launch of our specialized global crypto advisory practice. We have seen interest from hundreds of clients globally and have committed engagements with 30 already covering their digital currency strategy product development and their go-to-market plans.
+
+Second, risk identity and authentication. In tokenization we have now crossed the 3.5 billion token mark across more than 8,600 issuers in over 150 markets. At 1.2 million merchants tokens have led to a 2.5 point increase in approval rates and a 28% reduction in fraud rates this past quarter and card not payment -- card-not-present payments. Our key risk solution, Visa Advanced Authorization Visa Risk Manager screened about 30% more transactions in the first half of 2022 versus 2021.
+
+Third, Cybersource, our gateway capability has seen considerable progress just crossing the milestone of the 1 million merchant accounts on-boarded. I spoke about transit before Cybersource which could play a key role in transit acceptance added nearly 15 projects in the first half in Thailand, Italy and Japan, among others.
+
+So to summarize our value-added services represent a compelling way to diversify our revenue streams while helping our clients bring in innovation to the payments ecosystem. Our global infrastructure is providing connectivity through our network of networks to power more traditional payment types, and newer ways to pay and move money. Our brand is strong, our network of networks is expanding, our business is performing well and our people are motivated and passionate. We expect all our efforts will help power accelerated growth in the years to come.
+
+And with that let me turn it over to Vasant.
+
+Vasant Prabhu{BIO 1958035 <GO>}
+Thank you, Al. Good afternoon, everyone. Despite Omicron, Russia and Ukraine, our fiscal second quarter results were very strong with net revenues up 25% and GAAP EPS of 23%. Non-GAAP EPS was up 30%. In constant dollars net revenue growth was approximately 27% and non-GAAP EPS growth was 30%. A few key highlights, global payments volumes growth has remained strong and stable relative to pre-COVID levels. In constant dollars, the US index was 2 points higher than the first quarter at 144 versus three years ago.
+
+The international index, ex-China was down 2 points at 140 versus 2019 due to the impact of Omicron in early January. Omicron impact on most domestic volume was short-lived as we hoped it would be. The robust cross border travel recovery that started in the fall as borders reopened resumed in February as Omicron impact faded. Border restrictions were lifted quickly and pent-up demand for travel remains very high.
+
+Indexed to 2019 cross border travel, excluding transactions within Europe, jumped from a low of 71 in January to 94 in March. The first two weeks of March saw a spike in cross border volumes from Russia and Ukraine due to displacement caused by the invasion. After we suspended operations in Russia in mid-March, there were no more cross-border transactions in or out of Russia. Adjusted for Russia and the spike from Ukraine, the March cross border travel index relative to 2019 was around 90. So far, we are not seeing any material impact on cross border travel in other corridors as a result of Russia's invasion of Ukraine.
+
+Our three growth engines, consumer payments, new flows and value-added services, all grew revenues well over 20%. During the quarter we bought back $2.9 billion in stock at an average price of around $2.10 -- $210. On March 10, we closed on the Tink acquisition. Finally, our second quarter P&L and balance sheet reflect our best estimates for the impact of suspending operations in Russia. This includes revenues and expenses from terminating all client and supplier contracts, resolution of settlement balances and the deconsolidation of our Russian business. We have adjusted two items from our GAAP earnings. Expenses to support our employees in Russia and Ukraine, and a charge related to net assets in our Russian legal entity.
+
+Now onto the details, in constant dollars, global payments volume was up 17% year-over-year and 35% versus 2019. Debit spend remained resilient as credit spend continue to improve. Excluding China, total payments volume growth was 18% or 42% higher than 2019. US payments volume grew 16%, up 44% versus 2019, which was 2 points better than the first quarter.
+
+Credit grew 27% and improved 4 points to 35% over 2019, helped by the affluent consumer. Debit grew only 6% year-over-year, reflecting the impact of stimulus last year but growth remained very strong versus 2019 at 53%. As Al indicated debit is indexing well above the pre-COVID trend line benefiting from accelerated cash digitization.
+
+US card present spend grew 17% and was 21% about 2019 at its highest quarterly level since the pandemic. Card-not-present volume, excluding travel, grew 10% and was 70% above 2019. Relative to three years ago ecommerce levels remained well about the pre-COVID trend line even as card present spend continues to recover.
+
+International constant dollar payments volume excluding China grew 22% and was 40% above 2019. A few regional highlights, Latin America was up 44% year-over-year and 99% higher than 2019, with robust performance across the region, fueled by cash digitization and client wins. Our CEMEA region grew 18% year-over-year and 76% higher than 2019 led by client wins and cash digitization. Excluding Russia, the CEMEA region was up 100% over 2019.
+
+Europe was up 21% year-over-year and 31% higher than 2019. Following an Omicron dip in January, we saw a rapid recovery in most European markets. Ex-UK, Europe volumes grew 36% year-over-year and were 54% above 2019. Asia-Pacific, excluding China remains our weakest region, up 16% year-over-year and 25% versus 2019.
+
+Due to COVID restrictions, recovery across most of Asia stalled while Hong Kong declined relative to 2019. India recovered strongly, up almost 20 points from December. India has been our fastest growing market in Asia, up almost 80% since 2019 fueled by a tripling of ecommerce volumes. Global process transactions were up 19% year-over-year and 38% versus 2019.
+
+Constant dollar cross border volume, excluding transactions within Europe were up 47% year-over-year and 12% over 2019. Cross border card-not-present volume growth excluding travel remained strong, up 16% year-over-year and well about the pre-COVID trend line at 67% above 2019. Cross border travel-related spend, excluding intra-Europe grew 111% year-over-year and indexed at 82% of 2019 levels.
+
+As I mentioned earlier, after an Omicron driven dip to 71 in January, the cross border travel indexed to 2019 rose sharply to 94 in March. Many corridors are now indexing above 90 relative to 2019. Inbound travel to Latin America, the Caribbean and parts of the Middle East has been above 2019 levels for some time now.
+
+There's plenty of recovery to come in one important corridor, inbound to the US, which indexed only at 70 in Q2. Asia Indexed in the high 30s, both inbound and outbound in Q2. The pace of travel recovery to and from Asia, will be a key driver of the future trajectory. Most Asian borders are now open except for China and restrictions remain in place in Japan, Korea, and Taiwan.
+
+Moving now to a quick review of second quarter financial results. Service revenues grew 24%, faster than the 20% nominal growth in Q1 payments volume. We were able to bill and collect service revenues in Russia through early March. As such in the second quarter, we recorded almost two quarters of service revenues related to Russia. Service revenues were also helped by increasing utilization of card benefits.
+
+Data processing revenues grew 16% below the 19% process transactions growth, mostly due to exchange rate changes. International transaction revenues were up 48% versus the 42% increase in nominal cross border volumes, excluding intra-Europe. Revenue growth was helped by high currency volatility and select pricing modifications, partially offset by business mix.
+
+Other revenues grew 21% led by consulting, data and marketing services, as well as travel benefits. Revenue growth was robust across our three growth engines, each growing well over 20%. Consumer payments growth was led by improving cross border volume and continued strong domestic volumes and transactions. New flows growth was driven by Visa Direct and carded B2B recovery. Visa Direct transactions grew 20%, impacted by lapping a strong quarter in the US last year and the suspension of Russian operations.
+
+As Al indicated, Russia was the second largest market for Visa Direct accounting for 17% of transactions. This is an unfortunate setback, but the Visa Direct business is ramping fast in other international markets, as well as in use cases such as cross-border remittances, earned wage access and other B2C payouts.
+
+Commercial our B2B volumes grew 29% year-over-year and up 38% versus 2019. Growth was driven by continued strength of small business and the recovery of large businesses across the portfolio of diverse spend categories. Value added service growth was led by consulting and marketing services, card benefits as well as risk and identity solutions.
+
+Revenue growth drivers include the acceleration of e-commerce, client growth in international markets and select pricing actions. Client incentives were 25.8% of gross revenues, at the lower end of expectations. This was driven by a better revenue mix due to the faster than expected recovery of our cross-border business and by deal timing with some Q2 deals being pushed into Q3.
+
+GAAP operating expenses grew 11%, non-GAAP operating expenses grew 16%. We recorded losses from our equity investments of $127 million. Excluding investment losses, non-GAAP, non-operating expense was $133 million. Our non-GAAP tax rate was 19.6%, GAAP EPS was $1.70, non-GAAP EPS, $1.79, up 30% from last year. Including our quarterly dividend of $0.375 per share and our stock buybacks we returned $3.7 billion of capital to shareholders in the quarter.
+
+A few comments on our trends through the first three weeks of April. On a year-over-year basis, US payments volume was up 12% with debit up 2% and credit up 26%. Debit volumes are lapping the impact of stimulus payments in 2021. US April spend growth versus three years ago was up 45% with debit up a robust 54% and credit up 37%. These trends are relatively consistent with performance in major markets around the world with the exception of CEMEA where we now have no payments volume from Russia. Process transactions grew 17% year-over-year, up 36% versus 2019.
+
+Constant dollar cross border volume, excluding transactions within Europe grew 47% year-over-year, and were 15% over 2019. Card-not-present non-travel growth was 62% above 2019. Travel-related cross border volumes were at a 92 indexed to 2019. The small decline in this index relative to March is mostly due to the loss of Russia. Total cross border volume was up 28% over 2019.
+
+Moving now to our outlook for the rest of fiscal 2022, just as 2021 was a year of two distinct halfs, due to the recovery, 2022 will be a year of two halfs due to Russia. The suspension of our business in Russia will reduce second half revenues by about 4%. Russia will also negatively impact the payments volume and cross-border volume indexed to 2019, each by four points.
+
+The impact on process transactions Indexed to 2019 will be under a point, since we did not process domestic transactions in Russia. Ex-Russia and Ukraine, our domestic volume growth has stayed robust and stable for the past four quarters relative to 2019. Our outlook for the second half assumes that these trends are sustained. While there are uncertainties created by high inflation, supply chain disruptions, rising interest rates and the invasion of Ukraine, there is no evident impact on our global payments volumes.
+
+Ecommerce spend, both domestic and cross-border has remained strong and stable relative to 2019 at well above the pre-COVID trend line even as pandemic effects fade and we are assuming this will continue. In line with payments volumes, we expect process transactions growth relative to 2019 to remain strong and stable with the variability largely driven by the extent to which small ticket card present every day spend comes back.
+
+It is important to note that year-over-year growth rates will moderate as we lap the strong second half recovery in fiscal year '21. Ex-Russia and Ukraine we're assuming no spillover effects on other corridors in our cross-border business. Given where we ended the second quarter, we now expect cross border travel ex-intra Europe to fully recover to 2019 levels by the end of our fiscal year, despite the loss of Russian business. Including intra-Europe that would put cross border travel above 2019 levels.
+
+With these assumptions, third quarter net revenues are expected to grow at the upper end of the mid-teens range in constant dollars. This includes Tink and Currencycloud which add approximately half a point to net revenues. The dollar has strengthened and the exchange rate drag will likely reduce nominal revenue growth by around 2.5 points.
+
+Due to some deals moving into the third quarter from the first half and the expectation that certain milestones will be achieved on some key contracts incentives will run higher in the third quarter between 26.5% to 27.5% of gross revenues. We expect non-GAAP operating expenses in constant dollars to grow in the mid-teens, including expense savings from Russia and almost 3 points of added expense from Currencycloud and Tink. Exchange rates will likely reduce normal nominal operating expense growth by about 1.5 points.
+
+Our tax rate is expected to be in the 19% to 19.5% range. At this point, we expect fourth quarter trends to be generally in line with the third quarter. As always, we will update our fourth quarter outlook in July.
+
+Based on results to-date and our outlook for the second half, we expect full year net revenue growth in constant dollars in the high teens to 20% range, including approximately half a point of contribution from Tink and Currencycloud. Exchange rates will likely drag nominal growth rates down by around 2 points.
+
+There is no change in our expectation for full year incentives. Incentives as a percent of gross revenues are expected to range between 25.5% to 26.5%. We expect constant dollar, non-GAAP operating expense growth at the upper end of mid-teens. This includes savings from the suspension of Russian operations and almost 2 points of added expense from Currencycloud and Tink.
+
+Nominal operating expense growth will be around 1.5 points lower due to the stronger dollar. Our full year tax rate is expected to be in the 19% to 19.5% range. Despite the uncertainties caused by inflation, interest rates, the invasion of Ukraine and our exit from Russia we expect fiscal year '22 will be a very strong year of above trend top and bottom line growth.
+
+As we enter the post-COVID era we remain confident we can sustain a rate of growth about pre-COVID levels for all the reasons Al outlined which I will summarize again. First, an acceleration away from cash and check promotion payments for domestic and cross-border, as digitization becomes pervasive across consumers and businesses globally. Second, acceleration of cash, check and wire transfer displacement as our new flows initiatives penetrate a broad range of new use cases with very large total addressable markets. Third, sustainable high teens growth across value-added services, both from existing services and new offerings.
+
+As new flows and value-added services become a larger part of our revenue mix, growing faster than consumer payments the sustainable growth rate will continue to rise. We are, and will continue to invest in the capabilities required to capture the extraordinary growth opportunity ahead of us.
+
+With that, I'll turn this back to Jennifer.
+
+Jennifer Como{BIO 20121273 <GO>}
+Thanks, Vasant. And with that, we're ready to take questions, Jordan.
+
+Questions And Answers
+Operator
+(Operator Instructions) Our first question comes from Harshita Rawat from Bernstein. Your line is open.
+
+Q - Harshita Rawat{BIO 18652811 <GO>}
+Hi, good afternoon. Thanks for taking my question. Vasant, I want to ask about cross border. So had the pandemic not happened your cross border volumes would have been at least 20% to 30% above 2019 levels, if we just kind of go with historical run rates. Now clearly the travel recovery has been solid these past few months. My question is, how important is it that Asia, specifically China comes back for you to have cross border travel, not just going to 2019 levels, eventually kind of returning to the pre-pandemic percent of growth? Thanks.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yes, Harshita. That is a great question. As you know, two things, we told you on the last call have remained true. One that generally countries around the world want to keep borders open, China being one exception, and some restrictions in Japan, Korea and Taiwan. And I include Hong Kong also in that list. Other than that you can travel pretty freely anywhere else in the world. Some of them need tests some don't even need tests. So that's true.
+
+The second is the pent-up demand for travel remains very high. And early indications on summer bookings, et cetera, as you heard from other people have been very good. So in our sort of calculations, certainly we've been surprised so far, even though we were bullish with how fast things have recovered. As you saw after January the recovery has been very robust.
+
+At this point, we're pretty optimistic that inbound to the US, which is still indexing only at 70 as of the end of March -- as of the end of the second quarter is on a good recovery track. There is still some recovery left in and out of Europe. So those things will certainly help us get back to 2019 levels. And you're absolutely right, I think the how fast and how far we get to where we should have been pre-pandemic will depend on Asia coming back. Asia indexed at under 40 in the second quarter. China is an important part of Asia. It is still incredibly depressed. Japan, Korea and Taiwan are also important parts of Asian cross border travel.
+
+Asia is recovering. We're seeing some good trends in Asia. Certainly travel into parts of Asia like India, Thailand, Indonesia, et cetera, Australia and New Zealand are picking up fast. But you're right, I mean getting all the way to 130, it will depend on the remaining big travel components in Asia, which would be China, Japan and Korea, really coming back and we'll have to wait and see on that and we'll update you on the next call.
+
+Q - Harshita Rawat{BIO 18652811 <GO>}
+Thanks, very helpful.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Great. Next question, Jordan.
+
+Operator
+Our next question comes from Lisa Ellis from MoffettNathanson. Your line is open.
+
+Q - Lisa Ellis{BIO 18884048 <GO>}
+Hi, good afternoon. Thanks for taking my question. I had a follow-up question on commercial cards. I think you called out that your commercial card volumes are running at 138% of 2019 level. So pretty healthy growth there. Can you talk more broadly, I feel like this is maybe a piece of the business that doesn't get the attention it should, given how much cash and checks and wire and other forms of payment there still are in commercial. Can you maybe talk a little bit about the initiatives you've got underway to accelerate the digitization or the converting more of these B2B payments into cards? Thank you.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+Well, thank you, Lisa. The B2B segment it's about $122 trillion opportunity, of which $20 trillion is in the carded space and $10 trillion in the cross-border space. So in the carded space, we already are the largest provider of commercial card volume, and our focus has continued to be on growing the number of issuers that are issuing commercial cards because it's a lot less than the number of people issued consumer cards. And we're also very focused on the travel and fuel use cases. In addition to obviously purchasing cards and corporate cards, which are a more traditional element of this carded B2B space.
+
+We're also trying to continue to grow acceptance. There are acceptance gaps in the commercial space that hold us back from getting all the volume that we could potentially get where we are making strides, but there is still a ways to go in terms of having an acceptance footprint that mirrors the type of broad-based acceptance footprint that we have on the commercial side.
+
+It's a very important part of the business. It has attractive yields. It generally has the ability to -- It was growing faster than consumer prior to COVID and we believe that it can grow faster than consumer when we get back to a more normal time post the pandemic and obviously one big factor there will be the pace at which business travel returns.
+
+In the cross-border space, obviously our major thrust there is B2B Connect and our major focus on B2B Connect continues to be to grow out the network by having more and more banks in more and more countries involved in the network and that has been and continues to be our focus, more so than driving transactions at this point. Our belief is that once we get the network to a level where it is quite robust, the transaction flow will happen fairly quickly.
+
+So those are some of the things that we're focused on to try to drive this very, very important space, which I continue to believe is an enormous opportunity for us going forward.
+
+Q - Lisa Ellis{BIO 18884048 <GO>}
+Terrific, thank you.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Next question, Jordan.
+
+Operator
+Our next question comes from Tien-Tsin Huang from JP Morgan. Your line is open.
+
+Q - Tien-Tsin Huang{BIO 6065319 <GO>}
+Hey, thank you so much. Very strong broad based results. Just what I want to ask about with you fast hitting your revenue outlook, it looks like the client incentive plan is at the very low end of your expectations. So just want to make sure I understand the relative performance there between the two. Is that simple, is it simply that the upside in revenue brings with it very little incentive pressure or is it more complicated than that?
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+No, it's two things, Tien-Tsin, as I said in the comments. Number one, you saw that our cross-border recovery in the quarter was stronger than we expected. We did expect a good recovery, but this was stronger than we expected. That improves our mix, but even with the strong recovery, our mix of cross-border is still lower than it was pre-pandemic. So the mix effects the percentage. As you know the percentage is numerator and denominator. When cross border growth disproportionately, the denominator growth without a commensurate increase in the numerator, just given the nature of how many of our incentives look, and that helps that percentage. And that's why the percentage came at the lower end of the range.
+
+The second reason is that all these timing factors. Timing factors in terms of renewals, timing as in when we recognize incentive-linked to achieving certain milestones that contracts have, and that has pushed some of those incentives into the third quarter. So we expected third quarter to run above the upper end of the range, so to speak. For the full year we still expect to be in the range we gave you. So it's all driven by a combination of mix and timing.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+The only thing I would add, Tien-Tsin, you've followed us for a while, I mean there is art and science to this forecast. And it's a lot of times just dealing with the timing point that Vasant is talking about. We make vague assumptions about when deals will get done. We then make assumptions about how long it will take to get a deal launched or get a migration going. And then we make assumptions about the performance of that, if you a deal and the odds of us getting all of that right across hundreds of deals that happen during the course of the year, make this not the easiest thing to always forecast.
+
+But I think we do a largely, good job. But the explanation that Vasant gave about why we came in at the low end this quarter is those main two factors of timing and mix driven by outperformance across border.
+
+Q - Tien-Tsin Huang{BIO 6065319 <GO>}
+Yeah, no, I get it. And we've learned a lot observing that as we go. So thanks for walking through it.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+Thank you.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Next question, Jordan.
+
+Operator
+Our next question comes from Sanjay Sakhrani from KBW. Your line is open.
+
+Q - Sanjay Sakhrani{BIO 7390132 <GO>}
+Thanks. Vasant, you spoke to the 4 percentage point impact to second half from Russia. And obviously it seems like you're able to overcome some of that with the stronger cross border trends. Maybe you could just parse through a little bit of the impact to EPS and the flow through for us. I know there's some expenses that you mentioned that can offset Russia. Maybe just help us through that. Thank you.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Sure. So it is a 4 point revenue impact from Russia. So that's pretty much what the revenue impact would be. We give you a sense of what our revenue expectations are for the quarter in constant dollars, upper end of mid-teens. If it hadn't been for Russia you'd have added 4 points to that. So it's still strong despite that. And as you said, it's because the loss of Russia is offset to some degree by the cross-border business being stronger.
+
+We have a similar issue or similar impact on the expense side, mid-teens expense growth helped by Russian expenses going away. And there are two main Russian expenses that go away. We used to pay the processor in Russia for processing transactions. We no longer have to pay them. Obviously when you're in business you do marketing and provide a bunch of other services.
+
+Some of our personnel-related costs in Russia will remain. We've made some commitments to our employees in Russia about other roles. So those don't all go away. So that does reduce our expenses in the second half, probably in the range of about 2 to 3 points. On the other hand, we do have Tink and Currencycloud now, that are coming in, which were not there last year. And that's about 3 points. So it sort of washes and goes in the other direction.
+
+And then finally, exchange rates will help expenses to the tune of about 1.5 points. So those are all the moving parts. Our expenses would have been probably 2 to 3 points higher if Russia had not been -- if operations in Russia had not been suspended.
+
+Q - Sanjay Sakhrani{BIO 7390132 <GO>}
+Okay, great. And you probably get more flow-through from the cross-border outperformance, correct?
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Well partially mainly because the incentives that go with it tend to be lower and it's a higher yielding business. Yes.
+
+Q - Sanjay Sakhrani{BIO 7390132 <GO>}
+Okay, great. Thank you.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Next question, Jordan.
+
+Operator
+Our next question comes from Darrin Peller from Wolfe Research. Your line is open.
+
+Q - Darrin Peller{BIO 16385359 <GO>}
+Hey, thanks guys. Vasant, it's great to see your constant currency guidance increase for the full year despite what's obviously happening in Russia, Ukraine, and organic and to some degree with a small help from acquisitions. Just to be clear, we're still getting a follow-up from a couple of investors asking to make sure that includes the impact for the full year of Russia as well, right? And then, I just want to double check, I mean you guys continuously highlight the potential to exit the pandemic at an accelerated growth rate, and I'm sure it has a lot to do with the new flows and some of the new services opportunities you're seeing grow so well.
+
+Can you just reiterate on that and just go into a little more detail on what gives you the confidence there? What kind of growth rates you should be able to achieve?
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+I think the biggest thing Darrin for me is that we didn't take the last couple of years off in terms of going out and trying to convert business, sign FinTechs, increased our business with traditional partners. We also had predominantly grown our acceptance footprint in certain parts of the world. So these actions that we have taken that haven't -- you haven't seen the flow through, because of the fact that the pandemic has in many cases suppressed spending. But as I think we come out of the pandemic, you'll see the flow through of the various actions that we took.
+
+And then, I think the pandemic itself has accelerated people's usage of card not president in e-commerce and I think that's a sustaining model that's going to help drive growth on a going forward basis as well. So I think we're going to see ourselves taking advantage of that. And then certainly we have continued to add use cases to things like Visa Direct. We've continued to build out our risk and identity tools. We've continued to grow our Visa consulting service.
+
+So I think that my view is that the market hasn't seen the flow-through of a lot of the investments -- the full flow-through of a lot of the investments that we've made over the last 27 months or so when we've been operating in this kind of odd world, driven by the pandemic and I think that as we start to come into a more normal environment, I think you're going to see it. So that's the biggest factor. Vasant you want to address Darrin's first question on, I guess it was Russia.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yeah. Yes, Darrin. Our full year outlook incorporates the impact of Russia, in the second half. It reflects the fact that the second quarter was as strong as it was. So when you look at the first half and what growth we had in the first half, despite the impact of Russia on the second half in constant dollars we still expect to be in the high teens to 20%.
+
+Q - Darrin Peller{BIO 16385359 <GO>}
+Great, thanks a lot guys.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Great. Jordan, may we please have the next question?
+
+Operator
+Our next question comes from Ashwin Shirvaikar from Citi. Your line is open.
+
+Q - Ashwin Shirvaikar{BIO 5027189 <GO>}
+Thank you. Good evening guys, Al, Vasant, great quarter. I wanted to just shift gears away from cross border and ask about Tink, and how you intend to use Tink, grow it including both geographical growth and functional proliferation as it relates to debit Visa Direct broad payments functionality, things like that?
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+Well, thank you. Just as a reminder for everybody. I highlighted Tink in my remarks, but I didn't talk about the fact that we've got thousands of developers on the other side of the 3,400 banks that I did cite. And today it operates in 18 markets across Europe. Its revenue model is largely a per API call, although there are some subscription basis on some of its value-added services.
+
+Our goal is to position ourselves in the middle of open banking in the place in the world where it's most advanced, which is Europe. And we believe that our complementary capabilities will help drive adoption of Tink's capabilities and provide incremental value to clients. Clearly -- maybe not clearly but I'll make it clear our focus initially is going to be on Europe. That's where Tink is strong, that where it's got a large presence and that's where we can, we think that we could be additive in terms of driving their business forward.
+
+But certainly we anticipate and anticipated when we looked at Tink and made the decision to buy it that we will leverage its capabilities and extended their capabilities to other markets. But we want to make sure that our investment is focused. We never like to kind of peanut butter our investment across too many places at one time. So it's better we think to perfect our partnership together in the place where we both have strength, which is Europe and we'll go from there.
+
+Q - Ashwin Shirvaikar{BIO 5027189 <GO>}
+Thank you for that.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Great. Next question Jordan.
+
+Operator
+Our next question comes from Jason Kupferberg with Bank of America. Your line is open.
+
+Q - Jason Kupferberg{BIO 6867809 <GO>}
+Thank you, guys. So I was just curious for the quarter itself here in Q2, I think you would expected net revenue growth to be at the high end of high teens. Obviously that was before the war started. You ended up in the mid-20s. So I'm just curious in terms of order of magnitude like which revenue lines really surprised you the most to the upside, to what extent was inflation a meaningful contributor?
+
+And then, it sounded like maybe you pulled forward some Russia service revenues, I think Vasant, you made a comment there. Was hoping you could maybe quantify that piece as well. Thank you.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Sure. So the primary factors allowed the quarter to be stronger than we expected was clearly international revenue. And international revenues were not only stronger in terms of cross model volumes being stronger than we expected. The recovery was from 71 to about 94 indexed to '19 between the end of January and March, which was clearly very, very strong.
+
+So that definitely was one of the outperformers. Because of the war in Ukraine currency volatility was also high, and the fact that cross border business, helps volumes add in currency volatility and our treasury revenues were also higher than we expected. So those were two major contributors.
+
+And on the service line, as you know, we recognize service fees with a lag. In the case of Russia because operations were being suspended we were able to bill and collect revenues for the second quarter, through when we suspended operations and that added probably, it would be less than a point to revenue, maybe a little over half a point. So that did help. But other than that it was all driven by just strength across the board. Value-added services performed very well too.
+
+Q - Jason Kupferberg{BIO 6867809 <GO>}
+That's great color. Thank you.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Next question Jordan.
+
+Operator
+Our next question comes from Bob Napoli with William Blair. Your line is open.
+
+Q - Robert Napoli{BIO 1526298 <GO>}
+Thank you, and good afternoon. I mean, Visa has obviously been consistently active on the M&A front end, on venture investing. With valuations down, would we -- should we expect to see Visa being more active in both areas? And if so what areas, products, geographies, I guess verticals would be most attractive for Visa incrementally to add, to invest?
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+Well, Bob, I'll start and Vasant could add any color he wants. We still have a stated preference for whatever we can do ourselves to do it ourselves. That said, we have a very robust and qualified corporate development function that looks at all kinds of various possibilities, and we're in constant review of various lists to determine what might be of interest and what might not be of interest, where we can do it faster and get people who have unique skills that we might not have, and we could build it just much faster to building the capability ourselves, we'll certainly look to buy.
+
+And without getting too specific, I think that continuing to grow our toolbox, as it relates to new flows and value-added services and things that would help us do that would be certainly areas that would be attractive to us. Probably I don't want to say more than that at this at this point. The only other thing I'd say is that we're really not -- we don't really look to be an active venture investor.
+
+Many of our -- and most of our investments from things where we are following on a commercial agreement and often when we do a commercial agreement with a smaller player they ask us for us to endorsed them a bit by making a small investment, so they could add up to the roster of players that are investors in the company. But we're not out there speculating and looking for just venture investments where the vast majority of them, and Vasant can add or delete, almost 100% of them are because we've got a commercial deal in place first. That's the most important aspect to us. Vasant, anything you want to add?
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+No, I think what you will see in the future is more of what you've seen in the past. Acquisitions that can add to our capabilities like Tink did, like Currencycloud did. Expand the suite of services we can offer, which is what both Tink and Currencycloud do. Acquisitions where we decided faster or cheaper to buy than to build. In some cases, it could be acquisitions that expand the scope of an existing service like (inaudible) did with our pay outs business around the world.
+
+And yes, to the extent that the correction we've seen in public markets carries over to private markets over a period of time, certainly we expect to be more active and we have no specific objectives in terms of we're going to do x amount in acquisitions every year. It's going to be based on what makes sense to do and where we can create value.
+
+Q - Robert Napoli{BIO 1526298 <GO>}
+Thank you.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Next question, Jordan.
+
+Operator
+Our next question comes from Timothy Chiodo with Credit Suisse. Your line is open.
+
+Q - Timothy Chiodo{BIO 16128908 <GO>}
+Great, thanks a lot for taking the question. I want to touch on Visa Direct. Clearly, it's a much bigger but still fast-growing portion of your business. You talked a little bit about the growth this quarter and the Russia impact and you also mentioned it as the second largest geographic market. Maybe you could talk a little bit about that geographic mix and list maybe the other large markets. But more importantly, maybe the markets where there is a big opportunity?
+
+And the brief follow-up would be if you could just recap the mechanic around your ability to of course send to Visa credentials. But also, how does it work. When you want to send to a Mastercard credential and that capability? Thanks a lot.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+For competitive reasons. I'd be reluctant to get too into the weeds on this but obviously our biggest market is the United States. Russia was our second largest market. And then there is a number of markets across the world that are -- maybe a half dozen to tend, that are somewhat together in terms of size that they represent. And our focus at this stage is to A, build greater penetration of the use cases that we have today.
+
+Secondly, to develop new use cases. And thirdly to grow the geographic footprint of all of our use cases. And we have built up a team completely focused on Visa Direct. We do utilize our account executives around the world as our frontline sales agents. And then from there we'll bring in solution experts who know much more about the specifics of Visa Direct. But we're focused on -- basically, I talked about payouts and remittances. We're continuing to look at the ability to pay gig economy workers, which is a growing and hugely growing segment around the world.
+
+We're looking at global money movement use cases beyond the ones that I've talked about in P2P, which we've talked about before. We're looking at digitizing disbursements by replacing checks and slow ACH wherever we can around the world. The reality is that I think there are applications everywhere and
+
+One of our challenges, especially as we look to replace some of the volume from Russia is going to be determine where to invest versus having to find places doing that. There are plenty of places to invest, which is the great news. We're just going to have some work to do to figure out exactly where the hottest opportunities are to drive transaction growth for us as we look forward at various use cases.
+
+Q - Timothy Chiodo{BIO 16128908 <GO>}
+Excellent. Thank you. And would you able to help on that mechanical one around maybe the difference in terms of mechanics or economics when you send to a Mastercard credential?
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+Yeah, it's part of our network of networks approach. So we are network agnostic and acquisitions like YellowPepper and what we did with Earthport, all those -- the kinds of capabilities that allow us to send to any credential, including a bank account as part of we'll get your money there. And part of the way, may be on the rail that's not out.
+
+Q - Timothy Chiodo{BIO 16128908 <GO>}
+Great. Okay. Well, thank you for all the help and disclosure on Visa Direct. We appreciate it.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Great. Next question Jordan.
+
+Operator
+Our next question comes from James Faucette from Morgan Stanley. Your line is open.
+
+Q - James Faucette{BIO 3580933 <GO>}
+Thank you very much, I appreciate all the details and color. Wanted to -- gotten a few questions from investors just around the impact that inflation may be having. And A, can you help quantify maybe how that's benefiting Visa, but also and maybe more importantly, can you talk, if about if you're seeing any shift in spending behavior by consumers and that mix between discretionary and non-discretionary spend. And if that has any impact at all on how you are formulating your outlook. Thanks.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+So there are -- inflation adds some puts and takes on our business, service fees and international fees are basis points on volume. So inflation, typically list transaction size. But offsetting that incentives are also tied to volume, so there is some offset to that lift. Your fuel prices go up, but on the other hand, sometimes consumers tend to moderate their buying in times of large increases in gas to the degree that over time if it was to happen, the dollar was to weaken that increases inbound cross border flows and the US inbound corridor is one of our largest higher yielding corridors.
+
+Expenses for posted out marketing professional fees could go up, but I'd say two things and then ask Vasant to add anything he wants. So far we're not, as I said, and I think Vasant said in his remarks, we're really not seeing much impact that's causing us any concern in our numbers. And then the last thing I'd say net that historically inflation has been positive for us.
+
+A - Vasant Prabhu{BIO 1958035 <GO>}
+Yeah, just to add to what Al said. I mean, we clearly have seen -- we've seen ticket sizes go up in the US and particular in Europe, but it's not all inflation. Some of it is mix. It's mix-driven by the fact that the card present transactions, which often tend to be smaller transactions have not yet fully come back. It's mix also because ecommerce transactions even when you do everyday purchases can be larger ticket sizes.
+
+We could even see ticket sizes go down in inflationary times as card present comes back. So as I said, there is multiple impact from inflation. Net-net, it's a positive for us. We have not seen any impact on discretionary spending that we can discern. If anything discretionary spending especially from affluent consumers and credit cardholders has been going up quite healthily.
+
+So in general, there isn't any evident impact on inflation, but obviously we'll keep looking for it.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+James, I'll just share one quick data point with you. We recently looked at restaurant spending by various strata and the highest performing a strata in terms of growth is the $100 to $300 ticket price, and the second best performing strata was over $300. So that just gives you some sense that's very recent data of the affluent being back in the market and not afraid to spend, an important spend category.
+
+Q - James Faucette{BIO 3580933 <GO>}
+That's great. Thanks, Al. Thanks, Vasant.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Okay. And this will be our last question Jordan.
+
+Operator
+Our final question comes from Jamie Friedman with Susquehanna. Your line is open.
+
+Q - James Friedman{BIO 20091873 <GO>}
+Hi, thank you for sneaking me in. At this time, I may be misremembering this but my recollection was that you had contemplated returning to 90% travel index by September, I apologize if I got that wrong, you had -- you were going kind of quick with the updated assumptions. Can you repeat what you were contemplating now in terms of where travel would end the fiscal year? Thank you.
+
+A - Alfred F. Kelly{BIO 2121459 <GO>}
+Yeah. So we talk about cross border travel ex intra-Europe, and we are now expecting given where it ended the second quarter to be at, or about likely 2019 levels by the end of our fiscal year. And you're absolutely right. The last time we talked to you, we said we'd probably be around 90%. We are running better than we expected so far. So we have definitely raised our view of that.
+
+Now inclusive of intra-Europe that would put us above 2019 levels by the end of our fiscal year. So yeah, I think you got it right.
+
+Q - James Friedman{BIO 20091873 <GO>}
+Got it. Thank you.
+
+A - Jennifer Como{BIO 20121273 <GO>}
+Great. And with that, we'd like to thank you for joining us today. If you have additional questions, please feel free to call or email our Investor Relations team. Thanks again, and have a great day.
+
+Operator
+Thank you for your participation in today's conference. You may disconnect at this time.
